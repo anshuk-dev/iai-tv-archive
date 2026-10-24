@@ -3,73 +3,77 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IAI.tv Unpaywalled Archive &amp; Reader | 2,180 Articles</title>
-  <meta name="description" content="Complete unpaywalled archive and modern web reader of 2,180+ articles from The Institute of Art and Ideas (IAI.tv). Auto-updated every 6 hours.">
+  <title>IAI News | The latest big ideas &raquo; Unpaywalled Archive</title>
+  <meta name="description" content="Complete archive of 2,180+ articles from The Institute of Art and Ideas (IAI.tv).">
   
-  <!-- Fonts -->
+  <!-- Native Fonts: Georgia for editorial headlines and Inter for clean UI -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Charter:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   
   <!-- Markdown Parser -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <style>
     /* =========================================
-       CSS VARIABLES & THEMES
+       NATIVE IAI.TV DESIGN SYSTEM & PALETTE
        ========================================= */
     :root {
-      --bg: #f8fafc;
-      --card-bg: #ffffff;
-      --text: #0f172a;
-      --text-muted: #64748b;
-      --border: #e2e8f0;
-      --primary: #2563eb;
-      --primary-hover: #1d4ed8;
-      --primary-light: #eff6ff;
-      --accent: #d97706;
-      --tag-bg: #f1f5f9;
-      --tag-text: #475569;
-      --shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
-      --font-serif: 'Charter', Georgia, Cambria, serif;
-      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      --font-mono: 'JetBrains Mono', Courier, monospace;
+      /* IAI Signature Colors */
+      --iai-cyan: #099ed6;
+      --iai-cyan-hover: #0782b0;
+      --iai-black: #000000;
+      --iai-header-dark: #121212;
+      --iai-nav-dark: #1a1a1a;
+      --iai-gold: #fee400;
       
-      /* Active reader typography settings */
-      --reader-font: var(--font-serif);
-      --reader-size: 1.18rem;
-      --reader-leading: 1.85;
-      --reader-max-width: 780px;
+      /* Theme Defaults (Light / Native Editorial) */
+      --bg: #f5f5f7;
+      --card-bg: #ffffff;
+      --text-main: #141414;
+      --text-muted: #666666;
+      --border-color: #e5e5e5;
+      --border-dark: #2a2a2a;
+      --reader-bg: #ffffff;
+      --reader-text: #1a1a1a;
+      --quote-bg: #f8fafc;
+      --quote-border: #099ed6;
+      
+      /* Typography System */
+      --font-headline: 'Newsreader', Georgia, 'Times New Roman', serif;
+      --font-body: 'Newsreader', Georgia, Cambria, serif;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      
+      /* Reader Settings */
+      --reader-font-family: var(--font-body);
+      --reader-font-size: 1.18rem;
+      --reader-line-height: 1.8;
+      --reader-width: 820px;
     }
 
     [data-theme="dark"] {
-      --bg: #090d16;
-      --card-bg: #131926;
-      --text: #f1f5f9;
-      --text-muted: #94a3b8;
-      --border: #1e293b;
-      --primary: #3b82f6;
-      --primary-hover: #60a5fa;
-      --primary-light: #1e293b;
-      --accent: #fbbf24;
-      --tag-bg: #1e293b;
-      --tag-text: #cbd5e1;
-      --shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+      --bg: #0a0a0c;
+      --card-bg: #141418;
+      --text-main: #f0f0f3;
+      --text-muted: #9e9ea8;
+      --border-color: #24242c;
+      --reader-bg: #141418;
+      --reader-text: #ececf1;
+      --quote-bg: #1a1a22;
+      --quote-border: #099ed6;
     }
 
     [data-theme="sepia"] {
-      --bg: #fbf0d9;
-      --card-bg: #f4e5c8;
-      --text: #2c2114;
-      --text-muted: #79664f;
-      --border: #e4ceaa;
-      --primary: #854d0e;
-      --primary-hover: #713f12;
-      --primary-light: #fef3c7;
-      --accent: #b45309;
-      --tag-bg: #eed8b6;
-      --tag-text: #4a3821;
-      --shadow: 0 4px 14px rgba(78, 52, 21, 0.08);
+      --bg: #f7f1e5;
+      --card-bg: #efe8d8;
+      --text-main: #2b2216;
+      --text-muted: #786751;
+      --border-color: #ded3bf;
+      --reader-bg: #fcf6eb;
+      --reader-text: #2b2216;
+      --quote-bg: #f4ecdc;
+      --quote-border: #a16207;
     }
 
     * {
@@ -81,588 +85,664 @@
     body {
       font-family: var(--font-sans);
       background-color: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-      transition: background-color 0.25s ease, color 0.25s ease;
+      color: var(--text-main);
+      line-height: 1.5;
       min-height: 100vh;
       display: flex;
       flex-direction: column;
+      transition: background-color 0.2s, color 0.2s;
     }
 
-    /* Reading Progress Bar */
-    #readingProgressBar {
+    /* Top Reading Progress Bar */
+    #progressBar {
       position: fixed;
       top: 0;
       left: 0;
-      height: 4px;
-      background: var(--primary);
+      height: 3px;
+      background: var(--iai-cyan);
       width: 0%;
-      z-index: 1000;
-      transition: width 0.1s ease-out;
+      z-index: 10000;
+      transition: width 0.1s;
     }
 
-    /* Header */
-    header {
-      background: var(--card-bg);
-      border-bottom: 1px solid var(--border);
+    /* =========================================
+       NATIVE IAI.TV 3-TIER HEADER
+       ========================================= */
+    header.iai-native-header {
+      background: var(--iai-black);
+      color: #ffffff;
+      width: 100%;
       position: sticky;
       top: 0;
-      z-index: 900;
-      backdrop-filter: blur(12px);
+      z-index: 1000;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
     }
 
-    .header-container {
-      max-width: 1200px;
+    /* 1. Top Channels Bar */
+    .iai-header-top {
+      background: #0d0d0d;
+      border-bottom: 1px solid #1f1f1f;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+
+    .header-top-inner {
+      max-width: 1320px;
       margin: 0 auto;
-      padding: 0.85rem 1.5rem;
+      padding: 0 1.5rem;
       display: flex;
       justify-content: space-between;
+      align-items: center;
+      height: 34px;
+    }
+
+    .channel-links {
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+    }
+
+    .channel-links a {
+      color: #888888;
+      text-decoration: none;
+      transition: color 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .channel-links a:hover, .channel-links a.active {
+      color: #ffffff;
+    }
+
+    .channel-links a.active {
+      color: var(--iai-cyan);
+    }
+
+    .header-top-right {
+      display: flex;
       align-items: center;
       gap: 1rem;
     }
 
-    .brand {
+    .privacy-tag {
+      background: #222222;
+      color: #10b981;
+      font-size: 10px;
+      padding: 2px 7px;
+      border-radius: 3px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+    }
+
+    /* 2. Middle Brand Bar */
+    .iai-header-middle {
+      background: #000000;
+      padding: 0.85rem 0;
+      border-bottom: 1px solid #1a1a1a;
+    }
+
+    .header-middle-inner {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .brand-group {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    /* Signature iai Logo */
+    .logo-iai-text {
+      font-family: var(--font-sans);
+      font-size: 2.2rem;
+      font-weight: 900;
+      color: #ffffff;
+      line-height: 1;
+      letter-spacing: -1.5px;
+    }
+
+    .logo-news-badge {
+      color: var(--iai-cyan);
+      font-size: 1.45rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+
+    .strapline-text {
+      font-size: 9.5px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #777777;
+      font-weight: 600;
+      display: none;
+    }
+
+    @media (min-width: 860px) {
+      .strapline-text { display: block; }
+    }
+
+    /* Header Controls */
+    .header-controls {
       display: flex;
       align-items: center;
       gap: 0.75rem;
-      text-decoration: none;
-      color: var(--text);
-      cursor: pointer;
     }
 
-    .logo-badge {
-      background: var(--primary);
-      color: white;
-      font-weight: 800;
-      font-size: 0.85rem;
-      padding: 0.35rem 0.65rem;
+    /* Theme Selector Buttons */
+    .theme-switcher-box {
+      display: flex;
+      background: #141414;
+      border: 1px solid #292929;
       border-radius: 6px;
-      letter-spacing: 0.5px;
-    }
-
-    .brand h1 {
-      font-size: 1.15rem;
-      font-weight: 700;
-      letter-spacing: -0.3px;
-    }
-
-    .brand span.subtitle {
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      font-weight: 400;
-      display: block;
-    }
-
-    .nav-actions {
-      display: flex;
-      align-items: center;
-      gap: 0.6rem;
-    }
-
-    .theme-picker {
-      display: flex;
-      background: var(--tag-bg);
-      border: 1px solid var(--border);
-      border-radius: 8px;
       padding: 2px;
       gap: 2px;
     }
 
-    .theme-btn {
+    .theme-tab {
       background: transparent;
       border: none;
-      color: var(--text-muted);
-      padding: 0.35rem 0.65rem;
-      border-radius: 6px;
-      font-size: 0.82rem;
+      color: #888888;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 4px;
       cursor: pointer;
-      font-weight: 500;
       transition: all 0.2s;
     }
 
-    .theme-btn.active {
-      background: var(--card-bg);
-      color: var(--primary);
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    .theme-tab:hover { color: #ffffff; }
+
+    .theme-tab.active {
+      background: #242424;
+      color: var(--iai-cyan);
     }
 
-    .btn-github {
-      background: var(--tag-bg);
-      color: var(--text);
-      border: 1px solid var(--border);
-      padding: 0.45rem 0.85rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 0.4rem;
-      text-decoration: none;
-      transition: all 0.2s ease;
+    /* 3. Bottom Category Navigation */
+    .iai-header-bottom {
+      background: #141414;
+      border-bottom: 2px solid var(--iai-cyan);
     }
 
-    .btn-github:hover {
-      background: var(--primary-light);
-      border-color: var(--primary);
-      color: var(--primary);
-    }
-
-    /* Main Container */
-    main {
-      flex: 1;
-      max-width: 1200px;
-      width: 100%;
+    .header-bottom-inner {
+      max-width: 1320px;
       margin: 0 auto;
-      padding: 1.5rem;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .header-bottom-inner::-webkit-scrollbar { display: none; }
+
+    .nav-categories {
+      display: flex;
+      list-style: none;
+      white-space: nowrap;
     }
 
-    /* Controls Panel */
-    .controls-panel {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 1.25rem;
-      margin-bottom: 1.75rem;
-      box-shadow: var(--shadow);
+    .nav-cat-item {
+      border-right: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-cat-link {
+      display: block;
+      color: #dddddd;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      padding: 10px 18px;
+      transition: color 0.15s, background-color 0.15s;
+    }
+
+    .nav-cat-link:hover, .nav-cat-link.active {
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.06);
+    }
+
+    .nav-cat-link.active {
+      color: var(--iai-cyan);
+      box-shadow: inset 0 -3px 0 var(--iai-cyan);
+    }
+
+    .nav-cat-link.new-pill {
+      color: #10b981;
+    }
+
+    /* =========================================
+       HERO & SEARCH SECTION (NATIVE STYLE)
+       ========================================= */
+    .iai-hero-banner {
+      background: #000000;
+      color: #ffffff;
+      padding: 2.25rem 1.5rem;
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 2rem;
+    }
+
+    .hero-container {
+      max-width: 1200px;
+      margin: 0 auto;
       display: flex;
       flex-direction: column;
-      gap: 1rem;
+      gap: 1.25rem;
     }
 
-    .search-box-wrapper {
-      position: relative;
+    .hero-heading {
+      font-family: var(--font-headline);
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      line-height: 1.2;
+    }
+
+    .hero-subhead {
+      font-size: 1.05rem;
+      color: #999999;
+      max-width: 720px;
+    }
+
+    /* Native Search Bar */
+    .native-search-bar {
       display: flex;
-      align-items: center;
-    }
-
-    .search-icon {
-      position: absolute;
-      left: 1rem;
-      color: var(--text-muted);
-      pointer-events: none;
-    }
-
-    .search-input {
+      position: relative;
+      max-width: 680px;
       width: 100%;
-      padding: 0.85rem 2.8rem 0.85rem 2.8rem;
-      font-size: 1rem;
-      border: 1.5px solid var(--border);
-      border-radius: 10px;
-      background: var(--bg);
-      color: var(--text);
+      margin-top: 0.5rem;
+    }
+
+    .native-search-input {
+      width: 100%;
+      background: #141414;
+      border: 1.5px solid #2e2e2e;
+      color: #ffffff;
+      padding: 0.85rem 3rem 0.85rem 1.2rem;
+      font-size: 0.95rem;
+      border-radius: 6px;
       outline: none;
       transition: border-color 0.2s, box-shadow 0.2s;
     }
 
-    .search-input:focus {
-      border-color: var(--primary);
-      box-shadow: 0 0 0 3px var(--primary-light);
+    .native-search-input:focus {
+      border-color: var(--iai-cyan);
+      box-shadow: 0 0 0 3px rgba(9, 158, 214, 0.25);
     }
 
-    .clear-search-btn {
+    .native-search-clear {
       position: absolute;
       right: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
       background: transparent;
       border: none;
-      color: var(--text-muted);
-      font-size: 1.1rem;
+      color: #777777;
+      font-size: 1.2rem;
       cursor: pointer;
       display: none;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
     }
 
-    .clear-search-btn:hover {
-      color: var(--text);
+    .native-search-clear:hover { color: #ffffff; }
+
+    /* Main Container */
+    main.iai-main {
+      max-width: 1240px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 0 1.5rem 3rem;
+      flex: 1;
     }
 
-    /* Filter Pills */
-    .filter-pills-row {
-      display: flex;
-      gap: 0.5rem;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .pill-btn {
-      background: var(--tag-bg);
-      color: var(--tag-text);
-      border: 1px solid var(--border);
-      padding: 0.35rem 0.75rem;
-      border-radius: 20px;
-      font-size: 0.82rem;
-      cursor: pointer;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-
-    .pill-btn:hover {
-      border-color: var(--primary);
-      color: var(--primary);
-    }
-
-    .pill-btn.active {
-      background: var(--primary);
-      color: white;
-      border-color: var(--primary);
-    }
-
-    .filter-secondary-row {
+    /* Results Header */
+    .results-bar {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-color);
       flex-wrap: wrap;
       gap: 0.75rem;
-      padding-top: 0.5rem;
-      border-top: 1px solid var(--border);
     }
 
-    .select-dropdown {
-      padding: 0.5rem 0.85rem;
-      font-size: 0.85rem;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      background: var(--bg);
-      color: var(--text);
-      outline: none;
-      cursor: pointer;
-    }
-
-    .stats-badge {
-      font-size: 0.85rem;
-      color: var(--text-muted);
-      font-weight: 500;
-    }
-
-    /* Articles Grid */
-    .articles-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-      gap: 1.5rem;
-      margin-bottom: 2rem;
-    }
-
-    .article-card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.35rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      box-shadow: var(--shadow);
-      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-      cursor: pointer;
-      position: relative;
-    }
-
-    .article-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
-      border-color: var(--primary);
-    }
-
-    .new-ribbon {
-      position: absolute;
-      top: 1rem;
-      right: 1rem;
-      background: #10b981;
-      color: white;
-      font-size: 0.68rem;
+    .results-counter {
+      font-size: 0.9rem;
       font-weight: 700;
-      padding: 0.2rem 0.5rem;
-      border-radius: 4px;
+      color: var(--text-muted);
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
 
-    .card-meta-top {
+    .sort-control {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 0.4rem 0.75rem;
+      border-radius: 4px;
+      font-size: 0.82rem;
+      outline: none;
+      cursor: pointer;
+    }
+
+    /* =========================================
+       NATIVE ARTICLE CARDS GRID
+       ========================================= */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.75rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .iai-news-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
       display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .iai-news-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+      border-color: var(--iai-cyan);
+    }
+
+    .card-content-wrap {
+      padding: 1.4rem;
+    }
+
+    .card-category-tag {
+      color: var(--iai-cyan);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 0.5rem;
+      display: flex;
+      justify-content: space-between;
       align-items: center;
-      gap: 0.6rem;
-      margin-bottom: 0.65rem;
+    }
+
+    .card-new-badge {
+      background: #10b981;
+      color: white;
+      font-size: 9px;
+      font-weight: 800;
+      padding: 2px 6px;
+      border-radius: 3px;
+      letter-spacing: 0.5px;
+    }
+
+    .card-headline {
+      font-family: var(--font-headline);
+      font-size: 1.35rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 0.75rem;
+      color: var(--text-main);
+    }
+
+    .card-byline {
+      font-size: 0.85rem;
+      color: var(--text-main);
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-footer-meta {
+      padding: 0.85rem 1.4rem;
+      border-top: 1px solid var(--border-color);
+      background: rgba(0,0,0,0.02);
       font-size: 0.78rem;
       color: var(--text-muted);
-    }
-
-    .card-id {
-      font-family: var(--font-mono);
-      font-weight: 600;
-      color: var(--primary);
-    }
-
-    .card-title {
-      font-size: 1.15rem;
-      font-weight: 700;
-      line-height: 1.35;
-      margin-bottom: 0.65rem;
-      color: var(--text);
-    }
-
-    .card-author {
-      font-size: 0.85rem;
-      color: var(--text);
-      font-weight: 600;
-      margin-bottom: 0.65rem;
-    }
-
-    .card-themes {
       display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-      margin-top: auto;
-      padding-top: 0.85rem;
-    }
-
-    .badge-theme {
-      background: var(--tag-bg);
-      color: var(--tag-text);
-      font-size: 0.72rem;
-      padding: 0.2rem 0.55rem;
-      border-radius: 5px;
-      font-weight: 500;
+      justify-content: space-between;
+      align-items: center;
     }
 
     /* Pagination */
-    .pagination {
+    .pagination-bar {
       display: flex;
       justify-content: center;
-      align-items: center;
-      gap: 0.5rem;
+      gap: 0.4rem;
       margin: 2rem 0;
       flex-wrap: wrap;
     }
 
-    .btn-page {
+    .page-btn {
       background: var(--card-bg);
-      color: var(--text);
-      border: 1px solid var(--border);
-      padding: 0.5rem 0.85rem;
-      border-radius: 6px;
+      color: var(--text-main);
+      border: 1px solid var(--border-color);
+      padding: 0.45rem 0.85rem;
       font-size: 0.85rem;
       cursor: pointer;
-      transition: all 0.2s ease;
+      border-radius: 4px;
+      transition: all 0.15s;
     }
 
-    .btn-page.active {
-      background: var(--primary);
-      color: white;
-      border-color: var(--primary);
+    .page-btn:hover:not(:disabled) {
+      border-color: var(--iai-cyan);
+      color: var(--iai-cyan);
     }
 
-    .btn-page:hover:not(:disabled) {
-      border-color: var(--primary);
-      color: var(--primary);
+    .page-btn.active {
+      background: var(--iai-cyan);
+      color: #ffffff;
+      border-color: var(--iai-cyan);
     }
 
-    .btn-page:disabled {
-      opacity: 0.4;
-      cursor: not-allowed;
-    }
+    .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
     /* =========================================
-       READER VIEW WITH FULL TYPOGRAPHY CONTROLS
+       NATIVE IAI.TV ARTICLE READER VIEW
        ========================================= */
-    .reader-container {
+    .reader-article-page {
       display: none;
-      max-width: var(--reader-max-width);
+      max-width: var(--reader-width);
       margin: 0 auto;
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 2.5rem 3.5rem;
-      box-shadow: var(--shadow);
-      transition: max-width 0.2s ease;
+      background: var(--reader-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      padding: 2.75rem 3.5rem;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+      transition: max-width 0.2s;
     }
 
-    .reader-top-bar {
+    /* Reader Sticky Control Toolbar */
+    .reader-sticky-toolbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
       padding-bottom: 1.25rem;
       margin-bottom: 2rem;
-      border-bottom: 1px solid var(--border);
+      border-bottom: 1px solid var(--border-color);
       flex-wrap: wrap;
       gap: 1rem;
     }
 
-    .btn-back {
-      background: var(--primary-light);
-      color: var(--primary);
-      border: 1px solid var(--primary);
+    .btn-return {
+      background: var(--iai-black);
+      color: #ffffff;
+      border: none;
       padding: 0.5rem 1rem;
-      border-radius: 8px;
-      font-weight: 600;
-      font-size: 0.85rem;
+      border-radius: 4px;
+      font-size: 0.82rem;
+      font-weight: 700;
       cursor: pointer;
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-    }
-
-    .btn-back:hover {
-      background: var(--primary);
-      color: white;
-    }
-
-    /* Typography Toolbar */
-    .typography-controls-wrapper {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      background: var(--tag-bg);
-      padding: 0.4rem 0.75rem;
-      border-radius: 10px;
-      border: 1px solid var(--border);
-    }
-
-    .control-label {
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
 
-    .font-family-select, .line-height-select, .width-select {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      color: var(--text);
-      font-size: 0.82rem;
+    .btn-return:hover { background: var(--iai-cyan); }
+
+    .typography-toolbar {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      background: var(--bg);
+      border: 1px solid var(--border-color);
       padding: 0.3rem 0.6rem;
       border-radius: 6px;
+    }
+
+    .typo-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      text-transform: uppercase;
+    }
+
+    .typo-select {
+      background: var(--card-bg);
+      color: var(--text-main);
+      border: 1px solid var(--border-color);
+      font-size: 0.8rem;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
       cursor: pointer;
       outline: none;
     }
 
-    .size-btn-group {
-      display: flex;
-      align-items: center;
-      gap: 0.3rem;
+    .typo-btn {
       background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 0.15rem 0.35rem;
-    }
-
-    .font-size-btn {
-      background: transparent;
-      border: none;
-      color: var(--text);
-      font-size: 0.9rem;
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      font-size: 0.85rem;
       font-weight: 700;
-      cursor: pointer;
-      padding: 0.2rem 0.4rem;
+      padding: 0.2rem 0.5rem;
       border-radius: 4px;
+      cursor: pointer;
     }
 
-    .font-size-btn:hover {
-      background: var(--tag-bg);
-    }
+    .typo-btn:hover { border-color: var(--iai-cyan); color: var(--iai-cyan); }
 
-    .font-size-indicator {
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      min-width: 42px;
-      text-align: center;
-    }
-
-    .reader-header {
+    /* Native Article Header Layout */
+    .iai-article-header {
       margin-bottom: 2rem;
     }
 
-    .reader-title {
-      font-family: var(--font-sans);
-      font-size: 2.35rem;
+    .iai-article-category {
+      color: var(--iai-cyan);
+      font-size: 12px;
       font-weight: 800;
-      line-height: 1.25;
-      margin-bottom: 1rem;
-      letter-spacing: -0.5px;
-      color: var(--text);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-bottom: 0.75rem;
     }
 
-    .reader-subtitle {
-      font-family: var(--reader-font);
+    .iai-article-heading {
+      font-family: var(--font-headline);
+      font-size: 2.6rem;
+      font-weight: 700;
+      line-height: 1.2;
+      color: var(--text-main);
+      margin-bottom: 1rem;
+      letter-spacing: -0.5px;
+    }
+
+    .iai-article-subheading {
+      font-family: var(--font-body);
       font-size: 1.25rem;
       font-style: italic;
       color: var(--text-muted);
-      margin-bottom: 1.35rem;
       line-height: 1.45;
+      margin-bottom: 1.5rem;
     }
 
-    .reader-meta-bar {
+    .iai-article-meta-box {
       display: flex;
-      flex-wrap: wrap;
+      align-items: center;
       gap: 1rem;
-      font-size: 0.88rem;
-      color: var(--text-muted);
-      padding-bottom: 1.5rem;
-      border-bottom: 1px solid var(--border);
+      padding: 1rem 0;
+      border-top: 1px solid var(--border-color);
+      border-bottom: 1px solid var(--border-color);
       margin-bottom: 2rem;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      flex-wrap: wrap;
     }
 
-    .reader-meta-bar strong {
-      color: var(--text);
+    .iai-article-meta-box strong {
+      color: var(--text-main);
     }
 
-    .reader-hero-img {
+    .iai-feature-image {
       width: 100%;
       max-height: 480px;
       object-fit: cover;
-      border-radius: 12px;
+      border-radius: 4px;
       margin-bottom: 2.5rem;
-      box-shadow: var(--shadow);
     }
 
-    .reader-content {
-      font-family: var(--reader-font);
-      font-size: var(--reader-size);
-      line-height: var(--reader-leading);
-      color: var(--text);
+    /* Native Article Body */
+    .iai-article-body {
+      font-family: var(--reader-font-family);
+      font-size: var(--reader-font-size);
+      line-height: var(--reader-line-height);
+      color: var(--reader-text);
       word-break: break-word;
     }
 
-    .reader-content p {
-      margin-bottom: 1.55rem;
+    .iai-article-body p {
+      margin-bottom: 1.6rem;
     }
 
-    .reader-content h2, .reader-content h3, .reader-content h4 {
-      font-family: var(--font-sans);
-      margin-top: 2.25rem;
+    .iai-article-body h2, .iai-article-body h3 {
+      font-family: var(--font-headline);
+      font-weight: 700;
+      margin-top: 2.4rem;
       margin-bottom: 1rem;
       line-height: 1.3;
-      color: var(--text);
+      color: var(--text-main);
     }
 
-    .reader-content h2 { font-size: 1.6rem; border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
-    .reader-content h3 { font-size: 1.35rem; }
+    .iai-article-body h2 { font-size: 1.7rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem; }
+    .iai-article-body h3 { font-size: 1.35rem; }
 
-    .reader-content blockquote {
-      border-left: 4px solid var(--primary);
-      padding: 0.85rem 1.35rem;
+    .iai-article-body blockquote {
+      border-left: 4px solid var(--quote-border);
+      background: var(--quote-bg);
+      padding: 1rem 1.4rem;
       margin: 1.75rem 0;
-      background: var(--tag-bg);
-      border-radius: 0 8px 8px 0;
       font-style: italic;
+      color: var(--text-main);
     }
 
-    .reader-content a {
-      color: var(--primary);
+    .iai-article-body a {
+      color: var(--iai-cyan);
       text-decoration: underline;
     }
 
-    .reader-content img {
+    .iai-article-body img {
       max-width: 100%;
       height: auto;
-      border-radius: 8px;
       margin: 1.75rem 0;
+      border-radius: 4px;
     }
 
-    .reader-footer {
+    .reader-bottom-nav {
       margin-top: 3.5rem;
       padding-top: 1.5rem;
-      border-top: 1px solid var(--border);
+      border-top: 1px solid var(--border-color);
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -670,226 +750,205 @@
       gap: 1rem;
     }
 
-    .original-link {
-      color: var(--primary);
-      font-size: 0.9rem;
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    .original-link:hover {
-      text-decoration: underline;
-    }
-
-    /* Loading Spinner */
-    .loading-state {
-      text-align: center;
-      padding: 4rem 1rem;
-      color: var(--text-muted);
-    }
-
-    .spinner {
-      border: 3px solid var(--border);
-      border-top: 3px solid var(--primary);
-      border-radius: 50%;
-      width: 36px;
-      height: 36px;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 1rem;
-    }
-
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-
     /* Footer */
-    footer {
-      background: var(--card-bg);
-      border-top: 1px solid var(--border);
-      padding: 1.5rem;
+    footer.iai-native-footer {
+      background: #000000;
+      color: #888888;
+      border-top: 1px solid #1f1f1f;
+      padding: 2.5rem 1.5rem;
       text-align: center;
       font-size: 0.85rem;
-      color: var(--text-muted);
       margin-top: auto;
     }
 
+    footer .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
     @media (max-width: 768px) {
-      .reader-container {
+      .reader-article-page {
         padding: 1.5rem;
       }
-      .reader-title {
-        font-size: 1.8rem;
+      .iai-article-heading {
+        font-size: 1.9rem;
       }
       .articles-grid {
         grid-template-columns: 1fr;
-      }
-      .typography-controls-wrapper {
-        width: 100%;
-        justify-content: space-between;
       }
     }
   </style>
 </head>
 <body>
 
-  <!-- Top Scroll Progress Bar -->
-  <div id="readingProgressBar"></div>
+  <!-- Reading Progress Bar -->
+  <div id="progressBar"></div>
 
-  <!-- Header -->
-  <header>
-    <div class="header-container">
-      <div class="brand" onclick="goHome()">
-        <span class="logo-badge">IAI.TV</span>
-        <div>
-          <h1>Archive &amp; Reader</h1>
-          <span class="subtitle">2,180 Articles &bull; Auto-Sync Every 6h</span>
+  <!-- Native IAI.tv Header -->
+  <header class="iai-native-header">
+    
+    <!-- 1. Top Channel Strip -->
+    <div class="iai-header-top">
+      <div class="header-top-inner">
+        <ul class="channel-links">
+          <li><a href="javascript:void(0)" onclick="goHome()">iai Player</a></li>
+          <li><a href="javascript:void(0)" onclick="goHome()" class="active">iai News</a></li>
+          <li><a href="javascript:void(0)" onclick="goHome()">iai Live</a></li>
+          <li><a href="javascript:void(0)" onclick="goHome()">iai Academy</a></li>
+          <li><a href="javascript:void(0)" onclick="goHome()">iai Podcast</a></li>
+        </ul>
+        <div class="header-top-right">
+          <span class="privacy-tag">🔒 Private Archive</span>
+          <span>2,180 Posts</span>
         </div>
-      </div>
-      <div class="nav-actions">
-        <!-- 3-Way Theme Switcher -->
-        <div class="theme-picker">
-          <button class="theme-btn" id="themeBtnLight" onclick="setTheme('light')" title="Light Theme">☀️ Light</button>
-          <button class="theme-btn" id="themeBtnSepia" onclick="setTheme('sepia')" title="Warm Sepia Paper">📜 Sepia</button>
-          <button class="theme-btn" id="themeBtnDark" onclick="setTheme('dark')" title="Dark Mode">🌙 Dark</button>
-        </div>
-
-        <a href="https://github.com/anshuk-dev/iai-tv-archive" target="_blank" class="btn-github">
-          <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor">
-            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
-          </svg>
-          Repo
-        </a>
       </div>
     </div>
+
+    <!-- 2. Middle Brand Bar -->
+    <div class="iai-header-middle">
+      <div class="header-middle-inner">
+        <div class="brand-group" onclick="goHome()">
+          <span class="logo-iai-text">iai</span>
+          <span class="logo-news-badge">news</span>
+          <span class="strapline-text">The Institute of Art and Ideas</span>
+        </div>
+
+        <div class="header-controls">
+          <!-- 3 Theme Modes -->
+          <div class="theme-switcher-box">
+            <button class="theme-tab" id="themeLight" onclick="setTheme('light')" title="Light Mode">Light</button>
+            <button class="theme-tab" id="themeSepia" onclick="setTheme('sepia')" title="Sepia Paper">Sepia</button>
+            <button class="theme-tab" id="themeDark" onclick="setTheme('dark')" title="Dark Mode">Dark</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. Bottom Category Navigation (Native IAI style) -->
+    <nav class="iai-header-bottom">
+      <div class="header-bottom-inner">
+        <ul class="nav-categories" id="navCategoryList">
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link active" onclick="setCategoryFilter('all', this)">All Articles</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link new-pill" onclick="setCategoryFilter('new', this)" id="navCatNew">🆕 New Articles (<span id="newCountLabel">0</span>)</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Philosophy', this)">Philosophy</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Science', this)">Science</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Politics', this)">Politics</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Arts & Culture', this)">Arts &amp; Culture</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Mind & Reason', this)">Mind &amp; Reason</a></li>
+          <li class="nav-cat-item"><a href="javascript:void(0)" class="nav-cat-link" onclick="setCategoryFilter('Ethics & Religion', this)">Ethics &amp; Religion</a></li>
+        </ul>
+      </div>
+    </nav>
   </header>
 
-  <main>
-    <!-- Catalog View -->
+  <!-- Hero & Search (Shown on Catalog View) -->
+  <div class="iai-hero-banner" id="heroBanner">
+    <div class="hero-container">
+      <h1 class="hero-heading">The latest big ideas from the world's leading thinkers</h1>
+      <p class="hero-subhead">Explore 2,180 complete unpaywalled essays and debates in philosophy, science, politics, and culture.</p>
+      
+      <div class="native-search-bar">
+        <input 
+          type="text" 
+          id="nativeSearchInput" 
+          class="native-search-input" 
+          placeholder="Search by article title, philosopher, scientist, theme..."
+          oninput="onSearchInput()"
+        />
+        <button id="searchClearBtn" class="native-search-clear" onclick="clearSearch()" title="Clear Search">&times;</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="iai-main">
+    
+    <!-- CATALOG VIEW -->
     <div id="catalogView">
-      <div class="controls-panel">
-        
-        <!-- Search Input with Clear Button -->
-        <div class="search-box-wrapper">
-          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <circle cx="11" cy="11" r="8"></circle>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-          </svg>
-          <input 
-            type="text" 
-            id="searchInput" 
-            class="search-input" 
-            placeholder="Search 2,180 articles by title, author, themes, or keyword..."
-            oninput="onSearchInput()"
-          />
-          <button id="clearSearchBtn" class="clear-search-btn" onclick="clearSearch()" title="Clear Search">&times;</button>
-        </div>
-
-        <!-- Quick Filter Pills -->
-        <div class="filter-pills-row" id="quickPills">
-          <button class="pill-btn active" onclick="setQuickFilter('all', this)">All Articles</button>
-          <button class="pill-btn" onclick="setQuickFilter('new', this)" id="pillNew">🆕 New Articles (<span id="newCount">0</span>)</button>
-          <button class="pill-btn" onclick="setQuickFilter('Philosophy', this)">Philosophy</button>
-          <button class="pill-btn" onclick="setQuickFilter('Science', this)">Science</button>
-          <button class="pill-btn" onclick="setQuickFilter('Mind & Reason', this)">Mind &amp; Reason</button>
-          <button class="pill-btn" onclick="setQuickFilter('Arts & Culture', this)">Arts &amp; Culture</button>
-          <button class="pill-btn" onclick="setQuickFilter('Politics', this)">Politics</button>
-        </div>
-
-        <!-- Sort and Theme Dropdowns -->
-        <div class="filter-secondary-row">
-          <div style="display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap;">
-            <select id="themeSelect" class="select-dropdown" onchange="applyFilterAndRender()">
-              <option value="">All Categories &amp; Themes</option>
-            </select>
-            <select id="sortSelect" class="select-dropdown" onchange="applyFilterAndRender()">
-              <option value="newest">Newest First</option>
-              <option value="oldest">Oldest First</option>
-              <option value="alpha">Title (A - Z)</option>
-              <option value="author">Author (A - Z)</option>
-            </select>
-          </div>
-          <div class="stats-badge" id="statsText">Loading archive index...</div>
+      <div class="results-bar">
+        <span class="results-counter" id="resultsCount">Loading articles...</span>
+        <div>
+          <select id="sortControl" class="sort-control" onchange="applyFilterAndRender()">
+            <option value="newest">Sort: Newest First</option>
+            <option value="oldest">Sort: Oldest First</option>
+            <option value="alpha">Sort: Title (A - Z)</option>
+            <option value="author">Sort: Author (A - Z)</option>
+          </select>
         </div>
       </div>
 
-      <!-- Articles Grid -->
       <div id="articlesGrid" class="articles-grid">
-        <div class="loading-state">
-          <div class="spinner"></div>
-          <p>Loading 2,180 articles from database...</p>
+        <div style="text-align:center; padding:3rem; grid-column:1/-1; color:var(--text-muted);">
+          Loading articles index...
         </div>
       </div>
 
-      <!-- Pagination -->
-      <div id="pagination" class="pagination"></div>
+      <div id="paginationBar" class="pagination-bar"></div>
     </div>
 
-    <!-- Reader View -->
-    <div id="readerView" class="reader-container">
+    <!-- NATIVE IAI.TV ARTICLE READER VIEW -->
+    <article id="readerView" class="reader-article-page">
       
-      <!-- Top Bar: Back Button & Typography Controls -->
-      <div class="reader-top-bar">
-        <button class="btn-back" onclick="goHome()">
-          &larr; Back to Catalog
+      <!-- Top Sticky Reader Bar with Typography Controls -->
+      <div class="reader-sticky-toolbar">
+        <button class="btn-return" onclick="goHome()">
+          &larr; Back to IAI News
         </button>
 
-        <!-- Typography & Layout Controls -->
-        <div class="typography-controls-wrapper">
-          <span class="control-label">Typography:</span>
+        <!-- Typography Controls -->
+        <div class="typography-toolbar">
+          <span class="typo-label">Typography:</span>
           
-          <!-- Font Family -->
-          <select id="fontFamilySelect" class="font-family-select" onchange="setFontFamily(this.value)" title="Choose Font Style">
-            <option value="var(--font-serif)">📖 Serif (Book)</option>
-            <option value="var(--font-sans)">🔤 Sans-Serif (Modern)</option>
-            <option value="var(--font-mono)">💻 Monospace (Clean)</option>
+          <select id="typoFontSelect" class="typo-select" onchange="setFontFamily(this.value)">
+            <option value="var(--font-body)">📖 Native Serif</option>
+            <option value="var(--font-sans)">🔤 Modern Sans</option>
+            <option value="var(--font-mono)">💻 Monospace</option>
           </select>
 
-          <!-- Font Size -->
-          <div class="size-btn-group">
-            <button class="font-size-btn" onclick="adjustFontSize(-1)" title="Smaller Text">A-</button>
-            <span id="fontSizeDisplay" class="font-size-indicator">115%</span>
-            <button class="font-size-btn" onclick="adjustFontSize(1)" title="Larger Text">A+</button>
-          </div>
+          <button class="typo-btn" onclick="adjustFontSize(-1)" title="Smaller Text">A-</button>
+          <span id="fontSizeDisplay" style="font-size:0.75rem; font-weight:700; min-width:38px; text-align:center;">118%</span>
+          <button class="typo-btn" onclick="adjustFontSize(1)" title="Larger Text">A+</button>
 
-          <!-- Line Height (Leading) -->
-          <select id="lineHeightSelect" class="line-height-select" onchange="setLineHeight(this.value)" title="Line Spacing">
-            <option value="1.65">Compact</option>
-            <option value="1.85" selected>Normal</option>
-            <option value="2.15">Relaxed</option>
-          </select>
-
-          <!-- Column Width -->
-          <select id="widthSelect" class="width-select" onchange="setColumnWidth(this.value)" title="Reader Width">
+          <select id="typoWidthSelect" class="typo-select" onchange="setReaderWidth(this.value)">
             <option value="680px">Narrow</option>
-            <option value="780px" selected>Medium</option>
-            <option value="960px">Wide</option>
+            <option value="820px" selected>Standard</option>
+            <option value="980px">Wide</option>
           </select>
         </div>
       </div>
 
-      <!-- Header Content -->
-      <div class="reader-header">
-        <h1 id="readerTitle" class="reader-title"></h1>
-        <div id="readerSubtitle" class="reader-subtitle"></div>
-        <div id="readerMeta" class="reader-meta-bar"></div>
+      <!-- Native Article Header Structure -->
+      <div class="iai-article-header">
+        <div id="readerCategory" class="iai-article-category"></div>
+        <h1 id="readerHeading" class="iai-article-heading"></h1>
+        <h2 id="readerSubheading" class="iai-article-subheading"></h2>
+
+        <div id="readerMetaBox" class="iai-article-meta-box"></div>
       </div>
 
-      <img id="readerHeroImg" class="reader-hero-img" style="display:none;" alt="Header Image" />
+      <img id="readerHeroImage" class="iai-feature-image" style="display:none;" alt="Feature Image" />
 
-      <!-- Article Rendered HTML -->
-      <article id="readerContent" class="reader-content"></article>
+      <!-- Article Full Content HTML -->
+      <div id="readerBody" class="iai-article-body"></div>
 
-      <!-- Reader Footer -->
-      <div class="reader-footer">
-        <button class="btn-back" onclick="goHome()">&larr; Back to Catalog</button>
-        <a id="originalSourceLink" href="#" target="_blank" class="original-link">View Original on IAI.tv &nearr;</a>
+      <div class="reader-bottom-nav">
+        <button class="btn-return" onclick="goHome()">&larr; Back to Catalog</button>
+        <a id="readerOriginalLink" href="#" target="_blank" style="color:var(--iai-cyan); font-weight:700; text-decoration:none; font-size:0.85rem;">
+          View on IAI.tv &nearr;
+        </a>
       </div>
-    </div>
+    </article>
+
   </main>
 
-  <footer>
-    <p>IAI.tv Unpaywalled Archive &bull; Auto-syncs every 6 hours via GitHub Actions &bull; Hosted on GitHub Pages</p>
+  <footer class="iai-native-footer">
+    <div class="footer-inner">
+      <p style="font-weight:700; color:#fff; letter-spacing:0.5px;">THE INSTITUTE OF ART AND IDEAS &bull; PRIVATE ARCHIVE</p>
+      <p>Automated cloud sync runs every 6 hours via GitHub Actions &bull; BPC Unpaywall Engine</p>
+    </div>
   </footer>
 
   <script>
@@ -897,15 +956,13 @@
     let filteredArticles = [];
     let currentPage = 1;
     const PAGE_SIZE = 24;
-    let activeQuickFilter = 'all';
+    let selectedCategory = 'all';
 
-    // Typography State
     let currentFontSizeRem = 1.18;
-    const BASE_FONT_SIZE = 1.0;
 
-    // Initialize Theme (Light, Sepia, Dark)
+    // Theme Management (Light, Sepia, Dark)
     function initTheme() {
-      const saved = localStorage.getItem('iai_theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      const saved = localStorage.getItem('iai_theme') || 'light';
       setTheme(saved);
     }
 
@@ -913,133 +970,88 @@
       document.documentElement.setAttribute('data-theme', theme);
       localStorage.setItem('iai_theme', theme);
       
-      document.getElementById('themeBtnLight').classList.toggle('active', theme === 'light');
-      document.getElementById('themeBtnSepia').classList.toggle('active', theme === 'sepia');
-      document.getElementById('themeBtnDark').classList.toggle('active', theme === 'dark');
+      document.getElementById('themeLight').classList.toggle('active', theme === 'light');
+      document.getElementById('themeSepia').classList.toggle('active', theme === 'sepia');
+      document.getElementById('themeDark').classList.toggle('active', theme === 'dark');
     }
 
     // Typography Settings
-    function setFontFamily(fontVar) {
-      document.documentElement.style.setProperty('--reader-font', fontVar);
-      localStorage.setItem('iai_font_family', fontVar);
+    function setFontFamily(font) {
+      document.documentElement.style.setProperty('--reader-font-family', font);
+      localStorage.setItem('iai_font_family', font);
     }
 
     function adjustFontSize(delta) {
       currentFontSizeRem = Math.max(0.9, Math.min(1.65, currentFontSizeRem + (delta * 0.08)));
-      document.documentElement.style.setProperty('--reader-size', `${currentFontSizeRem}rem`);
-      
-      const pct = Math.round((currentFontSizeRem / BASE_FONT_SIZE) * 100);
-      document.getElementById('fontSizeDisplay').textContent = `${pct}%`;
+      document.documentElement.style.setProperty('--reader-font-size', `${currentFontSizeRem}rem`);
+      document.getElementById('fontSizeDisplay').textContent = `${Math.round(currentFontSizeRem * 100)}%`;
       localStorage.setItem('iai_font_size', currentFontSizeRem);
     }
 
-    function setLineHeight(val) {
-      document.documentElement.style.setProperty('--reader-leading', val);
-      localStorage.setItem('iai_line_height', val);
-    }
-
-    function setColumnWidth(val) {
-      document.documentElement.style.setProperty('--reader-max-width', val);
-      localStorage.setItem('iai_width', val);
+    function setReaderWidth(w) {
+      document.documentElement.style.setProperty('--reader-width', w);
+      localStorage.setItem('iai_width', w);
     }
 
     function loadSavedTypography() {
-      const font = localStorage.getItem('iai_font_family');
-      if (font) {
-        document.documentElement.style.setProperty('--reader-font', font);
-        document.getElementById('fontFamilySelect').value = font;
+      const f = localStorage.getItem('iai_font_family');
+      if (f) {
+        document.documentElement.style.setProperty('--reader-font-family', f);
+        document.getElementById('typoFontSelect').value = f;
       }
-      const size = localStorage.getItem('iai_font_size');
-      if (size) {
-        currentFontSizeRem = parseFloat(size);
-        document.documentElement.style.setProperty('--reader-size', `${currentFontSizeRem}rem`);
-        const pct = Math.round((currentFontSizeRem / BASE_FONT_SIZE) * 100);
-        document.getElementById('fontSizeDisplay').textContent = `${pct}%`;
-      }
-      const lh = localStorage.getItem('iai_line_height');
-      if (lh) {
-        document.documentElement.style.setProperty('--reader-leading', lh);
-        document.getElementById('lineHeightSelect').value = lh;
+      const s = localStorage.getItem('iai_font_size');
+      if (s) {
+        currentFontSizeRem = parseFloat(s);
+        document.documentElement.style.setProperty('--reader-font-size', `${currentFontSizeRem}rem`);
+        document.getElementById('fontSizeDisplay').textContent = `${Math.round(currentFontSizeRem * 100)}%`;
       }
       const w = localStorage.getItem('iai_width');
       if (w) {
-        document.documentElement.style.setProperty('--reader-max-width', w);
-        document.getElementById('widthSelect').value = w;
+        document.documentElement.style.setProperty('--reader-width', w);
+        document.getElementById('typoWidthSelect').value = w;
       }
     }
 
-    // Reading Progress Listener
+    // Scroll Progress Listener
     window.addEventListener('scroll', () => {
       const reader = document.getElementById('readerView');
-      const bar = document.getElementById('readingProgressBar');
+      const bar = document.getElementById('progressBar');
       if (reader && reader.style.display !== 'none') {
-        const scrollTop = window.scrollY;
-        const docHeight = reader.offsetHeight;
-        const winHeight = window.innerHeight;
-        const progress = Math.min(100, Math.max(0, (scrollTop / (docHeight - winHeight)) * 100));
-        bar.style.width = `${progress}%`;
+        const top = window.scrollY;
+        const total = reader.offsetHeight - window.innerHeight;
+        bar.style.width = total > 0 ? `${Math.min(100, Math.max(0, (top / total) * 100))}%` : '0%';
       } else {
         bar.style.width = '0%';
       }
     });
 
-    // Keyboard Shortcuts (Esc to return)
     window.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') {
-        goHome();
-      }
+      if (e.key === 'Escape') goHome();
     });
 
-    // Load Articles
-    async function loadArticles() {
+    // Database Load
+    async function loadDatabase() {
       try {
         const resp = await fetch('./articles_index.json');
-        if (!resp.ok) throw new Error('Failed to load articles index');
+        if (!resp.ok) throw new Error('Could not load articles_index.json');
         allArticles = await resp.json();
-        
-        // Count new articles
-        const newCount = allArticles.filter(a => a.is_new).length;
-        document.getElementById('newCount').textContent = newCount;
-        if (newCount > 0) {
-          document.getElementById('pillNew').style.display = 'inline-block';
-        }
 
-        populateThemesDropdown(allArticles);
+        const newCount = allArticles.filter(a => a.is_new).length;
+        document.getElementById('newCountLabel').textContent = newCount;
+
         checkRoute();
         window.addEventListener('hashchange', checkRoute);
       } catch (err) {
-        console.error(err);
         document.getElementById('articlesGrid').innerHTML = `
-          <div class="loading-state" style="grid-column: 1 / -1;">
-            <p style="color:#ef4444; font-weight:600;">Failed to load article index.</p>
-            <p style="font-size:0.9rem; margin-top:0.5rem;">${err.message}</p>
+          <div style="text-align:center; padding:3rem; grid-column:1/-1; color:#ef4444;">
+            <p><strong>Failed to load articles index.</strong></p>
+            <p style="font-size:0.85rem; margin-top:0.5rem;">${err.message}</p>
           </div>
         `;
       }
     }
 
-    function populateThemesDropdown(articles) {
-      const themeSet = new Set();
-      articles.forEach(a => {
-        if (a.themes) {
-          a.themes.split(',').forEach(t => {
-            const clean = t.trim();
-            if (clean && clean !== 'None') themeSet.add(clean);
-          });
-        }
-      });
-
-      const select = document.getElementById('themeSelect');
-      const sorted = Array.from(themeSet).sort();
-      sorted.forEach(t => {
-        const opt = document.createElement('option');
-        opt.value = t;
-        opt.textContent = t;
-        select.appendChild(opt);
-      });
-    }
-
-    // Routing
+    // Navigation / Routing
     function checkRoute() {
       const hash = window.location.hash;
       if (hash.startsWith('#article=')) {
@@ -1056,60 +1068,56 @@
     }
 
     function showCatalog() {
+      document.getElementById('heroBanner').style.display = 'block';
       document.getElementById('catalogView').style.display = 'block';
       document.getElementById('readerView').style.display = 'none';
-      document.getElementById('readingProgressBar').style.width = '0%';
+      document.getElementById('progressBar').style.width = '0%';
       window.scrollTo({ top: 0, behavior: 'smooth' });
       applyFilterAndRender();
     }
 
-    // Search & Filter Handler
+    // Search & Category Filters
     function onSearchInput() {
-      const val = document.getElementById('searchInput').value;
-      document.getElementById('clearSearchBtn').style.display = val ? 'block' : 'none';
+      const val = document.getElementById('nativeSearchInput').value;
+      document.getElementById('searchClearBtn').style.display = val ? 'block' : 'none';
       currentPage = 1;
       applyFilterAndRender();
     }
 
     function clearSearch() {
-      document.getElementById('searchInput').value = '';
-      document.getElementById('clearSearchBtn').style.display = 'none';
+      document.getElementById('nativeSearchInput').value = '';
+      document.getElementById('searchClearBtn').style.display = 'none';
       currentPage = 1;
       applyFilterAndRender();
     }
 
-    function setQuickFilter(type, btn) {
-      activeQuickFilter = type;
-      document.querySelectorAll('#quickPills .pill-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-
-      if (type !== 'all' && type !== 'new') {
-        document.getElementById('themeSelect').value = type;
-      } else {
-        document.getElementById('themeSelect').value = '';
-      }
-
+    function setCategoryFilter(cat, el) {
+      selectedCategory = cat;
+      document.querySelectorAll('#navCategoryList .nav-cat-link').forEach(a => a.classList.remove('active'));
+      el.classList.add('active');
       currentPage = 1;
       applyFilterAndRender();
     }
 
     function applyFilterAndRender() {
-      const q = document.getElementById('searchInput').value.toLowerCase().trim();
-      const theme = document.getElementById('themeSelect').value;
-      const sort = document.getElementById('sortSelect').value;
+      const q = document.getElementById('nativeSearchInput').value.toLowerCase().trim();
+      const sort = document.getElementById('sortControl').value;
 
       filteredArticles = allArticles.filter(a => {
-        // Quick filter for 'new'
-        if (activeQuickFilter === 'new' && !a.is_new) return false;
+        if (selectedCategory === 'new' && !a.is_new) return false;
+        if (selectedCategory !== 'all' && selectedCategory !== 'new') {
+          if (!a.themes || !a.themes.toLowerCase().includes(selectedCategory.toLowerCase())) {
+            return false;
+          }
+        }
 
-        const matchQ = !q || (
+        if (!q) return true;
+        return (
           (a.title && a.title.toLowerCase().includes(q)) ||
           (a.author && a.author.toLowerCase().includes(q)) ||
           (a.themes && a.themes.toLowerCase().includes(q)) ||
           (a.id && a.id.includes(q))
         );
-        const matchTheme = !theme || (a.themes && a.themes.includes(theme));
-        return matchQ && matchTheme;
       });
 
       // Sorting
@@ -1121,8 +1129,8 @@
         return 0;
       });
 
-      document.getElementById('statsText').textContent = 
-        `Found ${filteredArticles.length.toLocaleString()} matching of ${allArticles.length.toLocaleString()} articles`;
+      document.getElementById('resultsCount').textContent = 
+        `Showing ${filteredArticles.length.toLocaleString()} of ${allArticles.length.toLocaleString()} articles`;
 
       renderGrid();
       renderPagination();
@@ -1134,9 +1142,9 @@
 
       if (filteredArticles.length === 0) {
         grid.innerHTML = `
-          <div class="loading-state" style="grid-column: 1 / -1;">
-            <p style="font-size:1.1rem; font-weight:600;">No matching articles found.</p>
-            <p style="font-size:0.85rem; margin-top:0.35rem;">Try different keywords or clearing your filters.</p>
+          <div style="text-align:center; padding:4rem; grid-column:1/-1; color:var(--text-muted);">
+            <p style="font-size:1.15rem; font-weight:700;">No articles match your search or filter.</p>
+            <p style="font-size:0.85rem; margin-top:0.4rem;">Try searching for another topic, thinker, or category.</p>
           </div>
         `;
         return;
@@ -1145,30 +1153,26 @@
       const start = (currentPage - 1) * PAGE_SIZE;
       const paged = filteredArticles.slice(start, start + PAGE_SIZE);
 
-      paged.forEach(art => {
+      paged.forEach(item => {
         const card = document.createElement('div');
-        card.className = 'article-card';
-        card.onclick = () => {
-          window.location.hash = `#article=${art.slug}`;
-        };
+        card.className = 'iai-news-card';
+        card.onclick = () => { window.location.hash = `#article=${item.slug}`; };
 
-        const newBadge = art.is_new ? '<span class="new-ribbon">New</span>' : '';
-        const themesHtml = art.themes && art.themes !== 'None'
-          ? art.themes.split(',').slice(0, 2).map(t => `<span class="badge-theme">${t.trim()}</span>`).join('')
-          : '';
+        const newBadge = item.is_new ? '<span class="card-new-badge">NEW</span>' : '';
+        const themeLabel = item.themes && item.themes !== 'None' ? item.themes.split(',')[0].trim() : 'ESSAY';
 
         card.innerHTML = `
-          ${newBadge}
-          <div>
-            <div class="card-meta-top">
-              <span class="card-id">#${art.id || ''}</span>
-              <span>${art.date || ''}</span>
+          <div class="card-content-wrap">
+            <div class="card-category-tag">
+              <span>${themeLabel}</span>
+              ${newBadge}
             </div>
-            <h2 class="card-title">${art.title || art.slug}</h2>
-            <div class="card-author">${art.author ? 'By ' + art.author : ''}</div>
+            <h2 class="card-headline">${item.title || item.slug}</h2>
+            <div class="card-byline">${item.author ? 'By ' + item.author : ''}</div>
           </div>
-          <div class="card-themes">
-            ${themesHtml}
+          <div class="card-footer-meta">
+            <span>${item.date || ''}</span>
+            <span style="font-weight:700; color:var(--iai-cyan);">READ &rarr;</span>
           </div>
         `;
         grid.appendChild(card);
@@ -1177,125 +1181,112 @@
 
     function renderPagination() {
       const totalPages = Math.ceil(filteredArticles.length / PAGE_SIZE);
-      const container = document.getElementById('pagination');
+      const container = document.getElementById('paginationBar');
       container.innerHTML = '';
 
       if (totalPages <= 1) return;
 
-      const prevBtn = document.createElement('button');
-      prevBtn.className = 'btn-page';
-      prevBtn.textContent = '← Prev';
-      prevBtn.disabled = currentPage === 1;
-      prevBtn.onclick = () => { currentPage--; renderGrid(); renderPagination(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
-      container.appendChild(prevBtn);
+      const prev = document.createElement('button');
+      prev.className = 'page-btn';
+      prev.textContent = '← Prev';
+      prev.disabled = currentPage === 1;
+      prev.onclick = () => { currentPage--; renderGrid(); renderPagination(); window.scrollTo({ top: 400, behavior: 'smooth' }); };
+      container.appendChild(prev);
 
-      let startPage = Math.max(1, currentPage - 2);
-      let endPage = Math.min(totalPages, startPage + 4);
-      if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
+      let start = Math.max(1, currentPage - 2);
+      let end = Math.min(totalPages, start + 4);
+      if (end - start < 4) start = Math.max(1, end - 4);
 
-      for (let i = startPage; i <= endPage; i++) {
-        const btn = document.createElement('button');
-        btn.className = `btn-page ${i === currentPage ? 'active' : ''}`;
-        btn.textContent = i;
-        btn.onclick = () => { currentPage = i; renderGrid(); renderPagination(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
-        container.appendChild(btn);
+      for (let i = start; i <= end; i++) {
+        const b = document.createElement('button');
+        b.className = `page-btn ${i === currentPage ? 'active' : ''}`;
+        b.textContent = i;
+        b.onclick = () => { currentPage = i; renderGrid(); renderPagination(); window.scrollTo({ top: 400, behavior: 'smooth' }); };
+        container.appendChild(b);
       }
 
-      const nextBtn = document.createElement('button');
-      nextBtn.className = 'btn-page';
-      nextBtn.textContent = 'Next →';
-      nextBtn.disabled = currentPage === totalPages;
-      nextBtn.onclick = () => { currentPage++; renderGrid(); renderPagination(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
-      container.appendChild(nextBtn);
+      const next = document.createElement('button');
+      next.className = 'page-btn';
+      next.textContent = 'Next →';
+      next.disabled = currentPage === totalPages;
+      next.onclick = () => { currentPage++; renderGrid(); renderPagination(); window.scrollTo({ top: 400, behavior: 'smooth' }); };
+      container.appendChild(next);
     }
 
-    // Reader Mode
+    // Article Reader
     async function openArticle(slug) {
+      document.getElementById('heroBanner').style.display = 'none';
       document.getElementById('catalogView').style.display = 'none';
       const reader = document.getElementById('readerView');
       reader.style.display = 'block';
       window.scrollTo({ top: 0, behavior: 'smooth' });
 
-      const contentEl = document.getElementById('readerContent');
-      contentEl.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Fetching article content...</p></div>';
+      const bodyEl = document.getElementById('readerBody');
+      bodyEl.innerHTML = '<div style="text-align:center; padding:3rem; color:var(--text-muted);">Loading article text...</div>';
 
       try {
         const resp = await fetch(`./articles/${slug}.md`);
-        if (!resp.ok) throw new Error('Article markdown file not found');
-        const rawMd = await resp.text();
+        if (!resp.ok) throw new Error('Markdown file not found');
+        const text = await resp.text();
 
-        // Parse frontmatter
-        const fmMatch = rawMd.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+        const match = text.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
         let meta = {};
-        let bodyMd = rawMd;
+        let mdBody = text;
 
-        if (fmMatch) {
-          const fmText = fmMatch[1];
-          bodyMd = fmMatch[2];
-          fmText.split('\n').forEach(line => {
+        if (match) {
+          mdBody = match[2];
+          match[1].split('\n').forEach(line => {
             const m = line.match(/^([a-zA-Z0-9_-]+):\s*"(.*)"$/);
             if (m) meta[m[1]] = m[2];
           });
         }
 
-        // Render Header & Meta
-        document.getElementById('readerTitle').textContent = meta.title || slug;
+        document.getElementById('readerCategory').textContent = meta.themes && meta.themes !== 'None' ? meta.themes : 'ARTICLE';
+        document.getElementById('readerHeading').textContent = meta.title || slug;
         
-        const subEl = document.getElementById('readerSubtitle');
+        const sub = document.getElementById('readerSubheading');
         if (meta.subtitle) {
-          subEl.textContent = meta.subtitle;
-          subEl.style.display = 'block';
+          sub.textContent = meta.subtitle;
+          sub.style.display = 'block';
         } else {
-          subEl.style.display = 'none';
+          sub.style.display = 'none';
         }
 
         const metaParts = [];
-        if (meta.author) metaParts.push(`<strong>By ${meta.author}</strong>`);
+        if (meta.author) metaParts.push(`<strong>${meta.author}</strong>`);
         if (meta.date) metaParts.push(`<span>${meta.date}</span>`);
         if (meta.read_time) metaParts.push(`<span>${meta.read_time}</span>`);
         if (meta.word_count) metaParts.push(`<span>${meta.word_count}</span>`);
-        if (meta.themes && meta.themes !== 'None') metaParts.push(`<span>Themes: <em>${meta.themes}</em></span>`);
+        document.getElementById('readerMetaBox').innerHTML = metaParts.join(' &bull; ');
 
-        document.getElementById('readerMeta').innerHTML = metaParts.join(' &bull; ');
-
-        // Hero Image
-        const heroImg = document.getElementById('readerHeroImg');
+        const hero = document.getElementById('readerHeroImage');
         if (meta.header_image) {
-          heroImg.src = meta.header_image;
-          heroImg.style.display = 'block';
+          hero.src = meta.header_image;
+          hero.style.display = 'block';
         } else {
-          heroImg.style.display = 'none';
+          hero.style.display = 'none';
         }
 
-        // Original Source Link
-        const srcLink = document.getElementById('originalSourceLink');
-        srcLink.href = meta.source_url || `https://iai.tv/articles/${slug}`;
+        document.getElementById('readerOriginalLink').href = meta.source_url || `https://iai.tv/articles/${slug}`;
 
-        // Render Markdown Body to HTML
-        let cleanMd = bodyMd
+        let cleanMd = mdBody
           .replace(/^#\s+.*$/m, '')
           .replace(/^!\[.*?\]\(.*?\)\s*$/m, '')
           .replace(/^\*.*?\*\s*$/m, '')
           .replace(/^---/m, '')
           .trim();
 
-        contentEl.innerHTML = marked.parse(cleanMd);
+        bodyEl.innerHTML = marked.parse(cleanMd);
 
       } catch (err) {
-        console.error(err);
-        contentEl.innerHTML = `
-          <div class="loading-state">
-            <p style="color:#ef4444; font-weight:600;">Failed to render article.</p>
-            <p style="font-size:0.9rem; margin-top:0.5rem;">${err.message}</p>
-          </div>
-        `;
+        bodyEl.innerHTML = `<p style="color:#ef4444;">Failed to load article: ${err.message}</p>`;
       }
     }
 
-    // Start App
+    // Init App
     initTheme();
     loadSavedTypography();
-    loadArticles();
+    loadDatabase();
   </script>
 </body>
 </html>
