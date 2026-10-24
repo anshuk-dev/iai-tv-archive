@@ -1,14 +1,28 @@
 # IAI.tv Full Article Archiver & Unpaywaller
 
-[![Daily IAI.tv Articles Sync](https://github.com/anshuk-dev/iai-tv-archive/actions/workflows/update-articles.yml/badge.svg)](https://github.com/anshuk-dev/iai-tv-archive/actions/workflows/update-articles.yml)
-[![Total Articles](https://img.shields.io/badge/articles-2%2C180%20archived-blue.svg)](./CATALOG.md)
-[![Format](https://img.shields.io/badge/format-Markdown%20%2B%20Frontmatter-green.svg)](./articles/)
+🌐 **Live Web Reader:** [https://anshuk-dev.github.io/iai-tv-archive/](https://anshuk-dev.github.io/iai-tv-archive/)
 
-A complete unpaywalled archive and continuous auto-updating mirror of **[IAI.tv](https://iai.tv)** (The Institute of Art and Ideas) articles and posts, implementing the **Bypass Paywalls Clean (BPC)** unpaywall extraction method to convert all posts into cleanly formatted Markdown (`.md`) files.
+[![GitHub Pages](https://img.shields.io/badge/Live%20Website-GitHub%20Pages-success.svg?style=flat&logo=github)](https://anshuk-dev.github.io/iai-tv-archive/)
+[![Continuous Sync](https://github.com/anshuk-dev/iai-tv-archive/actions/workflows/update-articles.yml/badge.svg)](https://github.com/anshuk-dev/iai-tv-archive/actions/workflows/update-articles.yml)
+[![Total Articles](https://img.shields.io/badge/articles-2%2C180%20archived-blue.svg)](./CATALOG.md)
+[![Format](https://img.shields.io/badge/format-HTML%20%2B%20Markdown-green.svg)](https://anshuk-dev.github.io/iai-tv-archive/)
+
+A complete unpaywalled archive and continuous auto-updating mirror of **[IAI.tv](https://iai.tv)** (The Institute of Art and Ideas) articles and posts, implementing the **Bypass Paywalls Clean (BPC)** unpaywall extraction method.
 
 ---
 
-## 📚 Complete Article Catalog
+## 🌐 Live Web Reader (Interactive Webpage)
+
+You can read all articles directly in your browser with full HTML formatting, search, and dark mode at:
+👉 **[https://anshuk-dev.github.io/iai-tv-archive/](https://anshuk-dev.github.io/iai-tv-archive/)**
+
+- **Instant Search:** Search across 2,180 articles by title, author, keyword, or ID.
+- **Theme Filtering:** Filter by Philosophy, Science, Art & Culture, Politics, etc.
+- **Reader Mode:** Clean typography, font size controls, dark/light theme, and direct sharing URLs (`#article=<slug>`).
+
+---
+
+## 📚 Complete Article Catalog (Markdown)
 
 Browse the complete indexed catalog of all 2,180 articles:
 👉 **[CATALOG.md](./CATALOG.md)** (Contains titles, authors, release dates, themes, and direct links to each markdown file).
