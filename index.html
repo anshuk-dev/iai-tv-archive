@@ -38,7 +38,15 @@
   <div class="panel-heading"><h2 id="modalVideoTitle">Watch Debate</h2><button id="closeVideoModal" aria-label="Close video player">×</button></div>
   <div class="video-player-container"><video id="mainVideoPlayer" controls playsinline preload="metadata"></video></div>
   <div class="video-dialog-meta">
-   <div class="video-meta-row"><span id="modalVideoDate"></span><span id="modalVideoDuration"></span><a id="modalVideoDownload" href="#" target="_blank" rel="noopener noreferrer" class="video-dl-btn">Download / Direct Link ↗</a></div>
+   <div class="video-meta-row">
+    <span class="unlocked-badge">🟢 Full Unlocked (No Paywall)</span>
+    <span id="modalVideoDate"></span>
+    <span id="modalVideoDuration"></span>
+    <div class="video-actions">
+     <a id="modalVideoDrive" href="#" target="_blank" rel="noopener noreferrer" class="video-gdrive-btn" title="Open and stream from your Google Drive">📁 Play on Drive ↗</a>
+     <a id="modalVideoDownload" href="#" target="_blank" rel="noopener noreferrer" class="video-dl-btn">⬇ Download MP4</a>
+    </div>
+   </div>
    <p id="modalVideoDesc" class="video-desc"></p>
   </div>
  </div>

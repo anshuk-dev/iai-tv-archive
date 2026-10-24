@@ -161,6 +161,8 @@ function openVideoModal(v){
   $('modalVideoDesc').textContent=v.description||'';
   $('modalVideoDownload').href=v.video_url;
   $('modalVideoDownload').setAttribute('download',v.filename||'video.mp4');
+  const searchName = (v.filename || v.title).replace(/\.mp4$/i, '').trim();
+  $('modalVideoDrive').href = `https://drive.google.com/drive/u/0/search?q=${encodeURIComponent(searchName)}`;
   const player=$('mainVideoPlayer');
   player.src=v.video_url;
   $('videoDialog').showModal();
