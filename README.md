@@ -1,6 +1,8 @@
 # IAI — Private Reading Room & Video Archive
 
-Private URL: **https://iai-private-reading-room.savoryrain2.chatgpt.site**
+**[Open the private IAI article reader](https://iai-private-reading-room.savoryrain2.chatgpt.site)** · **[Browse all articles](https://iai-private-reading-room.savoryrain2.chatgpt.site/#library)**
+
+Open using the owning ChatGPT account. The reader is private; GitHub sign-in alone does not grant access.
 
 A complete archive and responsive editorial reader for **2,180 unpaywalled articles** and **2,050 high-definition video debates** (~1,209 hours of video) from [IAI.tv (The Institute of Art and Ideas)](https://iai.tv).
 
