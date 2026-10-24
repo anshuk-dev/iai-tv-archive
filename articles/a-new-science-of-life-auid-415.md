@@ -1,0 +1,62 @@
+---
+title: "A New Science of Life"
+subtitle: "It's time to rethink the idea of natural laws."
+author: "Rupert Sheldrake"
+date: "8th September 2014"
+article_id: "415"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "855 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/8fa76MmUvwIkKgQffNQZ714P3pwveNBo6dHYVGMqvk.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-new-science-of-life-auid-415"
+---
+
+# A New Science of Life
+
+*It's time to rethink the idea of natural laws.*
+
+**By Rupert Sheldrake** | *8th September 2014* | *Read time: approx. 4 mins* | *855 words*
+
+![A New Science of Life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/8fa76MmUvwIkKgQffNQZ714P3pwveNBo6dHYVGMqvk.webp)
+
+---
+
+The hypothesis of morphic resonance proposes that memory is inherent in nature. The laws of nature are more like habits. Each species has a collective memory on which all individuals draw and to which they contribute.
+
+My interest in evolutionary habits arose when I was doing research at Cambridge on developmental biology, and was reinforced by reading Charles Darwin, for whom the habits of organisms were of central importance. As Francis Huxley has pointed out, Darwin’s most famous book could more appropriately have been entitled *The Origin of Habits*.
+
+**Morphic fields in biology**
+
+Over the course of fifteen years of research on plant development, I came to the conclusion that genes are not enough for understanding how plants grow. Morphogenesis, literally meaning the coming-into-being of form, depends on organising fields. The same arguments apply to the development of animals. Since the 1920s many developmental biologists have accepted that biological organisation depends on organising fields, variously called biological fields, or developmental fields, or positional fields, or morphogenetic fields.
+
+Many organisms live as free, individual cells. Some form complex mineral skeletons, as in diatoms and radiolarians, spectacularly pictured in the nineteenth century by Ernst Haeckel. Just switching on the right genes at the right times cannot explain the complex skeletons of such structures without many other forces coming into play, including the organising activity of cell membranes and microtubules.
+
+Morphogenetic fields work by imposing patterns on otherwise random or indeterminate patterns of activity. For example, they cause microtubules to crystallise in one part of the cell rather than another.
+
+Morphogenetic fields are not fixed forever, but evolve. The fields of Afghan hounds and poodles have become very different from those of their common ancestors, wolves. How are these fields inherited? I suggest they are transmitted from past members of the species by morphic resonance, the influence of previous self-organising patterns of activity on subsequent similar patterns of activity. Morphic resonance also underlies the formation of crystals. Each kind of crystal embodies a crystal habit.
+
+The fields organising the activity of the nervous system are also inherited through morphic resonance. Through morphic resonance, animals take up the habits of their species; these are their instincts. Each individual both draws upon and contributes to the collective memory. This means that new patterns of behaviour can spread more rapidly than would otherwise be possible. For example, if rats of a particular breed learn a new trick in Harvard, then rats of that breed should be able to learn the same trick faster all over the world, say in Edinburgh and Melbourne. There is already evidence from laboratory experiments (discussed in my book *A New Science of Life*) that this actually happens.
+
+The resonance of a brain with its own past states also helps to explain the memories of individual animals and humans. There is no need for memories to be stored inside the brain.
+
+Social groups are likewise organised by fields, as in schools of fish and flocks of birds. Human societies have cultural memories that are reinforced by morphic resonance. Language learning is facilitated by morphic resonance with previous speakers of the language.
+
+**The memory of nature**
+
+From the point of view of morphic resonance, there is no need to suppose that all the laws of nature sprang into being fully formed at the moment of the Big Bang, like a kind of cosmic Napoleonic code, or that they exist in a metaphysical realm beyond time and space.
+
+If we want to stick to the idea of natural laws, we could say that as nature itself evolves, the laws of nature also evolve, just as human laws evolve over time. But then how would natural laws be remembered or enforced? The law metaphor is embarrassingly anthropomorphic. Many kinds of organisms have habits, but only humans have laws.
+
+**Evolutionary creativity**
+
+But evolution depends on more than habits; otherwise nature would be entirely repetitive. New things happen. Long ago, the first stars and galaxies appeared. On this planet the first living cells arose, then plants and animals appeared, eyes arose independently in several different kinds of animals, including vertebrates like us, and cephalopods, like the octopus. Some plants started flowering, and all kinds of flowers evolved from them. Animals invented many new ways of behaving, like spiders spinning webs, or bats flying by echolocation. Among humans, creativity has been expressed in every area, including music, agriculture, gastronomy, language, architecture, physics, computing, games, engineering and religion.
+
+We are now at a new stage of human and Gaian evolution. We too are creatures of habit, and some of our habits must change if we are to survive. We need to do things in new ways. Our creativity, like all other creativity in nature, is subject to natural selection.
+
+Mechanistic, reductionist science is a major cause of the ecological crisis. More of the same cannot possibly make things better. Only by recognising our connections with the rest of nature can we find a vision that can inspire us. We are part of a process of creative evolution in which old habits die hard, but in which new patterns of behaviour can spread much faster than ever before.
+
+**More from Rupert Sheldrake on IAI TV**[Beyond the Machine Metaphor](https://iai.tv/video/beyond-the-machine)  
+[The Science Delusion](https://iai.tv/video/the-science-delusion)

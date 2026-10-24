@@ -1,0 +1,123 @@
+---
+title: "The curse of the ego"
+subtitle: "Pre-historic humans were happier"
+author: "Steve Taylor"
+date: "30th August 2022"
+article_id: "2228"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,013 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ego-article.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-curse-of-the-ego-auid-2228"
+---
+
+# The curse of the ego
+
+*Pre-historic humans were happier*
+
+**By Steve Taylor** | *30th August 2022* | *Read time: approx. 10 mins* | *2,013 words*
+
+![The curse of the ego](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ego-article.webp)
+
+---
+
+*Human self-consciousness emerged out of the pre-egoic consciousness of nature. Out of an oceanic, unreflective soup of consciousness, came ideas of ‘I’, ‘me’ and ‘mine’. This emergence of the self concept led to the fall of man into the misery of history. There are signs we are starting to transcend our ego-separateness, writes Steve Taylor.*
+
+# Steve Taylor will be a speaker at our upcoming festival [HowTheLightGetsIn London 2022](https://howthelightgetsin.org/festivals/london) October 1-2, taking part in the debate [“Waking from Darkness”](https://howthelightgetsin.org/events/the-paradox-of-spiritual-enlightenment-11016).
+
+# [Click here to learn more.](https://howthelightgetsin.org/festivals/london)
+
+Almost all of the ancient cultures of Europe, the Middle East and Asia have myths of a Golden Age or Paradise, an earlier time when life was easier and human beings lived in harmony with nature and each other. Some of these myths describe a sudden and dramatic ‘Fall’ from grace, as in the Biblical story of the Garden of Eden. Other myths speak of a long and slow degeneration over many eras, like the Greek and Roman myths of a Golden Age, or the Hindu story of a ‘perfect age’ before the present age of darkness (or *Kali Yuga*). In China, there is the myth of the ‘Age of Perfect Virtue,’ when human beings lived in harmony with the Dao. Since human beings lost contact with the Dao, they have been dominated by selfishness and acquisitiveness.
+
+\_\_\_
+
+One of the biggest myths about human history is that it has been a continual progression. In fact, archaeological and anthropological evidence suggests that in many ways human history has been a regression
+
+\_\_\_
+
+It's easy to assume that these myths are little more than fairy tales, perhaps the result of a human impulse to romanticise the past. However, the myths may contain at least a kernel of historical truth. They may, in fact, be a distant folk memory of a real historical era.
+
+**The Myth of Prehistoric Misery**
+
+Imagine what life was like for early human beings, before the dawn of civilisation a few thousand years ago. You might picture dirty, hairy savages, carrying spears or clubs, grunting and shouting at one another. You might picture our ancestors half-starved and freezing, living in fear of attack by wild animals or other humans. You might assume that they lived in small tribes led by powerful chieftains and were constantly fighting with nearby tribes.
+
+In fact, prehistoric life was nothing like this caricature. One of the biggest myths about human history is that it has been a continual progression. In fact, archaeological and anthropological evidence suggests that in many ways human history has been a *re*gression.
+
+[![There is no self buddhist philosophy](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/no-self-magic.webp)
+
+SUGGESTED READING
+Why There Is No Self: A Buddhist View for the West
+By Jay Garfield](https://iai.tv/articles/why-there-is-no-self-a-buddhist-perspective-for-the-west-auid-1044)
+
+For example, it isn’t true that early human beings had to struggle to survive. In fact, prehistoric groups had a fairly easy time of it. For most of human history – in fact, 95 per cent of our time on this planet – our ancestors lived as hunter-gatherers, in small tribes which usually moved to a different site every few months. Studies of contemporary hunter-gatherers who live in the same way as our ancestors have shown that they only spend around 2-3 hours a day (or 12-20 hours a week) searching for food. [1] This is partly because population densities were so small, which meant that resources were abundant.
+
+Early human beings’ diet was superior to most modern human beings’, with no dairy products and a wide variety of fruits, vegetables, roots and nuts, all eaten raw, together with meat [2]. Prehistoric humans were also less vulnerable to disease than later peoples. Many of the common diseases that afflict present day human beings arose in the agricultural era (beginning around 10,000 years ago in the Near East and spreading slowly around the rest of the world), passed on by the animals we domesticated [3].
+
+Prehistoric life was free of struggle in other ways too. Analysis of contemporary groups who follow the same ‘simple hunter-gatherer’ lifestyle as our ancestors suggests that prehistoric societies were egalitarian and democratic [4]. There is also a striking lack of evidence for prehistoric warfare. The idea that early human beings were savagely violent and warlike – and that over time we have become gradually peaceful – is one of most baseless (but most entrenched) myths of all. In 2005, when my book *The Fall* was originally published, the notion of “prehistoric peace” seemed controversial, and some reviewers suggested that I was perpetuating the myth of the noble savage. However, since then, I’m glad to say that much more evidence has become available, and now the notion of prehistoric peace is commonly accepted amongst anthropologists and archaeologists [5].
+
+**A New Sense of Self**
+
+About 6000 years ago, a shift began. In the Middle East and central Asia, some human groups started to show signs of hierarchy, warfare and patriarchy. Whereas earlier peoples were usually buried communally, now individual burial became the norm. People were buried with signs of identity and property. More important people – such as chieftains – were buried with a great deal of wealth, including horses, weapons and even wives. Now artwork became full of battle scenes and images of weapons. Numerous battle sites show that the long period of prehistoric peace gave way to a new phase of chronic, savage warfare. In economic terms, the simple hunter gatherer way of life (and the simple horticultural lifestyle of earlier settled groups) gave way to a heavier type of agriculture, more akin to modern farming.
+
+\_\_\_
+
+For thousands of years, settled communities existed with the same basic social characteristics as prehistoric hunter-gatherers, with a lack of warfare and status differences, and equal status for women
+
+\_\_\_
+
+Some authors – such as Yuval Noah Harari in *Sapiens* – link the advent of hierarchy and war to the end of the hunter-gatherer era, when human groups became territorial, and started to covet the territory and wealth of other groups. However, evidence suggests that the Fall occurred much later than the shift to a settled lifestyle.
+
+For thousands of years, settled communities existed with the same basic social characteristics as prehistoric hunter-gatherers, with a lack of warfare and status differences, and equal status for women.
+
+The hypothesis I put forward in *The Fall* is that this cultural shift was due to a psychological change in some human beings. Here we can return to myths for some clues. The Bible tells us that the Fall occurred as a result of Eve eating from the Tree of Knowledge. We’re told that now Adam and Eve were ‘given understanding’ and ‘realised that they were naked; so they sewed fig leaves together and covered themselves.’ This suggests that the Fall was linked to the development of a new self-awareness. Similarly, the Chinese myth of the Age of Perfect Virtue tells us that when human beings fell out of the Dao, they developed a new kind of individuality and self-sufficiency. They started to live by their own will rather than the will of nature, with new intellectual discrimination and an awareness of separateness.
+
+\_\_\_
+
+Prehistoric humans were deeply connected to nature, as if they were inside it, living in participation ... However, the Fall broke our connection to nature
+
+\_\_\_
+
+My hypothesis in *The Fall* is that human beings began to experience an intensified sense of individuality, which generated a new sense of separation. People began to feel that they were separate individuals, living inside their own mental space, with the rest of the world and all other people ‘out there’ on the other side. Prehistoric peoples certainly had a sense of individual identity too, but now people’s identity became more defined and circumscribed. People began to feel not only separate to the world around them, but also to their own communities, and even to their own bodies. The word ‘I’ became much more important than ever before. People became more concerned with their personal desires and ambitions and their personal stories of achievement and status.
+
+[![related-video-image](https://iai.tv/assets/Uploads/pexels-photo-220429.webp)
+
+SUGGESTED VIEWING
+In Search of the Self
+With Robert Rowland Smith, Colin Blakemore, Mary Midgley](https://iai.tv/video/in-search-of-the-self)
+
+The advent of this intensified sense of individuality and separation *was* the Fall. It gave rise to pathological traits such as warfare, hierarchy, and patriarchy. Highly individuated people feel a sense of psychological lack, which generates a desire to accumulate power, wealth and territory. In social terms, this generates hierarchy and patriarchy, and on an inter-social level, it generates warfare. The Fall also created a sense of duality between the ego and the body, which led to sexual repression. In addition, the Fall led to theistic religion, distinct from the animistic, spirit-based conceptions of prehistoric peoples. As separate egos, people experienced a sense of aloneness, insignificance and vulnerability which generated a need to feel that all-powerful deities were watching over them and controlling the events of their lives. (See *The Fall* for more detailed explanations of these causal links.)
+
+Prehistoric humans were deeply connected to nature, as if they were *inside* it, living in participation. Judging by contemporary indigenous peoples who follow a simple way life, they felt an intimate bond with their land, as if they shared their being with it. They felt that natural phenomena were sacred, imbued with a spiritual essence. However, the Fall broke our connection to nature. We were now *outside* nature, observing it from a distance, in a state of duality. Nature became disenchanted. It became *other* to us, an enemy to fight against and a supply of resources to exploit. Trees, rocks, and even animals became objects to use and abuse, rather than sacred, sentient phenomena.
+
+**The Leap**
+
+However, there are some signs that, as a culture, we may be slowly transcending the effects of the Fall and moving beyond ego-separateness. Over the last three hundred years or so, there has been a growing new spirit of empathy, which has led to less cruel treatment of children and animals, less severe punishments for criminals, the women’s movement, the abolition of slavery, concepts of democracy and social egalitarianism, environmental awareness, a more open and healthy attitude to sex and the human body and so on. Of course, we still have much progress to make in all these areas, but have certainly made significant progress compared to societies of 300 years ago and earlier.
+
+[![trauma repeat](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/trauma-repeat.webp)
+
+SUGGESTED READING
+Trauma. Chaos. Control. Repeat
+By Roberta Satow](https://iai.tv/articles/why-you-are-destined-to-repeat-yourself-auid-2155)
+
+In my upcoming book *[DisConnected](https://www.stevenmtaylor.com/books/the-clear-light-audiobook/)*, I frame this in terms of disconnection and reconnection. The Fall was a shift into disconnection, as human beings became disconnected from each other, from the natural world and from their own bodies. In recent times, there has been a movement towards increasing connection, both socially and psychologically.
+
+In psychological terms, a movement towards connection expresses itself through *spirituality* – that is, in terms of spiritual development, or spiritual awakening. Spirituality is all about transcending separation, and reconnecting to our own deeper selves, other living beings and the world in general. This applies to many practices or activities which are associated with spirituality, such as meditation, mindfulness, contact with nature, serving others – they all help to reconnect us.
+
+As I will suggest in [my upcoming talk on spiritual awakening at the HTLGI festival](https://howthelightgetsin.org/events/the-paradox-of-spiritual-enlightenment-11016), spirituality is not just an individual experience – it is a collective enterprise, even an evolutionary phenomenon, leading to heightened awareness and intensified connection.
+
+In this sense, it is very significant that so many people feel an impulse to follow spiritual paths and practices. It may be a sign that we are transcending the effects of the fall, and slowly regaining the harmony that we lost thousands of years ago.
+
+**Notes**
+
+1. see Sahlins, M. (1972). *Stone Age Economics*. New York: Aldine de Gruyter
+
+2. Cordain, L et al. (2001). The paradoxical nature of hunter-gatherer diets: meat-based, yet non-atherogenic. *Eur J Clin Nutr. 56*(1); O’Keefe, J.H. &, Cordain, L. (2004). Cardiovascular disease resulting from a diet and lifestyle at odds with our Paleolithic genome: How to become a 21st-century hunter-gatherer. *Mayo Clin Proc. 79*(1):101–108.
+
+3. Pearce Duvet, J. (2006). The origin of human pathogens: evaluating the role of agriculture and domestic animals in the evolution of human disease. *Biol Rev. 81*(3):369–382; Slingenbergh, J. (2013) World Livestock: Changing Disease Landscapes. *Food and Agriculture Organization of the United Nations* (FAO)
+
+4. Fry, D.P. & Soderberg, P. (2014). Myths about hunter-gatherers redux: nomadic forager war and peace. *J Aggress Confl Peace Res. 6*(4):255–266; Woodburn, J. (1982). Egalitarian Societies. *Man, 17*, 431-51.
+
+5. See Fry, D.P. (Ed.) (2013). *War, Peace, and Human Nature: The Convergence of Evolutionary and Cultural Views*. Oxford: Oxford University Press.

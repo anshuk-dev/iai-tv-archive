@@ -1,0 +1,97 @@
+---
+title: "Sexual desire is political"
+subtitle: "The heart wants what it wants?"
+author: "Tom O'Shea"
+date: "29th September 2022"
+article_id: "2252"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "1,754 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/desire-and-politics.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/sexual-desire-is-political-auid-2252"
+---
+
+# Sexual desire is political
+
+*The heart wants what it wants?*
+
+**By Tom O'Shea** | *29th September 2022* | *Read time: approx. 9 mins* | *1,754 words*
+
+![Sexual desire is political](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/desire-and-politics.webp)
+
+---
+
+*Sexual desire is an incredibly personal and seemingly unchangeable part of who we are. But what about those who are systematically undesired? This problem isn't one of individuals and personal tastes. Instead, we need to reshape the environment and culture to find ways to address the real political dimensions of desire, writes Tom O'Shea.*
+
+When I started writing about sexual desire, people I met at parties were suddenly a lot more interested in my academic work. Among those who’d been single in the last few years, the conversation would inevitably turn to dating apps. One woman told me that she didn’t know how to stop herself sleeping with every match who she met up with. A man added that this hadn’t been a problem for him: he’d had little luck getting matches in the first place. He suspected that being short had something to do with it. Bad luck, perhaps. But people can’t help who they find attractive, right?
+
+[![sexual morality doesnt exist](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/sexual-morality-doesnt-exist.webp)
+
+SUGGESTED READING
+Why sexual morality doesn't exist
+By Alan Goldman](https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212)
+
+A closer look at online dating uncovers some less anecdotal but potentially more troubling findings. OkCupid found that on average its users would engage less with black women and Asian men. Philosophers have worried about the racial preferences which can seem to motivate such behaviour. Sonu Bedi compares being denied opportunities for romantic intimacy as a result of one’s race with being denied a job for the same reasons. He suggests we approach both as a matter of injustice where fundamental human interests are at stake.
+
+\_\_\_
+
+So long as our encounters and relationships with others are consensual, shouldn’t they be free from shame and overbearing moral judgement?
+
+\_\_\_
+
+Going undesired is not the only problem that racialised desire brings into view. The political philosopher Robin Zheng directs our attention to ‘yellow fever’: a fetishistic attraction to Asian women, which is typically found among non-Asian men who regard them as particularly exotic or submissive. Why not simply think of these preferences as an innocent quirk of personality? Women who are the objects of such attraction can see things rather differently. They have recounted experiences of depersonalisation, whereby they don’t feel desired as particular individuals – only as placeholders for some fantasy of Asian femininity. “It always crosses my mind that I’m replaceable,” reports one Asian-American women who has encountered yellow fever. Zheng suggests we can think about this depersonalisation in terms of the category of objectification. When a person comes to feel like an interchangeable object, it can be difficult for them to maintain a sense of individual self-esteem.
+
+Race is a particularly fraught aspect of attraction. But comparable dislikes or obsessions can be found elsewhere too. The disabled are frequently desexualised, with many people still not being comfortable treating them as people with sexual needs, let alone as potential partners. Conversely, some trans women encounter ‘chasers’ who can be more captivated by them being transgender than any of their specific qualities as individuals.
+
+If you’re getting uncomfortable about where all this is heading, you wouldn’t be alone. Do we really want philosophers trawling through our intimate lives, looking for things to condemn? So long as our encounters and relationships with others are consensual, shouldn’t they be free from shame and overbearing moral judgement?
+
+Andrea Long Chu connects concerns about the policing of sexual and romantic desire to a significant episode in feminist history. Beginning in the 1970s, some ‘second-wave’ feminists adopted an explicitly political lesbianism, which included a commitment to not sleep with men. Chu contends that for these feminists, “lesbianism was not an innate identity, but an act of political will”, which was “founded on the belief that even desire becomes pliable at high enough temperatures.” But Chu is sceptical about this political self-disciplining of desire:
+
+\_\_\_
+
+The prospect of guilt-wracked able-bodied white people desperately seeking to demonstrate their personal growth by actively seeking friends and partners from minority groups brings its own obvious problems.
+
+\_\_\_
+
+nothing good comes of forcing desire to conform to political principle. You could sooner give a cat a bath. […] Desire is, by nature, childlike and chary of government. The day we begin to qualify it by the righteousness of its political content is the day we begin to prescribe some desires and prohibit others. That way lies moralism only.
+
+The culture of sanctimonious shaming that a political critique of desire might seem to invite can appear deeply unpleasant.
+
+Indeed, the wider politicisation of sexuality has its own grim history: eugenics, forced sterilization, anti-miscegenation laws, criminalization of homosexuality. An understandable reaction to these dark chapters would be to err on the side of caution by not providing any further pretexts for political meddling in consensual romantic and sexual activity.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Sexuality-thumbnail.webp)
+
+SUGGESTED VIEWING
+The limits of sexuality
+With Yasmin Alibhai-Brown, Niki Adams, Olivia Fane, Rana Mitter, Mikki Kendall](https://iai.tv/video/the-limits-of-sexuality)
+
+Other philosophers have sought to resist the depoliticising of desire—rightly, in my view. Perhaps the most sophisticated of these thinkers has been Amia Srinivasan. She recognises that the complaint that some people are somehow unfairly deprived of sex underpins the worldview of self-professed involuntary celibates (‘incels’), whose misogynistic sense of sexual entitlement has fuelled acts of murderous violence. But Srinivasan nevertheless invites us to “dwell in the ambivalent place where we acknowledge that no one is obligated to desire anyone else, that no one has a right to be desired, but also that who is desired and who isn’t is a political question, a question usually answered by more general patterns of domination and exclusion.”
+
+Isn’t all this concern over our desires ultimately moot though? Consider a lesson from pop music—one of the great repositories of folk wisdom about erotic desire. Echoing a line from the poet Emily Dickinson, we find Selena Gomez singing, “There’s a million reasons why I should give you up / But the heart wants what it wants.” The song is premised on a platitude: we don’t get to choose who attracts us. If desire is not under people’s control, then perhaps it’s useless to worry about it.
+
+But just because desire for others can often be experienced as involuntary in the moment, this doesn’t mean these desires completely escape our ability to shape them. Think about someone who tries to cultivate more adventurous culinary desires—successfully habituating themselves to new ingredients and cuisines in ways that eventually transform what foods they find themselves craving. Nietzsche envisioned an even more ambitious project of individual self-shaping: “One can dispose of one’s drives like a gardener and, though few know it, cultivate the shoots of anger, pity, curiosity, vanity as productively and profitably as a beautiful fruit tree on a trellis.” There are also more familiar attempts at emotional reorientation: from attending anger-management classes to seeing a therapist to help with low moods.
+
+Might we embark on a similar project of self-transformation of our romantic and sexual desires? Granted, that may not always be appropriate. For instance, Russell Robinson has suggested it can be legitimate for people of colour who have encountered persistent racial friction in their relationships to prefer partners of the same race. But for others whose desires are heavily determined by a potential partner’s race or whether they have a disability, some ethicists recommend a combination of individual self-reflection and socialising more widely than they otherwise would. The prospect of guilt-wracked able-bodied white people desperately seeking to demonstrate their personal growth by actively seeking friends and partners from minority groups brings its own obvious problems though. Being the recipient of condescending romantic benevolence could feel patronising, repulsive, or downright creepy.
+
+There is another path though. We can move away from thinking about individual discrimination and instead consider the wider social and material environment that shapes who is wanted. Take dating apps once more, which are now the most common way for people in many countries to meet a new romantic partner. Some designers and software developers recognise that the architecture of online platforms helps determine who is taken to be a desirable match. They have proposed designing these spaces with the value of justice in mind – aiming to “encourage accidents and exploration with the goal of actively counteracting bias”.
+
+\_\_\_
+
+The idea that who or how we desire can entrench injustice ought to be taken seriously.
+
+\_\_\_
+
+This could mean creating an algorithm that didn’t necessarily funnel users to the profiles of users who shared their own racial or disability status, even if those were the people they had tended to match with in the past. It might be a matter of restricting search functions – say, for cis users who only want to see trans profiles. Or it could involve community guidelines that prohibit people from explicitly proclaiming certain racial preferences in their profiles. Such design fixes are not confined to the online world. Some philosophers think that we should design institutions and urban spaces with an eye to social mixing, so that many different kinds of people will tend to meet on a regular basis. The hope is that greater familiarity will tend to discourage lopsided distaste or exoticisation in our patterns of desire. Likewise, we might start to rethink the stories we share about some groups: regular depictions of Asian men as nerdy shut-ins; the relative absence of well-rounded media exploring the romantic lives of people with physical disabilities; crass stereotyping of black women’s sexuality.
+
+Some will regard this as the worst kind of social engineering: our most intimate feelings manipulated for the sake of some unnatural ideal of equality. But the aim here is not to indoctrinate enough dupes to satisfy the needs of the otherwise unloveable or unfuckable. Instead, given there is no completely neutral way to design a dating app, plan a residential district, or commission media, then the proposal is to take into account whether some environments will further compound cultural or economic disadvantage. The effects on opportunities for romantic and sexual intimacy can be a part of that calculus. There is still a need for transparency and accountability in making such decisions. But since every design will encourage some behaviours and discourage others, it makes sense to keep the predictable harms of certain constellations of desire in mind.
+
+[![20 03 7.oliviafane.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-03-7.oliviafane.ata.webp)
+
+SUGGESTED READING
+Sex has nothing to do with love
+By Olivia Fane](https://iai.tv/articles/sex-has-nothing-to-do-with-love-auid-1358)
+
+We ought to avoid the complacency about the politics of desire which comes from bluntly concluding that the heart wants what it wants. The idea that who or how we desire can entrench injustice ought to be taken seriously. The best way to do that is not a culture of shaming individuals with fetishistic desires or racialised disinclinations; nor is it likely to be exhorting each of us to undertake a self-conscious reorientation of our sexual and romantic desires. We should instead look to the environments that set the scene for those desires, while seeking to intervene in the wider social and material architecture that shapes who we find attractive.

@@ -1,0 +1,77 @@
+---
+title: "The naked and the nude"
+subtitle: "Undressing the false dichotomy"
+author: "Philippa Levine"
+date: "6th September 2023"
+article_id: "2595"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "2,151 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/06.09.23-respaced.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-naked-and-the-nude-auid-2595"
+---
+
+# The naked and the nude
+
+*Undressing the false dichotomy*
+
+**By Philippa Levine** | *6th September 2023* | *Read time: approx. 11 mins* | *2,151 words*
+
+![The naked and the nude](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/06.09.23-respaced.jpg)
+
+---
+
+*While certain naked bodies are considered high art, others are considered profane. Philippa Levine argues that imperialism, class distinctions, and the professionalization of science are the forces that have shaped the dubious distinction between the nude and the naked.*
+
+Imagine walking down your local high street with no clothes on. In reality, it’s actually quite hard to picture because so few of us would ever contemplate taking such an action. But if you did, you would endure stares and catcalls, as well as stand a pretty good chance of being arrested for public nudity or for disturbing the peace. Yet at the same time naked bodies are everywhere in contemporary society: near-nakedness is ubiquitous in modern advertising, there are several television programs premised on nakedness, and we continue to insist that to be naked is to be natural. Yet this apparent state of nature has always been fraught with significance: legal battles have been fought over it, children have been removed from their families because of it, books and art works have been banned for promoting it. And you don’t need to walk down the street without your clothes on to know this. For an apparently natural state of affairs, the condition of nakedness has occupied a remarkable amount of legal, political, theological, social, economic, and cultural space. Nakedness is less a descriptive term connoting the absence of clothing than a historically constructed and highly contested state.
+
+Back in the 1950s, the influential art critic Kenneth Clark argued that whilst the nude occupied an important aesthetic niche in high art, the naked body was essentially despicable. He vividly distinguished the abject naked figure that signalled loss or absence from the aspirational artistic nude that encapsulated the highest beauty of the human form. The former, in his words, was a “huddled and defenseless body” whereas the latter conjured “a balanced, prosperous and confident body.” This delineation reflected a historical status quo anxious to banish carnal concerns from aesthetic judgement. Clark did not invent this divide; he was, rather, its astute and articulate messenger. Its roots are manifold, lying in part in religious sensibilities, in fears of sexual desire and its perceived consequences, as well as considerations of social status. Clark would have been fully cognizant of the fact that in ancient Rome a lack of clothing denoted slave or low social status; these were naked people, not nudes. Translated to artistic form, however, the nude was, if not sexless, then certainly beyond and above the grubbiness of physical desire unlike the naked bodies of pornography. In reality, of course, the distinction between artistic nude and naked was and always has been blurred.
+
+\_\_\_
+
+Nakedness is less a descriptive term connoting the absence of clothing than a historically constructed and highly contested state.
+
+\_\_\_
+
+Alongside the ways in which the naked body has for so long functioned as the focus of a specialized aesthetic within the world of art, it also became an increasing subject of clinical scrutiny in the sciences and in medicine during the course of the nineteenth century. Techniques of observation grew more sophisticated and scientific work proliferated and became professionalized.  With those developments, observing, measuring and studying the body emerged as a priority in disciplines as diverse as biology, anthropology, criminology and psychology. Where earlier sciences such as phrenology and physiognomy had focused on the head as the seat of reason, the new disciplines aimed to observe and examine the entire body – how clothed it was, how it was ornamented and presented, its angles and measurements, the relative size of different organs and features. To do so meant baring the body, thus nakedness promised to reveal quite literally the bare truth, reducing the human form to its anatomical and physiological fundamentals. This new ‘science of man’ articulated the idea that the unclothed body was the proper focus of science and the key to objective taxonomy. American anthropologist Louis Sullivan was offering a common truism when, in the 1920s, he insisted that “unless the subject is largely naked there is little advantage in photographing the body.”
+
+The assertions of science that naked bodies were vital to proper scientific investigation filtered down into the popular imagination through establishments such as anatomical museums, where displays of bodies claimed the high moral ground of scientific knowledge as the rationale for exhibiting nakedness. Though they often came under attack from an active social purity lobby, sheltering under the canopy of knowledge and scientific advancement offered a legitimacy that would otherwise have been denied them. In 1850, for example, Wooster Beach, owner of the New York Anatomical Gallery, successfully fought off a charge of obscenity on the grounds that their educational value made his wax models good moral exemplars.
+
+\_\_\_
+
+In the west, clothing – and its absence – were a fundamental measure of human progress. To wear clothes was to be civilised; nakedness became a measure of racial and civilizational difference.
+
+\_\_\_
+
+These changes in scientific and medical practice were occurring at much the same time as massive expansions in European imperialism, new forms of transport which made long-distance travel easier, and the development of anthropology. In the process, Europeans and Americans were introduced to diverse peoples who neither shared nor cared about the sartorial preferences of the west, and for whom an absence of bodily covering bore no relation to moral standing. When doctor and Presbyterian social reformer Charles Duguid founded the Ernabella Mission in the northern reaches of South Australia in 1937 he divided children into two groups: those classified as full-blood aboriginals were required to attend the mission school “in their natural state” but mixed-race children had to wear clothing, underscoring the distinction between those on the road to civilization, and those yet to reach that path. In the west, clothing – and its absence – were a fundamental measure of human progress. To wear clothes was to be civilised; nakedness became a measure of racial and civilizational difference. Throughout the nineteenth century this stereotype persuaded church-goers to fund overseas missions aimed at clothing ‘savages’, anthropologists to construct anthropometric data intended to measure racial difference, textile entrepreneurs to manufacture suitable clothing to cover ‘heathen’ bodies, and artists to seek out new and exotic subjects.
+
+In 1879, a London bookseller successfully fought off a prosecution brought against him for the display of photographs of naked Africans in the window of his shop. His solicitor successfully argued that the public had a substantial interest in depictions of Africans because of the Zulu War fought earlier that year. That argument of contemporary relevance was further bolstered by his acknowledgement that while ‘pink flesh’ might potentially have been understood as indecent, the same could not be said of Africans for whom nakedness was a routine state. Half a century on, the scanty clothing, primitive weaponry and exotic backdrops against which over three hundred colonial subjects were displayed at the Portuguese Colonial Exhibition in Porto in 1934 drove home the gap between the clothed White and the unclothed Other. Christian principles as well as a thorough sense of cultural superiority rendered a firm link for colonists between a lack of clothing and a state of savagery.
+
+\_\_\_
+
+In Clark’s distinction between what we might think of as good nudity and bad nakedness there also lurks a class distinction, an assessment of who had the ‘right’ to view the naked form.
+
+\_\_\_
+
+In Clark’s distinction between what we might think of as good nudity and bad nakedness there also lurks a class distinction, an assessment of who had the ‘right’ to view the naked form. In the late eighteenth century, Johann Winckelmann formulated what would become the Hellenic aesthetic ideal of the next century. He assumed that only the refined and the educated possessed the necessary sensibilities to “correctly appreciate” the naked human form. The result was a much more enthusiastic policing of so-called obscenity among the poor. Their exposure to nakedness became a dangerous business, given that they allegedly lacked the cool-headed objectivity of their betters who could approach an unclothed body without inflaming uncontrollable lust. Needless to say, canny entrepreneurs saw the opportunities such a reading offered. The arrogation of expertise and the increasing sense that improving pastimes were a necessity were easily transferred to the commercial sphere. Entertainers and vendors of postcards and photographs as well as publishers could advance their wares as edifying and civilising even as they exploited the profitable commercial shock value of bodily exposure. The distinction between a photograph intended for use by artists and one sold to the public helped keep booksellers, photographers and models out of the courtroom. The zealous American anti-obscenity campaigner, Anthony Comstock, insisted on that vital distinction. When in 1887 he arrested Roland Knoedler, a leading New York art dealer who provided the city’s grandees with European art for their private collections, it was not for the expensive art Knoedler sold but for the far cheaper photographic reproductions of art nudes that were increasingly popular among those of lesser means. Comstock invoked the principle of ‘relative obscenity’, arguing that the nude “exhibited to cultured minds in an art gallery, where it legitimately belongs, is a very different thing from what it appears to be to the common mind upon the public street in the shape of a photograph.” What was nudity on an expensive canvas became nakedness when hawked to the hoi-polloi. The elitism of his stance tacitly acknowledged the access enjoyed by the wealthy to expensive, limited-edition pornography, to art nudes and, of course, to live nude bodies. The distinction between what constituted nakedness and nudity often came down to cost and to who could claim a right to view.
+
+**[![bodies](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/bodies.webp)
+
+SUGGESTED READING
+The political power of your body
+By Clare Chambers](https://iai.tv/articles/the-political-power-of-your-body-auid-2049)**
+
+Debates about pornography and obscenity often turned on these distinctions between exclusivity and broad availability, between the access of the cultured and the uneducated, increasingly so as technologies of reproduction increased the circulation of both text and images. One lively arena in which that tension played out was in the scandals that erupted around ‘living picture’ shows in the 1890s and early 1900s. Originally an eighteenth-century drawing-room entertainment among the well-off, these tableaux vivants moved into the theatrical realm with models reenacting well-known artworks or historical scenes on stage. Performers wore close-fitting, flesh-coloured tights and body stockings that revealed the contours of the body, essentially simulating nakedness. The paintings and sculptures chosen for the tableaux were largely classical and neo-classical, in part because this was the dominant fine art aesthetic of the nineteenth century, but also because of the preponderance of lightly-clad female bodies in much of this work. It was a convenient way to meld the attractions of viewing naked and near-naked forms with claims to shape and elevate taste in the viewer; entrepreneurs running such shows invariably alluded to their aesthetic merit and their role in refining the tastes of an entertainment-hungry public. The educational claims and the allusion to high art turned displays of naked or pseudo-naked flesh into tasteful and edifying nudity.
+
+\_\_\_
+
+The nude-naked distinction reeks of privilege; it’s a denominator of hierarchical difference in which social standing, race and gender frequently determine whether you’re the object of a gaze or the person gazing.
+
+\_\_\_
+
+Things haven’t really changed all that much. We continue to abide by the distinction between nudity and nakedness even if the class divisions have shifted a little. We don’t talk of naked but of nudist beaches, a distinction which offers a degree of respectability and thoughtfulness to those who call themselves nudists (itself a telling term, deftly avoiding the taint of nakedness). In the west we continue to deploy the naked form to depict the exotic, a choice that implies a separation in which We keep our clothes on (we’re civilised) and They don’t (they’re not). Tourist websites for exotic locations continue to traffic in images of carefree naked ‘natives’ whilst Facebook’s policy on images of unclothed bodies erupts into controversy with some regularity. Their sledgehammer approach has blocked the paintings of the Flemish Baroque artist Peter Paul Rubens and innumerable examples of classical statuary. In 2015, the social media giant removed a video showing Australian Aboriginal women participating in a traditional ceremony because they were topless. Only a year later, they blocked one of the most famous images of the twentieth century, Nick Ut’s Pulitzer Prize-winning photograph of a naked Vietnamese child fleeing napalm. The state of nakedness is palpably as difficult for us to navigate in the twenty-first century as it has ever been.
+
+The nude-naked distinction reeks of privilege; it’s a denominator of hierarchical difference in which social standing, race and gender frequently determine whether you’re the object of a gaze or the person gazing. Nakedness and nudity don’t describe a physical state but they do reveal much about how we organise our world and why, if you do venture down the street without your clothes on, it’s unlikely you’ll escape the consequences. To be naked is more than merely to be without clothes. To be naked is to be at ground zero in a moral and a political struggle.

@@ -1,0 +1,65 @@
+---
+title: "Sex has nothing to do with love"
+subtitle: "Sex is thrilling, but the quiet importance of love can't be overstated"
+author: "Olivia Fane"
+date: "6th March 2020"
+article_id: "1358"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,363 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-03-7.oliviafane.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/sex-has-nothing-to-do-with-love-auid-1358"
+---
+
+# Sex has nothing to do with love
+
+*Sex is thrilling, but the quiet importance of love can't be overstated*
+
+**By Olivia Fane** | *6th March 2020* | *Read time: approx. 7 mins* | *1,363 words*
+
+![Sex has nothing to do with love](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-03-7.oliviafane.ata.webp)
+
+---
+
+This is a very easy essay to write. There is no relationship between love and sex.  Zilch.
+
+There will be those of you who cry out, ‘haven’t you heard of Eros?’
+
+Eros has to do with an all-consuming appetite to sexually possess another. It has to do with beauty, longing, hunger. It’s visceral, powerful.  Eros has to do with self and what the self passionately needs.
+
+But it has nothing to do with another real human being, with a real interior life.  In fact, interior lives actually interfere with Eros. Imagine what a passion-killer it would be to confess to one’s partner during a romantic Valentine’s supper how miserable you were at work, how you had lost your faith in God and were finding life meaningless, if you feared death or were desperately grieving your grandmother.  Eros would be severely dented.
+
+My mother taught me about Eros.  Eros is about play, repartee, flirting, teasing, dancing, mystery, one step forward, one step back.  One does it in the same vein as a good game of tig.  Hiding in one place only is less fun than forever changing places, calling out, ‘Cooee, where are you? Come and get me!’ only to disappear behind the curtain of another room entirely.  ‘Men so love to chase,’ she would tell me, ‘so never let yourself be caught!  Even in marriage, go on playing the game.’
+
+Over two millennia previously Aristotle had given the sexual appetite such short shrift that he relegated it to his Zoology.
+
+It so happened my mother played it extremely well.  At her funeral wake, ancient titans of industry would totter up to me and confess how in thrall they had been to my mother’s beauty, how totally in love with her they had been.  I was impressed.  The Fane Technique of Erotic Love had been tried and tested and given 5 stars. But it was only a couple of years ago that I discovered it wasn’t my mother’s technique at all, but rather that promoted by Marie Stopes in her bestseller *Married Love*, first published in 1918.  My grandmother would have read it hot off the press – it was a huge best seller and ran into countless editions.  And then, of course, she would have told my mother all about it, and then my mother had told me.
+
+Stopes’ thesis is that domestic life kills erotic love – because men so love ‘the chase’ - but there are measures one can take to keep sexual passion alive.  Her ideal was that a married couple might live in separate houses; failing that, separate bedrooms.  If money was really tight, a big thick curtain might be hung between the two lovers in the marital bedroom.  On no account must your husband ever see you naked except as an object of desire – apart from, she conceded, in the bath.  And in any particular year, she advised, live entirely separate calendars, you visiting your friends, while your husband visits his.  And then, she insists, when you see each other again, you will be aflame for each other once more.
+
+Yet why do we so insist that sexual desire for one another has to be the core of marriage anyway?  Why are the sexual thrills Stopes so anticipates given such high status?  After all, over two millennia previously Aristotle had given the sexual appetite such short shrift that he relegated it to his Zoology, because mankind shares the urge to procreate with other animals.  Nowadays we use the word ‘sexuality’ with bated breath, as though our erotic desires are actually important, a central part of who we are and such like.
+
+Love was seen as a joining of souls rather than as a joining of bodies.
+
+The answer is historical. Our modern sexualized culture took off big-time exactly a century ago.  Before then, societies had been more or less permissive - a wagging finger or a ‘let’s have fun!’ approach - but sexual activity had never been underpinned by academe or given any kind of status.  The Victorians may have been uptight about sex, but they were certainly romantic: their love letters are confessional, from the heart, open and honest.  Love was seen as a joining of souls rather than as a joining of bodies.  The sex they enjoyed (or didn’t, as the case may be) was conceived as a religious duty before God, an act of procreation.  They felt huge anxiety about the ever more prevalent use of contraception, believing this would make sex about ‘lust’ and ‘sensuality’ – mega boo words which resounded of appetite – ahead of the family, which was sacrosanct.
+
+At the end of the First World War, however, the family itself was under threat.  Women had proved themselves in arenas previously reserved for men: as farmers, drivers, workers in munitions factories.  Families had previously been economic units, and a woman would be uncomfortable, to say the least, if she tried to set up on her own.  When the divorce rate reached a staggering 7%, the US Government gathered together a task force of advisers from the new-fangled Social Scientists, the sociologists, the psychologists, sexologists, psychiatrists.  How was the family to be kept together now that the economic bond was broken?
+
+They came up with a brain-wave.  Freud was in the air and sex was being given long overdue status.  There also happened to be the social problem of prostitution, because wives weren’t satisfying their husbands at home.  What if they attempted to establish a new paradigm, namely that sex and love were one and the same thing, and the more of it you gave your husband, and the more he desired you, was something to be rejoiced over rather than something to be ashamed of?
+
+Erotic Love is first cousin to shopping-love. Our ‘sexuality’ turns out to be how we present ourselves in the market-place.
+
+These social scientists believed their own words, they weren’t being entirely manipulative as they began to propagate the new, progressive message.  But there was a spanner in the works, as the all-male academics acknowledged.  Namely, that women grow old, and as every year passes, become physically less desirable.  How was sex going to be the core of marriage when the sad truth was that lovelier, younger ladies remained on the outside of it?
+
+The can-do spirit prevailed.  Bring in the beauty parlour! In 1900, such an establishment didn’t even exist, but in the 1920’s they proliferated in their thousands.  Women could be taught, surely, how to keep their figures in trim, dye their hair, brush their teeth and keep them gleaming white, and use lotions and potions all through their lives.  Capitalism and the Body Beautiful are brothers-in-arms.
+
+Erotic Love is first cousin to shopping-love.  Our ‘sexuality’ turns out to be how we present ourselves in the market-place.  We need to be pruned, plucked, toned, dressed.  We turn ourselves into objects to be desired, to be bought.  In turn, we have to decide the kind of bodies which turn us on: their gender, age, specifications.  What kind of body will take us to the moon and back?  Because the aim of every sexual encounter, within a relationship or as a mutually satisfying one-night fling, is Pleasure, another God in our modern pantheon, and a pretty pathetic god at that, when it goes ‘pop’ within seconds after orgasm.
+
+The trouble with Love Proper is that it is so quiet it’s hard to hear in all the hullabaloo of our modern lives.  It’s all about gentleness and kindness and patience and dreary things like that.  We moderns prefer to invest in a life in which we find ourselves permanently thrilled, and then we say, ‘why aren’t we happy?  We have everything, beautiful people, beautiful things and sex beyond our wildest dreams.  Why do I feel so flat?’  Easy.  Sex might be huge delicious fun.  But ultimately, it’s pretty meaningless.  I’m on Aristotle’s team.  We humans can do a bit better than that.
+
+*If you want to hear from leading thinkers like this debating renowned philosophers, cutting edge scientists, headline-making politicians, and beloved artists, come to [HowTheLightGetsIn Hay 2020](https://howthelightgetsin.org/hay) for four days of debates and talks alongside music, comedy and parties.*
+
+*Olivia Fane will be appearing in Desire, Relationships and Sex to debate the relationship between sex and love.*

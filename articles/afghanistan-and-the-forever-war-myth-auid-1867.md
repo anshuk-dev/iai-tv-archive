@@ -1,0 +1,59 @@
+---
+title: "Afghanistan and the forever war myth"
+subtitle: "How long is forever?"
+author: "Philip Collins"
+date: "24th August 2021"
+article_id: "1867"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,561 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-24.Afghanistan-forever-war.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/afghanistan-and-the-forever-war-myth-auid-1867"
+---
+
+# Afghanistan and the forever war myth
+
+*How long is forever?*
+
+**By Philip Collins** | *24th August 2021* | *Read time: approx. 8 mins* | *1,561 words*
+
+![Afghanistan and the forever war myth](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-24.Afghanistan-forever-war.webp)
+
+---
+
+*Joe Biden’s slogan that it was time “to end the forever war” in Afghanistan was called imbecilic by former Prime Minister Tony Blair. But while the slogan might indeed be simplistic, it has proved remarkably effective and points to a deep truth: forever is a very short time in democratic politics, writes Philip Collins.*
+
+There is a lot of fog out there on the battlefield, said Clausewitz. There is a lot in here too, shrouding the arguments about war. It is never easy to make a case for combat but, since the Iraq conflict, it has become especially difficult. With the announcement that American troops will withdraw from Afghanistan by 31 August, the idea of the “forever war” has done a lot of the work in explaining why. The “forever war” is a claim that there is no viable exit. The war cannot be won, it can only be fought, endlessly, as neither side is either strong enough to win or weak enough to lose. In an uncharacteristically vituperative outburst, the former British Prime Minister called the idea of the forever war “an imbecilic slogan”. It is certainly an unexamined slogan and behind it lies further fog.
+
+The immediate question posed by the idea of the forever war is this: How long is forever? In truth, forever is not a long time. The eternal, in politics lasts about an electoral cycle. Under the terms of the deal that President Trump cut with the Taliban, American soldiers had been briefly spared enemy fire. Should President Biden renege on that deal, there would once again be a toll of American casualties, lasting forever, or until the President is seeking a second term in office.
+
+So, the forever war is a dispute about time scales, which are short in democratic politics. It is a common observation that democracies struggle to deal with issues – pensions policy, infrastructure, climate change – whose consequences are a long time arriving. The problem is especially acute in foreign policy. Mr Blair poses the question when he asks, in the essay he published deploring the withdrawal, “is long term a concept we are still capable of grasping?”
+
+How long is forever? In truth, forever is not a long time. The eternal, in politics lasts about an electoral cycle.
+
+The answer is that in the long-run we are all dead. Tyrannies have a lot of time. Fidel Castro was well known for speeches that ran overs six hours. So was Mao. Nobody had the authority to tell them to shut up. Democracies, especially in nations with vibrant media scrutiny, are much faster. There are two types of political candidate in a contemporary democracy: the quick and the dead. The diplomatic operation of a democracy, by contrast, takes its time and cultural change in Afghanistan operates on a geological standard. The forever war is, in these circumstances, an effective rhetorical label. Who has the patience for war that lasts 20 years without definitive success, let alone forever?
+
+But there is also more to this than the playing out of the different time signatures. In his plea for forbearance in Afghanistan, Mr Blair compares what he describes as the ideology of radical Islamism to post-war Communism. A process which began with the 1979 Iranian Islamic revolution, he argues, has culminated in Boko Haram, al-Shabab, al-Qaeda and ISIS. Radical Islam is, on this account, both a system and an ideology incommensurate with tolerance and secular government. Just as the West did not simply give up in its conflict with Communism so, Mr Blair urges, it should have the patience to see the conflict with radical Islam to its conclusion.
+
+Yet the comparison with Communism is not so easy. There is always less of a popular appetite for a hot war than a cold war. The battle of capitalism and communism was a war that was in part philosophical and in part material. Those were grounds on which Western nations were happy to fight. There is a thesis to be written on the contribution of Coco Chanel handbags in the glittering windows of the West in inducing a sense of envy that helped to bring down a communist system that couldn’t produce the goods.
+
+But whenever the heat turned up on the cold war, as it did in Vietnam for example, popular neglect quickly curdled into opposition. In 1974 a military science fiction novel by the Vietnam veteran Joe Haldeman was a great success. At the level of its ludicrous plot it was the tale of an interstellar war against an alien civilisation. At the level of painfully obvious allegory, it was a description of the futility of the American presence in Vietnam. The interstellar conflict was eternal and the name of the book was *The Forever War*.
+
+[Philip Collins and Hew Strachan clash over the prospect of peace with Lindsey German.](https://iai.tv/video/the-morality-of-war "Watch more videos on iaitv")
+
+All that said, the Cold War did have a philosophical underpinning. There was always a pro-Soviet lobby in the Western democracies – the British left made fools of themselves through naiveté, the French left through complicity – but the main body of the people had no trouble in regarding their free nation as uncomplicatedly superior to the communist nations. This was all inchoate, unformed and unspoken but there was to the Western arguments a sense of underpinning legitimacy.
+
+That is not true in the case of the intervention in Afghanistan which is why Mr Blair devotes much of his essay to restating the case. The Taliban were, he said, the host for Al-Qaeda, the perpetrators of 9/11 and a government given to medieval repression of its people, especially the women. “We held out the prospect”, writes Blair, “of turning Afghanistan from a failed terror state into a functioning democracy”. If we truly believed this, forever would not be such a long time.The serious objection to Mr Blair’s case is not that it is undesirable but that it is unachievable. Peter Galbraith, the former United Nations deputy special representative for Afghanistan retorted that the attempt to build a centralised state in a geographically and ethnically diverse country was itself imbecilic.
+
+The practical restraint is a case that Blair himself has made. Based on a fairly loose blending of Thomas Aquinas and Hugo Grotius, with a sprinkling of Michael Walzer, Tony Blair’s 1999 speech to the Economic Club in Chicago remains the best modern attempt to create a legitimate language for intervention. The Chicago speech fell into two parts which correspond to a distinction in the just war literature. The less controversial part of the speech was the *jus post bellum*, the definition of how the peace would repair the wrong for which the war was fought. The crucial part though was the case for military intervention itself, the *jus ad bellum*. The central case was a deliberate restatement of Aquinas: that a just war could only be fought to correct an evident wrong. But this was, interestingly, made subject to a prudential caveat: action can only be taken “if we have clear objectives and we are going to succeed”.
+
+“We held out the prospect”, writes Blair, “of turning Afghanistan from a failed terror state into a functioning democracy”. If we truly believed this, forever would not be such a long time.
+
+The crucial conflict in this respect is Sierra Leone. In an excellent piece for *Foreign Policy* Janine di Giovanni recalled the successful British intervention in May 2000 in which General David Richards ended the slaughter and persuaded the war lords to stop the fight. This remarkably quick and successful victory was important to Blair’s resolution that intervention could succeed. But, in truth, Sierra Leone is not an exemplary case of how wars tend to end.
+
+War comes in many guises. Wars of conquest, civil wars, rebel wars, insurgency wars, religious wars, proxy wars and wars of regime change. Some wars end but leave scars that will hurt into the future, like the Great War at Versailles or the Bosnian conflict. Sometimes, like in Syria, one side grinds down the other. If force will not prevail then a conflict will not end until, as happened in Northern Ireland, both parties to the dispute are keen to settle. Talks during extant conflicts are usually conducted in secret and, these days, almost always involve all disputants no matter how egregious. Talks of this nature are usually convened by an NGO rather than the UN, the body designed for such work. These talks have worked in Colombia, for example, but they take time. Progress can take forever.
+
+The question remains whether we have the patience for it. The slogan forever war is a way of signalling that patience is wearing thin. The case isn’t convincing enough and the consequences are frightening. The Hindu epic the *Bhagavad Gita* dramatizes the conflict between our best intentions and the likely upshot of action. On the eve of battle the warrior Arjuna expresses to his mentor Krishna his anxiety about the loss of life that will occur in the war. Krishna replies with great purity that Arjuna must do his duty regardless of the consequences. TS Eliot takes up Krishna’s view in *Four Quartets*: “And do not think of the fruit of action. Fare forward… Not fare well, But fare forward voyagers”. The slogan of the forever war falls into the gap between our intentions and the consequence of our actions. To the people of Afghanistan we say not fare forward, but farewell.

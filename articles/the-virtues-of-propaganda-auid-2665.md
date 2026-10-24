@@ -1,0 +1,90 @@
+---
+title: "The virtues of propaganda"
+subtitle: "Why facts don't change people's minds"
+author: "Anna M. Hennessey"
+date: "10th November 2023"
+article_id: "2665"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,431 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-darted.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-virtues-of-propaganda-auid-2665"
+---
+
+# The virtues of propaganda
+
+*Why facts don't change people's minds*
+
+**By Anna M. Hennessey** | *10th November 2023* | *Read time: approx. 7 mins* | *1,431 words*
+
+![The virtues of propaganda](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-darted.webp)
+
+---
+
+*With conspiracies and misinformation on the rise, many believe that we should dispense with propaganda and emotion in favour of a rational, fact-based approach to persuasion. But this is not necessarily effective and in some cases counterproductive argues Anna Hennessey. Propaganda should not be a dirty word and whether it be in matters of public health or political security, we mustn’t be scared to embrace it.*
+
+When asked recently on National Public Radio about how to awaken people to important matters such as nuclear winter and climate change, esteemed American climatologist Alan Robock explained that “intellectually is not the way to do it, you need to touch people’s feelings.” Publishing more academic journal articles, will not transform ideology, he suggested. More emotionally charged forms of communication, such as popular publications and film, have a higher impact on how people establish their understandings of the world.
+
+Try as we might, our use of data and evidence to prove our points, be they of a scientific, cultural, or historical nature, often fall flat with our audiences. Numerous studies have shown that due to a myriad of cognitive biases such as belief perseverance and confirmation bias, facts unfortunately do not change people’s minds. One of the key historical figures who understood this was Edward Bernays, Sigmund Freud’s nephew and father of the field of Public Relations. Born in Vienna in 1891, Bernays died in Cambridge, Massachusetts in 1995, living a long, prolific life and architecting profound changes in American society from behind the scenes. The use of emotions, not science or facts, became central both to Bernays’ work and to his success.
+
+\_\_\_
+
+While many in political, academic, and public spheres attempt to prove their points and change others’ perspectives through facts, science, analysis and argumentation, there may be other important ways of getting to the goal.
+
+\_\_\_
+
+Surprisingly, Bernays and his ideas continue to exist beneath the radar of most contemporary scholars, and many in the academic sphere have never heard of him. Jason Stanley, a philosophy professor at Yale, has examined propaganda at length and argues we must understand how it works. But Bernays is seldom of interest to scholars as they discuss such hot button topics as war, disease, racial equity, climate change, etc., and many do not understand the extent to which tapping into human emotions is essential to everything they talk and write about.
+
+Bernays merged psychology and marketing to create modern forms of propaganda, never underestimating the power that emotions and stories have over scientific facts. Learning from Freud that people are fundamentally irrational and guided by their senses, he used his uncle’s theories on the human psyche for practical purposes and to develop the field of Public Relations.
+
+[![related-video-image](https://iai.tv/assets/Uploads/22-04-21-110-dangerous-desires-thumbnail.clc.webp)
+
+SUGGESTED VIEWING
+Dangerous desires
+With Joanna Kavenna, David Nutt, Güneş Taylor, Anna Waldstein](https://iai.tv/video/dangerous-desires)
+
+As mapped out in his slim 1928 book, [*Propaganda*](https://archive.org/details/in.ernet.dli.2015.275553/mode/2up), Bernays explains that to sell products, companies have the capacity to tap into human desire, connecting the purchase of a product to the fulfillment of a desire. Most often, the desire has nothing at all to do with the product, but Bernays was an expert at fusing the two: “A man buying a car may think he wants it for purposes of locomotion, whereas the fact may be that he would really prefer not to be burdened with it, and would rather walk for the sake of his health. He may really want it because it is a symbol of social position, an evidence of his success in business, or a means of pleasing his wife.
+
+During the twentieth century, Bernays successfully implemented propaganda over and over again, working with major American corporations and using media campaigns to transform the way that Americans were accustomed to buying and selling products. However, his methods also penetrated the political sphere, often in a destructive way, with figures like Joseph Goebbels using Bernays’ ideas and writings as a blueprint to manipulate the masses in Germany in support of the Third Reich in the years leading up to World War II.
+
+As his opening paragraph in *Propaganda* makes clear, Bernays saw those who understand how to use propaganda as the true unseen entity governing our society: “The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country.”
+
+Using images and stories was integral to how Bernays succeeded in transforming public opinion. Perhaps the best-known example of this at work in Bernays’ work was his 1929 campaign for American Tobacco Company, which he called the Torches of Freedom Campaign. American Tobacco had hired Bernays to convince the public that women should smoke cigarettes, and in particular, Lucky Strike cigarettes. At the time, the public viewed female smokers as immoral and corrupt. American Tobacco employed Bernays to transform perspectives and change this taboo.
+
+\_\_\_
+
+Countering this glamorous perception of smoking requires effective counterpropaganda, not just pointing out the evidence.
+
+\_\_\_
+
+In 1929, Bernays carefully selected and hired a group of beautiful young women, paying them to march down Fifth Avenue in New York City’s Easter Day Parade while holding lit cigarettes in their fingers. Key to the propaganda was Bernays’ act of instructing the women to describe their smoking as an act of protest and have them refer to the cigarettes as “Torches of Freedom.”
+
+Bernays also hired photographers to take pictures of the women. Well-connected to the media, he tipped off local newspapers, letting them know that there would be a “feminist march” at the Easter Parade. Photos of the women and stories about their march made front-page headlines across the country with a focus on how cigarettes were a symbol of feminist freedom. Shortly thereafter cigarette sales skyrocketed, and the stigma attached to female smokers faded. Smoking was no longer viewed as disgusting; it was glamorous and liberating.
+
+![girl in red](assets/Uploads/girl-in-red.jpg)  
+*“Lucky Strike, Girl in Red” (1936). Color print, assembly (Carbro) process.*
+
+*Public Domain, Wikimedia Commons. George Eastman House Collection*.
+
+The connection between personal freedom and smoking cigarettes was entirely irrational but it was the connection that Bernays wanted to make. He succeeded in doing so by showing attractive images and words that made people attach their psychological desires of being free and beautiful to the act of smoking.
+
+[![nos](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/nos.webp)
+
+SUGGESTED READING
+The metaphysics of laughing gas
+By Jonathan Bricklin](https://iai.tv/articles/the-metaphysics-of-laughing-gas-auid-2234)
+
+Even after Sir Richard Doll, the distinguished British medical epidemiologist known for his work on the epidemiology of smoking, produced extensive scientific evidence during the mid-twentieth century showing a clear connection between smoking and cancer, governments were slow to regulate tobacco and people continued to smoke. We are almost a quarter of the way through the twenty-first century and smoking continues to remain a leading cause of death worldwide. Images of attractive smokers and drinkers continue to emerge through media and film platforms, strongly influencing consumers regardless of the scientific evidence on the dangers of these activities. Countering this glamorous perception of smoking requires effective counterpropaganda, not just pointing out the evidence. Thisis why some governments use terrifying and often disturbing imagery about the negative effects of smoking that may not be true for everyone all the time. The facts by themselves don’t change people’s minds and many would believe that they are justified in doing this.
+
+\_\_\_
+
+Otherwise, we are at risk of letting a small group of people who do understand propaganda dictate and define that which is important to the world.
+
+\_\_\_
+
+At the root of his public relations work, Bernays was in the business of transforming cultural perceptions through the use of images, stories, and emotions. As Mark Crispin Miller notes in his introduction to the 2004 republication of *Propaganda,* the word “propaganda” continues to be used in the pejorative sense, and yet we must understand how the mechanism of propaganda functions if we want to change the world that we live in. Otherwise, we are at risk of letting a small group of people who do understand propaganda dictate and define that which is important to the world. Bernays maintained that whether propaganda is good or bad depends on the cause it is attached to. Martin Luther King Jr. also believed in the need for positive propaganda, as did W.E.B. Du Bois, the latter of whom spoke of propaganda’s power in the arts. The intelligent use of words and images for the good is of central importance to these undertakings.
+
+While many in political, academic, and public spheres attempt to prove their points and change others’ perspectives through facts, science, analysis and argumentation, there may be other important ways of getting to the goal. A better understanding of the impact of emotions and how to embrace them as a tool to change or educate people, could advance the world in a positive way.

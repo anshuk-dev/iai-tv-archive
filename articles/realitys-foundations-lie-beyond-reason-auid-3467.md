@@ -1,0 +1,97 @@
+---
+title: "Reality's foundations lie beyond reason"
+subtitle: "Fichte, Hegel, and Heidegger on the limits of intelligibility"
+author: "G. Anthony Bruno"
+date: "14th January 2026"
+article_id: "3467"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,695 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Realitys-foundatoions.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/realitys-foundations-lie-beyond-reason-auid-3467"
+---
+
+# Reality's foundations lie beyond reason
+
+*Fichte, Hegel, and Heidegger on the limits of intelligibility*
+
+**By G. Anthony Bruno** | *14th January 2026* | *Read time: approx. 8 mins* | *1,695 words*
+
+![Reality's foundations lie beyond reason](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Realitys-foundatoions.webp)
+
+---
+
+*We like to think of the world as ultimately fully intelligible, a place that we will one day be able to make complete sense of, emotionally and rationally, a place where we might feel at home. But while this dream has seduced philosophers and scientists alike, it's ultimately a fantasy, argues **G. Anthony Bruno**. Whenever we try to make sense of the world—through experience, reason, art, or anything else—we find that our activity is shaped by certain brute conditions that are simply given, without reason. Philosophy’s task is not to dispel this strangeness, but to find how to live productively within it.*
+
+**1. Is reality fully explicable?**
+
+We experience the world as a place we can make sense of—as intelligible. But what conditions make this possible? Kant argued that the world’s intelligibility conditions cannot themselves be given in experience without pushing back the question. But are these conditions given to us without any reason? Can intelligibility conditions be brute facts or must there be reasons for them? This question has divided philosophers since Kant’s [Copernican revolution](https://plato.stanford.edu/entries/kant/#KanCopRev).
+
+[According to Kant](https://plato.stanford.edu/entries/kant/#TraDed), the intelligibility conditions of experience include space and time, the forms of judgment, the categories of the understanding, and ideas of reason. He does not think that these conditions are entirely derivable from reason itself. They seem rather to be brute facts about our standpoint, arising neither from worldly matters nor from first principles. As I show [in a new book](https://global.oup.com/academic/product/facticity-and-the-fate-of-reason-after-kant-9780198875673), the question of whether there are limits on what we can know about the conditions of intelligibility divides post-Kantian philosophy. Are these conditions brute facts that lie beyond explanation? Two major philosophical traditions flow from this question.
+
+\_\_\_
+
+Reality is not ultimately explicable insofar as the conditions of intelligibility are, as Kant saw, uniquely brute.
+
+\_\_\_
+
+On the one hand, there are those who aim to eliminate bruteness entirely, so that everything is explicable. Thus, [German Idealists like Fichte and Hegel](https://iai.tv/articles/hegel-vs-heidegger-can-we-uncover-reality-auid-3001) claim that intelligibility conditions are absolutely necessary, since, when properly deduced from pure thought, no contrary conditions are thinkable. By deducing conditions from pure thought, a science of the intelligibility of experience can remove the false appearance that such conditions are brute facts.
+
+On the other hand, those who deem bruteness unavoidable regard it as making all meaningful endeavours, including a science of the intelligibility of experience, possible at all. Thus, phenomenologists like Heidegger claim that intelligibility conditions, although they can be philosophically interpreted, are nevertheless brute, for they are not deducible from pure thought. And yet, as Kant showed, they are also not given to us in experience.
+
+Phenomenologists use the term “facticity” to denote such intelligibility conditions as embodiment, historicity, sociality, mortality, and temporality. For example, experience cannot ultimately explain temporality, for, insofar as it is intelligible, experience is always already temporally structured. Facticity is thus the character of the bruteness or groundlessness of intelligibility conditions. The concept of facticity is typically associated with Heidegger, as well as Sartre, de Beauvoir, and Merleau-Ponty. However, what is often overlooked is the concept’s origins in one of German Idealism’s founding figures, [Johann Gottlieb Fichte](https://plato.stanford.edu/entries/johann-fichte/).
+
+Fichte coins “facticity” to denote what he regards as intolerable bruteness in Kant’s philosophy, in which intelligibility conditions, particularly space and time, seem to be groundlessly forced onto our thinking. According to Fichte, a genuine science of intelligibility must show that such conditions are not imposed on pure thought, lest thought be just another causally determined effect in a mechanistic universe. Intelligibility conditions must rather be generated by the absolute freedom of thought—a first principle that he calls “the I”.
+
+\_\_\_
+
+Existence itself is the undeducible remainder of science, which refutes any claim to presuppositionlessness.
+
+\_\_\_
+
+My recent book’s main historical claim is that we best understand the path from Kant through German Idealism to phenomenology by understanding the trajectory of the concept of facticity. Its main philosophical claim is that reality is not ultimately explicable insofar as the conditions of intelligibility are, as Kant saw, uniquely brute.
+
+**2. Two competing answers**
+
+The parting of the ways after Kant begins with Fichte’s method of deducing intelligibility conditions from pure thought. Fichte’s method follows a dialectical movement of thought that reveals a contradiction in an apparent condition, which it resolves by discovering a successor condition. His deduction of intelligibility conditions departs from Kant by appealing not to brute facts about our standpoint, but rather to a series of resolvable contradictions that arise from the I.
+
+Hegel lauds Fichte’s dialectical campaign against facticity yet critiques its execution. A science of intelligibility aims to explain everything, to find a reason for all. But Fichte presupposes the I as a first principle, which has no explanation. Hegel therefore develops dialectical thinking into a science that purports to be capable of deducing nothing less than presuppositionless intelligibility—rationality without remainder.
+
+German Idealism’s final fissures appear when [Friedrich Wilhelm Joseph Schelling](https://plato.stanford.edu/entries/schelling/) charges Hegel with presupposing not only the pursuit and purpose of a science of intelligibility, but also existence as such, without which intelligibility conditions would have no significance. That anything at all exists such as to be intelligible is a brute fact that contributes to intelligibility yet defies dialectical deduction. In this respect, existence itself is the undeducible remainder of science, which refutes any claim to presuppositionlessness.
+
+By arguing that experience opens us to the brute givenness of existence, Schelling proves to be a pivotal yet neglected figure in the history of the concept of facticity. He inaugurates a fundamental transition in which pure thought is viewed no longer as free to deduce absolutely necessary intelligibility conditions, but rather as thrown into undeducible or “unprethinkable” existence. Moreover, Schelling’s defense of the concept of facticity prefigures its eventual revival by Heidegger and the phenomenological tradition.
+
+For Heidegger, we originally find ourselves as “Dasein” or being-there. The intelligibility conditions of the meaningfulness of Dasein include being-in-the-world and being-with-others, since no meaningful pursuits are possible without a dwelling that we share with others. But then intelligibility conditions are not ultimately deducible. This is because they make all meaningful pursuits, including dialectical deduction, possible in the first place. Thus, German Idealism’s deductions unavoidably presuppose brute facts about Dasein.
+
+[![hiedegger and hegel](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/hiedegger-and-hegel.webp)
+
+SUGGESTED READING
+Hegel vs Heidegger: can we uncover reality?
+By Robert Pippin](https://iai.tv/articles/hegel-vs-heidegger-can-we-uncover-reality-auid-3001)
+
+Moreover, for Heidegger, hermeneutics offers a new method for discovering intelligibility conditions. This method begins with the factical situation into which Dasein is thrown and asks how this situation allows Dasein to investigate it in the first place. For example, hermeneutics discovers our historicity, which discloses the world to us according to an inherited frame of understanding. Our historicity also partly conceals the world, given what this inherited frame excludes.
+
+Hermeneutic inquiry exhibits the very intelligibility conditions that it discovers. For example, the hermeneut is a historical being whose thinking bears an inherited frame of understanding, one that discloses as it conceals. Indeed, her frame of understanding might conceal historicity itself, for example, by purporting, in German Idealist fashion, to deduce historicity from ahistorically pure thought. Such a frame would obscure a factical presupposition of our being-there.
+
+Heidegger is clear that while philosophy cannot deny its factical presuppositions, it cannot unquestioningly admit them either. To interpret the intelligibility conditions that our Dasein presupposes is to both enrich and transform them. On the one hand, hermeneutics intensifies the richness of the intelligibility that a condition affords by revealing, for example, that Dasein’s worldliness is specifically social, that its sociality is specifically historical, and so on. On the other hand, hermeneutics transforms the inherited conception of a condition by revealing, for example, that temporality has ultimately existential rather than merely chronological or metaphysical significance.
+
+\_\_\_
+
+We must ask anew whether we are incipiently at home in an intelligible world or face the uncanniness of being in that very world.
+
+\_\_\_
+
+We can grasp the German Idealists’ denial of facticity as an absolutization of Kant’s Enlightenment ideal of rational cognition, according to which thought is the source of the form of cognition. To absolutize this ideal is to demand that thought is the source of both the form and the matter of cognition—it is to demand, for a science of intelligibility, that nothing is given to thought. Satisfying this demand would consist in demonstrating the infinitude of pure thought.
+
+Heidegger follows Kant in defending a philosophy of finitude. But while his hermeneutical turn revives Kantian modesty, it is not an unqualified return to a Kantian position. Heidegger motivates a richer account of brute facts than Kant, one that draws on a wider array of capacities and experiences, including care, anxiety, and dying. Nevertheless, insofar as Heidegger faces up to our finitude, he regains the spirit, if not the letter, of Kant’s philosophy.
+
+**3. *Ich bin* or *Es gibt***
+
+For Heidegger, the demand that thinking presupposes nothing is an obstacle to grasping our factical situation, which is to say that it is an obstacle to grasping ourselves. By rejecting this demand, a hermeneutics of facticity allows us to pursue an authentic self-understanding. The corrective power of hermeneutics is accordingly to deny enlightenment to make room for authenticity—where enlightenment is evasive of, and authenticity is resolute toward, our thrownness.
+
+Kant regards dogmatic philosophy as evasive in its own way, since it refuses to critique our power of reason. But whereas Kant views dogmatism as a danger to the academy, but not to the public, Heidegger exposes an evasion of facticity that is observable not just in philosophy, but also in everyday life. For example, one might defer to assurances that intelligibility conditions are part of a divine plan, or reducible to causes beyond possible experience, or nothing about which we should trouble ourselves. Such assurances flee from our thrownness and hence from any responsibility for owning that thrownness. A hermeneutics of facticity is accordingly necessary for resisting a ubiquitous form of inauthenticity.
+
+Reason’s fate after Kant becomes our own. By philosophizing in light of the Copernican revolution, we inherit the tension between the competing responses to the post-Kantian question of whether a science of intelligibility can tolerate brute facts. We must therefore ask anew whether bruteness is impermissible or unavoidable. We must ask anew whether we are incipiently at home in an intelligible world or face the uncanniness of being in that very world. We must ask anew whether we are held by the absolute freedom of thought or are thrown into the groundless givenness of being. *Ich bin* or *Es gibt*. There is, it seems, no third.

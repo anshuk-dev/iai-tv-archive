@@ -1,0 +1,73 @@
+---
+title: "An ode to laziness"
+subtitle: "Thinking beyond productivity"
+author: "Matthew Qvortrup"
+date: "5th January 2024"
+article_id: "2706"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,016 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-01-05-ode-to-laziness.tn1.dwk.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/an-ode-to-laziness-auid-2706"
+---
+
+# An ode to laziness
+
+*Thinking beyond productivity*
+
+**By Matthew Qvortrup** | *5th January 2024* | *Read time: approx. 5 mins* | *1,016 words*
+
+![An ode to laziness](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-01-05-ode-to-laziness.tn1.dwk.webp)
+
+---
+
+*Fixated with profits and productivity, our culture has long glorified work and condemned laziness. The lazy are roundly critiqued as unfulfilled and ineffective, but have we got this the wrong way round? Matthew Qvortrup looks to the history of philosophy to argue that there is perhaps something to be said for idlers and idleness.*
+
+Laziness is anathema to our work-obsessed civilisation. Over the centuries, thinkers have denounced idleness and celebrated industry. Solon, the founder of Athenian democracy, is said to have condemned “laziness [as] the mother of all evil”. The philosopher-bishop, George Berkeley, proclaimed that ‘the Lord conceal[s] Himself from the eyes of… the lazy’. And, the sociologist, Max Weber, famously attributed the success of capitalism to the legendary “Protestant work ethic”.
+
+Yet, some of us – grudging the return to the office after the winter break – might wonder whether laziness is really so bad, and work so good. Is it not possible that maybe, just maybe, there is something to be said for idles, idleness, laziness, or whatever you want to call it? Despairing workers, still hungover from New Year celebrations, might take some solace from the history of philosophy; as, in tandem with the tradition of industriousness set out above, there has existed an alternative school of thinkers, who have written in celebration of laziness.
+
+In a book appropriately entitled *In Praise of Idleness*, the English philosopher, Bertrand Russell, told,
+
+[the] story of the traveller in Naples who saw twelve beggars lying in the sun (It was before Mussolini), and offered a lire to the laziest of them. Eleven of them jumped up to claim it, so he gave it to the eleventh. This traveller was on the right lines…I hope that after reading the following pages, the leaders of the Y.M.C.A. will start a campaign to induce good young men [and presumably women and others too] to do nothing”.
+
+Why, might we wonder? Because, wrote Russell, “leisure is essential to civilisation”.  In Russells’ view, it requires time of rest, idleness to be creative. Those who are constantly caught up in the maelstrom of back-to-back meetings, never rise above things; never get a perspective on life, and will eventually be brought down by the punishing pace of the never-ending rat-race.
+
+And much as spoilsports, like Solon and George Berkeley, might have disagreed, many other illustrious minds have sided with Russell.
+
+[![old tree](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/old-tree.webp)
+
+SUGGESTED READING
+On being useless: a daoist reflection
+By Edward McDougall](https://iai.tv/articles/uselessness-as-life-affirmation-a-daoist-reflection-auid-1217)
+
+The philosopher Aristotle was anything but idle. His surviving works total more 1.5 million words. Yet the Macedonian-born thinker appreciated the positive effect of idleness. “Leisure”, he wrote, “seems itself to contain pleasure and happiness and felicity of life. And this is not possessed by the busy but by the leisured”.
+
+Taking his cue from the ancient thinker, several modern writers have reached the same conclusion. Michel Montaigne, while busy writing one of the longest collection of essays in the canon of Western thought, nevertheless believed that “the greatest favour I could do for my mind was to leave it in complete idleness, caring for itself, concerned only with itself, calmly thinking of itself”. Though, he admitted that this ‘idleness produces fickle changes of the mind”.
+
+So, much as moralists warned against it, this view of productive laziness view took root among the thinking classes in the following centuries. Though, it should be said, it was a doctrine that the powers that be were anxious to conceal from the working classes.
+
+But those who could afford to live a life of leisure sang its praises, and none more so than Gotthold Ephraim Lessing. He was a very respected thinker and poet, and the favourite student of the philosopher Immanuel Kant. He was by all account a diligent scholar, but even he once faced an essay crisis.  Once, as a twenty-two-year-old student, he decided that be couldn’t be bothered and, instead of concentrating on Latin verbs, he wrote an ode to laziness, which became a classic. He wrote, *‘*Let us be lazy in everything, except in loving and drinking, except in being lazy’. In 1784, after Lessing’s death, the composer Joseph Haydn set the poem to music.
+
+When Karl Marx began thinking about the communist society, his ideal was not one of production obsessed workaholics. Rather, the German thinker dreamed of going fishing in the afternoon, and discussion poetry in the evenings. This view inspired many, including his son-in-law, Paul Lafargue.
+
+Lafargue, a Caribbean journalist may not be a household name. He is chiefly known today as the man who married Karl Marx’s daughter Laura, but he was a rather remarkable man. Born in Cuba to French and Creole parents, he was apparently the first writer of African ancestry to write a best-seller in France; and a revolutionary to a degree that even his father-in-law found extreme.
+
+The book that won him fame in his lifetime – and beyond – is one pertinent to our theme. His *The Right to Be Lazy* is a veritable battle cry for idleness against the drudgery of work.
+
+A strange delusion possesses the working classes of the nations where capitalist civilization holds its sway. This misconception drags in its train the individual and social miseries which for two centuries have tormented sad humanity. This delusion is the love of work, the furious passion for work, pushed even to the exhaustion of the vital force of the individual and his progeny. Instead of opposing this mental abnormality, the clerics, the economists, and the moralists have cast a sacred halo over work.
+
+Regarding wage labour as tantamount to part-time slavery, Lafargue argued that it was only in leisure and laziness that people achieved health, joy and self-realisation.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-11-17-The-economics-of-almost-everything.dwk.webp)
+
+SUGGESTED VIEWING
+The economics of almost everything
+With Daniel Markovits, Martin Wolf, Madeleine Pennington](https://iai.tv/video/the-economics-of-almost-everything)
+
+As we enter the second quarter of the twenty-first century, maybe we ought to reconsider these thoughts and ideas. Recent studies show that, despite advances in technology which promised to liberate us from the toil of labour, we are working harder than ever and dreading it more and more.  In such circumstances, it seems sensible to wonder whether laziness might offer us what we are missing. And we might wonder whether it is, in fact, rather unfair to lambast the idle among us.
+
+As the old joke goes, don’t blame the lazy, they didn’t do anything!

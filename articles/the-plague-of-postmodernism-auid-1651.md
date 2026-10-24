@@ -1,0 +1,147 @@
+---
+title: "The plague of postmodernism"
+subtitle: "Interpretations are not enough to change the world"
+author: "Mike Cole"
+date: "13th October 2020"
+article_id: "1651"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,895 words"
+read_time: "Read time: approx. 14 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/postmodernplague2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-plague-of-postmodernism-auid-1651"
+---
+
+# The plague of postmodernism
+
+*Interpretations are not enough to change the world*
+
+**By Mike Cole** | *13th October 2020* | *Read time: approx. 14 mins* | *2,895 words*
+
+![The plague of postmodernism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/postmodernplague2.webp)
+
+---
+
+*The world, arguably, has never been in greater need of change. Can philosophy provide it, or is the discipline destined to forever interpret the world without meaningfully effecting it? Is postmodernism not only the epitome of this, but the cause of current our dire situation? Mike Cole uncovers the problems with postmodernism, and the promise of Marxism. [Read Simon Glendinning's response](https://iai.tv/articles/the-potential-of-postmodernism-auid-1650).*
+
+The rationale for this article is to insist that Marx’s famous pronouncement that ‘philosophers have hitherto only interpreted the world in various ways; the point is to change it’ is more relevant today than ever before. Postmodernism is by definition merely an interpretation of the world and as such precludes a political project, whereas what is needed is to heed the call for the transformative progressive change that Marxism represents.
+
+Challenges to Marxism have a long history and began perhaps with the sociologist Max Weber. While Albert Salomon’s famous observation that Weber was involved in a debate ‘with the ghost of Marx’ (Salomon, 1935) may be somewhat overstated, ever since Weber (c. 1915) made a number of criticisms of Marx and Marxism, the intellectual struggle against Marxist ideas has been at the forefront of critical social theory. Weber suggested that social class might not be solely related to the mode of production; that political power does not necessarily derive from economic power; and that status as well as class might form the basis of the formation of social groups.
+
+Subsequent attempts to undermine Marxist ideas have ranged from the post-structuralist writings of Michel Foucault who believed that power is diffuse rather than related to the means of production, and of Jacques Derrida who stressed the need for the deconstruction of all dominant discourses; to the postmodernism of Jean-François Lyotard who was incredulous of all grand narratives, and of Jean Baudrillard who argued that binary oppositions (such as the ruling and working classes) had collapsed. Foucault’s treatment of the connections between the body, power and sexuality has understandably been widely adapted in feminist analysis. With respect to Derrida, attempting to make the case that ‘deconstruction … is not the same as destruction’ (Atkinson, 2002, p. 77), prominent UK postmodern feminist Elizabeth Atkinson, cites leading social thinker and philosopher, Judith Butler who argues:   
+To deconstruct is not to negate or to dismiss, but to call into question and, perhaps most importantly, to open up a term … to a reusage or redeployment that previously has not been authorised (cited in Atkinson, ibid.)
+
+Marxism demystifies discourse that masks the inherently exploitative nature of capitalist society and, unlike poststructuralism, points in the direction of a non-exploitative world.
+
+As I have argued in Cole (2004; see also Cole, 2003; Cole and Hill, 1995), this is precisely what Marxism does. It demystifies discourse that masks the inherently exploitative nature of capitalist society, thus providing a means of both analysing that society, understanding its exploitative nature and, unlike poststructuralism, pointing in the direction of a non-exploitative world. As far as incredulity to the grand narrative of Marxism, and the collapse of binaries are concerned, I argue in this article that Marxist remains a coherent worldview, albeit adapted, and that the binary opposition between capital and labour is greater than ever.
+
+One of Derrida’s (1992) key concepts is ‘the ordeal of the undecidable’. Related to this, Atkinson (2001) challenged the view that it is essential to choose one theoretical perspective or course of action over another. At about the same time, leading US postmodern feminist, Patti Lather, who was an influence on Atkinson’s work, had exalted ‘the ordeal’ for its ‘obligations to openness, passage and nonmastery’ where ‘questions are constantly moving’ and where ‘one cannot define, finish, close’ (Lather, 2001, p. 184). Derrida’s concept is in turn complemented by one of Lather’s: ‘a praxis of not being so sure’ (p. 184), ‘a praxis in excess of binary or dialectical logic’, a ‘post-dialectical praxis’ (p. 189). I will argue shortly that we have to decide, to make decisions before it is too late.
+
+Around the the mid-noughties, exchanges between Marxists and postmodernists seemed to have been exhausted (e.g. Cole and Atkinson, 2007), and I turned my attention to the scholarly endeavours of Critical Race Theorists, yet another attempt to usurp Marxism by placing ‘race’ above class, though Critical Race Theory (CRT) has a number of strengths (e.g. Cole, 2017a, b). Most importantly, it argues forcefully that racism is endemic, extensive, normal, not aberrant (Gillborn, 2008, p. 40).
+
+If everything is open to interpretation and nothing can be decided for certain, we are indeed in a post-truth era that allows Trump to propagate endless lies.
+
+As I was running out of things to say about CRT, Donald J. Trump became the forty-fifth president of the United States, and I took the opportunity to interrogate the rhetoric and accompanying policies of that arch-racist and fascism-enabler (e.g. Cole, 2020a, b). Having spent four years listening to and reading the public pedagogy of hate (not just based on ‘race’, of course but combined with disablism, sexism and misogyny (Peter Hudis, cited in Doğan, 2020 has added misanthropy to Trump’s sociopathic persona), my interest in postmodernism was re-awakened when I came across a number of articles linking Trump to postmodernism (e.g. Edsall, 2018; Haider, 2019; Illing, 2019; Gupta, 2020). Most focus on the notion of relativity and truth or post-truth to make the case that since for Trump, truth is an irrelevance, he is either a postmodernist or is a product of postmodermism. In response, Johanna Oksala, a professor of social science and cultural studies at the Pratt Institute, stated, ‘I don’t think Trump should be called a postmodern president, but simply a liar’ (cited in Edsall, 2018), while Judith Butler was incredulous that:
+
+Anyone would be inclined to blame intellectual trends in the academy or in the arts for the way that Trump speaks, thinks, or acts. Given that he does not read very much at all, and that … [academic] literary and social theory … depends on reading closely, the two trends could not be further apart (cited in Edsall, 2018).
+
+Writing in The Outline, Shuja Haider (2019) argues that ‘the phenomenon [Trump] represents is fairly simple, one that has existed for as long as philosophy has: a very stupid man has more power than he deserves, and he is going to abuse it until someone stops him’. Finally, Aaron Hanlon’s (2018) quotes Marx’s aforementioned dictum about ‘philosophers’, arguing correctly that postmodernists have inverted that call for action, ‘seeking mainly to interpret it’. Hanlon’s conclusion is that ‘the real enemy of truth is not postmodernism but propaganda, the active distortion of truth for political purposes’. The Trump administration is actively engaged in the distortion of truth on a daily basis for political purposes and the hyper-relativism of postmodernism goes some way in explaining this important aspect of the phenomenon of Trumpism.
+
+In other words, if everything is open to interpretation and nothing can be decided for certain, we are indeed in a post-truth era that allows Trump to propagate endless lies which are actually revered by his supporters. The fact that Trump is a stupid man and a sinister manipulator of propaganda (you can be both) points to the essentially reactionary nature of postmodernism: it lacks a concrete concept of progressive social change - anything is allowed, anything is possible. Post-truth and its monstrous incarnation need to be forcefully challenged not just by Marxists, but by all those who are against creeping and accelerating totalitarianism and fascism.
+
+A much more comprehensive and productive way to understand the Trump phenomenon is to examine it from an economic and political perspective. The overriding determinant of Trump’s rise and resilience relates to the spread of right-wing populism in the aftermath of the 2008 global financial crisis. The financial crash precipitated a crisis in neoliberalism, indicated by two major developments. First, there is popular discontent with the austerity and inequality (a political choice, seized on by the ruling class) that neoliberalism has produced. Second, and as a result, we are witnessing a growing realisation by the establishment that the neoliberal revolution has run its course and that US hegemony is at risk from a new rival, China (e.g. Bramble, 2018). The extent to which Trump uses that country as a scapegoat has reached such proportions that the Chinese Foreign Minister, Wang Yi has said that some political forces in the US are pushing China-US relations to ‘the brink of a new Cold War’ over coronavirus, Hong Kong's status and other issues, adding, ‘Aside from the devastation caused by the novel coronavirus, there is also a political virus spreading through the US’ (cited in Agence France-Presse, 2020).
+
+Trump is, in Peter McLaren’s (2020, p. 4) words, the ‘most heinous incarnation of the capitalist id’, someone who ‘loves profit and capital – dead labor – over living labor – people’ (McLaren, 2020, p. 4). He is the United States’ most authentic and certainly the most experienced capitalist who has ever been in the White House’ (Nimtz Jr. 2019). Accordingly, his ‘naked capitalism, coincides with his own self-interest.
+
+While the major tenet of postmodernism is nothing can be sure; there’s no overarching theory to explain society, there is no dialectic and no one version of ‘the truth’, with what might happen an ‘open book’, Marxists employ the dialect of class struggle to both understand the inherently exploitative nature of capitalist society: the appropriation of workers’ surplus value for profit – an objective fact rather than an ‘undecidable’; and also to transcend capitalism: out of the struggle between capital and labour, there exists the potential synthesis of socialism. Capitalism is analysed and revealed to be a system of exploitation, but one that can be replace by a different and viable structure, free of exploitation and oppression.
+
+Moreover, while it is generally acknowledged that both postmodernism and CRT are developing theories, Marxism is falsely categorised as inhabiting an outdated authoritarian Stalinist, patriarchal and racist past, not just by postmodernists, but by anti-socialists in general, including Trump (witness his increasingly conflation of the stridently pro-capitalist Democratic presidential and vice-presidential candidates with socialism and anarchy. In reality, as a ‘living philosophy’ continually being adapted and adapting itself ‘by means of thousands of new efforts’ (Sartre, 1960), Marxism can be re-theorized to encompass gender as in Marxist feminism (e.g. Mojab, 2015) and racialized capitalism (e.g. Cole, 2016).
+
+Socialism, in addition has also embraced ecology in the form of ecosocialism (e.g. Löwy, 2018, 2020), fully informed by ecofeminism (Brownhill and Turner, 2018, 2020) and antiracism (Cole, 2020c). Finally, to forestall Stalinism, the transition to ecosocialism must centralise true democracy (participatory at every level and stage (for an extended discussion, see Löwy, 2018, who provides detailed description of the processes of ecosocialist change).
+
+Capitalism is analysed and revealed to be a system of exploitation, but one that can be replace by a different and viable structure.
+
+Contra Baudrillard, these healthy developments in the living philosophy that is Marxism do not alter the fact that capitalism relies for its very existence on a binary: the exploitation of one class by another - workers, defined by Marxists as encompassing all those who have to sell their labour to survive - by another, the capitalist class. Indeed, the gap between the income and living standards of each class has now reached astronomical proportions.
+
+This development underlines the need for a metanarrative of socialism that postmodernists, following Lyotard, himself once a revolutionary socialist, are so sceptical about. Now widely defined, socialism remains the most viable alternative to ‘naked capitalism’, misogyny, racism, disablism and the threats to democracy and creeping fascism, as well as the very real threat of ecological destruction, aided by climate change denial (Trump’s Paris agreement withdrawal is scheduled to come into effect, one day after the election on November 4, 2020), not to mention the US tragedy that is Trump’s disinterest in Covid deaths. Socialism is also an antidote to the danger of (nuclear) war, something outside the remit of postmodernism. Elbridge A. Colby, one of the co-leads of the National Defense Strategy published by the Pentagon in January of 2018, wrote an article in Foreign Affairs , entitled ‘If You Want Peace, Prepare for Nuclear War’ (Colby, 2018). Accordingly, the Trump White House is moving rapidly ahead with a $1 trillion plan to expand, ‘modernize’ and miniaturize the US nuclear arsenal (Damon, 2020). We can end this horror, but time is running out.  
+  
+To reiterate, while Critical Race Theory, perhaps the key contemporary debate with the ghost of Marx and the challenge to the centrality of social class, is clearly relevant as Trump ramps up his attempts to legitimise racism and white supremacy to appease his base. As the election draws close, postmodernism offers no solution to Trump, advocating instead ‘the ordeal of the undecidable’ and a post-dialectical praxis, along with debates about whether or not Trump is a postmodernist or is explained by postmodernism. While space here precludes a discussion, Marxism does provide a solution: an antiracist ecosocialist world, informed by ecofeminism, characterised by genuine participatory democracy (see Cole, 2020c for an extended analysis). It is time to ‘choose one theoretical perspective and course of action over another’, to ‘define, finish and close’ one of the bleakest and ugliest periods in US history. It is time to change the world.   
+  
+  
+  
+**References**  
+Agence France-Presse. 2020. ‘"Brink Of New Cold War": China On US Ties Amid Virus, Hong Kong Tensions’ NDTV, May 24. https://www.ndtv.com/world-news/us-pushing-relations-to-brink-of-new-cold-war-says-china-as-tensions-rise-over-coronavirus-hong-kongs-status-2234253
+
+Atkinson, Elizabeth. 2001. ‘A Response to Mike Cole’s “Educational Postmodernism, Social Justice and Societal Change: an Incompatible Ménage-à-trois”’ The School Field: International Journal of Theory and Research in Education 12 (1 and 2)
+
+Atkinson, Elizabeth. 2002. ‘The Responsible Anarchist: Postmodernism and Social Change’. British Journal of Sociology of Education 23 (1)
+
+Bramble, Tom. 2018. The crisis in neoliberalism and its ramifications. Marxist Left Review, 16. http://marxistleftreview.org/index.php/no-16-summer-2018/162-the-crisis-in-neoliberalism-and-its-ramifications#\_edn22
+
+Brownhill, Leigh and Turner, Terisa E. 2019. ‘Ecofeminism at the Heart of Ecosocialism’, Capitalism Nature Socialism, 30 (1). https://www.tandfonline.com/doi/full/10.1080/10455752.2019.1570650
+
+Brownhill, Leigh and Turner, Terisa E. 2020. ‘’Ecofeminist Ways, Ecosocialist Means: Life in the Post-capitalist Future’ Capitalism Nature Socialism, 31 (1). https://www.tandfonline.com/doi/full/10.1080/10455752.2019.1710362?scroll=top&needAccess=true  
+  
+Colby, Elbridge. 2018. ‘If You Want Peace, Prepare for Nuclear War’, Foreign Affairs ,  
+November/December. Available at: www.foreignaffairs.com/articles/china/2018-10-15/if-you-want-peace-prepare-nuclear-war    
+  
+Cole, Mike. 2003. ‘Might It Be in the Practice that It Fails to Succeed? A Marxist Critique of Claims for Postmodernism and Poststructuralism as Forces for Social Change and Social Justice’, British Journal of Sociology of Education 24 (4).
+
+Cole, Mike. 2004. ‘Fun, amusing, full of insights, but ultimately a reflection of anxious times: a critique of postmodernism as a force for resistance, social change and social justice’, in Jerome Satterthwaite,
+
+Elizabeth Atkinson and Wendy Martin (eds.) Education Counter-Cultures: Confrontations, Images, Vision. Stoke-on-Trent: Trentham Books.
+
+Cole, Mike. 2016. Racism: A critical analysis. London: Pluto Press.
+
+Cole, Mike. 2017a. Critical Race Theory and Education: A Marxist Response, Revised Second Edition. New York and London: Palgrave Macmillan.
+
+Cole, Mike. 2017b. New developments in Critical Race Theory and education: Revisiting racialized capitalism and socialism in austerity. New York and London: Palgrave Macmillan.
+
+Cole, Mike. 2020a. Trump, the Alt-Right and public pedagogies of hate and for fascism. What is to be done? London and New York: Routledge
+
+Cole, Mike. 2020b. ‘US Election 2020 Alerts!: Democracy under Threat; Coronavirus Catastrophe; Climate Change Destruction; War. Journal for Critical Education Policy Studies. 18 (2)
+
+Cole, Mike. 2020c. Climate Change, the Fourth Industrial Revolution and Public Pedagogies: The Case for Ecosocialism, London and New York: Routledge.   
+  
+Cole, Mike and Atkinson, Elizabeth. 2007 ‘Marxism, Postmodernism and Education: a dialogue’, in A. Green, G. Rikowski and H. Raduntz (eds) Renewing Dialogues in Marxism and Education: Volume 1 - Openings, Basingstoke: Palgrave Macmillan  
+  
+Cole, Mike and Hill, Dave. (1995) 'Games of Despair and Rhetorics of Resistance: Postmodernism, Education and Reaction', British Journal of Sociology of Education 16 (2) June.
+
+Damon, Andre. 2020. ‘Bulletin of the Atomic Scientists Warns of “civilization-ending nuclear war”’, World Socialist Web Site (WSWS), 24 January. www.wsws.org/en/articles/2020/01/24/pers-j24.html
+
+Derrida, Jacques. 1992. ‘Force of Law: The “Mystical Foundation of Authority”. In Drucilla Cornell, Michel Rosenfeld and David Gray Carlson (eds) Deconstruction and the Possibility of Justice, London: Routledge.
+
+Doğan, Sevgi. 2020. ‘Interview with Peter Hudis’. The International Marxist-Humanist. May 30. https://imhojournal.org/articles/covid-19-the-anti-racist-movement-and-the-search-for-a-socialist-alternative-an-interview-with-peter-hudis/
+
+Edsall, Thomas. B. 2018. ‘Is President Trump a Stealth Postmodernist or Just a Liar?’ The New York Times, January 25.https://www.nytimes.com/2018/01/25/opinion/trump-postmodernism-lies.html
+
+Gillborn, David. 2008. Racism and Education: Coincidence or Conspiracy? London and New York: Routledge
+
+Gupta, Dipankar. 2020. ‘A critical study of Trump, the postmodernist’, The Hindu, April 30. https://www.thehindu.com/opinion/lead/a-critical-study-of-trump-the-postmodernist/article31466682.ece
+
+Haider, Shuja. 2019. ‘Postmodernimsm, explained and explained and explained again’. The Outlook, November 12. https://theoutline.com/post/8250/postmodern-philosophy-trump?zd=1&zi=sh2zyi5o
+
+Hanlon, Aaron. 2018. ‘Postmodernism didn’t cause Trump. It explains him’. The Washington Post, August 30. https://www.washingtonpost.com/outlook/postmodernism-didnt-cause-trump-it-explains-him/2018/08/30/0939f7c4-9b12-11e8-843b-36e177f3081c\_story.html
+
+Illing, Sean. 2019.  ‘The post-truth prophets’. Vox, November 16. https://www.vox.com/features/2019/11/11/18273141/postmodernism-donald-trump-lyotard-baudrillard
+
+Lather, Patti. 2001. ‘Ten Years Later, Yet Again: Critical Pedagogy and Its Complicities’. In Kathleen. Weiler (ed) Feminist Engagements: Reading, Resisting and Revisioning Male Theorists in Education and Cultural Studies, London: Routledge.
+
+Löwy, Michael. 2018. ‘Why Ecosocialism: For a Red-Green Future’ Great Transition Initiative: Towards Transformative Vision and Praxis, December. Available at: https://greattransition.org/publication/why-ecosocialism-red-green-future
+
+Löwy, Michael. 2020. ‘Thirteen theses on the imminent ecological catastrophe and the (revolutionary) means of averting it’, International Viewpoint, 4 February. Available at: http://internationalviewpoint.org/spip.php?article6391
+
+McLaren, Peter. 2020. ‘Pandemic abandonment, panoramic displays and fascist propaganda: The month the earth stood still’ Education, Philosophy and Theory https://www.tandfonline.com/doi/full/10.1080/00131857.2020.1781787  
+  
+Mojab, Shahrzad (ed) 2015. Marxism and Feminism, London: Zed Books
+
+Nimtz Jr., August H. 2019. ‘What is unmistakable about Trump: his naked capitalism’, Minnpost, 6 September. https://www.minnpost.com/community-voices/2019/09/what-is-unmistakable-about-trump-his-naked-capitalism/
+
+Salomon, Albert. 1935. ‘Max Weber’s political ideas’. Social Research 2.  
+  
+Sartre, Jean-Paul. 1960. The Search for Method (1st part). Introduction to Critique of Dialectical Reason. http://www.marxists.org/reference/archive/sartre/works/critic/sartre1.htm
+
+Weber, Max. c. 1915. (1947). The theory of economic and social organizations.  
+New York: Free Press.

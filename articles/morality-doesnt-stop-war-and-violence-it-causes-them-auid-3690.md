@@ -1,0 +1,79 @@
+---
+title: "Morality doesn't stop war and violence, it causes them"
+subtitle: "If you want peace, morality can get in the way"
+author: "Hans-Georg Moeller"
+date: "30th September 2026"
+article_id: "3690"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,965 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/morality-doesnt-stop-war-and-violence-it-causes-them.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/morality-doesnt-stop-war-and-violence-it-causes-them-auid-3690"
+---
+
+# Morality doesn't stop war and violence, it causes them
+
+*If you want peace, morality can get in the way*
+
+**By Hans-Georg Moeller** | *30th September 2026* | *Read time: approx. 10 mins* | *1,965 words*
+
+![Morality doesn't stop war and violence, it causes them](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/morality-doesnt-stop-war-and-violence-it-causes-them.webp)
+
+---
+
+*Brutal wars, torturous executions, and violent revolutions have always been justified on moral grounds. In order to break out of endless cycles of violence, **Hans-Georg Moeller**, expert in European and ancient Chinese philosophy, argues that we need to suspend morality and become amoral. Drawing on wisdom from Wittgenstein to Zhuangzi, Moeller argues that trying to be moral often only does more harm than good.*
+
+When the First World War started in summer 1914, all sides expected it to be a short-term affair. By Christmas, everybody would be back home, people hoped. This was not to be the case. In February 2022, Russia’s invasion of Ukraine was announced as a “special military operation,” suggesting it would soon be over. It is in its fifth year now, and, having already outlasted the First World War, there is still no end in sight. Other wars seem altogether endless, like the conflict in Israel/Palestine.
+
+Wars happen for complex reasons: socioeconomic, political, ethnic, and religious or ideological factors can all play a role. Typically, however, wars are initiated, fueled and perpetuated by moral rhetoric. Drastic friend-enemy distinctions convince people to go into combat. Unless you are a psychopath, you want to believe you are fighting evil when systematically killing and mutilating one another on a mass scale. A major reason why wars are difficult to keep in check once they have been started is the moral engagement they are built on. If you think your opponents represent wickedness, you want to see their total defeat, humiliation, or, at minimum, their conversion. A key difficulty in conflict resolution is the dissolution of the moral anger at play.
+
+In early March 2022, shortly after the war in Ukraine had begun, CNN published an opinion piece titled “[What could stop the war](https://edition.cnn.com/2022/03/03/opinions/diplomacy-russia-ukraine-invasion-ross-eisen).” It turned out to be a futile appeal. The authors argued that, in order to prevent major suffering on both sides, a peace deal was needed, and that such a deal could only be reached through a suspension of morality: “The morality is black and white here, but diplomacy seldom is. The concessions that come with negotiations are often painful. But our experience has taught us they are infinitely preferable to the indefinite continuation of hostilities.”
+
+\_\_\_
+
+What may seem from a traditional philosophical perspective as a lack of personal virtue is better explained and dealt with as a combination of psychological, physiological, or social issues.
+
+\_\_\_
+
+On the one hand, the CNN article embraces the moral paradigm of war: it is a conflict between “black” and “white,” it says—and for the authors, the white side is Ukraine. They could reasonably assume that most of their readers on CNN would probably share this judgment. And yet, while assuring readers of their moral “whiteness,” they are nudged towards accepting not merely the pain of unwelcome aspects of a potential peace deal, but, what is more, the pain of a negotiation process that disregards the moral divide. The authors point to the specific conundrum of diplomacy: an effective conflict mediator copes with the difficult task of allowing all sides to uphold their self-esteem while minimizing their utter contempt for one another. To achieve peace, the enemies must be enticed to find some common ground in the amoral grey area between them where reconciliation can begin. The alternative is a *Vernichtungskrieg*, a “war of annihilation.”
+
+**Morality is a type of communication**
+
+Unfortunately, most of moral philosophy is not very helpful for mediation in war because it assumes that [more rather than less morality](https://iai.tv/articles/the-idea-of-the-universal-good-is-dangerous-auid-3397) is needed to deal with its evils. A moral approach to war may seem immediately convincing—after all, war is an issue of life and death that speaks to human sentiment—but it is not particularly effective and is based on common misunderstandings of the nature of morality. These misunderstandings typically fall into three categories.
+
+Early philosophers in East and West tended to regard morality as a quality of a person. Depending on the respective concept of personhood, morality was, for instance, seen as an individual state of character in Aristotelian virtue ethics or as the refinement of a person’s social skills in Confucian role ethics. Such conceptions pin morality to an inner core: a “soul” or a “heart-mind” (*xin*) that has little empirical reality. However, the moral, or immoral, self is an imaginary homunculus. People can of course have problematic behavioral traits (e.g., they may be overly aggressive) or disturbing emotional tendencies (e.g., they may lack empathy) that can be described in moral terms. But such problems are best addressed by psychological, social, or medical means rather than by moral reeducation. In other words, what may seem from a traditional philosophical perspective as a lack of personal virtue is better explained and dealt with as a combination of psychological, physiological, or social issues.
+
+\_\_\_
+
+A peculiarity of moral communication and thought is its proximity to conflict and violence: it is socially and psychologically dangerous.
+
+\_\_\_
+
+Alternatively, morality has been described as the quality of an action, for instance in utilitarianism or consequentialism. But how to exactly define an action? Where does it begin and where does it end—and where do its consequences begin and end? Actions are embedded in complex processes, and to isolate one particular action from its context is always an arbitrary reduction. Consequences are equally complex. Events are contingent upon many conditions and hardly a singular consequence of one specific cause. Every action that leads to a consequence is itself the consequence of many other actions. What is more, when actions or consequences are judged with regard to their positive or negative aspects, it is much more informative to do so in concrete terms rather than in abstract moral categories of good vs. evil. It is more precise, for example, to say that a certain legal decision resulted in granting some people certain rights or in improving their economic situation in a certain way than to judge it as “[morally good](https://iai.tv/video/the-good-and-the-evil).” Whether personal liberties and material wellbeing are seen as good or evil depends on theological or civil-religious convictions—which are not needed to analyze the practical goodness or badness of legal rights or an economic status.
+
+A third kind of philosophical ethics finds morality in principles. Immanuel Kant is a prime example for this approach. However, unlike Kant predicted, moral laws remain elusive, and, unlike natural laws, they are outside of scientific inquiry. No universal moral law or “categorical imperative” has even been agreed on, and much less implemented. There is no moral science today, and it is not foreseeable (nor desirable) that there will ever be a set of moral principles that is globally enforced upon everyone.
+
+Contrary to what is assumed by many philosophers, morality is neither the quality of a person nor of an act, and there are no ultimate moral principles to be discovered. Morality is instead ([as outlined, for example, by the social theorist Niklas Luhmann](https://journals.sagepub.com/doi/10.1177/072551369102900107)) most realistically understood as a type of communication that makes a distinction between those who are esteemed and those who are not. Making such a distinction between good and evil (people) can be very powerful and appealing, not just socially, but also psychologically—but it is not in itself good or evil. It can be used for all kinds of purposes, for instance in war, and these purposes can in turn be subject to further moral evaluations without end. A peculiarity of moral communication and thought is its proximity to conflict and violence: it is socially and psychologically dangerous. Accordingly, as pointed out by Luhmann, the function of a philosophical ethics may be to critically assess and warn about [the dangers of morality](https://iai.tv/articles/war-demands-moral-clarity-not-moral-certainty-matt-mcmanus-auid-2650).
+
+**Toward amorality**
+
+A transition to amorality has already taken place in many social spheres: In medicine, for example, addicts are no longer treated as immoral sinners, but as sick. In education, bad students are no longer beaten due to their supposedly bad character, but their teachers nowadays try to improve their performance with pedagogical means. In legal divorce proceedings, the judge no longer decides which of the spouses is more “guilty,” and assets and custody rights are no longer granted to the “morally better” partner. Instead, assets are split in accordance with legal rights that are designed to be economically fair, and child custody is regulated with the best interests of the children in mind.
+
+In all these cases, moral judgments are minimized or suspended and replaced with practical considerations. These considerations are amoral because they do not judge patients, students, or spouses in terms of good vs. evil. Moral communication and thought are replaced with communication and thought based on the “coding” of the respective social system: medicine uses the code healthy/ill, education uses the code pass/not pass, and legal communication uses the code legal/illegal. This switch in communication and thought still relies on distinctions between positive and negative values—it is good to be healthy and bad to be ill, it is good to pass a test and bad not to do so—but these values are system-specific and do not make fundamental moral claims about someone’s personality as a whole. When people are labeled evil, however, they are altogether dismissed and excluded.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-12-19-moral-facts-and-moral-fantasy.dwk.webp)
+
+SUGGESTED VIEWING
+Moral facts and moral fantasy
+With Ruth Chang, Simon Blackburn, Joanna Kavenna, Slavoj Žižek](https://iai.tv/video/moral-facts-and-moral-fantasy)
+
+A similar transition to amorality may also take place in philosophy and replace, for example, “just war theory” with reflections on how to resolve conflicts by suspending drastic moral distinction-making between enemies. Importantly, the philosophical case for amorality is *not* a moral case. It does not suggest that moral philosophers are necessarily immoral people. It is a non-normative approach perhaps best characterized as *therapeutic*, and it can be rather easily connected with Asian philosophical traditions such as Daoism and Buddhism, but also with modern Western thinkers like Friedrich Nietzsche and Ludwig Wittgenstein.
+
+In his “[Lecture on Ethics](https://www.wittgensteinproject.org/w/index.php/Lecture_on_Ethics),” Wittgenstein distinguished the use of the words “good” and “bad” in a trivial or relative manner (as in being a good or bad tennis player) and in an absolute or moral manner. An “absolute good,” however, is a “chimera” for Wittgenstein because it is too grandiose to refer to anything in particular. Speaking in such absolute terms is, for Wittgenstein, completely incommensurable with trivial notions of good and bad, and therefore essentially nonsensical—it goes “beyond significant language” and is like “running against the walls of our cage.” The same metaphor is picked up again in section 119 in the [*Philosophical Investigations*](https://archive.org/details/philosophical-investigations-1889-1951-ludwig-wittgenstein/page/n57/mode/1up): “The results of philosophy are the uncovering of one or another piece of plain nonsense and of bumps that the understanding has got by running its head up against the limits of language.” These bumps were quite valuable for Wittgenstein, though, because they were key to his concept of philosophy as a set of *therapies* to eventually heal them.
+
+The therapeutic function of philosophy in dealing with the injuries of moralist thought and communication was expressed more sharply in a dialogue in the ancient Daoist classic [*Zhuangzi*](https://plato.stanford.edu/entries/zhuangzi/). Here, a legendary Daoist master named Xu You is approached by Yi Erzi, a man seeking instruction. Xu You asked: ‘What did you get from Yao [a Confucian sage]?’ Yi Erzi replied: “He told me to devote myself to benevolence and righteousness and to speak clearly in terms of right and wrong.’” Xu You said: “Then why do you come to *me*? Yao has already tattooed you with ‘benevolence and righteousness’ and cut off your nose with ‘right and wrong.’ How should you be able to wander along the carefree path … The blind can’t see the beauty in the faces and features of others; those without eyesight miss out on all the colors on the embroidered robes.” From the perspective of Xu You, a serious moral detox is needed before doing any Daoist exercise.
+
+An amoral and therapeutic philosophy does not abolish notions of good or bad in “trivial” and non-moral senses, but tries to avoid [fundamental judgments](https://iai.tv/video/a-world-without-morality) that broadly divide people into “black” and “white.” It tries to be receptive to “all the colors on the embroidered robes.”

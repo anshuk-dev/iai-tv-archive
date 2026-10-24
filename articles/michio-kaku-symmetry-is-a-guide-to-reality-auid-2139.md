@@ -1,0 +1,91 @@
+---
+title: "Symmetry is a Guide to Reality"
+subtitle: "An interview with Michio Kaku"
+author: "Michio Kaku"
+date: "23rd May 2022"
+article_id: "2139"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,632 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/symmetry-and-string-theory-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/michio-kaku-symmetry-is-a-guide-to-reality-auid-2139"
+---
+
+# Symmetry is a Guide to Reality
+
+*An interview with Michio Kaku*
+
+**By Michio Kaku** | *23rd May 2022* | *Read time: approx. 8 mins* | *1,632 words*
+
+![Symmetry is a Guide to Reality](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/symmetry-and-string-theory-min.webp)
+
+---
+
+*According to Michio Kaku, our universe is one of many. The best way to make sense of quantum mechanics and the ability of subatomic particles to exist in several different states at the same time is to postulate the existence of a multiverse. These different universes may be connected to each other via wormholes in spacetime, but even if they are not, string theory  - the theory that supports their existence -  can make predictions that we can test right here, in our own universe. It’s the most mathematically elegant and symmetrical theory we have to date, and, according to Michio Kaku, what our past succesful theories tell us is that symmetry is a good guide to reality. Read the full interview below.*
+
+**How did the idea of the multiverse come about?**
+
+The idea of a multiverse is an old one. Ancient societies believed that parallel realities or dream worlds could exist next to ours. Even in Alice in Wonderland, the Looking Glass connected the countryside of Oxford to Wonderland. But in the 1950's Hugh Everett introduced the multiverse to solve a problem in quantum theory, where the same electron can exist in many different states at the same time. According to Everett, what is going on is that the electron in question can exist in parallel realities. In fact, that is why lasers, transistors, the internet, and the wonders of modern technology can exist. Modern society would collapse if electrons could only exist in one state at a time. But in quantum theory, the quantum wave functions of these alternate realities "collapse" into one universe, the one we live in, when a measurement is made.
+
+Over the decades, many physicists felt uneasy about the collapsing of the wave function, but the experimental successes of the theory were undeniable. Everett proposed simply dropping the idea that the wave function collapses, and allowing the wave to continually split, creating an infinite number of parallel realities. Today, even Marvel Comics characters are familiar with this idea.
+
+\_\_\_
+
+## Some people criticize string theory for allowing all these parallel universes. Which one is ours? But all great theories have a version of this problem.
+
+\_\_\_
+
+**We tend to think that the universe contains everything that exists – all the things that can be found within space and time. So how can we possibly make sense of the concept of a multiverse – the idea that there exist many other universes outside of our own, outside of space and time as we know it? How can something exist outside of space and time?**
+
+Nobel laureate Steve Weinberg once explained it to me. Think of your living room, full of different radio waves from far away stations. Your radio is only tuned to one frequency at a time. It vibrates or is coherent with only one radio station, yet you exist in an ocean of different radio waves. Now replace the radio waves with electron waves, so there are the waves of dinosaurs, pirates, and aliens in your living room. Unfortunately, you do not vibrate in unison with them. You have decohered from them, yet their waves co-exist with yours. So you can exist simultaneously with an infinite number of parallel universes, yet it is very difficult to enter them, since you do not vibrate in unison with them.
+
+String theory takes this idea and goes even farther. Rather than just co-existing with other universes in your living room because you no longer vibrate in unison with them anymore, according to string theory these other universes might be different dimensions, or in different parts of the same universe. For example, a wormhole may connect two three-dimensional universes, which exist parallel to each other but are separated by the fourth spatial dimension.
+
+Some people criticize string theory for allowing all these parallel universes. Which one is ours? But all great theories have a version of this problem. Newton's laws allow for an infinite number of solutions, depending on the initial conditions, depending on whether you are dealing with marbles, cannon balls, planets, or stars. Just as in Newton's theory, string theory might also require that you fix the initial conditions. The only difference is, unfortunately, we don't know what the initial conditions of the Big Bang were.
+
+**String-theory proposes that reality exists in 11 dimensions, and our universe is a four-dimensional object within it. How do we make sense of more dimensions that the three of space and one of time that we’re familiar with? Are we to think of the other dimensions as more spatial dimensions, or could there also be extra time dimensions?**
+
+String theory is the only physical theory which selects out its own dimensionality. One way to explain this is that these other dimensions have curled up into a tiny ball, so atoms cannot enter these other dimensions. So we exist in a hyperspace of 11 dimensions, with 1 dimension of time and 10 dimensions of space, such that only 3 dimensions of space survive after the other dimensions are curled up. This of course leaves open the possibility that there are other universes with a different split between space and time. String theory can not only predict the number of dimensions of the universe that we live in, it can also yield universes that are quite different from ours.
+
+\_\_\_
+
+## String theory has the largest, most elegant symmetry found in nature. All the forces of nature can fit within it.
+
+\_\_\_
+
+**Given that the multiverse assumes that the many universes that exist are separate from one another, each one their own “bubble” as I’ve heard you describe them, how can we ever have empirical evidence that supports their existence? Another way to phrase this question is to ask: is string theory falsifiable in the way Karl Popper thought scientific theories should be? Does string theory make a prediction that we can test empirically?**
+
+There are several ways of experimentally proving string theory:
+
+a)    Look for dark matter, since string theory predicts that dark matter is probably the "photino" or a higher vibration of the string. Any day, some particle detector may detect dark matter colliding with a proton, so we might be able to compare this collision with the prediction of string theory.
+
+b)   Launch LISA into orbit, which is a gravity wave detector in outer space, millions of miles across. There is a small probability that LISA may detect radiation emitted a trillionth of a second after the instant of the Big Bang. Then we can "run the video tape backwards" with string theory, and calculate the radiation before the Big Bang, i.e. we might be able to experimentally detect the presence of an umbilical cord connecting our baby universe with a mother universe.
+
+c)    Look for deviations from Newton's inverse square law in the laboratory. If Newton's inverse square law becomes an inverse cube law at short distances, then this signals the presences of a higher dimensional universe.
+
+d)   Look for deviations from the Standard Model. Recently, a tiny deviation in the muon magnetic moment indicates that maybe there is a higher theory beyond the Standard Model, perhaps string theory.
+
+\_\_\_
+
+## Criticizing a theory is easy. Finding an alternative is hard.
+
+\_\_\_
+
+**You see the mathematical elegance of string theory as part of what makes it a good theory, better than, say, the Standard Model which is not so elegant. How can we be so confident that beautiful mathematics is in any way a guide to what reality is like?**
+
+So far, all great theories, without exception, have allowed us to unify the forces of nature, via a symmetry. Special relativity has a symmetry allowing us to unify space and time.  General relativity has general covariance and reparameterizations in space-time. The Standard Model has a symmetry which allows us to unify quarks, neutrinos, etc. This seems to be the lesson of nature, that symmetry allows us to unify the forces of nature. String theory has the largest, most elegant symmetry found in nature. All the forces of nature can fit within it. This is not proof that string theory is correct. Only experiment can do this. But string theory, with one symmetry, can unify all the laws of nature. I find this remarkable.
+
+Of course, there are critics of string theory. That is their right. But for those who do not like string theory, I ask them a simple question: can you propose an alternative? So far, all alternatives to string theory have been shown to fail.
+
+They are either divergent, anomalous, or lack the Standard Model. If I were a critic of string theory, I would be spending 100% of my time trying to propose a better alternative, rather than simply criticizing string theory.
+
+Criticizing a theory is easy. Finding an alternative is hard.
+
+**Following Einstein who said something to the effect that any good theory should be capable of being understood by a child, you also have said that our ability to easily visualise the claims of a theory is essential to a good physics theory. But again, the question is, is there not a danger that we are merely selecting the theories that we find simple and appealing and that these attributes have little or nothing to do with whether those theories are in fact accurate representations of reality?**
+
+There is always the danger that we could be barking up the wrong tree, But my attitude is NOT that we should stop barking up the wrong tree, but that we should be barking up even more trees, hoping to find the correct tree. So far, the only tree which can combine general relativity with the quantum theory is string theory, so I think critics of the theory should be working to find more trees to bark up.
+
+\*Questions by [Alexis Papazoglou](https://twitter.com/newsphilosophy), editor for IAI News, the online magazine of the Institute of Art and Ideas, and host of the podcast [*The Philosopher & The News*](https://newsphilosopher.buzzsprout.com/).\*

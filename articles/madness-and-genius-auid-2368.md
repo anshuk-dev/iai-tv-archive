@@ -1,0 +1,79 @@
+---
+title: "Madness and Genius"
+subtitle: "Why Aristotle was wrong about genius"
+author: "Arne Dietrich"
+date: "24th January 2023"
+article_id: "2368"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,373 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Madness-and-genius.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/madness-and-genius-auid-2368"
+---
+
+# Madness and Genius
+
+*Why Aristotle was wrong about genius*
+
+**By Arne Dietrich** | *24th January 2023* | *Read time: approx. 7 mins* | *1,373 words*
+
+![Madness and Genius](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Madness-and-genius.webp)
+
+---
+
+*From Aristotle’s proclamation that ‘there is no great genius without some touch of madness’, to stories of great artists going crazy, many are still transfixed by the idea that brilliance requires a touch of insanity. But this is not so argues Psychology Professor Arne Dietrich. Such an association arises out of various biases that have penetrated and permeated throughout popuar culture.*
+
+In the Darwinian calculus of evolution, there are good reasons for our cognitive biases. We do well seeing the world through our own warped force field. Cognitive biases have helped us survive in the harsh world of reality and prosper in society. But there is a tradeoff. Truth, apparently, can go hang.
+
+Take the purported link between genius and madness, the thin line separating insanity from the inspired. Given the long, long list of bone-fide and troubled creative geniuses – Newton, van Gogh, Nietzsche, Wolf, Mozart, Poe, Boltzman, Beethoven, Kafka, Strauss, Schumann, Michelangelo, Nash, Cantor, Hemingway; do you need more? – one could be forgiven to consider this a forgone conclusion. Even a venerable ancient Greek can be recruited to help with the belief that creativity and madness somehow go together – say, Aristotle: “No great mind has ever existed without a touch of madness.” It seems as if all true creators are, at some point in their lives, anguished, tormented, alcoholic, angst-ridden, manic, outright psychotic, doubt-filled, or just plain weird. But it is one thing to be enchanted by folklore, delicious gossip, and anecdotal storytelling, it is quite another to forgo the purifying powers of scientific reasoning.
+
+[![22 09 19.metaphysicsmentaldisorders.ara](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/22-09-19.metaphysicsmentaldisorders.ara.webp)
+
+SUGGESTED READING
+Reality and mental disorder
+By Elly Vintiadis](https://iai.tv/articles/the-metaphysics-of-mental-disorder-auid-2242)
+
+Like most things in life, this is easier said than done. One would think that a quick look into the rarefied air of peer-reviewed psychology journals should settle the matter. Far from it. The scientific literature, if one could call it that, is itself a place in which this myth is watered, fertilized, and hot-housed. That shouldn’t be too surprising, given that scientists themselves are not immune to cognitive biases.
+
+Sure, the nebulous concepts on both sides of the equation don’t help. To establish a positive correlation between event A (genius) and some other event B (madness), it would help to know exactly what we are talking about. But creativity, let alone genius, is notoriously difficult to define, so much so that even the field of creativity research has sort of given up on it. Madness, or mental illness, doesn’t fare much better. Crack open the DSM – Diagnostic and Statistical Manual of the American Psychiatric Association, if you need to impress someone – that classifies the various forms of mental disorders, and it won’t take long until you think you might be a good candidate for making the diagnostic criteria of at least a few of the nearly 300 psychological disorders listed in the handbook.
+
+So, suppose your gut tells you that the link between genius and madness is just manifestly obvious, it shouldn’t be too difficult to make the case. All you have to do to pull this off is to adopt the operational definition that suits you, choose the sample carefully, and parse the “data” just right. Considering the soundbite truthiness that inherently comes with the claim, you have now put yourself into the position to sling-shoot past all the doubters with ease, offering up a stream of clever commentaries and juicy factoids. This feel-good science can, and does, spread with alarming speed.
+
+\_\_\_
+
+The vast majority of creative people are not mentally ill and, more importantly, the vast majority of those suffering from psychopathology are not geniuses
+
+\_\_\_
+
+And this brings us to the real culprit. Your gut. Or better the cognitive biases making your intuition misfire by such a wide margin. Psychologists have long known the sobering fact that our mind comes with a whole stack of cognitive biases preloaded and preinstalled. The ones doing most of the damage here are the base rate fallacy and the availability heuristic, both of which are causing illusionary correlations. The conformation basis, then, does the finishing touches.
+
+Sharp-eyed readers would recognize the mad-genius howler as a textbook case of the base rate fallacy. This common statistical sin, also known as base rate neglect, concerns the tendency to focus on specific information and ignore generic, baseline information, even when – and here is the rub – the latter is presented. Thus, people greatly underestimate the probability of a genius being totally sane and greatly overestimate the probability of an individual with mental illness being creative.
+
+Drilling a bit into the numbers shows how far the thinking is estranged from the facts. The World Health Organization estimates that the lifetime incidence of people making at least a single visit to the mind’s dark side is said to be significantly over half the population – of over 8 billion as of this writing. The prevalence of depression, bipolar spectrum, the various forms of anxiety disorders, schizophrenia, autism, substance abuse disorder, or the different kinds of personality disorders is staggering, adding up to hundreds of millions of people at any point in time!
+
+[![Lucy Johnstone Power Threat Meaning ](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Lucy-Johnstone-Power-Threat-Meaning-.webp)
+
+SUGGESTED READING
+Beyond the mental health paradigm
+By Lucy Johnstone](https://iai.tv/articles/beyond-the-mental-health-paradigm-the-power-threat-meaning-framework-auid-1803)
+
+Given this kind of baseline, we can spare ourselves the trouble of determining the frequency of eminence in the population. For, irrespective of how we define creativity, this number must be less – vastly less. Indeed, by the looks of these numbers, it’s hard to escape the conclusion that we are dealing with a negative correlation here. To be exact: extremely negative. The VAST majority of creative people are not mentally ill and, more importantly, the VAST majority of those suffering from psychopathology are not geniuses. This would seem to hold not only for psychopathology *tout court*, but also for each psychological disorder alone, as well as, to restrict things further to severe cases of a given disorder or to specific types of creativity.
+
+Similarly, the availability heuristic is a mental shortcut that estimates the likelihood or frequency of an event by the ease with which a specific instance of it comes to mind. So, when you think about creativity and madness, the odd behaviors of Michael Jackson are more likely to guide you than the 99 percent media-invisible normals. Could you, for instance, name as easily a dozen-plus famous creators who have led “boring” or well-adjusted lives?
+
+The availability heuristic is a cognitive bias that was first described in a classic experiment by Kahneman and Tversky in the 70s. They asked people to judge the likelihoods of an English word either starting with the letter K or having a K as its third letter. With people more readily thinking of kitchen, kennel, or kickboxing than ankle, Eskimo or acknowledge, participants overestimated the number of words starting with a K and underestimated those with a K in third position. An English text, however, has about three times as many words with a third-place K; they are just not as available in memory.
+
+Like the base rate fallacy, the availability heuristic also causes illusionary correlations, for the same reason. This leads to the perception of a non-existent relationship between two events simply because they occurred together at some point in the past. Alternatively, this false impression can also arise from the way people incorrectly integrate contingency information. Naturally enough, the more vivid the pairing, the more people tend to enduringly conflate the events and overestimate the frequency of their co-occurrence, and thus their causal relationship.
+
+\_\_\_
+
+It is one thing to be enchanted by folklore, delicious gossip, and anecdotal storytelling, it is quite another to forgo the purifying powers of scientific reasoning
+
+\_\_\_
+
+All this comes full circle with the confirmation bias, the tendency to confirm pre-existing beliefs. Cases that substantiate the belief, and ambiguous information that can be tweaked that way, strengthens the imaginary connection, while cases that violate it are enthusiastically ignored. Consider this rather typical finding from a study in which arthritis patients were asked to track the weather over 15 months and judge to what extent their condition was related to it. While the correlation was actually zero, virtually all were certain that their level of pain flactuated with the weather.
+
+Why not take, then, inspiration form the humanistic perspective and positive psychology and think, just like Abraham Maslow and Carl Rogers did, that creativity is associated with mental health? In this case, creative imagination and expression are the hallmark of a totally sane, self-actualizing, fully functioning person.

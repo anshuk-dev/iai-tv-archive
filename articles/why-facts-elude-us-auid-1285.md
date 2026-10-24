@@ -1,0 +1,61 @@
+---
+title: "Why Facts Elude Us"
+subtitle: "Language tangles and competing realities"
+author: "Joanna Kavenna"
+date: "Issue 83, 11th December 2019"
+article_id: "1285"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,539 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Elusiveness-of-Facts.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-facts-elude-us-auid-1285"
+---
+
+# Why Facts Elude Us
+
+*Language tangles and competing realities*
+
+**By Joanna Kavenna** | *Issue 83, 11th December 2019* | *Read time: approx. 8 mins* | *1,539 words*
+
+![Why Facts Elude Us](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Elusiveness-of-Facts.webp)
+
+---
+
+*What is reality? How might we know it, when it is so strange and when our own experience is subjective and finite?*
+
+These questions are central to the earliest known work of literature, *The Epic of Gilgamesh* (c.1800BC).  The eponymous hero goes on a quest for eternal life and absolute knowledge. Yet, Gilgamesh is denied this prize, and offered another: to accept mortality and wild uncertainty. As a result, *The Epic of Gilgamesh* is not merely the first example of a quest narrative but also the first example of a quest narrative in which the hero fails to gain the prize he wanted, but is given another completely different prize and advised to be grateful anyway.
+
+No one ever finds a single overarching answer; at least, it is unlikely that any answer - however beautiful and persuasive - will remain definitive for all eternity. How, practically, might we prove the eternal truth of anything we assert, except by becoming eternal and objective ourselves and hanging around forever? In *Valis*, Philip K Dick has his protagonist Horselover Fat write: ‘My reasoning is this: arrangement of parts of the Brain is a language. We are parts of the Brain; therefore we are language. Why, then, do we not know this? We do not even know what we are let alone what the outer reality is of which we are parts…’  Horselover Fat is generally regarded as insane, but ironically he is a lot less mad than those who dismiss him as a lunatic. He does not understand how a finite and linguistic perspective may encompass everything, even a reality which is entirely non-linguistic and potentially infinite. Yet his doctors tell him that the objective facts are that he is insane and they are sane, and language can express this indelible truth perfectly well, along with anything else they need language to express. Yet, as Jorge Luis Borges once said, is it really likely that the grunting of primates, lovely though it is, would correspond perfectly with the mystery and beauty of the universe?
+
+\_\_\_
+
+"It is unlikely that any answer - however beautiful and persuasive - will remain definitive for all eternity."
+
+\_\_\_
+
+It seems strange, equally, to argue that if our perception is limited rather than objective and omniscient it is therefore quite invalid and we should all despair entirely. In the West, there is a belief among some philosophers, scientists and so forth that the world and the mind can be severed one from the other. The mind is inside, apart, and the world is outside, over there. The outside is objective and the inside is subjective. Or rather, my mind is inside at one moment, for example when I am asserting this theory, and your mind is outside, over there; until we reverse things, and you assert the theory and then your mind is inside and my mind is outside, over there. This semantically complex theory of subjective-objectivity is quite culturally specific. In the Vedas, consciousness comes first, and then the world - all reality emerges from the first ‘I am!’ The Knower of the Field cannot be distinguished from the Field; they are one and the same.
+
+In a recent debate at HowTheLightGetsIn, we discussed the meaning of the word ‘fact’, in relation to all of the above. Can subjective beings determine the objectivity or otherwise of facts? Does the fact that ‘fact’ is a term in language mean that it is limited by the limits of language? Can a linguistic being determine the limits of language in the same limited language? Despite all of these entanglements I was very interested in the etymology of the term ‘fact’. Words alter their meaning throughout time and are not, always, very factual. In the 16th Century, ‘fact’ meant ‘action, something done’ and especially ‘evil deed’ - from the Latin ‘factum - an event, occurrence, deed.’ This relates to the French word ‘fait’ and the Italian ‘fatto’. The modern meaning of fact as ‘thing known to be true for certain’ emerges in the 17th Century and by the early 18th century a further meaning has developed that is closer to our contemporary understanding - ‘something that has happened in reality.’ In a court, we ask witnesses to testify that ‘something happened.’ In a scientific experiment, an observer witnesses that something has happened - something changed or stayed the same; happenings proved or disproved the hypothesis. This becomes a scientific fact. The presence of a subjective observer is crucial to establishing even the most apparently objective facts. Furthermore, one of the many scintillating revelations of quantum physics is the fact (I hope I use the term advisedly) that the presence of an observer affects whatever is being observed. In *Saving the Appearances* Owen Barfield argues this from a philosophical vantage point: that there is a fundamental irony to debates about the reality of worlds in which there is no observer, since there is no one to observe them, and we might assume that any observation might well alter them, should it arise.
+
+\_\_\_
+
+"The notion that everything is unreal is itself unreal, and the entire debate, debater, notion, notional universe, must therefore vanish in a puff of logic"
+
+\_\_\_
+
+In the current era we find ourselves in an era of so-called Post Truth. The argument runs that because there is no eternal and absolute truth, then there is no relative truth or conditional truth either, and anything goes, and no one is ever right, and chaos reigns, and we might as well give up. This doesn’t quite make sense. Just because I won’t be alive eternally and in an omniscient and objective sense, it doesn’t automatically prove that I am not alive now, and never was alive, and never will be alive! Despite the logic flaws within this argument, we find local and global Trumputins deploying it for political aims: if nothing is absolutely true then nothing can be an absolute lie. Therefore, they add, it hardly matters if a politician is caught lying, because there is no such thing as a lie because there is no such thing as overarching truth.  Again this suggests that if several witnesses testify that they saw someone stealing a bicycle, their testimony and indeed all testimonies should be dismissed, because they are not omniscient and objective and it has proved sadly impossible to find any other witnesses who are omniscient either.  Therefore, no one stole the bicycle.  None of this works, really, except in a novel by Flann O’Brien, and this is why Post-Truth is, itself, logically improbable and therefore probably untrue.
+
+The debate is also plagued by fake binaries. Are you for Truth or Against Truth? Are you for Reality, or for Unreality? But is anyone *really* in favour of the notion that everything is unreal? Doesn’t that mean that the notion that everything is unreal is itself unreal, and the entire debate, debater, notion, notional universe, must therefore vanish in a puff of logic?
+
+If we *were* immortal and omniscient, we might glide through all epochs and freely distinguish fact from fiction. This is sadly impossible, and therefore we must continue in this fascinating realm of uncertainty. Meanwhile, one era’s fact may be another era’s fiction, and vice versa. In the 1840s, for example, Ignaz Semmelweis advanced germ theory, and was generally informed that this was a fiction. He was told he was mad, which was fictional. Later, however, Semmelweis was driven mad, and a once unfactual accusation became, sadly, a fact. By the 1880s, however, germ theory was established as a fact, and Louis Pasteur was not accused of being mad at all.  We might also spare a thought for all those former facts that have now been relegated to the realm of fiction. Entire pantheons of deities, entire civilisations, innumerable well-respected scientific hypotheses: the ether, hysteria as a medical condition (to be cured by removing the womb) the humours, phlogiston and many former facts too numerous and now fictional to mention. We might therefore assume that some of our most factual facts may one day become fictions, and some of our most fictional fictions may - equally - at some stage become facts.
+
+\_\_\_
+
+"We might also spare a thought for all those former facts that have now been relegated to the realm of fiction."
+
+\_\_\_
+
+It is hardly surprising, faced with this ungainly language-tangle, that so many philosophers, novelists, scientists and artists have hankered after a perfectly objectively realm of pure fact, pure reason. This is a nice idea and would solve so many of our problems and yet it is an impossibility. Meanwhile, I think we should not be too demoralised by the fact that we can never achieve pure objectivity - this is akin to abandoning life itself because we are mortal and can never achieve pure eternality. In the mortal realm there are ‘different degrees of certainty’ as Richard Feynman wrote, but ‘nothing is certain or proved beyond all doubt…Every one of the concepts of science is on a scale graduated somewhere between, but at neither end of, absolute falsity or absolute truth.’ This applies fully to the arts as well. We struggle onwards, questing for meaning, even as the exquisite complexity of the universe eludes us once again…The whole debate is wonderful, impossible, and at times insane: rather like reality itself.

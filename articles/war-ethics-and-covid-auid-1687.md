@@ -1,0 +1,109 @@
+---
+title: "War ethics and COVID"
+subtitle: "Biological and biographical sacrifice"
+author: "Hugo Slim"
+date: "10th November 2020"
+article_id: "1687"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,228 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-11-10.slim.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/war-ethics-and-covid-auid-1687"
+---
+
+# War ethics and COVID
+
+*Biological and biographical sacrifice*
+
+**By Hugo Slim** | *10th November 2020* | *Read time: approx. 11 mins* | *2,228 words*
+
+![War ethics and COVID](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-11-10.slim.ata.webp)
+
+---
+
+*In war, a certain amount of lives lost is deemed morally acceptable in the defence of certain social values. More often than not, it's the young who lose their lives so the rest of society may flourish. During the COVID pandemic, the young are once again in the firing line - with their biographical rather than biological lives sacrificed. Should we be less accepting of this ethical assumption, and is it time for older generations to consider putting the young first, asks Hugo Slim.*
+
+As the UK enters its second national lockdown, the ethical decision-making in the COVID crisis is surprising to someone like me who works on the ethics of war. Politicians typically accept a large number of deaths of their own and other people in war, but they are placing an extraordinarily high value on individual human lives in the COVID pandemic, even as they frame the crisis as comparable to war. Prioritizing the biological life of mainly older people is affecting the life chances of younger people as movement restrictions shrink the economy.
+
+Does this mean that governments are becoming innately more humanitarian or is a war morality in play which condones youthful sacrifice?
+
+**Warlike seriousness**
+
+Like war, the ethical significance of the COVID pandemic is set before us as one of grave national crisis in which we must all pull together if we are to triumph. The choices forced upon us by a viral enemy are presented with warlike seriousness by politicians. Surrounded by the national flag, they tell us that our duty now supersedes our rights, our way of life can no longer be the same, and sacrifice is the order of the day because the nation is fighting for survival.
+
+It is our biology not our biography that counts in COVID ethics. Policy is blind to the length or quality of life.
+
+Two things stand out in the ethics that have followed: the primacy placed on individual human life and the particular allocation of sacrifice to younger people rather than older people. COVID ethics insist that every life should be saved, which is very different from war ethics. The decision that the young should suffer to protect the old is integral to war ethics but is more veiled from the public eye in COVID than in war.
+
+But are these judgements wise? Or should we think more about age-based ethics?
+
+**Valuing every life equally**
+
+War ethics accept a significant loss of human life as inevitable and noble. In war, it is widely recognized that the values for which we fight – to defend our country from conquest and destruction by another, or to challenge an evil enemy who is hurting others, are of such ultimate value that we must give up individual lives to secure the country and defeat evil.
+
+The Geneva Conventions, the international laws which regulate warfare, legalize an enormous amount of death and suffering as an important moral element in the process of winning. Militaries are permitted to kill each other (within reason) and kill civilians (when it is impossible to avoid it) as they struggle for victory. This moral recognition that acceptance of death is important to success is ethically ingrained in the majority understanding of war today. It is justified in the Geneva Conventions by the principle of “military necessity” which trumps humanity in many situations.
+
+Saving every human life is not the goal of war. Winning the territory and values for which the war is fought is the aim. Lives spent in that process achieve a greater value than other lives because of the cause in which they died. They are re-valued and honoured as heroic lives given for others to secure the common good.
+
+[Paul Krugman, Grace Blakeley and Deirdre McCloskey debate economics in a post-pandemic world](https://iai.tv/video/capitalism-and-covid-paul-krugman "Watch more videos on iaitv")
+
+Life’s value is very differently weighed in the COVID crisis. Death is much less morally acceptable in government policy in this pandemic than in war. From the start, it has been the individual death rate which has been the big red ink indicator of success and not some wider national goal. The big target we have in our sights once again in this second national lockdown is saving lives (from COVID and other diseases) by protecting the NHS. Limiting deaths and prioritizing individual human life, regardless of age, is the primary policy goal.
+
+It is our biology not our biography that counts in COVID ethics. Policy is blind to the length or quality of life. The decision to prioritize life turns on whether or not you are breathing and not on how long you have breathed or how full your life has been over the years that you have been breathing. There is an implicit principle of “health necessity” as the counterpart of war’s “military necessity”. Health is the ultimate trump in COVID ethics.
+
+In a COVID emergency, unlike a war, older people are best placed to offer their lives for the common good because they are already at the frontline.
+
+Life and health in most governments’ COVID ethics are valued as equally necessary whether you are 80 or 20. This is intuitively odd. Given the choice, many older people would give up their life in their eighties to preserve the future chance of a safe and prosperous life for their children and grandchildren. They would not put themselves at the top of the list just because they are biologically alive when they are, in some sense, biographically satisfied.
+
+Yet, for some reason, we are not asking older people to stand aside and prioritize the lives of others. Nor have they volunteered themselves and organized to do so. This too is odd because, of course, we do ask a demographic segment of society to do this in war.
+
+**Youth sacrifice**
+
+The allocation of sacrifice is the second curious feature of COVID ethics when compared with war ethics. In war, the lines of sacrifice are clear. Young men and women are considered best placed because of their vigour to defend the territory and values of the country. They are asked or required to step out of normal life, put on ritualistic clothing as a group and offer themselves to fight, suffer and, if necessary, die for the common good. Their lives are especially allocated for suffering and death, then framed as noble death.
+
+The remainder of society is asked to make lesser sacrifices in war. Food and fuel is rationed. Many are asked to give up their normal jobs and adapt their working life to the financial, agricultural or industrial demands of an urgent war economy. They suffer the deep pain of losing their young. They are also asked to withstand and resist the aggression of the enemy, which routinely hurts them as civilians.
+
+So sacrifice is shared in war but younger people are especially singled out to give their biological and biographical lives – their breathing and their unlived future - to protect children, older people and their country’s way of life.
+
+In the COVID pandemic we might expect the demographic allocation of sacrifice to be reversed. Old people are biologically most likely to die from COVID and they are also the most biographically complete segment of society. This suggests that in a COVID emergency, unlike a war, older people are best placed to offer their lives for the common good because they are already at the frontline.
+
+Older people would be morally justified in stepping forward and abdicating their right to healthcare and offering their lives for the common good by reducing the national focus on “health necessity” and enabling the economy to recover and the unlived biographies of young people to continue on their current trajectory. In doing so, the sacrifice of older people would be deemed noble and heroic. If young lives are allocated for acceptable sacrifice in war then old lives could be allocated for sacrifice in this pandemic in which they are the main protagonists.
+
+But this age-based ethical logic is not being applied or even publicly discussed in most COVID policy. Why not? Why are there not volunteer battalions of older people refusing medical care and insisting that the wider struggle for national prosperity and the British way of life should continue thanks to their sacrifice? Why, instead, are older people and society at large accepting that the whole of British society should be damaged and transformed to create a new COVID economy that is based on massive debt, the collapse of several business sectors and significant unemployment?
+
+**Moral consensus on youth sacrifice**
+
+Surprisingly, perhaps, most young and middle aged people are accepting an ethics of youth sacrifice that the young must suffer reduced life chances and undiagnosed cancer to protect the old. There seems to be consensus. Why?
+
+The most obvious answer is that the COVID pandemic is not war. The sacrifice the young are making is not as extreme as in a war and is temporary at worst. No hostile power is invading our country to change it forever and younger people will not be killed and wounded even if they may be unemployed, poorer and depressed. Their biographical life chances but not their biological life will be reduced. But the economy may well pick up again when the vaccine arrives so it is a blip - an interim not ultimate sacrifice that is cushioned by exceptional financial support from government.
+
+But perhaps there are also deeper ethical insights in the majority’s acquiescence in this demographically illogical policy. Two other moral intuitions seem to be in play which are politically downplayed because we cannot speak them easily into formal policy arenas.
+
+First, many feel a sort of forest fire ethics about COVID because once a systemic crisis takes a grip then fundamental socio-economic change is inescapable. Widespread damage followed by eventual renewal will happen whatever emergency ethics we choose. Collective intuition suggests that COVID is like a war because it is the beginning of one of those great adjustments that humans must make from time to time. Certain jobs and ways of life are gone for good already. All sections of society are going to suffer and there is no point trying to hold on to a world that is gone.
+
+Even if we cannot achieve herd immunity, we are perhaps reaching a herd morality that agrees this forest fire ethics: “this is a meltdown which must now take its course before a new world emerges”. Young and old must stay safe and suffer patiently as they adapt to a new world.
+
+This is risky but common moral reasoning. It tends to fatalism, and many seem to share it today especially some green and Darwinian economists who enthusiastically look forward to new growth from the commercial forest floor, which uses new space cleared by the burning of outmoded business species to produce a new 21st century economy. Pain and eventual gain for all.
+
+The second intuition is ethically more prosaic. We love our older people – our parents, grannies and our grandads. They have given us everything and we will give them everything we can to protect their preciousness, just as they loved and protected us when we too were shrivelled and weak. It is right that their health necessity is given priority over our income, and showing our love for them is a British national value in action, whatever the cost.
+
+It is difficult to make such emotional moral logic the stuff of hard data-driven public policy but, in reality, it is probably a mixture of forest fire ethics and our intimate bonds of affection which make young and middle aged people accept youthful sacrifice and economic breakdown as the best moral response to the pandemic.
+
+In peace as in war, should the young risk their biology and biography more than the old?
+
+This moral consensus seems to be holding against the enormous frustration of libertarians and downside businesses. The Prime Minister and his cabinet ultimately agree with it but remain unable to capture and express this moral mood because their Conservatism is constantly torn between family value and business value. So they fumble policy and bang on about science instead of moral choice. Labour are not so torn and seem better at gauging the majority’s moral mood. Labour accept well-judged lockdowns as part of a wider strategy when Conservatives dread the fire-breathing of their Libertarian wing. Labour’s sense of lockdown timing and their ideas for targeting relief are clearly better too.
+
+**The Future of Age-Based Ethics**
+
+Does COVID ethics suggest that we will always be morally content with age-based emergency ethics that puts the burden on youth?  In peace as in war, should the young risk their biology and biography more than the old?
+
+British society, like much of global society, is aging. We are also set to face bigger non-war crises like climate emergencies and probably another pandemic and financial meltdown soon enough. Intuitively, it seems to me that older people with a more complete biography should sometimes be ready to give way to younger people as part of emergency ethics but this clearly needs more public discussion as it counters an ancient moral tradition.
+
+We could have had some of this discussion publicly in the COVID crisis but we have avoided it and resolved it intuitively this time beyond the political spotlight. In this we have been badly and timidly led by our politicians and our older people. The subject has remained essentially taboo.
+
+The COVID crisis leaves the two ethical questions of health necessity and youthful sacrifice temporarily agreed but in need of much more public deliberation in preparation for our next systemic crisis.
+
+---

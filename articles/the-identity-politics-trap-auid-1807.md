@@ -1,0 +1,69 @@
+---
+title: "The identity politics trap"
+subtitle: "The dangers of exclusion and how to avoid them"
+author: "Andrew Bowie"
+date: "Issue 96, 13th May 2021"
+article_id: "1807"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,942 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Identity-politics.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-identity-politics-trap-auid-1807"
+---
+
+# The identity politics trap
+
+*The dangers of exclusion and how to avoid them*
+
+**By Andrew Bowie** | *Issue 96, 13th May 2021* | *Read time: approx. 10 mins* | *1,942 words*
+
+![The identity politics trap](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Identity-politics.webp)
+
+---
+
+*Our social identity is important for our sense of self-worth. But the very concept of social identity implies the exclusion of everyone else. In the political realm, that exclusion can quickly turn into oppression, but also resistance and rebellion, argues Andrew Bowie.*
+
+**[![Black Lives Matter Judith Butler performativity the self](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-07-20.butler2.webp)
+
+SUGGESTED READING
+Performativity and Black Lives Matter
+By Judith Butler](https://iai.tv/articles/speaking-the-change-we-seek-judith-butler-performative-self-auid-1580)**Why is it that key contemporary social and political issues, especially those involving race, nationality, and gender, raise questions of ‘identity’? In simple terms, the assumption and assertion of an ‘identity’ has to do with the attempt to imbue one’s social existence with a particular kind of positive meaning. The difficulty is that using identity as a means of establishing one’s value can entail diminishing the identity of others, because they are excluded from that particular identity, be it a social, gender, race, or national identity. As such, the first thing to realise here is that the term ‘identity’ can involve various kinds of tension or contradiction, where different aspects of the same thing are incompatible with each other. Such tensions are exemplified in forms of social exclusion based on racial identities which contradict the norms of a just society. Capitalism itself involves contradictions, in that money, the means of making things equivalent in order to enable socially beneficial exchange, also destroys qualitative differences, with negative social consequences. Contradiction is even involved in explicating what is at stake in the very notion of identity, simply because identity has in key respects to rely on difference.
+
+**Identity as Difference**
+
+A tension is already evident at the most basic level of talking about identity. Take two very simple ways of expressing identity, ‘A = A’, and ‘A is A’, which could loosely be seen as ‘the same’, but which are not strictly identical. ‘A=A’ can be seen as expressing a relationship, and ‘A is A’ as a tautology. In the case of the relationship, the first and the second A have to be different for a relationship of identity to be expressed at all. Expressing identity, then, requires difference. This is crucial to understanding how ‘identity’ functions in real social contexts. For there to be difference, things have to exclude other things, and in social contexts exclusion is liable to involve types of oppression. At the same time, however, assertion of a group identity can also be a form of resistance, of refusing to be swallowed by ideas which claim universality without actually providing it, such as ‘All lives matter’.
+
+For there to be difference, things have to exclude other things, and in social contexts exclusion is liable to involve types of oppression.
+
+A tautology, while saying nothing informative, points to an important consequence. Leibniz famously maintains that the only strict form of identity is that of a thing with itself. Something is ‘numerically identical’ if we encounter it on different occasions and it is the ‘same one’ we encounter each time. In the empirical world, however, there *is* no strict identity between different things, there always being some, however minimal, difference between their properties. (This is probably not the case in the subatomic realm, but we don’t live in the subatomic realm.)
+
+**Identity as Abstraction**
+
+Philosopher and social theorist, T.W. Adorno, asserts that ‘thinking means identifying’. So why do we use forms involving some kind of identity all the time for things that are not strictly identical? In a world in which there were no things that are at least in some sense the same, we would be confronted with an unmanageable chaotic plurality. We need, for example, to recognise that the lion we avoided yesterday is ‘the same’ qua threat to our survival as one we avoid today, even though it may not be the same lion qua physical object. We have to identify things that are different by seeing how they are alike, and the sameness is produced by our thinking*,* as a means of coping in the world. This involves our abstracting identical properties from differing objects to make the objects in some senses the same.
+
+At this point another reason why identity can become such a contentious social issue starts to become apparent. What is at issue here is not just a philosophical concern about the nature of rules for identifying things that are different, like different lions: the way things are identified – the way in which we exclude the differences between things – has profound consequences for the social world. The system of money in capitalism is a means of rendering everything in one respect potentially identical, such that food and slaves, for example, can be the same, qua exchangeable commodities. Arguments about the cultural and ethical advantages and disadvantages of this form of identity, which strips things of their particularity and intrinsic value, in the name of making them exchangeable, remain an inescapable aspect of the contemporary world. If thinking identifies different things primarily in order to cope with the world, this must involve issues of power, and if there is no fully agreed way of establishing which identifications are the true or the best ones, conflict becomes inevitable. The modern natural sciences take on much of the cultural role of establishing true conceptual identities that enable theories which make it possible to manipulate the world. However, whether the sciences can really be definitive in areas where the line between nature and culture is disputed – in psychology, or in questions of sex and gender, for example – is far from clear, and is a major source of contemporary social antagonisms, such as those concerning the identity of trans people.
+
+[Phillip Blond, Dawn Butler, and David Blunkett seek answers to issues of identity and belonging in an increasingly divided society.](https://iai.tv/video/tribal-identity-and-tribal-conflict "Watch more videos on iaitv")
+
+**Identification as the Assertion of Power**
+
+The need for identities in domains where the sciences have no prior claim to authority is also unavoidable. Discussing the meaning of ‘good’ and ‘evil’, Nietzsche talks of the ‘lordly right to give names’, which ‘goes so far that one should allow oneself to comprehend the origin of language itself as an expression of power of the rulers: they say “that is such and such”, they seal every thing and occurrence with a sound and, so to speak, take possession of it’. The process of identifying is here predicated on ‘taking possession’ of things in terms of one’s own self-image, and this suggests why identity can be the root of political pathologies. In order to give words an identity, language itself necessarily involves relations of exclusion. Good and evil gain their determinacy precisely by not being each other, rather than by possessing some kind of intrinsic essence. This kind of differentiation can be seen to be inherent in the very way language articulates the world. Both words and the world, then, in this respect become intelligible by things being determined as not being other things, not by their possessing intrinsic identities. The question here is how we then negotiate a world where identities are not pre-given and have to be arrived at through processes of differentiation. Determining identity relies on difference, and thus on exclusions that generate tensions. Here the question of power and its exercise through language emerges in the ways all too familiar from contemporary social conflicts.
+
+**Social Identity and its Discontents**
+
+The psychological sense of identity that plays a role in people’s social self-image is primarily based on external, socially generated symbolic forms. These can become highly questionable when, for instance, people say they are proud of a national, letalone a racial, identity that they did nothing to attain or add to, beyond being born in one place rather than another. Here identity can become a means of repression, precisely because it depends on exclusion for its perceived value. What complicates this issue, suggesting a contradiction in this sense of identity, is the fact that without links between an internal sense of self and a supra-personal sense of belonging to something that transcends oneself, such as the family, or a cultural practice, or a social group, something goes missing from what it is to be human. Must identity, then, necessarily involve repression?
+
+The difference, for example, in much of the Western world, between dominant white social groups, and oppressed black and other ethnic groups lies in the way that what constitutes the former’s identity helps perpetuate historically unjust power relations. When those on the political right assert that ‘All lives matter’, as a supposed universal human alternative to ‘Black lives matter’, they rely on assumptions about human identity and ‘equality before the law’ that are based on a repressive history. Adorno counters such assumptions when he says in his lectures on *History and Freedom* that ‘the more the particular is defined as a mere object belonging to the universal without being able to affect it reciprocally, then the more the so-called facts become a mere cloak veiling what really exists’. Uncovering the real state of affairs with respect to ‘race’ generates the necessity of asserting a particular identity on the part of those who have historically been oppressed, and this has itself to rely on exclusion, in the name of affecting power relations.
+
+When those on the political right assert that ‘All lives matter’, they rely on assumptions about human identity and ‘equality before the law’ that are based on a repressive history.
+
+Identity in real social contexts is, then, inescapably dialectical: it involves dynamic contradictions. A just society might make possible a universal, shared sense of human identity, without the present forms of exclusion that disempower ’the other’. Establishing such a non-exclusionary form of identity, however, may only be possible via the battle to have the exclusions that are being fought against acknowledged, and this requires a strong sense of shared identity on the part of those who are being excluded. For all the problems involved in the notion, this is what justifies some kinds of ‘identity politics’, for example in the Civil Rights Movement and its promotion of black culture, and its continuation in Black Lives Matter. In this case the partial loss of individual identity occasioned by adherence to the group identity is a hopefully temporary price of being able to organise effective collective resistance.
+
+**Overcoming the Rigidity of Identity Through Art**
+
+Coming to terms with identity, then, means negotiating unavoidable contradictions between the particular and what transcends it, with no guarantee of any final reconciliation between the two**.** In the contemporary world of disintegrating neoliberal capitalism, the kind of openness to the other that would be required for such reconciliation is too often lacking. The assumption of identity in many domains has become more rigid and exclusive: the decisive question is how to overcome this rigidification without reproducing it in another form. Models for such overcoming of rigidification might, for example, be sought in the arts, where it is by remaining open to new possibilities and to being changed by the experience of art that one can develop less repressive, more fluid relationships to the world and other people that enable us to live with the contradictions inherent in social life.
+
+Philosopher Albrecht Wellmer argues that art ‘speaks’, not by producing conceptual identifications, but by the way that its ‘rightness’ is not ‘recognised in the sense of a propositional truth but like the knowing or recognition of a face’. One does not identify a face, in the emphatic sense at issue here, by classifying it in terms of its differences from or similarities to other faces, because the recognition ‘includes cognitive, affective and moral-practical aspects in equal measure’. Including all these aspects in the ways in which we relate to others may diminish the dangers present in identification, and this underlines the need for a defence of the arts at a time when they are regarded as an optional luxury by a growing number of authoritarian governments.

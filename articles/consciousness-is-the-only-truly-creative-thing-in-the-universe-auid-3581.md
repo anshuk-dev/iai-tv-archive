@@ -1,0 +1,113 @@
+---
+title: "Consciousness is the only truly creative thing in the universe"
+subtitle: "The birth of novelty"
+author: "Victoria Trumbull"
+date: "21st May 2026"
+article_id: "3581"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "3,109 words"
+read_time: "Read time: approx. 16 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-is-the-only-creative-thing-in-the-universe.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/consciousness-is-the-only-truly-creative-thing-in-the-universe-auid-3581"
+---
+
+# Consciousness is the only truly creative thing in the universe
+
+*The birth of novelty*
+
+**By Victoria Trumbull** | *21st May 2026* | *Read time: approx. 16 mins* | *3,109 words*
+
+![Consciousness is the only truly creative thing in the universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-is-the-only-creative-thing-in-the-universe.webp)
+
+---
+
+*In a world in which everything feels like a copy of a copy, and where we are told that the laws of physics remain constant always and everywhere, it can feel like there is little room for the radically novel or new. Here, philosopher [**Victoria Trumbull**](https://iai.tv/articles/memory-is-not-stored-in-the-brain-auid-3420) argues that consciousness provides the space for the possible to become real. In a universe driven by laws, consciousness is the creative factor.*
+
+Artificial intelligence has recently acquired a strange and unsettling power: it can produce things that look like human creations. An AI model can write an essay, compose a melody, and generate an image in the style of a Renaissance painter. It can mimic coherence, originality, and even something like inspiration. This cultural moment has forced a perennial philosophical question back into view: [*what is so special, if anything, about human consciousness?*](https://iai.tv/articles/consciousness-is-the-hidden-architecture-behind-fundamental-and-quantum-physics-auid-3523) Is there any meaningful difference between a human mind that creates, and an algorithmic system that, when prompted, produces satisfactory results?
+
+The common temptation is to raise this question by asking whether machines are on their way to becoming “conscious”—or, at least, “intelligent,” provided that we can somehow conceptually isolate intelligence from consciousness to begin with. But the first difficulty in attempting to answer questions of this kind is that we do not yet understand what consciousness, in us, actually *is*.
+
+In mainstream cognitive neuroscience, [consciousness is often understood in terms of information processing](https://iai.tv/articles/reality-is-not-a-controlled-hallucination-auid-3517) involving the ingestion and integration of sensory inputs, the construction of internal representations, and the regular coordination of motor patterns. There are many different versions of this picture: some emphasize neural correlates, others predictive processing, others global broadcasting. But they share a common assumption: that mind can ultimately be explained in mechanistic or computational terms.
+
+\_\_\_
+
+If mental life follows the laws and rules of a predetermined programme, however complex, then it becomes increasingly difficult to make sense of this kind of novelty.
+
+\_\_\_
+
+Yet something in this picture remains incomplete. Computational models of mind struggle to account for a phenomenon so familiar that it is easy to overlook: the emergence of genuine novelty, irreducible to the mere recombination of existing elements. Contemporary philosophers of mind such as Jaegwon Kim have pressed this picture to its limits by raising [the problem of “mental causation”](https://iai.tv/video/free-will-is-not-an-illusion): if the physical world is causally closed, how is it possible for mind to influence our own behaviour, let alone to interact with the world around us?
+
+Since the earliest days of philosophy, the mind or “soul” of the human person has been identified to some degree with an active power or internal force which acts as a proper cause relative to the world. Plato in the *Laws* (896a) defines the soul as that which is “self-moved” and “self-moving,” in contrast to an inert body which is influenced only by external forces. There is an immediate sense by which we recognize this “internal force” within ourselves: I am the initiator of actions which radiate from the interior of my being out to the world around me. We experience this inner force most clearly in moments of decisive importance. When we hesitate between alternatives, when we act in a way that feels not merely caused but chosen, we do not experience ourselves as executing a programme. We feel that we are doing something *new*—so much so that we are often surprised by the results. This capacity for bringing about novelty into the world is often what we recognize in others as the quality of “genius,” whether in scientists, inventors, thinkers, entrepreneurs, poets, artists, or musicians.
+
+If mental life follows the laws and rules of a predetermined programme, however complex, then it becomes increasingly difficult to make sense of this kind of novelty. Some philosophers and neuroscientists have suggested that the experience of choice is itself illusory, being only a by-product of processes already determined in the brain. Famously, arguments of this kind have drawn on neuroscientific studies of action initiation, which appear to show neural activity preceding the conscious awareness of a decision. But such findings concern a very narrow class of cases: the preparation of simple motor actions. That we can detect the preparation of movement in the brain is hardly surprising when we consider that the preparation of movement is the central task of the brain and nervous system more generally. These studies tell us little, however, about deliberation, creativity, or the formation of intention over time.
+
+More importantly, the claim that choice is an illusion raises a serious question for philosophical methodology. This hypothesis begins by asking us to distrust one of the most basic features of our experience: that we experience ourselves, at least sometimes, as agents of creation and choice. The burden of proof is on those who *deny* that our decisions have any real causal efficacy to explain why the experience of choosing arises so persistently, and to demonstrate how this experience can coherently be regarded as wholly deceptive.
+
+\_\_\_
+
+Consciousness is never mere spectatorship.
+
+\_\_\_
+
+The argument that choice is an illusion goes something like this: both a mechanism and an algorithm can produce outcomes that surprise us. But this element of surprise is only owing to the fact that we are not fully aware of its internal workings. Similarly, we are “surprised” with regard to the outcome of our own mental processes, because we cannot peer into the black box of our brains and see precisely how these processes are determined. In principle, everything that the mind does is determined by its prior states, just like the algorithm. On this account, there is no real opening through which something genuinely *new* can appear outside the realm of what the programme has been instructed to do.
+
+Ada Lovelace, the nineteenth-century mathematician who wrote the first computer programme, saw this essential problem early on in the history of computation. A computer, she argued, cannot originate anything: it can only do what it is ordered to do, following the prescribed set of rules given to it by the programmer. This point has become more relevant than ever in the age of generative AI. A model may produce a convincing poem or emotional song, but the deeper question remains: do these artefacts belong to the same category as human artistic inventions? Even if an AI model, recombining the thousands of hours of melodic data used for its training, can improvise an impressive Miles Davis-style jazz solo, would it be capable of inventing jazz itself?
+
+If the power of creation beyond recombination is somehow an essential criterion that distinguishes “mind’ from “algorithm,” then we are forced to look beyond the familiar picture of “consciousness” as a kind of brute awareness of ourselves and the world around us. Philosophers often describe consciousness as the sense of “what it is like” to be a subject. This definition is doubtless important: consciousness involves presence, felt experience, and the fact that the world appears to us as perceiving subjects in all its qualitative richness. But to identify consciousness simply with “awareness” risks making consciousness into something passive and disinterested, portraying the mind as inner spectator and experience as a performance. And the more we think that to be conscious is to be a passive observer, the more we enter into an antiquated and problematic philosophical paradigm: the idea that the mind “in here” is divorced and isolated from the world “out there.”
+
+[![related-video-image](https://iai.tv/assets/Uploads/102.A-Landscape-of-Consciousness-copy.webp)
+
+SUGGESTED VIEWING
+A landscape of consciousness
+With Robert Lawrence Kuhn](https://iai.tv/video/a-landscape-of-consciousness)
+
+Consciousness is never mere spectatorship. I am inserted into the world not just as a perceiver, but as an agent within it—as a *cause* relative to myself, to others, and to the world around me.
+
+This is where an alternative philosophical tradition may become newly relevant. In the modern era, Henri Bergson, following the voluntarist tradition of thinkers like Maine de Biran and Félix Ravaisson, proposed that consciousness is intimately united to *action*. More precisely, consciousness is tied to *indeterminate* action. He argued that consciousness appears wherever there is genuine choice to be made. In fact, [Bergson goes so far as to say that “consciousness,” “choice,” and “creation” are synonyms.](https://iai.tv/articles/memory-is-not-stored-in-the-brain-auid-3420)
+
+This idea may sound abstract or obscure at first glance. But it becomes clearer if we look outward to life itself.
+
+One of the most striking features of living systems is that they do not respond to their environment in a fixed way. What most obviously distinguishes the organism from inert matter—an animal from a stone—is the appearance of spontaneous movement. Even the simplest organisms exhibit this capacity for self-movement. That being said, the most primitive biological organisms, such as the amoeba, still react in a relatively mechanical way: a poke is followed by a contraction. As organisms develop and nervous systems become more complex, however, the potential for variability and unpredictability in movement increases. With the introduction of the brain and spinal cord in particular, the possibility of hesitation and choice grows. The mammal no longer responds to every stimulus with an inevitable reflex; it is capable of pausing and selecting before pursuing its next course of action.
+
+The more possible actions a creature is capable of making, and the more unpredictable its movements are, the more consciousness seems to accompany it. On the one hand, an insect with a narrow behavioural repertoire appears to operate closer to mechanism: ants migrate to and from their anthill, a spider weaves its web and catches its prey. On the other hand, a dog or horse, capable of learning, anticipation, and flexible response, occupies a wider zone of indeterminacy. In human beings, this zone expands further still—to the point of migrating and adapting to harsh and seemingly uninhabitable environments, inventing tools and technologies to increase the efficiency of action, speaking in a common language, building civilizations and societies, and even resisting certain ingrained biological impulses and behavioural conditionings, such as the need to eat (in the example of hunger strikes) or the need to survive (in the example of ritualistic or honour-based suicide).
+
+We can observe this solidarity between consciousness and choice even within our own experience. At the lowest level of our possible movements, there are reflexes: if you touch a hot surface, you automatically and immediately retract your hand. Next, there are habits. Consider what it feels like when you walk a familiar route home, or brush your teeth, or type your computer password. When we perform habits of this kind, we do so with minimal awareness: the action only needs to be initiated, and then it unfolds more or less automatically. But what happens when we try to learn something new? When we navigate a foreign city for the first time, learn the steps to a dance routine, or decide to take a first skiing lesson, our consciousness is *intensified*. We become more present, more attentive, and more alive to each moment. We must make little decisions here and there along the way, forcing our attention to accompany every next step and refusing to let our attention withdraw itself from the present activity of the body.
+
+Now think of what it is like to make a difficult choice: should I take this job? Should I tell this person how I feel? Should I move to another city? Here you must hold multiple courses of action in mind; you must weight them; you must feel the acute tension of not yet having decided, of the future being uncertain and unknown; and finally, all of a sudden, you proceed and know there is no turning back. In these cases, our consciousness intensifies precisely at the moment when our behaviour is no longer fixed in advance.
+
+But this raises another philosophical question: what does it mean for an action to be “undetermined”? Does it merely imply that we are uncertain of what will happen next? Or does it mean that what will happen is, in its very nature, not fully specified even in principle—even if we were all-knowing beings in possession of the mathematical formula of the universe?
+
+Here, one of [Bergson’s most radical metaphysical claims](https://plato.stanford.edu/entries/bergson/) comes into view. He argues that genuine novelty is neither the recombination of already existing elements, nor the realization of a pre-existing possibility. We often imagine the future as a set of options laid out before us like forks in a country road; all that’s left for us to do is to choose which one to travel down. But a choice between A or B is not really a “choice” in the fullest sense of the word. Bergson suggests that we need to avoid this way of thinking because this picture is nothing more than a retrospective illusion. It is only once something has already *happened* that we can look back and say that it was “possible.” But before it happened, that “possibility” did not exist as a fully formed alternative. Instead, we might say that the road paves itself only when we start to walk down it. A new idea, a new work of art, or a new form of life are not options chosen from a menu. They are brought into being by the very effort or act of creation itself. The possible, in this sense, is not prior to the real; it is posterior to and derived from it.
+
+If this idea contains some modicum of truth, then consciousness is not simply a system for navigating a pre-given space of options. It is a force that participates in the very *creation* of that space itself. To be a conscious being is to co-create the possible alongside and at the same time as the real.
+
+This understanding allows us to reframe a familiar philosophical problem: the “free will vs determinism” debate. This debate is often presented as a stark opposition: either everything that we do is fixed in advance, or human beings possess the mysterious power of absolute freedom. All that is left for us to do is to pick our preference and construct arguments for why we believe one of these options to be the truer.
+
+[![related-video-image](https://iai.tv/assets/Uploads/26-01-9.freedom-and-fate.ata.webp)
+
+SUGGESTED VIEWING
+Freedom and fate
+With Paul Bloom, Lucy Allais, Robert Sapolsky, Hilary Lawson](https://iai.tv/video/freedom-and-fate)
+
+And yet, our experience is almost always a “mixture” between these two opposed extremes: we seem more often to inhabit the middle ground between pure mechanism and pure liberty. Reality, like our own individual action, unfolds into varying degrees of indeterminacy: at one end, there are systems whose behaviour is highly constrained and predictable; at the other, there are systems whose behaviour involves a significant degree of openness and incompleteness. To recognize this requires no invocation of a mystical substance; it only requires that we acknowledge that not all processes are equally mechanical, and that there may in fact be “degrees of freedom” or ‘degrees of choice” just as there may be “degrees of consciousness” throughout the natural world and the animal kingdom.
+
+The goal of consciousness with regard to the world is to express the greatest degree of freedom by making the best possible use of matter. Hence, the history of evolution is the story of life seeking out ever-new means of realizing its own creative potential: it is the story of organization against entropy, adaptation against stagnation, and reproduction against extinction.
+
+What, then, is the role of matter in this picture? Matter provides structure and resistance to the organism. It constrains the free activity of consciousness, which must successfully weave its way through material necessity in order to achieve its ends. But matter is also what makes action possible in the first place: it provides the very material through which consciousness realizes itself. Matter offers resistance, and consciousness responds with invention. In this way, matter is not the enemy of consciousness but its partner in creation. The world gives consciousness something to work on and, therefore, something to become through.
+
+Once we restore to consciousness its original function of choice, then human creativity begins to look different. The capacity for creation is not a decorative ornament or marginal addendum of mind; it is instead one of its essential expressions and fundamental features. On this account, to be creative is not to possess a rare talent preserved only for a predestined few. Creativity is built into consciousness from the beginning, insofar as consciousness is, in some important measure, tied to the power to introduce novelty into the world around us.
+
+In our everyday lives, we tend to picture “creation” as the production of some finished object. But beneath the Picasso painting, Newtonian mechanics, or Alexander Graham Bell’s telephone, we see a deeper phenomenon: the act itself by which something unforeseeable enters the world, and the power or force of the mind which is capable of this effort.
+
+In this sense, we are not only creative when we design grand theories or write symphonies; we are creative whenever we respond freely rather than mechanically. The highest of human creations may not be any work of art or technology in the conventional sense. It may instead be the continual invention and edification of the self in relation to the other: the growth of personality through effort, through decision, and through drawing more out of oneself than what is already contained within.
+
+This is why *effort* and *attention* matter, and why they matter even more so in a world that has turned them into fragmentary commodities. An idea that remains a dream costs little. To *realize* this idea materially—in words, action, stone, sound, colour, or form—demands consistent effort met with resistance, and patience met with frustration. Matter resists the free passage of creation; but it is precisely this wrestling with matter that brings creation into being. As it happens, we often discover what we mean by trying to say it or write it down, by moulding an idea or feeling into well-formulated words.
+
+This is why joy is such an important piece in the puzzle of human consciousness. Joy is the sign that life has succeeded in creating something. Consider the joy of the artist who has made a work in line with her vision, the joy of the thinker who has formulated his theory, or the joy of the mother who holds her newborn child. These experiences have a special quality not because they earn us glory or fame, but because they mark the expansion of life through the creative act.
+
+For these reasons, creation feels meaningful to us in a way that consumption never does. And this is also why the fantasy of outsourcing all our intellectual and artistic labour to machines feels like a bleak prospect. AI will undoubtedly save us effort—but effort is essential to our being.
+
+In a universe so often described in terms of laws and regularities, consciousness emerges as a radiant centre of creative initiative: each individual consciousness is like a little sun from which the rays of the new can appear. Perhaps the distinction between machines and human beings, or between matter and mind, points to a deeper tension between a world which merely repeats what already is, and one that is always and everywhere still being made.

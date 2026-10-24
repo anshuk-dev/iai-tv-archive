@@ -1,0 +1,85 @@
+---
+title: "The economy needs the creative destruction of a recession"
+subtitle: "Zombie companies must be allowed to die"
+author: "Gunther Schnabl"
+date: "5th February 2026"
+article_id: "3485"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,624 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/recessions.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-economy-needs-the-creative-destruction-of-a-recession-auid-3485"
+---
+
+# The economy needs the creative destruction of a recession
+
+*Zombie companies must be allowed to die*
+
+**By Gunther Schnabl** | *5th February 2026* | *Read time: approx. 8 mins* | *1,624 words*
+
+![The economy needs the creative destruction of a recession](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/recessions.webp)
+
+---
+
+*Conventional wisdom says we must avoid recessions at all costs. This is a fatal mistake, argues **Gunther Schnabl**, named one of Germany’s most influential economists by the Frankfurter Allgemeine Zeitung. By using government stimulus to put failing firms on life support, states are trapping capital in “zombie” companies and strangling creative newcomers. Europe in particular is now paying the price for a paralyzing fear of recession. Only a dose of “creative destruction”—as seen in Javier Milei’s Argentina—can save it.*
+
+**1. Keynes reloaded**
+
+For decades, economic policy in the advanced economies has been guided by a seemingly self-evident objective: [recessions must be prevented at all costs](https://iai.tv/articles/recession-is-the-threat-not-inflation-auid-1951). Whenever a crisis hit, growth slowed down or other threats emerged, central banks and governments intervened with monetary easing, fiscal stimulus and regulatory expansion.
+
+The intellectual foundation of modern crisis-prevention is rooted in [John Maynard Keynes’ idea](https://iai.tv/articles/after-the-third-way-the-return-of-the-state-philip-collins-auid-2627) of policy response to the [Great Depression](https://link.springer.com/book/10.1007/978-3-319-70344-2) of the 1930s. Faced with mass unemployment, collapsing demand and deflation, he recommended deficit-financed government spending, as human beings seemed too shortsighted and emotional to cope with the crisis. Rising public debt was seen as the temporary cost of macroeconomic stabilization.
+
+What was once meant to be temporary became permanent. In Europe Keir Starmer, Emmanuel Macron and Friedrich Merz continue to fight anemic growth with debt-financed government expenditure, supported by new interest rate cuts of the Bank of England and the European Central Bank since 2024. Yet, why are the European leaders so [unsuccessful in their attempts to fight stagnation](https://iai.tv/video/the-holy-grail-of-economics), while the disruptive US president Donald Trump hails his success in keeping up US growth dynamics?
+
+**2. Short-term gain, long-term pain**
+
+In the short term, central bank-financed government spending works well. When a financial crisis hits, interest rate cuts and asset purchases by central banks can stabilize financial markets in a timely and effective manner. US Federal Reserve Chairman Alan Greenspan earned a reputation as a wizard of financial markets by decisively lowering interest rates in the face of financial crises. European Central Bank President Mario Draghi received the German Federal Cross of Merit for saving the euro at the height of the European debt crisis. As a byproduct of government bond purchases of central banks, governments could issue more debt, create additional demand and subsidize corporations to reduce unemployment.
+
+\_\_\_
+
+The suppression of recessions has led to a paradox, previously observed in socialist planned economies: stability without dynamism.
+
+\_\_\_
+
+Over the medium term, persistently low interest rates and growing central bank balance sheets distort price signals on financial markets, triggering fast-rising asset prices. The resulting financial exuberance was—again and again—the preliminary step of bursting bubbles, which made even larger monetary and fiscal stabilization measures necessary. Widened scope for spending encouraged governments to create ever more ambitious goals of policymaking, with regulation used as an additional tool. [Climate protection became a justification to sustain low interest rates](https://iai.tv/articles/raising-interest-rates-wont-solve-inflation-auid-2318) and to continue debt-financed government expenditure.
+
+In the long term, persistently low interest rates and proliferating subsidies reduce the pressure on corporations to increase efficiency and bring forward innovation. In the advanced economies, an increasing number of so-called [zombie corporations](https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0061/html) became dependent on the support of governments and central banks. Proliferating regulation and bureaucracy increasingly restricted innovation capacity and tilted private economic activity into social and green directions predefined by governments. Fast-rising government expenditure allowed employment relationships in the public sector with a good work-life balance to grow rapidly. Government expenditure, unprecedentedly high for peacetime, and debt levels have created persistent pressure on central banks to keep interest rates low.
+
+**3. The impact on society**
+
+The suppression of recessions has led to a paradox, previously observed in socialist planned economies: stability without dynamism. Growth is weak, recoveries are flatter, and private investment has been substituted by government consumption. Young firms struggle to compete with subsidized incumbents, and bankruptcies have been replaced by administrative preservation. With productivity gains trending towards or even below zero, the potential for real wage increases has shrunk, whereas returns from some financial investments and economic activities have been kept high by the state.
+
+Persistently [expansionary monetary policies](https://iai.tv/articles/monetarism-could-save-the-economy-auid-2345) and pervasive regulations have pushed up food and energy prices, with officially measured consumer price inflation and perceived inflation having become delinked. Asset owners have benefited from rising stock and real estate prices. In contrast, the holders of bank deposits—typically the middle class—have seen the returns of their savings being depressed towards zero, in real terms even into the negative. Growing government expenditure has had distribution effects in favor of large corporations, which can better lobby for subsidies. With public pension schemes becoming heavily subsidized and real estate prices hiking, older people have gained at the expense of younger people. For most of the latter, social advancement has become impossible.
+
+\_\_\_
+
+Preventing the dismantling of investment projects to avoid unemployment becomes an impediment to a sustainable recovery, as Hayek described in his*Road to Serfdom*.
+
+\_\_\_
+
+As public institutions and publicly subsidized institutions (NGOs) thrived, administrative centers like London, Paris and Berlin attracted labor from less privileged regions, which accelerated their depopulation. Economic stagnation, rising inequality, and perceived unfairness have fueled political polarization, as growing parts of society felt excluded from diminishing welfare gains. As trust in public institutions eroded, [populist movements gained traction](https://iai.tv/video/the-philosophy-of-reform-with-richard-tice) by promising protection, redistribution, or national economic control. Meanwhile, parties on the left stepped up their demands to tax the wealthy and expropriate real estate.
+
+**4. Hayek’s and Schumpeter’s view on creative destruction**
+
+In the early 1930s, the Austrian economist Friedrich August von Hayek was invited to the London School of Economics as a theoretical counterweight to John Maynard Keynes. In his view, overly strong monetary expansion in the 1920s had caused exuberance on the US stock market, which finally culminated in the world economic crisis. According to Hayek, small government, [free prices](https://www.jstor.org/stable/1809376) and freedom of contract are the foundations of growth and welfare, because the knowledge of governments is too limited to predict the future. When central banks suppress interest rates, they encourage unsustainable credit-financed investment and speculative booms. Thus, the proper way to prevent harmful recession is to prevent exuberance in the first place by sound money.
+
+The overinvestment theory helps to understand the fatal Japanese bubble economy in the 1980s, the “miraculous” boom in Southeast Asia preceding the Asian crisis in the 1990s, and the build-up of huge overcapacity in the Chinese industrial and real estate sectors after the turn of the millennium. Also, the devastating real estate booms in the United States and Southern Europe between 2003 and 2007 fit this pattern as exuberance was amplified by low interest rates. In the theory, the turnaround is triggered when the central bank is forced to increase the interest rate in the face of accelerating inflation. Then, the low-return investment projects have to be dismantled and unemployment rises. Falling wages and prices build the basis for the recovery, during which idle capital and labor can be shifted to new investment projects with higher expected returns. Preventing the dismantling of investment projects to avoid unemployment becomes an impediment to a sustainable recovery, as Hayek described in his [*Road to Serfdom*](https://press.uchicago.edu/ucp/books/book/chicago/R/bo4138549.html)*.*
+
+[![related-video-image](https://iai.tv/assets/Uploads/innovation-and-the-future-of-capitalism.webp)
+
+SUGGESTED VIEWING
+Innovation and the future of capitalism 
+With Michael Howard, Rajini Vaidyanathan, Pravin Krishna, Prem Shankar Jha](https://iai.tv/video/innovation-and-the-future-of-capitalism)
+
+The Austrian economist [Joseph Schumpeter](https://www.taylorfrancis.com/books/mono/10.4324/9780203202050/capitalism-socialism-democracy-joseph-schumpeter) also saw the dismantling of investment projects during recession as a prerequisite for something new to emerge. In his view, capitalism is a dynamic process of change. The idea of “creative destruction” is that only if obsolete technologies, outdated business models and incumbent firms are destroyed, will innovation, new products, and new corporations boost productivity and growth. With governments preventing this process at all costs, growth is subdued, as we see today in Japan, China, Europe and substantial parts of the US. This explains why the abundant liquidity created by the world’s largest central banks is heading towards the new Big Tech sector. Sharply rising stock prices and debt-financed investment activity for huge data centers are reminiscent of Hayek’s overinvestment theory.
+
+**5. Economic policy recommendations**
+
+Stop trying to prevent recessions at all costs. Only a [leaner state](https://iai.tv/video/draining-the-swamp), reliable rules, and greater reliance on market mechanisms can sustain growth and welfare in the long run—allowing for a realistic assessment of the [market potential of Artificial Intelligence](https://iai.tv/articles/ai-is-a-marketing-trick-auid-3450). Monetary policy must [refocus on price stability](https://iai.tv/articles/inflation-is-more-dangerous-than-recession-auid-2165). Public expenditure obligations and public debt have to be reduced, which is best achieved when central banks allow the disciplining function of capital markets to work again. Regulation must be reduced to a reasonable level, holding back policymakers from the “[pretense of knowledge](https://www.jstor.org/stable/1914347)” (Hayek), i.e. the belief that they can foresee and plan the future. The role of the government should be to provide a reliable legal framework for economic activity, which defines limits, but ensures freedom of contract for all market participants in the same way.
+
+Meanwhile, in Argentina, [Javier Milei](https://www.degruyterbrill.com/document/doi/10.1515/ordo-2025-2025/html) has put on track an ambitious reform agenda—based on the foundation of Austrian economics—which comprises monetary stabilization, fiscal consolidation and extensive deregulation. In the United States, the disruptive Donald Trump has prompted the destruction of debt-financed state expansion, with deregulation, leaner government and—possibly!—fiscal and monetary consolidation coming up. In Europe, however, Starmer, Macron and Merz remain addicted to the belief that the persistent expansion of the state can make the world better. People in Europe still seem to be too shortsighted to accept reforms as the price for the long-term benefit of preserving welfare.
+
+History has shown that the courage to reform is rewarded. In Germany, after the devastating defeat in World War II, Ludwig Erhard’s 1948 economic and currency reform created the basis for unprecedented growth dynamics, which fulfilled his promise of “Wohlstand für alle” (prosperity for all). In the United Kingdom, starting at the end of the 1970s Margaret Thatcher—with Hayek’s [*The Constitution of Liberty*](https://iea.org.uk/sites/default/files/publications/files/Hayek's%20Constitution%20of%20Liberty.pdf) as theoretical foundation—profoundly reshaped Britain’s economy, state, and political culture to reanimate growth. It remains to be seen when and where in Europe a new Thatcher or a new Erhard will emerge. The disruptive Donald Trump is increasing the pressure for change.

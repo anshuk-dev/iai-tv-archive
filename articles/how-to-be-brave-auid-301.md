@@ -1,0 +1,40 @@
+---
+title: "How to be Brave"
+subtitle: "What do we talk about when we talk about courage?"
+author: "Polly Morland"
+date: "12th January 2014"
+article_id: "301"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "492 words"
+read_time: "Read time: approx. 2 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/03whippits1.webp"
+unpaywall_method: "body HTML container"
+source_url: "https://iai.tv/articles/how-to-be-brave-auid-301"
+---
+
+# How to be Brave
+
+*What do we talk about when we talk about courage?*
+
+**By Polly Morland** | *12th January 2014* | *Read time: approx. 2 mins* | *492 words*
+
+![How to be Brave](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/03whippits1.webp)
+
+---
+
+Disquiet creeps in everywhere these days. Apprehension has gradually become the norm and our ability to distinguish what is and what is not scary has been skewed. Sensing and regretting our communal timidity, we grow hungry for its opposite, this rare delicacy: bravery. Our media and politicians feed the appetite, dishing up accounts of Courage and Heroism so seasoned with drama and cliché that they may be mouth-watering and easy to digest, but hardly nourishing. And so the cycle of timidity continues, a vicious (as opposed to a virtuous) circle.    
+  
+All the same, what we talk about when we talk about courage is not, thankfully, the same thing as courage itself. What Michel de Montaigne called “the strangest, most generous and proudest of all virtues”, courage does exist and it always has. It was there in the Torah, the Bible, the Qu-ran, the Vedas, the scrolls of Confucius, the writings of Plato and Aristotle. Nor has it ever passed out of fashion, which cannot be said for all of the cardinal virtues (prudence, anyone?).  
+  
+In a secular culture that yearns for authenticity and belief, true courage remains pivotal to our morality and our aspirations; the best-loved of all the old virtues. Epic braveries or modest ones, ancient or modern, there is such optimism implicit in them all. They speak of the power of one small man or woman, or group of men and women, and their refusal to be merely buffeted by fate.   
+  
+All courage involves some level of dynamic engagement with a world that, however cruel, it is possible to change in either great or subtle ways. This optimism in extremis, this silver lining to the cloud, is surely why courage stands unimpeachable and future-proof. And however out of touch with it we may sometimes be, it remains, as C.S. Lewis remarked to his old friend Cyril Connolly, “not simply one of the virtues, but the form of every virtue at the testing point.”  
+  
+The extraordinary staying power of courage is perhaps surprising if you consider how disconnected it is from the everyday. For most of us, the “testing points” do not come often. Yet so many of us hope that, should the hour of need arise, an intention and a desire to act bravely will enable us to do so.   
+  
+In an age of anxiety, where trouble is perceived to be around every corner, these “testing points” feel closer and we worry about them, not least, because, in a crisis, many people do not step up. Hoping to be brave but falling short is clearly of no use. Yet when someone, seemingly small and ordinary, is brave, it gives us all hope. It is this transformation, however momentary, from Timid to Brave Soul that sits at the heart of how we measure ourselves as human beings.  
+  
+  
+**This is an extract from [Polly Morland](https://www.facebook.com/TheSocietyOfTimidSouls/info)’s first book, *[The Society of Timid Souls or How to Be Brave](http://www.profilebooks.com/isbn/page/9781781251904/)* (Profile Books, £15.99 hardback) which is out now.**

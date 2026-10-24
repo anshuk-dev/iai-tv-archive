@@ -1,0 +1,89 @@
+---
+title: "The power of utopia"
+subtitle: "Our way out of the climate crisis"
+author: "Mathias Thaler"
+date: "5th November 2021"
+article_id: "1968"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,927 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/NEW-uTOPIA.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-power-of-utopia-auid-1968"
+---
+
+# The power of utopia
+
+*Our way out of the climate crisis*
+
+**By Mathias Thaler** | *5th November 2021* | *Read time: approx. 10 mins* | *1,927 words*
+
+![The power of utopia](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/NEW-uTOPIA.webp)
+
+---
+
+*Utopias get a bad rap. The imagining of better futures, without any kind of details about how to achieve them, is seen as a form of escapism from life’s real problems. But utopian thinking can be much more than simply a way of consoling ourselves that better days will come. Utopias can help us retrain our desires and prepare us for different ways of living. And while authoritarianism is always a danger lurking in utopian thinking, the risk of simply continuing to live as we have is much greater, writes Mathias Thaler.*
+
+In the public debate, the climate emergency has broadly given rise to two opposing reactions: either resignation, grief, and depression in the face of the Anthropocene’s most devastating impacts; or a self-assured, hubristic faith in the miraculous capacity of science and technology to save our species from itself.   
+  
+**[![apocalypse](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/apocalypse.webp)
+
+SUGGESTED READING
+The power of apocalypse
+By John Milbank](https://iai.tv/articles/the-power-of-apocalypse-auid-1972)**But, as Donna Haraway forcefully asserts, neither of these reactions, relatable as they are, will get us very far. What is called for instead is a sober reckoning with the existential obstacles lying ahead; a reckoning that still leaves space for the “educated hope” that our planetary future is not yet foreordained. To accomplish these twin goals, utopian thinking and acting are paramount.
+
+**Utopia as escapism**
+
+What could be the place of utopias in dealing with the climate emergency? To answer this question, we first have to clear up a widespread misunderstanding about the basic purpose of utopianism. Many will suspect that the utopian imagination appears, in fact, uniquely *unsuited* for illuminating the perplexing realities of a climate-changed world. On this view, utopianism amounts to the kind of escapism we urgently need to eschew, if we are serious about facing up to the momentous challenges the present has in store for us. Indulging in blue-sky thinking when the planet is literally on fire might be seen as the ultimate sign of our species’ pathological predilection for self-delusion.
+
+Many will suspect that the utopian imagination appears, in fact, uniquely unsuited for illuminating the perplexing realities of a climate-changed world.
+
+The charge that utopias construct alluring alternatives in great detail, without, however, explaining how we might get there, possesses an impressive pedigree in the history of ideas. Karl Marx and Friedrich Engels excoriated the so-called utopian socialists for being supremely naïve when they paid scant attention to the role that the revolutionary subject—the proletariat—would have to play in forcing the transition to communism. It is important to remark that the authors of the *Communist Manifesto* did not take issue with the glorious ideal that the utopian socialists venerated, quite to the contrary. Their concern was rather that focusing on the wished-for end point in history alone would be deleterious from the point of view of a truly radical politics, for we should not merely conjure what social form might replace the current order, but outline the concrete steps that need to be taken to transform the untenable status quo of capitalism.  
+  
+ Marx and Engels were, to some degree, right. There are many types of utopian vision that serve nothing but consolation, trying to render an agonising situation more bearable by magically transporting the readers into a wonderous, bright future. These utopias typically present us with perfect and static images of what is to come. As such, they leave not only the pivotal issue of transition untouched, they also restrict the freedom of those summoned to imaginatively dwell in this brave new world—an objection levelled against utopianism by liberals of various stripes, from Karl Popper to Raymond Aron and Judith Shklar.
+
+There are many types of utopian vision that serve nothing but consolation, trying to render an agonising situation more bearable by magically transporting the readers into a wonderous, bright future.
+
+**Non-perfectionist utopias and the re-education of desire**
+
+Yet, not all utopias fail to reflect on what ought to be practically done to overcome the existential obstacles of the current moment. Non-perfectionist utopias are apprehensive about both the promise and the peril of social dreaming. In the words of the late French philosopher Miguel Abensour, **t**heir goal consists in educating our desire for other ways of being and living. This wide framing allows for the observation of a great variety of utopias within and across three dimensions of thinking and acting: theory-building, storytelling, and shared practices of world-making, as paradigmatically enacted in intentional communities.
+
+The interpretive shortcut that critics of utopianism take is that they conceive of this education purely in terms of conjuring perfect and static images of other worlds. However, utopianism’s pedagogical interventions can follow different routes as well. From the 1970s onwards, science fiction writers such as Ursula K. Le Guin, Marge Piercy and Octavia Butler started to build into their visions of the future modes of critically interrogating the collective wish to become otherwise. Doubt and conflict are ubiquitous in their complex narratives. Social dreaming of this type turns out to be the opposite of escapism: as a self-reflective endeavour, it remains part and parcel of any radical politics worth its salt.   
+  
+ The education of our desire for alternative ways of being and living amounts to an intrinsically uncertain enterprise, always at risk of going awry, of collapsing into totalitarian oppression. There is, hence, no getting away from the fact that utopias can have problematic effects. But this does not mean we should jettison them altogether. The risks of *not* engaging in social dreaming far outweigh its obvious benefits: any attempt to cling to business as usual, at this moment of utmost emergency, will surely trigger an ever more catastrophic breakdown of the planetary condition, as the latest IPCC draft report into various climate scenarios unambiguously establishes.
+
+The education of our desire for alternative ways of being and living amounts to an intrinsically uncertain enterprise, always at risk of going awry, of collapsing into totalitarian oppression.  
+  
+ The path forward, then, entails acknowledging the eminent dangers in all efforts to conjure alternatives; dangers that can be negotiated and accommodated via theory-building, storytelling, and shared practices of world-making, but never fully eliminated. This insight is aptly expressed in Kim Stanley Robinson’s work:  
+  
+ " Must redefine utopia. It isn’t the perfect end-product of our wishes, define it so and it deserves the scorn of those who sneer when they hear the word. No. Utopia is the process of making a better world, the name for one path history can take, a dynamic, tumultuous, agonising process, with no end. Struggle forever."
+
+**The narrative strategies of utopias**
+
+If we recast utopianism along Robinson’s lines, what might be its lessons for navigating our climate-changed world? To answer this question, I propose we distinguish between three mechanisms that utopias deploy: estranging, galvanising, and cautioning. All utopias aim to exercise their critique of the status quo by doing one or several of these things. This can be illustrated through a quick glance at recent instances of theory-building and storytelling that grapple directly with our climate-changed world.  
+  
+ Let us commence with estranging. When utopias make the extraordinary look ordinary, they seek to unsettle the audience’s common sense and therefore open up possibilities for transformation. One way of interpreting Bruno Latour’s recent appropriation of the Gaia figure is, accordingly, to decipher it as a utopian vision that hopes to disabuse its readers of anthropocentric views of the planet. While James Lovelock initially came up with the idea to envisage Earth in terms of a self-regulating system, baptising the entirety of feedback loops of which the planet is composed with the mythological name “Gaia”, Latour attempts to vindicate a political ecology that repudiates the binary opposition of nature and culture, which obstructs a responsible engagement with environmental issues. From this, a deliberately strange image of Earth emerges, wherein agency is radically dispersed across multiple forms of being.   
+  
+ In N. K. Jemisin’s *Broken Earth* trilogy, to refer to an interesting case of politically generative fantasy, our home planet is depicted as a vindictive agent that wages permanent war on its human occupants. The upshot of this portrayal of the planetary habitat as a living, raging being, rather than a passive, calm background to humanity’s sovereign actions, is that the readers’ expectations of their natural surroundings are held in abeyance. Jemisin’s work captures Earth and its inhabitants through powerful allegories of universal connectedness—neatly termed “planetary weirding”. What is more, the *Broken Earth* trilogy also sheds light on the shifting intersections of class, gender, racial, and environmental harms. Hence, narratives such as this unfold plotlines that produce estrangement: they come up with imagined scenarios, which *defamiliarise us from what we habitually take for granted*.
+
+Conjuring alternatives is as much about the modelling of other ways of being and living as it is about spurring resistant action.
+
+Galvanising stories casts utopian visions in a slightly different light. These narratives describe alternatives whose purpose resides in revealing optimistic perspectives about the future. In contemporary environmentalist discourse, ecomodernists enlist this kind of emplotment strategy, most notably through their provocative belief that science and technology might eventually expedite a “decoupling” of human needs from natural resource systems.   
+  
+ Kim Stanley Robinson’s *Science in the Capital* trilogy inspects this alluring proposition with inimitable insight. In his account of how the American scientific community might marshal its expertise to redirect the entire Washington apparatus onto a sustainable policy platform, Robinson attempts to establish that viable paths out of the current impasse do already exist—if only all the actors involved finally recognised the severity of the situation. The chief ambition behind this utopian frame is thus to *affectively galvanise an audience* that is at the moment either apathetic about its capacity to transform the status quo or paralyzed by the many hurdles that lie ahead.  
+  
+ Finally, cautionary tales follow a plotline that is predicated on a bleaker judgment: unless we change our settled ways of being and living, the apocalypse will not be averted. Dystopian stories pursue this instruction by excavating hazardous trends that remain concealed within the current moment. Commentators such as Roy Scranton or David Wallace-Wells maintain that there is little we can do to slow down the planetary breakdown and the eventual demise of our own species.
+
+The climate emergency has, among many terrible outcomes, triggered a profound crisis of the imagination and action.  
+  
+ Margaret Atwood’s dystopian *MaddAddam* trilogy takes one step further when she prompts the reader to imagine how life after the cataclysmic collapse of human civilisation might look like. The main task of this sort of narrative is to *warn an audience about risks* that are already present right now, but whose scale has not yet been fully appreciated in the wider public.  
+  
+ These three compressed cases show that the utopian imagination has much to add to the public debate around climate change; a debate that is about so much more than just plausible theories or appealing stories. Conjuring alternatives is as much about the modelling of other ways of being and living as it is about spurring resistant action. Social dreaming does not only involve abstract thought experiments; it also prompts a restructuring of human behaviour and as such proves to be deeply practical.   
+  
+ The climate emergency has, among many terrible outcomes, triggered a profound crisis of the imagination and action. In this context, and despite legitimate worries about the deleterious aspects of social dreaming, we cannot afford to discard the estranging, galvanising, and cautioning impact that utopias generate. As one of the protagonists of the *Science in the Capital* trilogy declares: “We’re going to have to imagine our way out of this one.”
+
+*A version of this article was originally published in the blog [Ideology Theory Practice.](https://www.ideology-theory-practice.org/)*
+
+*Follow them of Twitter [@IdeologyTheory](https://twitter.com/IdeologyTheory).*

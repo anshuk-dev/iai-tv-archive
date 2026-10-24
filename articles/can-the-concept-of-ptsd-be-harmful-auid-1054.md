@@ -1,0 +1,87 @@
+---
+title: "The Harms of the Concept of PTSD"
+subtitle: "In Western psychology we individualise, decontextualise and fix trauma in the past"
+author: "Patrick Bracken"
+date: "Issue 65, 3rd April 2018"
+article_id: "1054"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,606 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/joshua-sortino-431615-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/can-the-concept-of-ptsd-be-harmful-auid-1054"
+---
+
+# The Harms of the Concept of PTSD
+
+*In Western psychology we individualise, decontextualise and fix trauma in the past*
+
+**By Patrick Bracken** | *Issue 65, 3rd April 2018* | *Read time: approx. 8 mins* | *1,606 words*
+
+![The Harms of the Concept of PTSD](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/joshua-sortino-431615-unsplash.webp)
+
+---
+
+I have worked over many years with victims of torture, rape, institutional abuse and deprivation as well as those who have suffered serious traumatic events in the course of their ‘ordinary’ lives. I have had the privilege to work with individuals, families and communities in rural Ireland, inner-city settings in the UK, various countries in Africa, Asia and New Zealand. I have come to the conclusion that the assumptions involved in the concept of PTSD: hyponarrativity, commitment to a cognitivist/computational model of mind and an inbuilt linear approach to psychological time mean that it cannot capture the complexity of human responses to traumatic events. Because of these implicit assumptions, the discourse of PTSD serves to individualise and decontextualise human suffering. In doing this, it distorts the way in which we understand healing and recovery.
+
+The psychiatric diagnosis of posttraumatic stress disorder (PTSD) has become increasingly popular since it was first introduced in the American Psychiatric Associations’ Diagnostic and Statistical Manual (DSM) in 1980. In the four decades since, it has become the established way of conceptualising how human beings respond to hurtful life events, and its usefulness is rarely questioned.
+
+It is not only used in psychiatry, psychology and psychotherapy but it now has a central role in various legal domains including the determination of claims for asylum and personal injury disputes.  PTSD is often referenced in lay discussions and media debates about traumatic events of various kinds.
+
+But the concept of PTSD does not do justice to the reality of human suffering and can serve to obscure, rather than illuminate the nature of healing and recovery.
+
+**PTSD Decontextualises Experience**
+
+Firstly, in the concept of PTSD there is an implicit assumption that the various experiences we have as human beings are best understood as a series of discrete events.  The US psychiatrist and philosopher, John Sadler, argues that the whole of the American Psychiatric Associations’ Diagnostic and Statistical Manual exhibits, what he calls, hyponarrativity.
+
+In his book *Values and Psychiatric Diagnosis*, he writes that ‘[m]ental disorders are described in the DSMs as collections of relatively small molar behaviors and/or experiences’. In other words, the DSM tends to decontextualise experiences and behaviours. In the DSM account of PTSD, criterion A details a series of events that are understood to be traumatic enough in themselves to cause the various symptoms that are listed under the other criteria. This approach serves to individuate and decontextualise the experiences that are held to be traumatic. However, this is not really the way that we experience the world.
+
+\_\_\_
+
+"**This tendency to view suffering as a series of discrete traumatic experiences also serves to de-politicise, and individualise, the field of psychology and undermines efforts to analyse and understand suffering, recovery and resilience in more sociological terms.** "
+
+\_\_\_
+
+Events have meaning for us; they are always connected to previous experiences and cannot be understood in isolation. Someone who has recently lost a close relative in a car crash may well react differently if they are involved in a relatively minor road traffic accident, compared with a fellow passenger who has not had such a loss. Childbirth is often very painful and accompanied by significant blood loss and tissue damage. However, the birth of a baby is usually a happy event filled with hope and expectation. In this context, the pain of childbirth is meaningful and purposeful. This stands in complete contrast to the survivor of an unprovoked assault or of torture. In these circumstances, there is no positive meaning to their suffering and the negative impact of the pain and distress is likely to be much more profound and long-lasting.
+
+This tendency to view suffering as a series of discrete traumatic experiences also serves to de-politicise, and individualise, the field of psychology and undermines efforts to analyse and understand suffering, recovery and resilience in more sociological terms. The role of social contexts and political realities where people are constantly impacted by gender discrimination, racism, homophobia, poverty and other forms of oppression is effectively marginalised and minimised.
+
+**Why The Mind Is Not Just A Computer**
+
+The second assumption involved in the discourse of PTSD is that the human mind is essentially an entity that works by processing cognitive and emotional experiences in various ways.  The meaning of these experiences is considered to be something that is generated internally; traumatic events overwhelm the system and thus remain unprocessed, challenging, destabilising and undermining the meanings that existed prior to the trauma.  In this concept of mind, traumatic events cannot be processed easily and thus they are not stored as simple memories but continue to challenge the victim as though they were still current and live. These unprocessed experiences give rise to the various intrusive symptoms that are incorporated in the diagnosis. They also give rise to symptoms of stress and avoidance.
+
+This understanding of the mind and its workings is consonant with a culture that is familiar with computers. The idea that we process experiences in the same way that computer software processes inputted material, seems obvious. Indeed, this cognitive/computational model of thought has become our common-sense model of the workings of the mind, and guides research developments in psychology, psychiatry and cognitive science. In this understanding, the mind itself is something internal, in which representations of an external world are processed, analysed and stored. It is an entity that is open to scientific analysis and that, ultimately, can be reductively explained by reference to the biology of the brain. 
+
+\_\_\_
+
+"**In reality, there is no easy separation of the psychological past, present and future.**"
+
+\_\_\_
+
+But when we think about it, meaning is not something internally generated but instead is something that is given to us through the language and culture into which we are born and in which and through which we emerge as full human beings. In reality, the mind is not a ‘thing’ at all but instead is better understood as that place where our physical makeup as biological entities meets the social world which is laden with meaning and significance**.** Even something as personal as our sense of self is very much shaped by the culture in which we live and learn about relationships, and through which we develop a set of priorities and values. 
+
+**Thinking About the 'Post' in Post-Traumatic**
+
+A third assumption to be found in the discourse of PTSD is that it is premised upon a linear view of time in which past and present events and experiences are easily distinguished. The word ‘posttraumatic’ in the diagnosis contains a clear statement that the symptoms flow directly from the trauma. There is a psychological move from past event to present mental state. There is no room in the current discourse for a move in the opposite direction.  In fact, the very standing of PTSD within the DSM and within the current clinical literature of psychiatry and psychology depends on this. Without this unidirectional temporal flow from traumatic event to symptom, the various symptoms that make up the syndrome of PTSD would be indistinguishable from the symptoms that make up other syndromes in the DSM.
+
+In the cognitivist model of mind memory is essentially about storage and retrieval. The model of time that underlines this framework involves a linear series of ‘nows’. We are understood to reach out of our current ‘now’ into the past to recapture something from our earlier life.  But this linear model of psychological time is deeply problematic. In reality, there is no easy separation of the psychological past, present and future. Any moment of ‘now’ contains all three; we are already living in the future, anticipating and projecting forward, but we are also ‘in the past’ to the extent that our current orientation to the world around us is something that has already been structured and shaped. 
+
+\_\_\_
+
+"**How we remember past events, and, most importantly, how we feel about them is not fixed but fluid.**"
+
+\_\_\_
+
+In reality, psychological time does not simply flow in one direction, and memory is not simply about storage. We are constantly reorganising the past material of our lives in relation to what is happening in the present moment. How we remember past events, and, most importantly, how we feel about them is not fixed but fluid. In turn, both past and present moments can be shaped by what we hope for in the future. Thus the role that any traumatic experience plays in a person’s life is not something fixed.
+
+The current model of PTSD locates the problem inside the mind of the individual who is seen to have been impacted by a traumatic event or series of traumatic events. The person is understood to have a problem processing the traumatic material and healing is thought to occur by way of professionals working on the individual to promote such processing. 
+
+We need a context-centred, hermeneutic approach to understanding and responding to traumatic events and their sequelae.
+
+I have seen many people recover from terrible events, including many different form of violence. What has impressed me is the importance of practical assistance, the generation of a sense of solidarity and hope and helping the individual make sense of what has happened in a way that is consonant with their culture and belief system.
+
+This is not to say that professional interventions, such as counselling or therapy, cannot be of help, but they should not be seen as providing the only pathway along which recovery can happen.
+
+We also need to be fully aware of the assumptions involved in our current discourse. While the concept of PTSD is limiting and problematic in the Western world where it was developed, the potential for harm is probably greatest when it is used in non-Western settings.

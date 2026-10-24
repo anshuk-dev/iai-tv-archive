@@ -1,0 +1,77 @@
+---
+title: "Consciousness is not fundamental"
+subtitle: "Consciousness is the foundation of knowledge, not reality"
+author: "James Cooke"
+date: "17th October 2025"
+article_id: "3394"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,329 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-is-not-fundamental.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/consciousness-is-not-fundamental-auid-3394"
+---
+
+# Consciousness is not fundamental
+
+*Consciousness is the foundation of knowledge, not reality*
+
+**By James Cooke** | *17th October 2025* | *Read time: approx. 7 mins* | *1,329 words*
+
+![Consciousness is not fundamental](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-is-not-fundamental.webp)
+
+---
+
+*In order to know anything, we must be conscious of it. This simply idea, combined with a recent modern move away from metaphysical physicalism, has led many to claim that consciousness itself is fundamental; fundamental not only to our experience of reality, but fundamental to reality itself. But, argues neuroscientist James Cooke, this is to mistake the foundations of knowledge with the foundations of the world.*
+
+For centuries, philosophers have wrestled with a simple but unsettling question: if all we ever know of the world comes through consciousness, how can we be sure there is anything beyond it? If reality comes to us through the filter of our fallible minds, how can we know that we are actually experiencing something real in this moment? How do you know that this is not a dream that you are about to wake up from?
+
+In light of this possibility for doubting reality, how can we begin to assess what is real? One approach is to throw out everything that can be doubted until one settles on a bedrock undoubtable truth. This is [the skeptical approach that Descartes took](https://iai.tv/video/the-fantasies-of-descartes-antonio-damasio). He settled on experience as the one undeniable truth, proclaiming cogito, ergo sum—I think, therefore I am. Even if all else were illusion, the fact of consciousness itself could not be doubted, as doubt would be an experience arising in consciousness, and this would demonstrate its existence. For Descartes, this became the unshakable ground of all knowledge in his philosophical system.
+
+This is an important insight for understanding how it is that we can know reality, but it is sometimes confused as having implications regarding the nature of reality itself. This leads some to the conclusion that only mind exists, a metaphysical stance known as idealism. Consciousness, under this view, is not merely epistemically primary, it is ontologically fundamental. [Reality, idealists argue, is mind-like at its core.](https://iai.tv/video/the-return-of-idealism-james-tartaglia)
+
+The logic often goes like this: have you ever encountered anything outside of consciousness? Everything you have ever experienced arises within experience, by definition. If you cannot step outside consciousness, how can you justify claiming that anything exists beyond it?
+
+\_\_\_
+
+The key point here is that epistemology and ontology are different things.
+
+\_\_\_
+
+The flaw in this reasoning is the assumption that knowledge must be direct, but there is no reason to believe this to be the case. If knowledge of reality is assumed to be direct, then only experience can be real. If knowledge of reality is indirect, then it is possible that there is more to reality than experience.
+
+The key point here is that epistemology and ontology are different things. The insight that our experience of reality arises in the mind tells us nothing about the nature of reality itself; it is a claim about epistemology, not ontology. It tells us about the standpoint from which we know, not about the nature of what is known. Using this insight to bridge from epistemology to ontology is like saying that because every map is drawn on paper, the territory itself must be made of paper.
+
+[![related-video-image](https://iai.tv/assets/Uploads/102.A-Landscape-of-Consciousness-copy.webp)
+
+SUGGESTED VIEWING
+A landscape of consciousness
+With Robert Lawrence Kuhn](https://iai.tv/video/a-landscape-of-consciousness)
+
+So we have the claim that we can’t directly confirm anything outside of consciousness, because knowledge of reality comes to us through consciousness. What if we flip this claim? Given the experiential nature of consciousness, could it be possible that something exists outside of it? When in a dream, could it be possible that a person in a bed with a dreaming brain exists, even though it can’t be confirmed in the dream? Of course it is possible. And so it is possible that being can exist beyond knowing. If we accept the indirect nature of knowledge then there is no problem at all in being open to the possibility of something existing outside of consciousness.
+
+We know from our understanding of science, perception, and even life itself that knowledge is arrived at in an indirect rather than direct manner. Science does not simply look at the world directly and record its essence. It works by constructing hypotheses, models of how the world is, and testing them against evidence. Scientific theories are not windows onto reality but stories that are tested and refined through experimental feedback. These stories succeed when their predictions survive error-correction, tuning them to wider reality. This correspondence can give the impression that the map is the territory when a good fit is achieved, but this is not the case. Science does not give us direct contact with reality but constructs a model of reality that is always open to further refinement.
+
+\_\_\_
+
+Perception consists of top-down expectations and bottom-up inputs meeting to produce a guess that is both educated and informed.
+
+\_\_\_
+
+This indirectness is not confined to science—it applies to perception as well. According to the predictive processing framework, the brain does not passively register the world but instead actively predicts it. Based on past experience, the brain builds models of the world and generates expectations about what sensory inputs should arrive based on these models, much like a scientist using their hypotheses to make predictions. Where sense data shows the predictions were wrong, errors are registered to further tune the model. Perception consists of top-down expectations and bottom-up inputs meeting to produce a guess that is both educated and informed.
+
+The Free Energy Principle generalizes this principle across all life. Every organism persists by minimizing the gap between its internal model and its sensory environment. This gap, formalized as “variational free energy,” must be minimized or the organism dissolves into disorder. From a bacterium swimming toward sugar, to a human navigating a conversation, to a scientist testing a hypothesis, the same recursive process plays out: prediction, error correction, and updating of one’s model in order to come to know the world in an indirect manner.
+
+\_\_\_
+
+Even though we cannot detect the dreaming brain from within the dream, our model that a dreaming brain nonetheless exists feels very satisfactory for most of us. The same is true for a world that extends beyond the appearances of our individual minds.
+
+\_\_\_
+
+In [The Dawn of Mind](https://www.amazon.com/Dawn-Mind-Matter-Became-Conscious/dp/1633889920), I argue that this epistemic behaviour of life is what consciousness is. Experience is a relational process between organism and environment, one in which the contents of experience reflect constructed models that resonate with reality. From the organism’s perspective, all that it knows directly is its own consciousness. It never knows the molecules of its body directly, but that does not negate their existence. There is no need to conclude that reality is made of mind simply because knowing occurs in the mind.
+
+[Immanuel Kant](https://iai.tv/articles/the-return-of-metaphysics-hegel-vs-kant-auid-2032) distinguished what he called “the phenomenal world” of experience from “the noumenal world” outside of experience. We come to know reality, the noumenal world, by inferring its structure by tuning models of it in our phenomenal world. This is a kind of transcendental inference, an intuiting of what might be the case in reality beyond direct experience. With this idea of knowledge, everything falls into place. Even though we cannot detect the dreaming brain from within the dream, our model that a dreaming brain nonetheless exists feels very satisfactory for most of us. The same is true for a world that extends beyond the appearances of our individual minds.
+
+It makes sense that we would be trapped in the phenomenal world when it comes to what we can know directly, yet there is no reason for this to be an issue when inferring the nature of wider reality. In the extreme, this particular argument for the world being mental collapses into solipsism, as you have never known anyone else’s mind directly, or even the reality of another being outside the appearances in your own mind. It is trivially true that everything we have ever known must be known in experience, but that need not be surprising or informative when it comes to the nature of reality itself. Yes, all knowledge arises in consciousness, but to conclude that reality itself must be consciousness is to mistake the map for the territory. Experience is the means of knowing, not the substance of what is known.

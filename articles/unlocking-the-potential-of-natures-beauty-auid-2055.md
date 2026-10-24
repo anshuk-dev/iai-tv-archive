@@ -1,0 +1,71 @@
+---
+title: "Unlocking the potential of nature's beauty"
+subtitle: "How to find beauty in our everyday surroundings"
+author: "Arnold Berleant"
+date: "18th February 2022"
+article_id: "2055"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "1,693 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/everyday-beauty.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/unlocking-the-potential-of-natures-beauty-auid-2055"
+---
+
+# Unlocking the potential of nature's beauty
+
+*How to find beauty in our everyday surroundings*
+
+**By Arnold Berleant** | *18th February 2022* | *Read time: approx. 8 mins* | *1,693 words*
+
+![Unlocking the potential of nature's beauty](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/everyday-beauty.webp)
+
+---
+
+*We often associate the beauty of nature with a majestic sunset, or an awe-inspiring mountain. However, by focusing on the more dramatic aspects of nature, we are only scratching the surface on the sheer extent of beauty which lies within the natural world. By immersing ourselves more intimately with our surroundings, we can find beauty in places we would usually overlook, writes Arnold Berleant.*
+
+In our high-tech world, there is little we do that is not mediated by some machine or device.  Our days are dominated by cell phones and computers, even when we’re eating or on the move. Like Charlie Chaplin in *Modern Times*, who was taken over by the machine he was operating, we have, in our times, become apps of our smartphones.
+
+But despite the domination of technology, nature still intrudes**.** Natural beauty seems to have an immediate and unlearned attraction. From little children picking the first spring flowers in thoughtless fascination, to a driver pulling off the road to gaze out over a spreading landscape, and a city dweller searching up through surrounding buildings to look in silent wonder at the moon; there is gratification in these acts, the satisfaction of a primal need. To call these an appreciation of beauty recognizes the resemblance that such unlearned behaviour has to the more deliberate acts of self-fulfilling appreciation in nature and art.
+
+The desire to experience nature deeply still lurks in the recesses of modern consciousness. And this takes different forms, from the encapsulated experiences of Sunday drives, to going on a luxury cruise or vacationing at a seaside resort, and to traveling long distances to view spectacular sights and natural wonders. The need to connect with nature is inherent in the attraction of national parks and the resolve to undertake strenuous hikes and rock-climbing expeditions. Such a need also can take a more modest form; tending house plants or a flower garden, for example. These are all means of engaging in some way and to some degree with the natural world that is the human habitat. All such occasions offer striking recognition of the aesthetic value we find in the natural world.  But what is this value?
+
+\_\_\_
+
+Natural beauty seems to have an immediate and unlearned attraction.
+
+\_\_\_
+
+When one thinks of dramatic occasions of nature appreciation, such as observing the light show of a panoramic sunset or the slowly rising full moon in a sombre sky, the attraction is immediate, unlearned, and powerful. It’s common to think of appreciating “nature” in extravagant terms --  spectacular scenery, powerful weather events, natural “wonders”-- and to overlook the dandelion at our doorstep. While spreading landscapes and spectacular views of towering mountains are awe-inspiring, many natural beauties lie close at hand and even underfoot.We don’t have to emulate John Muir traveling across North America to gaze in rapt wonder at the high Sierras in order to connect with nature.  There are modest yet fascinating appreciative experiences of nature that have the same quality of aesthetic engagement. They parallel in essential ways the dramatic acts of appreciation that we can obtain from the arts.
+
+At the same time, we engage on innumerable occasions in experiencing nature in perceptual experiences with less drama, occasions that transfix or delight us with the rewards of more modest, even mundane appreciation. I want to suggest that such spontaneous acts are often primarily aesthetic in character, that they infiltrate and sometimes transfix our fugitive attention. First, however, let me comment on how and why these occasions of engagement, large and small, are aesthetic.
+
+## Definining the ‘Aesthetic’
+
+The main feature of the aesthetic is its perceptual character. The word ‘aesthetic’ derives from the Greek *aisthēsis (*αίσθησις) which means perception by the senses, and sensory experience is central to aesthetic experience. Sensory perception is, of course, centered in the body and, particularly in appreciating nature, physical participation is characteristically part of the experience. In fact, writers who speak of empathy with nature often associate it with a physical experience of environment. There is physical empathy in experiencing nature: the magnetic pull of a curving path or road, the compelling rush of water over a falls, the famous example of empathy in feeling one’s chest expand and stature rise when regarding a mountain. Sometimes, the empathetic impulse can accompany an environmental design, as in the sense of wonder and fulfillment in following the winding path of a Japanese stroll garden.
+
+\_\_\_
+
+It’s common to think of appreciating “nature” in extravagant terms -- spectacular scenery, powerful weather events, natural “wonders”-- and to overlook the dandelion at our doorstep.
+
+\_\_\_
+
+Concentrated and focused in our appreciative experience, aesthetic engagement is the sensory, somatic experience of value that we have with objects and occasions of art. In fact, our full perceptual engagement in experiencing nature can serve as a model for the aesthetic appreciation of the arts. Confronting the huge canvases of abstract expressionist painters such as Mark Rothko, Barnett Newman, or Helen Frankenthaler is a whole-body experience, not just a visual one. To be sure, in our encounters with nature, as with the arts, our personal background of knowledge and past experience informs and colors the perceptual gratification. And as each occasion has its unique and intrinsic value, so are there as many opportunities of aesthetic gratification. But let me return to the opportunities of experiencing nature aesthetically and in modest, though deeply gratifying ways. We do not require high drama for the aesthetic appreciation of nature. A suggestion can be found in a recent development in environmental aesthetics known as everyday aesthetics. This inquiry directs attention to the activities and objects in daily life that can be experienced aesthetically at close range, objects and activities that lie close at hand, such as hanging laundry, the design of a manhole cover or a teapot, and the gracious reciprocity of exchange between people in a good conversation. The objects and activities of daily life that ordinarily recede into invisibility are now brought into focus as worthy of perceptual attention. Reflex and habit become more self-aware and deliberate, and their perceptual qualities more apparent. The arts of design, in particular, are elevated to the stature of fine arts. We can find comparable examples in the objects and events in our natural world, for our experiences of daily life and nature are comparable. Perhaps we can speak of an everyday aesthetics of nature.
+
+\_\_\_
+
+There is an everyday aesthetics of the natural world, perhaps modest, but with its own quiet intensity that can surround us with remarkable ordinariness.
+
+\_\_\_
+
+## Finding Beauty in the Everyday
+
+Taking a cue from everyday aesthetics, it is revealing to consider everyday aesthetic experiences of nature that are usually obscured by the attention given to striking natural scenes such as the snow-capped mountain and the landscape sweeping into infinity. When ordinary things and activities enter into perceptual consciousness, and we direct the kind of perceptual attention usually reserved for museums to what lies outside the building and fills our daily lives, a range of the usual and the unusual comes into focus. It may be easy to make a catalogue of such examples, but let me mention some instances that may not be obvious at first, such as the pattern of agricultural fields seen from the window of an airplane. For as the geography and nationality of the landscape change during a lengthy international flight, so, too, do the shapes and patterns of fields, providing a new landscape experience. Equally, exploring a city or town on the ground offers a perceptual experience of a built environment that holds many cues and attractions, from the curve of a street to the choices of an intersection. An urban park or garden can provide a similar opportunity to experience domesticated nature, from the changing somatic perceptual order of a formal French garden, to the floral abundance of an English cottage garden, or the formality and statuary of an Italian garden. Some cities take pride in offering such varied garden experiences in their parks.
+
+But let us turn from these self-conscious attempts at domesticating natural beauty to the hidden aesthetic values that are everywhere close at hand. Perhaps we could call these “small beauties.”  Each season brings its own opportunities, but let me focus on the season that for many people is considered an occasion for escape—winter. There are those, especially younger people, who take great delight in winter sports, and use the opportunities provided by iced-over ponds and snow-covered slopes to skate and ski and level terrain to snowshoe and ski cross-country. While these and other winter sports are pleasures that the season makes possible, they are generally centred on the physical gratifications of the season but not as experiences of nature itself. There is, however, an everyday aesthetics of the natural world, perhaps modest, but with its own quiet intensity that can surround us with remarkable ordinariness. One mode of this is the realm of shadows.
+
+To the ordinary observer, shadows may seem to be the negative side of actual presence, the backdrop of real things. Yet shadows can be apprehended not as a negative occurrence but as a true perceptual presence that emerges when we give them close attention. Winter sunlight can be especially brilliant, for the atmosphere is often strikingly clear and the sun, low in the sky, an intense floodlight. And it is in winter that shadows come into their own. The limbs of trees, stripped of their leaves, are projected on the snow as on a screen, in black patterns that mirror the structure of the host tree, a pattern that moves across the snow as the sun moves across the sky.  Instead of being a negative presence, the shadows can become the focus of visual delight, an ornament to the landscape as a floral border decoration may be on an art nouveaux book cover. The key to these hidden values lies in acute perceptual engagement in an aesthetics of everyday nature. The world of which we are a part is rich in such small beauties.
+
+Nature is not a separate domain to be entered on special occasions.  It is everywhere and everything, the source, the substance, and the forms that constitute the human habitat.  Cultivating an aesthetic sensibility helps make its presence more humane and our world more complete.

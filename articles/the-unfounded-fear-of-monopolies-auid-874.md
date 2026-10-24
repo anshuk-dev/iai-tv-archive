@@ -1,0 +1,45 @@
+---
+title: "The Unfounded Fear of Monopolies"
+subtitle: "Innovation will save us from private monopolies"
+author: "None"
+date: "5th September 2017"
+article_id: "874"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "885 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Deirdre-image-3-edited.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-unfounded-fear-of-monopolies-auid-874"
+---
+
+# The Unfounded Fear of Monopolies
+
+*Innovation will save us from private monopolies*
+
+**By None** | *5th September 2017* | *Read time: approx. 4 mins* | *885 words*
+
+![The Unfounded Fear of Monopolies](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Deirdre-image-3-edited.webp)
+
+---
+
+The premise of the discussion here is wrong, which is, after all, a common problem with discussions of public policy. “Trade is zero sum.”  Wrong. “People do not respond to incentives.”  Wrong.  “Socialism had nothing to do with the collapse of the Venezuelan economy.” Wrong. Or in the present case, “When a company such as Facebook or Google has suddenly grown, it must be a dangerous monopoly and needs to be regulated by wise heads in Whitehall.” Wrong.
+
+Sure, in the short run we are all terrified that the big shoe company will sell us only its own shoes, or that Cadbury under Kraft will change the formula for Whole Nut, or that in other ways “the corporations” such as Google will upset our lives.
+
+There are two things wrong with such a premise. For one thing, it is not at all obvious, in the case of the computer giants no less than in the case of New Balance or Cadbury, that the government can do better.  Suppose the Monopolies Commission or the Anti-Trust Division of the Department of Justice intervenes.  What makes us think that the interventions will be efficacious? It is wrong, of course, to believe that government agencies always get things right.  Sometimes they do. But often enough not.  Let’s see: cladding on high rises?  With the best will, they too make mistakes.
+
+And governments - local and national - are especially sensitive, as they should be, to political influences, but influences that often have no connection with our welfare. Donald Trump keeps coming up with so-called policies that please his base voters, yet hurt the rest of us. Jeremy Corbyn recommends that we go the way of his friends in Cuba and Venezuela. Theresa May cleaves to Brexit to keep her feeble grip on one wing of the Tories.
+
+A company that does not do well by its customers gets punished pretty quickly, in the precisely targeted sense of losing sales of shoes or candy or Google clicks. After all, we buy their stuff, and can refrain from doing so, and send a letter instead of an email if we wish. The regulators and their politicians, by contrast, get punished only for the political menu as a whole, not for the rotten item served up for the desert, and then only according to the Fixed Term Parliament Act. The question always is, should we make economic decisions according to voluntary markets or according to compelled laws?
+
+Yes, there is a “role for government.” Got it. Sometimes compulsion is a good thing. Don’t drive on the M20 at 100 miles per hour.  But in the case of the computer side of the economy, developing at the speed of light, is the clumsy, if sometimes useful, visible fist of government such a good idea?
+
+And the other thing wrong with the premise of “monopoly” is that same speed. We need to think of monopolies not in terms of the present share of a company in some defined market but in terms of the potential for entry by competitors, in the defined market or in entirely different markets. The monopoly of first-class mail was competed into the dust by the entry of an entirely different industry: email. And the kids use texting promiscuously.  Can Twitter be far behind?  If Google or whatever can be competed against—think of Lyft competing with the rather simple computer-based business plan of Uber—it can’t abuse consumers freely.  And indeed why would it want to do so, raising up political and personal animus? Contrast the situation of computer industries such as Verizon with the governmental postal monopoly in Britain long ago, in which one waited years for a telephone.
+
+As is often said, tomorrow Bill Gates may well face some genius bursting out of a garage in San Jose who comes up with an operating system better than his. (Appeal to the genius: for Lord’s sake, hurry up!) I have an acquaintance who is a young entrepreneur applying the internet and the like to retailing.  He notes that it’s easy to regulate the old settled industries—think coal mining—because they are *not* facing lightening-speed entry. (Whoops: in historical succession, oil vs. coal; Welsh steam coal vs. soft coal; coal imported into Britain vs. British –mined coal; atomic energy vs. coal; natural gas vs. coal; solar panels and improved batteries vs. coal.) The computer-based industries are developing so fast that Whitehall and Washington can’t figure out what to do fast enough. And on to the present point, their puzzlement doesn’t matter for protection against the alleged “monopolies,” because quite soon another invention will make the old company obsolete. To our benefit.
+
+It has happened over and over again. The phrase that Schumpeter borrowed long ago from Sombart, “creative destruction,” is what has made us rich. We need to get over the static worry about “monopolies.”  The real, long-term monopolies are not achieved by private power, which is feeble in the face of entry in the long run, but by public power, which blocks entry forever. Thus the two-hundred-year reign worldwide of monopolies of taxis.
+
+Take your pick. Governmental monopoly protecting The Knowledge of the black cab drivers in an age in which the internet has made it irrelevant, or a dynamic economy in which you can travel in a computer-driven vehicle on speedy because electronically priced roads in air-conditioned comfort. Soon.

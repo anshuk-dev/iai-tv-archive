@@ -1,0 +1,87 @@
+---
+title: "The metaphysics behind Putin’s war on Liberalism"
+subtitle: "Radical Conservatives like Dugin want to change our view of reality"
+author: "Jussi Backman"
+date: "25th March 2025"
+article_id: "3120"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,810 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Putin-metaphysics2-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-metaphysics-behind-putins-war-on-liberalism-auid-3120"
+---
+
+# The metaphysics behind Putin’s war on Liberalism
+
+*Radical Conservatives like Dugin want to change our view of reality*
+
+**By Jussi Backman** | *25th March 2025* | *Read time: approx. 9 mins* | *1,810 words*
+
+![The metaphysics behind Putin’s war on Liberalism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Putin-metaphysics2-copy.webp)
+
+---
+
+*As Putin and Xi push for a “multipolar” world where liberal democracy is just one model among many, their challenge to Western Enlightenment ideals is gaining momentum – fueled by Trump’s second presidency and surging “radical conservativism” in Europe. Finnish philosopher Jussi Backman argues that an anti-liberal theory of reality is on the rise, providing a wide-ranging metaphysical underpinning for would-be geopolitical revolutionaries. Drawing on Heidegger, figures like Aleksandr Dugin – sometimes described as Putin’s philosopher – portray liberal metaphysics as inevitably leading to nihilism, posing a serious ideological challenge that liberals and the left need to take seriously.*
+
+In Weimar-era Germany, a loosely connected group of writers, theorists and activists challenged the rise of liberal democracy, individualism, materialism, egalitarianism, and socialism. Heirs to the German tradition of Counter-Enlightenment, with its skepticism regarding universal progress, these so-called “conservative revolutionaries” were inspired by Nietzschean ideas of the eternal recurrence of the same and an elitist “aristocracy of spirit.” The relationship of the conservative revolutionaries to rising Nazism was ambivalent. Some, including Thomas Mann, Oswald Spengler and Ernst Jünger, sharply opposed the racist mass movement; others, including Carl Schmitt and Martin Heidegger, conformed and became party members.
+
+The German conservative revolution was swept away by Nazism, the Second World War and the Cold War, but in recent decades its legacy has been reclaimed by figures in the European New Right, most prominent among them the French Alain de Benoist (b. 1943), a key source of inspiration for the Identitarian right-wing movement, and his mentee and collaborator, the Russian Aleksandr Dugin (b. 1962), the leading ideologist of Russian Neo-Eurasianism. De Benoist and Dugin are perhaps most accurately described as “[radical conservatives](https://doi.org/10.3389/fpos.2022.941799%20).” Since they both take some of their central philosophical ideas from Heidegger, they are also “right Heideggerians.”
+
+\_\_\_
+
+For Dugin, Heidegger’s philosophy of history provides a model that is at once conservative – involving a cyclic return to a beginning rather than linear progress – and revolutionary.
+
+\_\_\_
+
+In spite of his notorious Nazi involvement, Heidegger’s main intellectual influence in prewar Germany and postwar France and Italy was among liberal and left-leaning circles. For example, Gianni Vattimo, the left-wing Italian philosopher and politician, explicitly identified his position as “left Heideggerianism.” Nonetheless, Dugin portrays Heidegger as *the* philosopher of the conservative revolution, concerned, in his later thought, with an impending end of Western modernity and the possibility of a new beginning – a new, transformed framework for Western thought. For Dugin, Heidegger’s philosophy of history provides a model that is at once conservative – involving a cyclic return to a beginning rather than linear progress – and revolutionary: this return is not a reactionary “going back” to an ideal past and does not seek to “cancel” modernity, but rather looks forward to reactivating a lost beginning in an entirely new situation that follows the “completion” of modernity.
+
+**[![Liberalisms hypocrisy led to Trumps victory3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Liberalisms-hypocrisy-led-to-Trumps-victory3.webp)
+
+SUGGESTED READING
+Liberalism's hypocrisy led to Trump's victory
+By Sophie Scott-Brown](https://iai.tv/articles/liberalisms-hypocrisy-led-to-trumps-victory-auid-2994)**
+
+Heidegger developed a narrative of the history of Western philosophy as a “[history of being](http://iai.tv/articles/hegel-vs-heidegger-can-we-uncover-reality-auid-3001).” In this narrative, the “first beginning” of philosophy with the Greek Presocratic thinkers consisted in an experience of being – or reality – as intelligibility, as the pure and unified presence to thinking of something meaningful. Since Plato and Aristotle, however, this initial experience developed into a hierarchical metaphysics in which a supremely or perfectly present entity, the metaphysical God of Aristotle or the Creator of scholastic theology, becomes the metaphysical anchor and ground of all reality as its ultimate cause. In the modern age since Descartes, the focal point of epistemology and metaphysics is gradually secularized and relocated from divine transcendence into the self-immanence of the self-conscious human subject; metaphysics now becomes a metaphysics of subjectivity.
+
+\_\_\_
+
+In the modern age, technology seems to enable humans to dominate reality, so that reality becomes a mere reserve of resources, accessible for technological manipulation in the service of shifting power-interests.
+
+\_\_\_
+
+In Heidegger’s eyes, this modern metaphysics of subjectivity culminates in Nietzsche’s conception of life as will to power. In the modern age, technology seems to enable humans to dominate reality, so that reality becomes a mere reserve of resources, accessible for technological manipulation in the service of shifting power-interests. For Heidegger, the metaphysics of this technical age is fundamentally nihilistic, in the sense that as a huge reserve of resources, reality is without inherent meaning – values and purposes are temporary instruments of control bestowed upon things by the manipulative will to power.
+
+The way out of this nihilistic impasse is to rethink the philosophical tradition that led us to conceive reality in terms of its accessibility to subjective awareness and, ultimately, to subjective manipulation. What is first and foremost to be reconsidered is the initial point of departure, the Greek “first beginning,” of this tradition. Heidegger’s own philosophical project thus became to prepare a new post-metaphysical beginning for Western thinking, based on a transformation of this Greek first beginning of metaphysics.
+
+\_\_\_
+
+De Benoist attacks modern Western ideals such as individual human rights and the free market economy as manifestations of a liberal “ideology of the Same” that seeks to obliterate differences between cultural identities in favor of the Enlightenment model of the autonomous, rational and self-interested universal subject.
+
+\_\_\_
+
+The key feature of Heidegger’s “other” starting point is to challenge the traditional tendency to conceive reality exclusively in terms of presence, accessibility or availability to our minds. Post-metaphysical thinking would, by contrast, emphasize the embeddedness of meaningful presence in a wider context of meaning: things appear as meaningful against a background network of references to a reality that in itself is not immediately present or accessible. Very roughly put, Heidegger’s new beginning is a step from the late-modern metaphysics of the subjective domination of meaning to a philosophy of finitude focused on the historically and culturally situated and dynamic character of human access to meaning. In Heidegger’s thought diaries, the so-called *Black Notebooks*, we find him interpreting the contemporary world and its political phenomena – from Nazism and fascism to communism and liberalism – as mere superficial symptoms of the underlying nihilistic subjectivism of an expiring modernity. A defining feature of this world is for Heidegger its tendency to level down genuine historical and cultural differences between unique human communities, reducing humanity to homogeneous collectives and manipulable masses.
+
+A similar critique of modernity is at work in the philosophy of Alain de Benoist. De Benoist attacks modern Western ideals such as individual human rights and the free market economy as manifestations of a liberal “ideology of the Same” that seeks to obliterate differences between cultural identities in favor of the Enlightenment model of the autonomous, rational and self-interested universal subject. For de Benoist, this model is rooted in the modern “metaphysics of subjectivity” analyzed by Heidegger (who, de Benoist tells us, at some point replaced Nietzsche as his primary philosophical influence). The positive aspect of de Benoist’s political theory is “ethnopluralism,” a type of radical-conservative identity politics that calls for a federative political community comprising a multitude of heterogeneous (although, supposedly, internally cohesive) identity communities, based on ethnicity, language, religion, or other cultural traditions. In an ethnopluralist polity, such communities are allowed internal autonomy, rather than being melted into a uniform citizenry with minimal cultural embeddedness, as in the liberal nation state.
+
+**[![After Putin The struggle for power in Russia](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/After-Putin-The-struggle-for-power-in-Russia.webp)
+
+SUGGESTED READING
+After Putin: The struggle for power in Russia
+By Mark Galeotti](https://iai.tv/articles/after-putin-the-struggle-for-power-in-russia-auid-2963)**
+
+Aleksandr Dugin is more outspoken on the role of Heidegger as a central inspiration for his “fourth political theory,” intended as a radical-conservative alternative to liberalism, the victorious ideology of the twentieth century, as well as to communism and fascism. Dugin’s theory rejects the historical “grand narratives” and the utopianism of these modern ideologies and draws inspiration from “postmodern” critiques of the Enlightenment’s ideals of progress and the autonomous subject. Dugin’s emphasis is on geopolitics: he builds upon the Russian Eurasianist tradition, which emphasizes Russia’s cultural and geopolitical situation between the European and Asian spheres, opposing it to the liberal “Atlanticist” sphere of Western Europe and North America. For Dugin, the post-Cold War “unipolar” global hegemony of political and economic liberalism, encapsulated in Francis Fukuyama’s thesis of the “[end of history](http://www.jstor.org/stable/24027184),” must be challenged by a “multipolar” order of different cultural and ideological “great spaces,” as described in Samuel Huntington’s account of the coming “clash of civilizations.” Modernity and its universalistic and teleological conception of world history is coming to an end; in the forthcoming “other beginning” intimated by Heidegger, it will be replaced by a relativistic and particularistic ethnopluralism that will erode the claims to universal validity of Western liberal values. Accordingly, the modern autonomous individual subject is to be replaced by Heidegger’s historically and culturally situated human being, who accepts the [inevitable relativity](https://doi.org/10.4324/9781351052306-24) of their perspective on reality and no longer pretends to represent universal reason.
+
+\_\_\_
+
+In contrast to the populist right’s traditional aversion to metaphysical ideas, an intellectually and theoretically more ambitious new right is currently on the rise.
+
+\_\_\_
+
+De Benoist and Dugin remain relatively marginal figures in contemporary politics and geopolitics – in spite of his notorious prominence as a pro-Kremlin propagandist, [Dugin’s role as “Putin’s Rasputin”](http://www.theguardian.com/world/2022/aug/21/alexander-dugin-who-putin-ally-apparent-car-bombing-target) has been [exaggerated in Western media](http://iai.tv/articles/the-philosophers-behind-putin-auid-2097). However, their key ideas closely echo the central concerns and aspirations of contemporary antiliberal global forces – ethnopluralism in the case of the Western Identitarian new right and alt-right, and multipolar geopolitics in the case of authoritarian leaders such as Putin. While their radical-conservative and culturally pluralistic and particularistic visions of the world are not radically new – but in many ways a continuation of the German Counter-Enlightenment and the conservative revolution – they have provided a novel philosophical rationale and a new philosophy of history for new-right conservative ideologies. To those disenchanted with or threatened by liberal and progressive values, thinkers like De Benoist and Dugin offer sophisticated ways of relativizing these values historically and culturally and thus restricting their legitimacy. To those experiencing the contemporary world as nihilistic, they hold out the promise that fostering cultural differences will reintroduce communality and meaning.
+
+In contrast to the populist right’s traditional aversion to metaphysical ideas, an intellectually and theoretically more ambitious new right is currently on the rise. Moreover, the geopolitical ideas of right-Heideggerianism imply that the emerging “multipolar” order of the great powers – Trump’s United States, Putin’s Russia and Xi’s China – has an underlying philosophical dimension related to a wider dispute over the legacy of the Enlightenment. While historical and cultural relativism, often considered a hallmark of “postmodern” thought, was for decades typically associated with progressive and left-leaning critical theories such as post-colonial theory and third-wave feminism, its weaponization by De Benoist and Dugin and similar thinkers has restored some of its older associations with conservative critiques from the right. In seeking appropriate theoretical responses to radical conservatism, liberal and left-wing theorists have the options of developing competing “left-Heideggerian” philosophies of history or of looking back at more traditional modernist teleological narratives of history in the style of Hegel, Marx and Fukuyama.
+
+Jussi Backman's books include [*Biopolitics and Ancient Thought*](https://academic.oup.com/book/41382) (coedited with Antonio Cimino, 2022) and [*Complicated Presence: Heidegger and the Postmetaphysical Unity of Being*](https://sunypress.edu/Books/C/Complicated-Presence) (2015).

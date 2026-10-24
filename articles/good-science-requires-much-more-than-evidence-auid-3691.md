@@ -1,0 +1,137 @@
+---
+title: "Science involves much more than experimental evidence"
+subtitle: "How inference to the best explanation drives science"
+author: "David Kyle Johnson"
+date: "1st October 2026"
+article_id: "3691"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "3,431 words"
+read_time: "Read time: approx. 17 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/good-science-requires-much-more-than-evidence2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/good-science-requires-much-more-than-evidence-auid-3691"
+---
+
+# Science involves much more than experimental evidence
+
+*How inference to the best explanation drives science*
+
+**By David Kyle Johnson** | *1st October 2026* | *Read time: approx. 17 mins* | *3,431 words*
+
+![Science involves much more than experimental evidence](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/good-science-requires-much-more-than-evidence2.webp)
+
+---
+
+*Constructive empiricists believe that, even if a scientific theory makes numerous correct experimental predictions, we are not justified in believing that it tells us anything about reality--all scientific reasoning can reveal is that a theory makes correct predictions. Professor of Philosophy at King's College **David Kyle Johnson** argues that this is mistaken. In response to Bas van Fraassen, who has written on this subject for the IAI, Johnson argues that, because scientific reasoning involves more than just experiment—historically, appealing also to qualities like parsimony and scope—it can reveal reality through inference to the best explanation.*
+
+In 2024, Princeton philosopher Bas van Fraassen wrote a short article for IAI News entitled “[Science Does not Describe Reality: The Limits and Benefits of Explanation](https://iai.tv/articles/science-does-not-describe-reality-auid-2724?ts=1787401739).” At the time, I was working on two projects (a [science book](https://titles.cognella.com/how-why-when-to-think-scientifically-9798823388313) and a [Great Course](https://shop.thegreatcourses.com/exploring-metaphysics-2nd-edition)) that, when completed, would (among other things) defend science’s ability to describe reality. I wanted to write a response to van Fraassen, but the projects demanded too much of my attention. But now that those projects are complete, I am in a position to explain the objections to van Fraassen’s thesis.
+
+**Summarizing van Fraassen’s argument**
+
+In a nutshell, his argument is this: What scientists do is make predictions based on theories and then invite others to test to see whether those predictions are borne out. “If theory T is right, result R should happen in experimental condition C.” Many think that running an experiment that shows that R happens in condition C is proof that theory T is true (and should be believed). But, van Fraassen argues, that R happened in condition C is only a reason to think that R happens in condition C. That’s the only observable, or *empirical*, result we can actually see, so that is all that we are really justified in believing. (The underlying theory that made that prediction still may or may not be true.) That is why he calls those who accept his position “empiricists.”
+
+Before I explain what is wrong with this position, let me explain what it gets right.
+
+**What van Fraassen Gets Right**
+
+First, a theory correctly predicting the results of an experiment is not, strictly speaking, “proof” that the theory is correct. The basic line of reasoning is this:
+
+*If the theory T is true, result R should happen. Result R did happen. Thus, theory T is true.*
+
+In other words:
+
+*“If T then R. R. Thus, T.”*
+
+This is a deductively invalid, fallacious mode of reasoning, called “affirming the consequent.” Those premises do not guarantee that the conclusion follows. “If I am in Pennsylvania, then I am in the USA. I am in the USA. Thus, I am in Pennsylvania.” Clearly that argument doesn’t guarantee its conclusion; neither does the above argument.
+
+However, [science is not a deductive method of reasoning](https://titles.cognella.com/how-why-when-to-think-scientifically-9798823388313); it is an inductive one. And inductive arguments merely try to raise the probability of their conclusion, not “prove” them for certain. Thus, the fact that an experimental result doesn’t *prove* a theory is true is irrelevant; it’s not supposed to. That is not what scientific reasoning is about.
+
+\_\_\_
+
+If the hypothesis that something exists clearly provides the best explanation for what we can observe, then the belief that it exists is what is rational.
+
+\_\_\_
+
+Second, it’s also true that a single experimental result doesn’t provide enough justification to believe that a theory is true. [Scientists do not come to a consensus about whether a theory is true by looking at a single experiment](https://titles.cognella.com/how-why-when-to-think-scientifically-9798823388313); they look at all the evidence to determine where the preponderance of evidence points. The mere fact that I am in the USA raises the probability that I am in Pennsylvania, but not nearly enough to conclude that I am in Pennsylvania. However, if I am also regularly encountering people wearing Eagles and Phillies hats and seeing advertisements for Founding Father tours, I probably am. In the same way, a theory successfully predicting the outcome of one experiment is not enough to conclude that it is true; but if a theory makes a wide variety of predictions that are all vindicated by multiple experiments, performed by many different groups and people, all actively trying to prove the theory false (which is what good scientific experiments are designed to do)—that *is* a good reason to conclude that the theory is true. In other words, [if you repeatedly try to prove something false but can’t, that is a very good indication that it isn’t](https://titles.cognella.com/how-why-when-to-think-scientifically-9798823388313).
+
+**The problem of underdetermination**
+
+In reply, those whom van Fraassen calls “empiricists” often point to the “problem of underdetermination.” For any given theory that makes successful predictions about what happens in experimental conditions, there are countless other possible theories that make exactly the same predictions—and since they do, the experimental evidence in question is just as much reason to accept any of those theories as it is to accept our original one. Thus, the argument goes, we have no way of knowing whether our original theory is true, or one of the other “predictively equivalent” theories is true.
+
+[![related-video-image](https://iai.tv/assets/Uploads/L22-82-How-Occams-Razor-changed-the-world.iai-thumbnail.webp)
+
+SUGGESTED VIEWING
+How Occam's Razor changed the world
+With Johnjoe McFadden](https://iai.tv/video/how-occams-razor-changed-the-world-johnjoe-mcfadden)
+
+As an example of underdetermination, philosophers often offer this example. The evidence of fossils seems to provide reason to conclude that the universe is quite old; ancient fossils are what the “ancient universe” hypothesis predicts. But it’s also possible that God created an ancient-looking universe 200 years ago, complete with a “fake” fossil record for us to find, to make it look old. The existence of fossils is what that theory predicts too. So, the argument goes, the fossil record can’t be used as evidence that the universe is ancient; the fossil record supports the “200-year-old ancient-*looking* universe” theory just as much. The problem of underdetermination points out that, for any theory with supporting evidence, we could invent another completely different theory that predicts exactly the same evidence, and thus undermine that evidence’s ability to support the original theory.
+
+But this “argument from underdetermination” betrays a fundamental misunderstanding of what scientific reasoning is and how it works. To explain, let me use another rather strange (but very real and commonly discussed) philosophical thought experiment called “The Grue Problem.”
+
+**The “Grue” Problem**
+
+Suppose I want to know what color emeralds are, so I observe a few, see that they all appear green, and form the theory that “all emeralds are green.” I thus predict that the next 100 emeralds I find will also appear to be green. And let’s say that happens, and so I thus conclude that my theory that all emeralds are green is true. Now, one might rightly point out that I don’t know *for sure* that all emeralds are green—I have not seen them all. Maybe some I haven’t found yet are blue. Fair enough. After all, we used to think that all swans were white, until we found some black ones. But let’s say that I go on a quest and collect every emerald in the universe—and, for the sake of the argument, let’s say I can do this, and can even know that I have every one of them. So, I collect them all, look at them all, and verify that they all appear green. Can’t I now rightly conclude that all emeralds are green?
+
+Inspired by the problem of underdetermination, a friend might argue that I cannot.
+
+*Sure, they all appear green now—but there could be another kind of color called “grue.” Something is grue if it is green up to a certain point in time, but then spontaneously turns blue. And there could be an infinite number of “shades” of grue. Something that is one shade of grue will turn blue at noon today, but something that is another shade of grue will turn blue at noon tomorrow, etc. So yes, the emeralds appear green now; and since they haven’t turned blue yet, they are not some “past” shade of grue. But they might be some “future” shade of grue (e.g., they may turn blue at noon tomorrow). And since all future shades of grue are consistent with “being green up to this point in time,” the evidence you have is completely consistent with the notion that all emeralds are some future shade of grue, rather than green. Indeed, that they would appear green until now is what the “some future shade of grue” hypothesis predicts. So, we have just as much reason to conclude that all emeralds are some shade of grue as we do to conclude that they are green.*
+
+You’re probably thinking “It’s not equally possible that the emeralds are grue; they are obviously green.” You are right! But explaining why your instinctive reaction to my friend’s argument is correct will help inform why van Fraassen’s “empiricist” is wrong and science actually does describe reality.
+
+The main mistake my friend makes is in thinking that the “empirical evidence” (of all the emeralds appearing green) is (or even should be) all I am using to draw the conclusion that all emeralds are green. It is not. I am also considering known facts about how colors typically work; things don’t usually change color, and when they do, they don’t do so suddenly, without cause, and all at once. So, even though the simple evidence of the emeralds all appearing green up to this point is *consistent* with them being some future shade of grue—that is even what the grue hypothesis “predicts”—it is still exceedingly unlikely that they are. The hypothesis that they are green is much more likely.
+
+**Understanding science refutes the problem of underdetermination**
+
+The misunderstanding about science that the “empiricist” pointing to “the problem of underdetermination” makes is similar to the one that my friend made. Science is not just about considering experimental *evidence*; in fact, it’s not even just about considering *empirical evidence*. As Ernan McMullin and many other philosophers of science have pointed out, [the inference that makes science](https://search.library.berkeley.edu/discovery/fulldisplay/alma991017622049706532/01UCS_BER:UCB) is “inference to the best explanation” (sometimes called “abduction” or “retroduction” by McMullin). While, depending on the circumstances, scientists use many different kinds of reasoning, science as a whole is, simply put, the process of considering multiple competing explanations and comparing them to certain criteria—explanatory criteria (the kinds of things explanations must be and do, by definition, to be a good explanation)—to see which explanation is the best.
+
+And these criteria do not deal only with empirical results. Yes, successful predictions raise the probability of a hypothesis, but it’s also the case that the more new assumptions a theory makes, the less likely it is to be true; every new assumption presents an opportunity for the theory to be false. (The fewer assumptions a theory makes, the simpler or “more parsimonious” it is said to be.) Likewise, the more existing evidence a theory contradicts, the less likely it is, because in order for a theory to be true, every piece of evidence it contradicts has to be somehow faulty. (The fewer established theories a new theory contradicts, the more “conservative” it is said to be.) And, obviously, the more something explains, the better explanation it is. (This is called having “scope.”) If a theory raises unanswerable questions, it’s not expanding our understanding, and thus is not wide-scoping. Scientists consider all these things when deciding which theory to accept, because the theory that adheres best to these explanatory criteria is most likely to be true.
+
+\_\_\_
+
+the mere fact that a theory’s predictive success is why it “sticks around” or “becomes accepted” in the scientific community is not a reason to be skeptical about its truth.
+
+\_\_\_
+
+The reason the grue hypothesis is no good is because it invents an entirely new *kind* of color—not just a new shade, but an entirely different category of color (a different way colors work)—and thus is not parsimonious. It raises unanswerable questions about how and why emeralds would just spontaneously change from green to blue (and thus does not have wide scope). And it contradicts what is already well established about how color works (and thus is unconservative).
+
+The theories that the problem of underdetermination points to do the same thing. Yes, the theory that God created an “ancient-looking universe” (complete with an ancient-looking fossil record) two hundred years ago is also consistent with the empirical evidence (of a fossil record) that presently exists; but that theory is monumentally unparsimonious (it requires many extra assumptions about infinite entities) and not wide-scoping (it raises unanswerable questions about why God would do such a thing). So, I can rationally conclude that it is false.
+
+Indeed, the history of science includes many examples of theories that were rejected because they lacked parsimony and/or scope, even before their falsity (and the truth of their competing theory) was confirmed by observation. As I point out [in my book](https://titles.cognella.com/how-why-when-to-think-scientifically-9798823388313), geocentrism was rejected by the scientific community because it lacked parsimony, almost 200 years before the observation of parallax confirmed that the Earth moves around the sun. And the continuum theory of matter was completely rejected by 1860, because it couldn’t explain chemical reactions or organize matter into a periodic table, even though the experiments that eventually confirmed atomic theory weren’t even proposed until the 1870s.
+
+**Solving the best of a bad lot problem**
+
+In response, the “empiricists” are likely to object, this time pointing to the “best of a bad lot” problem. “We have no reason to conclude that an explanation that has been shown to be better than others is true because we have no guarantee that the true theory was among those that we were considering.” If you have a “lot” (a collection) of poor explanations, even the best one is not true.
+
+The responses to this problem, however, are numerous. Peter Lipton argues that the set of hypotheses that scientists consider are not just randomly selected and thus unlikely to contain a theory that is true; they use existing knowledge to home in on what is most likely to be true. A doctor trying to explain abdominal pain is not going to bother wondering whether demons are causing it; they are going to stick with things like appendicitis and kidney stones, because they are most likely. Further, despite its name, inference to the best explanation is not just the process of comparing hypotheses and accepting the best one; we also want one that is a good explanation in its own right. If it’s not, we are going to keep looking until we find an explanation that is. And while that process does not guarantee that we will come across the exact truth, it’s very likely that the theory that emerges as the best will be at least approximately true, and thus we will be justified in believing it. And lastly, as I point out in my book, although many theories *not* based in scientific evidence (like geocentrism and continuum theory) have been completely overturned, science almost always progresses by the refinement of scientifically established theories—not their replacement. (Although our sun is not the center of the *universe,* heliocentrism was our first step in understanding the Earth’s true place in the universe.) So even if a theory we accept today may not be completely right, accepting it is a step on the journey toward the complete truth.
+
+**The example of atomic theory**
+
+Now, it’s worth pointing out that most empiricists are not skeptical of all scientific theories; they are only skeptical of the ones that hypothesize the existence of “unobservables.”  It’s not like they think that round Earth, heliocentrism, and germ theory are just useful (but untrue) “instruments” for making predictions about how to most efficiently navigate the seas, predict planetary motion, and treat diseases. They admit that the Earth actually is round, that the planets revolve around the sun, and that germs exist and cause disease. These facts and entities can be observed; the theories that suggest they exist are true. It’s only when theories start hypothesizing the existence of unobservables—like electrons, or quantum fields—that can’t be observed directly, that we should start doubting the theories’ truth. And to be fair to van Fraassen, in this published work, he doesn’t really say that we *should* doubt the truth of such theories. Only that scientific reasoning does not rationally force us to accept them as true. Skepticism, or agnosticism, he argues, is warranted.
+
+[![21 05 25.Science is based in metaphor](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-05-25.Science-is-based-in-metaphor.webp)
+
+SUGGESTED READING
+Science is based in metaphor
+By Andrew Reynolds](https://iai.tv/articles/all-science-is-based-in-metaphor-auid-1809)
+
+But the history of atomic theory throws a monkey wrench into that argument. Atoms used to be unobservable; again, scientists first accepted the theory that they exist because it had such grandiose explanatory power. But then atoms were seen [with electron microscopes](https://www.microscopeclub.com/atom-microscopy/). They thus moved into the category of the observable. But this didn’t substantially change anything about what scientists were justified in believing; it certainly didn’t change any “atomic skeptics’” minds. It just confirmed what everyone already knew! If the hypothesis that something exists clearly provides the best explanation for what we can observe, then the belief that it exists is what is rational. The fact that the thing itself is not technically observable does not make doubting its existence rational.
+
+What’s more, the atoms were seen with an *electron* microscope. But electrons are themselves unobservable. How can an electron microscope reveal an atom if electrons are not real? This leads us to what is famously known as Hilary Putnam’s “miracle argument.”
+
+**It’s (not) a miracle**
+
+Philosopher Hilary Putnam’s miracle argument is somewhat famous. Basically, he argued that a scientific theory being able to repeatedly make successful predictions—even about unobservables—without being at least approximately true would require a “miracle.” In other words, it would be such an improbable occurrence that it could not rationally be believed—the better explanation for why scientific theories about unobservables make the right predictions is because the unobservable entities and structures they hypothesize exist.
+
+Van Fraassen has addressed this argument. Indeed, in his original article, where he references Alison Gopnik’s point about orgasms not being “necessary for procreation” even though the desire for orgasm “drives the creation of progeny,” he is pointing to his [own argument](https://academic.oup.com/book/7116) about how organisms are not naturally selected by evolution to get true beliefs; to the extent that belief-forming processes are selected for, the ones that are selected are the ones that are useful for survival—[not the ones that produce true beliefs](https://iai.tv/articles/our-brains-evolved-to-survive-not-to-find-truth-auid-3406). In the same way, van Fraassen argues, scientific theories are accepted, not because they are true, but because they aren’t falsified; they make successful predictions; that’s what makes them “stick around.” So, the fact that they make successful predictions (and thus became accepted) is not a reason to think they are true.
+
+This argument is similar to C. S. Lewis’s “argument from reason,” which he used to argue against evolution: “The truth of evolution undercuts our ability to know that it is true.” Lewis’ argument famously failed; Elizabeth Anscombe, by Lewis’s own admission, demolished Lewis in a debate on the topic, and I have [explained elsewhere](https://www.researchgate.net/publication/330584541_Retiring_the_Argument_from_Reason_Another_Reply_to_Reppert) why modified versions of the argument fail as well. In short, it’s because it fails to recognize that a belief-forming process can make an organism more likely to survive *because it reliably produces true beliefs*. It is therefore not the case that beliefs generated by naturally selected belief-forming processes are automatically false or unjustified.
+
+In the same way, the reason a theory “sticks around” could be because it’s not falsified, because it “makes correct predictions.” But the reason it makes correct predictions is *most likely because it is true*. (In pointing this out, I am echoing the arguments of Musgrave, Lipton, Psillos, and Kitcher, who refuted van Fraassen’s argument and analogy long before his 2024 article.) It would be a huge coincidence that it could do so without being true. And that is the point of Putnam’s miracle argument. Thus, contrary to van Fraassen’s suggestion, the mere fact that a theory’s predictive success is why it “sticks around” or “becomes accepted” in the scientific community is not a reason to be skeptical about its truth.
+
+**Conclusion**
+
+Let me close by saying something about the fact that empiricists don’t doubt the truth of all scientific theories, just the ones that hypothesize unobservables. In today’s society, this theory is dangerous to espouse publicly. The nuance between being [skeptical about all of science,](https://iai.tv/video/the-strange-search-for-knowledge-in-the-age-of-post-truth-with-steve-fuller) and just the highly technical theories about unobservables, is guaranteed to be lost to the average reader. And there is so much unjustified skepticism and doubt about the findings of science and experts that a headline like “Science Does Not Describe Reality” could easily fuel the anti-science movement, worsen climate change denial and cause the next pandemic.
+
+This is why I believe it was important to still respond to van Fraassen’s article, a full two years after he wrote it. Not only, as I have argued, does it represent a philosophically inaccurate view of how scientific reasoning works and [what scientific reasoning can do](https://iai.tv/video/science-and-the-unknowable-universe), but it is a dangerous view to boot. It should thus be rejected.

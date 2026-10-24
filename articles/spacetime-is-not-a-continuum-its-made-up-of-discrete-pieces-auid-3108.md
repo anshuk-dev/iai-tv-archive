@@ -1,0 +1,115 @@
+---
+title: "Spacetime is not a continuum, it's made up of discrete pieces"
+subtitle: "Spacetime emerges from causal sets"
+author: "Sumati Surya"
+date: "13th March 2025"
+article_id: "3108"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,820 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/causal-set-theory-piece.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/spacetime-is-not-a-continuum-its-made-up-of-discrete-pieces-auid-3108"
+---
+
+# Spacetime is not a continuum, it's made up of discrete pieces
+
+*Spacetime emerges from causal sets*
+
+**By Sumati Surya** | *13th March 2025* | *Read time: approx. 9 mins* | *1,820 words*
+
+![Spacetime is not a continuum, it's made up of discrete pieces](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/causal-set-theory-piece.webp)
+
+---
+
+*Much of modern physics hinges on the notion of a smooth ‘continuum’. But as Professor of Theoretical Physics Sumati Surya argues, our lived experience point to something else: discreteness. Surya argues that spacetime isn’t infinitely divisible but instead built from discrete elements and their causal relationships* – *there is a “fundamental minimal size below which spacetime loses its meaning”.*
+
+**What is the ‘substance’ of spacetime?**
+
+We are schooled early on, to imagine the ‘real line’, by inserting between any two points on the number line, an uncountable infinity of numbers, the so-called ‘irrationals’. Even as children we are aware that *physical* objects have an atomicity – if broken too fine, they lose any semblance of self. A continuum-like sheet of paper can only withstand so much tearing or folding, before it gives way to dust. Yet, we are told, there is a reality beyond this, literally that of the ‘reals’, where every division offers an uncountable infinity of further divisions, which never ever stops. Thus, the platonic ‘reality’ of a continuum overrides the physical, experiential reality of finiteness and discreteness.
+
+\_\_\_
+
+At the Planck scale, spacetime comes into its own, as physical substance, the point at which the myth of the continuum dissolves into the dust of spacetime. Yet, most theories of quantum spacetime are framed in the continuum, where spacetime can be broken into bits, ad-nauseam, at scales arbitrarily smaller than the Planck scale.
+
+\_\_\_
+
+So strong is this image, that much of modern mathematics, and hence physics, is predicated on the existence of a continuum. It is of course a brilliant mathematical ruse to use continuum structures – without this there would be no calculus, an essential tool for physics since Isaac Newton. This ruse continues to serve us well today. In Quantum Field Theory, used to define the standard model of particle physics, spacetime is a background, non-dynamical structure and the tools of the continuum help us calculate cross sections of various physical processes. The continuum serves as a perfectly good approximation in General Relativity as well. Though spacetime is dynamical, it is classical, and hence defined at large scales. Thus, the tools of differential geometry allow various physical observables to be calculated – from gravitational waves produced by the merger of two blackholes, to the largest cosmological features of spacetime. In both theories one is shielded from the very smallest of scales, the ultraviolet, at which the structure of spacetime may itself be very different.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-08-18-the-reality-beyond-spacetime-Donald-Hoffman.youtube-thumbnail.tpu.jpg)
+
+SUGGESTED VIEWING
+The reality beyond spacetime
+With Donald Hoffman](https://iai.tv/video/the-reality-beyond-spacetime)
+
+This is the realm of quantum gravity, where spacetime becomes quantum substance. Nature conspires to provide us a length scale for quantum gravity, the Planck scale. It is obtained by combining three fundamental constants of nature. The first is the Gravitational constant , from Newtonian gravity, the second is the speed of light in vacuum , from the special theory of relativity, and the third is Planck’s constant , from quantum theory. At the Planck scale, spacetime comes into its own, as physical substance, the point at which the myth of the continuum dissolves into the dust of spacetime. Yet, most theories of quantum spacetime are framed in the continuum, where spacetime can be broken into bits, *ad-nauseam*, at scales arbitrarily smaller than the Planck scale. In some scenarios, there is no further structure in spacetime, no new physics, and yet one posits the existence of an infinitesimally valid ‘vanilla’ spacetime continuum. One can argue that this is mathematical convenience rather than physical intuition. Imagining discreteness might seem to some like a radical proposition, but even before the formulations of relativistic spacetime, [Riemann had suggested](https://openlibrary.org/books/OL11801405M/Bernhard_Riemann_Collected_Papers) that “metric determinations of space… lose their validity in the infinitely small” and that “it is therefore quite definitely conceivable that the metric relations of space in the infinitely small do not conform to the hypotheses of geometry” (Riemann 1982: x+555).
+
+\_\_\_
+
+Theorems in Lorentzian geometry show that under very mild assumptions, spacetime geometry is equivalent to its causal structure poset and a ‘conformal factor’ which gives it ‘volume’ at every point
+
+\_\_\_
+
+Of course, spacetime, or Lorentzian geometry, is very different from Riemannian space, where there is only space and no time. In spacetime, events are causally ordered to form a partially ordered set or ‘poset’. Hence any notion of discreteness in Lorentzian geometry must be deeply tied into this structure. [Theorems in Lorentzian geometry](https://pubs.aip.org/aip/jmp/article-abstract/17/2/174/224641/A-new-topology-for-curved-space-time-which?redirectedFrom=fulltext) [show](https://pubs.aip.org/aip/jmp/article-abstract/18/7/1399/460709/The-class-of-continuous-timelike-curves-determines?redirectedFrom=fulltext) that under very mild assumptions, spacetime geometry is equivalent to its causal structure poset and a ‘conformal factor’ which gives it ‘volume’ at every point (Hawking et al. 1976: 174–81, Malament 1977: 1399–1404) . The quantum spacetime substance must therefore incorporate this essential causal structure. This is the starting hypothesis of causal set quantum gravity. It further posits that spacetime doesn’t quite dissolve into dust at the Planck scale, but becomes a discrete graph where elements are ordered by causality. Mathematically, this is a locally finite poset, or causal set. The causal order of spacetime corresponds to the order relation in the poset, while the (missing) volume is obtained by counting the number of elements that lie between any two ordered elements. Thus, the continuum causal structure, which has no limit to how small you can go, is replaced by a locally finite structure, the causal set, where there is a fundamental minimal size below which spacetime loses its meaning.
+
+![Causal set theory figure 1 causet set copy](assets/Uploads/_resampled/ResizedImageWzYwMCwyOTNd/Causal-set-theory-figure-1-causet-set-copy.webp)
+
+Figure 1 A representation of a causal set. Elements (red) are causally connected to other elements. See ‘Hasse Diagrams’ to understand how these causal relationships are depicted.
+
+**The Emergence of the Continuum**
+
+If spacetime is discrete, how do we perceive the seeming continuity of our experiences? The answer is that we don’t actually have continuous experiences. All of known physics rests on the understanding that there is a finite experimental limitation in any physical experience or measurement, i.e., a finite resolution. The mathematics of the continuum is simply a convenient way to frame our present theories.
+
+\_\_\_
+
+Just as we readily correlate the continuous fluid that comes out of the tap every morning, with its constituent discrete water molecules, so should we do so with spacetime.
+
+\_\_\_
+
+Nevertheless, one would like to see how the continuum approximation ‘emerges’ from the underlying discreteness. Just as we readily correlate the continuous fluid that comes out of the tap every morning, with its constituent discrete water molecules, so should we do so with spacetime. Causal set theory explicitly defines this ‘continuum-discrete’ correspondence by positing that every continuum spacetime is an approximation to an ensemble of causal sets obtained via a random, ‘Poisson point process’. Whipping the continuum out of the picture (much like the table cloth trick), we are left with a distribution of causal sets (or a random causal set) which collectively must contain all the familiar elements of geometry and topology. Such random causal sets [are called](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.521) [‘continuum-like’](https://link.springer.com/article/10.1007/s41114-019-0023-1) (Bombelli et al. 1987: 521-524, Surya 2019: 5).
+
+![Causal set theory figure 2 emergent continuum copy](assets/Uploads/_resampled/ResizedImageWzQ1MCw0ODhd/Causal-set-theory-figure-2-emergent-continuum-copy.webp)
+
+*Figure 2 Depiction of an 'emergent continuum'.*
+
+Decoding continuum information from order-theoretic structures in the causal set ensemble is an art. This is especially so since continuum-like causal sets are not ‘nice’ graphs with a fixed set of nearest neighbors. Despite being discrete, they satisfy the symmetries of special relativity, but precisely because of this, some pairs of nearest neighbors can look very far apart for a given observer. Throwing away the continuum means that its geometry and topology must be replaced by structures within the causal set. There is a growing list of these geometry and topology inspired ‘order invariants’, which include the [spacetime dimension](https://dspace.mit.edu/handle/1721.1/14328), [time-like distance](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.260), and the [blackhole horizon area](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.126008), to name a few (Meyer 1989, Brightwell et al. 1991: 260-263, Barton et al. 2019). For example, the average number of related events in a region of the causal set is sufficient to estimate the spacetime dimension, while the time measured by an observer using their own clock, is given by counting the maximum possible number of discrete time steps! In other words, mere counting replaces the continuum notion of a dimension and a distance!
+
+[![related-video-image](https://iai.tv/assets/Uploads/black-hole-star-accretion2.webp)
+
+SUGGESTED VIEWING
+Stephen Hawking and the Progress of Physics
+With Fay Dowker](https://iai.tv/video/stephen-hawking-and-the-progress-of-physics)
+
+These results suggest that the discrete geometry of causal sets contains all *measurable* properties of continuum geometry, but there is still no definitive theorem that establishes this rigorously. Practically, however, the list of geometric order invariants provides strong evidence for such a conjectured theorem.
+
+Alongside, the exercise of geometric reconstruction provides a constructive approach to continuum spacetime geometry, which is different from that inspired by purely spatial or Riemannian geometry. The examples in geometric reconstruction help us reimagine the continuum in terms of the causal relations and spacetime volumes. This echoes [Kronheimer and Penrose’s](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/on-the-structure-of-causal-spaces/E484C84211A16B0876694B84C68C8F43) axiomatic approach to spacetime as well as [recent advances](https://arxiv.org/abs/1711.08990) in synthetic Lorentzian geometry (Kronheimere et al. 1967: 481-501, Kunzinger et al. 2018: 399-447). An ambitious goal would be to fully ‘scalarise’ geometry in this way, ridding it of vectors and tensors, but nevertheless encoding all its invariant geometric properties.
+
+Finally, a few words on dynamics. The continuum-discrete correspondence is kinematical, i.e., only a ‘first quantisation’ of spacetime. A more difficult question is whether continuum-like causal sets can emerge dynamically at large scales. A major hurdle comes from the overwhelming majority of causal sets which are not anything like spacetime. In these causal sets, even as the number of elements increases, the total amount of elapsed time remains the same. Incorporating such causal sets into the dynamics means that we run the risk of never being able to recover classical spacetime. However, as shown recently, these causal sets are, in fact, tamed by the dynamics, which is good news, and [consistent with our hope](https://www.researchgate.net/publication/369322134_Path_integral_suppression_of_badly_behaved_causal_sets) that the spacetime continuum can emerge out of causal set quantum gravity (Carlip et al. 2023).
+
+Even if spacetime does emerge, seemingly intact, from causal set theory, the central hypothesis is of a fundamentally discrete spacetime substructure. This means that every physical aspect of spacetime geometry must arise merely from counting, and ordering. Sounds like, but isn’t *quite,* child’s play!
+
+References
+
+Riemann, Bernhard, *Collected papers*, Translated from the 1892 German edition by Roger Baker, Charles Christenson and Henry Orde, Kendrick Press, x+555, 2004.
+
+Hawking, Stephen W., *King*, *Andrew* R.and McCarthy, Patrick J., “A New Topology for Curved Space–time Which Incorporates the Causal, Differential, and Conformal Structures”, *Journal of Mathematical Physics* 17 (2), 174–81, 1976.
+
+Malament, David B, “The class of continuous timelike curves determines the topology of spacetime”, *Journal of Mathematical Physics*, **18** (7), 1399–1404, 1977.
+
+Bombelli, Luca, Lee, Joohan, Meyer, David and Sorkin, Raphael D., “Spacetime as a causal set”, *Phys. Rev. Letters,* 59, 521-524, 1987.
+
+Surya, Sumati, "The causal set approach to quantum gravity", *Living Reviews in Relativity*, **22** (1), 5, 2019.
+
+Meyer, David A., “The dimension of causal sets”, Ph.D. Thesis, Massachusetts Institute of Technology, Dept. of Mathematics, 1989.
+
+Brightwell, Graham and Gregory, Ruth, “Structure of random discrete space-time” *Phys.Rev.Letters,* 66, 260-263, 1991.
+
+Barton, Christopher, Counsell, Andrew, Dowker, Fay, Gould, Dewi .S.W., Taylor, Gwylim and Jubb, Ian, “Horizon molecules in causal set theory", *Phys.Rev.D,* 100, 12, 126008, 2019.
+
+Kronheimer, E.H. and Penrose, Roger, "On the structure of causal spaces", *Proc.Cambridge Phil.Soc.* 63, 481-501, 1967.
+
+Kunzinger, Michael and Sämann, Clemens, "Lorentzian length spaces*" Annals Global Anal.Geom,* 54, 399-447, 2018.
+
+Carlip, Peter, Carlip, Steve and Surya, Sumati, "Path integral suppression of badly behaved causal sets", *Class.Quant.Grav*, 40, 8, 095004, 2023.

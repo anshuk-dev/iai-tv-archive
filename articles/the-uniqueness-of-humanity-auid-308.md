@@ -1,0 +1,67 @@
+---
+title: "The Uniqueness of Humanity"
+subtitle: "Evolution may have no purpose, but do we?"
+author: "Nicholas Maxwell"
+date: "Issue 3, 25th January 2014"
+article_id: "308"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,898 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sprouting.webp"
+unpaywall_method: "body HTML container"
+source_url: "https://iai.tv/articles/the-uniqueness-of-humanity-auid-308"
+---
+
+# The Uniqueness of Humanity
+
+*Evolution may have no purpose, but do we?*
+
+**By Nicholas Maxwell** | *Issue 3, 25th January 2014* | *Read time: approx. 9 mins* | *1,898 words*
+
+![The Uniqueness of Humanity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sprouting.webp)
+
+---
+
+When we come to ponder how, and to what extent, humanity differs from all other species, one crucial question that needs to be considered is this: what role, if any, does purposive action play in Darwinian evolution?   
+  
+One point must be made straight away. According to Darwinism - absolutely correctly - evolution itself has no purpose. Living things, however, do have purposes. Living things pursue such goals as nourishment, escape from predators, finding mates, care of offspring, defence of territory, and so on. Darwinian theory tells us that the supreme goal of all living things is survival and reproductive success. All being well, all other goals living things pursue contribute to the fundamental goal.  
+  
+There are biologists who think it heresy to attribute purposes to animals - let alone insects, plants, bacteria, or viruses. This is because they misconstrue what "purposive action" should mean in this context. First, they may think "purpose" means "conscious purpose". That, of course, is not the relevant notion at all. Second, they may think that the meaning of "purpose" is such that purposive action requires physical laws to be violated. In other words, they construe purpose in an incompatibilist sense: for a thing to pursue a goal, ordinary physical laws must be violated.  
+  
+Both these notions of "purpose" are the wrong notions to consider. What we require, in thinking of the purposive actions of living things, is a notion which applies, not just to living things, but to man-made artefacts too, such as thermostats, guided missiles and robots. The "atom" of purposiveness in this compatibilist sense is the thermostat. Its goal is to keep the temperature of the room constant, and it does this by means of two actions: switching the heater on when the room gets too cold, and switching it off when it gets too hot. Everything proceeds in accordance with physical law. Indeed, this is essential if the thermostat is to work properly.  
+  
+This compatibilist, negative feedback, control, thermostat-type notion of purposiveness is the one we require in speaking of the purposive actions of living things. It is this that Darwinian evolution, fundamentally, is about. All living things are purposive things, in this sense. In declaring a thing to have the goal “G” in a given environment, we declare that the thing will tend to act, in the environment, so as to move towards attaining “G” (even if the thing in question is not always successful). Physics is not violated. Consciousness need not be present. But sentience and consciousness may be present and, as evolution has proceeded, both have come into existence, in association with the purposive actions of animals.  
+  
+With these preliminaries over, let us return to our original question: what role, if any, does purposive action (in this compatibilist sense) play in Darwinian evolution?  
+  
+One extreme view, which might be attributed to Richard Dawkins, is simply none at all. Darwinian evolution is all about genes, and genes do not have purposes, even in this compatibilist sense. Evolution is an entirely mechanical process, as it were, purposive action having nothing whatsoever to contribute.  
+  
+This "mechanistic" version of the theory of evolution creates a decisive break between the non-human biological world, and our human world. The way our human world develops is clearly influenced by purposive action. History is clearly the outcome of a multitude of human actions, even if natural phenomena, such as floods, drought, fire, earthquakes and disease have an impact too. But, according to the "mechanistic" view, purposive action has no part to play at all in the way the non-human biological world evolves.  
+  
+One way to eliminate the gulf between the purely "mechanistic" character of the non-human biological world, and the purposive human world is to hold that purposiveness is an illusion even in the human world. Dawkins has defended such an extreme view. At a lecture he gave a few years ago at the LSE, he showed a clip from "Fawlty Towers", during which Basil Fawlty punishes a car for not starting by beating it with a branch. The clear implication was that, in Dawkins view, we are all, like the car, devoid of the capacity for purposive action, all apparent purpose in our human world being no more than a persistent illusion.  
+  
+Fortunately, we are not obliged to adopt this grim view of human life. Instead of deleting purpose from the human world, we can recognize its existence, not just in our world, but in the non-human biological world as well. The fact of the matter is that the gulf between the non-human and the human worlds is no more than an artefact of the adoption of an untenable version of Darwinian theory. The "mechanistic" version of Darwinism fails to do justice to evolution, and deserves to be rejected. It needs to be appreciated that purposive action plays an increasingly important role in evolution long before human beings appeared on the scene. Quite generally, as evolution proceeds, the mechanisms of evolution themselves evolve. No version of Darwinism which fails to recognise this point is tenable.  
+  
+This point has been spelled out in some detail chapter eight of my book, Cutting God in Half - And Putting the Pieces Together Again: A New Approach to Philosophy (available free online). There, I distinguish eight distinct versions of Darwinism, beginning with the extreme "mechanistic" version, indicated above. Subsequent versions progressively give stronger and stronger roles to purposive actions in the Darwinian account of evolution.  
+  
+The fourth version of Darwinian theory, for example, makes the point that natural selection includes the purposive actions of animals, and thus the way a particular species evolves may well be influenced by the purposive actions of other animals. Caterpillars acquire brilliant camouflage because generations of caterpillars with crude camouflage were detected and eaten by generations of birds. The perceptiveness and actions of the birds led, together with chance mutations, to the brilliant camouflage. Peacocks acquired magnificent tails because generations of peahens chose to mate preferentially with those peacocks that had the best tails. Everywhere in the animal world, the purposive actions of animals have a vital role to play in evolution as a result of determining or influencing what animals survive and what do not.  
+  
+The fifth version of Darwinian theory makes the point that once animals can learn, and can learn by means of imitation, there arises the possibility that a way of life (which is what Darwinism is about) evolves by cultural means. Here is a crude illustration of the idea. Consider a dog-like creature that runs about on land. An individual then discovers that fish in a river can be caught and eaten. The actions of this individual are imitated by other dogs too. Now a mutation occurs: puppies are born with flippers instead of legs. They survive and breed, swimming and catching fish in the river. A new, beaver-like species has evolved as a result. The crucial point to appreciate is that, without the prior change in purposive action, the result of learning and imitation, the mutation which transformed legs into flippers, would have led nowhere. Puppies with flippers, on land, would have died. It is only because of the prior change of purposive action that the puppies could survive and breed.  
+  
+We humans are, almost certainly, to a considerable extent, the product of this kind of evolution by cultural means. Our capacity to learn, understand and speak language almost certainly evolved in this kind of way. Pre-human hominoids speak a primitive language. Those good at the language are sought after as mates, and have more offspring. In this way, mutations which lead to improved capacities to learn, understand and speak language spread throughout the population. Language use has a role in the evolution of the capacity to use language. Other human capacities, such as the capacity to understand others, are likely to have evolved in a similar way. But it is vital to appreciate that this kind of evolution by cultural means is not restricted to human beings. It is widespread in the animal world too.  
+  
+Evolutionary biologists acknowledge these points but downplay their significance for our understanding of Darwinian theory, a point I spell out in some detail in my book. One indication of this is the way the evolutionary process I have called "evolution by cultural means" has been misinterpreted and distorted by evolutionary theorists as "the Baldwin effect". This constitutes, as I say in my book, "a catalogue of errors". In particular, evolution by cultural means was first clearly described and understood by Lloyd Morgan and Fairfield Osborn in 1896. Baldwin subsequently grossly misrepresented their idea. Unfortunately, it is Baldwin's distorted version of the idea that subsequently came to be known as "the Baldwin effect" via the work of G.G. Simpson and, more recently Daniel Dennett.   
+  
+Subsequent versions of Darwinian theory that I consider in my book take into account the role, not just of purposive action in evolution, but the role of action that is sentient, and then conscious.  
+  
+Once purposive action is acknowledged to play an increasingly important role in evolution, as life evolves, there is immediately the danger that the theory becomes circular, in that, in seeking to explain purposive action one appeals to the very thing one seeks to explain. In order to avoid this fatal kind of circularity, it is vital to observe the following principle of non-circularity: the theory must not presuppose what it seeks to explain. If, at some stage in evolution, Darwinian theory itself employs purposive explanations, the theory must explain how purposiveness of this type has come into existence at this stage of evolution without using the very notion of purposiveness that is being explained.  
+  
+The purposive version of Darwinism that I formulate in my book has a profound impact on our understanding of how and why we have come into existence, and what our relationship is to the rest of life. As I say in my book: "The outcome [of this view is] a profound shift in the whole way in which ... evolution needs to be understood. The actions of animals, our ancestors, in the past, for millions of years, have had a vital role to play in bringing about our existence. Evolution is not just blind chance and necessity, to quote the title of a book by Jacque Monod. Our animal ancestors, striving to live, to eat, to avoid being eaten, to mate, to rear young, are a vital part of the reason for our existence. They did not, of course, intend us to exist. Nevertheless, without their striving, we would not be here. We owe them a debt of gratitude".  
+  
+We are, of course, exceptional. No other species has science, art, music, literature, justice, liberty and democracy, as we do. Of course, no other species is as proficient as we are in war, murder, rape, torture, enslavement, and their general capacity to wreak havoc, destroy natural habitats and cause mass extinctions. It is vital that we see non-human life as purposive too, so that we do not blind ourselves to what is of value in non-human life: sentience and the beginnings of consciousness; care for young; friendship; play; courage; the general wonder, beauty and miracle of our fellow creatures and living things on earth.  
+  
+  
+  
+**Nicholas Maxwell is Emeritus Reader of Science and Technology Studies at University College London. His latest book *How Universities Can Help Create a Wiser World: The Urgent Need for an Academic Revolution* is published by Imprint Academic priced at £9.95. For more, [click here](http://www.ucl.ac.uk/from-knowledge-to-wisdom).**

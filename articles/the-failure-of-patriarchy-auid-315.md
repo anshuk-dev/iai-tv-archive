@@ -1,0 +1,73 @@
+---
+title: "The Failure of Patriarchy"
+subtitle: "A vision for a just society and how to achieve it."
+author: "Finn Mackay"
+date: "9th February 2014"
+article_id: "315"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "1,701 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Finn-Mackay-crop.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-failure-of-patriarchy-auid-315"
+---
+
+# The Failure of Patriarchy
+
+*A vision for a just society and how to achieve it.*
+
+**By Finn Mackay** | *9th February 2014* | *Read time: approx. 9 mins* | *1,701 words*
+
+![The Failure of Patriarchy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Finn-Mackay-crop.webp)
+
+---
+
+Dr Finn Mackay specialises in feminist activism at the University of Bristol’s School for Policy Studies. In 2004 she founded the London Feminist Network, one of the largest grassroots feminist activist organisations in the country. Here, Mackay discusses gender equality, the need to radically rethink society and why feminism doesn’t simply mean replacing a patriarchal society with a matriarchal one.
+
+**What would a matriarchal society look like? How would it be different from the way we live now?**
+
+If we take the term 'matriarchy' to mean a mirror image of patriarchy, but with women in charge instead of men then I don't think society would necessarily be very different from the one we are in now. The whole point of feminism is not to retain the status-quo, and change the leadership; the point of feminism is to radically alter the status-quo and build a new society altogether, one that is better for women, men, children and young people, non-human animals and the environment.
+
+The aim of feminism as a global social movement is to challenge and end patriarchy, by which I mean a system of male supremacy, a system of social governance where men overwhelmingly dominate mainstream positions of power, authority and influence. We live in a world scarred by the masculinisation of wealth and power and we can no longer afford to pay the price of patriarchy.
+
+But rather than a matriarchal society, I would like to see a just, equitable and socialist society where the sex one is born into does not confer status and privilege above those of any other sex. Likewise other socially constructed fractures, such as race, social class, disability or sexuality should not be grounds for discrimination or second-class status. As a feminist, and a socialist, this is the better world I would like to advance; rather than a simplistic and flawed image of a matriarchal inversion.
+
+**Would a world run by women be a more caring society?**
+
+I think a fairer and representative world, where women play an equal role with men in all arenas would indeed be a more caring society. Patriarchy, as in male dominance and male supremacy, has clearly failed. The world is in crisis environmentally, and all around we see the brutal symptoms of exploitation, hierarchy, prejudice, imperialism and greed. I believe an equal world would be fairer, not because I am a biological determinist, but because I believe all human beings have within them the potential to change and grow.
+
+Caring, justice, cooperation and sharing are not gendered, they are not women's values or men's values, they are human values; essential to the building of any family, any community, any society, any nation. However, due to stereotyped socialisation, these values are all too often instilled in girls and women more than in boys and men, these values are deemed 'feminine' and demeaned because of that. It would be revolutionary to ensure parity in all arenas of life therefore, even now, within our imperfect world. Starting where we are at, with immediate legislation enshrining, for example, the equal representation of women in parliament, in law, policing, military, education and all the rest, would drastically change the form of those institutions and that in itself would begin a shift towards changing such institutions themselves, for the benefit of all of us. A more caring society has to be built by both women and men, and we certainly won't get there under the selfish male supremacy that governs us currently – which is why it must be changed.
+
+**What do you see as being the biggest threat to gender equality?**
+
+Patriarchy is the enemy of gender equality, by which I mean male dominance and male supremacy. To achieve gender equality patriarchy must end. This means men, as a group, as a social class, will have to give up some of their power and privilege; and women, as a group, as a social class, must take it back. Men need to accept that elements of their power have been gained at the expense of women, at the expense of young people, at the expense of marginalised men. Such an understanding will not come easily, nor guarantee easy passage of any such revolution however. Nevertheless, it is in all of our best interests to create a more just and equitable world where women are no longer second class.
+
+Ending patriarchy is a rather broad goal! Within that there are other key identifiable threats to gender equality currently. The rise of the right, the pervasive grip of neo-liberal economics and ideology are clear threats to gender equality, and indeed are threats to the hard-won steps towards equality that tireless women have secured over the decades. We are losing vital services in our communities on which women depend disproportionately. Refuges, children's centres, community centres, respite services, rape crisis services, youth centres and elderly care provisions are being destroyed by ideological Tory cuts. The proud backbone of our welfare state is also being taken apart through benefits being slashed, benefits which often make up more of women's income than men's. This is a feminist issue, this is a women's issue; these moves are a major threat to gender equality and must be fought by whatever means necessary.
+
+**Do you agree with the concept of the glass ceiling? Or is success a question of determination?**
+
+I do agree with the concept of the glass ceiling. For centuries men have been enjoying the fruits of positive discrimination, being hired, promoted and paid at a higher rate than women simply because of their male sex. Let me be clear, I am arguing that men dominate positions of leadership, authority and status not because of their merits and skills, but because of their sex. For every experienced, skilled and qualified man there is an equally suitable woman. These women face structural discrimination in a sexist world and that is what holds them back.
+
+The alternative to this analysis is to believe the lie that women really are just biologically less ambitious than men, less competent than men, less focused than men, less clever or capable than men. I refuse to accept such a deterministic explanation. Nor do I accept biology as any excuse for the similar, and equally shameful absence of black people, of out lesbian and gay people, of disabled people or of people from poor and working class backgrounds in positions of power and influence in our society.
+
+**Is direct action still a plausible solution to reversing social injustice?**
+
+Non-violent direct action of all kinds, from petitions to pickets and protests is absolutely essential in the journey towards ending social injustice. Discrimination, blatant prejudice and oppression are still part of our society, thus organised resistance movements should also be a part of our society for as long as they are needed.
+
+Organised resistance can take many forms and one of those forms is a self-organised, autonomous Women's Liberation Movement. The successful tactics of women's political leadership and organisation have been proven and should not be abandoned; although women-only space is rare, fragile and under attack currently, both within social justice movements and without. To organise for women's rights, together as women is not sexist towards men, it is an urgent, useful and necessary step towards building a better world for all of us, men included.
+
+Given that we inhabit an unequal society, it is naive to expect that those of us engaged in social movements can exist in a vacuum untouched by the racism, sexism and homophobia which surrounds us; these inequalities pollute our own movements too, even as we are focussed on overturning them. Therefore, we do need to promote women's self organisation as a political right within all social justice movements, and indeed self-organisation as a right for all oppressed groups.
+
+**Do you endorse the idea of evolutionary difference as an explanation for patriarchy?**
+
+I am not a biological determinist. I do not believe in biological excuses for male supremacy, male dominance or male violence and aggression. Nature has not created one sex to be in brutal and bloody domination of the other. The sexism that divides us is man-made, it is learned, not born. This is good news, because what is made can be un-made, what is learnt can be un-learnt; and new beliefs can take the place of the old.
+
+If feminists really did believe that all men are naturally and biologically raping war-mongers and abusers, then there would be little point in our liberation movement. Feminism does not believe this, which is why we are engaged in a movement for change. We do not believe the lies told about men, just as we do not believe the lies patriarchy has told us about ourselves. Patriarchy has certainly been around a long time, but that does not mean it is natural or fixed. In fact, its longevity should inspire us even more into action, into a commitment to ending this most oldest of oppressions once and for all.
+
+**What do you think of the argument that says we should be striving for difference over equality?**
+
+I am never sure what people mean when they argue for difference over equality. All human beings are different. Our differences and diversity mean that together we can be stronger, because we can utilise everyone's unique perspective, skills and experience. Also, we should remember that men are just as different as women. Too often claims to sex differences are just an excuse for women's second-class status vis-a-vis men. This is a weak, defensive resort to biology in order to justify continuing and unjustified structural discrimination and oppression against women, and indeed all 'othered' groups.
+
+A fair and equal world would not be a world where everyone was the same, nor would it be a world where everyone was treated the same – this is because everyone is different, not just women. Humans would carry on being unique and diverse in this better world, they would just no longer be exploited or oppressed on the grounds of their identity. In fact, if everyone is so concerned about 'difference' then they should concern themselves with making our institutions of governance, our leadership, our culture, our education and our media look a bit different; as opposed to the boring, tired male monologue of spoilt, rich white boys that we have all been subjected to for centuries.

@@ -1,0 +1,69 @@
+---
+title: "The dangers of nuclear escalation have not receded"
+subtitle: "Putin would use a tactical weapon if pushed"
+author: "Keir A. Lieber"
+date: "3rd May 2023"
+article_id: "2470"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "971 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-05-The-dangers-of-nuclear-escalation-have-not-receded.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-dangers-of-nuclear-escalation-have-not-receded-keir-lieber-auid-2470"
+---
+
+# The dangers of nuclear escalation have not receded
+
+*Putin would use a tactical weapon if pushed*
+
+**By Keir A. Lieber** | *3rd May 2023* | *Read time: approx. 5 mins* | *971 words*
+
+![The dangers of nuclear escalation have not receded](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-05-The-dangers-of-nuclear-escalation-have-not-receded.dc.webp)
+
+---
+
+*Since the Cuban missile crisis, the idea of all-out nuclear war in Europe has been almost unthinkable. And many Western commentators have dismissed Putin’s recent threats of nuclear blackmail as scare tactics. But we should not be so confident in our assessment argues nuclear expert Keir Lieber. If the West doesn’t tone down it’s rhetoric of a decisive military victory against Russia, we could be heading for catastrophe in Europe.*
+
+Many analysts believe that the danger of Russian nuclear weapons use against Ukraine or NATO has receded. Occasional escalatory threats by Russian President Vladimir Putin have been largely dismissed as scare tactics by Western officials, who remain confident that nuclear deterrence will hold under most plausible circumstances.
+
+[![nuclear min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/nuclear-min.webp)
+
+SUGGESTED READING
+The truth about nuclear deterrence 
+By Herbert Lin](https://iai.tv/articles/the-truth-about-nuclear-deterrence-auid-2078)
+
+Such confidence is misguided. Both strategic logic and international history suggest that Putin is likely to use nuclear weapons if he faces the prospect of a devastating defeat in the Ukraine wa**r** or a future conflict with NATO. Specifically, if Putin perceives an existential threat to his regime, then he will be compelled to prevent that outcome – even if it requires taking risky escalatory steps, including the use of tactical nuclear weapons on the battlefield. Nuclear weapons are the ultimate tools of last resort; any rational leader would consider using them if his or her regime or life were on the line.
+
+Of course, Russia’s poor military performance in Ukraine makes a future direct attack by Russia on a NATO country seem unlikely. But that same conventional military weakness explains the danger of Russian nuclear escalation in both the current war in Ukraine and any conflict with NATO, if one were to occur.
+
+\_\_\_
+
+The brutal fate of leaders like Saddam Hussein and Muammar Gaddafi, who lost wars to superior adversaries without having a nuclear option, looms large
+
+\_\_\_
+
+First, consider historical precedent. The principle strategic challenge to NATO in the Cold War was the danger of a Soviet invasion of Western Europe. Because the Red Army at the time was far more powerful than NATO forces – the Soviets were expected to quickly overrun the continent if war came – conventional deterrence was insufficient. Instead, NATO threatened nuclear war to deter a Soviet conventional attack. The United States and its allies deployed thousands of nuclear weapons across NATO territory in order for them to be used against Soviet forces to coerce a halt to the conflict before it was too late.
+
+Second, consider the nuclear doctrines of contemporary nuclear countries. Those countries that face conventionally superior adversaries appear to rely on coercive nuclear doctrines for their security. For North Korea, fighting against the vastly superior combined forces of the United States and South Korea, military defeat would come quickly and likely lead to the fall of the Kim Jong Un regime. Thus, Kim would face huge incentives to escalate with nuclear weapons to forestall that outcome. Pakistan faces superior Indian conventional forces, and thus not surprisingly relies on nuclear escalation to deter conflict or, if deterrence fails, to coerce a stalemate before Indian conquers or decisively defeats Pakistan in war. The brutal fate of leaders like Saddam Hussein and Muammar Gaddafi, who lost wars to superior adversaries without having a nuclear option, looms large.
+
+[![Back in the USSR2 min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Back-in-the-USSR2-min.webp)
+
+SUGGESTED READING
+How we got Putin so wrong
+By Stathis N. Kalyvas](https://iai.tv/articles/how-we-got-putin-so-wrong-auid-2063)
+
+Third, consider Russia’s predicament and options today. If Putin feels he is definitively losing the war in Ukraine, and if Putin feels that such a defeat would pose an existential threat to him or his regime, then the use of tactical nuclear weapons on the battlefield in Ukraine would make good strategic sense. The goal would be to message that Russia will not accept defeat and, accordingly, that the United States and its allies need to back off. Since Putin’s goal would be to create fear instead of rage, nuclear weapons would be used in Ukraine rather than NATO territory, and they would be used against military, not civilian, targets. Even if political coercion is the primary purpose, one would expect Russia to seek some military advantage out of nuclear use, so an attack that used half-a-dozen low-yield tactical nuclear weapons (detonated as air bursts to minimize radioactive fallout) against well-entrenched Ukrainian military positions would be the most logical option.
+
+For those who doubt the wisdom of such a coercive nuclear escalatory strategy, consider the options that the United States and its allies would face if Putin began to use nuclear weapons in this way.  Launching a disarming conventional or nuclear attack in response would be insane, as it would risk massive retaliation (and perhaps the end of civilization). Engaging in a tit-for-tat coercive nuclear escalation battle would be foolish because Putin has much more at stake (his regime’s survival, and perhaps his life) than U.S. leaders do. Tightening sanctions would merely increase the risk to Putin’s regime, which would fuel incentives for further nuclear escalation. In short, all the response options are grim – which is why Putin will find nuclear escalation an attractive strategy in dark times.
+
+\_\_\_
+
+Both strategic logic and international history suggest that Putin is likely to use nuclear weapons if he faces the prospect of a devastating defeat in the Ukraine war
+
+\_\_\_
+
+The only wise response to Putin’s nuclear use in Ukraine would be to negotiate some kind of resolution in which all parties could declare Potemkin victories. If that is the path we are heading down, the United States and its allies should dial-down any rhetoric about achieving decisive victory and, instead, find a solution before nuclear weapons are used.
+
+If the Ukrainian war ends with a negotiated settlement, or somehow a decisive Russian victory, then in one sense the nuclear danger will recede. However, this outcome might make possible a future direct conflict between Russia and NATO. Whatever the cause of any such war, Russia would likely lose it given the balance of conventional military capabilities. Facing that prospect, we should expect the same incentives for Russian nuclear escalation to kick-in.

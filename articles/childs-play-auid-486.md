@@ -1,0 +1,41 @@
+---
+title: "Child's Play"
+subtitle: "Should we encourage our children to be creative?"
+author: "Meg Rosoff"
+date: "Issue 26, 17th January 2015"
+article_id: "486"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "730 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Meg-Rosoff.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/childs-play-auid-486"
+---
+
+# Child's Play
+
+*Should we encourage our children to be creative?*
+
+**By Meg Rosoff** | *Issue 26, 17th January 2015* | *Read time: approx. 4 mins* | *730 words*
+
+![Child's Play](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Meg-Rosoff.webp)
+
+---
+
+All reasonably sane adults know that there is an important difference between fantasy and reality. This is something that each child learns gradually, slowly adjusting his or her world (complete with imaginary friends, ghosts, monsters under the bed) until it more or less coincides with the rest of society’s understanding of reality. Imagination in children doesn’t generally have to be encouraged; it’s the default position of human beings to create stories in our brains, even long after we know what’s “real” and what isn’t “real”.
+
+Children’s understanding of the difference between fantasy and reality is, to a great extent, inherent  - most children will recognise that Bugs Bunny, for example, is a rabbit, but not a real rabbit. They understand that Tellytubbies don’t exist in real life. When you tell children about Santa Claus or the Easter bunny, they may believe in the fantasy for a period of years, in the same way they may believe in fairies or superheroes. These literal beliefs, however, will fade gradually over time, as older children spill the beans or a more cynical understanding of the acceptable edges of reality become apparent.
+
+Things begin to get tricky when a child asks a direct question: “Is Santa Claus real?” or “Is the Easter bunny real?” Telling children bare-faced lies has always struck me as a dangerous proposition. What else, they will eventually ask, have you lied to them about? Most parents don’t want to tell a six-year-old that Santa is just a big cynical construct of the consumer economy based on a 4th century Greek bishop who gave gifts to the poor so their dowry-less daughters wouldn’t have to become prostitutes.  So perhaps the answer to the “is Santa real” question should be: “What do you think?”
+
+Some argue that it’s important to keep white lies alive to feed children’s imaginations. But children don’t need adults to create fantasy worlds for them. They have invisible friends, play make-believe, dress up, build houses for mice, invent spy codes with no help from the grown-ups in their lives. Timeless children’s books like The Hobbit, Peter Pan, Alice in Wonderland and The Wind in the Willows all firmly inhabit the world of fantasy and fairytales, as do more recent heroes like Percy Jackson and Harry Potter. Most children (and most adults, for that matter) are in no danger of taking what they read entirely at face value.
+
+There is no single factor that makes for a really imaginative childhood. My dear friend and brilliant writer, Sally Gardner, is severely dyslexic. She couldn’t read until she was fourteen and, although she grew up in an educated, relatively well-to-do family, her dyslexia led her to be branded “mentally deficient.” Forced to live almost entirely in her own head, she became an extraordinary storyteller with an imagination that never ceases to astonish and delight her friends and readers. The actor Alan Cumming has said that he became an actor because his father was so abusive and violent, the safest place to live was in his own fantasy world.
+
+I wouldn’t wish for either of these childhoods no matter how imaginative I turned out. But I often think it’s a shame that the traditional line between fantasy and reality is drawn so emphatically. Some children will grow into adults who dabble around the edges of imagination more actively than most (a great number of writers fall into this category, myself included), while some prefer reality to fiction from the very beginning. Every person discovers the extent to which a rich imagination improves existence; the ability to imagine unlikely imaginative scenarios and connections improves nearly every aspect of life.  Physicists, doctors, computer geeks, teachers, architects, police, sportsmen, parents, musicians – everyone performs better with a good imagination.
+
+The exact impact of advanced technology on our imaginations remains to be seen. Despite vehement denials from the gun lobby and purveyors of violent games, there is plenty of evidence to suggest that some children continue their involvement in Grand Theft Auto by bringing a gun to school and shooting real people. Yet despite rafts of nostalgia for the pre-computer days when childhood games involved Barbie, GI Joe, sticks and stones, cowboys and Indians, there is clearly no shortage of opportunity in the post-digital world for a creative, imaginative childhood. Just don’t look your kids in the eye and swear that the Sims are moving in next door.
+
+**Image credit: [Caden Crawford](http://www.flickr.com/photos/cadencrawford/8422302030)**

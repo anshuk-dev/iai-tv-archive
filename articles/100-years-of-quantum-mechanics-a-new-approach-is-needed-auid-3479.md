@@ -1,0 +1,89 @@
+---
+title: "100 years of quantum mechanics: a new approach is needed"
+subtitle: "We've become complacent about the measurement problem"
+author: "Emily Adlam"
+date: "29th January 2026"
+article_id: "3479"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,342 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-100-years3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/100-years-of-quantum-mechanics-a-new-approach-is-needed-auid-3479"
+---
+
+# 100 years of quantum mechanics: a new approach is needed
+
+*We've become complacent about the measurement problem*
+
+**By Emily Adlam** | *29th January 2026* | *Read time: approx. 12 mins* | *2,342 words*
+
+![100 years of quantum mechanics: a new approach is needed](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-100-years3.webp)
+
+---
+
+*100 years on from the birth of quantum mechanics, philosopher of physics **Emily Adlam** argues that the quantum measurement problem remains in urgent need of a solution. It continues to raise fundamental questions about why measurements yield definite outcomes, meaningful probabilities, and shared evidence. Adlam argues that the leading interpretations of quantum mechanics still fail to explain these basic features of measurement—threatening the whole edifice of scientific method and theory.*
+
+The year 2025 marked the official 100th anniversary of quantum mechanics, commemorating Heisenberg’s 1925 paper “[On the Quantum-theoretical reinterpretation of kinematic and mechanical relations](https://www.neo-classical-physics.info/uploads/3/4/3/6/34363841/heisenberg_-_qm_interp_of_kin_and_mech.pdf).” The theory has been extremely successful in those 100 years—and yet, even after 100 years, there is still no consensus on what it is actually telling us about reality.
+
+The origin of the puzzle is what is known as the “[measurement problem](https://iai.tv/articles/we-still-dont-understand-the-measurement-problem-auid-2144),” which refers to the fact that in the standard formulation of quantum mechanics, it has two distinct parts. On the one hand, quantum systems left to their own devices evolve linearly according to the Schrödinger equation; on the other hand, when someone performs a measurement on a quantum system, its wavefunction undergoes a non-linear “collapse” which takes the quantum state from a superposition of all possible outcomes to a state in which the observer ultimately witnesses one particular outcome. And yet this seems very hard to understand. Measurements are physical processes, so shouldn’t they be governed by the same physical laws as anything else? What is this extra “collapse” process, and what causes it? We will not fully understand the theory until we can answer these questions.
+
+Now, the measurement problem is often presented in a way that gives the impression it is purely a matter of intellectual curiosity—we want to solve the measurement problem because we would like to know [what is going on “underneath” quantum mechanics](https://iai.tv/articles/to-solve-quantum-gravity-we-must-go-beyond-the-physical-auid-3237). Described thus, it seems that solving the measurement problem would merely be a nice bonus, rather than any particular imperative.
+
+\_\_\_
+
+If we can’t give a sensible account of how quantum measurements could provide reliable information about the world, then we also can’t give any clear argument to demonstrate that classical measurements escape the weirdness—and thus all of our empirical knowledge is in danger.
+
+\_\_\_
+
+However, this way of stating the measurement problem does not do justice to the central importance of measurement as an element of a theory. Measurement is a physical process, of course, but it is not just any physical process; it is the place where the theory makes contact with the evidence for it. And thus it is essential to give an account of the physical nature of measurement, which shows clearly how it is that measurement can reliably connect us to the theoretical structures we are supposed to have learned about by measurement.
+
+Here, it is helpful to recognize that our understanding of scientific methodology has a somewhat circular structure. We start out the process of doing science with a vague and ultimately unjustified assumption that measurements are in some sense giving us meaningful information about real structures in the world. And our hope and expectation is that we will go on to develop a scientific theory which affirms these assumptions. That is, ideally, we should end up with a theory that says that indeed, measurements are giving us reliable information about the entities postulated by the theory. If we achieve that, the coherence of the resulting system of beliefs gives us at least some reason to think that our theories are connecting up with the external world in a meaningful way. By contrast, if we arrive at a theory which explicitly says that the physical process associated with measurement could not give us reliable information about the entities postulated by the theory, then that theory is self-undermining: it tells us that we should not have relied upon the very methods that we used to arrive at it!
+
+We will shortly see that in the context of quantum mechanics, giving an account of measurement which does justice to this central epistemic role has turned out to be non-trivial. But first, it should be emphasized that this is not just a problem for quantum mechanics. This is because a number of interpretations of quantum mechanics, such as the [Everett interpretation](https://philsciarchive.pitt.edu/8888/1/Wallace_chapter_in_Oxford_Handbook.pdf) and [relational quantum mechanics](https://arxiv.org/abs/quant-ph/9609002), suggest that virtually any observation we might make of the world is in fact a “quantum measurement,” in the sense relevant within those interpretations. That means that any weirdness we might encounter in the context of quantum measurements is in danger of “leaking” into measurements and observations more generally.
+
+Of course, one would naturally hope that, given the right interpretation of quantum mechanics, we will find that the classical world emerges in a way that makes it safe from quantum weirdness. But it must be emphasized that whether or not this is true depends quite sensitively on how quantum mechanics is interpreted—for example, we will shortly see that it does not seem to be true in the context of the Everett interpretation. And if we can’t give a sensible account of how quantum measurements could provide reliable information about the world, then we also can’t give any clear argument to demonstrate that classical measurements escape the weirdness—and thus all of our empirical knowledge is in danger.
+
+Looking now at the standard treatment of measurement in quantum mechanics, we find that the “textbook” approach is far too vague to provide any confidence that measurement as a physical process is providing reliable information about the world: if there is really a physical collapse at some point in the process of measurement and conscious awareness there is [a wavefunction collapse](https://iai.tv/articles/quantum-mechanics-works-but-it-doesnt-describe-reality-auid-3461), we should be able to say more about the nature of this collapse, when it happens, and how the specific observed outcome comes about. Recent developments in measurement theory have given us a good quantitative understanding of how systems interact with measurement devices, but this on its own is not enough to resolve the problem, because it is not the interaction between the system and the device that we observe—what we observe is some specific individual outcome, and thus more than anything else it is essential to understand where those individual outcomes come from.
+
+It is helpful to separate proposed solutions to this problem into two main classes. The “unitary-only” interpretations get rid of the collapse and refrain from adding anything else to the formalism of quantum mechanics: the only thing that exists is the wavefunction and its linear evolution according to the Schrodinger equation. Whereas the “primitive ontology” interpretations add something to the unitary formalism—either some kind of precisely formulated collapse postulate, as in the [spontaneous collapse approaches](https://plato.stanford.edu/entries/qm-collapse/), or some set of “hidden variables,” as in the [de Broglie-Bohm interpretation](https://plato.stanford.edu/entries/qm-bohm/).
+
+[![Quantum measurement thumbnail](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Quantum-measurement-thumbnail.webp)
+
+SUGGESTED READING
+The many answers to the quantum measurement problem
+By Mario Barbatti](https://iai.tv/articles/the-many-answers-to-the-quantum-measurement-problem-auid-2871)
+
+The unitary-only approaches are attractive because they require no alterations to the existing quantum formalism, but it turns out that they struggle to give an account of measurement which respects the role we need it to play in the epistemology of the theory. For example, the Everett, or [Many-Worlds interpretation](https://iai.tv/articles/david-deutsch-there-is-only-one-interpretation-of-quantum-mechanics-auid-3139), is a unitary-only approach which posits that every possible outcome of every measurement really occurs. That is, when a quantum measurement is performed, a branching process ensues and the person performing the measurement branches into multiple copies, each existing within their own distinct quasi-classical reality and seeing a different outcome to the measurement.
+
+The difficulty here lies in what we say about probabilities. If every possible outcome of every measurement really occurs, you might naturally think that the only sensible probability to assign to these outcomes is “1,” so it’s hard to understand what it means when quantum mechanics predicts probabilities like 0.3 and 0.6 in this context. Moreover, nearly all of the predictions of quantum mechanics take the form of probabilities like this, so if we can’t understand what such predictions could even mean within the Everett interpretation, it looks as though no measurement could ever count as either verifying or falsifying the predictions of the theory, so it’s hard to understand how we could ever get evidence for quantum mechanics in this context.
+
+Moreover, here it must be emphasized that this difficulty does not remain confined to prototypical “quantum” measurements in specialized laboratories. For one of the predictions of quantum mechanics is that for any classical object, there is always some probability that it will undergo quantum tunnelling, meaning that it will fail to obey the usual laws of classical mechanics, and so it will show up where it shouldn’t. Now, this probability is so vanishingly small that we are usually quite safe to simply assume that such a thing will never happen. But the fact that the probability is small will not help us if we do not have a justification for interpreting that number as a probability in the first place. So if the Everettian probability problem cannot be solved, then in an Everettian context we would have no good reason to expect classical macroscopic objects to obey the usual classical regularities, because they could equally well just tunnel to a random location! This means that in the Everettian context, if we cannot solve the problem of quantum measurement that will undermine not only our knowledge of quantum mechanics, but also very large swathes of our empirical knowledge of the world in many different regimes.
+
+\_\_\_
+
+This issue is not just confined to quantum mechanics.
+
+\_\_\_
+
+Another class of unitary-only interpretations which face similar problems is the observer-relative approaches, such as relational quantum mechanics. These interpretations seek to solve the measurement problem by supposing that physical facts are all relative to an “observer” or a physical system. And one important consequence of this commitment is that in such an interpretation, there cannot possibly be any absolute fact of the matter about the relationship between facts relativized to one “observer” and facts relativized to a different “observer,” because any such fact must itself be relativized to some other observer. What this means is that when you and I try to communicate about the results of our experiments, it cannot be true in an absolute sense that you succeed in learning what I have really seen in my experiments. It may be true relative to some third observer that it looks as though you succeed in learning what I have really seen, but, ultimately, there is no fact of the matter about whether communication can ever succeed.
+
+This is worrying, because a central motivation for an interpretation like this is the idea that quantum mechanics should be correct within the facts relative to any observer. And yet these interpretations also have the consequence that I cannot actually get any information about the facts relative to any other observer—at best I can get information about the facts relative to another observer *relative to me*, so in the end I am always stuck within a single perspective. Thus these interpretations are committed to the claim that we should believe a variety of substantive claims about regimes of the world that we cannot possibly obtain any evidence about—so, much like in the Everett case, they appear to undermine their own central claims.
+
+And again, this issue is not just confined to quantum mechanics. For in these interpretations, the same reasoning applies for any communication whatsoever, so not only are we unable to get information about whether the world, as witnessed by other observers, obeys quantum mechanics, we also can’t get information about whether the world, as witnessed by other observers, obeys thermodynamics or Newtonian mechanics or any other scientific theory. So, once again, our empirical knowledge of the world at large seems to be undermined.
+
+\_\_\_
+
+There are substantive difficulties along either of these paths, so it is also possible that this is an indication that some different kind of route altogether is needed.
+
+\_\_\_
+
+Given these severe epistemic difficulties, it may be tempting to put aside the unitary-only approaches and turn to the primitive ontology approaches instead. The good news is that primitive ontology approaches don’t seem to face the same kind of difficulties with regard to the role of measurement. But the bad news is that they have a major stumbling block. For ordinary quantum mechanics is really only a special case of a more developed theory called [quantum field theory](https://plato.stanford.edu/entries/quantum-field-theory/), and at present none of these approaches appear capable of reproducing [all of quantum field theory](https://iai.tv/articles/is-mathematical-rigour-key-for-scientific-certainty-auid-2884). And we surely cannot accept an interpretation of quantum mechanics that misses out a large chunk of the theory’s most important applications, so although efforts continue, it remains quite unclear that the primitive ontology approaches can work in the long run.
+
+Thus it appears that we are in a somewhat precarious situation with regard to our understanding of quantum mechanics. On the one hand, the unitary-only approaches appear to undermine not only our knowledge of quantum mechanics but our broader scientific knowledge too. On the other hand, there is a significant question mark over whether any of the primitive ontology approaches can ultimately work. So at this time, we still don’t seem to have any successful interpretation of the theory which is unambiguously capable of telling a satisfactory story about the way in which measurement gives us knowledge of the world.
+
+Of course, this situation might eventually work itself out—maybe someone will come up with a more compelling way of resolving the Everettian probability problem, or maybe someone will figure out how to extend one of the primitive ontology approaches to all of quantum field theory. But there are substantive difficulties along either of these paths, so it is also possible that this is an indication that some different kind of route altogether is needed.
+
+This is a challenge, but it is also an opportunity. Taking these epistemic considerations into account reveals that the constraints on [an acceptable interpretation of quantum mechanics](https://iai.tv/video/the-collapse-of-the-wave-function) are stronger than one might originally have imagined, and still more constraints come from the need to accommodate quantum field theory. Finding even one interpretation of the theory that satisfies all of these desiderata is actually a difficult and highly constrained problem, and what that means is that when we find something that achieves this, we will be able to be reasonably confident that we are on the right track.

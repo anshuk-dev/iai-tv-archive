@@ -1,0 +1,123 @@
+---
+title: "Too much choice makes us less free"
+subtitle: "Liberalism has left us paralyzed by choice"
+author: "Barry Schwartz"
+date: "12th November 2025"
+article_id: "3416"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,263 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/25-11-12.too-much-choice.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/too-much-choice-makes-us-less-free-auid-3416"
+---
+
+# Too much choice makes us less free
+
+*Liberalism has left us paralyzed by choice*
+
+**By Barry Schwartz** | *12th November 2025* | *Read time: approx. 11 mins* | *2,263 words*
+
+![Too much choice makes us less free](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/25-11-12.too-much-choice.ata.webp)
+
+---
+
+*A core value of Western liberal democracy is freedom, and we tend to assume that the more choice we have, the freer we are. But that’s a dangerous illusion, argues psychologist Barry Schwartz. There quickly comes a point when too much choice—over what we eat, what jobs we do, who we date—leads to paralysis, anxiety and misery. Yet we measure economic progress by how many new choices the market churns out. The million-dollar question, Schwartz urges, is whether we can we reintroduce healthy limits into our lives without undermining liberal-democratic ideology itself.*
+
+**Alasdair Craig: Should we strive for the best in life, or is doing so making us miserable?**  
+  
+Barry Schwartz: Well, it seems sensible that we should try for the best in life. But as an empirical matter, when we try for the best in life our standards for what counts as best keep going up, and even though we do better on Tuesday than we did on Monday, we don’t do as well as we expected to do. So we end up feeling disappointed.   
+  
+So the question is whether your focus should be on how well you’re doing objectively (how big is your bank account?) or how well you’re doing subjectively (how good you feel about how big your bank account is?). And there’s a trade-off, because often the better you do objectively, the worse you feel subjectively—at least in a world where there are so many options that you convince yourself that something other than what you chose would have worked out better.  
+  
+So, you know, I'm a striver. I try to get excellent things and do excellent things, but I also know that if I had very high standards, I would never have published a word, let alone a book, because I know what's wrong with everything I write as I write it.  
+  
+**AC: We tend to think that a good society is one which maximizes the amount of choice that we have. But you think that having too many choices makes us unhappy. Why?**
+
+BS: [Western democratic societies deeply value freedom](https://iai.tv/articles/slaves-to-freedom-slavoj-zizek-auid-2616), and you [don’t have freedom unless you have choice](https://iai.tv/video/democracy-freedom-and-choice). And it seems that the more choice you have, the more freedom you have. You can always ignore options if you don’t need them, so surely adding options will make you better off. So, every new thing you add improves somebody’s life, and makes nobody’s life worse off. What could be better than that?
+
+\_\_\_
+
+The better you do objectively, the worse you feel subjectively
+
+\_\_\_
+
+That is logically compelling. But psychologically, what happens when there are lots of options is that people feel that they ought to get the best one out there. And you know, that’s feasible, maybe when there are half a dozen choices out there, but when there are 100 out there, it’s not feasible. And in the digital age, when there are thousands out there, it is certainly not feasible.  
+  
+And this produces two major problems. First, people end up not being liberated by all the options, but rather paralyzed—they can’t pull the trigger. If they just spend another two minutes looking, they’ll find something better. And second, when they do choose, and they choose well, they are still disappointed with the result, because somewhere out there was an option that would have suited them even better. So again, you end up doing better objectively with all these options but feeling worse about how you’ve done.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/Untitled-3.webp)
+
+SUGGESTED VIEWING
+In search of freedom
+With Julian Baggini, Hilary Lawson, David Aaronovitch, Hannah Dawson, Paul Broks](https://iai.tv/video/in-search-of-freedom)**  
+  
+There are [hundreds of studies in all kinds of domains showing that when you offer too many options, you end up paralyzing people](https://doi.org/10.1145/1571941.1572030) and disappointing them. And if you’re going to ask me next, how many is too many? The answer is, we don’t really know. It surely depends on the individual and it depends on the domain in question. We may like lots of options in some domains and be happy with many fewer in other domains.  
+  
+**AC: Have smartphones made things a lot worse?**  
+  
+BS: Imagine that you’re looking to buy a new pair of jeans, and you go into a department store and they have four or five styles, and you try them on, and none of them is quite perfect. And you ask yourself, should I get in my car and travel across town to another department store and see what they’ve got? And you probably answer, no, one of the ones I’ve tried will be good enough.  
+  
+Well, in the digital age, you don’t have to drive across town to the department store. Without moving an inch you can look at thousands of different kinds of jeans. Since the search costs are so reduced, the temptation to just keep on looking and looking and reading reviews and looking some more is so powerful. So people have expanded what seems to them to be a reasonable number of options to be examining. So that’s what’s made the problem worse. And you’re getting feedback from everywhere, about the choices other people are making. It’s sort of helpful to know that your friend bought these jeans, but it’s not quite so helpful to know what jeans 2,000 different people bought. It leads to uncertainty, lack of confidence, confusion and, ultimately, disappointment.  
+  
+When I’ve talked about this to young audiences there’s almost always somebody who raises a hand afterwards and says, “This is an old people’s problem. Young people have mastered the technology, and for us, it’s second nature.” My reply is that that must explain why young people are experiencing an epidemic of depression and anxiety, because you guys are doing so well handling all this choice, that it’s just an old person’s problem. That usually silences my young critics.  
+  
+**AC: Is the problem here too much choice, rather than the ethic of always striving for the best? Would maximizing would be OK if we just had fewer options to choose from?**  
+  
+BS: The ethic of striving for the best and having lots of options are closely related. So, sure, if all you’ve got is two brands of jeans then there’s no difference between maximizing (seeking the best) and satisficing (seeking good enough). The distinction gets bigger as the size of the option set gets bigger.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/245.After-the-west.webp)
+
+SUGGESTED VIEWING
+After the West
+With Yanis Varoufakis, Zoe Strimpel, S. Y. Quraishi, Cenk Uygur](https://iai.tv/video/after-the-west)**  
+  
+But what’s really interesting is that we now have evidence—it’s not mentioned in my book, [*The Paradox of Choice*](https://works.swarthmore.edu/fac-psychology/198/), because it’s too new—that [when the number of options available increases, people become more inclined to maximize](https://doi.org/10.1177/01461672211064112). So when there are only a few, you’re not asking yourself, “What’s the best I can do?” But when there are dozens or hundreds, you are increasingly asking yourself, “What’s the best I can do?”  
+  
+**AC: Isn’t there a sense in which what makes us happy is not so much the outcome of our striving for the best, but the striving itself—especially in our careers, in our relationships with others, and so on? One way of putting this would be to say that it’s the journey, rather than the destination, that makes us happy and that makes life meaningful, and isn’t the journey made more meaningful if we’re always striving for the best?**  
+  
+BS: There’s a distinction here that I think it’s important to keep in mind. You can be striving for the best, say in your work or in your social relations or your hobbies, while also realizing that you will never achieve the best—that perfection is a guide, but it’s unattainable. Nonetheless, it’s what gets you out of bed every morning and working hard. Still, eventually, you let it go, even if what you’ve done is not perfect, and you move on to the next task. So, if you have very high standards and you know that you can’t meet them, then I think you have the best of both worlds, because the high standards don’t stop you from choosing and don’t stop you from sharing your work with the world. But if you have very high standards that you actually expect to meet, then it’s a whole different story.
+
+\_\_\_
+
+People end up not being liberated by all the options, but rather paralyzed.
+
+\_\_\_
+
+Michael Jordan had unbelievably high standards that he imposed on himself and on his teammates, but he would be the first to tell you that he never played a perfect game of basketball. On the other hand, he got an enormous amount of joy out of playing as well as he played, and so he knew that what he aspired to was not achievable, and as a result, what he actually achieved gave him enormous satisfaction. I worry, particularly when it comes to consumer goods, that we have come to expect that what we aspire to should be achievable, and that’s the recipe for paralysis and misery.  
+  
+I think looking for good enough is the way out of this morass, and it requires that you ask yourself, well, why am I buying this new car, for example? What do I want it to accomplish? How do I want it to change my life? And so you establish standards, and then you look at one car at a time, and as soon as you find one that meets your standards, you pick it, and you don't worry about things you haven’t examined. I think that is really the way out of the problem of having very high standards in a world with almost unlimited choice.
+
+**[![John Gray and the end of the Wests utopian dream](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/John-Gray-and-the-end-of-the-Wests-utopian-dream.webp)
+
+SUGGESTED READING
+John Gray and the end of the West's utopian dream
+By Andy Owen](https://iai.tv/articles/john-gray-and-the-end-of-the-wests-utopian-dream-auid-3266)**  
+  
+**AC: Yeah, and just to broaden this, we're not just talking about choosing jeans or cars. We’re talking about relationships, careers, all this kind of thing.**  
+  
+BS: Yes. Take relationships. With online dating, it seems that what is happening is that people pass up reasonable prospects, because [with just one little swipe, they can look at another alternative](https://iai.tv/articles/what-dating-apps-get-wrong-about-your-love-life-auid-3119). Why compromise? Why settle for anything less than perfection? And I think a consequence is that [you have fewer lasting relationships](https://iai.tv/video/surviving-the-digital-age), because as soon as you have a spat or your partner bores you or something, you know, there’s a whole set of people you can look at who might be better.  
+  
+**AC: According to one study you did, [people who maximize tend to get higher paying jobs, but they’re more anxious than people who make do with good enough](https://doi.org/10.1111/j.1467-9280.2006.01677.x). But is there a danger that in studies like this, psychologists just find what they’re testing for? If we were to test for, say, enjoyable adrenaline rushes, feelings of exhilaration, the dopamine hits that you get from success, maybe we’d find that these things are higher in those who strive for the very best. So while they might be more anxious, they’ve got this psychological upside as well. Do we therefore need to be more fine-grained with the emotions that we’re testing for when we compare satisficing with striving for the best?**  
+  
+BS: So the answer is absolutely, we need to be more fine-grained. To say that it’s an unmitigated bad thing to have very high standards—surely that’s not true. And in addition, our focus has been on what having these high standards does to you, the individual who has them. There’s another question, which is, what does it do to the world? And it’s quite possible that it is people who have very high standards who make the biggest contributions to the world, even if they themselves are miserable because the contributions aren’t as big as they'd hoped for. It’s a small price to pay to get a COVID vaccine out of people who are disappointed that they couldn’t make one that was even more potent, right? So if everybody in the world settled for good enough, the world might be worse.
+
+\_\_\_
+
+It’s the human condition interacting with a market system that makes unlimited options available. 200 years ago, people didn’t have this problem
+
+\_\_\_
+
+**AC: Is there a solution to the problems we’ve been talking about, or is it just part of the human condition to try to maximize choice and to be miserable because of it?**  
+  
+BS: I don’t think it's quite the human condition. It’s the human condition interacting with a market system that makes unlimited options available. 200 years ago, people didn’t have this problem. I suspect it didn’t even occur to people that their job was to get the best possible everything.   
+  
+We could have made different decisions, as other cultures have, about how to organize our lives, what to prioritize, and so on. And I think the problem that I write about caught all of us unawares, because it seemed so intuitive that offering more and more options to people would make everyone better off. How could it not?   
+  
+**AC: If we move to settling for good enough and embracing constraints that limit our freedom, do we have to give up on some of the ideological underpinnings of liberal democracy?**  
+  
+BS: That is the million-dollar question. If they made me the king, I would make decisions about [where choices need to be constrained and where they need to be opened up](https://doi.org/10.1080/17439760.2021.2016908), and I would impose that on everybody, and it wouldn’t suit everybody, but hopefully it would suit some people. But when you live in a pluralistic world, people are going to have very different ideas about what should be constrained and what shouldn’t. And the result is that you sort of fight it out.  
+  
+Figuring out which constraints will enable people to live fulfilling lives is an incredibly hard question, and I certainly don’t have the answer. I would like, however, for that to be a subject of discussion, and it largely isn’t, because people just assume that the more options you throw out there, the more you improve social welfare. And that’s not true. So let’s have that conversation as a political matter and a moral matter, and not just, you know, studies of people buying jeans!

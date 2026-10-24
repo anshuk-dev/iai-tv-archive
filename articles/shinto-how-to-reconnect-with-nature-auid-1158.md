@@ -1,0 +1,81 @@
+---
+title: "Shinto: How To Reconnect With Nature"
+subtitle: "Shinto could help us build a sustainable culture."
+author: "Edward McDougall"
+date: "18th October 2018"
+article_id: "1158"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,606 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Itsukushima-Gate.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/shinto-how-to-reconnect-with-nature-auid-1158"
+---
+
+# Shinto: How To Reconnect With Nature
+
+*Shinto could help us build a sustainable culture.*
+
+**By Edward McDougall** | *18th October 2018* | *Read time: approx. 8 mins* | *1,606 words*
+
+![Shinto: How To Reconnect With Nature](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Itsukushima-Gate.webp)
+
+---
+
+Shinto shrine gates (*t**orii*) are ubiquitous in western representations of natural Japan. Have we ever wondered why we are fascinated by these images – because of the beauty of this ancient architecture? The natural scenery where they are located? Or are we indeed fascinated by a sense of mystery, the harmony that forms between these human constructions with nature?
+
+Western philosophy has broadly taken up a Hegelian view, which conceives religion as progression away from nature worship and polytheism towards monotheism and ultimately secularism as a society develops. Central to this is an assumption that nature worship and modernisation are in opposite positions and the former must be abandoned to achieve the latter. Modern technological society indeed seems to have distanced us from nature with its apparent control over natural forces. Nature, according to Martin Heidegger in “The Question Concerning Technology”, is taken as resources and evaluated in terms of human utility. However, environmental issues in recent years have made us realise that nature is not backward or merely to be utilised – it is crucial to the sustainable development of a modern society. This calls for us to review the way we live, how we should see nature and our responsibility to it.
+
+\_\_\_
+
+"In contrast to Greek polytheism, Shinto is not centred on a fixed pantheon of gods."
+
+\_\_\_
+
+Shinto (as Folk-Shinto in this article) is the very religion these *torii* embody. With its ancient origin, its belief in the myriads of gods and practices in relation to nature, it fits well in the western preconception to be dismissed as primitive. However, Shinto continues to occupy the centre part of spiritual life in the highly modernised society of Japan. Shinto holds that nature has a sense of power and presence that is inescapable and beyond human control or understanding, but sensible in our encounters with it. Its respect to the mystery of nature thus presents to us an alternative way of treating our relationship with nature.
+
+**The Spiritual Power of Nature**
+
+Abrahamic religions generally believe in a supreme being or a first cause standing over and above the natural world. In contrast, Shinto does not believe in such transcendental beings. Also in contrast to Greek polytheism, Shinto is not centred on a fixed pantheon of gods. The *Kojiki*, which is one of the bases of Shinto beliefs and rituals, is an eighth-century collection of ancient myths and legends. According to the *Kojiki*, there are “eight myriads” of (i.e. countless) *kami* (generally translated as gods or deities) in the world. Shinto worship also lacks physical representations of the *k**ami*: some *kami*, such as Amaterasu-ōmikami (the sun and queen of the *k**ami*), are presented as anthropomorphic, but many others do not have a human form.
+
+Indeed, Shinto *k**ami* arenot realities separate from the natural world of space and time; they are part of nature. In essence, Shinto is a sense of nature, or a way of seeing nature, which acknowledges the spiritual power of natural entities – *tama*. This spiritual power is not dualistically separate from matter. A tree, a mountain or a river – i.e. nature itself – embodies this spiritual power. Hence, these very natural entities are seen as sacred in Shinto.
+
+\_\_\_
+
+"The experience of the sacred of nature in Shinto can be understood through encounters with animals such as foxes."
+
+\_\_\_
+
+Worship in Shinto centres around shrines, which are generally attached to locations as a specific focus for this sense of the sacred. For example, shrines are built on Mount Fuji, where Konohanasakuya-hime (the female *kami* for cherry blossom) is said to reside. Many less prominent shrines are set up around entities such as the sacred trees, which are marked out by the *shimenawa* (a rope placed around the trunks). Shinto shrines therefore, as Thomas Kasulis argued in his *Shinto: The Way Home*, function as the “holographic entry points” into the whole sacred world. As each local shrine is connected to nature as a web of *k**ami*, the human world where these sacred sites are located thus, to Shinto, embodies an interconnected web of *k**ami* of the natural world.
+
+This interconnecting web of the sacred is further connected to human everyday life, as *k**amidana* (*k**ami* shelf) are set up in traditional Japanese homes as smaller shrines to worship the gods. In this way, these houses, like the *torii* or the *shimenawa* of the shrines, have come to connect to the web and mark the threshold of the sacred.
+
+**The Encounter**
+
+The experience of the sacred of nature in Shinto can be understood through encounters with animals such as foxes. Foxes represent Inari (the rice *k**ami*), and are said to be intelligent and have magical power in Shinto. Norinaga Motoori (an eighteenth century Japanese thinker) once explained why foxes are recognised as *k**ami*: Although they are vulnerable and usually overpowered by dogs, they are extraordinary in the way that they can accomplish the works which cannot be accomplished by humans. Hence, they are beyond human understanding. Similarly, everything (e.g. other animals, mountains, rivers, the sun, the moon) which possesses such extraordinary and mysterious qualities are also *kami*. Motoori’s view might have inverted the expected hierarchy as in western religions animals and other natural entities are generally under human dominion, either as food and labour or as a threat to be controlled. Ascribing religious significance to them means to place them above humans. Nonetheless, humans cannot deny the mysterious power of these natural entities – the spiritual power of nature. Experience with these entities defies human comprehension. It is exactly because of this mystery that these natural entities are recognised as *k**ami*.
+
+Motoori further regards the presence of the sacred in Shinto as awe-inspiring. This is because the human sense of sovereignty over nature is threatened, as these natural entities resist complete human understanding. On this, Kasulis comments that philosophy’s purpose, to Aristotle, was to root out wonder by reason and lead us from awe to understanding; Shinto, in contrast, acknowledges a sense of awe and retains the mystery of it. As Kasulis recounted, “the awe in feeling Shinto is not necessarily comfortable”, and there is even an element of fear. This is analogous to an encounter with, say, a tiger in the wild: although we are threatened by it, we experience a sense of beauty of and awe for nature.
+
+\_\_\_
+
+"It is undeniable that nature can be destructive and uncontrollable, but its destruction sometimes helps bring back the balance of the earth."
+
+\_\_\_
+
+An encounter with nature may also be experienced with our pets. Domestic cats, for example, still retain a sense of mystery. The continued fascination which we have for the cat has indicated our appreciation and respect for this sense of mystery. In fact, some cats are recognised as *kami* in Shinto.
+
+These examples show that in Shinto, we do not have to locate ourselves in the wild to encounter the sacredness of nature. Nature is sacred because of its extraordinariness and mystery. We recognise this and generate our awe and respect for it. Hence, we can experience the spiritual power of nature even at home, when we relate ourselves to natural entities. In this sense, nature is immanent, both spiritually and materially, in our lives.
+
+**Co-habiting** **with Nature**
+
+On a deeper level, Shinto’s respect towards nature is derived from the dependence of human life on nature. This can be understood from a well-known Shinto myth about Susanoo-no-Mikoto (the storm *k**ami*) and his sister Amaterasu-ōmikami (the sun *k**ami*). In contrast to Amaterasu, who is gentle and kind-hearted, Susanoo is an ambiguous figure in the *Kojiki*. Susanoo has destroyed Amaterasu’s shrines and driven her into hiding. As a result, he is expelled from heaven. Nonetheless, Susanoo then saves Kushi-nada-hime by killing Yamata-no-Orochi (the eight-headed serpent) and has become a hero.
+
+**[![alternative hedonism kate soper](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/alternative-hedonism-kate-soper.webp)
+
+SUGGESTED READING
+Alternative Hedonism 
+By Kate Soper](https://iai.tv/articles/post-consumerist-hedonism-auid-1146)**This myth shows that Shinto acknowledges the destructive aspect within nature, seeing it as necessary to be kept under control at times. This is seen in the rampage of Susanoo (as the storm) that drives Amaterasu (as the sunlight) away, and in the subsequent dispelling of the storm to restore the light of the sun. Yet, Shinto also acknowledges that such destructive forces have a positive side – as in the storm’s elimination of the evil presence, the eight-headed serpent. It is undeniable that nature can be destructive and uncontrollable, but its destruction sometimes helps bring back the balance of the earth. This inspires awe and is an inseparable part of nature’s mystery. While human and nature are interconnected, our life can be enriched by nature’s presence. However, failing to respect this can result in disaster for both humans and the earth, as seen in contemporary environmental crises.
+
+So what is our ethical responsibility to nature? Shinto does not give us a definite answer. It does not call for renouncing the anthropocentric control over nature or returning to the natural order. Neither is there a Shinto equivalent of the Ten Commandments prescribed for our morality. Yet in acknowledging the irreducible mystery and power of nature, Shinto can transform the way that we see nature and thus redress the basis of our relationship to it. While the *kami* in Shinto are not necessarily human-like, an anthropomorphic view of respect for nature (or Peter Singer’s idea of “the expanding circle”), which extends human rights towards non-humans, does not apply. Our examples above have rather shown it is the sense of otherness in nature, which violates human sovereignty, that is intrinsic to the presence of nature and that requires our respect. If we take this Shinto view, perhaps we can generate new ideas in treating issues like human interference in nature, sustainability in building and city development, animal domestication and captivity, etc. I believe that Shinto can indeed be profoundly relevant to the contemporary global situation.

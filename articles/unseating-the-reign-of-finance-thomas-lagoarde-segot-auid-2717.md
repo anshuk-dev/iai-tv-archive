@@ -1,0 +1,151 @@
+---
+title: "Unseating the reign of finance"
+subtitle: "We should beware bankers bearing gifts"
+author: "Thomas Lagoarde-Segot"
+date: "19th January 2024"
+article_id: "2717"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "2,131 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-01-19-rentier-caps-tn.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/unseating-the-reign-of-finance-thomas-lagoarde-segot-auid-2717"
+---
+
+# Unseating the reign of finance
+
+*We should beware bankers bearing gifts*
+
+**By Thomas Lagoarde-Segot** | *19th January 2024* | *Read time: approx. 11 mins* | *2,131 words*
+
+![Unseating the reign of finance](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-01-19-rentier-caps-tn.webp)
+
+---
+
+*We tend to view the particular financial norms of our time fatalistically, as an inevitable reality of our circumstances. But the ways in which economic activity creates wealth change over time – economist and sustainable finance specialist Thomas Lagoarde-Ségot argues that the concept of the accumulation regime teaches us that the debt-loaded, extractive system that currently shapes our lives won’t last forever, and other options are available.*
+
+Financial markets and banking institutions have become the command center of the global economy. The decisions of governments, companies and individuals are guided by a gigantic network of interconnected financial balance sheets on millions of computers, in which money acts as a universal language. For many policymakers, as well as ordinary citizens, there is nothing more to economic reality than the information provided by this network, which seems, at first glance,  capable of revealing the real and only truth about the economy. This truth, in turn, shapes our destiny.
+
+While it would be very difficult to envisage running an economy without a financial system, the current structure of finance and the economy is, however, idiosyncratic. Financial interests, institutions and narratives change over time. Understanding this is vitally important for understanding the global economy.  When it comes to finance, not every Euro is created equal, and recognising that our current system is but one setup of infinite possibilities opens the door to change.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-11-17-The-economics-of-almost-everything.dwk.webp)
+
+SUGGESTED VIEWING
+The economics of almost everything
+With Daniel Markovits, Martin Wolf, Madeleine Pennington](https://iai.tv/video/the-economics-of-almost-everything)
+
+Since the 1970s, a group of economists known as the Regulation School have looked at how institutional arrangements connect financial systems and the rest of the economy.  This resulted in Robert Boyer’s concept of an accumulation regime. An accumulation regime is defined by Boyer as ‘a set of regularities ensuring a general and relatively coherent progression of capital accumulation’ – or the conditions that ensure that capital can accumulate, creating profit.
+
+Regulation school economists have pointed out that the Fordist accumulation regime (where capital accumulation was accrued primarily through commodity trade) stands in sharp contrast with the finance-led accumulation regime (where profits accrue increasinglythrough financial channels) which has been dominant in most advanced economies since the 1980s and which most of us have come to consider a natural.
+
+\_\_\_
+
+As a social compromise between labour and capital resulted in the distribution of increasing productivity gains between workers and the owners of assets, or rentiers.
+
+\_\_\_
+
+One key lesson is that the institutional arrangements governing the relations between the financial system and the economy are temporary, and yet they have profound implications for both social and economic welfare. They can determine our wealth and quality of life – as such, we need to understand their impact.
+
+Consider what happened at the Mount Washington Hotel, during the June 1944 Bretton Woods conference. The 700 global delegates, led by Harry Dexter White and John Maynard Keynes, agreed that some unseen international monetary and trade system had to be devised that would reverse the world’s fall into poverty and conflict. They envisioned a global financial architecture which, although not perfect, could arguably be considered as one of the most enlightened events of human history, as it sought to deliver prosperity for all countries.
+
+[![TN montsterthing](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/TN-montsterthing.jpg)
+
+SUGGESTED READING
+How the free market is failing
+By José Miguel Ahumada](https://iai.tv/articles/how-the-free-market-is-failing-jose-miguel-ahumada-auid-2679)
+
+One important feature of the Bretton Woods system is that it ‘euthanized rentiers’, radically limiting their power by restricting international financial flows and speculation, while giving democratically elected governments ample policy space to pursue domestic objectives, such as full employment and price stability.
+
+At the same time, productivity gains were closely tied with wage increases, as a social compromise between labour and capital resulted in the distribution of increasing productivity gains between workers and the owners of assets, or rentiers. Overall, capital markets were in the backseat, and much of the corporate financing required for domestic investment was provided by public and private banks, through credit creation.
+
+The Fordist accumulation regime has left us with an impressive welfare legacy. It is hailed by many as the ‘Golden Age’ of capitalism, as it delivered steady household income increase, full employment, decreasing inequalities, and moderate inflation levels for several decades.
+
+\_\_\_
+
+It became more advantageous to pour money into finance rather than work.
+
+\_\_\_
+
+However, for both cyclical (such as the 1973 oil crisis) and structural reasons (such as the accumulation of trade deficits in the US and the slowdown in productivity gains), the Fordist regime collapsed in the 1970s, giving way to a new ‘finance-led’ accumulation regime.
+
+This shift, of course, was ideologically driven. But Regulation economists also point out the pivotal role of global macroeconomic imbalances caused by the policies of the United States, which was the anchor of the global monetary system. In fact, when the American economy began posting the ‘twin deficits’ of both trade deficits and a public sector deficit, the US Federal Reservesharply raised its interest rates to drain global capital flows towards Wall Street, known as the ‘Volker Shock’. A massive financial deregulation programme was carried out at the same time. This set the conditions for financiers to develop increasingly complex financial products for their domestic and international clients.  In addition to this, capital gains were  no longer taxed, and the top income tax rate was greatly decreased, providing additional liquidity to financial markets – see figure 1 below. It became more advantageous to pour money into finance rather than work.
+
+**Figure 1 The switch to the finance-led accumulation regime in the US**
+
+*![Rentiers fig1](assets/Uploads/_resampled/ResizedImageWzgwMCwyOTNd/Rentiers-fig1.png)*
+
+*Source: International Monetary Fund (left panel), Federal Reserve of St Louis (right hand side).*
+
+Following the American example, Western economies began their journey into a new regime of accumulation, one in which economist Leo Krippner describes profits accruing increasingly‘through financial channels rather than through trade and commodity production.’
+
+Examples of such financial circuits abound. Consider, for instance, what typically happens during a ‘leveraged buy-out’ (LBO) operation. The process begins when a bank extends a loan to an investment fund. The investment funds then use the proceeds to acquire a target corporation, dismantle it, and sell the sub-entities at a profit. While the dismantling of the corporations’ assets has reduced production capacities, both the investment fund and the bank make a profit.
+
+\_\_\_
+
+Importantly, the profit generated through these means necessarily results in indebtedness, increases inequality, and does so to the detriment of the ‘productive’ economy.
+
+\_\_\_
+
+Their profit is, however, purely financial. It is not to backed by increased production and sales, but hinges upon a subjective, fictitious market valuation by other financial actors. Leveraged stock repurchase programs are another classic example. Here, a listed corporation losing market shares borrows from a bank and uses the proceeds to purchase its own equities in secondary markets. In such an operation, bank credit does not finance production, but serves to inflate stock market prices, as well as the income and net wealth of the firms’ owners and managers. Importantly, the profit generated through these means necessarily results in indebtedness, increases inequality, and does so to the detriment of the ‘productive’ economy. These financial profits, which are not tied to any real production, then circulate at a tremendous speed in global capital financial markets, through a long, opaque, and increasingly complex chain of intermediation.
+
+As these policies were adopted worldwide, the reign of the rentier has come to be seen as ‘the new normal’. This dominance is reflected in global macroeconomic data. Consider Eurozone countries as an example. As shown in figure 2, between 2000 and 2022, the stock of loans held by Eurozone monetary financial institutions has shown up as an increasing multiple of both macroeconomic income (left figure) and productive investment (right figure).
+
+**Figure 2 The financialization regime in the Eurozone, 1999-2022**
+
+*![Rentiers fig2](assets/Uploads/_resampled/ResizedImageWzgwMCwyOTNd/Rentiers-fig2.png)*
+
+*Source: European Central Bank and author’s calculations.*
+
+As shown in Figure 3, during that same period the Eurozone GDP to total financial assets ratios held by financial corporations has decreased steadily. In fact, the value of monetary financial institutions equities has increased much faster than that of non-financial corporations since 2010.
+
+**Figure 3 The financialization regime in the Eurozone, 1999-2022**
+
+*![Rentiers fig3](assets/Uploads/_resampled/ResizedImageWzgwMCwyOTNd/Rentiers-fig3.png)*
+
+*Source: European Central Bank and author’s calculations.*
+
+Overall, the financial sector has grown faster than the whole economy, and financial revenues have grown faster than non-financial revenues. Neoliberal economists and lobbies would argue that there is nothing fundamentally wrong with this situation. After all, economic growth has remained positive throughout the period, and much of this growth is due to financial sector activities. What is wrong with developing a comparative advantage in financial services? Growth is growth, no?
+
+The problem of financial accumulation regimes, however, is that financial value cannot increase indefinitely, as you eventually run out of other people’s productive work to profit from. Economist Hyman Minsky showed that the procyclical behavior of bank lending amplifies the business cycle. During upswings, profit-seeking firms, and banks take-on excessive leverage levels, hoping that unlimited capital gains will eventually erase their growing debt. While this behaviour may seem irrational, it is inscribed in the rules of the game. As Citigroup’s CEO Chuck Prince notoriously put it in 2007: “*as long as the music is playing you’ve got to get up and dance*”.  Eventually though, the music stops as a minor event often suffice to expose the system’s fragility and trigger a systemic financial crisis. In fact, all recent crisis episodes (such as the 1997-1998 Asian crisis, the 2008 subprime crisis or the recent Eurozone crisis) have one thing in common: their seeds were sown in the euphoric period that preceded them.
+
+\_\_\_
+
+Frequent crisis episodes also meant that government intervention was necessary to bail out the financial sector, with the resulting automatic increase in public debt then being instrumentalized to slash government spending, social services, and further extend the realm of the capitalist sector – quite ironically, in the name of ‘sound’ financial management.
+
+\_\_\_
+
+Global data shows that the finance-led accumulation regime is prone not only to higher income inequalities, but also to systemic crises – see figure 4.  We can see this in the tally of banking and financial crises, which has been much higher during the finance-led accumulation regime than in the previous phase.
+
+Inequalities have also risen systemically, as a greater portion of income gains accrued to rentiers as well as organizations and territories connected to financial centres such as the City of London, New York, or Shanghai, while the rest of the planet - especially the Global South - is marginalized. Frequent crisis episodes also meant that government intervention was necessary to bail out the financial sector, with the resulting automatic increase in public debt then being instrumentalized to slash government spending, social services, and further extend the realm of the capitalist sector – quite ironically, in the name of ‘sound’ financial management.
+
+**Figure 4 Global inequalities and crisis vulnerability under the finance-led accumulation regime**
+
+*![Rentiers fig4](assets/Uploads/_resampled/ResizedImageWzgwMCwyOTZd/Rentiers-fig4.png)*
+
+*Source: income share data is taken from the [World Inequality Database](https://wid.world/). Tally of financial crisis data is taken from [Harvard Business School](https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx).*
+
+Are we doomed to be captives of the reign of the rentier? Not necessarily. First, from a Regulation School perspective, no accumulation regime should be regarded as the endpoint of economic history. Just like its Fordist predecessor, the finance-led accumulation regime is a temporary geopolitical, legal, and social construct, and will sooner or later come to an end.
+
+\_\_\_
+
+One road ahead blends financial dominance with, as in the interwar years, economic and social insecurity leading up to a resurgence of the nationalist sentiment, protectionism, and authoritarian politics.
+
+\_\_\_
+
+While no one can of course predict what the near or distant future will look like, we may put forth that our economies and societies are currently standing at a crossroad. One road ahead blends financial dominance with, as in the interwar years, economic and social insecurity leading up to a resurgence of the nationalist sentiment, protectionism, and authoritarian politics.
+
+In this scenario, the finance-led accumulation regime would remain unchallenged, amidst geopolitical fragmentation, and the perpetuation of an extractive model that would worsen the climate crisis.
+
+[![related-video-image](https://iai.tv/assets/Uploads/22-04-27.Yanis.ata.webp)
+
+SUGGESTED VIEWING
+The new ruling class
+With Yanis Varoufakis](https://iai.tv/video/the-new-ruling-class-yanis-varoufakis)
+
+An alternative road would lead towards the emergence of a new social and ecological accumulation regime, through the adoption of new economic policies, seeking to shift towards a decarbonized, inclusive, and more democratic economic model. In recent years, progressive economists have come up with several bold policy proposals, including global taxes on speculative financial transactions, sovereign money creation, targeted credit policies, ecological accounting, aggressive anti-trust policies, local complementary currencies... Such reforms might, however, necessitate change of the same scale of the 1944 Bretton-Woods Agreements. At the time of writing, however, the global appetite for enhanced multilateralism seems lacking. If the 20th century were to repeat itself, we might end up having to face a global calamity to be convinced that the latter road is more desirable than the former.
+
+But who knows? It might not be too late for what Keynes called ‘madmen in authority’ to rise to the challenges of our time. If followed by bold and concrete action, UN Secretary General Antonio Guterres’ recent call for urgent reforms of the global financial architecture might be a step of the right direction.
+
+Note: I thank Harry Carlisle and Nina Lyon for their comments on an earlier draft and their editorial assistance.

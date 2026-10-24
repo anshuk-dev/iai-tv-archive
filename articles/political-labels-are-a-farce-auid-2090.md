@@ -1,0 +1,49 @@
+---
+title: "Political labels are a farce"
+subtitle: "We are thinking of politics all wrong"
+author: "Hyrum Lewis"
+date: "31st March 2022"
+article_id: "2090"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,238 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-design1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/political-labels-are-a-farce-auid-2090"
+---
+
+# Political labels are a farce
+
+*We are thinking of politics all wrong*
+
+**By Hyrum Lewis** | *31st March 2022* | *Read time: approx. 6 mins* | *1,238 words*
+
+![Political labels are a farce](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-design1.webp)
+
+---
+
+*Any educated person would laugh at the idea of an all-encompassing, scientific, medical recreational or business ‘spectrum’. Yet, for some reason, our society is obsessed by the ‘left-right’ political divide. This dichotomy only reinforces our tribal divisions whilst unhelpfully allowing the same term to refer to opposites, and opposite terms to refer to the same*. *It is time to abandon these labels and by extension, the political spectrum altogether argues Hyrum Lewis.*
+
+One of the main reasons that public discourse is so unproductive and hostile these days is that we are thinking about politics all wrong. Our society is under the mass delusion that there is just one issue in politics and that everyone can be placed on a left-right spectrum depending upon where they stand on a given issue: “communists” on the far left, “progressives” and “liberals” on the centre left, “moderates” in the middle, “conservatives” on the right, and “fascists” on the far right. According to the conventional wisdom, although it seems like there are many positions in politics, a single philosophy or principle (such as “change,” “realism,” or “social justice”) underlies them all—one issue to bind them together.
+
+This sounds like a ring of power in a Tolkien novel, as it should since it is equally fictitious. Although nearly everyone believes in this “spectrum” model of politics, there is no evidence that every political position of left or right grows out of one underlying master issue. In politics, as in every other complex realm, there are thousands of issues and an infinite number of ways to think about them. Yet many of our news outlets, social media commentators, public intellectuals, and even academics are convinced that there is simply one and frame nearly all political discussion around this assumption.
+
+Since our dominant political paradigm is erroneous, the labels and concepts we use to discuss and think about politics are misleading as well, causing widespread misunderstanding and hostility. We have become incapable of seeing a political reality that is multidimensional because we are captivated by a model that is unidimensional.
+
+Notice, for instance, how the “right wing” label has done nothing but cause confusion when applied to the Republican Party. When the party moved in a small-government direction under Goldwater, it was called a move “to the right”; when the Republican Party moved in a big-government direction under Trump it was also called a move “to the right.” When the Republican Party moved in a foreign-policy interventionist direction under Bush, it was called a move “to the right,” but when the party moved in a foreign-policy isolationist direction under Taft, it was also called a move “to the right.” No matter what Republicans do—even when they pursue opposite policies—it’s invariably called a move “to the right.” What does the label “right wing” communicate about Republican Party policies then? Precisely nothing, but it allows those who hate Republicans to lump them in with Hitler (who was also presumably “on the right”).
+
+Since there is no unifying principle or philosophy behind the set of beliefs that we call “left wing” or “right wing,” the terms that emerge from this left-right view of ideology (“progressive,” “liberal,” “conservative,” “reactionary”) are meaningless in anything other than a tribal sense. We can say that someone belongs to the conservative tribe but what this means in terms of policy is entirely dependent upon what the tribe stands for in a given context (in favour of free trade one minute, against it the next; in favour of free speech when it comes to tech censorship, but against it when it comes to Critical Race Theory; in favour of executive power when Trump is president, against it once Biden takes office, etc.).
+
+Incorrectly claiming that there is a philosophical connection between unrelated political positions leads to confusion and false stereotyping. We might call someone a “warmongering right-winger” on the mistaken assumption that their belief in lower taxes tells us something about their views on the military. A pro-life pacifist could be called “right wing” for being pro-life or “left wing” for being a pacifist. Just the other day, I read an article that complained of “campus liberals” shutting down free speech and then, a few sentences later, complaining that campuses had become “illiberal.” What does it mean when the term liberalism indicates both support for and opposition to free speech? It means, it’s time to retire the term and the entire spectrum associated with it. When we lump together characteristics that are unrelated, we create confusion by using the same term to refer to things that are opposites, and opposite terms to refer to things that are the same.
+
+So why the widespread delusion that there is a single philosophy or worldview behind everything “liberals” or “conservatives” believe? One reason is that it provides a comforting narrative in which you and those in your tribe are right about everything and the other side wrong about everything. It creates a simplistic, albeit exciting, heroes vs. villains story that gives one a sense of meaning and purpose—something much needed for the millions of Americans who are looking to fill the religious void in their lives.
+
+If I spin a story that unites all of the positions of my side as arising from some deep philosophical principle, such as “social justice” or “freedom,” it makes me a hero in a dramatic narrative in which the forces of light (my side) are facing off against the forces of darkness (their side)—it’s a Hollywood blockbuster plot and I get to play the righteous protagonist. Ideology is a tool of self-flattery in a narcissistic age. But as fun as such stories are to believe, they aren’t evidence for the existence of a single-issue spectrum any more than stories about Leos being brave are evidence for the existence of astrological categories.
+
+But the most important reason we are captivated by left-right ideology is that it allows us to be tribal without feeling tribal. Psychologists have long understood that humans need communities of belonging and meaning, but what they haven’t understood until recently is the need we have to camouflage our tribalism behind high-sounding principle. Ideology is simply a story we tell ourselves to justify our partisanship. We can hide our partisan sins behind the delusion of ideological purity. Thanks to ideology, we can fall in line with everything our tribe believes (even though it’s constantly changing) and then cook up a story ex post explaining how everything our tribe stands for is actually bound by the philosophy of “conservatism” or “progressivism.” Such storytelling would make astrologers proud.
+
+Calling someone “left wing,” “right wing” or “communist” or “fascist” has become a substitute for engagement and civil discourse. Although binary labelling gives a nice dopamine hit, binds tribes together, and is much easier than thinking, it is terrible for health of our democracy. Thinking in terms of a spectrum turns us into ideological zombies, unwilling and unable to think through issues and consider alternative perspectives.
+
+Ideological labels don’t illuminate political debate; they have become a substitute for debate. If we can stop the binary labelling and instead use granular descriptions as we do in every other complex realm, we will move a long way toward dispelling the confusion and hostility that characterizes contemporary public life. Any educated person would laugh at the idea of an all-encompassing scientific, medical, recreational, or business “spectrum” and yet here we are in the 21st century continuing to speak of an absurd “political spectrum.” Can we all please grow up?

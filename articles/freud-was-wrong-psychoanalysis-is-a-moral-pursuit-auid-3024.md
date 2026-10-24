@@ -1,0 +1,91 @@
+---
+title: "Freud was wrong, psychoanalysis is a moral pursuit"
+subtitle: "The surprising connection between psychoanalysis and ethics"
+author: "Edward Harcourt"
+date: "12th December 2024"
+article_id: "3024"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,029 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/morality-and-psychoanalysis.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/freud-was-wrong-psychoanalysis-is-a-moral-pursuit-auid-3024"
+---
+
+# Freud was wrong, psychoanalysis is a moral pursuit
+
+*The surprising connection between psychoanalysis and ethics*
+
+**By Edward Harcourt** | *12th December 2024* | *Read time: approx. 10 mins* | *2,029 words*
+
+![Freud was wrong, psychoanalysis is a moral pursuit](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/morality-and-psychoanalysis.webp)
+
+---
+
+***Freud’s official position on the connection between psychoanalysis and ethics seems to be that the two are barely related: psychoanalysis is a ‘medical procedure’ which aims to cure neurosis, not to make people morally better.* In this article, Edward Harcourt argues that despite such pronouncements, psychoanalysis and ethics fundamentally belong to the same line of inquiry. Drawing on Aristotle’s view that ethics is not a set of frustrating do’s and don’ts as Freud believed but a way to perfect and realize our human natures, Harcourt argues that ethics and psychoanalysis, correctly conceived, are concerned with the same fundamental question: “How should I live?”**
+
+Psychoanalysts face questions about patient confidentiality, for example, and these are ethical questions. But these are also questions faced by accountants and GPs. So if there’s no more to the connection between psychoanalysis and ethics than that, the connection doesn’t go very deep. It can seem as if Freud wanted us to see it that way. As he once put it, ‘psychoanalysis is a procedure for the medical treatment of neurotic patients’. In fact, though, ethics and psychoanalysis are deeply connected. But the connections are complicated, thanks to changes over the course of the twentieth century in the way both ethics and psychoanalysis – even within the Freudian tradition – have been understood.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Better-left-unsaid.webp)
+
+SUGGESTED VIEWING
+Better left unsaid
+With Peter York, Theodore Dalrymple, Simon Wessely, Vanessa King](https://iai.tv/video/better-left-unsaid)
+
+\_\_\_
+
+If Freud has an ‘official’ view of ethics, it tends towards the pessimistic and sceptical.
+
+\_\_\_
+
+If Freud has an ‘official’ view of ethics, it tends towards the pessimistic and sceptical. Morality is one of the things we need to internalize for the sake of social living, and because social living is necessary for survival, internalizing morality is required by the ‘reality principle’. But surviving is not the same as thriving, and Freud makes much of the uncompensated sacrifices we make for the sake of socialization – the ‘discontents’ of his *Civilization and Its Discontents*. He also stresses that psychoanalysis doesn’t aim at people’s moral improvement. Indeed if it were – misguidedly – to seek to do so, it would only succeed in making people more ill. Most people, he tells us, aren’t capable of anything much in the morality department, and if they ‘wish to be more noble-minded than their constitution allows’, they will ‘fall victim to neurosis’; ‘they would have been more healthy if it could have been possible for them to be less good’.
+
+\_\_\_
+
+To do psychoanalysis properly, he thinks, two virtues are needed – courage and truthfulness. That’s an important counter to the view that psychoanalysis is just a ‘medical procedure’.
+
+\_\_\_
+
+But there are other Freudian reflections on ethics which take us beyond the scepticism and the pessimism. For one thing, there is his late ‘dual instinct theory’, which replaces libido with the duo of Eros and Thanatos. Thanatos is hard to understand, but it looks like a kind of principle of entropy. Eros, on the other hand, is a creative principle and Freud’s way of saying that humanity creates social bonds by nature – so they’re not just things we have to endure to survive. More of that later. Less well-known, perhaps, is Freud’s thinking on virtue: to do psychoanalysis properly, he thinks, two virtues are needed – courage and truthfulness. That’s an important counter to the view that psychoanalysis is just a ‘medical procedure’. And then there’s his sexual liberalism. Not all conflict between instinct and social norms is inevitable, so we can lessen people’s chances of neurosis by adopting less repressive sexual mores – a thought which struck Freud forcibly after his first visit to the United States, whose sexual attitudes were puritanical even by Viennese standards. ‘We may well raise the question’, he asks, ‘whether our “civilized” sexual morality is worth the sacrifice which it imposes on us’, and the question ‘reinforces our determination to change other social factors [e.g. the prohibition on extra-marital sexual relations] so that men and women shall no longer be forced into hopeless situations’.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-11-30-powerpolmh.tn4.dwk.webp)
+
+SUGGESTED VIEWING
+Power, politics, and mental health
+With Joanna Kavenna, Aaron Bastani, Simon Wessely, Praveetha Patalay](https://iai.tv/video/power-politics-and-mental-health)
+
+Finally, Freud’s work is pervaded by a strong but largely inexplicit ethic which makes much of the value of work, which he saw as involving both freedom from illusion and the transformation of the environment. ‘No other technique for the conduct of life [than work] attaches the individual so firmly to reality’, he wrote – that’s the ‘freedom from illusion’ bit. And – here’s the ‘transforming the environment’ bit – ‘it’s also the characteristic activity of the ‘energetic and successful man … who succeeds by his efforts in turning his wishful phantasies into reality’, ‘going over to the attack against nature and subjecting her [*sic*] to the human will’. This ethic is also on display in some of Freud’s remarks on sex. ‘A child’, he says, ‘is meantto grow up into a strong and capable person with vigorous sexual needs and to accomplish … all the things that human beings are urged to do by their instincts’. Indeed it’s remarkable to what extent Freud assimilates the goods of (as he sees it) healthy sexual activity to those of work. Thus he condemns masturbation because it ‘teaches people to achieve important aims without taking trouble and by easy paths instead of through an energetic exertion of force’. This inexplicit ‘work ethic’ places his moral pessimism in a new light. If psychoanalysis cannot reliably create ‘energetic and successful’ people – as he says, ‘the physician … must be content to win back a part of the capacity for work and enjoyment even for a person of but moderate worth’ – that is because most people are ‘weaker natures’, not ‘energetic and self-reliant men of action’. So we are forced to ask how the ‘discontents of civilization’ theme plays out in the case of those who *are* ‘energetic and successful’: is it that they’re strong enough to thrive despite fulfilling the demands of social living? Or that their strength enables them to thrive thanks to those demands? Or are they strong enough – in perhaps Nietzschean fashion – to defy them? Freud doesn’t seem to say.
+
+\_\_\_
+
+Another aspect was the idea that becoming better in all these complex respects is what in some sense we’re made for – not, as on the view which came so naturally to Freud and Winnicott, stationing the superego in our psyche ‘like a garrison … in regions inclined to rebellion’.
+
+\_\_\_
+
+Be that as it may, Freud evidently had more to say about ethics than some of his headline pronouncements suggest. All the same, he seems to have instilled a kind of allergic reaction to the very idea of morality in some of his followers. DW Winnicott’s essay ‘Morals and Education’, for example, contrasts moral education – which he sees as a pointless programme of beatings and cold showers – with inner or personal growth, and the phrase ‘superego moralism’ has passed into the psychoanalytic vernacular. Perhaps that’s a good fit for the way morality was viewed by educated people in Freud’s or indeed Winnicott’s day. But our understanding of it – at least, philosophers’ understanding of it – has undergone a transformation since then, in part thanks to the Aristotelian revival which began in the late 50s and took off after Alisdair MacIntyre’s *After Virtue.* One aspect of this transformation was the availability of a richer and more nuanced ethical vocabulary, representing people – as Gilbert Ryle once put it – as
+
+differing from one another not in respect just of a single generic Sunday attribute, Goodness, say, or else Wickedness, but in respect of a whole spectrum of specific week-day attributes.
+
+Another aspect was the idea that becoming better in all these complex respects is what in some sense we’re made for – not, as on the view which came so naturally to Freud and Winnicott, stationing the superego in our psyche ‘like a garrison … in regions inclined to rebellion’, but constituting the perfection of our human natures, and so contributing to satisfaction in life, not to frustration.
+
+\_\_\_
+
+As Peter Lomas once put it, the question with which people so often come to therapy is none other than Socrates’ question, ‘how should I live?’
+
+\_\_\_
+
+That social living is what we’re made for, and so spells fulfilment rather than frustration, is the leading idea not only of Aristotelian ethics but also of what can loosely be termed ‘object relations’ or ‘relational’ psychoanalytic thinking, of which Winnicott was a leading exponent. On this outlook, anticipated by Freud’s Eros, human beings seek relatedness to others for its own sake, and from the word go, thereby displaying – to quote John Bowlby, heterodox psychoanalyst, founder of attachment theory and leading relational thinker – our ‘germinal capacity for social interaction’. Winnicott may not have thought inner or personal growth belonged to anything he was prepared to call ‘ethics’, but with ethics revisioned in Aristotelian fashion, that’s surely just what it is. As Peter Lomas once put it, the question with which people so often come to therapy is none other than Socrates’ question, ‘how should I live?’ Indeed relational psychoanalysis so obviously belongs to the same inquiry as ethics in the Aristotelian mould that it’s strange more hasn’t been made of the similarity before.
+
+In Aristotelian thinking and in ‘relational’ psychoanalysis, then, socialization expands the capacities we already have, so the acquisition of excellences of our kind and the good life for us march in step. Still, this general similarity may mask important differences. It all depends on what counts as an excellence – on *which* traits constitute self-realization (Bradley’s phrase) or the perfection of our natures.
+
+[![related-video-image](https://iai.tv/assets/Uploads/morality-and-prejudice.webp)
+
+SUGGESTED VIEWING
+Morality and prejudice
+With Tommy J. Curry, Michael Huemer, Melis Erdur, Barry C. Smith](https://iai.tv/video/morality-and-prejudice)
+
+For much relational thinking, there’s a kind of master-excellence, the capacity to overcome egotism or narcissism and to conceive of another as an independent centre of thought, feeling and initiative – in Betty Joseph’s words, ‘real relating, in which the other is thought of as separate’. Psychoanalysis in this mould sees itself as seeking to move people from the defect to the excellence – so far, so Aristotelian. But the overwhelming emphasis is on excellence in *personal* or *intimate* relations. That’s why psychoanalyst Hans Loewald was able to say in the 1970s not only that psychoanalysis is ‘concerned with man as a moral being’ but also that ‘becoming a self, a person’ is a matter ‘of the development of our love-life’. It’s perfection in love above all else – ‘real relating’ – that, on this family of theories, constitutes human excellence. Freud himself wrestled with how this developmental trajectory, worthwhile as it might be, helps with morality, which regulates our relations to strangers as well as to intimates, and the problem calls attention to a sharp contrast with many of Aristotle’s contemporary followers. For on mainstream neo-Aristotelian thinking – so-called ‘virtue ethics’ – the role assigned on relational psychoanalysis to ‘real relating’ is occupied by the moral virtues: promise-keeping, truth-telling, justice and so on. That is, *these* are the characteristics which supposedly constitute the perfection of our human natures, and which are such that cultivating them will ensure – barring accidents of ill fortune – that we lead happy and fulfilled lives.
+
+Now everyone – psychoanalysts included – has an interest in not being lied to, defrauded, exploited and the rest. So moral virtues are of course necessary for a tolerable social existence. But does anyone – or anyone outside the narrow circle of academic virtue ethicists – really think that a fulfilling life can consist *just* in cultivating moral virtues? If one is a moral fanatic, that might just be possible, though some moral fanatics might prefer to say how much they’re sacrificing for morality’s sake. But most people aren’t moral fanatics. Even if they – I should say ‘we’ – aren’t morally mediocre, and often we are, we care a lot not only about morality but, as Freud was enough of a realist to emphasize, about ‘love and work’. Taking Aristotle’s optimistic structure – the idea that our nature is such that perfecting it, cultivating the relevant excellences, will be fulfilling – and then substituting in something so alien to Aristotle’s thinking, namely a narrow set of post-Christian virtues, should not be allowed to pass unchallenged. Relational psychoanalysis and contemporary ‘virtue ethics’ do indeed occupy the same problem space, but their answers to the problems are very different, and how to negotiate their differences is as yet unresolved.

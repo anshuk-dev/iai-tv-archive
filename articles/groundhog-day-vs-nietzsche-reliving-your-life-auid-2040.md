@@ -1,0 +1,91 @@
+---
+title: "Groundhog Day vs Nietzsche: Reliving Your Life"
+subtitle: "Eternal recurrence and the meaning of life"
+author: "Matt Bennett"
+date: "2nd February 2022"
+article_id: "2040"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,502 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/eternal-time.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/groundhog-day-vs-nietzsche-reliving-your-life-auid-2040"
+---
+
+# Groundhog Day vs Nietzsche: Reliving Your Life
+
+*Eternal recurrence and the meaning of life*
+
+**By Matt Bennett** | *2nd February 2022* | *Read time: approx. 8 mins* | *1,502 words*
+
+![Groundhog Day vs Nietzsche: Reliving Your Life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/eternal-time.webp)
+
+---
+
+*It’s Groundhog Day, again! The popular film explored an idea that religion and philosophy had previously grappled with: What if time isn’t linear, but cyclical? What if we are condemned to relive our lives again and again, to eternity? Groundhog Day presents this possibility as a challenge but also an opportunity: to imagine what the best versions of ourselves could be, even if the world around us remained the same. Nietzsche, on the other hand, imagined an eternal recurrence in which nothing changed, every little detail of our lives was relived in exactly the same way, for eternity. He recognized the idea was terrifying, but he also saw it as an exercise in affirming our existence, even the most horrible aspects of it, writes Matt Bennett.*
+
+What if some day or night Bill Murray were to steal into your loneliest loneliness and say to you: ‘This day as you now live it you will have to live innumerable times again; and there will be nothing new in it, but every pain and every joy and every thought and sigh must return to you.’ Would you not throw yourself down and gnash your teeth and curse him? Or would you answer him: ‘You are a God, Bill Murray, and never have I heard anything more divine’
+
+A surprisingly diverse variety of religions and ethical systems have invoked something like this scenario, itself a paraphrase of a passage from the philosopher Friedrich Nietzsche (the original is sadly without Bill Murray). Variations on the theme of recurrence and cyclical time also appear in, for instance, Buddhism, Judaism, and Stoicism.  Often the purpose of such considerations is to help us confront a fundamental existential question: what would we do if we took seriously the humbling suggestion that whatever we do, the world will end up right back up at the same spot where we stand now?
+
+## The eternal recurrence of Groundhog Day
+
+Groundhog Day offers one answer to how we should respond. Bill Murray plays Phil Connors, an arrogant, cynical, self-centred snob whose work as a TV meteorologist takes him to Punxsutawney to cover Groundhog Day, officially taking place every February 2nd, when celebrity groundhog Punxsutawney Phil emerges from oracular hibernation to proclaim the end of winter. To his dismay, human Phil wakes up the next morning to find that it is inexplicably, again, Groundhog Day, with every beat of the previous day repeated just as it was the day before. After one more repetition it dawns on him that he appears to be fated to wake up every morning to Groundhog Day, over and over, with no end to the repetition in sight.
+
+\_\_\_
+
+Repetition of the same day doesn’t have to lead to despair and can be an opportunity for growth and redemption. But what if redemption never comes?
+
+\_\_\_
+
+At first Phil doesn’t respond terribly well. Disbelief, confusion, anger, and dismay all hit him in the first few days. Then comes liberation. Phil realizes that since there is no tomorrow, he can indulge himself without worrying about the consequences.
+
+But as the story continues, Phil grows tired of his empty hedonism. To make his way to the story’s dénouement, he must mature, break out of his arrested-development middle-aged adolescence. His time loop is his chance to redeem himself and learn the value of caring for others, devoting his time to helping the residents of Punxsutawney, and ultimately learning to love.
+
+In this way Groundhog Day presents the idea of recurrence as a challenge to change. The recurrence of the same day is a way of demonstrating that even if the world around us remains the same, by altering our perspective on it, as well as our actions, we can infuse a life without consequence with meaning.  Repetition of the same day doesn’t have to lead to despair and can be an opportunity for growth and redemption.
+
+But what if redemption never comes?
+
+## Nietzsche’s version of eternal recurrence
+
+A much less optimistic theme of recurrence can be found 111 years before the film’s release  in the work of Nietzsche. A self-proclaimed “antichrist”, Nietzsche’s hostility to Christianity included strong suspicion of the promise of redemption, salvation, or grace. Atoning and making amends are, according to Nietzsche, merely seductive fantasies. On his view, longing for redemption is a sign of an unhealthy desire for escapism, an inability to accept the world as it is and must be.
+
+\_\_\_
+
+In Nietzsche’s recurrence, there are no second chances, no fresh starts, no second acts.
+
+\_\_\_
+
+The past can be particularly difficult to accept, Nietzsche observes, despite the fact that it is out of our reach and impossible to change. In the words of Zarathustra, Nietzsche’s prophet character in *Thus Spoke Zarathustra*,‘in willing itself there is suffering, based on its inability to will backward – thus all willing itself and all living is supposed to be – punishment!’ Life itself can be made unbearable with the thought that there are some things that are impossible to rectify. No wonder the fantasy of a second chance is so appealing.
+
+What is Nietzsche’s alternative to redemption? One clue to this lies in an important difference between Nietzsche’s famous ‘eternal return’ and the recurrence in Groundhog Day. In Nietzsche’s version, when the day recurs, ‘there will be nothing new in it’; this is eternal return *of the same*. Nietzsche called this his ‘abysmal thought’.  He thought it was so profoundly terrifying because it confronts us with the idea that once we’ve lived our life, our cards have been dealt and we cannot exchange them for a fresh hand. In Nietzsche’s recurrence, there are no second chances, no fresh starts, no second acts.
+
+\_\_\_
+
+The lesson from Nietzsche’s eternal recurrence is the power of affirmation.
+
+\_\_\_
+
+If we are to learn any lesson from Nietzsche’s version of recurrence, it is not, as with Groundhog Day, to consider what we ought to do with the possibility of a do-over. To do so, from Nietzsche’s perspective, is to refuse to accept that reality is not there to be shaped as we see fit. Instead, **t**he lesson from Nietzsche’s recurrence is the power of affirmation.
+
+Forgive me for trying to illustrate this with something autobiographical. My son will soon be six months old. Before he was born, I would sometimes think of formative periods of my life with dreams of returning to simpler times. But these dreams would always be driven either by a desire to escape something difficult about the present, or by a fantasy of doing things differently, a second chance to do better.
+
+But now, when I look back at photographs and videos of my son’s first two weeks, I think about how wonderful it would be to do it all over again, exactly as it was, every detail repeated. This isn’t – as far as I can tell – driven by escapism; I’m very happy with how things are going now. Nor is this a fantasy of a second chance, and I don’t really believe that if I were to do it again, I could do any better.
+
+And it isn’t rose-tinted retrospection. Caring for a new-born for the first time is hard, really hard, and I have no illusions about that. But I would very, very happily do it all over again.
+
+\_\_\_
+
+To love existence to the point where one wishes for a repeat of everything requires either a superhuman strength of character, or blindness to great and pervasive suffering.
+
+\_\_\_
+
+My attitude toward that time is, I believe, a small taste of the kind of affirmation that Nietzsche preaches not just towards our happiest moments, but towards one’s whole life, and towards the whole of existence itself. His idea of recurrence asks us whether we can love the world so deeply that not only would we tolerate an eternal return, but we actively long for everything to be repeated, to do it all over again, exactly as it was before.
+
+This level of affirmation is an attractive prospect indeed. But it is, I believe, yet another fantasy. To love existence to the point where one wishes for a repeat of everything requires either a superhuman strength of character, or blindness to great and pervasive suffering.
+
+And for us mere mortals to meet Nietzsche’s ideal even for a moment requires luck and privilege. I might feel great love for the early days with my son, but only thanks to the fact that he and his mother were healthy, that we had the support of many friends and family, and the benefit of relatively-high financial security and a good public health service. For those not so lucky, Nietzsche’s ideal of affirmation is at best another form of escapism, at worst an insult.
+
+Do we return, then, to Groundhog Day? I think the film’s fantasy and its lesson are indeed better suited to our imperfect lives, and Groundhog Day’s recurrence can help us consider how to change our attitude to our finitude, provided we keep our desire for redemption in check. Second chances are less common than we hope, and three-act character arcs a Hollywood fiction. But life would be nothing without some hope for finding meaning in a world largely impervious to our will.

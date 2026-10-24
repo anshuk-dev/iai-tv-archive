@@ -1,0 +1,117 @@
+---
+title: "How to avoid working forever"
+subtitle: "A Call for The Grey New Deal"
+author: "Teresa Ghilarducci"
+date: "24th July 2024"
+article_id: "2900"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,496 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/working-through-the-twilight-years.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-to-avoid-working-forever-auid-2900"
+---
+
+# How to avoid working forever
+
+*A Call for The Grey New Deal*
+
+**By Teresa Ghilarducci** | *24th July 2024* | *Read time: approx. 12 mins* | *2,496 words*
+
+![How to avoid working forever](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/working-through-the-twilight-years.webp)
+
+---
+
+*We are currently sat upon a population time bomb. 'Population ageing is the most pervasive and dominant demographic trend' according to the IMF, with 1 in 6 people being over 60 by 2030 and the cost of caring for the oldest being 16 times higher than teenagers. One key aspect of this crisis is retirement. Unless we rethink the way we fund retirement, and institute a 'Grey new deal' writes Teresa Ghilarducci, we run the risk of delaying a core part of our social contract. With a few small changes to how we fund, think, and justify retirement, we can ensure future generations will have the twilight years they deserve.*
+
+Americans are obsessed with the idea that age doesn’t limit work competency – an idea that was very publicly put to the test in the recent US presidential debate. After years of insistence that Biden, 81, was fully capable of the physically and mentally taxing tasks of presidential office, his performance in the debate indicated otherwise. Meanwhile Trump, his 78-year-old opponent, was the subject of speculation over his own mental and physical frailty during his presidential term. Despite ample evidence that age does impact our energy, health and abilities, Americans have come to normalize working indefinitely. Susan Jacoby wrote in her 2011 book "Never Say Die," “the cultural obsession with the notion that individual choices can prevent ageing causes us a national delusion that we can’t ever help people say enough is enough.” Retirement is a dignified stage of life, but Americans were bushwhacked, uniquely among other Western countries, into thinking it is not. As I argue in my [book](https://press.uchicago.edu/ucp/books/book/chicago/W/bo212888995.html) Work, Retire, Repeat: The Uncertainty of Retirement in the New Economy, we need to rethink these beliefs and view retirement as a right, not a privilege.
+
+\_\_\_
+
+With this bipartisan, neoliberal agreement, balanced budgets took priority, leading to continued austerity and promoting the "working longer" solution in the late '70s.
+
+\_\_\_
+
+The American “successful aging” and independent aging movement in the 1970s, combined with an unusual Democratic and Republican unity in the 1980s to stop expanding Social Security, created conditions for the status of being retired, or demanding funded retirement periods, to be denigrated. With this bipartisan, neoliberal agreement, balanced budgets took priority, leading to continued austerity and promoting the "working longer" solution in the late '70s. The dominant expert opinion was that the solution to rising pension costs was for everyone to work longer.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-11-17-The-economics-of-almost-everything.dwk.webp)
+
+SUGGESTED VIEWING
+The economics of almost everything
+With Daniel Markovits, Martin Wolf, Madeleine Pennington](https://iai.tv/video/the-economics-of-almost-everything)
+
+At the same time, enterprising financial firms created an attractive alternative to a pension plan: a tax-favored individual account that would substitute for employer pensions. The individual account, which shifted risk from the employer to the employee, [emerged in the form of the 401(k) in the early 1980s](http://articles/all-debt-is-not-created-equal-auid-2799). This shift, along with shrinking Social Security benefits due to the rise in the normal retirement age and a growing ideology that older people would find meaning in more paid work, was revealed in a World Bank report written in 1994 by American economist Estelle James titled, in classic World Bank fashion, [“Averting the Old Age Crisis: Policies to Protect the Old and Promote Growth”](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/973571468173642322/averting-the-old-age-crisis-policies-to-protect-the-old-and-promote-growth). The title reflected the World Bank’s titular concern for humanitarian issues with the ultimate goal of promoting economic growth.
+
+In 15 years, the move to undemocratize retirement and encourage continued paid work into old age was off and running. The next decade saw these ideas spread worldwide—in what I call the Working Longer Consensus in my new book, "Work, Retire, Repeat: The Uncertainty of Retirement in the New Economy". The Working Longer Consensus harkens back to the neoliberal approach to global integration called the Washington Consensus of the 1970s, bolstered by that World Bank report. Retirement came to be seen as a last resort and undignified. People retiring was viewed as too expensive, and having more older people in the labor force was seen as a solution to the macroeconomic problem of a relatively smaller cohort of workers following the baby boom.
+
+\_\_\_
+
+It is economically incorrect to consider the battles between younger and older workers. It is not politically accurate to describe the situation as a “gerontocratic social contract” that benefits the old at the expense of younger workers. Nations need to finance human needs.
+
+\_\_\_
+
+The core philosophy of the American social contract, with its emphasis on individualism, makes it harder to argue for providing for the needs of the old. European countries have a much clearer approach to retirement, though the American-style “Working Longer Consensus” has eroded it. Retirement in Europe is seen as a reward for a lifelong period of work and is important for low-, middle-, and high-income workers alike. The difference is not so much cultural as political, with Social Democratic coalitions that protect children and the old being much stronger.
+
+European countries are generally older than the US, and so their finances are strained by the cost of pensions. Low birth rates and stagnant productivity make supporting pensions, as well as other non-workers like children, more expensive. But it is economically incorrect to consider the battles between younger and older workers. It is not politically accurate to describe the situation as a “gerontocratic social contract” that benefits the old at the expense of younger workers. Nations need to finance human needs. A combination of employer, worker, and government revenue are the elements of successful pension systems in the Netherlands, Finland, and other nations. The [Melbourne Mercer Global Pension Index](https://economicpolicyresearch.org/images/Retirement_Project/Working_Papers/2023_Critical_Survey_of_Pension_Provision_And_Pension_Reform.pdf) describes the variety of ways that European nations pay for older people. [It's rarely demographics that define the variety—politics and the strength of the labor movement are much more important.](http://articles/how-the-free-market-is-failing-jose-miguel-ahumada-auid-2679)
+
+Flipping the narrative from viewing longer lifespans as a crisis to celebrating increasing longevity and prosperity would mean moving away from seeing the costly shift in demographics as a burden. Instead, we could adopt a system of shared prosperity, where some of our wealth is used for end-of-life leisure. Many nations, despite their aging populations, have democratized retirement dignity. They have the right institutions and demand that prosperity be consumed in leisure or paid time off from work.
+
+\_\_\_
+
+Cutting pension does not result in higher levels of per capita state spending on children, politicians don’t take the money they save on pensions and automatically give it to children. That's not the way politics works.
+
+\_\_\_
+
+The broader social trend towards shifting individual responsibility for the effects of aging on the body overemphasizes how much control people have over aging. Since the social trend moved towards individual responsibility, it wasn't a hard leap to say that people could choose to work longer or not. The role of the employer and economic conditions of work fell away as important factors, and individual choice became prominent. An extreme example of this is the increased age of US politicians. Though opponents reject the lump of labor fallacy—the false idea that displacing one group of people creates jobs for another—the fact remains that in some sectors, older workers never retiring does block advancement for younger workers and suppresses their wages.
+
+A shift away from the idea that working longer solves all problems towards democratizing retirement and making it dignified is needed. I've called this a comprehensive solution to old age and security: a Grey New Deal. Such a shift could well be in the best interests of all workers, not just those nearing retirement age. But of course, how can you make this happen?
+
+**America Leads With  Age Discrimination Laws**
+
+I am a foremost advocate for anti-age discrimination laws. No adult willing to work should be denied because of age, gender, religion, national order, skin color or race. America was the first Western democracy to outlaw age discrimination with the Age Discrimination in Employment Act (ADEA) in 1967. This landmark legislation prohibited employment discrimination against individuals 40 years of age or older, promoting employment based on ability rather than age. However, Congress did not hear evidence  that age itself reduces job performance. In fact, technology can make job skills depreciate faster and bodies do break down. I am not in favor of mandatory retirement, but there was a sweet side to forced retirement: a legitimate claim to a decent pension. Many top executives in the United States have contracts promising both that they will leave at a certain age and the company will provide good pensions.
+
+**Working Longer: A Fool’s Economy**
+
+We justify ever longer working ages based on the myth that it is good for older people, but for most, it hastens morbidity due to increased mental and physical demands. While working longer does reduce pension costs, retirement time is shortened and pensions are cut. Working longer  shrinks retirement time. Cutting pension does not result in higher levels of per capita state spending on children, politicians don’t take the money they save on pensions and automatically give it to children. That's not the way politics works.  Political coalitions for the elderly are the same coalitions advocating for the young. In real politics the old do not eat the young, they are two sides of the same Social Democratic coin.  Economists argue that it is not the ratio of the population sizes that determines the affordability of pensions, but rather the productivity of the workers. It is the output and efficiency of the working population that matter more in terms of affordability, financially, more than their relative numbers. It is politics that determine how the fruits of an economy are distributed.
+
+**The Erosion of Retirement Security**
+
+The 1980s marked the decline of the American retirement system. Reagan-era cuts in Social Security raised the retirement age to 67, and defined benefit pensions were replaced by the do-it-yourself 401(k) system, and the cult of “forever young” took hold. In the new system workers were left to save, invest, and manage their own retirement funds – an implausible task for typical humans who lack foresight on the risks their skills will be eroded, their health will fail, the economy will erode rates of return and how long they will live. Insuring financial, economic, longevity, and inflation risk is best done on a group basis. Nonetheless, the fact that individuals could and were told they should save on their own for retirement eroded cultural support for a proper retirement. The American retirement system could be described in the motto in the 1990s was “Save or Work.”
+
+The decline of unions was part of the cultural change too. After all, the proper retirement age is not some scientific finding. A so-called science-based age of retirement would be convenient. If economists and physicians could come up with a formula to determine how many years people should work before they receive decent pensions, political and economic struggles wouldn’t occur.
+
+\_\_\_
+
+Therefore, as most Americans approach retirement, they find they will rely on Social Security, which provides about 30% of their needed income. No wonder many retirees are forced back into the workforce.
+
+\_\_\_
+
+Retirement is moral, political, and social, not scientific. Unionized workers were more likely to have pensions, but as unions weakened, more workers were pushed into 401(k) plans, which require voluntary participation. Employers are not required to sponsor a retirement plan and therefore for 40 years at any one point in time half of American workers don’t save in any retirement account. Therefore, as most Americans approach retirement, they find they will rely on Social Security, which provides about 30% of their needed income. No wonder many retirees are forced back into the workforce. [Among those aged 62 to 70, 28% work for pay in mainly low paid jobs due to insufficient retirement assets](https://www.pm-research.com/content/iijpracapp/early/2022/08/01/pa2022pa507). Only a few, 10%, seem to work for enjoyment and pleasure -- they work for pay despite having enough wealth to retire and maintain their standard of living. A majority (52%) cannot find work, are unable to work, or retire without adequate income due to health or caregiving responsibilities. Only 10% retire with maintained living standards.
+
+**The Obscenity of Making Americans Work Longer**
+
+Life expectancy disparities exacerbate the issue of retirement security and inequality. If those without wealth have to work longer and they are those that die sooner – only the well off will have a decent retirement.
+
+According to the [National Academy of Sciences](https://www.nationalacademies.org/news/2015/09/new-report-examines-implications-of-growing-gap-in-life-span-by-income-for-entitlement-programs), men in the bottom income quintile saw life expectancy at age 50 increase only marginally from 26.6 years for those born in 1930 to 26.1 years for those born thirty years later in 1960. In contrast, men in the top income quintile experienced a substantial increase, from 31.7 years for those born in 1930 to 38.8 years for those born in 1960. The gap in life expectancy at age 50 between men in the lowest and highest income quintiles has risen from 5.1 years to 12.7 years.
+
+And telling Americans to work longer is a recommendation for the U.S. to intensify its stance as a cruel outlier. Americans already more work more hours per day, more days per week, more weeks per year, and more years per lifetime than workers in our peer nations. From 2010 to 2022, U.S. workers increased their annual hours to 1,811, making them number one in the G-7. In contrast, UK workers’ hours rose to 1,532 hours a year, and Germans to 1,341 annually. The U.S. and Japan have the highest labor force participation rates for people over 65, with Japan leading at 25.6% and the U.S. at 16.9%. Italy, France, and Germany have the lowest elderly labor force participation rates, between 4% and 8.5%.
+
+[![related-video-image](https://iai.tv/assets/Uploads/IAI-TV-Thumbnail-resized.webp)
+
+SUGGESTED VIEWING
+The crisis of ageing
+With Aaron Bastani](https://iai.tv/video/the-crisis-of-ageing-aaron-bastani)
+
+**The Working Longer Consensus: A Flawed Approach**
+
+Over time, the American obsession with a fiscal free-lunch solution to an aging society has led to inadequate policies, like raising the retirement age. The default narrative of 'work longer' is wrong, and the Working Longer Consensus, which started in America and spread to other countries, is flawed. Instead of taking away the possibility of a dignified retirement from all but the rich, we need a system that allows older people to work by choice, not necessity. This means all workers need a decent pension.
+
+**The Reality of Employment for Older Workers**
+
+My work shows that the ability to work in most jobs—beyond physical or mental capacity—is mostly limited by employers’ willingness to hire older workers. In the United States, only 50% of people aged 50 to 60 have steady employment, and most retirees report being forced to retire before they are ready. The Working Longer Consensus has brought the United States to a point where a 78-year-old and an 81-year-old were vying for the presidency, with one being deemed too old for the job. A culture that provides a dignified off-ramp to retirement might have prevented this situation.
+
+**Conclusion: A Call for Sensible Retirement Policy**
+
+In conclusion, a sensible retirement policy is low-cost, especially when contrasted with the social costs of an inadequate retirement policy. American tax rates are relatively low and the population is relatively young. Policies that allow people to work longer with dignity require universal pensions, funded by workers, employers, and the government. Everyone deserves a decent, diversified retirement savings portfolio—not just the rich. The Grey New Deal would lift up retirement as a dignified stage of life, achievable for all, not just those who are privileged.

@@ -1,0 +1,125 @@
+---
+title: "The mystery and origins of play"
+subtitle: "Play can be useless, spontaneous and fun"
+author: "Gordon Burghardt"
+date: "6th April 2022"
+article_id: "2095"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "3,226 words"
+read_time: "Read time: approx. 16 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/play.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-centrality-and-origins-of-play-auid-2095"
+---
+
+# The mystery and origins of play
+
+*Play can be useless, spontaneous and fun*
+
+**By Gordon Burghardt** | *6th April 2022* | *Read time: approx. 16 mins* | *3,226 words*
+
+![The mystery and origins of play](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/play.webp)
+
+---
+
+*The existence of play in non-human animals is a direct challenge to old-fashioned scientific ideas. Play is dismissed as a human projection or as functional practice for adulthood that only ‘higher”  mammals are capable of. Not so, writes Gordon Burghardt, the contemporary study of play finds it across the animal kingdom from birds to spiders, and help makes sense of why, for us humans, play can be spontaneous, purposeless and fun.*
+
+Although evolutionary approaches to understanding most areas of human and animal behavior are popular, play behavior has been largely neglected. Partly this may be since the debates on the function of play have been heated and unresolved, leading to the view that its evolutionary basis is not ready or able to be studied fruitfully. Thanks to advances in several fields, this is no longer true, though that message has difficulty being heard today. I have been studying the mysteries and origins of play for several decades and this essay reviews the progress I have witnessed.
+
+# **Evolutionary psychology and the problem of play**
+
+Evolutionary psychology is the application of Darwinian principles to psychological and behavioral phenomena in humans. It is based on three assumptions. The first is that much of human behavior is inherited from our vertebrate ancestors The second is that much of our psychology has evolved to deal with demands such as finding food and mates, protecting ourselves, and rearing offspring. The third is that this psychology involves modular rather than general-purpose processing mechanisms (although, in fact, the underlying neural and motivational systems often overlap).
+
+Evolutionary Psychology has a fascinating history that is to some extent problematic, though that is not my concern here. It is increasingly popular, but unfortunately, most of the “new wave” of evolutionary psychologists actually seem minimally familiar with comparative psychology and ethology (the naturalistic study of animal behavior) and often largely ignore the role of our ancient vertebrate behavioral legacy. Instead, they focus on the role of natural selection, and particularly sexual selection, in shaping the behavior of protohominids and early humans in the millennia before the advent of literacy and agriculture.  Evolutionary psychologists have largely ignored play. You will find nary a mention of play in major textbooks or current research programs.
+
+On the surface, this seems strange, since play is common in people and, as in other species, can consume large amounts of time and energy. Indeed, play may be engaged in much more frequently than fighting, sex, and even eating. I think one reason for this neglect is that play appears to lack “seriousness” either in its proximal manifestations or in its adaptive value or function. Perhaps scientists, including evolutionary psychologists, anthropomorphically and unconsciously view play as a non-serious topic or evolutionarily unimportant. Sustained attention is needed before a scientific approach to play will be successful. There are signs that this is now happening.  What follows is an attempt to deal with some of the outstanding problems in the analysis of play and its evolutionary origins.
+
+\_\_\_
+
+## “By the early 20th century play was viewed as existing in order to aid animals in learning how to survive in adulthood.”
+
+\_\_\_
+
+# Where does play come from?
+
+Play in non-human animals is generally categorized as locomotor play (jumping, leaping, twisting, swinging, running), object play (biting, mouthing, manipulating), and social play (chasing, wrestling). These are not completely independent as all three can occur at the same time when, for example, two dogs chase after an object, both grab it, and proceed to do a tug-of-war for possession.
+
+Play has been recognized in non-human animals for many centuries, but the study of animal play, like so much animal behavior, really did not develop until after the writings of Charles Darwin and the rise of natural history, comparative psychology, and, in the early 20th century, ethology.
+
+While some early authorities claimed that play occurred in a wide variety of animals, even crabs, ants, and fish, these were based on anecdotal evidence in the days before film and video documentation. With the rise of experimental psychology, play soon became identified as a phenomenon largely limited to humans and other “intelligent” mammals such as monkeys, apes, dogs, and cats. Behaviorists often viewed play as a subjective and anthropomorphic concept. By early in the 20th century play was viewed by many, especially educators, as existing in order to aid animals in learning how to survive in adulthood. Indeed, the view of Karl Groos, that play is a necessary means for animals to develop and perfect their instinctive behavior (finding food, fighting conspecifics, repulsing predators, courting and mating, building nests, etc.) became the major theoretical assumption. Associated with this was the position that the benefits of play are delayed until adulthood. Although play may appear to be fun or enjoyable, that was not where its meaning was to be sought.
+
+Although there were some alternatives to this “play as practice for the future” view, such as those of the Freudians (e.g., Winnicott), the claim that play is linked to intelligence, large brains, and prolonged parental care seemed to support the practice-delayed benefits notion. True play was most common, if not exclusively, to be found in “higher” mammals. Other species’ playlike behavior was largely dismissed as misidentified or misfiring “instincts.”  Even the acceptance of play in birds was suspect in authoritative writings into the 1980s. Robert Fagen, in his seminal 1981 volume on the biology of animal play, concluded that play occurred in some birds, but remained skeptical of play in non-warmblooded animals. He did advocate the view that play may have immediate benefits for animals, not just benefits delayed until adulthood and *serious* tasks in life. For example, he promoted the idea that juvenile play is important in the development of muscles, coordination, and physiological performance in general.
+
+The problem remained, however, that none of these benefits, immediate or delayed, had any careful experimental support in either human or nonhuman animals of any species. It could be that the meaning of play lies elsewhere than in a stark utilitarianism or obvious appearing functionalism (play fighting leads to better fighting, play with objects in cats leads to better hunting ability, play with dolls leads to better mothering, etc.).
+
+\_\_\_
+
+## “We may all agree on what is play in a dog or a monkey… But what about turtles, fish, frogs, and insects?”
+
+\_\_\_
+
+# A Definition of Play
+
+A more fundamental problem I discovered was that there were no clear criteria for identifying play in animals other than an uncritical anthropomorphic extrapolation from human play coupled with leaky post-hoc “definitions”. As there was considerable ambiguity on what constitutes human play, the reed of humanity is not very strong against evolutionary currents. How then, can one identify play where it has not been thought to exist?
+
+We may all agree on what is play in a dog or a monkey, but it turns out that we typically do so by identifying the behavior and its underlying emotion with our own assumed feelings when performing a similar behavior. But what about turtles, fish, frogs, insects, indeed the lizards and snakes that so fascinated me in elementary school down to the present day? If we want to determine how ancient play is in human behavior and psychology, it is imperative to find out if play is a recent evolutionary innovation, as championed by some writers, or if it also occurs in much older, more “primitive” animals.
+
+To cut to the chase, after viewing many definitions, I came up with a set of five criteria, all of which must be met before we can confidently assume a behavior is play. These can be summarized in this sentence. *Play is repeated behaviour that is incompletely functional in the context or at the age in which it is performed, and is initiated voluntarily when the animal (or person) is in a relaxed or low-stress setting.* Initiated voluntarily could involve pleasure, fun, excitement, rewards, or other emotional attributes, of course, but these are not explicitly included since they may be hard to ascertain in animals we are less prone to view as similar to us such as turtles or fish.
+
+With this set of criteria as a tool, we can see that much of our behavior from gourmet cooking to masturbation can be viewed as play. More importantly, applying the criteria allows us to see play in the behavior of many animals other than birds and placental mammals.  Here are some examples.
+
+# Examples of Play
+
+Many marsupials such as kangaroos, wallabies, Tasmanian devils, and wombats are playful, although as a group they have nowhere near the richness of playfulness one sees in dogs, monkeys, otters and other placental mammals. Even in the egg-laying monotremes, the duck-billed platypus seems to play. In fact, data strongly suggest that some animals from many other groups, including reptiles, fishes, insects, mollusks, and spiders can and do play.
+
+Since this may seem a rather bold, if not unsettling, claim, here are a few examples. We studied the first Komodo dragon hatched in the Western World at the National Zoo in Washington, DC. This species is the largest lizard in the world and is a deadly carnivore, capable of hunting and eating deer and water buffalo. This lizard, when several years old, would explore objects such as old shoes, small boxes, even soft drink cans and grab and shake them like a dog with a slipper. And like the dog, the lizard would not try to eat the object. She would also engage in tug-of-war games with her favored keeper and remove handkerchief or notebooks from a keeper’s pocket and try to run away with them. This has been described independently in many dragons. A large adult Nile softshell turtle at the same zoo, given a basketball, repeatedly and for years, would bang it around his tank. A large Nile crocodile liked to chase and attack a large ball attached to a rope thrown around and pulled by a keeper outside his large naturalistic enclosure. Great white sharks will do something similar.  Several species of fish push around balls and balance them on their snouts, knock around a bottom weighted thermometer, or cavort in bubbles in an airstream. A cichlid fish will engage in behavior with a larger less agile fish that looks, objectively, similar to what we would term teasing when seen in kids or even a dog. Immature spiders engage in mock courtship that actually enhances reproductive fitness in both sexes.
+
+Play fighting is the well-studied type of play in animals and is the focus of literally hundreds of studies in laboratory rats. Comparable documented observations have been made of dart poison frogs, young turtles, some fishes, and also wasps. Octopuses have been documented performing complex manipulations with Lego blocks and using their water jet abilities to repeatedly “bounce” floating balls and even play splashing games with caregivers. Honey bees engage in practice take off behavior before their first successful flights. Freshwater stingrays are so attracted to balls that sink to the substrate that two will engage in a “game” of keep-away.
+
+# The origins of play
+
+As diverse as these examples are, it is important to note that most species in these and other groups have not been recorded as playing, nor do they all play in the same way or to the same extent. Social, locomotor, and object play are all very much found in humans and all primates. Other types of human play, such as construction, social-dramatic, language, pretense, and games are certainly more complicated, but rudimentary versions of all may be found in other species as well. The main point is that from an evolutionary perspective, play has originated numerous times in animals throughout evolutionary history and has altered course in many ways, even in the most playful mammals. Thus, adult play in monkeys can differ in type and amount dramatically even in closely related species. Furthermore, sex differences are pronounced in many species and these may themselves be related to evolutionary history and behavioral ecology including mating systems, foraging and fighting modes, type of predators and other dangers, amount and extent of parental care and protection, and so on. Thus, a satisfactory play ecology of humans needs to accommodate the basic evolved psychology of our species. Unlike many phenomena studied by evolutionary psychologists, however, play taps into ancient behavioral systems that manifest themselves in many species.
+
+Another point derived from comparative studies is that the importance of play and its role in an animal’s life and development may differ greatly, even at the simple level of its causal mechanisms and developmental consequences. Such differences can even occur in the same species. I had difficulty handling such differences conceptually and theoretically until I realized that the mechanisms and consequences of play can be categorized into three groups, though, of course, in reality a continuum most likely exists. Thus, we can have *primary process play* that is somewhat atavistic and due to boredom, low behavioral thresholds, immature behavior, excess metabolic energy, and other factors with no necessary current or long-term effects, good or ill. Then, *secondary process play* can help maintain the condition of the animal physiologically, behaviorally, and perceptually. For example, physical exercise may be necessary for maintaining cardiovascular functioning and body flexibility, and mental games may aid in slowing the effects of senile dementia. Finally, there is *tertiary process play* that may be crucial for reaching developmental milestones, cognitive accomplishments, social skills, physical abilities, and creativity. The problem is that we do not yet know which play in human or non-human animals rightfully falls under which rubric and at which times in life. Nor do we know what specific consequences there are to different kinds of play. Do play fighting and competitive games foster war and aggression or a sense of fairness and the necessity of rule following? Such questions may not be easy to answer, but the field needs to keep an open mind on them and help provide answers and not accept assertions that fit our respective ideologies.
+
+\_\_\_
+
+## “the analysis of play and its origins may prove crucial to understanding the evolution of human mentality and should be a central subject in evolutionary and cognitive psychology.”
+
+\_\_\_
+
+# The Meaning of Play
+
+Rather than search for the “true” or “real” meaning of play, as if it is a unitary phenomenon, the conceptual framework outlined above suggests that we look for the factors in both the environment and the organism that facilitate the performance of play. Some kinds of play are more individually or socially adaptive than others. Thus, we must not forget that hazing, bullying, animal cruelty, gambling, risk taking, compulsions, and addictions of many kinds can have their origins in play .
+
+I cannot discuss all these at length here, but some organismal factors facilitating play are good health, a physiology conducive to vigorous and sustained activity, and a diet and environment that can sustain such behavior. Developmental factors such as the presence of parental care allowing the animal to explore and play in relative safety and a sufficient time to do so are also important, as is the possession of a rich repertoire of instinctive and motivational resources. Ecological factors such as weather, potentially dangerous environments (trees, water, predators), and foraging styles along with social factors such as type and number of potential play partners and social openness/rigidity affect play in other species and certainly do so in people. Individual differences in play propensity and skills are found in human and non-human alike. Such differences provide the raw variation needed for natural selection, including sexual selection, to operate its transformative magic. Evolutionary and ecological considerations thus help explain why some species play and other less so or not at all, as well as individual and population variation within the same species.
+
+# Concluding thoughts
+
+I have primarily discussed play in its behavioral manifestations. These are the most easily studied in humans, especially young children, and other animals. But much of our play may be performed without much overt behavior. We play with ideas; imagine scenarios or creative outcomes prior to, or even without, actual performance. Just as gestures, so common during human speaking, suggest that gestures were prior to linguistic vocal communication, so could behavioral play, especially pretend play, be an essential precursor to “mental” play and, by implication, be a major force in the evolution of human cognitive and emotional abilities. It is possible that primary process play that initially had no adaptive consequences became useful to the individual and was transformed via selection to serve both secondary and tertiary functions in development and reproductive fitness as well as providing variation from which novel and complex behavior was facilitated more rapidly than through selection of the more fixed functional aspects of an animal’s behavioral repertoire.  In this way, the cognitive and emotional life of animals, and especially hominids, was pried open and transported to new adaptive peaks. If so, then the analysis of play and its origins may prove crucial to understanding the evolution of human mentality and should be a central, not peripheral, subject in evolutionary and cognitive psychology.
+
+In the final analysis we may be able to learn where play “comes from” and its evolutionary impact, but not the original player. This is not just due to a lack of sufficient fossils or intermediate (transitional) organisms. It is due to the fact that the first players may have been a type of organism we do not even know existed or, if we do know about such putative ancestors we certainly know little about their behavior. If, as we now know, both vertebrates and invertebrates play, then the potential for play goes back to the common ancestor of these groups, if not even earlier. This could be, arguably, a billion years ago. The first players are lost in the mists of time.
+
+Finally, although we may have little direct knowledge of how other species, or even various human populations, experience their play, on a behavioral level there are compelling commonalities that tap ancient systems in the brain that repeatedly emerge in certain contexts. At this stage of our knowledge, we may best continue to carefully observe and follow, with due caution, the biological and evolved propensities humans have to play, accepting that the most important aspects of play may be that it be fun, provide memories (consciously remembered or not), give children varied experiences, and enhance the ability to negotiate the world successfully and enjoyably. For adults, opportunities to play may be a prime motivator for “work” and the experiences during play a primary characteristic of a life worth living.
+
+*This article has been updated from an earlier text: Burghardt, G. M. Evolutionary psychology and the origins of play. *The General Psychologist*, 2008, 43(2), 6-11.*
+
+**Further reading**
+
+Burghardt, G. M. (2005). *The genesis of animal play: Testing the limits.*Cambridge, MA: MIT Press.
+
+Burghardt, G. M. and Pellis, S. M. (2019). New directions in studying the evolution of play. In *The Cambridge handbook of play: Developmental and disciplinary perspectives.* (P. K. Smith & J. L. Roopnarine, eds.) Cambridge, UK: Cambridge University Press, pp. 11-29.
+
+Fagen, R. (1981). *Animal play behavior.*New York: Oxford University Press.
+
+Groos, K. (1898). *The play of animals.*New York: Appleton.
+
+Pellegrini, A. D. and Smith, P. K. (1998). Physically active play: The nature and function of a neglected aspect of play. *Child Development* 69: 577-588.
+
+Pellis, S. M. and Iwaniuk, A. N. (2000). Adult-adult play in primates: Comparative analyses of its origin, distribution, and evolution. *Ethology* 106:1083-1104.
+
+Pellis, S. M. and Pellis, V. (2009. The playful brain: Venturing to the limits of neuroscience. Oxford, UK: Oneworld
+
+Sutton-Smith, B. (1997). *The ambiguity of play.*Cambridge, MA: Harvard University Press.

@@ -1,0 +1,77 @@
+---
+title: "Time existed before the Big Bang"
+subtitle: "Time is fundamental, space is not"
+author: "Lee Cronin"
+date: "28th February 2023"
+article_id: "2402"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,518 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-02-28-Time-existed-before-the-Big-Bang.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/time-existed-before-the-big-bang-lee-cronin-auid-2402"
+---
+
+# Time existed before the Big Bang
+
+*Time is fundamental, space is not*
+
+**By Lee Cronin** | *28th February 2023* | *Read time: approx. 8 mins* | *1,518 words*
+
+![Time existed before the Big Bang](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-02-28-Time-existed-before-the-Big-Bang.dc.webp)
+
+---
+
+*According to the idea of the block universe, the passage of time is an illusion. The past, present and future all coexist, along with space, in one big frozen block in which nothing ever happens. But the emergence of life and the existence of genuine novelty in our corner of the cosmos contradict this picture. The passage of time is not an illusion, it’s a fundamental aspect of reality, something that existed before even The Big Bang. By studying the nature of novelty, the life sciences could help us prove time fundamentalism, argues Lee Cronin.*
+
+I think that time is the most misunderstood aspect of reality. This is because physicists have concluded time is emergent and the universe somehow exists in a timeless state. According to this view, time is a dimension to be travelled in backwards and forwards, but we have no evidence this is true. We have only experienced time travel in one direction, from the past to the future. We cannot go back in time. Whilst we appear to be able to imagine being frozen in time, or going back in the past, the thing is, we need time to go forward and do any of these things. Time is the resource that allows things to happen.
+
+[![The new arrow of time min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/The-new-arrow-of-time-min.webp)
+
+SUGGESTED READING
+Time is the increase of order, not disorder
+By Julian Barbour](https://iai.tv/articles/time-is-the-increase-of-order-julian-barbour-auid-2195)
+
+The problem with a universe in which time is frozen is that it requires four assumptions to be made. The first is that the origin of the universe is required to be almost perfectly ordered at the Big Bang. The second is that the second law of thermodynamics must emerge from this order at the beginning. The third is that time must be an emergent property. Finally, causality itself must be emergent. We have no reason to believe any of these assumptions are correct, but all four of these assumptions can be replaced with just one, more intuitive claim: that time is fundamental. Fundamental time removes the need for order at the Big Bang, it removes the need for an explicit second law of thermodynamics or for causality itself to emerge. Generally speaking, a theory is stronger the fewer assumptions it needs to make. That is the great advantage of time fundamentalism. Moreover, seeing time as fundamental has the advantage that it tallies with our own experience.
+
+Where does my intuition for time and space come from? I think I remember being born and experiencing the transition from time into space. This does seem ludicrous because no one can remember back that far. When I was younger, I kept having a reoccurring dream. I was trapped in a place between many black bricks. I was squeezed into nothing between these black bricks, this nothingness– a total void. I felt trapped, unable to breathe, in total darkness, totally constrained, unable to move anything, yet aware. Then suddenly, I remember being pushed to the light. I could move, there was space, I had found the world in space, but still, I do remember the before – the awareness of nothing in nothing.
+
+\_\_\_
+
+If it is space that is emergent, then the origin of the universe – the Big Bang – is merely the point in time where space emerged from time
+
+\_\_\_
+
+The difficulty in imagining a universe where only time existed first is very hard, but I wonder if it is worth playing with the idea. If time is a thing, an entity, a kind of virtual escalator that keeps producing an infinite number of steps all going in one direction, would that explain our reality? Is the basis of reality time? Could reality just be time? A universe that is built from time could certainly help explain many things. If it is space that is emergent, then the origin of the universe – the Big Bang – is merely the point in time where space emerged from time. But it was not the beginning of time itself, something much harder to make sense of.
+
+The idea of the block universe that dominates contemporary theoretical physics, a timeless universe as I like to call it, confronts us with a profound problem because it is entirely deterministic and allows no room for novelty, and is entirely deterministic. What I mean by this is that in principle, if you had a large enough computer and could input the initial conditions then the universe would automatically unfold as predicted and you could slide forward and backwards in time in the universe just by moving on the time axis. According to the concept of the block universe, the past, present, and future all exist equally and simultaneously as an unchanging and eternal "block" of time.  From this point of view, time is not something that flows or passes by, but rather is an unchanging dimension that already contains the entirety of the past, present, and future. Every event, from the Big Bang to the end of the universe, already exists within this block, and our perception of time as a linear progression is an illusion.
+
+[![related-video-image](https://iai.tv/assets/Uploads/18-resized-thumbnail.webp)
+
+SUGGESTED VIEWING
+Untangling space and time
+With Tim Maudlin](https://iai.tv/video/untangling-space-and-time-tim-maudlin)
+
+This view of time, also known as eternalism, is often contrasted with "presentism", which holds that only the present moment truly exists and that the past and future are, respectively, just memories or predictions. In contrast, the block universe view holds that there is no objective distinction between the present, past, and future; they all exist equally within the block of time. The block universe concept is closely related to Einstein's theory of relativity, which suggests that the passage of time can vary depending on an observer's position and motion in space. It provides a way to reconcile the seemingly different experiences of time between different observers. The implications of the block universe view are significant, particularly in the realm of free will and determinism. If the future already exists, then it would seem to imply that our choices and actions are predetermined, and that the illusion of free will is just that - an illusion.
+
+The biggest problem with a timeless universe is that it’s not able to predict the emergence of life, and more broadly, has no room for the generation of true novelty. Novelty cannot be predicted even in principle and hence cannot exist in the block universe. I think even pure mathematics can give us hints about the fundamental nature of time. For instance, I wonder if the fact that the discovery of prime numbers, as we enumerate through integers, is related to time? We cannot know if the next number in the sequence is prime ahead of time until we check. This is because to find new prime numbers you must count through number space, and this requires resource, time. So, can prime numbers exist independent of the time required to produce them? I think this is not possible. I would say that prime numbers are mathematical objects that have a depth in time and that depth is related to the resource i.e., the time required to generate that prime number.
+
+\_\_\_
+
+Could it be that evidence of novelty is evidence of the reality of time?
+
+\_\_\_
+
+I think the existence of novelty and life in the universe is a strong indication that time is fundamental. But is it possible to quantify novelty in time? I think the theory developed to quantify the complexity of molecules, assembly theory, might be able to quantify novelty. Assembly theory shows that for any given complex molecule, the lack of symmetry can be captured in its complexity if the molecule can be detected in abundance. Assembly theory, therefore, helps us understand how complex molecules might be produced in pre-biotic, biotic, and further work. Molecules with high assembly indexes have depth in time, that is they required a machinery to build them from scratch and this machinery has a historical contingency.
+
+Could it be that evidence of novelty is evidence of the reality of time? The fact our small region of the universe is able to generate seemingly endless novel forms and creations, from evolutionary forms to culture, technology and social systems. My hypothesis is that novelty requires time to be real such that the future is intrinsically open as there are simply more options for new things in the future than the past. Could this mean that the reality of time is testable? I think so. The challenge for science is to explore the unpredictability of the future i.e., the generation of novelty that could not, even in principle, be predicted by knowledge of the past. The quantification of novelty will unlock our understanding of time.
+
+[![Deep Field James Webb min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Deep-Field-James-Webb-min.webp)
+
+SUGGESTED READING
+The Big Bang didn't happen
+By Eric J. Lerner](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
+
+The consequences of time being fundamental are far-reaching. The expanding region of space we call the universe might not die in a heat death, as thermodynamics tells us it will, but space itself will cease to exist once all matter is spread out, in countless of trillions of years. Once time ceases to measure events in space, or, more precisely, when events that rely on the past no longer occur, then space itself will cease to exist. Causality is evidenced by the existence of space. When we reach a point in the universe when nothing is happening, when there are no longer any causal connections between events, the physical universe ceases to exist.

@@ -1,0 +1,115 @@
+---
+title: "Fundamental rights and the limits of democracy"
+subtitle: "Abortion rights should not be decided by voters"
+author: "Alberto Giubilini"
+date: "11th May 2022"
+article_id: "2125"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,303 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/abortion-rights-and-democracy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/fundamental-rights-and-the-limits-of-democracy-auid-2125"
+---
+
+# Fundamental rights and the limits of democracy
+
+*Abortion rights should not be decided by voters*
+
+**By Alberto Giubilini** | *11th May 2022* | *Read time: approx. 12 mins* | *2,303 words*
+
+![Fundamental rights and the limits of democracy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/abortion-rights-and-democracy.webp)
+
+---
+
+*Who should decide whether abortion is legal or not? According to a leaked document, the US Supreme Court is about to answer that question in a new and controversial way: voters. This will overturn the status quo since 1973, when the Supreme Court decided that early term abortion was a constitutional right. Many argue that a a right so fundamental as the right to make decisions about your own body should be enshrined in the constitution rather than be subject to the opinion of the majority. But given the real moral disagreement and apparent clash between women’s right to bodily autonomy, and the right to life of the foetus, which right should prevail? Liberal democracies have the tools to answer that question, but the way the US is about to means that it risks slipping towards an illiberal democracy, writes Alberto Giubilini.*
+
+The leaked [draft opinion](https://s3.documentcloud.org/documents/21835435/scotus-initial-draft.pdf) by Supreme Court Justice’ Samuel Alito foreshadows the overturn of the 1973 *Roe vs Wade* ruling. *Roe vs Wade* grounded women’s (limited) right to abortion in the US in the 14th Amendment of the US Constitution and its implied right to privacy. Acknowledging the pervasive disagreement over the morality of abortion, the Supreme Court has now decided to “return the power to weigh those arguments to the people and their elected representatives”.
+
+**[![21 07 12.femnism.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-07-12.femnism.ata.webp)
+
+SUGGESTED READING
+The future of feminism
+By IAI Editorial](https://iai.tv/articles/the-future-of-feminism-auid-1832)**In this way, the Supreme Court is in fact *democratizing* the legal availability abortion. Which raises the ethical question about whether the legal availability of abortion should be a matter of democratic procedure, as opposed to a constitutional matter around fundamental rights. I side with the latter view. I do not think a decision over women’s right to abortion should be a matter of democratic procedure such as a State election or a referendum. And I am going to provide reasons for why I think people on either side of the abortion debate can share my view, assuming they accept some fundamental tenets of liberal democracy.
+
+\_\_\_
+
+## By electing their representatives, people in different States will have a say on whether and to what extent women should have a legal right to access abortion services in that State.
+
+\_\_\_
+
+# Constitutional Rights vs Democracy
+
+It’s important to get some details straight first. The new ruling is not about the legal or ethical permissibility of abortion. It is a ruling about where, in the US, the legitimate authority to regulate abortion lies. *Roe v Wade* took the American Constitution to support a right to abortion. This new ruling places the authority on individual States. This means elected representatives in each State will have the power to regulate abortion in their own jurisdiction. By electing their representatives, people in different States will have a say on whether and to what extent women should have a legal right to access abortion services in that State.
+
+I also want to avoid the [misleading](https://www.theguardian.com/commentisfree/2022/may/03/as-the-us-supreme-court-moves-to-end-abortion-is-america-still-a-free-country?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1651580584) claims that the US Supreme Court is itself moving to end abortion. It isn’t. It is enabling States to take responsibility for that decision by declaring the Constitution silent on the matter. In fact, many states will keep abortion legal, although the ruling will result in some other States banning or severely restricting legal abortion.
+
+\_\_\_
+
+## Most liberal democracies, exactly like the US, enjoy a separation between some form of constitutional law and ordinary law.
+
+\_\_\_
+
+The US legal system can seem of little relevance outside the US. Each country legislates about abortion using its own Constitutional and legal mechanisms. For instance, Ireland held a referendum in 2018 to lift its Constitutional ban on abortion, which allowed the Parliament to eventually legalize abortion in certain circumstances. However, most liberal democracies, exactly like the US, enjoy a separation between some form of constitutional law and ordinary law. The former sets the limit for the latter, thus guaranteeing that certain civil liberties and fundamental rights are not threatened by a majority supporting to abolish them.
+
+There is a sense in which there is no real tension between the two models, as they both fall within the realm of democracy. For instance, the composition of the Supreme Court in the US is itself the result of democratic procedures: its members are appointed by democratically elected Presidents. They reflect the values of the people who elected those Presidents. And the Constitution can in principle be amended by democratically elected representatives.
+
+However, Supreme Court judges are not there to reflect the values of the President who appointed them (and who the people voted for), but to judge whether some laws contradict the Constitution. Moreover, even if judges’ own values can affect the interpretation of the Constitution, we need to bear in mind that nomination of a new Supreme Court member in the US or its equivalent in other countries is a rare event. Some of the members might reflect values that the majority of people no longer hold. Constitutions, in the US and elsewhere, are also very difficult to amend. Amending a Constitution typically requires a very large majority of  elected representatives and happens very rarely. Although they are democratic procedures, these are less sensitive to people’s current values than referenda or political elections. Referenda and elections are more frequent, easier to run, and can be set up relatively quickly to respond to changing circumstances.
+
+\_\_\_
+
+## A right to abortion will become a matter of simple majority rule.
+
+\_\_\_
+
+Thus, **t**he Supreme Court in the US is democratizing abortion by making it more sensitive to people’s views *here and now*, within a smaller community (a State) at a certain time (the length of a legislature before new State elections are held). A right to abortion will become a matter of simple majority rule.
+
+What can possibly be wrong with it? Isn’t that how democracy works? It depends on what kind of democracy we are talking about.
+
+# Fundamental rights
+
+# and the limits of majority rule
+
+We live in *liberal* democracies. Protection of some fundamental rights and liberties is not subject to a simple majority rule. There are strict safeguards to protect fundamental rights and liberties against the simple majority rule. Ethically, politically, and historically, civil liberties and other basic rights precede and are the foundation of liberal democracy, not the other way around. If certain democratic procedures don’t preserve such liberties and rights, it is these democratic procedures, not the liberties and rights, that should be changed.
+
+Some would be tempted to conclude from all this that the right to abortion should be grounded in some Constitutional protection (as *Roe v Wade* did). They would claim that rights over one’s body (or one’s privacy, if one accepts the justification behind *Roe v Wade*), are not the kind of things that should be left up to a simple majority rule. They are precisely the kinds of things that liberal democracies exist to protect.
+
+However, things are not that simple. A right to abortion would need a stronger justification than an appeal to women’s rights to privacy or right over their body. For, of course, a right to abortion is not just about women’s rights over their body or their privacy. If it was, there would be very little left to discuss. A right to abortion is also about a human being’s right to life.
+
+\_\_\_
+
+## Even if you support abortion rights, you would still need an argument for why a foetus does not have a right to life or for why a woman’s right over her body trumps that right.
+
+\_\_\_
+
+The challenge, from an ethical point of view, is to identify the rights at stake, their respective strength, and the relationship between them. Does a human foetus have a right to life? Why? And even if it does, should a pregnant woman be under a legal obligation to protect that life, or does her freedom over her body clear her of any such responsibility? These are difficult questions, which I only mention to illustrate the ethical complexities at stake.  Even if you support abortion rights, you would still need an argument for why a foetus does not have a right to life or for why a woman’s right over her body trumps that right. A right to life, *when it exists*, is a at least as fundamental and as worth of protection in liberal democracies as a right over one’s body or a right to privacy. So what is to be done when there is an apparent clash between fundamental rights?
+
+We are in the presence of irresolvable disagreement on a fundamental ethical (and, for some, religious) issue. Those who think a foetus is a person with a right to life would find it hard to accept that a woman’s right over her body, or a right to privacy, or her right not to become a mother, trump the foetus’ right to life. If abortion is (comparable to) murder the threshold for its justification must be much higher than that. Those who think a foetus does not have a right to life, or that women bear no responsibility for the preservation of such life, would claim that any state imposition on what can be done to women’s body violates one of those fundamental rights that liberal democracies are meant to protect.
+
+We are not going to solve this disagreement**.** The question, then, is whether, in light of irresolvable disagreement on matters of civil liberties and fundamental rights, liberal democracies should legislate on the basis of a simple majority rule. My answer is still no, but the justification is not simply based on the fact women’s right over their body or their right to privacy are fundamental liberties. It is about how these types of fundamental moral disagreements should be settled in liberal democracies.
+
+\_\_\_
+
+## What makes disagreement reasonable, and therefore acceptable, is the fact that individuals can live up to their own values while respecting fundamental liberties and rights of those who don’t agree with them.
+
+\_\_\_
+
+*Reasonable* pluralism is a key value of such democracies: we need to find ways to live with and respect each other, with all our irresolvable ethical and religious disagreements. To this end, not all disagreement is acceptable. What makes disagreement reasonable, and therefore acceptable, is the fact that individuals can live up to their own values while respecting fundamental liberties and rights of those who don’t agree with them, including their freedom of conscience, their right to life, to private property, and so on.Thus, liberal democracies allow as much freedom as possible to each individual while guaranteeing equal freedom to other individuals. Disagreements about the permissibility of murder or theft, for instance, are not reasonable because these acts deprive others of some fundamental rights (to life or to private property).That is why the legal permissibility of killing other people or depriving them of their private property are not up to a majority rule.
+
+Abortion falls in the same category. This means that in liberal democracies the right to abortion is protected by a basic principle of freedom to live up to one’s own ethical views, or freedom of conscience, as long as this is compatible with the enjoyment of equal freedom by those who have a different view. If we think that the disagreement on abortion is really irresolvable, and if both parties want to be reasonable in the sense described above, freedom in the liberal democratic sense of the term means that those who are opposed to abortion should be free to live up to their own moral views (no one should force them to have abortions) as long as those who are in favour of abortion can live up to theirs (no one should force them to forgo an abortion).
+
+After all, although the overturning *Roe v Wade* would be welcome by pro-life people, it is unclear why they would themselves want the right to abortion to be up to a mere majority rule. If you think abortion is murder, you would consider the right to life of the foetus another fundamental right that liberal democracies should always protect, no matter what the majority happens to think here and now – just like your right to life or your right to private property, and so on. Protecting a right to life of the foetus in that way would require the same complex procedures typically adopted to amend Constitutions or to ground rights in existing constitutional safeguards.
+
+\_\_\_
+
+## A state banning abortion might not violate any Constitutional constraint, but would violate a principle of freedom of conscience, which Constitutions are meant to protect.
+
+\_\_\_
+
+Whether a right to life of the foetus should be protected via Constitution can be up for debate, of course. But that kind of debate has its own ‘rules’ that are independent of democratic procedures. A discussion about what rights a Constitution should protect has certain constraints on what kinds of reasons and arguments are admissible, which democratic procedures like referenda and elections do not have. For example, in secular pluralistic societies, arguments about what Constitutional rights exist should not appeal to specific religious faiths, whereas nothing prevents a majority from voting for or against a certain policy or a certain candidate on the basis of their religious faith.
+
+Whether it is possible to justify in this way a Constitutional right to life of a foetus (by sacrificing a right to abortion of women) is a question I am happy to leave open. But as long as that justification and that Constitutional constraint do not exist liberal democracies should err on the side of freedom. In this case, the freedom to live up to one’s own ethical views on abortion. A state banning abortion might not violate any Constitutional constraint, but would violate a principle of freedom of conscience (in this case, about abortion) which Constitutions are meant to protect. If current Constitutions cannot protect it in their current form in the case of abortion, that might well be a reason to amend them in that direction.
+
+In the US as well as elsewhere, we might want to avoid the risk of turning liberal democracies into illiberal ones.

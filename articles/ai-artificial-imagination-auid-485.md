@@ -1,0 +1,73 @@
+---
+title: "AI: Artificial Imagination?"
+subtitle: "Can we teach computers to think creatively?"
+author: "Margaret Boden"
+date: "Issue 26, 17th January 2015"
+article_id: "485"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,006 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Margaret-Boden.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/ai-artificial-imagination-auid-485"
+---
+
+# AI: Artificial Imagination?
+
+*Can we teach computers to think creatively?*
+
+**By Margaret Boden** | *Issue 26, 17th January 2015* | *Read time: approx. 5 mins* | *1,006 words*
+
+![AI: Artificial Imagination?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Margaret-Boden.webp)
+
+---
+
+Most of us are fascinated by creativity. New ideas in science and art are often hugely exciting – and, paradoxically, sometimes seemingly “obvious” once they’ve arrived. But how can that be? Many people, perhaps most of us, think there’s no hope of an answer. Creativity is deeply mysterious, indeed almost magical. Any suggestion that there might be a scientific theory of creativity strikes such people as absurd. And as for computer models of creativity, those are felt to be utterly impossible.
+
+But they aren’t. Scientific psychology has identified three different ways in which new, surprising, and valuable ideas – that is, creative ideas – can arise in people’s minds. These involve combinational, exploratory, and transformational creativity. The information processes involved can be understood in terms of concepts drawn from Artificial Intelligence (AI). They can even be modelled by computers using AI techniques.
+
+The first type of creativity involves unfamiliar combinations of familiar ideas. This is widely recognised. Indeed, it’s usually the only type that’s mentioned, even by people professionally committed to the study of creativity. Examples include puns, poetic imagery, and scientific analogies (the heart as a pump, the atom as a solar system).
+
+The second, exploratory creativity, arises within a culturally accepted style of thinking. This may involve cooking, chemistry, or choreography, and, of course, it may concern either art or science. The notion that creativity is confined to the arts or to the “creative industries” is mistaken.
+
+In exploratory creativity, the rules defining the style are followed, explored, and sometimes also tested in order to generate new structures that fit within that style. An example might be another impressionist painting, or another molecule within a particular area of chemistry. So rules aren’t the antithesis of creativity, as is widely believed. On the contrary, stylistic constraints make exploratory creativity possible.
+
+The third and final form is transformational creativity. This grows out of exploratory creativity, when one or more of the previously accepted rules is altered in some way. It often happens when testing of the previous style shows that it cannot generate certain results which the person concerned wanted to achieve. The alteration makes certain structures possible which were impossible before.
+
+For instance, the “single viewpoint” convention of classical portraiture implies that a face shown in profile must have only one eye. But cubism dropped that convention. Features visible from any viewpoint could be represented simultaneously – hence works such as Picasso’s *The Weeping Woman* (1937), which depicts its subject with two eyes on the same side of her face.
+
+As that example reminds us, transformational creativity often produces results that aren’t immediately valued, except perhaps by a handful of people. That’s understandable, because one or more of the previously accepted rules has been broken.
+
+All three types of creativity have been modelled by computers (and all have contributed to computer art). That is not to say that the computers are “really” creative. But it does demonstrate that they at least appear to be creative. Their performance would be regarded as creative if it were done by a person.
+
+You might think that, with respect to combinational creativity, this isn’t surprising. After all, nothing could be simpler than to provide a computer with words, images, musical notes etc and get it to combine examples at random. Certainly, many of the results would be novel, and surprising.
+
+Well, yes. But would they be valuable? Most random word combinations, for instance, would be senseless. A practiced poet might be able to use them in a way that showed their relevance – to each other and/or to some other ideas that we find interesting. But the computer itself could not. Unless the programmer had provided clear criteria for judging relevance, the random word combinations couldn’t be pruned to keep only the valuable ones. There are no such criteria, at present – and I’m not holding my breath!
+
+Those few AI models of creativity that do rely on novel combinations generally combine random choice with specific criteria chosen for the task at hand. For example, a joke-generating programme called JAPE churns out riddles like these:   
+  
+ Q: What do you call a depressed train?
+
+A: A low-comotive
+
+and
+
+Q: What do you get if you combine a sheep with a kangaroo?
+
+A: A woolly jumper.
+
+JAPE is really doing exploratory creativity. It has structured templates for eight types of joke, and explores the possibilities with fairly acceptable results.
+
+Exploratory creativity in general is easier to model in computers than combinational creativity is. But that’s not to say it’s easy: the style of thinking concerned has to be expressed with the supreme clarity required by a computer programme. In JAPE, the style is the joke template. In other cases, it’s a way of writing music (from a Bach fugue to a Scott Joplin rag), or of drawing Palladian villas or human figures. All these, and more, have been achieved already.
+
+Many people assume that transformational creativity is the most difficult of all for computer modelling – perhaps even impossible. After all, a computer can do only what its programme tells it to do. So how can there be any transformation?
+
+There can be, if the programme can alter its own rules. Such programs exist, and are used not only in some computer art but also in designing engines. They are evolutionary programmes, employing “genetic algorithms” inspired by mutations in biology to make random changes in their rules.
+
+Some evolutionary programmes can also prune the results, selecting those which are closest to what the task requires, and using them to breed the next generation. That’s true of engine-design systems, for instance. Often, however, the selection is done by a human, because the programme can’t define suitable selection criteria to do the job automatically. In short, transformation isn’t the problem. The key problem again is relevance, or value.
+
+So creativity is, after all, scientifically intelligible, as I’ve argued in my books *The Creative Mind: Myths and Mechanisms* (2004) and *Creativity and Art: Three Roads to Surprise* (2010). But it’s not scientifically predictable. Human minds are far too rich, far too subtle, and far too idiosyncratic for that.
+
+**Image credit: [Saad Faruque](https://www.flickr.com/photos/cblue98/7254347346)**

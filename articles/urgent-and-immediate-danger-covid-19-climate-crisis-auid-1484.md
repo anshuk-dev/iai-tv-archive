@@ -1,0 +1,59 @@
+---
+title: "Urgent and immediate danger"
+subtitle: "Lockdown could be our planet’s last chance"
+author: "Caroline Hickman"
+date: "Issue 87, 27th April 2020"
+article_id: "1484"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,709 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-04-27.hickman2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/urgent-and-immediate-danger-covid-19-climate-crisis-auid-1484"
+---
+
+# Urgent and immediate danger
+
+*Lockdown could be our planet’s last chance*
+
+**By Caroline Hickman** | *Issue 87, 27th April 2020* | *Read time: approx. 9 mins* | *1,709 words*
+
+![Urgent and immediate danger](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-04-27.hickman2.webp)
+
+---
+
+*The reaction to the Covid-19 pandemic proves we can take swift and significant action when we fear we are in danger. But far more are endangered by a mounting climate crisis. Will we learn the lessons of Covid-19 and act to prevent this disaster too, or simply return to 'normal' when the pandemic subside, dooming millions to death by environmental disaster?*
+
+I think one of the things that concerns me the most at the moment is what stories we are going to have to tell ourselves about why the climate & biodiversity crisis couldn’t be acted on urgently and drastically enough– now that our argument that we cannot take urgent and rapid steps has been so simply and quickly proven disproven by our response to coronavirus. What possible excuses will we have to dream up now that this argument, excuse or rationalisation has been removed?
+
+I had the strangest experience today when I had to go out to buy some food; and given how our everyday existence now seems to have morphed into a dystopian dreamworld, to notice something and call it strange suggests that this was ‘really’ peculiar.
+
+As I was walking through the doors of the shop, having queued outside for the now routine 30 minutes or so, observing careful social distancing, I was suddenly overwhelmed by tearfulness; I wanted to cry, it hurt, it was painful. Such an ordinary everyday experience can now make me so aware of my feelings of acute vulnerability and feel so lost, as if I had become Alice through the rabbit hole of the shop doorway.
+
+Today I became acutely aware of the frightened eye contact shared with other shoppers, fearful glances as if to say ‘have you the power to kill me, is it ok to be anywhere near you?’; I used to reserve that fear for dark streets, not people in the bread aisle. I thought about the courage of the shop workers as they served person after person. I wore plastic gloves and a mask, wiped down the trolley, my car keys, the steering wheel. Left the shopping sat on the floor for hours at home before unpacking, washed my hands & face and changed my clothes. And you know what – I’m not even that scared of catching the virus. Concerned yes, of course I am, but I think I have probably had it already given the symptoms I had in March and the post viral exhaustion I’m feeling now; but that’s not what scares me the most about this time. I think there are far scarier things, much greater risks. Especially those stories that will soon start to be told.
+
+I shudder whenever I hear the words ‘when we get back to normal’, feel horror when I hear about the economy needing to grow again.
+
+I shudder whenever I hear the words ‘when we get back to normal’, feel horror when I hear about the economy needing to grow again. I’m not sure I can bear to see the photographs of cities showing the skies before shutdown (grey and pink with pollution) and during (blue clear skies, pollution free) and I dread the next set (grey and polluted) again once shutdown is lifted. I dread any ‘return to normal’ because we were not doing so well really, were we. Maybe many of us had just become numb to living in desperate conditions and stopped seeing or caring about the destruction we were wreaking all around us. How else can we explain our collective failure to act on the far greater threat of the climate & bio-diversity crisis in comparison with our now proven ability to act swiftly on the virus crisis?
+
+What I am most afraid of is not the climate and biodiversity crisis either. Despite knowing that the ecological systems on which we depend for life are in crisis, under increasing threat, with an earth that is heating up more every year, uncontrolled deforestation, fires, dying coral reefs, soil degradation, melting glaciers, poisoned air and mass extinction of other species. No, that is not what is causing me most anxiety. The fact that we know this is human caused, that the ecological, social, health and cultural threats that accompany this with the complex psychological challenges, scale & urgency of the crisis that can feel overwhelming; no, that isn’t what frightens me the most either. Scientific evidence tells us (repeatedly) that we are on a frightening and ‘out of control’ path with most parts of the planet heading rapidly towards an uninhabitable state for humans or animals. Scary, yes, of course, but the most worrying, no.
+
+[![related-video-image](https://iai.tv/assets/Uploads/image4.webp)
+
+SUGGESTED VIEWING
+Modern Crises and Ancient Gods
+With Natalie Bennett, David Malone, Sister Jayanti , David King](https://iai.tv/video/modern-crises-and-ancient-gods)
+
+What I am most afraid of is that we will continue to fail to learn the lessons that are being offered to us increasingly clearly, and in so doing we will continue to fail ourselves, we will fail the children and other species on this earth who depend on us to make wise choices. I fear that hubris will be avoided, that we will fail to accept our vulnerability, our interdependence on others (human and non-human), that our arrogance, greed and our stupidity will be the louder voice that shouts out for a return to ‘normality’. I’m most afraid that we will fail to see that we are facing a pandemic that is of our own making that we will struggle to deal with this one, but by going back to ‘normal’ we will just unleash another, and another, until we are done and we create an uninhabitable planet before climate change gets a chance to do it for us. That’s what scares me more.
+
+I have been listening to how children and young people feel about and view the climate and biodiversity crisis for 5 years. And it can be hard to hear their anger, grief, rage and clear sighted, uncompromising despair. Whilst they are anxious, angry and sad about the crisis itself, especially the plight of children, other species and for their own futures, what they have told me that causes them the most despair is that adults have failed to act on the scientific evidence, have failed to take the steps needed to deal with the crisis (despite having known about it for decades), continue in denial and disavowal, and may not even now act on this, despite the lessons that the current pandemic is gently nudging us to pay attention to. And I deliberately use the words ‘gently nudging’, because the deaths of billions of animals in the recent Australian fires didn’t seem to get through to us collectively, the floods and rising temperatures do not seem to make a sufficient dent in our defences either. But this pandemic is the first of many if we continue to destroy biodiversity, forests and treat animals as if they were of no value other than to be exploited and eaten, and this might just get our attention, maybe, but only if we pay attention to some of the lessons inherent in this crisis.
+
+I’m most afraid that we will fail to challenge the arguments about ‘normality’ and so fall back into the old way of living and so miss this chance.
+
+So, let me tell you a little of what these children and young people have told me. One young person said to me ‘*people always create what they fear the most, and people fear death the most, so in the climate crisis we are creating our own death and  the apocalypse’*. Another said to me ‘*climate change is like Thanos in the Avengers End Game film. His ideology was to kill off half the planet so the other half could thrive, but the trouble is, we are the half being killed off’*. These young people were not in the UK, they were in a country that will be lost soon because of rising sea levels. They know this, and they feel the rest of the world is doing nothing to help them.
+
+A teenager in the UK tells me that he is suicidal. It’s not that he wants to die, but that he cannot face living through any return to ‘business as usual’. He tells me that he feels repeatedly depressed by both the knowledge of the environment and climate crisis, but even more so by the failure of those in power who know the solutions and still fail to act on them. I am afraid that we will continue to betray and abandon our children by failing to get wise, that we will long to return to the collective insanity of ‘normality’ that was taking us down a steep path to destruction of the planet whilst arguing that the changes needed were too difficult to take. But that’s no longer an argument that has any credibility because here we are actually taking them now, so in fact we were able to all along. So maybe we were lying to ourselves, and the children. I’m most afraid that we will fail to challenge the arguments about ‘normality’ and so fall back into the old way of living and so miss this chance to stop, think and say, ‘hang on a minute’, because look, it is possible isn’t it. And in so doing increase the despair of the children and young people who can see through this defence, and see it as the lie that it is.
+
+Because this moment in time is giving us an opportunity to glimpse some of what life might look like if we collectively and globally started to take the threat of the climate and biodiversity crisis seriously and take action. As we now know we can do. But I am most afraid that we will not risk doing this, that we will not take this opportunity; I am most afraid of our inherent self-destructiveness and need to conquer and control ‘nature’ dressed up as a rational argument about progress. And that will be the biggest lie we ever tell ourselves, but the lure of freedom and growth may be too strong to resist, so we will sacrifice the children of the world and the other animals, and the planet so we can have a momentary illusion of being in control again. Until that too fails. We may have to do this scary dance a couple of times before we learn this lesson, or not.

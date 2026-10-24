@@ -1,0 +1,69 @@
+---
+title: "We need new physics not new particles"
+subtitle: "Sabine Hossenfelder, Gavin Salam, and Bjørn Ekeberg debate the future of particle physics"
+author: "Alexis Papazoglou"
+date: "27th September 2023"
+article_id: "2611"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,283 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-10-20.We-need-new-physics-not-new-particles.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-need-new-physics-not-new-particles-auid-2611"
+---
+
+# We need new physics not new particles
+
+*Sabine Hossenfelder, Gavin Salam, and Bjørn Ekeberg debate the future of particle physics*
+
+**By Alexis Papazoglou** | *27th September 2023* | *Read time: approx. 6 mins* | *1,283 words*
+
+![We need new physics not new particles](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-10-20.We-need-new-physics-not-new-particles.webp)
+
+---
+
+*An ancient idea is still alive in the most advanced theory of physics today: that matter consists of a set of ultimate particles. But the obsession with going beyond the Standard Model and finding more and more particles to solve the problems of physics is victim to a theoretical and experimental framework that has run its course. Sabine Hossenfelder, Gavin Salam, and Bjørn Ekeberg debate the future of particle physics at HowTheLightGetsIn festival.*
+
+The question of what the material world around us is made of, and whether that stuff - matter - is infinitely divisible or if at some point we reach the pixels of existence started out as a philosophical one. Democritus, born around 460 BC, thought he could answer it using reason alone. Matter couldn’t possibly be infinitely divisible, theorised Democritus. It therefore consisted of “atoms”, from the Greek word for indivisible – the ultimate units of matter that could not be broken down any further. This ancient idea is in still alive in the most advanced theory of physics today, The Standard Model. Particle physics may have given the name “atom” away prematurely, as we later discovered that what we today call atoms do have constituent parts, other particles - electrons, protons, and neutrons, which in turn are made of other, more fundamental particles. In total, the Standard Model inventory contains a total of 17 particles.
+
+The contemporary search for the fundamental building blocks of the universe has been driven by a reductionist philosophy: get to the bottom of what everything is made of, and we will finally understand the mysteries of the cosmos. It’s true to some extent, the Standard Model represents one of the most successful scientific theories ever devised, giving us an extraordinary ability to manipulate matter. Its predictions have been tested experimentally probably more than any other theory, and despite talk of cracks in the theory, for the most part it has proved incredibly robust. And yet, particle physicists want to dig deeper, build bigger accelerators, and search for particles that could help solve problems like dark matter and dark energy. But not everyone thinks that’s a good idea.
+
+\_\_\_
+
+The term “particle” is part of a theoretical and experimental framework, and the meaning of “electron”, “photon”, “fermion”, “quark” etc. only make sense with reference to those two frameworks.
+
+\_\_\_
+
+During the debate “Particles, Physics and Fairy Tales” at London’s HowTheLightGetsIn festival, theoretical physicist and YouTuber extraordinaire Sabina Hossenfelder, distinguished particle physicist Gavin Salam, and radical philosopher of science Bjørn Ekeberg, grappled with the question of whether particle physics has run its course.
+
+The starting point of any discussion about particle physics today should be an account of what we’re even talking about when we’re talking about particles. Particle physicists may have a pretty good idea of what particles are, “they at least have that going for them”, Sabina Hossenfelder joked on stage, but explaining to a non-physicist what particles are is far from straightforward. Physics is well past Democritus’ version of atoms as irreducible bits of matter. The term “particle” is part of a theoretical and experimental framework, and the meaning of “electron”, “photon”, “fermion”, “quark” etc. only make sense with reference to those two frameworks. When asked what a particle is, Sabina Hossenfelder answered “an irreducible representation of a Poincare group”. Since abstract algebra and group theory in particular is the language of the Standard Model, the meaning of its key theoretical terms is best defined through mathematics, which famously doesn’t translate into natural language all that easily.
+
+\_\_\_
+
+When we probe deeper into the structure of matter we don’t find indivisible stuff – we find fields and energy.
+
+\_\_\_
+
+But particles are also experimental phenomena, as Bjørn Ekeberg reminded us. They are only ever detected under specific experimental conditions, and most often not directly but through their effects. On top of that, experiments and observations are also theory-laden. We need a certain concept of “particle” to set up an experiment looking for one in the first place, even if we expect the experiment to tell us whether that particle exists and what it does. Particles then are “experimental helpers” not units of nature. The ontology of particles only makes sense only within a certain experimental (and theoretical) context – that of particle colliders. The concept of particle then is “not what most people think of as a particle”, and perhaps we should even give up on the very idea of ultimate, indivisible units of matter, Ekeberg argued. When we probe deeper into the structure of matter we don’t find indivisible stuff – we find fields and energy.
+
+But if the behaviour of particles we’re observing in experiments is theory-dependent, and the concept “particle” is itself a theoretical construct, can we say that our theory of particles, the Standard Model, is really a representation of reality? Hossenfelder and Salam were in agreement on this – the Standard Model might be a good description of reality as we experience it through experiments, but whether it is a true representation of reality, whether particles really exist “out there” and are not simply a useful theoretical tool, is not something that can be answered by physics. The realism – anti-realism debate remains firmly in philosophical terrain.
+
+\_\_\_
+
+“Science is a constant investigation. If you stop investigating, you’ve stopped doing science.”
+
+\_\_\_
+
+Unsurprisingly for a particle physicist, Gavin Salam said he was keen for more probing when it comes to the Standard Model. Just because it seems to work well, doesn’t mean it is the final word in particle physics, and argued that it’s dangerous in science to have a blind spot: “Science is a constant investigation. If you stop investigating, you’ve stopped doing science.” For Salam, the success of finding the Higgs Boson in 2012 has still left a number of big questions open, including about the Higgs field itself – a field that is meant to be as powerful as the sun’s energy would be if it was concentrated within the space of a shipping container . What is more, more experimental work could potentially give us answers about the nature of dark matter and dark energy –both postulated to make sense of the rate of expansion of the universe. Build a new collider, and a new discovery is guaranteed!
+
+But this is where Hossenfelder’s longstanding objection to particle physics becomes most pertinent. Particle physicists keep postulating new particles as potential solutions to our current theoretical problems, but there’s a kind of self-serving aspect to that kind of research project. Particle physicists claiming that what we need is more particle physics is just a covert request for further funding.  Sure, creating a bigger particle accelerator might reveal more particles, and it might also solve some of the puzzles the Standard Model leaves open, but there are more useful (and cheaper) experiments we could we funding with the extraordinary amount of money a new accelerator would require – 40 to 50 billion dollars. Quantum information theory, and quantum computing might prove instrumental to solving perhaps the biggest conundrum – how gravity can be accommodated by the Standard Model, Hossenfelder argued.
+
+[![related-video-image](https://iai.tv/assets/Uploads/AdobeStock-195544027.webp)
+
+SUGGESTED VIEWING
+The crisis of particle physics
+With John Ellis, Jim Baggott, Sabine Hossenfelder, David Malone](https://iai.tv/video/the-mystery-of-reality)
+
+Ekeberg echoed these concerns. Assuming dark matter exists, and that a particle is behind it, is merely an attempt to plug a gap in our current cosmological theory. A new particle becomes simply a placeholder for “there’s something we don’t understand here”. Instead of trying to fill in the holes in our theories with more particles , physicists might produce more fruitful results by examining the different theoretical frameworks they are operating under, and seeing how they “hang together”. Perhaps a fusion of cosmology’s Standard Model, with the Standard Model of particle physics will prove more fruitful that generating more experimental data, and producing yet another particle. A new particle alone can’t save physics.

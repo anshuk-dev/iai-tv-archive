@@ -1,0 +1,90 @@
+---
+title: "Rethinking Capitalism"
+subtitle: "Is capitalism the only viable economic system?"
+author: "Alex Callinicos"
+date: "Issue 35, 15th August 2015"
+article_id: "556"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "2,130 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Alex-Callinicos-35.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rethinking-capitalism-auid-556"
+---
+
+# Rethinking Capitalism
+
+*Is capitalism the only viable economic system?*
+
+**By Alex Callinicos** | *Issue 35, 15th August 2015* | *Read time: approx. 11 mins* | *2,130 words*
+
+![Rethinking Capitalism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Alex-Callinicos-35.webp)
+
+---
+
+As China and Russia adopt their own variants, the reign of capitalism seems absolute. Yet there are many who wish for an alternative and some who claim a final crisis is in the making. Is there a radical alternative that we have not yet discovered? Or is the reality that capitalism is the only viable economic system?
+
+Alex Callinicos is a Zimbabwean-born Marxist political theorist. He is Editor of International Socialism and Professor of European Studies at Kings College London, His books include *Imperialism* *and the Global Economy*. Here he speaks to the IAI about capitalism, the state of the left, and his proposals for a democratically planned economy.
+
+**Tobias Phibbs: Before we begin, how would you define capital and capitalism?**
+
+Marx said that the distinctive thing about capitalism is that it is self-expanding. In other words, capitalism represents a situation in which money its able to grow, to be more by the end of a cycle of investment than it was at the beginning. This seems like a mysterious process, but Marx argues that the solution to the problem of capital’s self-expanding quality is the way it is invested in employing workers who create more value than is represented by their wages. This is the key to exploitation under capitalism. Marx is therefore arguing that capitalism is necessarily an exploitative system.
+
+From this perspective capitalism is a social and economic system where capital prevails. This involves exploitation of wage labour, the appropriation of what Marx calls surplus value in the form of profits by the owners of capital. The second feature is competitive accumulation. In other words, the capitalist class is not a unified homogenous collective; they compete with each other, each trying to maximise their share of the surplus value, and this competition puts constant pressure on individual firms to reduce their costs. It compels them to accumulate – in other words, to invest in improving their methods of production. This is the driving force behind both the expansion of human productive powers under capitalism, but also the crises that Marx sees as a necessary feature of capitalism.
+
+**TP: And the proposed solution is a democratically planned economy?**
+
+Well, that’s my theory. Many people think you can counter the excesses of capitalism through different forms of regulation to eliminate the more obnoxious and destabilising behaviour of capitalism. But the record suggests that this isn’t very realistic. Regulation doesn’t work partly because corporate lobbying limits its effectiveness and partly because the banks and hedge funds and so on have enormous incentives to bypass it. So the solution in my view is a systemic change which would involve replacing capitalism with democratic planning.
+
+**TP: It’s worth mentioning that capitalism isn’t quite the anarchic system of free markets that we sometimes imagine it to be. There is already a degree of economic planning: as Ha Joon Chang has shown, the state has always had a role in capitalist innovation. So what would a democratically planned economy look like and what would separate it from experiments in democratic capitalism that already take place?**
+
+You’re absolutely right that there are different forms of planning under capitalism, but they tend to be partial and practically organised. Corporations make plans, states make plans, but overall they do it in a hierarchical way that does not involve most people in the decisions that affect their lives.
+
+In addition, these plans affect only fragments of the system and are driven by vested interests. Planning under capitalism involves planning to compete more effectively. It does not abolish the competition that drives the system towards crises. It only modifies the particular form of that competition.
+
+Democratic planning, on the other hand, has two features: firstly, it involves planning the economy as a whole. In principle, the allocation and use of resources in the global economy would all be included in planning. Secondly, the planning would all be democratically organised. In other words, it would radiate upwards from networks of consumers and producers who would negotiate among themselves about how best to use the resources that they control. Those are the key features of economic planning in the contemporary world.
+
+**TP: The question of democracy is a fraught one. Is the belief that democratic planning will necessarily produce better social outcomes a statement of faith in people, or is there something else going on?**
+
+The American colonies broke away from Britain on the basis of no taxation without representation. The underlying principle is that people should have a share in the decisions that affect their lives. Democratic planning is a radical extension of that principle. Are the outcomes likely to be better than under the existing system? There’s absolutely no guarantee that they will be because majorities can make mistakes just like boards of directors of investment banks.
+
+However, democratic planning would enable a different range of alternatives to be considered and according to different criteria. One of the problems with capitalism is the way in which economic calculations involve transforming everything into abstract quantities of money. But those things that are important for us to value are not necessarily translatable into those kind of quantities. This is reflected in the kind of difficulties that governments and corporations have when they try to take into account the environmental impact of particular decisions. One of the important changes that democratic planning would involve would therefore be a shift to being guided by a much more qualitative set of considerations than the very narrow quantitative dimensions of money and profit that we find under the current system.
+
+**TP: This is a radical transformation of society but it still seems to have elements of continuity with the current way that society is organised. Marx famously advocated that a socialist society would be one in which nobody has one specific sphere of activity but each can become accomplished in any branch he wishes. In the 21st century, is this totally utopian? Could breaking down the division of labour feasibly be part of a future vision of society?**
+
+The important continuities are the concept of economic efficiency – even if the criteria are more complex – and a concern for democracy, which of course is one of the standing values of our own societies. Democratic planning involves extending democratic principles to the economy where they don’t currently reign.
+
+That passage you cite from the German Ideology is definitely tongue in cheek. But, even if Marx did mean it seriously, it is not really defensible because you cannot run a complex economy governed by the criterion of economic efficiency and just allow people to do what they like: there would have to be a degree of specialisation and long-term commitment to particular activities. The difference would be that people would have a much broader choice about what they can do than most people have at the present time and if people wanted to change then there’d be greater opportunities to retrain than currently exist in contemporary capitalism. But I don’t think one can simply abolish the division of labour: it’s a prerequisite of any economy. A significant degree of specialisation is needed, but it needn’t be the kind of prison that it tends to be in contemporary society.
+
+**TP: One anarchist critique is that, if you have a group of experts, they’re likely to be leading the transformation for society. How do you avoid the crystallisation of experts as a distinct class?**
+
+It is a mistake to think we are ruled by experts. Notoriously the people in charge of banks don’t understand the complex financial instruments they make money from. In the Soviet Union what happened was not that the managers took control, but that the political bureaucrats took control. Inequality is not a consequence of the need for experts.
+
+In addition, a generalised high level of education will make it less likely for a narrow group of people to derive exceptional power simply by monopolising information or a particular skill.
+
+The need for experts is not the problem. The experience of the Soviet Union shows that we need to worry about the possible sources of recentralisation of power. What causes that is not expertise; it’s to do with scarcity and competition.
+
+**TP: What are the realistic chances of transforming society and democratising the economy in the ways you suggest?**
+
+At this exact point of time they don’t look very high, because the left in all its varieties is weak and discredited – we’ve just seen a spectacular crumbling of the leftist government in Greece. But one has to take a long historical perspective. The left has been much stronger in my own lifetime, and I don’t see why there can’t be the re-emergence of a much stronger left that can be the bearer of the kind of political and economic vision that I’m talking about.
+
+**TP: You mention Syriza. Having been elected on a radical far left programme, Syriza are arguably now enforcing the very same reified class practises as the Eurozone, as the Troika, in some respects draining energy from a genuine social movement. The Greek agricultural and working classes will have a harder time resisting austerity once it has been imposed by an apparently benign left-wing government. What do you think the lessons are of Syriza’s failure, if you’d call it that?**
+
+I agree with the first part more than the second. In the first case, Syriza has clearly failed. It has failed because of a fundamental flaw in its strategy, which, as several people have pointed out, was that it thought it could end austerity through agreement with the Eurozone. But it was clear from the start that that sort of deal was not on offer. For example, the German finance minister made it absolutely clear that he thinks the entrenchment of austerity throughout the Eurozone is necessary and getting Greece out of the Eurozone would be helpful.
+
+The Syriza government should have done what former Finance Minister Yanis Varoufakis argued for, which was to negotiate with the Eurozone, but at the same time to prepare to take control of their financial system. But they played for time and allowed the European central bank to shut the Greek banks down, and paralyse the economy. It was the delusion of a negotiated end to austerity that has caused this great failure.
+
+What will happen now is much less clear. The referendum was an extraordinary moment against austerity. It achieved a majority that was well beyond the rank of the traditional left in Greece – nearly 67% of the vote – and reflected a high degree of social confidence and defiance among the bulk of the Greek population. Now the interesting question is what happens to that popular mobilisation? Is it just channelled into part of the political capital that Syriza used to get popular acquiescence for the horrible task it has committing itself to do? Or does it lead to the development of a movement that challenges these measures? That is an open question, but an important one.
+
+**TP: In the UK, tens of thousands have joined the Labour party since the election, seemingly to vote for Jeremy Corbyn as leader. It now looks like a genuine possibility that he could be elected Labour leader. What do you think of his surge in popularity, and the possibilities it brings for a democratic socialist left in Britain?**
+
+I think it reflects two things: first of all, it reflects the fact that people are absolutely sick of double talk and politicians trying to avoid saying anything. Corbyn is my local MP and I have a lot of respect for him. He says what he thinks and people find that tremendously attractive. Partly, therefore, it is a personal thing.
+
+The second part is that clearly there was a significant section of opinion both within the Labour party and outside it that wanted something more radical than Miliband had to offer. He got the worst of both worlds: he distanced himself from Blair, and thus earned the eternal hatred of the Blairites who are extraordinarily unwilling to confront the consequences of their time in government, but at the same time, the extent he was to the left of New Labour was marginal. Miliband came and went without really standing for very much.
+
+Corbyn, however, does articulate the implicit programmes of this current of opinion so I think it’s a very interesting development. It is one of the reasons why I’m less pessimistic about my kind of politics than the wider situation might suggest. But whether Corbyn can actually win the Labour leadership, and what would happen to him if he did, are very big questions. The most left-wing leader that Labour have had since Thatcher was Michael Foot, and he was catastrophic. Corbyn has had a different experience from Foot: they are not the same. But it is certainly a very interesting and quite unexpected development.  
+  
+  
+**Image credit:** [**Pictures of Money**](https://www.flickr.com/photos/pictures-of-money/17123254699/in/photolist-s68a4i-snzBqK-s5ZdWJ-s61ncG-s61m4j-s4fksR-chEwR9-bH1iX8-bt4mNt-42PQoC-a2YSa6-snzAJp-bta55K-dB7F8e-dK2oa7-aFDjPB-aYWk56-aFATbM-aFAaK6-aFAQEv-PNrwk-QxcaH-apUnh-62QVKf-cMnty-bZvUDS-bta3k)

@@ -1,0 +1,85 @@
+---
+title: "The myth of greedflation"
+subtitle: "How a surpise could fix the economy"
+author: "Paul Middleditch"
+date: "15th August 2023"
+article_id: "2578"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,747 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/moneyfliesaway.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-myth-of-greedflation-paul-middleditch-auid-2578"
+---
+
+# The myth of greedflation
+
+*How a surpise could fix the economy*
+
+**By Paul Middleditch** | *15th August 2023* | *Read time: approx. 9 mins* | *1,747 words*
+
+![The myth of greedflation](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/moneyfliesaway.jpg)
+
+---
+
+*The relative price stability after 2008 has come to an abrupt end throughout the West. Despite the usual suspects of supply shocks and wage pressure, a new source of inflation has been blamed for the current crisis. That of 'greedflation'. Both the IMF and ECB have blamed excess profiteering for the current levels of inflation, but this runs counter to economic logic. Professor Paul Middleditch argues that greedflation is a convenient excuse for central bank failures over the last decade and that they need to re-capture the element of surprise to prevent a crisis.*
+
+Over the last couple of months, we have heard from some of our most prominent institutions on the subject and causes of the recent episode of high and persistent inflation faced by economies around the globe. With inflation at levels not seen since the 1980s, policymakers and politicians are naturally looking for explanations for the length of time it has taken to quell the rising price levels; some central banks have fared better than others in quelling that inflation.
+
+The latest candidate for the possible contributing factors is that of ‘Greedflation’; a form of profiteering by companies using the volatile environment of fast rising prices to opportunistically prop up profit margins. On the face of it, this reason for inflation persistence seems plausible. You might imagine that producers will wait to break out from a nervous position of passing on costs to act under the covered position of safety in numbers. This theory of inflation persistence is bothering me somewhat, for the reason that it is a little too convenient; institutions tend to take the blame for everything these days, and besides it goes against established economic thinking.
+
+An early course in economics will teach us a basic principle that, in a perfectly competitive market, increasing a price is a bit like committing sales suicide. As soon as the price peaks above the market marginal revenue line, all sales will be lost to the competition very quickly. Of course, perfect competition is an extreme position, but not so far-fetched if you imagine that we live in a world populated by competitive markets. Firms naturally want to avoid the dangerous undertaking of raising prices and losing market share. Producers would have to act in perfect unity to raise prices and succeed in raising margins as a result.
+
+\_\_\_
+
+Behind Greedflation, there must exist an assumption of sudden and prolific monopoly power.
+
+\_\_\_
+
+Of course, it is possible; that our producers are colluding to uniformly increase prices despite the risks of detection; but in my opinion very unlikely. Firms tend to increase costs when there is no alternative; though I sometimes suspect that they are slow to reduce them back again once the initial supply shocks have subsided. We see this often when we buy fuel for our cars; when the oil price increases, retailers are quick to increase prices; but the converse is rarely true. Prices are sticky downward in my experience and I am sure this is a common observation.
+
+**[![inflation2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/inflation2.webp)
+
+SUGGESTED READING
+The real cause of inflation
+By Charles Goodhart](https://iai.tv/articles/the-real-cause-of-inflation-auid-2045)**
+
+Greedflation, as an excuse for persistent inflation relies on too many hypotheticals. If we really can imagine a scenario where firms are suddenly acting as cartels, then this begs another question: If our firms can act as if they were monopolies so easily, why then have politicians failed to introduce laws to prevent this? My proposition here is that the latest excuse termed ‘greedflation’ is another smokescreen meant to deflect our attention from the monetary policy failures since the previous economic crisis. Behind Greedflation, there must exist an assumption of sudden and prolific monopoly power.
+
+So, if it is not Greedflation, then what is causing our price levels to behave in such a stubborn way? To understand this, we need some history: After the chaos of the financial crisis of 2008, economies cared for by independent central banks enjoyed a long period of price stability. That is, except for a brief period of higher inflation shortly after the financial crisis in 2010; though this spike in prices subsided naturally without the need for intervention from central banks. Inflation was so well anchored to policy targets that interest rate increases were not needed to bring inflation back down again. This long period of relative price stability has sown the seeds of our situation today.
+
+\_\_\_
+
+By remaining inactive for so long in the period up to the COVID crisis of 2020, central banks have behaved as if they have fallen into a deep sleep.
+
+\_\_\_
+
+The most important instrument for a central bank in the fight against high inflation is not necessarily the interest rate, nor its operations in financial markets, but the signal that it sends about the future. Signals and information about the future directly affect our expectations of prices, which in turn, make up a significant proportion of the eventual changes in prices. Some credible news about a forthcoming recession will depress consumer spending, which will itself lead to a reduction in economic activity, contributing towards the originally predicted recession. If the news is warning of a recession and you feel your job is at risk, you may be hesitant to make big expenditures. Scale this up across the whole economy and we see why expectations of a recession are enough to reduce demand and induce a recession, consumers and producers can become spooked. Note that the prediction relies on the assumption that citizens have to believe the news in the first place. If we truly believe that prices will fall, then they will; the belief element is key.
+
+The success of the signals sent by a central bank depends on the central bank’s credibility; to provide news that will make an impact, citizens must believe those signals. By remaining inactive for so long in the period up to the COVID crisis of 2020, central banks have behaved as if they have fallen into a deep sleep. The needs of long-suffering savers and pension schemes have been ignored in the absence of further inflationary incursions, and the ability to provide effective and credible ‘signals’ seems to have ebbed significantly. Fast forward to today; some remaining central banks still need to send those credible signals, and the high inflation we are witnessing might still recede if they can do so.
+
+The question for central banks then is how to regain the effectiveness to manipulate prices without the need to make drastic changes in interest rates. One way for a monetary authority to do this is to surprise financial markets; following market expectations sends a poor signal, that the central bank is a follower rather than a setter of interest rates. Markets need to be surprised occasionally, even if this risks being politically unpopular. Convincing society that the central bank will do ‘whatever it takes’ to break the cycle of rising prices is itself deflationary.
+
+For an example of this, we can look at the case of the US. The US Federal Reserve has consistently surprised markets using its hawkish tone on inflation. This is despite the possible dangers this may have caused to economic activity or financial stability; it seems to be winning the game of credibility over nervous financial markets. The Bank of England meanwhile has taken the opposite tact, an ‘easy does it’ approach, following market expectations on interest rates and sending reassurances about economic activity, signalling so-called ‘soft landings’.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/thumbnail42.webp)
+
+SUGGESTED VIEWING
+How we failed to predict inflation
+With Rana Mitter, Vince Cable, Izabella Kaminska, Stephanie Hegarty](https://iai.tv/video/predicting-the-future)**
+
+An obvious question arises when we look back at monetary policy over the last decade or so. Why have interest rates around the globe remained close to zero for the most part of the decade between 2010 and 2020? This particular episode of very low rates requires several explanations and no doubt due to several factors. Firstly, the financial crisis and the preceding sovereign debt crisis were 'severe' in scale; central banks have been nervous about the strength of recovery from the economic slumps caused by both. Secondly, whilst the banks use mechanisms to trigger a response to significant deviations in inflation and output, it is less obvious as to whether there is a mechanism to restore normality to financial markets otherwise.
+
+Many economists believe that monetary policy, specifically the setting of interest rates, follows a theoretical structure known as the Taylor rule: the target interest rate reacts to unexpected changes in the average price level and deviations of output from its normal rate. For instance, during a period of economic expansion, the level of output in an economy will move above its normal rate; the Taylor rule predicts that this will trigger an increase in the interest rate to cool the economy back down again and prevent prices from rising too much. Between 2010 and 2020, bearing in mind the nervousness of central banks more generally, we have not seen that significant economic expansion that would trigger a rise in rates. So rates have been left at close to zero, in the absence of shocks that would trigger any change.
+
+\_\_\_
+
+Conversely, we have witnessed some central banks following expectations rather than manipulating them. The theory implies that an anticipated move is far less effective than an unanticipated one.
+
+\_\_\_
+
+It is also possible that important theory on monetary policy has been forgotten or overlooked during the long episode of price stability after the financial crisis. Macroeconomic theory on the formation and impact of expectations has been around since the 1970s; this research highlights the importance of distinguishing between anticipated and unanticipated policy choices. Conversely, we have witnessed some central banks following expectations rather than manipulating them. The theory implies that an anticipated move is far less effective than an unanticipated one. This result is a highly intuitive one; an unanticipated increase in interest rates will have an effect on inflation expectations, whereas an anticipated move is already part of those expectations. The only driving element is in the new information provided; so to reduce inflation you need to shock your target audience. The surprise affects the expectations which drive the changes needed in the price level.
+
+It is a Keynesian view in economics, that if you increase interest rates enough, you will surely and eventually empty the pockets of citizens, force a recession and reduce any excess inflation. This is simple enough, though it misses the important caveat about anticipation between catalyst and outcome. It is well known that expectations theory has become unpopular due to its rather simplistic explanations that ignore biases in the real world, but that does not mean that the theory should be ignored. Taking expectation formation more seriously may have reduced the need to invent new excuses for inflation persistence, such as ‘greedflation’.

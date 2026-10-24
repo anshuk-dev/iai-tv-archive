@@ -1,0 +1,103 @@
+---
+title: "The end of Oppenheimer's energy dream"
+subtitle: "Modular reactors are supported by ideology alone"
+author: "Allison Macfarlane"
+date: "21st July 2023"
+article_id: "2549"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,753 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/atom-splitting-in-nuclear-fission-587169643-5792680a3df78c1734990723.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-end-of-oppenheimers-energy-dream-auid-2549"
+---
+
+# The end of Oppenheimer's energy dream
+
+*Modular reactors are supported by ideology alone*
+
+**By Allison Macfarlane** | *21st July 2023* | *Read time: approx. 9 mins* | *1,753 words*
+
+![The end of Oppenheimer's energy dream](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/atom-splitting-in-nuclear-fission-587169643-5792680a3df78c1734990723.jpg)
+
+---
+
+*Nuclear energy is both lauded as a baseload renewable power and decried as risky, expensive and outdated technology. Small modular reactors have received billions in venture capital and unprecedented media attention, but are they a red herring, with philosophy, rather than science, driving our fixation? Professor Allison Macfarlane explores the current sombre state of the technology, where it is falling short, and what philosophy is driving the interest in this unpromising tech.*
+
+From the inception of Oppenheimer's harnessing of the power of the atom, first as a device for war, and later, as a means of peaceful energy production, nuclear energy has possessed both promise and peril. With large nuclear power plants struggling to compete in a deregulated marketplace against renewables and natural gas, small modular reactors (SMRs) offer the promise to save the nuclear energy option. In the past few years, investors, national governments, and the media have paid significant attention to small modular nuclear reactors as the solution to traditional nuclear energy’s cost and long build times and renewable's space and aesthetic drawbacks, but behind the hype there is very little concrete technology to justify it. By exploring the challenges facing small modular reactor technology, I will demonstrate that this resurgence in nuclear energy speaks to the popular imagination, rather than materializing as actual technological innovation.
+
+News broke last week that Oklo, a company that has designed an advanced micro-nuclear power plant, will go public via a merger with AltC Acquisition Corporation. Co-founder of AltC Acquisition and Chair of Oklo’s board, Sam Altman, hopes to raise US$500 million with this offering. Oklo’s news is a sample of the almost-constant barrage of excitement around the potential of small modular reactors (SMRs) to help mitigate climate change.
+
+But can they?
+
+**[![nuclear min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/nuclear-min.webp)
+
+SUGGESTED READING
+The truth about nuclear deterrence 
+By Herbert Lin](https://iai.tv/articles/the-truth-about-nuclear-deterrence-auid-2078)**
+
+The Oklo story is intriguing, since its license application to build and operate its Aurora design reactor was outright rejected by the U.S. Nuclear Regulatory Commission, the country’s nuclear safety regulator (full disclosure: I was Chairman of the NRC from 2012-2014). And note that such rejection is an accomplishment: the NRC rarely outright rejects an application, instead working with licensees until they either get the application right or decide to walk away. In this case, Oklo refused to fill “information gaps” related to “safety systems and components.”
+
+\_\_\_
+
+Most of these designs are just that: designs. Very few of the proposed SMRs have been demonstrated and none are commercially available.
+
+\_\_\_
+
+There are many new SMR companies in the U.S., Canada, U.K., Europe, China, and elsewhere, and the reactor designs themselves are numerous as well. There are smaller versions of existing light water reactors, like those in the U.S., France, Japan, and elsewhere. There are more “advanced” designs like sodium-cooled fast reactors (like Oklo and Bill Gate’s company Terrapower’s design), high-temperature gas reactors, and molten salt reactors.
+
+Most of these designs are just that: designs. Very few of the proposed SMRs have been demonstrated and none are commercially available, let alone licensed by a nuclear regulator. In engineering, new technologies proceed from the design phase, through the demonstration phase (usually at a small scale), to the full scale and commercial phase. During each phase, changes are made to the design based on feedback of what did and didn’t work.
+
+One U.S. company, NuScale, is the only SMR design in the US to received “design certification” from the NRC. NuScale has an agreement with UAMPS, a consortium of utility companies, to build the first NuScale reactors in Idaho in the U.S. But NuScale won’t build the already-certified design in Idaho; the company has a new application at the NRC to build a larger, and presumably more economic, model of the reactor. Nonetheless, cost estimates for the reactor have risen from US$55/megawatt electric (MWe) in 2016 to $89/MWe in 2023, according to the Institute for Energy Economics and Financial Analysis.
+
+Many of the non-light water SMR designs will likely be even costlier, based on recent analyses. A recent Massachusetts Institute of Technology study suggests that SMRs will run significantly higher in cost than large light water reactors, especially in per MW comparable “overnight” costs (how much it would cost to build a new reactor if one could do so overnight) and operations and maintenance costs.
+
+\_\_\_
+
+Advanced reactors do not solve the problems of nuclear waste and may, in fact, exacerbate the problem.
+
+\_\_\_
+
+Recent construction experience in the US and Europe does not herald success for SMR new builds. The two French-design evolutionary power reactor (EPR) builds have been far over budget and schedule. The EPR in Finland was originally supposed to cost 3 billion euros and open in 2009. It finally began producing electricity in 2023 at a cost of 11 billion euros. There is a similar story in France, where the EPR at Flamanville was set to begin operation in 2012 at a cost of 3.5 billion euro. Instead, it is still under construction and costs have ballooned to 12.4 billion euros.
+
+And Europe is the rule, not the exception. US - based Westinghouse’s AP-1000, a robust design with passive safety features has suffered similarly. The two units under construction in South Carolina were abandoned in 2017, after an investment of US$9 billion. The two AP-1000 units in Georgia were to start in 2016/2017 for a price of US$14 billion. One unit started in April, 2023, the second unit promises to start later in 2023. The total cost is now over US$30 billion.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/the-truth-about-the-nulcear-threat.webp)
+
+SUGGESTED VIEWING
+The truth about the nuclear threat
+With Michael Krepon](https://iai.tv/video/the-truth-about-the-nuclear-threat-michael-krepon)**
+
+SMR designers appeal to factory construction to avoid some of the pitfalls of large reactor construction (thus the “modular” in Small Modular Reactor). But the AP-1000 should provide a cautionary tale: it is also a modular design and a factory in Lake Charles, Louisiana failed, for years, to produce properly welded modules and was plagued by worker problems. The Georgia nuclear plant had to build their own module welding facility to reweld arriving modules, leading to cost overruns and delays.
+
+One of the reasons SMRs will cost more has to do with fuel costs. Most non-light water designs require high-assay low enriched uranium fuel (HALEU), in other words, fuel enriched in the isotope uranium-235 between 10-19.99%, just below the level of what is termed “highly enriched uranium,” suitable for nuclear bombs. Currently, there are no enrichment companies outside of Russia that can produce HALEU, and thus the chicken-and-egg problem: an enrichment company wants assurance from reactor vendors to invest in developing HALEU production. But since commercial-scale SMRs are likely decades away, if they are at all viable, there is risk to doing so. Use of HALEU will also result in increased security and safeguards requirements that will add to the price tag.
+
+\_\_\_
+
+The ”tech bro” libertarian culture that valorizes new technology, loathes regulation, and embraces the marketplace has spawned a new generation of, according to the Washington Post, “nuclear bros.”
+
+\_\_\_
+
+HALEU fuel is needed to offset the smaller size of the reactor core, which results in increased neutron leakage – and neutrons are the initiators of fission reactions that release the energy harnessed as electrical power. Smaller reactor sizes can also result in comparatively more waste volume, next to existing large light water reactors. In fact, a recent U.S. National Academy of Science analysis noted that advanced reactors do not solve the problems of nuclear waste and may, in fact, exacerbate the problem. Some reactor designs will produce significantly more high-level waste by volume that current light water reactors, other designs will produce waste the requires chemical processing prior to disposal. These types of issues are relatively little examined and will add to the final price tag of the new technology.
+
+With all these potential drawbacks and delays, why would anyone invest in an SMR company? I put a similar question to Ray Rothrock, a venture capitalist, at a meeting of a committee of the National Academy of Engineering that was studying the potential of these new reactors (and of which I was a member). If these reactors won’t be commercially available for a decade or more, how do investors make money? His response? "Even before they sell [energy], they go public and that's how early investors make money…it fits the model - the company hasn't made money, but the investors have made money." He goes on to say that going public opens the door to much more money that is needed.
+
+But all of this in the future. If SMRs are not ready to deploy in the next ten years, what are the implications? There are two significant ones. The first is that, given the development timelines for these new reactor designs, they are not likely to have a significant impact on CO2 emissions reductions for decades, and as a result their relevance to the climate argument shrinks.
+
+\_\_\_
+
+The media has become an echo chamber, with each outlet clambering over the next to crow about the great benefits of nuclear power in misleading language that suggests this technology is already entirely proven out.
+
+\_\_\_
+
+More significantly, if, as a recent study showed, that SMRs will be significantly more expensive than solar photovoltaic (PV) and on-shore wind, and even geothermal, what will the marketplace look like in 20 or 30 years, when renewables will presumably be even cheaper?
+
+Certainly, existing nuclear power plants play a significant role in greenhouse gas reductions and will continue to do so. But the promise of SMRs is questionable and will take massive investments to amount to significant impact on climate change.
+
+So why there so much hype around new nuclear power technologies that so far, largely, don’t exist and will likely be very costly? The need to decarbonize energy production plays a role, attracting environmental activists such as Michael Schellenberger and Stewart Brand. The advent of large amounts of available venture capital in the past decade is another factor. One analyst told me, “there’s a lot of stupid money out there right now [for investing].”
+
+The ”tech bro” libertarian culture that valorizes new technology, loathes regulation, and embraces the marketplace has spawned a new generation of, according to the *Washington Post*, “nuclear bros.” Naomi Oreskes notes that an appeal to nuclear power to address our energy needs in a warming world reflects our “technofideism,” the faith that technology will solve our problems. The media has become an echo chamber, with each outlet clambering over the next to crow about the great benefits of nuclear power in misleading language that suggests this technology is already entirely proven out.
+
+In the nuclear celebratory mood of the moment, there is little patience or political will for sober voices to discuss the reality that new nuclear power is actually many decades away from having any measurable impact on climate change – if at all.

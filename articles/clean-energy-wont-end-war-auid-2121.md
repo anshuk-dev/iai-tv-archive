@@ -1,0 +1,91 @@
+---
+title: "Clean energy won't end war"
+subtitle: "Energy and geopolitcs post-oil"
+author: "Mathieu Blondeel"
+date: "5th May 2022"
+article_id: "2121"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,717 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Renewable-energy-geopolitics.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/clean-energy-wont-end-war-auid-2121"
+---
+
+# Clean energy won't end war
+
+*Energy and geopolitcs post-oil*
+
+**By Mathieu Blondeel** | *5th May 2022* | *Read time: approx. 9 mins* | *1,717 words*
+
+![Clean energy won't end war](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Renewable-energy-geopolitics.webp)
+
+---
+
+*Oil and gas have been at the heart of geopolitical conflicts. Russia’s war against Ukraine is the most recent example: EU countries are scrambling to decouple themselves from energy dependence on a hostile Russia. Many believe that an eventual transition to renewable sources of energy will not only slow down climate change, but also put an end to energy-related conflicts. But that is mere wishful thinking. A world dominated by renewable energy will still see one set of countries depend on other. Be it in virtue of more sunlight in Saharan countries, or the concentration of minerals needed for clean energy storage in places like China, or the race to develop the most efficient and cheap low carbon technologies, very few countries will be self-sufficient energy-wise. The geopolitics of energy are here to stay, argue Mathieu Blondeel and Michael Bradshaw.*
+
+Fossil fuels—coal, oil, and natural gas—have often been the root cause of conflict and have triggered global economic crises. They are, of course, also at the heart of the global climate crisis. In the past ten years alone, 86 percent of global carbon dioxide emissions can be attributed to the burning of fossil fuels. Unsurprisingly, the need for a so-called global energy system transformation—the structural shift from a fossil fuel-dominated energy system to one dominated by renewables and low-carbon technologies—has topped political agendas for a while now.
+
+Russia’s war in Ukraine is now adding fuel to the fire of transition. It has become clear that fossil fuel exporting states wield enormous power over importing states and, importantly, that they are willing to use it. Take the European Union (EU) for example, 50% of coal, 39% of natural gas, and 25% of oil imports came from Russia in 2021. Initially, the EU was hesitant to ban Russian oil and gas imports in particular (a ban on Russian coal was announced in early-April), since they form the backbone of the bloc’s economy. But the position of many of its member states is shifting, rightfully so.
+
+\_\_\_
+
+## Will the geopolitics of a world dominated by renewables really be that much different from one dominated by fossil fuels?
+
+\_\_\_
+
+For many of Europe’s leaders, it is now simply too much of a threat to the region’s (energy) security to be dependent on a foreign adversary. Russia has stopped the flow of gas to Poland and Bulgaria and threatened to cut off others if they do not comply with their unilaterally imposed, new contractual demands. Energy is once again at the heart of a geopolitical conflict.
+
+But if we bring this global energy transformation to a good end, so the argument often goes, the world will be a less conflict-prone place. It is argued that unlike fossil fuels, the sun and wind are not scarce resources that need to be imported from halfway across the globe that we may eventually run out of. It allows us to become (energy) independentfrom petrostates, to access cheap and abundant resources, all while saving the planet from a looming climate catastrophe.
+
+In other words, we will no longer have to worry about the geopolitics of energy. But is this really the case? Or, does the transformation create new dependencies—on minerals, technologies, and capital? Will the geopolitics of a world dominated by renewables really be that much different from one dominated by fossil fuels?
+
+# The Long Goodbye to Fossil Fuels
+
+We cannot get rid of fossil fuels overnight. But, if we are to meet the 1.5 degrees Celsius warming target, as enshrined in the landmark 2015 Paris Agreement, we need to bring emissions down to ‘net’ zero by 2050. The crucial word here is ‘net’. This means that emissions need to be cut as much as possible, while any remaining ones must be ‘offset’ by planting forests or technological means of reduction. In most ‘net-zero’ scenarios, fossil fuels—particularly oil and gas—still play a small but crucial part of the global energy system.
+
+\_\_\_
+
+## By 2050, the global energy system will be dominated by renewables and low-carbon technologies, something that will give rise to new sources of geopolitical influence and competition.
+
+\_\_\_
+
+The International Energy Agency (IEA) has calculated that in 2050, oil supply will be further concentrated in the hands of a select group of mostly producers, the so-called *Organization of the Petroleum Exporting Countries (OPEC)**, a grouping that includes the United Arab Emirates, Iran, Iraq, Venezuela and Nigeria*. Today, OPEC countries supply roughly 37% of the world’s oil. But in 2050, this could go up to 52%. Even though the world will be consuming far less oil, such an increase in market share may increase these petrostates’ geopolitical clout.  As these countries’ battle to supply the last barrels, oil prices will remain volatile, and choke points where the last major producers are located—such as the Suez Canal and the Strait of Hormuz—may gain in importance.
+
+# Towards a New Geopolitics of Energy
+
+By 2050, the global energy system will be dominated by renewables and low-carbon technologies, something that will give rise to new sources of geopolitical influence and competition. In this context some countries could become *electrostates*, akin to the petrostates of today.
+
+First, geopolitics can play out through the cross-border trade in electricity and low-carbon fuels, such as hydrogen. Saharan countries, for example, could become hubs for solar electricity generation, that is transmitted via high-voltage cables to the EU. Others may opt to use their abundant, low-cost renewable resources to produce and export green hydrogen to supply hard-to-decarbonise sectors such as steelmaking and shipping.
+
+A second source of geopolitical power is control over the supply chains of critical minerals—such as copper, lithium, cobalt, and rare earth elements—that are used in various clean technologies, from wind turbines to electric vehicles and batteries for storing clean energy. According to the IEA, consumption of these minerals could increase six-fold by 2050, with trade in energy-related products largely dominated by these minerals, as opposed to oil and gas today. Crucially, today, the production of many of these minerals is more geographically concentrated than oil and gas. The Democratic Republic of Congo produces 70% of the world’s cobalt, China produces 60% of the world’s rare earths, and Australia accounts for around half of the world’s lithium supply.
+
+Third, countries can gain a competitive advantage over competitors by fostering advancements in low-carbon technologies. If a specific technology or product can be manufactured more cheaply in a specific country, it can come to dominate an entire sector. For example, today, around 70% of the world’s solar panels are produced in China. If it were to bloc exports for any given reason, this could create major disruptions in the market. Although it should be noted that the green tech manufacturing spree in China has also helped drive down the cost of many such technologies, which has helped to boost their global diffusion and roll-out.
+
+\_\_\_
+
+## The EU now finds itself between a rock and a hard place. Its dependence on imports of fossil fuels is clear, but the same is true for critical minerals and metals needed for the use and storage of renewable energy.
+
+\_\_\_
+
+# A Clean Tech Cold War?
+
+Geopolitics is often analysed through the prism of great power competition. Thus, the evolving relationship between the West (United States, the EU, and their allies) on the one hand, and China and Russia on the other hand, will impact the pace and nature of the transformation.
+
+For now, it seems that China has taken a decisive lead in the clean energy race. Returning to supply chains, although China is not a major producer of some of the most important critical minerals, further down the supply chain it dominates the processing and refining of these materials. China’s share of refining is around 40% for copper, 50-70% for lithium and cobalt, and as high as 90% for rare earths. Where it is not as dominant, China’s state-owned companies are looking to acquire stakes in mining companies abroad. This has been the case with cobalt mining in the DRC and Lithium in Chile, for example.
+
+The EU now finds itself between a rock and a hard place.  Its dependence on imports of fossil fuels is clear, but the same is true for critical minerals and metals needed for the use and storage of renewable energy. It is almost completely dependent on imported lithium and rare earths, while Russia has historically been a major supplier of other metals, such as aluminium, nickel and platinum. The EU is well aware of this vulnerability, but new domestic mines need up to 15 years to move through the planning, permitting and construction stages.
+
+## \_\_\_
+
+## The world’s addiction to fossil fuels must come to an end as soon as possible…However, this transformation will not automatically lead to a better world.
+
+## \_\_\_
+
+The United States, under president Biden, sees geopolitical and strategic advantages in moving forward with energy system transformation. But in the short term, at least, some of the money allocated to realise risks filtering back to China. As such, political narratives around the energy transformation are often couched in language that invokes this emerging geopolitical rivalry with an increasingly powerful Chinese adversary. A competition they can only win if they “bring back” supply chains to the United States and drastically reduce their dependence on China. This, of course, is part and parcel of a widening geopolitical gap between the United States and China. One that could ultimately culminate into a clean tech Cold War.
+
+All of this suggests that a transformation of the global energy system will not necessarily result in *de­­*-globalisation, whereby energy is largely produced and consumed locally, and independently from other countries. Rather, in the current context, it is just as likely to lead to a process of *re­*-globalisation; with the emergence of new global supply chains and the reconfiguration of existing trade relations influenced by (energy) security considerations. Which, in turn, will lead to new challenges and opportunities for all involved.
+
+Despite the enormous challenges that come with such a profound transformation of the core tenets of the global economy, the world’s addiction to fossil fuels must come to an end as soon as possible.After all, doing nothing leads us down a path of climate crisis, continued conflict over these resources, and dependence on petrostates. However, this transformation will not *automatically* lead to a better world. We will have to make uncomfortable decisions. This, in turn, will require resolve, courage and a strategic vision of a sustainable future. A future that is worth fighting for.

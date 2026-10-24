@@ -1,0 +1,90 @@
+---
+title: "The Delusions of Cosmology"
+subtitle: "The metaphysical assumptions behind the science"
+author: "Bjørn Ekeberg"
+date: "1st June 2022"
+article_id: "2145"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,101 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-delusions-of-cosmology-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-delusions-of-metaphysics-auid-2145"
+---
+
+# The Delusions of Cosmology
+
+*The metaphysical assumptions behind the science*
+
+**By Bjørn Ekeberg** | *1st June 2022* | *Read time: approx. 11 mins* | *2,101 words*
+
+![The Delusions of Cosmology](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-delusions-of-cosmology-min.webp)
+
+---
+
+*The idea that the universe started with a Big Bang is a key tenet of the standard model of cosmology. But that model is a lot less scientific than it’s taken to be. To begin with, we can never have direct evidence of the Big Bang itself, and so if we are to accept it, it must be as a metaphysical, not a scientific hypothesis. Furthermore, the standard model of cosmology has had to adapt to a number of observational discrepancies, postulating entities like dark matter and dark energy for which there is no direct evidence. To add to the above, another central assumption, the cosmological principle, stating that the laws of the universe are the same everywhere, is also under scrutiny. The universe might turn out to be a lot stranger than we think, or could possibly imagine, argues Bjørn Ekeberg.*
+
+**We usually talk about** **the Standard Model of particle physics, but you also talk of a standard model of cosmology, and how it’s also on shaky foundations. What do you see as the key tenets of cosmology’s standard model?**
+
+The standard model of cosmology (sometimes called the Concordance or Lambda-CDM model) resembles a game of Jenga, with building blocks stacked on top of each other. At the bottom is an evolutionary model of General Relativity in which space expands with time, based on the hypothesis that the universe originated in a 'Big Bang' - along with a few simplifying assumptions. Two key interpretations were hailed as evidence for this theory: the redshift of galaxies was taken to mean that space is expanding, and the so-called cosmic microwave background was interpreted as residue from the Big Bang. With these core building blocks, this theoretical framework became the first established 'scientific cosmology' in the 1960s. The core tenets of standard cosmology are that the universe has a finite origin in time - and more fundamentally, that the mathematical laws deduced from our own galaxy apply universally, that we can know the entire universe with certainty.
+
+It's a very bold project painting a grand picture that many observations contradict. And so new blocks were added on top to account for discrepancies between theory and observations. Dark matter was invented as an explanation for why our observations of galaxies didn't fit our mathematical model. Inflation was invented as an explanation for how the universe possibly could have gone from nothing to the kind of structure we observe today. Dark Energy was invented to account for ostensible acceleration of space, and so on. Today there are challenges to some of these upper blocks but very few scientists want to question the blocks below. In my understanding, this reluctance is not based on these blocks being proven beyond doubt but because if they were to be in doubt, the entire Jenga tower of standard cosmology would fall apart.
+
+\_\_\_
+
+## Dark matter was invented in response to the problem that observations of galaxies didn't match theoretical predictions. But after 50 years of research there is still no direct evidence of it.
+
+\_\_\_
+
+**What’s your main reservation when it comes to the existence of dark matter and the belief of many physicists that it makes up 85% of our universe?**
+
+Dark matter was invented in response to the problem that observations of galaxies didn't match theoretical predictions. At a stroke, it solved the discrepancy and offered a very simple physical explanation to grasp. But after 50 years of research there is still no direct evidence of it. While it's not my role to judge the scientific merit of the theory, my reservation is that this belief that dark matter or something like it "must exist" is really a belief in the universalized theoretical model we use to understand the cosmos in the first place. It looks suspiciously like the epicycles that astronomers in ancient times postulated to make sense of planetary movements within the geocentric model.
+
+**If we were to abandon the idea of dark matter as having no evidential basis, would other parts of our cosmological model fall apart, and if so, do we have an alternative model that could replace it?**
+
+I use the Jenga metaphor for this reason - to suggest dark matter is not a core tenet of the standard model but rather an added block on top. It is potentially replaceable without threatening the blocks underneath. Dark matter now faces a serious challenger in the so-called MOND theory (modified Newtonian dynamics), which may well eclipse it by doing a better job of matching theoretical predictions with observations. But this would not constitute a radical shift. Basically, it would replace a simple physical explanation with a complicated mathematical description, which has taken decades to develop. In a way, MOND looks more like an evolution than a revolution. That said, its key idea, that gravity does not work the same way everywhere in the universe, does have interesting implications for the model as a whole. It's another simplifying assumption of the original framework that is called into question.
+
+\_\_\_
+
+## You can't build a cosmological model without metaphysics; to think cosmology is pure science is delusional.
+
+\_\_\_
+
+**One of the striking claims that you’ve made is that the Big Bang is a metaphysical hypothesis, rather than a claim based on astronomical observation. What do you mean by ‘metaphysical hypothesis’ here, that it’s not possible to test empirically?**
+
+From the outset, the 'Big Bang' was always a hypothetical premise - if t=0, then... it allowed for calculation of scenarios. When this in turn could yield models that conformed to observations, it was seen to validate the original premise. This was repeated and became an integral assumption built into the framework. The 'Big Bang' also carried a powerful analogy with nuclear physics, the image of a cosmic explosion. It seemed to make sense to a certain generation and it was a very compelling narrative for many reasons - the ultimate origin story. We have since been scouring the skies for signs that we infer as proof of this cosmic origin. But this is retroactive reasoning - there is no direct evidence of the Big Bang because it lies beyond the horizon of the observable. So as a grounding assumption that can never itself be verified, it's a metaphysical hypothesis in this precise sense. Of course, you can imagine an alternate premise, that the universe is infinite in time, and this is metaphysical too. My point is you can't build a cosmological model without metaphysics; to think cosmology is pure science is delusional.
+
+****[![Cosmology's philosophical problems by George Ellis](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-09-22.The-philosophical-problems-of-cosmology.webp)
+
+SUGGESTED READING
+The Philosophical Problems of Cosmology
+By George Ellis](https://iai.tv/articles/the-philosophical-problems-of-cosmology-auid-1883)
+What about Hubble’s observation that the universe is expanding, that galaxies are moving away from each other, does that not count as empirical evidence of them being crunched up, all close together, in the past?****
+
+Yes, this was the inference made. But note that Hubble didn't observe expansion, he observed a redshift that was interpreted as expansion - and he didn't himself believe this interpretation. Expansion gradually became consensus as it made sense with an evolutionary General Relativity model. Moreover, even if expansion is the right interpretation, going from 'space is expanding' to 'what we see must have been all crunched up together billions of light years ago' is a giant cosmic leap. Yes, it fits the mathematical framework, so of course it's tempting to infer, but does it fit what we can observe? To make such a giant leap also requires the invention of theories for how this could even be possible, such as inflation. Without judging the scientific merit of these interpretations, the vastness of the playing field clearly brings a risk of theoretical overreach. If gravity is not the same everywhere in the universe, how do we know redshift of light is always the same phenomenon?
+
+**One of the debates you’ll be partaking in at the festival is about the strangeness of the universe. Niels Bohr famously said that “Not only is the universe stranger than we think. It is stranger than we can think.” Do you agree with Bohr? What does strangeness mean here exactly?**
+
+I take strange to simply mean something that defies our known rules of reason and logic. Bohr had in mind the baffling insights of quantum physics but I think it holds true for cosmology as well. Even if we develop a theory that seems to be consistent with observations, it will only ever explain one particular facet of the cosmos as we know it. Whatever we think we know, we will never know. This does not mean we should abandon scientific probing, or give up on cosmology, or anything goes - of course not. Rather, and I think this is what Bohr meant, we would need to treat our object of research with more humility. The degree of confidence with which some cosmologists and physicists seem to speak is inversely correlational to the plausibility of them knowing with certainty. My own research on the field has led me to think that not only could the universe be stranger than we think - we could also be 'more wrong than we can think'.
+
+\_\_\_
+
+## The belief that the universe is made of math and that the role of physicists is to reveal its 'secret code' is a pervasive strand of thought in modern science that is indistinguishable from faith.
+
+\_\_\_
+
+**One of the key assumptions of cosmology that you’ve said might not in fact be true is the cosmological principle, the idea that the laws of the nature are universal, the same in all parts of the universe. If the cosmological principle turned out not be true, the universe would indeed be a lot stranger than we think. What makes you think this might be the case? Could we even know by observing other parts of the universe whether they obey other laws of nature, or whether our current theories are simply incomplete/wrong?**
+
+I suspect the foundational assumption that is so instrumental to create a coherent framework to begin with can also turn out to be misguiding. If we consider one of the current 'crises' in cosmology, the so-called Hubble tension, this is a huge mismatch between different measurements of the Hubble constant - the rate of expansion of the universe. These observations are made in different parts of the universe, and they come out different. The approach of standard cosmology - and the reason people frame it as a crisis - is to find ways to bring these values closer together, because the default assumption is based on the cosmological principle. But what if these 'mismatched' observations were simply telling us the universe is in fact not the same in all directions?
+
+**The idea that the universe is strange goes against the way we’ve been thinking about nature since at least the Enlightenment – as something that can be understood by the human mind and made to bend to the human will. Why do you think most modern philosophers and most modern physicists thought we can fully understand the universe?**
+
+It's arguable whether modern philosophers really thought we could fully understand the universe - but certainly the ideal belongs to a deep history. Modern physicists would perhaps be more inclined to such a mindset, in part because of its entanglement with mathematics and the enduring idea of mathematics as the universal language of nature itself. As physics became ever more mathematical, this attitude became more entrenched and even celebrated (as the quest for a grand theory of everything). The Enlightenment ideal is still vitally important to science but the belief that the universe is made of math and that the role of physicists is to reveal its 'secret code' is a pervasive strand of thought in modern science that is indistinguishable from faith.
+
+**Do you think a strange and unintelligible universe is a scary prospect, or an exciting one? Does it inject a bit of mystery back into an otherwise disenchanted world?**
+
+Scientists may be more prone to think something is strange because they are trained to expect phenomena to behave according to certain laws. It's a matter of control and of course losing control can be scary. A poetic soul or a philosopher, however, would be delighted by Bohr's insight because it simply confirms the lived and felt sense that despite all our tools of rationality and despite all our impressive endeavors to grasp the vastness of the cosmos, and despite all our advances, we inevitably come up short. I believe the best science, or should I say a science less prone to delusions of grandeur, springs from embracing that we may be wildly wrong.
+
+\*Questions by [Alexis Papazoglou](https://twitter.com/newsphilosophy), editor for IAI News, the online magazine of the Institute of Art and Ideas, and host of the podcast [*The Philosopher & The News*](https://newsphilosopher.buzzsprout.com/).\*

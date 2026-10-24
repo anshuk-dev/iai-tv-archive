@@ -1,0 +1,101 @@
+---
+title: "Radical Islam, Marx, and the West"
+subtitle: "The Philosophy behind Jihad"
+author: "Jaan Islam"
+date: "27th October 2023"
+article_id: "2653"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,807 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-405826171.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/radical-islam-marx-and-the-west-jaan-islam-auid-2653"
+---
+
+# Radical Islam, Marx, and the West
+
+*The Philosophy behind Jihad*
+
+**By Jaan Islam** | *27th October 2023* | *Read time: approx. 9 mins* | *1,807 words*
+
+![Radical Islam, Marx, and the West](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-405826171.webp)
+
+---
+
+*Western commentators tend to think of Islamic jihadists as enemies of our civilization. But what animates the cause of Radical Islamists are ideas borrowed from Marxist and post-colonial Western thought. Jaan Islam argues that until we recognise the familiarity of the jihadist worldview, we will fail to reach our political aims, including peace.*
+
+When people talk about ‘jihadis’ or Muslims more generally, the desire to classify people as ‘the other’ makes us frame them in neatly-packaged stereotypes that tell us more about the observer than the subject of observation. The ‘jihadi’ in the mind of the western observer is ruthless, barbaric and lives on the fringes of civilization. Such categorizations make it very difficult to understand how they actually understand the world, and more importantly, how they understand their goals in relation to the rest of us.
+
+To begin to understand the jihadis’ world view we need to trace how the Mujahideen intelligentsia forged, sometimes surprising, ideological connections with western political theory. The vast literature these scholars draw upon include Neo-Marxism and postcolonialism. Scholars who serve as front-line clerics for Islamic struggles today not only read figures like Karl Marx, Friedrich Nietzsche, Edward Said and Wael Hallaq, but incorporate these ideas into a global solution to the world’s problems. These include wealth inequality, neocolonial exploitation, and authoritarianism in former colonial states. While the academy likes to study stereotypical jihadists by presupposing their ideological separation from the so-called “West”, these intellectual connections with Western intellectuals force political theorists to rethink “the other” as closer to them.
+
+***The Decolonial Vision for an Islamic State***
+
+One of the most “delectable” accounts of serious intellectual exchange between Islamic revolutionary thought and decolonial theory is the interaction between Wael Hallaq—a humanities professor at Columbia University—and the famous Mujahid ideologue, Abu Qatada al-Filistini. For those who don’t know him, Abu Qatada is a famous Palestinian jurist, theorist of jihad, and former London resident for nearly 20 years.
+
+In 2012, Hallaq published a book called *The Impossible State*, which argued that the concept of an ‘Islamic state’ was an oxymoron. Hallaq was not claiming that the classical Islamic tradition was apolitical, or that there did not exist Islamic conceptions of government in its 1400-year history. The argument was far more nuanced: Hallaq believes that modern concepts of the state within a postcolonial context have no basis in the premodern Islamic tradition.
+
+\_\_\_
+
+The state is not a neutral institution, compatible with any values-system, including that of Islam.
+
+\_\_\_
+
+Consider what differentiates, say, a medieval Empire to the modern state: mass-surveillance, bloated bureaucracies, government regulations covering all aspects of human life, prison systems, national education, the list goes on. Hallaq posits that any Islamic government would end up adopting the same colonial institutions that were responsible for the subjugation of Muslim countries for decades, participating in the same neo-colonial system of capitalist exploitation. The state is not a neutral institution, compatible with any values-system, including that of Islam. The modern state already instantiates its own values and world view, so any attempt by self-identified Islamic reformists, such as the Muslim Brotherhood, to use the state in order to bring about a world of Islamic Values is a non-starter.
+
+Here’s where Abu Qatada comes in. An avid reader, Abu Qatada runs a book review series entitled “A Thousand Books before Death”, that includes reviews of texts by Karl Marx, Friedrich Nietzsche, Karl Popper, and of course, Hallaq’s *The Impossible State*. In his hour-and-a-half review, Abu Qatada surprisingly agrees with Hallaq’s argument:
+
+“[The Impossible State] is an indictment of Muslims who want a modern state, do we not have such Muslims? When we read the *Public Liberties* of Rached Ghannouchi,. . . they do not have any space for an *Islamic* inversion of modernity.”
+
+Referring to Muslim Brotherhood theorist Rached Ghannouchi, Abu Qatada takes aim at those championing the idea of an Islamic state. Importantly, Abu Qatada understands that Hallaq is not saying that a truly Islamic state is not theoretically possible. What he’s saying is that a state designed to cultivate morality among its citizens cannot compete against a militarized, morally tarnished, capitalist state because “centres of military power are nearly identical to the sources that emit cultural and economic hegemony”.
+
+For Abu Qatada, the answer is not to become the enemy, using the same tools of the nation-state—biopower, oppression, deception—but rather to stay steadfast to one’s principles, “to tread the path of morals” and prepare for a life of patient struggle.
+
+\_\_\_
+
+In grouping ‘jihadis’ together into one category—and even creating these generic categories in the first place—we overlook the reality of people branded with the frightening “terrorist” label.
+
+\_\_\_
+
+Intellectual exchanges like this one demonstrate the fluid and reflexive nature of our approach to understanding and categorizing people, especially those the West portrays as “the enemy”. In grouping ‘jihadis’ together into one category—and even creating these generic categories in the first place—we overlook the reality of people branded with the frightening “terrorist” label. This is extremely damaging not just for academic reasons, but also for political purposes. In getting absorbed into superficial stereotypes, any possibility of any genuine intellectual exchange with the ‘enemy’ is impossible, let alone the willingness to address possible solutions and reconciliations.
+
+***Mujahideen and Neo-Marxism: Countering State Hegemony and Religion***
+
+Abu Qatada, and indeed other Muslim revolutionaries, know that any vision for revolution must understand and subvert the economic and cultural hegemony of the enemy. To do this, Abu Qatada, and historically other Mujahideen (including  Osama bin Laden) studied the global economy and tried to find means to subvert the international capitalist order. Throughout Abu Qatada's writings, we observe both an explicit and indirect adoption of observations and theoretical frameworks developed by Marxist theorists, including Karl Marx himself.
+
+In his review of *Capital*, Abu Qatada criticizes the belittling of “laborers’ sweat and effort” in capitalist society, the extreme wealth inequality enabled by capital accumulation, and quotes verses of Qur'an condemning the ‘rotation of wealth’ among the rich. In addition to this economic viewpoint, Abu Qatada argues that the role of the nation-state in all of this is to enforce this exploitative system through both coercive and cultural power.
+
+[![related-video-image](https://iai.tv/assets/Uploads/ideology-nad-the-east.webp)
+
+SUGGESTED VIEWING
+Ideology and the East
+With Myriam François](https://iai.tv/video/ideology-and-the-east)
+
+Abu Qatada is unclear about how the ‘Islamic system’ or a truly ‘Islamic’ state would solve the problems he mentions, and how an Islamic conception of property ownership would differ from that implemented in the capitalist system (especially since private ownership is acknowledged in classical Islamic law). What is perhaps more interesting, however, is the way Abu Qatada not only critiques the material dimensions of the system, but meticulously deconstructs the way cultural and most importantly, *religious* institutions and social structures are used to further entrench this hegemonic power.
+
+According to Louis Althusser, domination of the working class is maintained through the state’s shaping of society’s norms; and this is then reproduced in education, media, and through religious institutions. It is no mystery then that many states have co-opted central religious bodies to either regulate (as in the case of Saudi Arabia) or create (as in the case of Turkey) a religiosity compatible with the state. This includes managing the content of Friday sermons, asserting control over formerly independent religious trusts, writing religious curricula, and appointing pro-state clerics to positions of authority.
+
+\_\_\_
+
+In Islamic societies, it wasn’t the introduction of religion, but its removal that enabled political manipulation and economic exploitation.
+
+\_\_\_
+
+Abu Qatada critiques this use of religious authority to legitimize the authority of the nation-state, and by extension the capitalist system to which it belongs. This co-opting of religion in the service of the state legitimizes the nation-state’s conception of sovereignty, either by relegating the field of jurisprudence to the state instead of Islamic law - or by *omitting* any teaching in Islam that could potentially challenge autocratic authority or oppressive rule. The state “filters” Islam, by reformulating or even changing its meaning, thus removing the role of the religious tradition from being a point of reference in political life. Abu Qatada observes
+
+“They no longer spoke in the manner of those guided by the Holy Quran…Instead of the Muslim youth speaking about jihad, they began to talk about revolution… instead of using terms like “worship,” they began to talk about patriotic duty . . . and instead of Allah's right to implement his laws and limitations, they talked about social freedom, social justice, oppression and dictatorship.”
+
+Abu Qatada turns neo-Marxism on its head. In Islamic societies, it wasn’t the introduction of religion, but its removal that enabled political manipulation and economic exploitation. A true interpretation of Islam inherently includes a critique of dictatorship and the unlawful distribution of wealth.
+
+Looking at the overlap of critique between two seemingly unrelated traditions, the reader will have noticed a counterintuitive tandem between Abu Qatada and a movement—neo-Marxism—despite the fact in theory, at least, Marxism is almost certainly anathema to any practicing Muslim. The real question is: to what extent does this ideological exchange between Marxism and Islamic thought imply an agreement or even cooperation between the two?
+
+***What does this say about “Islamo-leftism” and “Islamic fascism”?***
+
+In the post-Trump era, those on both left and right of the political spectrum have taken a keen interest in the relationship between ‘Islamism’ and political movements in the West. This first started with the marriage of convenience between revolutionary leftists and Islamists, both sharing a common enemy. Today, this concern is reflected, for example, in France’s obsession with the idea of “Islamo-leftism”, an idea promoted in French politics that Muslims expressing [“their identity through a post-colonial or anticolonial discourse”](https://www.washingtonpost.com/world/2021/02/22/france-macron-islamo-leftism/) supposedly promotes Islamic extremism by giving Islamists intellectual ammunition to criticize former colonizers for their racism and exploitation.
+
+These allegations of secret collusion  took a different turn after the Ukraine war and the resurgence of fascism in Europe, when fears of Islamo-leftism were replaced with new allegations of collusion between, this time, Muslims and the political right. Sharing an enemy, the alt-right has found it convenient to team-up with Muslims in opposing the deterioration of family values in the West. This has been fully exploited by the left, which is accusing conservatives of inhumanity for—ironically—*not* adopting harsh foreign policies against Muslim countries like Afghanistan. At the moment we are witnessing yet a different turn, following the Israeli bombardment of Gaza, in which the Left has now rushed to join the Palestinian resistance while Conservatives are in full support of the Israeli government
+
+What all this shows is that there is a fine line between shared enemies, and shared goals. Muslims worldwide, including the Mujahideen, undoubtedly experience the effects of economic exploitation, as they do the ideological dominance of foreign ideologies being pushed in their countries [through the extortion of humanitarian aid.](https://www.theguardian.com/world/2023/jan/06/afghan-aid-at-risk-from-taliban-ban-on-women-warns-united-nations) This is a far cry, however from those claiming there to be some secret conspiracy between ‘jihadists’ and radical left or right.
+
+I invite everybody to see this intellectual exchange between Western thought and the Mujahideen intelligentsia as an avenue for political change, something I believe should be the ultimate goal of any project in political philosophy.

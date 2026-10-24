@@ -1,0 +1,93 @@
+---
+title: "How animals see time"
+subtitle: "Why the world changes faster for a starling"
+author: "Samuel Baron"
+date: "28th July 2021"
+article_id: "1848"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,551 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-28.Time-traveling-.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-to-time-travel-with-a-starling-auid-1848"
+---
+
+# How animals see time
+
+*Why the world changes faster for a starling*
+
+**By Samuel Baron** | *28th July 2021* | *Read time: approx. 8 mins* | *1,551 words*
+
+![How animals see time](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-28.Time-traveling-.webp)
+
+---
+
+*Does your cat know when it’s time to be fed? Does your dog know what time you arrive home from work? The world animals experientially inhabit is far removed from our human world – and this extends to their perception of time. This doesn’t mean time is just subjective however, in fact the differences between our human perception of time and animal time suggests an objective time by which we measure these differences against, writes Samuel Baron.*
+
+Imagine you’re standing on a beach at night. In the distance, you see a slowly pulsing light. Now imagine the pulsing starts to get faster. It quickly gains speed until, after a while, you no-longer see a pulse. Instead, you see a single light, holding steady.
+
+This is an example of temporal resolution. Our perceptual systems are only able to discern something as changing, when the change is sufficiently slow. Speed the change up, and we no-longer discern any change at all. Instead, we experience an illusion of constancy. In fact, we experience this illusion all the time. Computer and television screens flicker at a certain rate. But the flicker happens so fast, we don’t see it.
+
+Animals vary in how much flicker they can detect. An animal’s temporal resolution is correlated with their body size and their metabolic rate. Small animals, with a high metabolic rate tend to have sharper temporal resolution compared to humans. Large animals with a low metabolic rate tend to have weaker temporal resolution.
+
+We often feel like we’re living in a world of constant change. But how much change you experience depends on the kind of animal you are.
+
+The common starling, for instance, can resolve lights that pulse extremely fast, pulses that we can’t see. For example, they wouldn’t be fooled by a television or a computer screen. Seeing, instead, a rapidly flickering image. A sperm whale, on the other hand, won’t even be able to see the slow pulse of light you initially saw on the beach. For them, the light is still.
+
+We often feel like we’re living in a world of constant change. But how much change you experience depends on the kind of animal you are. A mythological giant whose heart beats once in a hundred years may not even notice the rise and fall of human civilisation.  Even a turtle who lives 100 years experiences a different world to our own, due to their slow metabolic rate.
+
+[![](https://iai.tv/assets/SubscriptionsFour417.svg)](https://howthelightgetsin.org/festivals/hay?utm_source=IAI+Articles&utm_medium=Embedded+ad&utm_campaign=IAI+embedded+article+ads&utm_id=IAI+Articles)
+
+**Temporal Integration Windows**
+
+You are tapping your leg with a tambourine. With each tap, you feel the strike of the instrument against your skin, you see the light glinting off the metal symbols, and you hear a clinking sound.
+
+The strike, the sound and the glint all get to your brain in different ways. You see the glint because light bounces off the tambourine and enters your retina. You hear the sound because the strike causes the air to vibrate, which in turn produces vibrations in your ear. You feel the strike, because nerve endings in your skin convert the touch of the instrument into electrical signals that shoot up your spine.
+
+The window of time in which your brain binds different information into a single experience is called the temporal integration window.
+
+Because these three different pieces of information are transmitted in different ways, they all reach your brain at different times. But that’s not what you experience. The strike, the sound and the glint all seem to occur together.
+
+Your brain is performing a neat trick. It somehow takes in all three pieces of information and then integrates them into a single, unified experience. The window of time in which your brain binds different information into a single experience is called the temporal integration window.
+
+It is the temporal integration window that is responsible for the gap between your experience of a lightning strike and a crack of thunder. Light travels much faster than sound, and so light from the strike reaches you first. After a time, the thunder rolls. Because the peal of thunder occurs outside of the temporal integration window for the lightning strike, you don’t experience them as happening together. You have to be first told, and then later infer, that the two experiences have a common source.
+
+It is plausible that humans and non-human animals have different temporal integration windows. Consider a musically-inclined giraffe, who strikes a tambourine against its leg. Giraffe brains are further from giraffe legs than human brains are from human legs. If, like you, the giraffe experiences the glint, the strike and the sound as a single, unified experience, then their brain must have a larger temporal integration window than your own. The signals that the giraffe is integrating are further apart than the ones that you integrate.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-Illusion-of-Now-Resized.webp)
+
+SUGGESTED VIEWING
+The Illusion of Now
+With Julian Barbour, Tim Maudlin, Emily Thomas, Joanna Kavenna](https://iai.tv/video/the-illusion-of-now-is-time-static-or-fluid)
+
+The relative size of the temporal integration window between you and the giraffe is unlikely to be very large, at the order of milliseconds. But we can dramatize the issue by imagining an animal whose integration window is much longer, say a day. For them, sunset and sunrise blur together as an explosion of colour. We don’t know of any animals who experiences the world in this way. But small differences in temporal integration windows have been studied in bats and other echo-locating animals.
+
+**Philosophical Implications**
+
+It is tempting to think that these differences in time perception between human and non-human animals mean that time is subjective. It is ‘in the head’ rather than ‘in the world’. But, in fact, the differences I’ve described presuppose, rather than challenge, the objectivity of time.
+
+Consider temporal resolution. Human and non-human animals are able to resolve change at different time scales. But for that to be the case, there must be a fixed scale of change against which different resolving capacities are exercised. Take the simple example of a rapidly pulsing light. I can see the pulse, but a sperm whale can’t. This difference assumes that there is a fact about how fast the light is pulsing, a fact that the whale and I perceive differently. But the pulse is measured in time. To fix the speed of the pulsing, there needs to be a temporal scale that is independent of human, and non-human perceptual systems.
+
+Time is a fixed backdrop against which human and non-human brains handle information differently. Without the fixed backdrop, the differences in time perception are much harder to state, let alone understand.
+
+The same point applies to temporal integration windows. When you strike the tambourine against your leg, the light, sound and electrical signals reach your brain at certain times. When a giraffe does the same, the three signals reach its brain at different times. But for this difference to be genuine, we need a way to measure the speed of each of the signals at issue. But, again, these speeds are all measured by time. To make a sensible comparison at all between you and the giraffe, we need to assume an objective time parameter that can be used to interpret signal speed in a meaningful way.
+
+In short, time is a fixed backdrop against which human and non-human brains handle information differently. Without the fixed backdrop, the differences in time perception are much harder to state, let alone understand.
+
+**Mental Time Travel**
+
+Can the contrast between human and non-human animal time perception tell us *anything* of philosophical interest? One possibility involves the notion of mental time travel. Mental time travel refers to the way in which we manage to think about events that are in the past or in the future. Thus, we can imagine time as a line, and cast ourselves into the past by moving along the line.
+
+To put the point very optimistically, mental time travel might be a smoking gun in understanding what consciousness is, and how it arises.
+
+It has been claimed that animals lack the capacity to mentally time travel in this way. Rather, animals are more reactive: they respond to information as it comes in, but they don’t reflect on information about the past or the future in the way that we do.
+
+This might not tell us anything about the nature of time, but it may tell us something about the nature of consciousness. If it really is the case that animals cannot mentally time travel, then this might yield some insight into where human and non-human animals differ. To put the point very optimistically, mental time travel might be a smoking gun in understanding what consciousness is, and how it arises.
+
+For my part, though, I’m sceptical that humans are particularly special. I’m pretty sure my cat reflects on where I hid his biscuits, and gently plots their liberation. It serves our purposes all too well to focus on the differences between human and non-human animals.
+
+Perhaps, instead, we should be focusing on the similarities between human and non-human animals. Here I think we can learn something of philosophical interest. The similarities between human and non-human animals in terms of time perception have the potential to tell us about what time is like. All animals have evolved perceptual systems that are capable of managing time and change. Perhaps within this commonality lies hidden information about the real structure of time.
+
+All of this should come with a disclaimer: we are really only just scratching the surface of time perception, so who knows what we’ll discover about the way that human and non-human animals relate to time in the future.

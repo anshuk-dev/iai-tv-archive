@@ -1,0 +1,77 @@
+---
+title: "When are intuitions a good guide to reality?"
+subtitle: "In defence of common sense"
+author: "Nevin Climenhaga"
+date: "6th March 2023"
+article_id: "2409"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,437 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-06-when-are-intuitions-a-good-guide-to-reality.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/when-are-intuitions-a-good-guide-to-reality-nevin-climenhaga-auid-2409"
+---
+
+# When are intuitions a good guide to reality?
+
+*In defence of common sense*
+
+**By Nevin Climenhaga** | *6th March 2023* | *Read time: approx. 7 mins* | *1,437 words*
+
+![When are intuitions a good guide to reality?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-06-when-are-intuitions-a-good-guide-to-reality.dc.webp)
+
+---
+
+*Two weeks ago Edouard Machery [argued against the idea that common sense is a good guide to reality](https://iai.tv/articles/intuitions-are-not-a-good-guide-to-reality-edouard-machery-auid-2396). Common sense relies on intuition; and intuitions are unreliable, vary greatly across cultures and are sensitive to seemingly irrelevant factors such as the wording of a particular thought experiment. This week Nevin Climenhaga challenges this view, arguing that we can have good intuitions and bad ones, and that there are legitimate ways of sorting reliable from unreliable ones.*
+
+Analytic philosophers frequently appeal to intuitions as evidence for philosophical claims. For example, it seems to me that knowledge can be extended by deduction and inference: if Alice knows that Bob is 25, Alice can deduce, and in so doing come to know, that Bob is over 21. On the basis of this felt intuition, I conclude that knowledge can always be extended by deduction: if you know Q and know that Q entails R, then you’re able to come to know R by deducing it from Q.
+
+[![23 02 22 Common sense is not a good guide to reality.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-02-22-Common-sense-is-not-a-good-guide-to-reality.dc.webp)
+
+SUGGESTED READING
+Common sense is not a good guide to reality
+By Edouard Machery](https://iai.tv/articles/intuitions-are-not-a-good-guide-to-reality-edouard-machery-auid-2396)
+
+Here I use my intuition about knowledge as *evidence* for a philosophical claim about knowledge. Using intuitions as evidence is [common](https://academic.oup.com/mind/article/127/505/69/3800471)in analytic philosophy. But in recent years this practice has come under criticism (see Edouard Machery’s). Skeptics about the reliability of intuitions argue that we have no good reason to think the way things seem to us reflect the way things are, bolstering their case with experiments showing how our intuitions can be impacted by cognitive biases (such as the order that different questions are presented in) and vary according to seemingly irrelevant demographic differences (such as sex, socioeconomic status, or cultural background).
+
+In light of these challenges, how reasonable is it for philosophers to rely on intuitions as evidence? We should be wary of overly general conclusions here. Like other kinds of evidence—such as visual experience, testimony, or the results of scientific experiments—some intuitions have more evidential value than others. The key question to ask in a particular case is this: how much more likely am I to have this intuition if its content is true than if its content is false? [Bayes’ theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM) tells us that the more likely it is that I would have an intuition that P if P is true than otherwise, the more this intuition raises the probability of P.
+
+\_\_\_
+
+To begin with, empirical studies have found some intuitions to be widely shared and stable across different groups, such as the “Gettier intuition” that people can have highly justified true beliefs that are not knowledge
+
+\_\_\_
+
+Let’s consider some examples. Some contemporary discussions make it sound like the reliability of philosophical intuitions has come into question only after the rise of experimental philosophy in the last two decades. But philosophers have long sought to “explain away” intuitions they think are mistaken, giving reasons why it may seem that P even though P is false. William Lane Craig has [argued](https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-existence-of-god-and-the-beginning-of-the-universe) against the possibility of actual infinities on the grounds that they allow for impossible scenarios, like an infinite hotel where it is possible to remove a guest but still have the same number of guests. Critics have replied that this hotel only seems impossible because we are used to finite domains where removing an object leads to a smaller (cardinal) number of objects. If it’s true that our only having experience of finite domains would likely make this hotel seem impossible even if it’s actually possible, then an intuition that the hotel is impossible is of little evidential value.
+
+But experimental evidence can also help make it plausible that one would have an intuition that P even if P is false. Consider cross-cultural variation in intuitions. Jonathan Haidt has [found](https://www.google.com.au/books/edition/The_Righteous_Mind/y9-GG5gPzgwC) that non-Westerners are more likely than Westerners to think that morally disgusting but apparently harmless actions—like eating your pet dog after it is accidentally killed—are wrong. This could suggest that moral intuitions about such cases are primarily determined by one’s culture, independently of the moral facts. You might object to this interpretation of Haidt’s findings, perhaps holding that cultural norms differ in how sensitive they are to the moral facts (perhaps non-Western cultural norms track aspects of morality that Western cultures ignore). But if you agree that your intuition about this case is likely to arise regardless of what the moral facts are, then you should conclude that this intuition is not strong evidence for its content, and either give up your belief that it’s (not) wrong to eat your dog or find other support for that belief.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-02-17-76-The-passion-of-reason.iaitv-thumbnail-resized.tpu.webp)
+
+SUGGESTED VIEWING
+The passion of reason
+With Julian Baggini, Tommy J. Curry, Güneş Taylor, Barry C. Smith](https://iai.tv/video/the-passion-of-reason)
+
+So intuitions can be challenged both by experimental results and “armchair” philosophical reasoning. Nevertheless, it would be a mistake to infer from particular examples of either kind that intuitions are generally unreliable**.** To begin with, empirical studies have found some intuitions to be widely shared and stable across different groups ([such as](https://philpapers.org/rec/MACGAC-6) the “Gettier intuition” that people can have highly justified true beliefs that are not knowledge). And even when we don’t have such studies, it is sometimes reasonable to think that an intuition is unlikely to be the result of non-truth-related factors. Just as we can have both armchair and experimental reasons to think we would have a particular intuition even if its content is false, we can have both armchair and experimental reasons to think we would only have a particular intuition if its content is true.
+
+Consider my intuition that knowledge can always be extended by deduction. I think the best experimental evidence available [supports](https://www.researchgate.net/publication/314180151_Folk_Epistemology_and_Epistemic_Closure) the reliability of this intuition, but there are conflicting studies and the experimental data here are more limited than in other cases. If we set aside the experimental evidence, there are still reasons to think I would be more likely to have this intuition if its content is true than otherwise. First, there are plausible ways that this intuition could result from its content being true. It could be that “knowledge can always be extended by deduction” is an analytic truth—a sentence true in virtue of the meaning of its words—and I recognize its truth by virtue of my understanding the meaning of ‘knowledge’. Or it could be that knowledge is a mental state and I am familiar with its properties as a result of my acquaintance with my own mind.
+
+\_\_\_
+
+One viable armchair strategy when we don’t have good experimental data on the reliability of an intuition is to instead see how it fits with other intuitions
+
+\_\_\_
+
+Second, while it’s possible that this intuition is the result of some confusion, there are no obvious candidates for what that confusion might be. While some philosophers deny that knowledge can always be extended by deduction, this is usually because they endorse other principles about knowledge that contradict this claim—not because they have an independently plausible explanation for why this claim would seem true even if it is false. (These other principles may themselves be supported by intuitions, in which case we have intuitive evidence both for and against the claim that knowledge can always be extended by deduction. But having conflicting intuitions that respectively provide evidence for and against a principle is a different situation from the first intuition not providing evidence for the principle to begin with.)
+
+A third reason I am confident in the intuition that knowledge can always be extended by deduction is that I think it is possible to [construct](https://philpapers.org/rec/CLIACC) a simple theory of knowledge that explains both this intuition and several other quite different intuitions about the properties of knowledge (such as the Gettier intuition mentioned earlier). One viable armchair strategy when we don’t have good experimental data on the reliability of an intuition is to instead see how it fits with other intuitions. If we find that an otherwise diverse group of intuitions can all be explained by a single theory, this provides indirect support for each intuition by making it less likely that either armchair error theories or experimental results will explain away all those intuitions. (Again, there may be other intuitions our theory has a harder time explaining, and weighing all these intuitions against each other can be a difficult task. I am not claiming that philosophy is not difficult—only that we can draw on both armchair reasoning and experimental results to navigate this difficulty.)
+
+[![philosophy vs common sense](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/philosophy-vs-common-sense.webp)
+
+SUGGESTED READING
+Common sense leads philosophy astray
+By Marcus Arvan](https://iai.tv/articles/common-sense-leads-philosophy-astray-auid-2075)
+
+How much we should trust an intuition depends on the intuition in question and the reasons (both armchair and experimental) we have to think that it is reliable or unreliable. As these examples illustrate, if we want to know how well a particular intuition supports a philosophical theory, we need to focus on the details of that particular case. This will involve considering both armchair arguments and experimental evidence, rather than one to the exclusion of the other.

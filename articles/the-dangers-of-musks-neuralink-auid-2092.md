@@ -1,0 +1,77 @@
+---
+title: "The Dangers of Musk’s Neuralink"
+subtitle: "The artificialization of the human"
+author: "Éric Fourneretis"
+date: "1st April 2022"
+article_id: "2092"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,618 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Neuralink.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-dangers-of-musks-neuralink-auid-2092"
+---
+
+# The Dangers of Musk’s Neuralink
+
+*The artificialization of the human*
+
+**By Éric Fourneretis** | *1st April 2022* | *Read time: approx. 8 mins* | *1,618 words*
+
+![The Dangers of Musk’s Neuralink](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Neuralink.webp)
+
+---
+
+*Elon Musk is designing an electronic brain implant. The implant could help people with disabilities, improve our cognitive abilities and even lead to a form of digital immortality. But the technology is not without its dangers. The ability for a select few to enhance themselves and not others, could pose an existential threat to our societies, writes Éric Fourneret.*
+
+"Neuralink" is a start-up created by Elon Musk in 2016. The company’s main aim is brain implants development by means of electronic chips that are inserted into the brain and equipped with a form of artificial intelligence. This kind of technology focuses on helping persons with disabilities, for example, to communicate or to move. At first glance, "Neuralink" does not seem to present any particular ethical difficulties. Helping persons with disabilities respects the principle of beneficence, in other words, it acts or has qualities of mercy, kindness, generosity, charity, altruism, love, humanity, and promoting the good of others. But Elon Musk clarified his goal: "Over time I think we will probably see a closer merger of biological intelligence and digital intelligence" (World Government Summit in Dubai). And he continued: "Some high bandwidth interface to the brain will be something that helps achieve a symbiosis between human and machine intelligence.” In 2020, Musk indicated that "you could upload, you could basically store your memories as a backup and restore the memories, then ultimately you could potentially download them into a new body or into a robot body".
+
+\_\_\_
+
+For a long time, Elon Musk was afraid of the prospect of deep artificial intelligence, also called the "Singularity".
+
+\_\_\_
+
+For a long time, Elon Musk was afraid of the prospect of deep artificial intelligence, also called the "Singularity" – that is, the creation of an intelligent machine with a form of autonomy and a better organizational potential than human abilities. For him, this would be a dangerous situation which is why he supports research to merge human intelligence and artificial intelligence, and thus to avoid that the latter exceed the former. The brain implant development is conceptualized in this context, but we can notice a logical contradiction in Musk’s reasoning, e.g., developing AI to limit its advancement.
+
+It is maybe excessive to consider Musk's thinking in terms of a philosophical system. It is rather a futurist vision of human beings, extrapolated from observable trends today, especially in space exploration, self-driving cars and the current development of AI. But, while Musk's thinking is not a philosophical system, it is nonetheless inspired by different philosophical theories. We can explore at least two of them.
+
+# The anthropological dimension: human perfectibility.
+
+The first dimension is anthropological: it is the idea of human perfectibility. We especially know it through Rousseau’s philosophy, but a version of it can be found in William Godwin’s writing: “By perfectible, it is not meant that he [the human being] is capable of being brought to perfection. But the word seems sufficiently adapted to express the faculty of being continually made better and receiving perpetual improvement; and in this sense, it is here to be understood. The term perfectible, this explained, not only does not imply the capacity of being brought the perfection, but stands in express opposition to it.” Thus, there is no apparent limit to perfectibility. This manner of understanding human perfectibility is typical to Musk’s vision of the human being.
+
+This is an interesting aspect because a lot of people accept this sense of the notion and consider that is one of humanity’s defining features. On the one hand, it is an optimistic notion because it is full of promises for humanity’s future. As if we will always find solutions to overcome vulnerabilities that cause suffering and misfortunes, even if it generally refers to an indeterminate future.
+
+\_\_\_
+
+The merger of human intelligence and artificial intelligence sought by Musk would be as much an artificialization of the human as a humanization of the machine.
+
+\_\_\_
+
+But on the other hand, we know that progress can eventually become a new source of vulnerability. For instance, cars (1885, Tricycle Benz 1), and planes (1903, Wright brothers flight) represented a significant progress before they became a serious problem for living beings. Today they are polluting the earth and are a major threat to biodiversity. For this reason, the notion of human perfectibility can be a source of concern when it is used to justify the achievement of anything technologically possible. It is in this context that "bio-conservatives" denounce the "Neuralink" project as a moral transgression because different essential limits would be erased, limits which constitute what it means to be human. According to "bio-conservatives", the "Neuralink"' brain implant suppresses the frontier between natural/artificial, human/machine, living/no-living. Thus, the merger of human intelligence and artificial intelligence sought by Musk would be as much an artificialization of the human as a humanization of the machine.
+
+If this type of hybridization could seriously help a person with a disability, we could have a positive moral judgment about it. If it is rather a question of access to a type of immortality by suppressing the biological body in favor of a robotic body, we could still contend that such a pursuit depends on each person’s desires, so long as there is no damage for others (minimalist ethics). But in this case how can a competition for more human performances (human being enhancement) be avoided? With the high cost of these neurotechnologies, one can fear that only a small part of the richest population will have access to them. There would be an even bigger physical and social disparity than the one we know currently, and potentially, a hierarchy of value attributed to individuals. In this case, it is not clear that we would look positively upon the Neuralink project, and it is not only a question of its purpose since it would probably not result in a co-evolution between human biology and technology, but in a domination of the latter over the former.
+
+These last ethical elements are important because they highlight a second philosophical dimension of Musk's vision: liberalism.
+
+# The moral dimension: liberalism
+
+Neuralink and the Musk's futurist vision of the human being supposes a philosophical theory that we name "liberalism", owed to John Locke in its modern form. We can retain at least two crucial ideas. The first is economic freedom. Everyone has the right to have a property and to use it as they see fit so long as they do not use it to cause damage to others. As a startup, Neuralink is Musk's property. The second idea is intellectual freedom, such as freedom of expression, the right to develop one’s ideas, beliefs and values. In other words, the individual’s responsibility is anchored in individual rights. All these aspects can be found in Neuralink in two dimensions: technological liberalism and moral liberalism.
+
+Neuralink is a startup and as such, it seeks to achieve certain economic objectives to exist. We know AI development is an important growth area and it is understandable that Neuralink also adheres to this mantra of the liberal economy in its project to develop "intelligent" brain implants. More specifically, we can speak of technological liberalism to denote economic goals closely related to technological progress. Nonetheless, this correlation implies significant promises, to not say utopias. Indeed, Musk promises a form of immortality, but delivering on such a promise seem far off. This begs the following question: if the idea of immortality were not so lucrative, would Musk still want to develop a brain computer interface to upload our mind into a robotic body? But maybe it is reasonable to question whether the enhancement project is not more of a marketing strategy, possibly to support the medical aspect.
+
+With Neuralink project, Musk does not claim to want to impose on anyone an "intelligent" device brain implant; neither, if it were even possible, to become immortal. Everyone makes their own decisions and if some individuals wish to receive a brain implant, then no one should discourage or stop them because this would imply constraining individual beliefs and values.
+
+In other words, everyone remains free to do what they want and as long as no one causes intentional damage to another. No one has to dictate to others a particular conception of the Good. In this moral context, Neuralink is in keeping with liberalism in that nobody can claim to know what is best for someone else and in that everyone has sovereign control over their own body.
+
+\_\_\_
+
+Even though Neuralink is a private initiative, the "tomorrow" that this startup traces requires a form of moral responsibility.
+
+\_\_\_
+
+To conclude, even if we were to adhere to the idea that freedom is about every individual’s right to choose, we must consider, for example, the limited accessibility to neurotechnologies due to their cost. Namely, this could have the effect of favoring already privileged social categories for certain professions (i.e. medicine, sciences, philosophy...), or even for major political professions, such as the professions of higher administration. It would raise serious questions for democracies.
+
+At the same time, we cannot deprive ourselves of the potential benefits of "intelligent" brain implants and their applications to help medical diagnostic and therapeutic gaps in various brain disorders, and also to improve social relations and preserve natural conditions of living beings. For this reason, brain sciences and neurotechnologies are an important field for social, ethical and philosophical reflection. Even though Neuralink is a private initiative, the "tomorrow" that this startup traces requires a form of moral responsibility which need not be only understood as an individual choice: a human community is not a sum of individuals, otherwise (if one were to consider it as such) one runs the risk of condemning the idea of humanity and humanist values). This is the reason why Musk morally cannot avoid the philosophical question – "What is Human?"

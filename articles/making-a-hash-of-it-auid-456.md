@@ -1,0 +1,39 @@
+---
+title: "Supply and Demand"
+subtitle: "It’s time to end the power of the drug-dealer."
+author: "Mary Ann Sieghart"
+date: "17th October 2014"
+article_id: "456"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "793 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/drugs-money.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/making-a-hash-of-it-auid-456"
+---
+
+# Supply and Demand
+
+*It’s time to end the power of the drug-dealer.*
+
+**By Mary Ann Sieghart** | *17th October 2014* | *Read time: approx. 4 mins* | *793 words*
+
+![Supply and Demand](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/drugs-money.webp)
+
+---
+
+The freest of free markets in the world today is the market for illegal drugs. It is completely unregulated, it’s run by dealers, and it’s time we put a stop to it. By legalising cannabis and by treating those addicted to more serious drugs as patients rather than criminals, we would take control of the drugs economy away from organised crime and see significant social improvements not only in the UK but across the world.
+
+All areas of UK drug policy are in need of a rethink. For a start, the number of addicts in jail is extremely worrying. Addiction to drugs such as heroin ought to be treated as a health problem not a crime, because by making drug-taking a crime, we’re encouraging more crime. Apart from possession, most drug-related crime in the UK involves addicts stealing in order to finance their habit. If such drugs were available free for addicts on the NHS, there would be many fewer robberies and burglaries. And in one stroke this would undercut the drug dealers. If they can only make money by selling heroin to new users, once those people become addicts and can get it for free, dealing in heroin becomes instantly redundant.
+
+Why is this yet to happen? One problem is that, for many politicians, drug reform is simply not a high priority. In the US, Barack Obama would like to reform drug policy but he doesn’t see it as politically feasible because the Republicans are so hard-line on the subject. Other political fights have higher priority for him, such as healthcare reform. Obama may also feel that it is an issue best left to individual states to decide for themselves, as Washington and Colorado have done. In the UK, the Liberal Democrats are the only party that has dared to stand up for drug reform. But it is a low priority for them too. There still isn’t enough impetus from voters and pressure groups to make politicians act, particularly since younger people are so disinclined to vote.
+
+Perhaps that’s beginning to change, however. Over the past 20 years, the trend in British social attitudes has generally been towards liberalisation. But it is a slow process, and at present only about half the country believes in a more liberal stance on drugs. I suspect, however, that this will follow the same trajectory as the equalisation of the age of consent for gays and then civil partnerships and finally gay marriage. 20 years ago, a surprisingly high proportion of British voters thought homosexuality was immoral. Many voters strongly opposed even equalising the age of consent, let alone civil partnerships. 20 years on, most people don’t bat an eyelid. It is, in part, a generational issue: as more of the people in charge of the country come from a generation that thought drugs were relatively acceptable when they were young, attitudes will slowly begin to change.
+
+The other reason for the lack of reform is a fear of the unknown. Politicians in the UK are reluctant to legalise cannabis because they feel that we would be moving into unknown territory. Portugal decriminalised cannabis in 2001, and results from there have been encouraging. Once we’ve had four or five years of legalised cannabis in Washington and Colorado, politicians will be able to judge more rigorously what the effect has been there, and how it might be here.
+
+As well as reducing crime, it’s possible that legalising cannabis will also help with other social problems – specifically the drinking culture of the UK. Cannabis could certainly displace some of the excessive alcohol-related behaviour: when people drink too much alcohol they get violent, but when people smoke too much weed they just fall asleep. If the people who smoke too much cannabis are the same people who used to drink too much alcohol, then on the whole it will be a largely benign move. Excessive alcohol use is much more dangerous to society than excessive cannabis use.
+
+It’s not just about the UK, however; this is also a global issue, and a complex one. In some ways, the illegal drugs trade in the UK is actually enhancing the economies of developing countries, but only their black economies. Illegality always leads to higher prices, which means that cannabis-growers in South America or North Africa are making more money while it remains illegal then they would if it were legal. On the other hand, none of that money is going back to those governments. Legalising drugs could therefore potentially open up new markets in countries that are deeply poverty-stricken – as long as those markets were legal. And it would have the happy side effect of helping to end the violence, intimidation, bribery and corruption of the police that goes hand-in-hand with the illegal drugs trade.

@@ -1,0 +1,109 @@
+---
+title: "The deep puzzle of the infinite universe"
+subtitle: "An interview with cosmologist George Ellis"
+author: "George Ellis"
+date: "4th November 2022"
+article_id: "2298"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,735 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/we-cant-know-if-the-universe-has-a-beginning.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/george-ellis-we-cant-know-if-the-universe-had-a-beginning-auid-2298"
+---
+
+# The deep puzzle of the infinite universe
+
+*An interview with cosmologist George Ellis*
+
+**By George Ellis** | *4th November 2022* | *Read time: approx. 9 mins* | *1,735 words*
+
+![The deep puzzle of the infinite universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/we-cant-know-if-the-universe-has-a-beginning.webp)
+
+---
+
+*Distinguished cosmologist and Stephen Hawking co-author, George Ellis, in an interview about the limits of cosmology, and why we can never know whether the universe had a beginning or has existed forever.*
+
+**Most people today believe in The Big Bang theory when it comes to the origins of the cosmos. Can we be certain that the universe had a beginning?**
+
+The history of the universe involves various stages. At very early times, it went through an extraordinarily rapid period of accelerating expansion when it became hugely bigger in a very short time; this is called inflation. At the end of inflation, that expansion had caused all the matter and radiation to dilute to almost zero, but then the field that had caused inflation decayed into very hot matter and radiation that continued expanding, but at a slower rate; that was the start of what we call the Hot Big Bang Era. The physical processes that occurred during this era are well understood, and all cosmologists agree on what happened then.
+
+What we do not know is what happened before inflation began. The universe may or may not have had a beginning in that pre-inflationary era. The singularity theorems that Stephen Hawking developed do not apply, because the required energy conditions are now known to not be satisfied at that pre-inflationary time. In any case, a theory of quantum gravity is expected to apply at early enough times, but we don’t know what that theory is. To sum up: we do not know if the universe had a start, but we do know there was a Hot Big Bang.
+
+\_\_\_
+
+In either case, the universe would have existed for an infinite time. That is indeed problematic because we could never prove that: we have no relevant observations to check this.
+
+\_\_\_
+
+**Is the inflation hypothesis on sturdy ground, or are there any reasons to question it?**
+
+It’s on reasonably sturdy ground, and has one great big plus going for it: it provides a theory for the origin of primordial fluctuations that will later grow into galaxies by gravitational instability. We don't have any other theory that does that, and that’s the prime reason it is accepted by most cosmologists.
+
+The downside is that (a) we don't have a solid theoretically grounded candidate for the inflaton - the field causing inflation -  which also gives the right observational results, So, in fact, it has no solid link to fundamental physics. And (b) there is a mostly ignored issue but one which I think is important: how did the supposed quantum fluctuations which led to structure formation become classical? Most people ignore this issue, but I think it’s an important question.
+
+[![Deep Field James Webb min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Deep-Field-James-Webb-min.webp)
+
+SUGGESTED READING
+The Big Bang didn't happen
+By Eric J. Lerner](https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215)
+
+**If the universe didn’t have a beginning, that would presumably mean that the universe has existed forever – for an infinite amount of time. But you have said previously that any theory that talks about infinity isn’t really a scientific theory, as there’s no possibility of proving that an infinity of anything exists. So if the universe has existed for an infinite amount of time, where would that leave cosmology’s scientific status?**
+
+If the universe did not have a beginning, it might have existed forever with an expansion rate getting slower as we go back in time but never reaching zero, or it might have collapsed from a very large radius and then turned around. In either case, the universe would have existed for an infinite time. That is indeed problematic because we could never prove that: we have no relevant observations to check this. It might however have emerged from a very early epoch of an unknown at present nature, when space and time did not exist. None of these possibilities affect cosmology’s status as a solid science for the study of all time from the beginning of inflation onwards. This would simply be another limit on what cosmology can determine, in addition to the limit already imposed by our visual horizon: the limit on how far back, in the history of the universe, we can see matter (that is, when matter and radiation decoupled from each other as the universe cooled down and became transparent). Any scientific theory has limits to its applicability, and the same applies to our cosmological models. It is a good model within its domain of applicability.
+
+\_\_\_
+
+The key issue for cosmology is that there is only one Universe. That makes it different from all the other sciences. We can’t rerun the Universe and see what happens; we can’t compare it with other universes
+
+\_\_\_
+
+**One of cosmology’s presuppositions from early on was the so-called Copernican Assumption that the universe is the same everywhere and obeys the same laws of nature. Can we test whether that’s the case, and how could we tell the difference between recalcitrant observations of faraway regions of space that indicate our theories need revising vs those regions are in fact governed by different laws of nature?**
+
+This is an area where great progress has been made in recent decades: there are now a number of observational tests of the Copernican principle within our visual horizon. Intriguingly, [a recent paper](https://www.physics.ox.ac.uk/news/lopsided-universe-could-mean-revision-standard-cosmological-model?bblinkid=264120393&bbemailid=43168606&bbejrid=-1803977697) suggests there might be a problem in this regard, something that would challenge the standard model of cosmology. But the fact that the Copernican principle can be challenged by observational data shows it is a testable principle!
+
+However, there are no indications that the laws of physics are different anywhere in the universe than they are here: indeed the spectrum of the relic Cosmic Background Radiation left over from the Hot Big Bang era has an exact Black Body spectrum, as determined by Planck over a century ago, to within the observational limits of the spectrum, This proves that both quantum physics and statistical physics were the same back then as they are here and now. Observations of extremely distant galaxies and quasars indicate the same thing. The laws of nature seem reliable everywhere.
+
+[![related-video-image](https://iai.tv/assets/Uploads/thumbnail-02.webp)
+
+SUGGESTED VIEWING
+The universe, fixity and flux
+With Lee Smolin, Sabine Hossenfelder, Paul Davies, Phillip Ball](https://iai.tv/video/the-universe-fixity-and-flux)
+
+**You’ve written previously that our cosmological models are undetermined by the data we have available to us. What do you mean by that, and is this a cosmology-specific problem, or, as some philosophers of science have argued, something that’s true for all scientific theories?**
+
+The key issue for cosmology is that there is only one Universe. That makes it different from all the other sciences. We can’t rerun the Universe and see what happens; we can’t compare it with other universes; we are stuck in our own Galaxy and can’t go to any other viewpoint to see what the Universe looks like from there, because of its vast scale. All we have to work with is an image of what is out there, at all distances, as seen on a 2-dimensional sphere (“the Sky”). Our problem is to determine how far away each of the objects we see is. And the point is that we see the more distant ones at earlier times than the nearby ones, because of the huge time it took for light to arrive from there.  So conditions were different then. How do we know if we are seeing a certain size or brightness because they are at a certain distance, or rather because their properties were different at that time? For example, different metals in the environment might change the supernovae’s brightness curves. This issue is unique to cosmology.
+
+**What’s the biggest crack in the cosmological standard model as it currently stands that might end up overthrowing it?**
+
+There are two key issues: the possible anisotropy issue discussed in the paper linked above, and the problem that values determined for the expansion rate of the Universe – the Hubble constant – seem to differ according to whether we estimate it from more local or more distant observations. Either might indicate the need for a more complex cosmological model than the standard model – one with anisotropy or inhomogeneity, contra the standard model.
+
+\_\_\_
+
+In the end, the question of why the universe has specific initial conditions is not a scientific one. It’s a metaphysical issue with various options.
+
+\_\_\_
+
+**There are increasingly more voices arguing that in the absence of direct evidence for the existence of Dark Matter and Dark Energy, we should leave the current cosmological model behind and adopt what’s known as MOND - a Modified Newtonian Dynamics model. What do you make of this argument?**
+
+It is a serious proposal that needs to be carefully considered. There are problems in that it is a Newtonian type model,  but there have been careful analyses suggesting it might be correct. But MOND deserves further investigation and needs to be fully developed to a model similar to Einstein’s general theory of relativity.
+
+[![nubula2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/nubula2.webp)
+
+SUGGESTED READING
+Rewriting the history of the Universe
+By Emma Curtis Lake](https://iai.tv/articles/rewriting-the-history-of-the-universe-auid-2034)
+
+**One of the things that have puzzled cosmologists is why the universe appears to be just right in terms of various cosmological constants for the development of life.  What do you think best explains this apparent fine-tuning of the universe?**
+
+Well, the standard scientific explanation is that we live in a multiverse with zillions of expanding universe domains like the one we live in, but with different physics in each of them; in that case things will work out Ok for life to exist in a few of those bubbles just by chance, so it becomes probable after all.
+
+I am sceptical about it because it’s not an observationally testable hypothesis, it’s not clear what mechanism will result in different physics existing in each of these domains, if they exist, and in any case, it just shoves the apparent fine-tuning up one level: why is the multiverse tuned to be just right for life? The same issue occurs at that level.
+
+In the end, the question of why the universe has specific initial conditions is not a scientific one. It’s a metaphysical issue with various options. I’ll leave it at that.
+
+**You have also spoken about the idea of the universe evolving. What do you mean by that? Does this go beyond saying that the universe is changing?**
+
+The evolution of the universe is nothing like evolution in the case of organisms and natural selection. The term just means the properties of the universe – its size (if it has positive spatial curvature), expansion rate, density, temperature, and so forth – are changing through time, in a way that is open to scientific investigation. It’s like the way you can talk of an oak tree evolving as it grows from an acorn to a majestic fully developed specimen. So yes, it’s just saying that the universe is changing.

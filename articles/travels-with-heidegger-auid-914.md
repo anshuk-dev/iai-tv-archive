@@ -1,0 +1,58 @@
+---
+title: "Travels with Heidegger"
+subtitle: "Can authenticity really be attained far from home?"
+author: "Robert Shepherd"
+date: "Issue 60, 30th October 2017"
+article_id: "914"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,378 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/heideggerhiking.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/travels-with-heidegger-auid-914"
+---
+
+# Travels with Heidegger
+
+*Can authenticity really be attained far from home?*
+
+**By Robert Shepherd** | *Issue 60, 30th October 2017* | *Read time: approx. 7 mins* | *1,378 words*
+
+![Travels with Heidegger](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/heideggerhiking.webp)
+
+---
+
+For decades tourism scholars took as their starting point a binary distinction between “travelers” (assumed to be in search of their selves) and “tourists” (assumed to be passive recipients of packaged experiences). This reductionist approach masked a clear class bias: people with taste and social acumen allegedly don’t tour, they travel – even when they join tours, as with adventure outfits such as [REI](https://www.rei.com/adventures). This distinction has morphed into an emphasis on existential authenticity in the study of tourist motivation. We travel, theorists now claim, to counter the alienation we experience in our everyday lives at home. While drawing mainly on Martin Heidegger’s work, this claim reflects a distinctly Euro-American philosophical focus running from Rousseau to Schiller, Kierkegaard to Nietzsche, and Heidegger to Sartre, on what it means to *be* authentic. If life at home is self-alienating, journeys elsewhere would appear to be a clear improvement. Of course, this perspective rests on the questionable premise that a person at home is not a genuine self. Furthermore, it suggests that this illusive self can be found elsewhere, out in the world, amongst, paradoxically, strangers.
+
+This quest for finding the “real” me (somewhere else, not here) sounds cool, but reflects a fundamental misunderstanding of Heidegger’s work.  While he emphasized the social basis of authentic living, Heidegger insisted this could be experienced only within a community. In his most famous work *Being and Time* (1927), he posed two questions: how to recognize authenticity and how to live an authentic life in an inauthentic society?
+
+For Heidegger, an inauthentic life is a flight from (and forgetting of) an acute awareness of personal finitude in favor of a falling into everyday routines and fads. This forgetting takes place on two levels. First, it involves a forgetting which makes possible everyday life. In short, getting up and going to work each morning is more bearable when we don’t think about our own mortality. But this also requires a second level of forgetting, in which the act of forgetting is, itself, forgotten. Thus Heidegger’s challenge: only by confronting our own finitude can we overcome the seduction of this secondary level of forgetting.
+
+What does this have to do with tourism?  For Heidegger, authenticity could only be achieved within a community. Authentic existence, he argued, unfolds as a “co-happening” with others – not strangers, but people with whom we are connected. He situated authenticity as an emergent aspect of individuality that was amplified by a community’s shared past. In other words, authentic being (*Dasein*) outside of a grounded community – the underlying premise of which tourism scholars have claimed is the existential basis of travel – is, according to Heidegger, impossible. The world of *Dasein* is a world shared not with humans in general but those who share the same norms, assumptions, and, in short, culture. This is evident at the end of *Being and Time*, when he describes how individuals, drawing on their collective heritage, experience an unfolding of their own stories within a community’s “destiny.”
+
+\_\_
+
+"Companies such as *Lonely Planet* and the *Rough Guide* sell millions of guidebooks premised on the promise of difference and access to "it" — the "real" thing, unfiltered and unmediated."  
+\_\_\_
+
+**Authenticity Begins at Home**
+
+In his essay, ‘The Loss of the Creature’ (1976), the American novelist and literary theorist Walker Percy described the dilemma a visitor to a marked tourist site faces; namely the impossibility of fully and authentically experiencing this site because of the expectations she carries in her mind. Unable ever to reach a place of pure seeing and experiencing, a tourist can only derive satisfaction from such a site to the extent that it conforms to this symbolic baggage. When the site matches expectations, the visitor is content; when it doesn’t, the visitor goes away dissatisfied. According to Percy, when tourists stumble upon a site that hasn’t been marked as an attraction in a guidebook (in his example, an out-of-the-way indigenous village in Mexico), they need to have this site validated by an authoritative figure, such as an expert or guide; only then can they take comfort in having had an authentic experience. His point is that in needing to be validated, the experience falls short - because of this mediation. That is, for such an event to be authentic, it first must be *authenticated*. Yet once validated as the real thing, it becomes a destination and hence no longer fully authentic.
+
+Percy’s is an argument against mass tourism and its guiding of people to packaged sites, and thus, by implication, an argument for travel to the unmarked places that existentialist travelers seek as platforms for experiential moments of Heideggarian Being-ness. This is precisely how REI and other travel companies market their products. REI promises that joining one of their tours guarantees cultural access that others (mere tourists?) can never have, with people with shared values and who will be friends for life. And (predictably) this will be a tour “off the beaten path”, but in an environmentally and ethically correct way. Take that, Disney!
+
+Sure, some people seek such experiences, even if going on a tour marketed as group travel for people who don’t want to be called tourists is really expensive. This is a logical outcome of an economic system that transforms everything into a commodity, including existentialism. Branding and marketing the unique, unfamiliar, and strange is as much an aspect of the global tourism business as package tourism. In fact, companies such as *Lonely Planet* and the *Rough Guide* sell millions of copies of guidebooks premised on this promise of difference and access to what Percy called “it” – the “‘real” thing, unfiltered and unmediated. And what we end up with are unique destinations for really cool people who really don’t want to be called tourists. Like Ubud, in Bali (we are so cool).
+
+Percy’s dilemma - the impossibility of ever fully grasping a site because of the images, stories, and other information about it that clutters our heads - is a classic phenomenological problem, echoing as it does Maurice Merleau-Ponty’s desire to experience the world before knowledge intruded.
+
+But this is only a dilemma for those who seek to uncover the underlying essence of such sites. For many people (like the ones who recognize that, when on vacation, they are tourists), destinations are fulfilling when the experience matches the hype that precedes them. Such sites are platforms for experiences of affirmation, not authenticity. And what is sought is not the strange, unknown, and untouched (let alone the lost self) but the strange-but-safe, the unknown-but-predictable, and the made-comfortable-for-tourism.
+
+These experiences are as much a question of *when* as of *where*. They occur at those unexpected moments when something happens out of the ordinary: a chance encounter, a view from a particular angle, a surprise visitor. And these happenings happen to everyone, whether on vacation, on a journey of self-discovery, or at home, as Heidegger stressed in his work. That is to say, such experiential moments do not have any correlation with travel away from the familiar, nor do they require either the presence or an awareness of self-alienation. This is illustrated in Daoist texts such as the *Daodejing*, where Laozi advises, “The further one travels, the less one knows” and the *Zhuangzi*, where we are told to “sit and forget”: to empty our minds and be still.
+
+Those who claim that the purpose of travel should be a quest for existential authenticity begin not with a question (what are the reasons that spur people to leave home?) but with two value claims (the modern condition is characterized by alienation, which can be addressed through travel). This is an old lament, as old as Modernity itself (of course, in the 1920s Hemingway and his mates thought they could resolve this by living in Paris on the cheap, not by going camping with REI in Patagonia). The reality is that we (even those of us who claim to be travelers and not tourists) go on vacation to have fun, enjoy time with friends, and escape our routines (not to find a truer self). Does this matter? I suspect only to those who insist on being bona fide travelers, and not tourists.
+
+*Debate the biggest ideas of our times at the Institute of Art and Ideas' annual philosophy and music festival HowTheLightGetsIn. For more information and tickets, click [here](https://hay.htlgi.iai.tv/ "HowTheLightGetsIn Festival")*
+
+*![17 10 05 News](assets/Uploads/17-10-05-News.png)*

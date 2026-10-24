@@ -1,0 +1,91 @@
+---
+title: "AI won’t steal your job, just make it meaningless"
+subtitle: "How technology robs our work of value"
+author: "John Danaher"
+date: "18th March 2022"
+article_id: "2082"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,946 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-design6.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/ai-wont-steal-your-job-just-make-it-meaningless-auid-2082"
+---
+
+# AI won’t steal your job, just make it meaningless
+
+*How technology robs our work of value*
+
+**By John Danaher** | *18th March 2022* | *Read time: approx. 10 mins* | *1,946 words*
+
+![AI won’t steal your job, just make it meaningless](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-design6.webp)
+
+---
+
+*For better or for worse, many of us derive our meaning and identity through our work. The threat of AI and robots replacing human jobs, creating mass unemployment and a collective crisis of identity has been greatly exaggerated. Humans and technology continue to work side-by-side, but technology is increasingly intruding in aspects of our jobs that give us some purpose and satisfaction. The problem isn’t that new technologies will steal our jobs, it’s that they will render our jobs devoid of meaning, argues John Danaher.*
+
+New technologies are often said to be in danger of making humans redundant, replacing them with robots and AI, and making work disappear altogether. A crisis of identity and purpose might result from that, but Silicon Valley tycoons assure us that a universal basic income could at least take care of people’s material needs, leaving them with plenty of leisure time in which to forge new identities and find new sources of purpose.
+
+This, however, paints an overly simplistic picture. What seems more likely to happen is that new technologies will not make humans redundant at a mass scale, but will change the nature of work, making it worse for many, and sapping the elements that give it some meaning and purpose. It’s the worst of both worlds: we’ll continue working, but our jobs will become increasingly meaningless.
+
+**[![alex iby 212875 unsplash](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/alex-iby-212875-unsplash.webp)
+
+SUGGESTED READING
+Why you should hate your job
+By John Danaher](https://iai.tv/articles/why-you-should-hate-your-job-auid-1075)**History has some lessons to teach us here. Technology has had a profound effect on work in the past, not just on the ways in which we carry out our day-to-day labour, but also on how we understand its value. Consider the humble plough. In its most basic form, it is a hand-operated tool, consisting of little more than a pointed stick that scratches a furrow through the soil. This helps a farmer to sow seeds but does little else. Starting in the middle ages, however, more complex, ‘heavy’ ploughs began to be used by farmers in Northern Europe. These heavy ploughs rotated and turned the earth, bringing nutrient rich soils to the surface, and radically altering the productivity of farming. Farming ceased being solely about subsistence. It started to be about generating wealth.
+
+The argument about how the heavy plough transformed the nature of work was advanced by historian Lynn White Jr in his classic study *Medieval Technology and Social Change*. Writing in the idiom of the early 1960s, he argued that “No more fundamental change in the idea of man’s relation to the soil can be imagined: once man had been part of nature; now he became her exploiter.”
+
+\_\_\_
+
+## For better or worse, many of us see work as the primary source of value in our lives.
+
+\_\_\_
+
+It is easy to trace a line – albeit one that takes a detour through Renaissance mercantilism and the Industrial revolution – from the development of the heavy plough to our modern conception of work. Although work is still an economic necessity for many people, it is not just that. It is something more. We don’t just do it to survive; we do it to thrive. Through our work we can buy into a certain lifestyle and affirm a certain identity. We can develop mastery and cultivate self-esteem; we make a contribution to our societies and a name for ourselves. For better or worse, many of us see work as the primary source of value in our lives. We are beholden to a secular work ethic in which work is seen as virtuous, good and pure.
+
+The usual narrative about how modern technologies will change work, and our self-conception that comes with it, is that they will rob us of it all. The arguments are familiar and reoccur in cycles: technology is getting better and better at automating human activities. We have automated away many historic and traditional jobs, particularly ones in agriculture and manufacturing. We are automating more in the service sector. Eventually, automating technologies will get so good that there will be few, if any, jobs left. If that happens, then we can wave goodbye to all the aspects of work that seem to matter to us. With work no longer holding such a central role in our lives, we will experience a collective crisis in identity and meaning.
+
+I know these arguments and I have made them myself in the past. But they can ring hollow. In the wake of the COVID-19 pandemic, the lack of willing workers seems to be the problem, not the absence of now-automated jobs. If the great wave of technological unemployment has not crashed down on us yet, will it ever do so? Maybe not, but even if it doesn’t, we can, at the very least, be confident that automating technologies (particularly robotics and AI) will change the way in which we work. They may not eliminate all jobs, but the jobs that are left will be reconfigured. Humans will have to work with and alongside machines. They will have to adapt their behaviours so that they can get the best out of themselves and the machines.
+
+\_\_\_
+
+## If the great wave of technological unemployment has not crashed down on us yet, will it ever do so?
+
+\_\_\_
+
+These changes in how we work will also have an effect on how we value our jobs. It helps if we have a framework in place for thinking about this in a systematic way. One element of that framework is a clearer conception of exactly what it is that we value about our work. Work is not any particular activity, it is rather a condition under which human activities are performed, namely the condition of economic reward. In other words, any activity we perform in exchange for an economic reward counts as a form of work. But these activities take many different forms and can be sources of multiple different kinds of value. Philosophers argue that the values come in two main forms: intrinsic and instrumental. Intrinsic values are values that are inherent to the activities themselves. Instrumental values are values that result from the activities.
+
+Most work activities have a mix of instrumental and intrinsic value. An obvious instrumental value of all work activities is income. Most people work in order to receive an income and this income is, in turn, valuable because it gives us access to goods and services that make our lives more pleasant. But income is an easily replaceable value. One dollar (or pound or euro) is a good as any other. As long as you get it, it doesn’t matter what you do, if anything, to get it. This logic often motivates those that advocate for a basic income or other forms of wealth redistribution in response to technological displacement in the workplace.
+
+This logic, however, overlooks the other values associated with work. They are often not so easily replaceable. For some people, the activities that make up their jobs are pleasurable, give them a sense of mastery, allow them to achieve important things, and make positive contributions to their societies by producing goods and services that other people value. If your entire identity and sense of self-worth is bound up with being a taxi driver, for example, with an intimate knowledge of the roads system in your local town, then you may not welcome the advent of automated driving assistance and route-planning, even if the car cannot do everything by itself and even if your income is unaffected by such technological developments.
+
+The critical question then is how automating technologies affect these other values of work, even when they don’t completely replace human workers. This is where we can introduce the second element of a framework for answering that question. In an article I co-authored with Sven Nyholm⁠[1], I argue that humans can have three basic kinds of relationships with automating technologies in the workplace: (i) *supervisory relationships*, in which humans design and/or supervise machines that perform or assist work tasks; (ii) *maintenance relationships*, in which humans maintain and repair machines that perform work tasks; and (iii) *order-following relationships*, in which humans follow work plans set for them by machines. Sometimes individual workers have multiple different relationships with multiple different machines; sometimes they have one dominant relationship.
+
+\_\_\_
+
+## The critical question then is how automating technologies affect the intrinsic value of work, even when they don’t completely replace human workers.
+
+\_\_\_
+
+The different relationships impact the values of work in different ways. Unfortunately, most of the impact seems to be negative. Consider, for example, supervisory relationships. On the face of it, these look quite positive. Human workers retain control and, potentially, creative direction over how work gets done. Their autonomy is not compromised and they can exercise higher-order cognitive capacities without the burden of monotony and physical drudgery. But there is a dark side to this. Relatively few workers benefit from this kind of supervisory relationship and they usually do so by enriching themselves at the expense of others who lose their jobs or get displaced into lower paying ones. In addition to this, supervisory control can come in different forms, some of which involve no meaningful creative input from human workers. Finally, the benefits of retaining supervisory control often come with the costs of increased workloads and expectations. Many knowledge workers, for example, retain supervisory control over technology in the workplace, but see their workloads and expectations of productivity balloon as a result.
+
+Consider, next, maintenance relationships. In these relationships humans repair and maintain machines that do the majority of the productive work. This can often require highly skilled labour, which allows for a degree of mastery and self-development. But maintenance jobs are typically unglamorous and undervalued, particularly when it comes to their pay and conditions. Maintenance workers are at the beck and call of machine breakdowns. They are bit players in the workplace drama: the backstage crew that keeps the show on the road, but does not get to play in the limelight.
+
+\_\_\_
+
+## The rise of smart machines has resulted in the algorithmic surveillance and control of the workforce.
+
+\_\_\_
+
+Consider, finally, order-following relationships. By their very nature, these relationships entail a loss of human control and input into work tasks. Machines do the creative work. They plan and organise the activities, while humans do the physical grunt-work, implementing routines and responding to directions. Thinking of humans as following the orders set down by machines might seem far-fetched. This is not how workplace automation is traditionally conceived. We typically think of machines as the ones that do the physical grunt-work. This is what happened in the case of automation in agriculture and manufacturing. But, increasingly, this is being flipped on its head. It is humans that do the physical grunt work. The rise of smart machines has resulted in the algorithmic surveillance and control of the workforce.Think of drivers following mapping algorithms and meeting daily delivery targets. Think of warehouse workers following logistics algorithms and being expected to walk dozens of kilometres a day to fill customer orders. Their work is being denuded of its value; they are becoming little more than simple stimulus-response machines themselves.[2]
+
+The conclusion is a sobering one. Technology is continuing to transform human work, as it has always done. But the scope and scale of workplace automation is now unprecedented. Even if this does not lead to widescale unemployment, it will force us to reconsider the value we derive from our work. If we study the technological transformations of work in depth, we may not like what we see. We may need to reconsider the notion that work is integral to our sense of meaning and purpose in life.
+
+**References**
+
+[1] Danaher, J. and Nyholm, S. (2020). Automation, Work and the Achievement Gap. *AI and Ethics*, 1, 227–237
+
+[2] This is an argument made at greater length by Frischmann and Selinger in *Re-engineering Humanity* (Cambridge University Press, 2018)

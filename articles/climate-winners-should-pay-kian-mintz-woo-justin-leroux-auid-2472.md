@@ -1,0 +1,91 @@
+---
+title: "Climate winners should pay"
+subtitle: "How we should deal with those who benefit from climate change"
+author: "Kian Mintz-Woo"
+date: "5th May 2023"
+article_id: "2472"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,454 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-05-Climate-winners-should-pay.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/climate-winners-should-pay-kian-mintz-woo-justin-leroux-auid-2472"
+---
+
+# Climate winners should pay
+
+*How we should deal with those who benefit from climate change*
+
+**By Kian Mintz-Woo** | *5th May 2023* | *Read time: approx. 7 mins* | *1,454 words*
+
+![Climate winners should pay](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-05-Climate-winners-should-pay.dc.webp)
+
+---
+
+*Climate change is one of the most significant challenges facing our world today, and it has far-reaching consequences for both the environment and the economy. While most of the world population is adversely affected by climate change, some industries in some countries end up benefiting from the warming climate—a complexity often ignored in climate justice. In this article, Kian Mintz-Woo and Justin Leroux tackle the complex issue of what climate winners owe to climate losers.*
+
+Traditionally, discussions of climate change have focused on the negative impacts, such as rising sea levels, extreme weather events, and ecosystem disruptions. This is natural because negative impacts are predominant—and many of them are truly devastating. However, there are also some positive effects, such as longer growing seasons, expanded shipping routes, and increased property values in certain areas. For example, a warming climate can make agriculture viable in northern latitudes of Canada and Russia, but also in mountainous areas in the tropics [1].
+
+[![climate change min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/climate-change-min.webp)
+
+SUGGESTED READING
+What economists get wrong about climate change
+By Steve Keen](https://iai.tv/articles/what-economists-get-wrong-about-climate-change-auid-1970)
+
+Indeed, climate changes have led some to proclaim southern England as the new Champagne for its sparkling wine. Similarly, tourism opportunities could emerge in areas that are not currently suitable. Lastly, access to previously inaccessible commercial trade routes, like the Northwest Passage between Greenland and Canada’s Arctic islands, could potentially benefit all through lower shipping costs [2]. We should be able to hold in our minds both facts: that climate change is overall harmful and that it is, for some regions and industries, a benefit. We should, in short, develop theories that include both climate winners and losers.
+
+How should climate justice address this variety of climate winners and losers? Can a comprehensive theory reflect this complexity? In recent [academic](https://doi.org/10.1017/S0266267120000449) [articles](https://doi.org/10.1371/journal.pclm.0000127), we propose a new principle to distribute these impacts, one that recognizes the positive effects of climate change but also takes into account the negative impacts on vulnerable populations. The principle we propose is called the "Polluter Pays Then Receives" (PPTR) principle (pronounced “Peter”), a principle which differs from the standard principles in the climate ethics discussion and provides a fuller accounting of climate impacts.
+
+This theory is grounded upon the idea that some actions harm third parties who are not responsible for producing the harm. An idea in economics is called an externality. For example, when you fill up a car with petrol, you agree to pay the price at the pump. You have made a transaction based on your willingness to pay for fuel and the fuel provider’s cost to refine and bring that fuel to market. Your demand to buy, their ability to supply.
+
+\_\_\_
+
+These positive impacts can be just as important as negative ones when it comes to the holy grail of efficient markets
+
+\_\_\_
+
+The issue is that burning that fuel contributes to climate change and harms people, but that harm isn’t included in the price. Petrol is therefore over-purchased as these harms, or negative externalities, are not included. We, therefore, tax petrol to reduce how much is bought and hopefully use that tax revenue to mitigate some of those third-party harms, thus making the market efficient. The interesting quirk arises when third parties benefit from a transaction. These positive impacts can be just as important as negative ones when it comes to the holy grail of efficient markets.
+
+Under the PPTR principle, polluters would, first and foremost, be required to compensate those who are negatively impacted by climate change. This resolves the negative externality problem and is the “Polluter Pays” part of PPTR. As with the classic Polluter Pays Principle, this means that companies and industries that contribute to climate change would be held responsible for the costs of their actions, and those who are most vulnerable to the negative impacts of climate change would be prioritized.
+
+In addition, however, one should recognize the fact some benefit from climate impacts that simultaneously harm others. It is morally difficult to let those climate winners freely enjoy these benefits. This is where the “Then Receives” of PPTR comes into play: Assuming polluters have fully compensated climate victims for their harm, they are eligible to receive payments from the climate winners for the benefits the warming climate has generated. In other words, after they have paid for the climate harms, they should be paid for the climate benefits. Should the victims still need compensation, however, the climate winners would come to the climate victim’s aid directly instead.
+
+[![related-video-image](https://iai.tv/assets/Uploads/How-to-talk-about-climate-crisis.webp)
+
+SUGGESTED VIEWING
+How to talk about climate change
+With Caroline Hickman](https://iai.tv/video/how-to-talk-to-climate-change)
+
+While it may seem counterintuitive to reward polluters (even though this only occurs to a limited extent), the PPTR principle has several advantages over existing distributional principles. For one, it recognizes the mixed impacts of climate change, which existing fairness principles like the Ability to Pay, the Beneficiary Pays, and the plain Polluter Pays Principles do not. Solely focusing on the negatives of climate change overlooks potential sources of tax income to abate the climate crisis. Additionally, the PPTR principle gives clear priority to compensating the harm suffered by victims, which is in line with most uncontroversial notions of fairness.
+
+Moreover, by considering both the positive and negative impacts of climate change—i.e., by “fully internalizing the externalities”, as an economist would put it—the PPTR principle incentivizes companies and industries to find ways to reduce their negative impacts while still benefiting from the positive impacts, a necessary step towards economic efficiency.
+
+Of course, there are still many challenges to implementing the PPTR principle, and it is not a panacea for all the issues related to climate change. However, it is a step in aligning incentives to appropriately respond to climate change—and it accommodates some of the often-overlooked complexity of climate change. Furthermore, this crisis has been brought about by prices not reflecting their climate impacts. Our principle, if perfectly implemented, would allow prices to accurately reflect environmental harms and benefits. This could provide an accurate starting point from which to begin policy discussions around distribution, taxation, and fairness.
+
+\_\_\_
+
+If we try to design policies that respond to these complex causes and effects, instead of viewing climate impacts monolithically, we’ll be better equipped to handle the effects of climate change as a society
+
+\_\_\_
+
+Having a new fairness principle is all well and good, but how do we use it?
+
+One of the challenges in implementing the PPTR principle is determining who qualifies as a climate winner. If you can swim in the ocean a few more days during the year because the weather is warmer, are you considered a climate winner and should you pay some authority the monetary equivalent of your enjoyment from those few extra swimming sessions? Well, yes and no. From a moral standpoint, you have not changed your routine but are simply enjoying what we call an undeserved gain due to a “better” climate (while others suffer), so you should in principle transfer your gains to the climate victims (or to the polluters, provide the latter have already fully compensated the victims). From a practical standpoint, however, it would be impractical to evaluate, monitor and charge you for your extra enjoyment as an individual. After all, what marginal price would you value swimming in the sea at different increments of temperature? At this scale, calculating the implications is onerous.
+
+The latter obstacle shrinks significantly as we zoom out to a more “macro” level, where we consider entire industries like agriculture, tourism, and trade in certain geographical regions, as mentioned in the introduction. Profitability gains are more easily monitored over time and taxation is a vehicle that already exists.
+
+[SUGGESTED READING
+Liberal democracies can't solve climate change
+By Larry Alan Busk](https://iai.tv/articles/liberal-democracies-cannot-solve-climate-change-auid-2108)
+
+The PPTR principle also helps address a fairness concern: is it fair to demand compensation for climate harms while ignoring other climatic effects? We think the answer is no. In particular, the existence of climate winners does not diminish the great harms suffered by climate losers—far from it—, contrary to what the rhetoric of those aligned with the interests of fossil fuel producers would have us believe. Instead, by making explicit who gains and who loses, we believe that having a comprehensive fairness principle helps prevent the seeds of doubt from being planted. Indeed, without justice, asking people to change their behaviour to help climate change becomes a much tougher sell.
+
+Centrist policies are often criticized as insincere attempts to enact change while essentially maintaining the status quo. The PPTR principle, though inherently centrist—as it combines the conservative goal of holding people (polluters) responsible for their actions (emissions) with a liberal solidarity for the harmed—is anything but timid. In fact, it calls for looking at climate change under an entirely new light, due to what we call a “constellation of climate externalities”. Some emit, and many are affected over different location and time-based scales. If we try to design policies that respond to these complex causes and effects, instead of viewing climate impacts monolithically, we’ll be better equipped to handle the effects of climate change as a society.
+
+**References**
+
+[1] <https://www.cbc.ca/news/science/climate-change-farming-1.5461275>
+
+[2] <https://www.bbc.com/news/science-environment-57650226>

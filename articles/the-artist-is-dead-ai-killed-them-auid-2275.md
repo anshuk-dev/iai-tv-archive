@@ -1,0 +1,95 @@
+---
+title: "The artist is dead, AI killed them"
+subtitle: "Can AI be genuinely creative?"
+author: "Henry Shevlin"
+date: "21st October 2022"
+article_id: "2275"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "2,327 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AI-art-and-creativity.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-artist-is-dead-ai-killed-them-auid-2275"
+---
+
+# The artist is dead, AI killed them
+
+*Can AI be genuinely creative?*
+
+**By Henry Shevlin** | *21st October 2022* | *Read time: approx. 12 mins* | *2,327 words*
+
+![The artist is dead, AI killed them](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AI-art-and-creativity.webp)
+
+---
+
+*Creativity is the last refuge of the artist. The technical skill and style of artists can now be replicated by artificial networks to reproduce new work. So, what impact does the human have on the creation of art when a new technology can replace skill? This problem isn’t a new one, instead we should look at the long history of new technology to see how new tools always extend the definition of what art is, writes Henry Shevlin.*
+
+In August this year, the Colorado State Fair found itself at the centre of an international news story when it announced the winner of its digital art competition. The piece, the cleverly titled *Théâtre D’opéra Spatial*, depicts an imaginary operatic performance before a small crowd in front of a vast circular window, through which is dimly visible a seemingly alien or otherworldly background redolent of the space operas of science fiction. What caused the controversy was not the piece’s content, however, but the mode of its creation. The artist, Jason Allen, had used a computer program called Midjourney to generate the image from a text prompt. While he claimed to have been open about this fact when entering the competition, many commentators were unimpressed; as one of them put it, “typing keywords in a good enough sequence isn’t art.”
+
+[![AI ART](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/AI-ART.webp)
+
+SUGGESTED READING
+Computer creativity is a matter of agency
+By Dustin Stokes](https://iai.tv/articles/ai-will-never-rival-picasso-auid-1971)
+
+Controversies about the relationship between technology and art are hardly new. In 1853, photographer John Leighton had opined that “[p]hotographic pictures are at present too literal to compete with works of art”, and despite the pioneering attempts of early photographers such as Alfred Stieglitz, it was only in the 1940s that photography began to be broadly accepted as an artform in its own right. Similar debates raged in the early days of cinema, and have once again arisen in the case of videogames, with philosophers such as Aaron Smuts making cogent arguments for their potential status as artworks. Moreover, the use of computers to create art and music – so-called ‘generative’ art –has itself been well established for decades, at least among the avant-garde, with pieces like Brian Eno’s 2006 work *77 Million Paintings* attracting widespread acclaim.
+
+\_\_\_
+
+Can the outputs of these AI systems ever be considered genuine forms of art?
+
+\_\_\_
+
+If one were to draw a lesson from these cases, it is that history (and ultimately the art world) seems to be on the side of those who would extend the concept of art to include new forms of human creativity. But is AI-assisted art a special case? Could typing keywords into a computer program ever really count as creative?
+
+To address these questions, it is worth looking briefly at the technology itself. The last decade and the last three years in particular have been a disorienting time in the world of artificial intelligence, with a flurry of novel and largely unanticipated advances occurring across a wide range of tasks. Many were taken by surprise, for example, by the emergence in 2019 of so-called large language models (LLMs) in the form of OpenAI’s GPT-2. These algorithms take a given sequence of words (such as the opening lines of a poem) as input and aim to predict the most likely continuation of the sentence. In one sense, they are simply the spiritual successors of the kind of ‘predictive text’ systems that have been present in mobile phones for decades. But their sheer scale and size gave them unanticipated abilities. As it turns out, as language models get bigger and are trained on more and more data, they can perform a shockingly wide array of linguistic tasks, from summarising articles, composing poems, performing simple arithmetic, and even doing simple computer coding.
+
+Many in the AI world were surprised again when in January 2021 OpenAI unveiled DALL:E, a visual language model that applied a similar architecture to the creation of images. The core idea was fairly simple, relying on the fact that there are billions of images on the internet that have been labelled using text descriptions (this is of course how sites like Google images are able to find images in the first place). By training a system on this kind of combined text and visual data, it was possible to create a model capable of ‘guessing’ and generating the kind of image most likely to be associated with a given text prompt. But what was really astonishing was that DALL:E was able to generate fully *novel* images that didn’t precisely resemble anything in its training set. If prompted to show an image of an armchair in the shape of an avocado, for example, DALL:E could do a passable job, showing something that could easily have featured in an Ikea catalogue, rather than a jumbled guacamole mess of pixels. It was still relying on what it had learned from its dataset, but had moved beyond simple association of images with labels, and captured deeper patterns about how language relates to images.
+
+The economic potential of this technology was immediately obvious. Images are widely used by businesses and individuals, from stock photos to clipart, and being able to create novel pictures from simple text prompts was a striking new capability. Other companies poured into the market, and a host of competitors to DALL:E (now DALL:E 2) rapidly emerged, including Midjourney, the algorithm that powered Jason Allen’s competition-winning entry.
+
+But can the outputs of these systems ever be considered genuine forms of art? Here, it seems to me, the debate is heavily stacked against the sceptics, insofar as we have long since relaxed the idea that personal *technical* skill on the part of a creator is essential to genuine art. Perhaps the first and clearest case of this was photography itself. Of course, technical expertise certainly aids the photographer-as-artist, and any professional photographer will have an array of sophisticated skills. However, a sufficiently thoughtful and deliberately creative shot might meet our common understanding of art regardless of its maker’s skills behind the lens or in the developing room. A similar concession against technical skill has also been made in the rise of conceptual art, from Marcel Duchamp’s famous urinal to Tracy Emin’s bed, and even in music via pieces like John Cage’s silent composition 4’33”. In these cases, a creative enough idea suffices for us to recognise a piece as art even in the absence of technical virtuosity. Finally, the rise of tools like Photoshop has already dramatically lowered the barriers to entry for would-be artists and designers, largely replacing skill with a paintbrush with knowledge of how to get the most out of the software.
+
+\_\_\_
+
+While it is true that image models have literally been trained up on the work of others, the end results in many cases differ dramatically.
+
+\_\_\_
+
+Given this, it is hard to see a cogent argument for denying that text-to-image models can be outright denied the status of art. While the technical processes may be carried out by a computer, the choice of text prompt – and just as importantly, the choice of which images to discard or retain – arguably provide a genuine moment for human artistic creativity to work its magic, in a similar way to the photographer’s choice of shot or the conceptual artist’s choice of readymade. Indeed, the creation of clever and evocative prompts is rapidly becoming a cottage industry in its own right, with enthusiasts sharing all sorts of insights as to how to get the best results. A typical prompt for a modern language model may contain many dozens of different descriptors; rather than simply asking for a “girl with a pearl earring,” a user of a contemporary system might ask for “girl with a pearl earring, painting, intricate, beautiful face, Vermeer, Dutch realism, 4k, trending on artstation,” and so forth. In this sense, one could simply see text-to-image programs as simply the natural evolution of existing  graphic editing programs, replacing knowledge of brushes, blends, transformations, and so on with the skill of expert prompt design.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-AI-Illusion.webp)
+
+SUGGESTED VIEWING
+The AI illusion
+With Kate Devlin, Martin Rees, Hilary Lawson, Laura Mersini-Houghton, Stephanie Hare](https://iai.tv/video/the-ai-illusion)
+
+One rejoinder to this might be that even if choice of text prompts could be an in-principle entry point for human creativity, the computer models themselves are ill-equipped to the task of creating art insofar as they are inexorably *derivative*, simply rearranging the various patterns in their training data. Indeed, the derivative nature of image models came into the spotlight this August with the release of a new open-source text-to-image model named Stable Diffusion. Whereas previous models had remained proprietary, running safely on a company’s servers with any number of constraints (and fees) in place, Stable Diffusion was freely available and could be run from anyone’s own home computer. Most importantly for the contemporary art world, though, its backers touted its ability to accurately copy the style not just of artistic genres, but specific living artists. Noting this, one twitter commentator pointed to “a collection of relatively modern or currently working artists that [Stable Diffusion] advertise as styles to steal on their site.”
+
+But is it really stealing, or “plagiarism” as some have suggested? As it happens, the art and legal worlds have experience in adjudicating these kinds of disputes. Many readers will be familiar with the iconic blue and red image of Barack Obama, emblazoned with the simple word “hope”, that became one of the visual icons of his campaign for the presidency. Underneath this optimistic image, however, was a messy lawsuit between its creator Shepard Fairey and the Associated Press, one of whose photographers was responsible for the photograph it was based on. In order to establish his fair use of the image, Fairey had to establish that he had *transformed* the original photograph. In the words of the judge from the earlier but similar trial of Blanch v. Koons, there is a public interest in allowing reuse of an image if it involves “the creation of new information, new aesthetics, new insights and understandings.”
+
+The case between Fairey and the Associated Press was ultimately settled out of court, but it provides us with some insight into how the law might one day assess whether text-to-image models are similarly copying the works of others or simply using them as inputs to a genuinely transformative process. While it is true that image models have literally been trained up on the work of others, the end results in many cases differ dramatically (if you have ever wanted to see a Pokemon in the style of Picasso, you can now do so). Moreover, there is a sense in which the training process of models like Midjourney and Stable Diffusion simply replicate some of the learning processes of human artists in training. We recognise that the human artistic imagination depends on exposure to the works of others, and studying the styles and methods of great artists is a key part of an artistic education. Artists innovate, yes, but they do so within an artistic landscape that they have normally studied at length.
+
+\_\_\_
+
+A gifted human artist like Monet or Picasso can move beyond the constraints of the art world they inhabit and create a bridge to truly novel forms of representation. Could an image model ever do that?
+
+\_\_\_
+
+I should stress that in making this observation, I am not asserting that no artistic protections should be provided to artists when their work is used and ultimately emulated by image models. I am simply noting that such protections do not follow straightforwardly from existing artistic norms and laws. Ultimately, the decision as to whether or not we wish to *create* such protections will be a political one. In the wake of the sudden technologically-facilitated ease with which anyone can create a work in the style of a living artist, we will have to decide collectively whether the interests of human artists in these matters warrants a shift in our values and laws. As matters stand, however, Jason Allen’s use of Midjourney to create *Théâtre D’opéra Spatial* raises no more fundamental concerns than an artist using Photoshop to create pop art in the style of Andy Warhol.
+
+A lingering question may persist in the minds of readers, however, as to whether there is something fundamentally limited about the capabilities of these systems. A gifted human artist like Monet or Picasso can move beyond the constraints of the art world they inhabit and create a bridge to *truly* novel forms of representation. Could an image model ever do that, or does their widespread adoption instead presage an era of artistic stasis and stagnation, in which the heterogeneity of the human art world is flattened, normalised, and ossified by the statistics of its dull machine-creators?
+
+To express this worry in more rigorous terms, we can avail ourselves of a helpful distinction developed by philosopher and cognitive scientist Margaret Boden, who has argued at length that creativity can be broken down into three fundamental kinds. The first is *combinatorial* creativity, the rearranging of existing elements to create something new; the second is *exploratory* creativity, finding novel ideas or forms within existing paradigms; and the third is *transformational* creativity, which involves the creation not merely of a new work or idea, but of a wholly new artistic framework or way of approaching a problem.
+
+A fairly clear case can be made that models like Midjourney and Stable Diffusion can be used to achieve the first two forms of creativity, whether in the combining of existing forms and styles (“a picture of a milkmaid in the styles of Vermeer and Monet”) or their exploratory extension to new subjects (“a painting of a modern nightclub in the style of Toulouse-Lautrec”). But what of transformational creativity?
+
+[![Margaret Boden](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Margaret-Boden.webp)
+
+SUGGESTED READING
+AI: Artificial Imagination?
+By Margaret Boden](https://iai.tv/articles/ai-artificial-imagination-auid-485)
+
+Here, I would suggest, the jury is still out. As natural as it may seem to assume that true leaps of artistic imagination have to come from a human mind marinated in the complexities of society, history, and culture, we may find that among the latent statistical artistic-spaces of contemporary image models are entirely new forms of visual representation, simply waiting for the right prompt to bring them into the light. In that case, the only limits to their creative power may be the human imagination itself.

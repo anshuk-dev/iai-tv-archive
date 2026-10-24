@@ -1,0 +1,123 @@
+---
+title: "The false promise of human gene editing"
+subtitle: "Human germ-line editing is now inevitable but will not end genetic disease"
+author: "Sahotra Sarkar"
+date: "29th September 2021"
+article_id: "1917"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "3,593 words"
+read_time: "Read time: approx. 18 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/CRISPR.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-false-promise-of-human-gene-editing-auid-1917"
+---
+
+# The false promise of human gene editing
+
+*Human germ-line editing is now inevitable but will not end genetic disease*
+
+**By Sahotra Sarkar** | *29th September 2021* | *Read time: approx. 18 mins* | *3,593 words*
+
+![The false promise of human gene editing](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/CRISPR.webp)
+
+---
+
+*While human enhancement has little mainstream scientific support, gene-editing to eliminate diseases from human populations is a vision many share. Now, following breakthrough technologies and the shocking case of He Jiankui editing the germ-line of two human girls, the editing of heritable human cells has appeared on the horizon whether we like it or not. What will the dream of human gene editing deliver? Sahotra Sarka, author of 'Cut-and-Paste Genetics', weighs up the credibility and safety of the new science of the CRISPR revolution.*
+
+In Hong Kong in November 2018, immediately before the start of the International Summit on Human Genome Editing, Chinese biologist He Jiankui stunned the world by announcing that he had successfully edited the germ-line of two little girls born earlier in the month. The girls were daughters of HIV-positive fathers, and He had used CRISPR-based techniques to edit their CCR5 gene, the typical version of which was believed to enhance susceptibility to HIV infection. These CRISPR-based techniques, first introduced in 2012, are the simplest, cheapest, most accurate, and most flexible methods that have ever been developed to edit genes, whether they be in ordinary (somatic) cells or the reproductive (germ-line) cells of any organism including humans. CRISPR-based gene editing is so simple that it can be done in a basement or garage. DIY kits cost less than US$ 200 and can be bought online. [[1]](#Footnote1) 
+
+As far as is publicly known, He Jiankui was the first person to carry out human germ-line editing and bring the embryos to full term. He had carried out his project openly, discussing his plans with colleagues including his former PhD advisor, Michael Deem of Rice University as well as prominent Stanford bioethicist, William Hurlbut. These colleagues would later claim that they had tried to dissuade He but there is little evidence that suggests that they tried very hard.
+
+Nevertheless, He’s announcement generated a well-orchestrated firestorm of condemnation. The December 18 (2018) issue of *Science* ran an editorial by Victor J. Dzau, President of the U.S. National Academy of Medicine, Marcia McNutt, President of the U.S. National Academy of Sciences, and Chunli Bai, President of the Chinese Academy of Sciences that urged “international academies to quickly convene international experts and stakeholders to produce an expedited report that will inform the development of . . . criteria and standards to which all genome editing in human embryos for reproductive purposes must conform.” According to them our ability to edit the human germ-line “has outpaced nascent efforts by the scientific and medical communities to confront the complex ethical and governance issues that they raise.” [[2]](#Footnote2) The three Presidents were unequivocal in condemning He: “To maintain the public’s trust that someday genome editing will be able to treat or prevent disease, the research community needs to take steps now to demonstrate that this new tool can be applied with competence, integrity, and benevolence. . . . [T]he case presented in Hong Kong might have failed on all counts.” 
+
+This *Science* editorial is troubling for two reasons. First, it claimed that scientific developments had outpaced policy formulation. But, if that is true, the failure is that of the leaders of genomics research rather than of any individual researcher trying to extend the limits of CRISPR-based gene editing. The prospect of human germ-line editing has been recognized since the 1980s when it was explicitly discussed as a potential outcome of the Human Genome Project (HGP). [[1]](#Footnote1) HGP proponents realized that the new genomics would have social impacts and the project included studies of the ethical, legal, and social implications (ELSI) of the human genome. Yet, thirty years later genomics leaders appeared woefully unprepared for the prospect of edited human germ-lines. 
+
+Second, the *Science* editorial implicitly acknowledged that there were no rules in place to regulate gene editing in 2018. This means that He Jiankui was being condemned for violating non-existent rules. Moreover, while the Presidents of the U.S. National Academies of Science and Medicine offered to take the lead in developing regulations for human germ-line editing, in December 2015 the same institutions had already convened an international summit meeting on gene editing. It created a working group on the scientific, ethical, and social issues raised by new technologies such as CRISPR. The group’s report was published in 2017. [[3]](#Footnote3) It did not call for an outright ban on human germ-line editing in embryos; it recommended limiting both somatic cell and germ-line gene editing to prevent disease. But this is what He Jinakui did. What, then, are the international norms that He is supposed to have violated?
+
+[Günes Taylor on CRISPR and the Future Human](https://iai.tv/video/an-intro-to-crispr-gunes-taylor "Watch more videos on iaitv")
+
+Some biologists went further in their attempts to prevent human germ-line editing. Eighteen of them, including almost all CRISPR luminaries, published a call for an immediate moratorium on clinical human germ-line editing. [[4]](#Footnote4) Academy Presidents rejoined the fray. Dzau and McNutt, this time joined by the President of the Royal Society of London, Venki Ramakrishnan, endorsed the biologists’ call and claimed that their organizations would be “leading an international commission to detail the scientific and ethical issues that must be considered, and to define specific criteria and standards for evaluating whether proposed clinical trials or applications that involve germ-line editing should be permitted.” [[5]](#Footnote5) Apparently, He’s work had made the National Academies’ 2017 report already obsolete because it was too permissive about human germ-line editing. But was there good reasoning behind this change of position?
+
+“He Jiankui was being condemned for violating non-existent rules.”
+
+ 
+
+Chinese authorities were embarrassed by the uproar. He Jiankui was systematically investigated for noncompliance with all possible regulations that were conceivably relevant to his work. The official conclusion was that He “intentionally dodged supervision, raised funds, and organized researchers on his own to carry out the human embryo gene editing intended for reproduction, which is explicitly banned by relevant regulations.” [[6]](#Footnote6) He was dismissed from the Southern University of Science and Technology. No official report has ever detailed what existing Chinese regulations He violated in 2017 or 2018. In fact, China introduced draft regulations protecting embryos from gene editing in May 2019 only after these developments had taken place. [[2]](#Footnote2) At the end of 2019 Chinese authorities imprisoned He for three years and fined him the equivalent of US$ 430 000. Two collaborators received lesser sentences. Once again, there was no public presentation of evidence of guilt and there were persistent rumors that Chinese authorities had knowingly funded his work.
+
+He was not alone in wanting to modify the human germ-line to treat diseases. In Russia in June 2019, molecular biologist, Denis Rebrikov, announced plans to target the same gene that He had focused on but to edit it differently in embryos which he would subsequently implant in HIV-positive mothers to reduce the risk of transmission of HIV. [[2]](#Footnote2) So far, Rebrikov has not received the needed permissions or publicly embarked on the project. But the genie is out of the bottle and will not be put back.
+
+There is also no international or scientific consensus against human germ-line editing. For instance, twenty-nine European countries have signed and ratified the Oviedo Convention which bans germ-line editing but the list does not include Britain, Germany, Italy, or Russia, all countries with advanced scientific infrastructure and expertise that would facilitate such work. In the United States, the Food and Drug Administration (FDA) requires an Investigational New Drug (IND) exemption for clinical trials involving the transfer and gestation of a DNA-edited human embryo. In 2015, the U.S. Congress passed legislation preventing the FDA from considering any IND application that involved germ-line DNA modification. [[1]](#Footnote1) As a result, germ-line editing cannot proceed at present in the United States without it actually being illegal.
+
+In 2020, the U.S. National Academies of Sciences and Medicine and the Royal Society of London issued a report concluding that existing technologies, including CRISPR, were yet to be demonstrated as being sufficiently safe for clinical use. [[1]](#Footnote1) It limited its discussion to the use of human germ-line editing for disease prevention. It recommended the initial restriction of the use of germ-line editing, only after safety has been demonstrated, to cases in which a single dominant or recessive allele (that is, a version of a gene) causes severe disease. It implicitly admitted that germ-line editing that tries to remove genetic disease from the human population has support from a vocal constituency.
+
+This report also implicitly admitted that editing of the human germ-line is inevitable. It did well not to venture into the domain of genetic enhancement which presents an entirely different set of scientific and ethical issues. [[1]](#Footnote1) But it also did not focus on how CRISPR-based gene editing can be practically regulated given its ease, its cheapness, its ubiquity, and its lure. Regulations will vary from one country to another and, some will feel a need to allow germ-line editing in response to pressure from those who suffer from genetic diseases, their families, friends, and supporters. It is also possible that rogue operators will pursue CRISPR-based germ-line editing outside official control to serve the constituency demanding it.
+
+ 
+
+“the genie is out of the bottle and will not be put back.”
+
+ 
+
+Given this context of inevitable conscious intervention in the human germ-line, it is important to analyze what CRISPR-based human germ-line editing can achieve and what it cannot. The science matters and, as will be seen below, very little can be achieved through intervening in the human germ-line. These concerns arise even without considering the ethical implication of such an intervention. The ethical problems are well-worn territory. While there is no consensus among bioethicists, to most philosophers and research scientists it is clear that germ-line editing for genetic enhancement is problematic because it would pander to social prejudice about what is desirable. However, there is no consensus about such an intervention to eliminate genetic diseases from the human population and thus mitigate future suffering. But what does the science say?
+
+To ensure that the germ-line editing process delivers exactly on its promises without untoward side effects, attention must be paid to two biological processes. The first process is what CRISPR is supposed to do: edit genes *accurately*, that is, only edit a targeted gene and edit it precisely in the intended way. The second process is the generation of the phenotype from the DNA or genotype through development. (Phenotypes are the physical and behavioral traits of organisms.) This process uses the DNA as a resource to generate a phenotypic trait also using environmental inputs. In humans the process starts with fertilization, continues through the embryonic and fetal stages, and then through environmental modulation after birth. For successful medical intervention at the DNA level, there must be *specificity* in the relation between the relevant gene and the targeted trait: the edited gene must produce the intended phenotype and make no change to other phenotypes.
+
+Accuracy is a safety requirement. The 2020 National Academies/Royal Society report based its negative judgment on the immediate medical use of CRISPR-based germ-line editing out of safety concerns. More recent experiments have highlighted the severity of this problem. Three separate groups, two from the United States and one from Britain, have found that CRISPR can cause large DNA deletions or reshuffling on human chromosomes close to the gene targeted for germ-line editing. [[7]](#Footnote7) These results underscore the point that, for every potential case of germ-line editing, accuracy must be fully established. This, incidentally, was one of the things that He Jiankui did not do and it is a far more serious objection to his experiments than his failure to satisfy murky regulations about oversight. 
+
+Accuracy problems arise because the CRISPR mechanism recognizes an intended gene for editing by finding a short segment of DNA that is supposed to be unique to the gene. However, as the recent experiments show, finding such sequences may not always be possible. These sequences often exist in other places in the human genome and thus the CRISPR-based mechanisms used also end up editing the genomes in those unintended regions. However, there are potential technical solutions to this problem, through more sophisticated deployment of CRISPR technology, for instance, by honing in on the gene intended for editing through the use of multiple “unique” sequences instead of only one. This means, as the National Academies/Royal Society report implied, accuracy-dependent safety problems with using CRISPR-based techniques for human germ-line editing have a reasonable chance of being resolved. 
+
+ 
+
+“for every potential case of germ-line editing, accuracy must be fully established. This, incidentally, was one of the things that He Jiankui did not do and it is a far more serious objection to his experiments”
+
+ 
+
+Achieving and demonstrating specificity will be much more difficult except for a tiny handful of diseases, those highlighted by the National Academies/Royal Society report as being caused by a single dominant or recessive allele. The reasons are fundamentally biological: the nature of the transformations by which a fertilized cell (in humans and other sexually reproducing organisms) develops into an adult individual. Genes play an important role in development but they neither act singly nor act at all without the critical role of environmental causes. They also depend on the contingent history of these interactions, when environmental signals are received by a developing embryo, fetus, infant, or child. Moreover, and this is a serious problem for all medical interventions at the genetic level, typically, a single gene influences multiple traits. This phenomenon is called *pleiotropy*. It has been a well-recognized problem for germ-line editing for a long time. 
+
+Even before the emergence of CRISPR-based tools as the preferred method for gene editing, some spectacular cases of pleiotropy were seen in livestock subjected to germ-line editing. [[1]](#Footnote1) For instance, the gene MSTN codes for a protein called myostatin that inhibits the growth of large muscles in mammals (including humans). Chinese biologists eliminated the MSTN germ-lines from cloned pigs in a successful effort to generate leaner meat. However, twenty per cent of these pigs had an extra vertebra. Also in China, biologists used CRISPR-based techniques to remove MSTN in rabbits to generate more meat. Once again, they were successful but fourteen of the thirty-four mutated rabbits were born with enlarged tongues. In another Chinese laboratory, when MSTN was removed from lambs, they had to use C-sections to birth them. In Xinjiang in China, when CRISPR-based techniques were used to alter the ASIP gene in Merino sheep with the aim of creating breeds with specified wool color, the alteration decreased reproductive ability to such an extent that only a quarter of the implanted ewes carried offspring to term compared to normal ewes. MSTN and ASIP are examples of genes that do not satisfy the specificity requirement.
+
+The CCR5 gene that He Jiankui edited in the two little girls’ germ-line also shows peliotropy and violates specificity. [[1]](#Footnote1) That gene encodes the surface protein, CCR5, of white blood cells. This protein is involved in the immune response. CCR5 was targeted because it is used by the HIV virus to enter cells. He Jinakui targeted the gene for editing knowing some people carry a 32-base deletion known as a ∆32 mutation that deactivates it and confers resistance to HIV infection. However, a recent analysis showed that people with two copies of the ∆32 mutation may have lower life expectancy than those without them. The mutation may also make people more susceptible to influenza and West Nile virus. This type of pleiotropy shows that CCR5 does not have the desired specificity. (What He Jiankui did is even more problematic: the mutation he introduced is not even ∆32; rather, it was a mutation that had never before been studied in a medical context.) 
+
+Consider another example. The SLC39A8 gene on chromosome 4 in humans is believed to play a causal role in producing both hypertension and Parkinson’s disease. [[1]](#Footnote1) There is a common mutant allele of SLC39A8 that is known to decrease the risk for developing hypertension and Parkinson’s disease and it may appear plausible to consider germ-line editing in order to introduce this allele. However, a 2018 report points out that the same allele is believed to increase risk for schizophrenia, Crohn’s disease, obesity and, possibly, other diseases. This is another textbook case of pleiotropy. 
+
+ 
+
+What He Jiankui did is even more problematic: the mutation he introduced is not even ∆32; rather, it was a mutation that had never before been studied in a medical context.
+
+ 
+
+Pleiotropy is not even the only feature that destroys genetic specificity. Genes can have incomplete penetrance which is the relative probability that a particular trait will be exhibited if the gene for it is present. If penetrance is close to one, then medical intervention through gene editing is plausible. There are very few well-known cases in which penetrance is this high. Huntington’s disease is a progressive brain disorder caused by a single dominant mutation (also on chromosome 4) that leads to increasingly severe cognitive disorder and involuntary movements. Its gene is typically touted as having very high penetrance. 
+
+Almost everyone who has the mutation will eventually exhibit the disease. But not quite: there are complexities about its penetrance. The disease is caused by expanded and unstable repeats of a “CAG” (cytosine-adenosine-guanine) DNA triplet within the gene which normally codes for a protein that has been named huntingtin. (The exact function of this protein remains unknown though it is believed to be tied to long-term memory.) The CAG triplet specifies the amino acid residue glutamine in the protein it encodes. The more repeats there are, the longer the chain of glutamine there might be in the mutant huntingtin molecule. Normal individuals, that is, those without Huntington’s disease have between 11 and 26 CAG repeats. [[1]](#Footnote1) Those who have more than 40 repeats of this triplet are supposed to have a probability of 1 of developing the disease. We then have complete penetrance. There have been cases with as many as 250 repeats. Having a number of repeats between 36 and 39 is associated with variable penetrance (from 25 per cent at 36 repeats to 90 per cent at 39 repeats). 
+
+With Huntington’s disease, a new problem also emerges: genes can also have variable *expressivity*, that is, even when the corresponding trait is exhibited, it manifests itself in different ways and to different extents. In the case of Huntington’s disease, the variable expressivity may be a result of differences in the number of CAG triplets in different individuals. Symptoms of Huntington’s disease typically develop between thirty-five and forty-five years of age, though the age range of when the first symptoms appear ranges from two to eighty years. In general, the number of CAG repeats is believed to be predictive of the age of onset of the disease with higher numbers leading to earlier onsets. It may also be predictive of the severity of symptoms. The clinical course of the disease varies widely even for those with the same number of repeats. 
+
+So it is not clear that even Huntington’s disease has sufficient specificity for credible intervention through gene editing. The National Academies/Royal Society report was certainly correct in restricting editing options in the near future to diseases controlled by a single gene. If a disease is controlled by multiple genes, no single one of them is at all likely to have very high penetrance because whether the disease will be manifested will depend on other relevant genes. However, even all the disease alleles together are unlikely to have high penetrance and be riddled by variable expressivity because the complexity of the path to phenotype from the genes increases with the number of the genes each of which depends on its own set of environmental regulators. 
+
+So, it is reasonable to ask if there are any diseases that have sufficient high genetic specificity that they can potentially be eliminated through germ-line editing. Among relatively common genetic diseases controlled by one gene, there is only one case that comes close: myotonic dystrophy which is the result of a dominant allele. There are also relatively diseases such as sickle cell disease and much rarer ones such hemophilia B which involve control by a single gene and a recessive allele. These have reasonable specificity and could be partially eliminated. However, most genetic diseases do not satisfy any specificity requirement and the vast majority of them are cases in which a mutant gene only confers enhanced susceptibility to a disease while being highly pleiotropic (as in the case of SLC39A8 discussed earlier). Editing the germ-line for these genes is fraught with danger and it is hard to envision scientifically credible recommendations to pursue such a project. CRISPR-based human germ-line editing will no doubt be attempted but will not remove the scourge of genetic disease. 
+
+References: 
+
+[1] Sarkar, S. 2021. Cut-and-Paste Genetics: A CRISPR Revolution. Lantham, MD: Rowman and Littlefield. 
+
+[2] Dzau, V. J., McNutt, M., and Bai, C. 2018. Wake-up call from Hong Kong. Science 362: 1215. 
+
+[3] National Academies of Sciences, Engineering, and Medicine. 2017. Human Genome Editing: Science, Ethics, and Governance. National Academies Press. 
+
+[4] Lander, E. S., Baylis, F., Zhang, F., Charpentier, E., Berg, P., Bourgain, C., Friedrich, B., Joung, J. K., Li, J., Liu, D, Naldini, L.,Nie, J. B., Qiu, R., Schoene-Seifert, B., Shao, F., Terry, S., Wei, W., and Winnacker, E. L. 2019. Adopt a moratorium on heritable genome editing. Nature 567: 165 -168.
+
+[5] Dzau, V. J., McNutt, M., and Ramakrishnan, V. 2019. Academies’ action plan for germline editing. Nature 567: 175. 
+
+[6] Normile, D. 2019. Government report blasts creator of CRISPR twins. Science 363: 328. 
+
+[7] Ledford, H. 2020. CRISPR editing wreaks chromosomal mayhem in human embryos. Nature 583: 17 -18. 5
+
+---
+
+**Read more** about CRISPR and human gene editing on IAI News:
+
+[Rewriting the code of life: Entering CRISPR gene-editing technology's second decade](https://iai.tv/articles/rewriting-the-code-of-life-auid-1854) by Kevin Davies (August 2021)
+
+[CRISPR's Brave New World: The genetic revolution is finally here](https://iai.tv/articles/crisprs-brave-new-world-auid-1672) by John Parrington (October 2020)

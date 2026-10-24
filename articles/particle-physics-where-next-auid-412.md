@@ -1,0 +1,65 @@
+---
+title: "Particle Physics: Where Next?"
+subtitle: "What comes after the discovery of the Higgs boson?"
+author: "John Ellis"
+date: "Issue 24, 8th September 2014"
+article_id: "412"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,640 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/CERN-2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/particle-physics-where-next-auid-412"
+---
+
+# Particle Physics: Where Next?
+
+*What comes after the discovery of the Higgs boson?*
+
+**By John Ellis** | *Issue 24, 8th September 2014* | *Read time: approx. 8 mins* | *1,640 words*
+
+![Particle Physics: Where Next?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/CERN-2.webp)
+
+---
+
+Monday 29th September is an important date in the world of particle physics. For on this day in 1954, the convention was ratified that founded CERN (French for Conseil Européen pour la Recherche Nucléaire). Over the course of the last 60 years, CERN has become one of the most famous and best-funded science organisations on the planet: its 2014 budget is somewhere in the region of £786 million. It is also the birthplace, incidentally, of the World Wide Web.
+
+The most publicised discovery was, of course, that of the Higgs boson by scientists working at CERN's Large Hadron Collider (LHC). Now, less than year before the LHC restarts in April 2015, pressure is rising on the scientists at CERN’s vast underground science facility on the outskirts of Geneva. With little conclusive evidence yet found for supersymmetry, what if the Higgs boson was the high point? Will the LHC have proved an expensive white elephant?  
+  
+For theoretical physicist John Ellis this is what makes it exciting. “It’s just great to have a feeling that new knowledge about nature is emerging and that this is the place where the information is coming out. It’s like sitting on top of a volcano.”
+
+But this is not a new experience for Ellis, who has been at CERN since 1978. He started off as a postdoctoral researcher then becoming head of the theory division for six years before working on relations with non-member states. “For me personally,” he says, “it’s been fantastically fulfilling.” Ellis’s research has focused primarily on particle physics – especially with regards to direct experimentation – until he retired in 2011. His retirement, though, is “purely formal”: he is still a visiting professor at CERN, and is working on a research project that’s shared between CERN and King’s College London, where Ellis is currently Clerk Maxwell Professor of Theoretical Physics. In 2012 he was also appointed Commander of the Order of the British Empire (CBE).
+
+**Beyond the Higgs boson**
+
+The Higgs boson may have captured the headlines, but for Ellis, who has been at CERN some three decades, that was just one of a string of major breakthroughs. Looking back, he picks out two other key moments: firstly, the 1983 of the massive vector bosons responsible for the [weak interaction](http://en.wikipedia.org/wiki/Weak_interaction), known as the W and the Z. “That was a real technical tour de force,” says Ellis, “which was first of all a great entrepreneurial idea about how an existing CERN accelerator could be turned into a high-energy collider.”  
+  
+Not far behind that was the 1973 discovery of neutral current weak interactions. “It’s a bit esoteric,” he admits, “but the thing was, in the standard model there were these new types of weak interactions. Like analogues of radioactivity, they had been predicted but never been seen. A lot of people said that they didn’t exist, but there was an experiment here using the [Gargamelle bubble chamber](http://en.wikipedia.org/wiki/Gargamelle) that made a determined effort to go out and find them. In fact when they did find them, then there was a different experiment at Fermilab, ironically led by Carlo Rubbia [the same man who subsequently came to CERN, proposed this idea of turning our accelerator into a collider and used it to discover the W and Z bosons]. They said, ‘this is rubbish, this is not real, this result is wrong’. But it was right. That, I think, really opened the floodgates towards experimental verification of the standard model.”  
+  
+But it is still the Higgs boson that people most associate with CERN and the LHC in particular. Did they find what they were expecting to find? “At this juncture,” replies Ellis, “I like to tell the story of when Mrs Thatcher came to CERN,” before the W and the Z were discovered. “I explained to her the theoretical physics and I proposed to her the experiment and the things that we might look for, but that of course I hoped we’d find something different. But Mrs Thatcher liked things to be the way that she liked them to be, and so she said: ‘Wouldn’t it be better if you found what you predicted?’ And I replied: ‘Actually, not really, because then you wouldn’t have a clue how to advance!’
+
+The point Ellis is making is that, although the discovery of something that looks like the standard model Higgs boson is largely good news, the physicists at CERN are hoping for something more. “We’re all hoping there’s going to be some discrepancy with the standard model. Nothing has shown up yet, but obviously when we restart the LHC we will get much more detailed measurements and some discrepancy may well show up – we certainly hope that it does.”
+
+This is where the focus will be when the LHC restarts in April 2015. As Ellis explains: “What we want to do in general – and this is sort of bread and butter physics – would be to check the properties of the Higgs boson. But then because you’ve got this big increase in energy and eventually a big increase in collision rate there’s lots of new prospects opening up for discovering things beyond the standard model. People are very optimistic and excited, but there’s still people who are properly cautious.”
+
+**What next for CERN?**
+
+Beyond April 2015, Ellis is one of the scientists responsible for looking ahead to CERN’s longer-term future. As chair of the CERN committee to investigate physics opportunities for future proton accelerators, he is looking at a range of different ideas. “At the moment CERN obviously has got its hands full,” he says, “in terms of upgrading the LHC and getting the full bang for the bucks being spent on it. But, equally, because of the incredibly long lead-time for future projects there is research and development for various possible options.”
+
+One of these options is a [linear e+e- collider](http://en.wikipedia.org/wiki/Compact_Linear_Collider) which might be up to 50 kilometres long. Scientists in Japan are also working on a similar project. “But,” explains Ellis, “we think that one could get to higher energies in the same length tunnel, that’s why it’s called the compact linear collider. So that might be interesting.” The other option is a very large circular collider: perhaps three or four times the size of the LHC. “Eventually it could collide protons,” Ellis predicts, “but maybe as a first step might collide electrons and positrons a little bit like how the Large Electron-Positron Collider preceded the LHC. For proton-proton collisions, with planned improvements in magnets, you can get up to maybe 100 teraelectronvolts in the centre of mass. With electrons and positrons you could probably get to a factor of two higher energy than LEP. But the other great thing about it is the very high collision rate, an order of magnitude higher than what we had with LEP, and also a significant factor larger than the Japanese linear collider project.”
+
+So it would still be reaching energies which hadn’t been reached before with an accelerator or a collider of that type? Not necessarily, says Ellis: “For the photon-proton, for the e+e-, the energies are not enormous. They would be less than other e+e- linear collider projects – so deciding what experiment you want to do will depend very much on what the LHC discovers in run two. And the plan is in four or five years time to come back to the CERN council with some specific idea of what the next project might be.”
+
+All of this, however, will depend what LHC finds once it reopens in 2015. What if it fails to make any significant new breakthroughs? As Ellis explains: “It might discover new particles that you can pair produce at a high-energy e+e- machine. Or it might not, and if it doesn’t that’s where you might decide that’s where you’re going to put a premium on very precise studies of the Higgs boson. In which case a circular e+e-  machine at lower energies might be where you want to go.”
+
+**A spirit of collaboration**
+
+As well as such cutting-edge scientific discoveries, one of the most interesting aspects of CERN is the collaborative approach of the scientists who work there. It’s something shared by many large-scale, internationally funded science projects, and perhaps it’s an approach with wider reaching implications. Ellis describes the visits of various UK politicians and civil servants who were interested in applying this approach to climate science, for example. “There are certainly other areas where this sort of organisation could add value,” Ellis believes.   
+  
+He also tells of the visit of Shimon Peres, during the period when he was President of Israel. “This was at a time when Israeli membership of CERN was on the agenda," he recalls. “It was probably after it had been approved in principle but before Israel formally became a member. So we had a round-table with him and a bunch of physicists, including, I might mention, one Palestinian student, who didn’t seem to have any qualms about sitting down with the Israeli president.”
+
+“At some point, out of the blue, Shimon Peres started saying that in his view the nation state was sort of obsolete; it had come into existence in order to gather and control resources, in order to field armies, in order to defend and gain more territory. He said that in his view now the point wasn’t to gain territory, but to build intellectually, and that this was best done by a form of association. Obviously he very much had in mind CERN, where you have like-minded scientists from around the world collaborating together for topics of common interest. I find that a very interesting set of remarks from, after all, the president of Israel, and someone who played a very large role in building up the defence capacity of Israel.”
+
+You can learn John Ellis' account of what physicists do and don't know in our free online IAI Academy course: [A Brief Guide to Everything](iai-academy/courses/info?course=a-brief-guide-to-everything "A Brief Guide to Everything")

@@ -1,0 +1,99 @@
+---
+title: "Time and the universe are on an infinite loop"
+subtitle: "Conformal cyclic cosmology and Nietzsche's eternal return"
+author: "Baptiste Le Bihan"
+date: "22nd August 2024"
+article_id: "2925"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,117 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Conformal-cyclic-cosmology-and-the-eternal-return.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/time-and-the-universe-are-on-an-infinite-loop-auid-2925"
+---
+
+# Time and the universe are on an infinite loop
+
+*Conformal cyclic cosmology and Nietzsche's eternal return*
+
+**By Baptiste Le Bihan** | *22nd August 2024* | *Read time: approx. 11 mins* | *2,117 words*
+
+![Time and the universe are on an infinite loop](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Conformal-cyclic-cosmology-and-the-eternal-return.webp)
+
+---
+
+*Roger Penrose’s Conformal Cyclic Cosmology is a radical attempt to provide a comprehensive alternative to cosmology’s standard story where our universe, or aeon, is one of many in a successive chain* *each new universe is different from the last.* *However,* *philosopher of physics, Baptiste Le Bihan, presents a radically different perspective to Penrose's. He argues, each new universe in the cycle is not new, rather it is the same universe repeating itself. Our universe is on an infinite time-loop, with every ending it is re-born, and everything happens exactly the same; this offers theoretical weight to ancient, religious and Nietzschean ideas of the eternal return, with massive consequences for science, philosophy, and the way we live our lives.*
+
+Reality extends far beyond our universe, which is just one among many universes. This is the worldview of Roger Penrose’s *conformal cyclic cosmology,* an alternative to the standard model of cosmology.  According to conformal cyclic cosmology, our universe—or aeon as Penrose calls them in reference to the Roman god of (cyclic) time—belongs to a long chain of universes, ordered in time.
+
+[![related-video-image](https://iai.tv/assets/Uploads/IAI-thumb-v3.webp)
+
+SUGGESTED VIEWING
+The future of cosmology with Roger Penrose
+With Roger Penrose, Katie Robertson](https://iai.tv/video/the-future-of-cosmology-with-roger-penrose)
+
+Conformal cyclic cosmology, while highly speculative, challenges the established orthodoxy of the standard model of cosmology that posits a period of rapid inflation after the big bang. This rapid inflation must be posited to account for [otherwise unexplained facts](https://wmap.gsfc.nasa.gov/universe/bb_cosmo_infl.html), for example the [homogeneity of the universe in the earlier times](http://philosophy-of-cosmology.ox.ac.uk/flatness-problem.html). However, in conformal cyclic cosmology, the inflation came *before* the big bang in the last days of a previous universe—and not between 10-36 and 10-33 seconds *after* the big bang in our universe, as in the standard model of cosmology. This inflation turns out to be the final complete expansion of the previous aeon, which ended in a state of [thermal death](https://www.britannica.com/science/thermodynamics/Entropy-and-heat-death), everything being flattened out and destroyed by the expansion of space. Thus, conformal cyclic cosmology provides an interesting and somewhat natural explanation for the very existence of inflation.
+
+\_\_\_
+
+We thus have strong theoretical reasons to believe that the universe was highly ordered at its beginning. However, it’s not what we see when we look at the remnant light of the big bang, our window on the first instants of the universe.
+
+\_\_\_
+
+Interestingly, conformal cyclic cosmology has observable implications as signals of extremely energetic events happening at the end of the previous universe should appear in the cosmic microwave background (CMB), the remnant glowing of the big bang. These high energy phenomena are of two kinds: supermassive black holes collisions and the final evaporations of black holes. These should show up in the CMB as circular temperature fluctuations, and [physicists are currently analysing the CMB](https://arxiv.org/abs/2208.06021) and debating whether we see any such a thing.
+
+Conformal cyclic cosmology also addresses another mystery[: the highly organised nature of the universe at its beginning.](https://plato.stanford.edu/entries/time-thermo/#PastHypo) The second law of thermodynamics states that disorder increases with time. If the universe is progressively getting more and more disordered then, surely, moving backward to its origin it better had been in a sufficiently ordered state to begin with. We thus have strong theoretical reasons to believe that the universe was highly ordered at its beginning. However, it’s not what we see when we look at the remnant light of the big bang, our window on the first instants of the universe. At least, this is so if we only focus on matter and non-gravitational interactions, and set aside gravity. The universe, at its beginning, does not appear to be very ordered, according to empirical data. How, then, are we to explain the discrepancy between what we see—that the universe was disordered at its origin—and what we believe we should see, namely that it was highly ordered?
+
+\_\_\_
+
+One of the most striking features of conformal cyclic cosmology is that each aeon undergoes infinite expansion into the future before giving way to the next aeon.
+
+\_\_\_
+
+Roger Penrose accounts for this discrepancy in bringing a new ground for order and disorder to the fore. This source is the existence of gravitational interactions. Entropy, the technical notion associated to the measure of order, is traditionally associated to non-gravitational interactions as with a box filled of gas. The entropy of the gas increases with its progressive uniformisation, any particular ordering of its constituent’s molecules being continuously erased. The entropy associated with gravitation, on the contrary, increases as matter clumps together. Intuitively, this is because the more a gravitational system aggregates, the less it can spontaneously change its macroscopic state. And the more scattered a gravitational system is, the more it can move away from its original state by aggregating.
+
+It is the combining of the gravitational and non-gravitational entropies into a global entropy that ultimately respects the second law of thermodynamics. The universe must start from a state of low global entropy and then increase by clumping, which entails the formation of galaxies, clusters of galaxies, black holes, and ultimately, after the slow evaporation of black holes, of massless particles. In this final stage, black holes act as reservoirs for entropy such that when they are destroyed and evaporate away, the total amount of entropy in the universe will diminish drastically such that the beginning of the next aeon can start in a low entropy state, explaining the apparent homogeneity of the early universe.
+
+One of the most striking features of conformal cyclic cosmology is that each aeon undergoes infinite expansion into the future *before* giving way to the next aeon. At first glance, this implies the seemingly paradoxical view that a universe can both end infinitely far in the future and still precede another universe. The tension can be resolved by either positing two notions of times, one internal to aeons and another ordering them, or by dismissing the infinite future internal to the aeons as artefacts of the mathematical descriptions. How to provide such a story is far from trivial and has been rightly pointed out as one of the costs of conformal cyclic cosmology. In the model, the infinite expansion into the future and the resulting thermal death, where the energy of ordinary matter dissipates, thus stands in contrast to other cyclical models in which each universe contracts in a big crunch before giving rise to a big bang.
+
+[![related-video-image](https://iai.tv/assets/Uploads/5-thumbnail.webp)
+
+SUGGESTED VIEWING
+Cosmology and the big bust
+With Julian Barbour, Eric J. Lerner, Claudia Maraston, Jess Wade](https://iai.tv/video/cosmology-and-the-big-bust)
+
+In light of the two temporal sequences, one internal to each aeon, the other external to the universes and ordering them into a cosmological chain, how are we to make sense of the gluing? The key to this question is that only particles with mass can ‘feel’ the distance relations between space-time points. Massive particles indeed move through space-time along time-like trajectories whereas massless particles move around on another part of the space-time grid, the light-like, null trajectories. For particles that arpeggiate the null trajectories, there is no temporal duration, and the spatial distance travelled can be infinite if the spatial path travelled on is also infinite. Penrose observes that the notion of recorded duration using a periodic physical process, what physicists call ‘proper time’, is not defined on the null trajectories. In short, only the presence of mass can ensure that massive entities walk the structure that gives meaning to the notions of duration and spatial distance.
+
+One of Penrose’s ideas, then, is that if (and that’s a big if) only massive particles can respond to the distances structuring the space-time, then when massive particles disappear so do the distances and proper time. The gluing of two successive universes would then be made possible by the disappearance of massive particles infinitely far in the future.  At the end of the aeon, most of the matter will end up in black holes, which can be seen as conversion devices. These black holes transfer energy from the matter fields to the gravitational field, converting material entities into gravitational energy (through an increase in the mass of the black holes) and then slowly releasing it back as [Hawking radiation](http://www.scholarpedia.org/article/Hawking_radiation), primarily composed of massless particles. This Hawking radiation is a very slow, speculative, and poorly understood mass leakage when general relativity is combined with quantum physics (in a theory called ‘semi-classical gravity’).
+
+It is difficult to understand what happens to black holes as they approach final evaporation. One possible interpretation, which Penrose subscribes to, is that black holes explode in a final burst of energy in the form of massless particles, leaving behind flat space-time regions and gravitational waves. If this is the case, then black holes’ act as annihilation devices for massive matter: they absorb it and then erase it from existence. According to this interpretation of black hole physics, most massive particles will be converted into non-massive particles via black holes. They are first swallowed by the black holes and become gravitational energy. The black holes then emit massless particles. The successive aeons can be connected because the very notion of spatial distance and duration loses significance at the end of times.
+
+Penrose interprets conformal cyclic cosmology as a worldview wherein our universe is just one among many universes ordered in a long chain. However, an alternative interpretation of conformal cyclic cosmology appears consistent: that the previous and successive universes are two faces of the same coin. The two aeons could in fact turn out to be the very same universe, a view I have suggested elsewhere to call [‘aeon monism’](https://philpapers.org/archive/LEBTGL.pdf). Our aeon would be the only universe looping back on itself in a web of temporally closed paths, so that the past and the future are identical.
+
+\_\_\_
+
+Everything that happened in the past, will happen in the future. Everything that will happen in the future, already happened in the past.
+
+\_\_\_
+
+If we live in this giant loop then when we look at distant stars in a summer night, we aren’t not only glimpsing into the past of the universe, but also into its future. Everything that happened in the past, will happen in the future. Everything that will happen in the future, already happened in the past. Aeon monism thus provides a stunning alternative metaphysics to conformal cyclic cosmology. Penrose himself discusses briefly aeon monism to rule it out, suggesting that it leads to a number of paradoxes. The view is certainly strange but as philosopher David K. Lewis argued, closed temporal loops are not necessarily inconsistent. As long as they rule out the possibility to change the past or the future, in the strong sense of replacing one past or one future by another, everything’s logically fine. Likewise, with aeon monism, as long as no replacement of any event by any other event occurs on the timeline, the view doesn’t suffer any inconsistency.
+
+[![related-video-image](https://iai.tv/assets/Uploads/L23-twt-thumbnail-iai.tv.webp)
+
+SUGGESTED VIEWING
+The trouble with time
+With Michio Kaku, Güneş Taylor, Avshalom Elitzur, Jimena Canales, Tim Maudlin](https://iai.tv/video/the-trouble-with-time)
+
+Does this mean that everything is bound to happen over and over again, an eternal return of the sort discussed by Nietzsche and a number of Ancient thinkers? This depends on the nature of time. If we live in a four-dimensional space-time as suggested by relativistic physics, then there is no flow of time properly speaking, and nothing is really returning. Everything simply is the way it is, in an ordered sequence. But if time is really flowing, then there might be room for a view in which things are successively, and endlessly, reborn. The only philosophy of time ruled out by aeon monism is the growing block theory, which ascribes reality to the past but not to the future. Indeed, how could it be that existing past events turn out to be identical to non-existing future events?
+
+Another tantalising implication of conformal cyclic cosmology is that it could resurrect a religious cyclical worldview.  As the systematic study by the historian of religions Mircea Eliade has shown in The Myth of the Eternal Return in 1949, the eternal return of the same pertains our daily lives. Every gesture that we intuitively deem to have a profound meaning, such as religious ceremonies, rites, weddings, birthdays or festivals to name but a few, has the function of representing something beyond those acts. Every birthday celebrates a birth, every new year a renewal of the world. Ancient religions sought to deny the reality of historical, profane time, in favour of sacred, cyclical time in which the same thing returns to the same place over and over again. Thus, behind every practice, every rite, every meaningful act involving a repetition would lie an original event. By resonating with these ideas that still unconsciously shape our minds, the view that the universe is closed on itself in a giant temporal loop could thus revive a metaphysics still deeply engrained in our psyches.
+
+**References:**
+
+Eliade, Mircea. *The Myth of the Eternal Return: Cosmos and History* (trans. Willard R. Trask), Princeton University Press, Princeton, 1971 (originally published in 1949).
+
+Le Bihan, Baptiste. [The Great Loop: From Conformal Cyclic Cosmology to Aeon Monism](https://philarchive.org/go.pl?id=LEBTGL&proxyId=&u=https%253A%252F%252Fphilpapers.org%252Farchive%252FLEBTGL.pdf), J*ournal for General Philosophy of Science*, [Baptiste Le Bihan](https://philarchive.org/s/Baptiste%2520Le%2520Bihan), forthcoming.
+
+Penrose, Roger. Cycles of Time: An Extraordinary New View of the Universe. New York: Random House. 2010.

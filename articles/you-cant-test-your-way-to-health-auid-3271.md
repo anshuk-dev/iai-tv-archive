@@ -1,0 +1,93 @@
+---
+title: "False positives, real profits: the dark side of cancer screening"
+subtitle: "Cancer screening is selling us sickness"
+author: "H. Gilbert Welch"
+date: "29th July 2025"
+article_id: "3271"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,329 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-overdiagnosis-crisis-part-3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/you-cant-test-your-way-to-health-auid-3271"
+---
+
+# False positives, real profits: the dark side of cancer screening
+
+*Cancer screening is selling us sickness*
+
+**By H. Gilbert Welch** | *29th July 2025* | *Read time: approx. 7 mins* | *1,329 words*
+
+![False positives, real profits: the dark side of cancer screening](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-overdiagnosis-crisis-part-3.webp)
+
+---
+
+*More tests, more scans, more treatments—we’re told this is the road to health. It’s not. In our obsession with early detection, we’ve built a system that over-diagnoses the well, chases harmless cancers, and pours billions into treating problems that were never really problems. Pharma companies profit; doctors feel virtuous; and grateful “cancer survivors” promote the myth—yet in many cases their cancers were never destined to cause them harm. In this final article in his series on screening, leading physician and health policy researcher H. Gilbert Welch delivers a stark message: health isn’t constant vigilance. It’s knowing when to stop looking. You can’t test yourself to wellbeing.*
+
+*This is the third in a series of three articles for the IAI by Dr Welch on screening.**Read part 1, “[We are overcounting cancer cases by vast amounts](http://iai.tv/articles/50-of-some-cancers-diagnosed-by-screening-are-better-left-untreated-auid-3257)”, and part 2, "[Cancer screening harms more people than it saves is available](http://iai.tv/articles/cancer-screening-harms-more-people-than-it-saves-auid-3264)".*
+
+[![related-video-image](https://iai.tv/assets/Uploads/255.Diagnosis-Dilusion-copy.webp)
+
+SUGGESTED VIEWING
+The diagnosis delusion
+With Gina Rippon, Alastair Santhouse, Karsten Juhl Jørgensen, Claudia Canavan](https://iai.tv/video/the-diagnosis-delusion)
+
+The assertion that “Screening saves lives”—or its analogue “Early detection saves lives”—has been repeated so many times that it has become widely accepted as truth. So you probably should hop in an MRI to see if anything is wrong. And monitor your heart rhythm on your smartphone. And check if you have early signs of dementia. And test your blood annually to look for multiple cancers. My previous two articles in this series have shown why this is a mistake.
+
+\_\_\_
+
+To persuade asymptomatic people to be screened, they must first be made to worry about diseases they might get in the future. This undermines our sense of well-being, which lies at the very core of health.
+
+\_\_\_
+
+I argued that medical care has overinvested in screening, to the detriment of human health. It doesn’t reduce the overall number of deaths among those who are screened, and there are real human costs to getting ahead of symptoms. [Patients are diagnosed with diseases not destined to bother them](http://iai.tv/articles/50-of-some-cancers-diagnosed-by-screening-are-better-left-untreated-auid-3257), and are subsequently harmed by unnecessary treatment, the side-effects of medication and complications of pointless procedures. Many more face abnormal test results, triggering cascades of more testing, procedures, complications and anxiety. Some are told that, while they don’t have the disease, they are at “high risk” for it. More generally, screening relies on fear. To persuade asymptomatic people to be screened, they must first be made to worry about diseases they might get in the future. This undermines our sense of well-being, which lies at the very core of health.
+
+[![related-video-image](https://iai.tv/assets/Uploads/24-03-11-brains-bodies-and-mental-health-video-talk.webp)
+
+SUGGESTED VIEWING
+How medicine ignores our bodies 
+With David Healy](https://iai.tv/video/bodies-brains-and-mental-health-david-healy)
+
+And, finally, screening diverts precious resources. All of this costs time and money—and a lot of it. Cancer screening alone in the US has been estimated to cost [$43 billion annually](https://www.acpjournals.org/doi/10.7326/M24-0375). For a variety of reasons, I think this is a low-ball estimate: the real number is closer to [$100 billion](https://www.acpjournals.org/doi/10.7326/M24-0887). That kind of money could go a long way toward improving treatment for symptomatic patients or, more broadly, tackling the social determinants of health.
+
+So how did we get here? Why are we doing this to people?
+
+*First, because it feels good*. Providing a concrete preventive service feels good for both patients and doctors. Most patients receive reassurance that they are well. Doctors get to check off a box, since we are frequently graded on preventive services. And then there is a lot of magical thinking: not only do we assume that more screening will save more lives, but that testing large swaths of the population will somehow save money and—most egregiously—[reduce disparities](https://www.statnews.com/2024/08/21/cancer-screening-increase-wont-reduce-black-white-health-disparities/) in healthcare outcomes.
+
+\_\_\_
+
+The more overdiagnosis a screening test causes, the more popular it becomes.
+
+\_\_\_
+
+This thinking is powerfully reinforced by the [deceptive feedback](https://www.nature.com/articles/s41416-023-02308-9) generated by screening. As illustrated below, more screening inevitably leads to more diagnoses. For some in the medical culture, this increase in diagnoses itself suggests the need for [more screening](https://americancancerfund.org/the-importance-of-early-cancer-screenings/). Yet many of the additional diagnoses, as we saw in [my first article](http://iai.tv/articles/50-of-some-cancers-diagnosed-by-screening-are-better-left-untreated-auid-3257), represent overdiagnosis: forms of disease not destined to harm patients, even if left untreated. As a result, the typical patient with the diagnosis is now less sick—and so, clinical outcomes appear better, even when screening has no real benefit. The illusion is most striking in survival statistics. Five- and ten-year survival rates always go up following screening, even if no deaths are avoided or delayed. Screening starts the survival clock earlier for patients with slow-growing cancers, and of course all those who are overdiagnosed “survive” and count as “cures.”
+
+![Positive feedback loop of screening copy](assets/Uploads/_resampled/ResizedImageWzYwMCwyOTNd/Positive-feedback-loop-of-screening-copy.webp)
+
+*How more screening provides positive feedback for more screening in both the medical community and the general population*
+
+Popular culture isn’t driven by statistics; it’s driven by stories. And screening produces great survivor stories from individuals who believe they owe their life to screening. Survivors provide powerful narratives for journalists and may become strong proponents of screening, particularly if they are celebrities. They spread the good news: that screening saves lives. This deceptive feedback creates a [paradox](https://pmc.ncbi.nlm.nih.gov/articles/PMC2647432/): the more overdiagnosis a screening test causes, the more popular it becomes.
+
+*Second, screening is good business*.Treating the well is far easier than treating the sick: they are more easily scheduled during working hours, less likely to experience complications from interventions and more likely to be well insured. Screening is a great way for privatized health systems to attract new patients; that’s why some cancer centers in the US are setting up early detection clinics. Entire specialties in the US have become dependent on cancer screening: gastroenterologists, urologists, dermatologists, breast surgeons and mammographers.
+
+These issues extend well beyond cancer screening: there is a [growing early-detection and risk-reduction industry](https://www.globenewswire.com/news-release/2025/01/27/3015518/32656/en/Preventive-Healthcare-Technologies-and-Services-Market-to-Reach-773-1-Billion-by-2034-A-Future-of-Revolutionized-Healthcare-Solutions-Latest-Report-by-TMR.html). Call it the preventive intervention complex: doctors, health systems, screening test manufacturers, pharmaceutical companies, medical device makers, researchers, policymakers and healthcare providers working together—whether consciously or not—to promote widespread preventive interventions. The business case is simple: it’s an easy sell and a huge market. While there are only so many sick patients, there are boatloads of well people.
+
+\_\_\_
+
+We make screening easy, while placing hurdles in front of those with actual symptoms. It is easier for a woman with no breast complaints to get a mammogram than it is for one who has found a new breast lump.
+
+\_\_\_
+
+Ironically, the emphasis on serving well people has made it harder for the sick to get appointments. Try to see a dermatologist for a bothersome skin rash, they are too busy screening and following up people with pigmented lesions that might be melanoma. Try to see a gastroenterologist for abdominal bloating, they are too busy screening and following up people with polyps that might become colorectal cancer.
+
+What to do? The policy prescription is straightforward. First, stop grading doctors on how many people they persuade (or pressure) to get screened. Some practices, driven to meet metrics, even [condition continued care](https://pmc.ncbi.nlm.nih.gov/articles/PMC2653973/) on screening compliance. Don’t incentivize primary care practitioners to focus more on the well than the sick. Second, stop advertising screening. It’s one thing to offer a service, it quite another to promote it as the best thing since sliced bread. Finally, stop biasing medical care against patients with symptoms. We make screening easy, while placing hurdles in front of those with actual symptoms. It is easier for a woman with no breast complaints to get a mammogram than it is for one who has found a new breast lump. The former can schedule her own mammogram while the latter needs a [referral](https://www.tranow.com/screening-vs-diagnostic-mammogram/) from a doctor. And, [in the US](https://www.nytimes.com/2014/05/01/opinion/the-problem-with-free-health-care.html), while the first gets the test for free, the second pays. That’s crazy.
+
+[![related-video-image](https://iai.tv/assets/Uploads/102.Medicine-magic-and-misunderstanding.webp)
+
+SUGGESTED VIEWING
+Medicine, magic, and misunderstanding
+With Bessel van der Kolk, John Ioannidis, Gina Rippon, Claudia Canavan](https://iai.tv/video/medicine-magic-misunderstanding)
+
+The personal prescription is more nuanced. Seek medical care for bothersome symptoms—we can often help you feel better, whether by curing disease, managing its symptoms or simply caring. But be cautious in seeking medical care as a way to promote health. You cannot test yourself to health. Health is about how you feel, not the absence of abnormality. Looking hard for things to be wrong is a recipe for false alarms, overdiagnosis and ill health. Ironically, part of health requires not paying too much attention to it. It’s best to focus on the things that make you feel better now: not smoking, eating real food, engaging in regular movement, and finding purpose in life.

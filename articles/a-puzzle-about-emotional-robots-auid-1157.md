@@ -1,0 +1,81 @@
+---
+title: "A Puzzle About Emotional Robots"
+subtitle: "Could a robot truly experience human emotions?"
+author: "Joel Smith"
+date: "Issue 69, 17th October 2018"
+article_id: "1157"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,924 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/robots-emotions.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-puzzle-about-emotional-robots-auid-1157"
+---
+
+# A Puzzle About Emotional Robots
+
+*Could a robot truly experience human emotions?*
+
+**By Joel Smith** | *Issue 69, 17th October 2018* | *Read time: approx. 10 mins* | *1,924 words*
+
+![A Puzzle About Emotional Robots](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/robots-emotions.webp)
+
+---
+
+In the 2015 film *Ex Machina*, computer programmer Caleb Smith becomes romantically attracted to Ava, an artificially intelligent robot. Caleb believes that Ava is similarly attracted to him, and they plan her escape from the facility in which she is held. It is clear that Caleb thinks of Ava not only as highly intelligent but also as capable of emotional engagement with the world. But does she really like him? *Could* she like him? Could a robot ever experience the emotions that we typically think of as fundamental to the human condition?
+
+This question quickly gives rise to a puzzle. For there are reasons to think that any autonomous agent, robots included, *must* experience something like emotion. But there are also reasons to think no robot ever *could* experience emotion.
+
+With robots being introduced in areas such as health, social care and education—areas that typically involve and facilitate emotional interaction and the forming of emotional relationships—finding a solution to this puzzle is increasingly urgent.
+
+**Robots Must Be Emotional**
+
+Artificially intelligent systems are, obviously enough, intelligent. Is intelligence possible without emotion? Empirical work and reflection on the nature of human intelligence gives us some reason to suppose that it is not; that intelligent, autonomous behaviour is deeply intertwined with emotion. An intelligent agent, amongst other things, engages in deliberation and reasoning to determine the best way to achieve their goals. Such agents sometimes reason well, conforming to the requirements of rationality, and sometimes badly. When it goes well, one might think, it goes on largely independently of one's emotional responses. If one wants to buy a loaf bread, and one knows that the same loaf costs £1 in shop A but £2 in shop B then, other things being equal, one should buy it from shop A. This is a matter of correct reasoning in which emotion plays no part. Indeed, one might think, emotion could only serve to lead one away from the path of rational decision making. Perhaps one feels a sense of pride and social superiority at shopping at Artisan Slice rather than Cheapo-Dough, leading one to make the irrational decision, thereby wasting £1.
+
+\_\_\_
+
+"If robots are to operate in anything other than isolated environments with limited options for action, then in order to cut the tangle of endless deliberation that would result from a non-emotional, purely rational approach to decision making, robots must be emotional."
+
+\_\_\_
+
+Decisions, however, are rarely so simple, and other things are rarely equal. Perhaps one knows Cheapo-Dough pays its workers badly and refuses to recognise unions; then again, one knows that one's ex is likely to be at Artisan Slice, and one wants to avoid them; to get to Cheapo-Dough, one needs walk up a steep hill (hard work, but keeping fit is important), passing through an area that one associates with the death of one's father; then again the staff are friendly, unlike the assistants in Artisan Slice who seem to look down their noses at one's choice of loaf; Artisan Slice is near a good shoe shop, and one needs a pair of trainers, but then again perhaps one ought to save one's money for a while and get a more expensive pair next week. And so on. And so on.
+
+Now, how does one make one's decision? It isn't at all obvious how such considerations can be factored in to a purely rational decision making procedure. It seems that in this, more fully fleshed out case, one's decision will be determined in part by one's emotional responses, and rightly so. It is, arguably, neither possible nor desirable to attempt to disentangle the emotional from the purely rational considerations in play. Of course, some of these considerations only arise if one is already subject to emotion. Perhaps robots don't have ex-lovers to avoid! But many would apply to any agent at all. How can one assign values to the various issues so as to weigh them on the balance of rational deliberation? It seems that the considerations that would go into making an informed decision run deep indeed. Does one really need to come to a firm decision regarding, for example, the relative merits of the staffing and union recognition policies of each of the shops in one's neighbourhood before one can make a rational choice about buying bread? If so, one might never leave the house!
+
+So how do we decide? Well, it depends on what we *care* about and how much. Perhaps our primary concern is financial, perhaps it is  our own health, perhaps it is making an ethical choice. On these issues, people will differ. To care about *A* more than *B* is to assign *A* rather than *B* more significance in one's life. And *care*, the assigning of significance, is a phenomenon closely bound up with *emotional* engagement with the world. Having a set of emotional responses to, say, the values of economic well-being, personal health, or workplace justice is what enables one to rule some considerations more important than others which, in turn, is what enables one to make decisions.
+
+Autonomous, intelligent robots are no exception. If they are to make decisions, to successfully navigate the world, they must assign some considerations more significance than others; they must care about some things more than others. In short, if robots are to operate in anything other than isolated environments with limited options for action, then in order to cut the tangle of endless deliberation that would result from a non-emotional, purely rational approach to decision making, robots must be emotional.
+
+**Robots Cannot Be Emotional**
+
+Emotions have a conscious, experiential character. That is, there is 'something it is like' to undergo an emotion. Joy, fear, anger, attraction, irritation, and the like, all *feel* a certain way. Some emotions feel good, some emotions feel bad, and some seem to involve an uneasy mixture of both. But they all feel some way or other. This, many would argue, is an essential aspect of them. Whatever else emotions might be, they are feelings.
+
+Aside from their feeling good or bad (their 'valence') the conscious character of emotions is, at least in many cases, bound up with an awareness of one's own body. In fear, one's body feels a certain way, shrinking back from the perceived threat; in anger one is 'hot and bothered'; in joy one's body feels open, at ease. Such bodily feelings are, arguably, a central element of emotional experience.
+
+The fact that emotion is so intimately bound up with conscious feeling is considered by some to be a block on the possibility that robots could ever be considered properly emotional. This concern rests on a more general scepticism about the idea that consciousness could emerge from 'mere' information processing, the stock in trade of artificial intelligence. Of course, humans and other animals are complex entities that, amongst other things, process information. From the workings of the visual system, to belief formation, to the execution of fine motor actions, we find highly sophisticated systems processing large quantities of information. But that, many argue, will never amount to conscious feeling. No amount of 'mere' information can account for the experiences of seeing a charging bull, of consciously judging it to be a danger or, most pertinently, of being afraid of it.
+
+This scepticism is controversial, and will be rejected by those philosophers who think that experiential character emerges from (or 'supervenes' on) representational, information-bearing states. But though controversial, it is widespread. According to it conscious, experiential character cannot be reduced to, nor explained in terms of, the sort of information processing that constitutes the fundamental construction material of artificially intelligent robots. Such robots, so the thought goes, might be very good, much better than us, at crunching data or navigating an environment at high speed, but they will never experience, so never have, emotions.
+
+**What is Emotion?**
+
+So, if these considerations are along the right lines, robots need emotions yet could never have them. The natural conclusion to draw would be that autonomous intelligent robots navigating complex environments, like Ava from *Ex Machina*, are not possible. To find a way beyond this impasse we should attempt a clearer understanding of the nature of emotion. Only when we know what emotions are will we be in a position to make an informed judgement as to whether robots could possess them. Sadly, there is no consensus, in philosophy or any other discipline, on the nature of emotion. We can, however, make a few tentative suggestions.
+
+We have said that emotions have a conscious, experiential character. This character includes both valence and bodily feeling. We have also said that emotions involve care, or the evaluation of significance. But there are other aspects of emotion that need to be thrown into the mix. Emotions are about things, they have 'intentionality': I am scared of the ghost, angry with the government, happy about my children's successes. Emotions motivate behaviour: facial and other expressive behaviour such as smiling or scowling, and larger scale action such as running away, or organising a petition. Each emotion type is associated with a cluster of these aspects. So, for example, fear is associated with the evaluation of something as a threat, negative valence, familiar bodily feelings, eye-widening, running away, and so on.
+
+\_\_\_
+
+"What is the relation between caring about something and having conscious feelings towards it? Does the former require the latter or not?"
+
+\_\_\_
+
+To say that fear is associated with this cluster of features is not to say that each one must be present in every episode of fear. Perhaps one or two might be missing in any given case: one might be afraid of something that one does not take to be a threat, one might be afraid of nothing in particular, one might afraid but not motivated to escape, and so on. To think of emotions in this way is to think of them roughly along the lines of Wittgenstein's family resemblance concepts: each instance of fear resembles some instances in some respects, other instances in different respects. They are unified by the fact that the various elements tend to hang together in a non-accidental way.
+
+Does this give us a way to respond to the puzzle of emotional robots? Perhaps. For if we allow that an agent could be afraid without thereby exhibiting every feature distinctive of fear, then it is open to us to think of robots as both possessing emotions like fear or attraction, whilst nevertheless accepting that their emotions lack conscious, experiential character. What makes their states emotional is their similarity, in other respects, to our emotions: their evaluative content, the way they dispose to action, and so on.
+
+Predictably enough, however, this is not the end of the argument. For what we really need to know is whether an emotion, say an episode of fear, could exhibit that feature that is allegedly necessary for intelligent decision making, whilst lacking experiential character. That is, is it coherent to suppose that a robot could possess states that constitute its *caring* about some things more than others whilst nevertheless lacking in experiential character? Put more generally, what is the relation between caring about something and having conscious feelings towards it? Does the former require the latter or not? We don't have the answer to these questions, and it is one that is high on the agenda of many of those working in the philosophy and psychology of emotion. The fact that we don't know, the fact that no consensus has been reached, is one of the things that makes this such an intriguing and exciting area of research.
+
+---
+
+Image credit: Alicia Vikander in Alex Garland's *Ex Machina* (Universal, 2015)

@@ -1,0 +1,79 @@
+---
+title: "The beautiful game made ugly"
+subtitle: "Sportswashing at Qatar"
+author: "Emily Ryall"
+date: "18th November 2022"
+article_id: "2310"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,862 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-beautiful-game-made-ugly.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-beautiful-game-made-ugly-auid-2310"
+---
+
+# The beautiful game made ugly
+
+*Sportswashing at Qatar*
+
+**By Emily Ryall** | *18th November 2022* | *Read time: approx. 9 mins* | *1,862 words*
+
+![The beautiful game made ugly](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-beautiful-game-made-ugly.webp)
+
+---
+
+*England face Iran in their first World Cup game. The human rights violations currently taking place in Iran are horrific. Yet, due to strict FIFA rules, the game will almost certainly go ahead. And the Qatar World Cup as a whole is awash with controversy, from the thousands that have died building the stadiums to the lack of women’s and gay rights in Qatar. But once the whistle blows, whether we like it or not, the power of sport will almost certainly make us forget all this, writes **Emily Ryall**.*
+
+Football is the most global of sports. It is played in every country, across all inhabited continents, by men, women, adults and children. Part of this is due to the simplicity of the sport, it involves a ball that gets kicked towards a goal that is defended. It can be played on grass, concrete, dust, and sand; indoors and out. It requires minimal technology (jumpers for goalposts!) and therefore is one of the most equitable games around. This is why it has spread far and wide and is so pervasive in modern human culture.
+
+The basic rules make it an easy sport to watch but also one that can showcase incredible athletic skill, tactical awareness, creativity and flair. Paradoxically, its low scoring nature is one of the reasons it is has the potential for great excitement, drama and emotion. As the clock ticks down, the tension rachets up. A one goal lead is difficult to hold on to when the pressure mounts. Throughout the game, momentum shifts as one side pushes forward to score whilst the other retreats deeper to defend, until an opportunity for counter-attack arises, the pressure releases and the momentum shifts once again.
+
+[![Rashford and Klopp.and](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Rashford-and-Klopp.and.webp)
+
+SUGGESTED READING
+The dangers of celebrity
+By Tom Mole](https://iai.tv/articles/rashford-and-klopp-challenging-celebrity-auid-1983)
+
+This is the essence of the beautiful global game.
+
+It is also why it is a soft but powerful tool for politicians. In this it is a form of soft diplomacy. The American political scientist, Joseph Nye, defined [‘soft power’](https://doi.org/10.1177/0002716207311699) as “the ability to get what you want through attraction rather than coercion or payments”. Sport is the means of attraction here. The global language of sport, and football in particular, enables host countries of mega-events to showcase themselves on the world stage. Hosting an event such as the FIFA World Cup is an opportunity to advertise yourself to the rest of the world. Often, this is by promoting business opportunities and tourism, but it is also a way of saying as a country, you have sufficient wealth to build new stadiums and infrastructure, even if these will end up unused and rotting away in the years to come. A quick internet search for abandoned stadiums indicates the sheer gratuitousness and scale of infrastructure waste from hosting sports mega-events. Consider, for example, the PyeongChang Olympic Stadium which cost $109 million and was used only four times before it was demolished, or the Hellinikon Olympic Complex in Athens which was left abandoned after being built to host the 2004 Olympic Games. Hosting these sports mega-events demonstrates this form of soft power. The French sociologist, Pierre Bourdieu, used the term ‘symbolic power’ to describe the way that political, economic and social capital could be impressed onto others. The symbolic power that says you can spend millions of dollars on stadiums that will be used once and then discarded is huge. It is a way of saying to other nations, that you deserve to be noticed and taken seriously. The fact that Qatar, as host of the FIFA World Cup 2022, can build seven brand new air-conditioned stadiums in addition to the infrastructure of roads, hotels and training grounds, over the space of a few years is a gratuitous display of wealth. That it has reportedly cost the lives of [6500 migrant workers](https://www.theguardian.com/global-development/2021/feb/23/revealed-migrant-worker-deaths-qatar-fifa-world-cup-2022) in doing so demonstrates greater power still.
+
+\_\_\_
+
+The term ‘sportswashing’ has been recently used to describe the practice of using sport as a form of soft power to portray a ‘clean’ image of a country
+
+\_\_\_
+
+Sport is supposed to transcend politics. The Dutch philosopher Johann Huizinga noted that play (and in this we will include sport) forms a ‘magic circle’ where the rules of normal life don’t apply. The rules of football are arbitrary; they exist purely to allow the game to be played. The only reason that players are not allowed to pick up the ball and run with it is that it would no longer be the game of football. So, players from all nations agree to abide by the same rules in order to play the game, and this works so long as the rules are arbitrary and outside that of ‘normal’ life. This is one of the reasons that soldiers were able to emerge from the trenches on Christmas 1914 to play a game of football over the blood-soaked soil that they had been fighting over. It is also why England will be playing Iran in their opening game of FIFA 2022 despite the human rights abuses taking place and the diplomatic freeze between the two nations. The language of football is one that most people can speak.
+
+And yet, sport is a human enterprise, and humans are political and social creatures with moral sensibilities. The rules of sport are insufficient in determining how the sport ought to be played beyond the formal rules of the game. This gives rise to the ethereal ‘spirit of sport’ that is often touted by governing bodies and sporting officials in relation to issues of fair play and sportsmanship. But these concepts are flexible, open to interpretation and can be viewed through particular political lenses. FIFA’s mission statement is [“to develop a modern, accessible and inclusive game”](https://publications.fifa.com/en/vision-report-2021/the-year-in-review/) but accessible and inclusive to whom? This demonstrates the paradox at the heart of openness and inclusivity; one person’s inclusion is another’s exclusion, as the debates about the hosting of events in Qatar, China and Russia show. The perennial controversy over where global sports-events such as the FIFA World Cup are held, demonstrates the difficulty of retaining a separation between sport and politics, since the very act of awarding the hosting of a competition is to make a statement about values - and history tells us that in too many instances, the core value of those at the top of the game is that of money and influence. Awarding a sports mega-event to a small nation state in the desert with little history of domestic sporting competition, laws against homosexuality, poor gender equality, minimal workers’ rights and employment protections, is to implicitly condone the values that these things represent.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Return-Thumbnail.webp)
+
+SUGGESTED VIEWING
+The return of the Colosseum
+With Meg Rosoff, Joanna Kavenna, Soma Ghosh, Roger Bolton](https://iai.tv/video/the-return-of-the-colosseum)
+
+The term ‘sportswashing’ has been recently used to describe the practice of using sport as a form of soft power to portray a ‘clean’ image of a country. As the cultural geographer John Connell [notes](https://doi.org/10.1111/1745-5871.12249), sport can “be used as a vehicle to counter and ameliorate perceived authoritarian, coercive, and nationalistic policies by creating a peaceful, amenable, participatory, and responsible ideology and image.” Sporting mega-events are a particularly useful instrument in this because they are global events that capture the attention of the average citizen and are outside the normal world of politics. They are a means of presenting a sanitised version of a country’s image to an external audience of ordinary people.
+
+One means of using the soft power of football is through the acquisition of sports teams and clubs, such as the high profile purchasing of Newcastle United by Saudi Arabia. One might ask why the rulers of a sovereign country would be interested in owning a football club in the northeast of England when it clearly is not a purely economic business investment. The answer, I suspect, lies in the soft power leverage it provides in the form of networking and lobbying and access to both high profile figures in the sports world and, perhaps more importantly, in the political and business world. There is also a tacit belief that increased investment in the purchase of elite players and success in domestic and European leagues will provide supporters with a picture of benign benefactors that overrides adverse publicity about the owners’ other business enterprises and political activities.
+
+\_\_\_
+
+Ultimately, most of us, when it comes to it, are hypocrites. We maintain that human rights and sexual equality matters, but these concepts fade into the background when the starting whistle blows
+
+\_\_\_
+
+Other examples of sportswashing involves persuading ‘influencers’ in the guise of high-profile players, ex-players, or sports fans, to act as ambassadors for the host county. This utilises the political soft power that individuals have other others. Whilst it may be unreasonable to hold players to a higher moral standard than the rest of us, since they are just mortal beings whose professional job is to play football, the fact that they have such visibility gives them a louder voice that garners attention. This was demonstrated by the footballer, Marcus Rashford whose campaign during the Covid-19 pandemic embarrassed the British Government into providing additional free meals for pupils over the school holidays. So, when high profile ex-players advertise themselves in slick and glossy advertisements for the host countries of sporting events, they are making a moral statement about the acceptability of such events, in the same way that wearing rainbow laces or ‘taking the knee’ is a symbolic expression of their values. Similarly, when football fans are paid by host countries to attend major competitions but are [contractually obligated to promote the host country in a positive light](https://www.theguardian.com/football/2022/nov/04/england-and-wales-fans-being-paid-to-promote-world-cup-from-qatar), they are implicitly condoning moral practices that they may personally express as abhorrent. But this is the power of football since the die-hard fan would arguably find it hard to resist the offer of free tickets, flights and accommodation in return for a few shots of their smiling face on social media.
+
+[![21 07 27.Wittgenstein and the olympics](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-07-27.Wittgenstein-and-the-olympics.webp)
+
+SUGGESTED READING
+Wittgenstein at the Olympics 
+By Ian Ground](https://iai.tv/articles/wittgenstein-at-the-olympics-auid-1847)
+
+Ultimately, most of us, when it comes to it, are hypocrites. We maintain that human rights and sexual equality matters, but these concepts fade into the background when the starting whistle blows. And this is what I predict will happen with the Qatar World Cup just as it happened when similar mega-sport events have been held in countries like Russia, China and the UAE. When it comes down to it, the kicking of a ball between two metal posts for our entertainment is clearly not worth the human lives that were sacrificed in the process. But when the Qatar World Cup kicks off most of us will shuffle our feet and wring our hands, mumble something about human rights and how corrupt football is, for such thoughts to drain away as we turn on the television to cheer on our team. Such is the power of sport.
+
+As the global game, football is one of the few arenas which hold political clout in the form of soft power. Although it is just two teams of eleven players kicking a ball towards a goal, it represents so much more. And whilst world governing bodies, such as FIFA whose ‘men in grey suits’ set the rules and offer the rewards, may say they wish to use football to “reflect the world”, the fact this world is currently ravaged by war, extremism and climate catastrophe suggests that they should be more careful about how they use the power that football holds.

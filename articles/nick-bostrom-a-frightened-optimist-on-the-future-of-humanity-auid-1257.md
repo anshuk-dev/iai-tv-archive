@@ -1,0 +1,144 @@
+---
+title: "A Frightened Optimist On The Future of Humanity"
+subtitle: "An interview with Oxford professor Nick Bostrom."
+author: "Nick Bostrom"
+date: "23rd August 2019"
+article_id: "1257"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "2,241 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/nick-bostrom.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/nick-bostrom-a-frightened-optimist-on-the-future-of-humanity-auid-1257"
+---
+
+# A Frightened Optimist On The Future of Humanity
+
+*An interview with Oxford professor Nick Bostrom.*
+
+**By Nick Bostrom** | *23rd August 2019* | *Read time: approx. 11 mins* | *2,241 words*
+
+![A Frightened Optimist On The Future of Humanity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/nick-bostrom.webp)
+
+---
+
+*What are the basic notions one needs to grasp in the complex debate on transhumanism and the advancement of technology? Nick Bostrom, the Founding Director of Oxford’s Future of Humanity Institute, helps us navigate the concepts, biases and circumstances we need to take into account before making judgements on what we should do to stay alive, and stay safe, as superintelligent systems overtake us.*
+
+**In the transhumanist debate there are quite a lot of terms that are difficult to understand for the lay reader, and I was wondering whether we could start by unpacking some of these terms. The most basic concept would be superintelligence – what is it?**
+
+Superintelligence – I don’t even know whether it counts as a neologism – but having a way to refer to the possibility of intelligent systems that are smarter than human brains is important because I think systems smarter than the human brain could be very powerful constituents of the future of humanity. Superintelligence is an abstract term which covers all systems that are a lot smarter than the general reasoning and planning ability that the contemporary human minds have. A lot of our work here focuses on machine learning.
+
+**Those more intelligent systems than us raise a great public fear for our human future. Just like the existence of gorillas depends on humans more than on themselves, now we are scared that superintelligence will decide the fate of humanity… Are you an optimist or a pessimist about this perspective?**
+
+You could put me down as a frightened optimist. I resist this binary choice between being biased and naive in an optimistic direction or being biased, naive and despondent in a pessimistic direction. We are trying to grasp complex issues, so we need to have a more nuanced understanding of the possibilities than this binary set of notions.
+
+**Are the concepts you create and engage with a way of nuancing this debate?**
+
+We need concepts because they help us see possibilities, they are ways of organising information. When you have an obscure, ill-defined domain, such as the future of capabilities and technological advancements and how they might impact the human condition, it matters what criteria we use when choosing between different courses of action. Concepts that highlight salient possibilities can be very valuable. 
+
+Concepts are sometimes enablers of research and other times they are products of research, that is, in order to find the right concept, you first need to spend time thinking hard about a set of questions; but then new concepts can also help communicate the result of your own thinking more accessibly. 
+
+**One such example might be the ‘status quo bias,’ that you explored in a recent paper. How far does it explain our resistance to technology?**
+
+The concept of status quo bias is borrowed from cognitive psychology, so researchers like Daniel Kahneman and many others analysed how people in many situations developed a preference for an option if the option was presented or framed as being the status quo. So you would need to present extra-benefits in order to get them to switch their preference. People were randomly given a chocolate bar, a mug or a pen after having filled in a questionnaire and then they were given the opportunity to change the gift that they had been given for something else. Researchers have found that most people preferred to keep the gift they had been given initially. It became part of your endowment and it was psychologically hard to give it up. 
+
+\_\_\_
+
+"Our technological prowess is galloping, whereas our wisdom and ability to peacefully cooperate with one another seems to develop at a slower pace."
+
+\_\_\_
+
+My contribution was to ask if something similar might be at play in people’s judgement in human enhancement contexts. Say, a hypothetical pill that could give you five extra IQ points, or slow down the rate of ageing by five per cent. When I was writing this paper, a lot of the biomedical literature was quite dismissive of the idea that there could be some desirability in giving people access to such forms of human enhancement, often on what seemed to me quite poor grounds. So I wondered whether what shaped this dismissal was something like status quo bias. Together with a colleague, we developed a method for trying to correct the status quo bias. If the bias is there, through our test, one would be able to remove the bias. 
+
+**So in the case of the pill that helps one gain five IQ points, would you be all for it? Do you see no potentially negative effects?**
+
+No, I see a lot of negative as well. There’s always a lot of possible negatives and possible positives. The question is how you weigh it all up. Well, that takes some judgement. And we know from cognitive psychology that our judgments are sometimes affected by status quo biases. So, how could you tell? In the case of this pill that gives you five extra IQ points, you can consider what you feel about the opposite – a pill that reduces your IQ by 5 points, and we suggest that most people would be horrified of this idea. 
+
+**Well, alcohol does that…**
+
+Yes, if you do it over a sufficiently long period of time. But it has the complication that people get pleasure from it.
+
+Just imagine a pure judgement that would be better if we could be dumber. Yet people take that idea as not just a bad idea but a completely insane idea. And so the question is – why should we think that our current IQ level is at the optimal level, such that a small decrease or increase would be bad? 
+
+**I guess the most quoted politically charged reason for resisting human enhancement is the link between nazism and eugenics…**
+
+That could be another factor that comes into play. But if we’re talking about a pill that doesn’t affect future generations, then that’s not the case. 
+
+**Another widely shared reason for resisting technological development is that these systems might become uncontrollable like Frankenstein and take charge of our fate? Is this just a sample of our eternal eschatological belief, or is there some grain of truth in it?**
+
+I don’t think this is coming from our eternal eschatological belief but rather it’s this observation that we’re developing increasingly powerful technologies, and we know that historically powerful technologies have often been used to cause a lot of harm – either accidentally or through their use in warfare. So there is a possibility that these new technologies will also be used for negative consequences...
+
+But in my work, especially my earlier work on transhumanism, I also explored the upsides of technology – perhaps these are less urgent than the pitfalls but they are important.
+
+I think there are reasons to resist current offers, like side-effects or the fact that these drugs that make you smarter don’t work on most people. But people try to overemphasise these flaws and make them into a principled argument.
+
+\_\_\_
+
+"If we think about this as a race between our growing powers and our ability to use those powers wisely, it seems unclear who will win that race"
+
+\_\_\_
+
+**When analysing human enhancement, to what extent do you look at the technology we currently have and to what extent do you imagine the technology we might have in the future?**
+
+You need to look from both sides in order to try to get maximum traction. Sometimes it’s easier to look at the completion we might have in the future and then work backwards – but we don’t know how long it will take to get there. 
+
+Yet we can think about what current actions we should take to have maximum positive impact on the future. In order to do that, you have to imagine what is ultimately possible, where you ultimately want to arrive, with a near term perspective about what are the courses of actions today, who are the actors, what’s feasible in the next few years. 
+
+**How far are we from a desired future? What are the challenges today, and what do we need to do to get to a better future?**
+
+Well, I think a lot of the downsides of the current condition are very obvious – from breast cancer to osteoporosis. The presence of large scale suffering is the big problem of the current human condition. 
+
+But there is a less visible upside – we are getting rid of the negative, we have better access to way better technology. 
+
+It’s interesting that you define human enhancement as the ability to solve issues we are widely concerned with such as cancer, given that there is a lay public impression of human enhancement as something magical that will change what we are rather than a solution to a problem we face.
+
+Yes, there are these two parts – one is removing the worst of these negatives, like starvation, famine, disease, depression.This is something everyone would support – like cancer research. 
+
+The other part is about bringing more positive in the world.
+
+What transhumanism does is, it says all that is absolutely right but there is this additional thing that is worth striving for, and that has historically been much less recognised. I remember back in the 90s a lot of the opposition to biomedical enhancement was based on the idea that there might be something dehumanising in pushing the boundaries of our human constitution, that there was something suspect in trying to find these shortcuts to human flourishing and excellence. 
+
+**You have a background in neuroscience and physics in addition to philosophy. What do you think philosophy brings to the table in these debates?**
+
+If we’re talking about human enhancement ethics, it brings the tools of analytic philosophy that conditions ethical thinking manifesting as this field of applied or practical ethics, where the debates on human enhancement have moved to. 
+
+More broadly though, I think philosophical tools have important things to contribute – we talked about conceptual engineering in organising our thinking and digging out possibilities. Philosophical training helps analyse concepts, think critically about them, about the relationship between them. 
+
+Historically, philosophy has also been a catch-all field where other things that didn’t fit in other fields could be explored. 
+
+Philosophy can offer the skills to operate and do systematic thinking where there are no methodological guidelines, in pre-paradigm stages.  
+
+**You’ve become more interested in governance lately. I was wondering whether we could talk a little bit about the vulnerable world hypothesis, mind crime, DIY hacking…**
+
+[![franck v 517860 unsplash](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/franck-v-517860-unsplash.webp)
+
+SUGGESTED READING
+Why We Shouldn't Be Scared of AI
+By John Collins](https://iai.tv/articles/why-we-shouldnt-be-scared-of-ai-auid-1084)
+The ‘vulnerable world’ concept, if zooming out, is the case that one of the most difficult, almost intractable, challenges for humanity is that the world is splintered at the highest political level into several different competing political units – countries – and we have no reliable way of resolving differences between different countries. The world spends billions of dollars every year in producing and maintaining assets and technologies to kill each other. In this way, technology can enable unprecedented destruction.
+
+The ‘vulnerable world’ hypothesis also describes other ways in which the world is vulnerable, at a micro-scale, where individual actors might become empowered to cause levels of destruction that previously only states with nuclear power were capable of achieving.
+
+**Like terrorist attacks...**
+
+Yes but empowered by weapons of mass destruction.
+
+There are always some people who like generating destruction. Some of them might be psychologically insane, or share a radical ideology, or pursue individual gain through extortion. What we rely on currently is that even though some people share this mindset, they have only been able to kill tens of people, not millions of people. But if technology develops and these people are able to kill billions through weapons of mass destruction, then we would all disappear, we would all be killed by school shooters.
+
+So what I argue in this paper is that the only way civilisation can survive is if we create vastly more powerful ways of controlling the use of cheap technology for mass destruction. This would require continuous surveillance of unprecedented efficiency, such as an ability to intervene in real time.
+
+**That obviously brings 1984 to mind… Are you not concerned about that?**
+
+Yes of course surveillance capabilities increase the states’ ability to suppress the restless populations…
+
+With some of the developments in nuclear technology, we now have the ability to wage wars that would have immediate planetary implications. So our technological prowess is galloping, whereas our wisdom and ability to peacefully cooperate with one another seems to develop at a slower pace. So, I think we need to spur on this cooperation horse to make sure that we can keep up with the galloping technological horse.
+
+If we think about this as a race between our growing powers and our ability to use those powers wisely, it seems unclear who will win that race.
+
+**This brings us back to your claim that you are a frightened optimist… What are you optimistic about, and what frightens you?**
+
+I’m optimistic because I think the impact of technological development has been positive on humans so far  – that’s less clear about animals given the scale of factory farming. I think for humans this is the best time ever. So there’s a historical trend that is pointing in the right direction. 
+
+But the fear is that this past threat will pose an existential risk to our human condition. I think we have gone blindly throughout our human history, we haven’t really had a master plan for our species. We invent a thing here and there, stuff happens. But we might try some intervention points where relatively small amounts of effort can make a disproportionate impact in the expected value of the future.

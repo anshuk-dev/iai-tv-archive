@@ -1,0 +1,67 @@
+---
+title: "Manufacturing Love"
+subtitle: "What if there were a pill for engineering romance?"
+author: "Anders Sandberg"
+date: "16th March 2017"
+article_id: "802"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,731 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Anders-3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/manufacturing-love-auid-802"
+---
+
+# Manufacturing Love
+
+*What if there were a pill for engineering romance?*
+
+**By Anders Sandberg** | *16th March 2017* | *Read time: approx. 9 mins* | *1,731 words*
+
+![Manufacturing Love](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Anders-3.webp)
+
+---
+
+Humanity has always tried to enhance love. There is a group in Northern Pakistan who believe that the best love potion in the world is water that has been used to wash a dead leather-worker. When a leather-worker dies a witch riding a pig – not a broom – flies over and surreptitiously washes him. They then sell these potions and, though nobody nowadays believes in those witches, the potions have never been more popular. So ethnographers claim.  
+  
+In my native Sweden, there is a belief that if you really want somebody to fall in love with you there is one sure-fire thing you can do. First, find an apple. Next, keep it in your armpit throughout the day. And finally, give it to him or her to eat and love is guaranteed to happen.  
+  
+Generally we have a long, long history of people trying to elicit love. There have been magical and chemical approaches, but also handbooks about how to be a loving person, how to attract people and so on. Historically we have cared a great deal about love and how to achieve it. Whereas we used to turn to superstition, now it might be that science has the answer. We are getting ever closer to learning how love works in the brain, which could lead to an interesting question: could we make love potions that actually work? And if we could, what about the ethics and suitability of this?  
+  
+I’m interested in the emotional part of love: the thing that brings two people together, keeps them together and has a profound effect on their lives. Having originally trained as a computational neuroscientist, I’m mostly interested in how this relates to the brain. However, I’m not just trying to reduce love to chemicals. Love is something that happens in a brain that is run on chemicals, but that doesn’t mean that love is simply chemical. Just as electricity isn’t the software we’re running in our computers and glutamate isn’t thought. It’s not the chemicals that matter: it’s the patterns they form. But the question of how physical processes give rise to conscious experience is another headache that I happily leave to my colleagues in the philosophy of mind.  
+  
+What is very clear to a neuroscientist like me is that when I mess with particular chemicals I change things in the brain. Add a bit more glutamate and people get more energetic. Add a little bit more and they get an epileptic seizure. What if we could do it with more precision? Well, now we can.  
+Let’s start with the most obvious of test subjects: voles. The prairie voles of North America are monogamous for their entire lives. Meanwhile, a nearby species, the montane vole, likes to sleep around. You can compare their brains and see differences in their receptors, particularly in their levels of oxytocin. Now if you sniff oxytocin as a human, you experience a number of things. You become more trusting of strangers, you’re more interested in looking at faces and interpreting their emotions, and you feel less stressed. It turns out if you give oxytocin to female prairie voles, you can get them to bond with males without mating. Normally they have to mate, get a rush of dopamine and then they start thinking ‘we should stay together.’  
+  
+Messing with the genes of these voles you can rewrite their nature. You can turn a promiscuous montane vole into a stable, monogamous one. And vice versa, you can make a monogamous prairie vole promiscuous.  
+  
+Okay, so I hear your objection: this is only kind of interesting from a scientific perspective or if you’re really, really into vole pornography. Whilst this is obviously not the same as human romantic love, these are ancient systems and they have many similarities. Preliminary experiments on humans have also shown some effects. For instance, drugs that increase levels of oxytocin seem to make relationships a bit more stable. There’s not much human research yet, but more is on its way.
+
+\_\_\_
+
+"If libido is mismatched, we should even it out. If oxytocin is dropping, we should replenish it."  
+\_\_\_
+
+But what might the practical applications of such drugs be? Well, about 50% of marriages in the US end in divorce and we have good reason to want to improve that statistic. One explanation might be that evolution didn’t build us to love forever. After all, evolution didn’t build us to live forever. From an evolutionary perspective, once you’ve had kids and given them a good start in the world, your genes don’t really matter anymore. This means that a gene that gave you extra longevity wouldn’t have an evolutionary advantage. So the end result is that various genes go haywire as we get older. Still, being smart helps. We’ve figured out how to have great healthcare, good food and we live much longer than our ancestors did.  
+  
+The same thing might be true of relationship strength. Pair-bonding might also have time limits. Most divorces happen around the 7 - 10 year mark. Research suggests evolution might be the culprit here because after that point children have more chance of surviving without parental support. In the past, hunter-gatherer lifespans weren’t very long. Most marriages ended with one partner dying of an accident or illness and the remaining spouse moved on. We didn’t have the problem of divorce like we do now.  
+  
+And why is divorce a problem? Well we like being in love. So what if we had a chemical trick to fix it? Now this sounds a bit creepy. We begin to panic when neuroscientists start talking about changing our emotions with pills. It’s one thing to use rose-scented candles or champagne and oysters – they aren’t so scary. But there’s really very little difference.  
+  
+So what can we do? The love systems in the brain can be split into three main parts. We have the lust-system which says: mate with any available partner. It’s not very discerning. Then we have the attraction-system: find a suitable person. Then we have the pair-bonding-system which actually keeps people together. When you fall in love, you’re essentially equivalent to someone who’s taken a pinch of amphetamine. You’re exhibiting symptoms similar to obsessive compulsive disorder. If you read love poetry you find poets obsessing over tiny details of the beloved. This is very much like OCD. And it turns out that some anti-OCD drugs dampen love responses.  
+  
+So generally love seems to be a dopamine high. The problem is this doesn’t last very long. As George Bernard Shaw noted, we would all burn out if we were passionately in love for all our lives. Maybe this sounds exciting for some, but there is a type of rodent in Australia that literally mates itself to death and it doesn’t sound that appealing.  
+  
+Concerning the lust-system, we know a few ways that love can be chemically enhanced. For example, testosterone increases libido. One of the main reasons couples have trouble is due to mismatched libidos. Typically male sexual desire doesn’t go down very much during long relationships while the female libido does. Meanwhile the urge to cuddle remains constant among females but declines in males. This is the cause of a lot of annoyance and trouble. We could cure this through testosterone patches, or we could tone down the male libido. I don’t think it matters which one you do. From a hedonistic perspective we might want to have more sex, but it’s also kind of impractical and takes a lot of time. Ethics does not define which way we should go, but fine-tuning the human libido will soon be within our power.  
+  
+Then there’s the attraction-system, which we don’t understand so well. One suggestion is manipulating pheromones: we tend to fall for people who are unlike us immunologically speaking. Perfume companies have been exploiting this research for decades. But these studies are now being called into question. The problem with pheromones is that they’re not very specific, and most of us want that special someone.  
+  
+But is the objection to enhancing love simply a question of efficacy? When we think about love-potions in fairytales, we think of the knight and the princess, of Tristan and Isolde. But does that make their love inauthentic? Would Tristan have fallen in love with Isolde without the potion? There seems to be no need for personal compatibility and that seems to show something is lacking. So, even if we manage to figure out how to the attraction-system works, it might still be morally questionable to artificially cause people to fall in love.  
+  
+But there might be one interesting counter-example: arranged marriages. Often rejected in the West, but it turns out that people can, and often do, fall in love with people in arranged marriages. They just skip over the dopamine stage. They go straight to pair-bonding. And it is this pair-bonding stage that we have the best moral reason to enhance. It’s enjoyable and healthy being in love. A typical human romantic relationship involves two people caring about each other, having obligations to one other and wanting this state to continue. And once you’ve built a family, you have obligations to your children. Immanuel Kant famously claimed that we could not be obliged to love someone because love is a feeling. And he’s right, you cannot force a feeling. However, we might be able to help a feeling that already exists.  
+  
+So I agree that it is worrying using drugs to engineer an emotion we did not already have. But that it is okay, if not morally and practically desirable, to use drugs to maintain feelings which are already in existence. If libido is mismatched, we should even it out. If oxytocin is dropping, we should replenish it. But enhancement will not just be a drug. I imagine in the future couples will need to tune up their brains. So they will go to little rooms, speak to counsellors, be told to hug each other and then, perhaps, to take a few pills. It’s not scary. It’s actually quite wonderful.  
+  
+ **To hear from Anders Sandberg in person, check out his talk at our upcoming event [Love in the Time of Tinder](https://events.iai.tv/life/the-greatest-adventure?_ga=1.103047488.1588803847.1447090476) on 29th - 30th April. He'll be talking on this exact theme, sharing the latest research into the science of love and the future of chemically enhancing our relationships. With live music and banquet dinners, don’t miss this once in a lifetime weekend of talks and debates in a beautiful setting.**

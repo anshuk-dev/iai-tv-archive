@@ -1,0 +1,49 @@
+---
+title: "We can’t tame big tech"
+subtitle: "Analog solutions won’t work in the new digital world"
+author: "Martin Moore"
+date: "15th September 2021"
+article_id: "1886"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,385 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-09-15.We-cant-tame-tech.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-cant-tame-tech-auid-1886"
+---
+
+# We can’t tame big tech
+
+*Analog solutions won’t work in the new digital world*
+
+**By Martin Moore** | *15th September 2021* | *Read time: approx. 7 mins* | *1,385 words*
+
+![We can’t tame big tech](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-09-15.We-cant-tame-tech.webp)
+
+---
+
+*Our current attempts to tame the tech giants are destined to fail. Instead of trying to recover the old analog world, we should be asking ourselves what sort of digital world we want to live in. Only once we have that vision for the future will we know what to do in the present, writes Martin Moore.*
+
+Governments around the world are desperate to tame Big Tech. In the US, a freshly empowered Federal Trade Commission (FTC) and State prosecutors across the country have launched antitrust actions against Facebook and Google, with investigations ongoing into Amazon and Apple. In China, the ruling Communist Party has halted public offerings, forced restructurings, launched antitrust action, and threatened onerous regulation of its home-grown tech platforms, wiping billions off their value. In Europe the EU, which has a long track record of fining and regulating US tech giants, is in the process of passing the most extensive regulation to date, with a Digital Services Act and Digital Markets Act. And, here in the UK the government has put forward a draft Online Safety Bill which, if it goes through, will oblige tech platforms to take on a ‘duty of care’ to their users.
+
+One can understand and empathise with government desperation to do something about the power of these transnational behemoths. Even before the pandemic struck, lawmakers were alarmed by the scale and reach of these companies. These ‘companies have too much power’, US Senator Elizabeth Warren wrote in 2019, ‘over our economy, our society, and our democracy’ ([link](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c)). ‘“We need a radical shift in the balance of power between the platforms and the people’ Damian Collins MP [said](https://houseofcommons.shorthandstories.com/dcms-committee-disinformation-fake-news/index.html). Since COVID-19 struck we have become yet more reliant on the services of these organisations. In July [it was reported](https://www.theguardian.com/technology/2021/jul/27/google-apple-and-microsoft-to-report-record-breaking-profits) that the combined value of the so-called GAFAM (Google, Apple, Facebook, Amazon and Microsoft) was worth more than a third of the entire S&P500 index of US companies. The companies themselves seem almost embarrassed by their riches, going out of their way emphasise the contributions they are making to society and their efforts to collaborate with governments and civil society.
+
+Attempts by governments to tame Big Tech are misguided because they aspire to recover an old analog world, a world that seems so much simpler than the global digitally interconnected one we live in now.
+
+Yet, these desperate attempts by governments to tame and constrain Big Tech are – for the most part – misguided and potentially dangerous. They are misguided because they aspire to recover an old analog world, a world that seems so much simpler than the global digitally interconnected one we live in now. A world where appliances could not talk back, where networking happened in real life, and where we survived on fewer than half a dozen TV channels. How else can one explain attempts to charge tech platforms for every hyperlink posted on their services (as the Australian government recently tried to do), or to re-classify platforms as ‘publishers’ – similar to newspapers or book publishers – so as to make them liable for anything that is published via their services? As though simply slapping an analog label on these vast, multi-dimensional technology companies will instantly quell the torrent of disinformation, abuse and conspiracy theories that slosh about our digital oceans.
+
+But these attempts are also potentially dangerous because, should governments succeed in gaining control of the tech giants, they will be hugely, menacingly, empowered. Imagine a government with access to all the personal information and real-time data about us that Facebook and Google possess (our personal relationships, who we communicate with, what we spend our money on). Or with their ability to track us wherever we go via our phones, or record whatever we do online. In fact, we do not need to imagine, since we can see super-surveillance in action in China, where the ruling Communist Party obliges tech companies to give them access to all its citizens data, and where authorities collaborate closely with the platforms to monitor the public. Nor is the ambition to surveil citizens limited to authoritarian regimes. India has instituted a system of biometric identification for its citizens – called Aadhaar – through which everyone has a unique, persistent identifier. COVID has increased pressure on other democratic government to do the same (sometimes stymied – ironically enough – by the tech giants themselves).
+
+Rather than fixating on taming Big Tech, democratic governments should do something that might seem counter intuitive. They should stop thinking about them.
+
+Rather than fixating on taming Big Tech, democratic governments should do something that might seem counter intuitive. They should stop thinking about them. Instead, they should focus on a much bigger question – they should ask themselves, what sort of digital world we want to live in? Do we want to live in a digital world dominated by half a dozen US technology companies? Do we want to live in a world where our social interactions are all mediated by for-profit platforms? Do we want to live in a world where people pay for services with their personal information? If the answer to these questions is no – and I suspect that for many of us it is – then we need to start imagining alternatives. We need to consider what a different digital landscape would look like. Would it have lots of small independent companies, or a mixture of all sizes? Would we own our data and use it as a digital currency, or would we share our data for the common good? Would we rely on for-profit public spaces or develop digital spaces equivalent to the shared, open public spaces we have created in the offline world – like parks, libraries and town halls.
+
+A US organisation has spent the last couple of years researching just this last question. New Public began from the perspective that people have been building public spaces in the real world for thousands of years, and that it is time to apply what we have learnt online. They have come up with four principles to guide the design of these new public spaces: welcome, connect, understand, act. *Welcome* is about how to make spaces welcoming to join and comfortable to stay in. *Connect* is about how a space allows people to connect with one another and feel a sense of belonging. *Understand* is about creating a shared understanding of reality within spaces, and *act* is about how a space empowers people to participate. You may not agree with these principles (though it is backed up by research with over 20,000 people) but at least they provide some guidance and direction to the future digital spaces we should build.
+
+By focusing all our attention on how to tame our current tech giants, we are in danger of consolidating the status quo, and embedding these vast corporations into our lives for decades to come.
+
+Or take Taiwan where, during the Sunflower Revolution of 2014, civic hackers created an alternative government online – vTaiwan – where people could discuss and debate policy. This is now used nationwide as a means of considering new policy initiatives, listening to public perspectives, and reaching consensus. Or Estonia where, almost three decades ago they decided to develop a highly integrated national digital infrastructure to enable people to access public services and interact online. Estonian citizens can now vote online, organise their healthcare, and access all public services. This meant that when COVID hit, Estonian public engagement and public services hardly changed.
+
+These are some of the different ways in which we could re-imagine our digital future, a future that will undoubtedly include contemporary tech behemoths like Apple and Google, but should not depend upon them. But it is only by imagining these alternative visions of our digital future that we will be able to figure out what to do with our digital present. Only by considering where we want to get to will we be able to decide what we should do now. This might mean breaking up Facebook, it might not. It might mean nationalising Google search, it might not. Instead, by focusing all our attention on how to tame our current tech giants, and how to make them more ‘responsible’, we are in danger of consolidating the status quo, and embedding these vast corporations into our lives for decades to come.

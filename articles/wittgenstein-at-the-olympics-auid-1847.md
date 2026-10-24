@@ -1,0 +1,71 @@
+---
+title: "Wittgenstein at the Olympics"
+subtitle: "We're all playing the language game"
+author: "Ian Ground"
+date: "27th July 2021"
+article_id: "1847"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,084 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-27.Wittgenstein-and-the-olympics.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/wittgenstein-at-the-olympics-auid-1847"
+---
+
+# Wittgenstein at the Olympics
+
+*We're all playing the language game*
+
+**By Ian Ground** | *27th July 2021* | *Read time: approx. 10 mins* | *2,084 words*
+
+![Wittgenstein at the Olympics](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-27.Wittgenstein-and-the-olympics.webp)
+
+---
+
+*What are the Olympics for? Politicians argue that they are good for the economy and a country’s prestige. Purists retort that the value is to be found in the games themselves.  Wittgenstein’s metaphor of language as a kind of game can help us resolve the disagreement. As with language, the real purpose of games is only apparent to those inside the activity, argues Ian Ground.*
+
+Despite everything, it’s a spectacular summer of sport. But our world remains mired in the pandemic. Some 78% of Japanese citizens, fearful of the Covid risk, oppose the Olympics being held in their own country. Some of us will be asking whether it’s worth it. What, after all is the point of sport and games?
+
+One idea is that the whole point of sport and games is that they are, precisely, pointless. Or rather whatever point they have is, as philosophers are wont to say, internal to them. If we try to cash that kind of internal value out into another currency - its benefits for the economy or for health or character - we end up, mostly, missing the point. Much the same is true of talk of the value of the arts. Artistic activity is good for the economy, but people also value it on other than economic grounds: for its own sake. There is something deep going on here, something that reflecting on what the philosopher Ludwig Wittgenstein wrote about games might help us understand the difficulty of holding onto the crucially important distinction between the inside and the outside of human practices. For Wittgenstein, the point of games, like language, is only visible when we are engaged participants in the activity.
+
+Some 78% of Japanese citizens, fearful of the Covid risk, oppose the Olympics being held in their own country. Some of us will be asking whether it’s worth it. What, after all is the point of sport and games?
+
+**Internal and external reasons for valuing sport**
+
+In most games and sports, winning really matters. It is pointless to play chess, Kabaddi, fight a Karate match or compete in a sprint without really wanting and trying to win. Sports and games professionals will devote most of their lives to doing so. Olympians will often have structured their entire childhood and teens laser-tracked on a medal (though not a few of us might wonder whether being so monomaniacally focussed on a single goal is psychologically prudent). We feel for athletes and players when they lose and more so when they are frustrated by injury, bad luck or pandemics. The audiences and fans share, vicariously, the pleasure and pain, joy and despair that goes with really wanting to win. It is right then the Greek goddess of Sport is not Truth, or even Beauty, but Victory.
+
+Does that mean that the point of the game or sport is to win? For if that is the point of the activity, then that must surely tell us what we need to know about the value of sport and games. They matter just because they are activities we can win at. This just shows, we might think now, that wanting, above all, to win is what makes us human.
+
+This thought, so often used to support conceptions of human nature as intrinsically selfish or of market economic systems as natural phenomena, is just wrong. The point of winning is *internal* to the activity of engaging in sports and games. It doesn’t follow this is why, those outside of the activity should value it. That might be for all sorts of quite different reasons. The expression of excellence, amusement, health, emotional catharsis, solidarity at local, national or global levels and, of course, making money. These things are *external* to the game or sport. And perfectly legitimate. But we get into a conceptual muddle and, too often, moral mess when we confuse these internal and external purposes and values.
+
+If we take this line, then cheating in sports – with doping in athletics and cycling being the most egregious examples – is best seen as a case of confusing and then corrupting the intrinsic values with the external ones**.** The moral failure of cheating is not just that of breaking the rules. It is a moral failure to understand the whole value of sport. When someone cheats at sport or in a game, they are not really engaging in the sport or playing to win the game at all but only pretend to. The activity is now only a means to the fulfilment of the external values. We might, with a smile, paraphrase Kant’s famous formula of humanity here. “Play, so that you treat the sport or game, whether in your own engagement or in the engagement of any other, always at the same time as an end, never merely as a means”. That doesn’t mean not *also* as a means: to keeping fit, having fun, pursuing a career, becoming famous. It means never *only* as a means but always also as an end.
+
+The moral failure of cheating is not just that of breaking the rules. It is a moral failure to understand the whole value of sport.
+
+There is a general truth here. Human beings are terribly bad at keeping ends and means separate.  We all too easily allow the means to the ends we value to become ends themselves.  One reason this happens is that we lose track of the distinction between the inside and the outside of our activities. In the case of sport, professionalisation puts immense pressure on the distinction between the inside and outside of the activity. If an Olympic cycling team manager were to say, that, actually, it doesn’t objectively matter who wins the Golds so long as everyone enjoys the spectacle of people riding bikes fast, they would be right. But they would still get pilloried and probably sacked for lacking “110% commitment”. You can’t say from the inside what, from the outside, is true. But equally, if, from the outside, as neither participant nor engaged spectator, we think of Olympic cycling as just an entertainment, we miss everything meaningful and valuable about it.
+
+**Wittgenstein’s insight**
+
+There is something deeper in this line of thought. A famous passage in his Wittgenstein’s *Philosophical Investigations* runs:
+
+66. Consider for example the proceedings that we call “games”. I mean board-games, card-games, ball-games, Olympic games, and so on. What is common to them all? — Don’t say: “There must be something common, or they would not be called ‘games’ “ — but look and see whether there is anything common to all. — For if you look at them you will not see something that is common to all, but similarities, relationships, and a whole series of them at that. To repeat: don’t think, but look! — Look for example at board-games, with their multifarious relationships. Now pass to card-games; here you find many correspondences with the first group, but many common features drop out, and others appear. When we pass next to ball- games, much that is common is retained, but much is lost. — Are they all ‘amusing’ [i.e. fun]? Compare chess with noughts and crosses. Or is there always winning and losing, or competition between players? Think of patience [i.e. Solitaire]. In ball games there is winning and losing; but when a child throws his ball at the wall and catches it again, this feature has disappeared. Look at the parts played by skill and luck; and at the difference between skill in chess and skill in tennis. Think now of games like ring-a-ring-a-roses; here is the element of amusement, but how many other characteristic features have disappeared! And we can go through the many, many other groups of games in the same way; can see how similarities crop up and disappear.And the result of this examination is: we see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail.
+
+[Meg Rosoff, Soma Ghosh and Joanna Kavenna debate the return of the Colosseum.](https://iai.tv/video/the-return-of-the-colosseum "Watch more videos on iaitv")
+
+One point that Wittgenstein makes in this passage is that some of our concepts – and here games are for him just an example – are not defined by some set of properties. He is arguing against a long-standing claim, going back to Plato, that different things falling under the same concept do so in virtue of sharing some common set of properties – some essence. Rather, Wittgenstein tells us, at least some of our concepts, perhaps many, gain their cohesion not from one single thread but from multiple threads overlapping. They are fibrous concepts. That overlapping of threads is not something given once and for all but is a historical and dynamic process. Recognising that “Game” and “Sport” are, in this sense, fibrous concepts, might avoid a great deal of tedious controversy about which activities ought or ought not to be in the Olympics.
+
+But another aspect of this passage means that games are not just an example here. For a natural response when asked what all games share is to say that they are all constituted by their rules, those of chess, for example, or in the 100 sprint that runners must remain in their lanes and that the event ends when a runner’s torso (not the head, arms, or legs) crosses the finish line.
+
+Wittgenstein’s target here, which only the analogy with games and the connection with rules can deliver, is human language, and more generally, human interactions – our relations one with another.
+
+Wittgenstein writes about language games, not to imply that the speaking of a language is *merely* a game:  he already presupposes that we’re taking games seriously.  When do we take games seriously? When we are playing them and when we are engaged onlookers. When we are on the inside of them, internalising their rules and exercising all our relevant capacities, as participants and spectators, in the pursuit of the goals internal to the activity. Wittgenstein’s analogy between language and games is meant to bring out just this point: both consist of multiple, overlapping activities, whose point, meaning and value is visible only to those who are on the inside of it. Language is not a monumental system for communicating already formed thoughts and ideas, but itself a fibrous concept under which fall myriad different activities, which are historically conditioned, dynamic and, above all, enacted by us in the living of life.
+
+Wittgenstein’s analogy between language and games is meant to bring out just this point: both consist of multiple, overlapping activities, whose point, meaning and value is visible only to those who are on the inside of it.
+
+What then about the outside view of language? We asked what sport is for. What is its point? Can we ask the same about language? The temptation is to say: well, obviously, it’s for *communication*. But then, without language, we would have so little to communicate. Saying that the point of language is to communicate is like saying that the point of the Olympics is to entertain. It’s not that the claim is false. It’s that it misses the point and everything that matters about sport which makes it, amongst many other things, entertaining.
+
+But a fertile analogy always has limits and here we reach the limits of the analogy between speaking a language and playing games and sports. Language is not a spectator sport, it’s where we human creatures live. There is nowhere outside it to stand where anything about it can be said. We are, of necessity, players. Languages can be codified and systematised but because language is not, at bottom, a code or system but a myriad set of practices, weaved into the fabric of the life of the human animal, the impossibility of an outside view is no limitation on what we can do in language. No more than the fact that in Chess, the Queen can’t jump over pieces like a Knight, or that [Shelly-Ann Fraser-Pryce](https://www.worldathletics.org/athletes/athlete=14285680) can’t swim her 100m track event.
+
+But even during a spectacular summer of sport, and in times when some joy in what humans can do is profoundly needed, it’s still possible to deride or ignore the whole circus. We can, for instance, take up the outside view of the Olympics and see it just as a passing absurd spectacle of mostly young people jumping up and down in complicated ways for no apparent purpose, with a huge carbon cost, and likely to be a viral mega-spreader event. It is a matter of choice whether we take up that outside view. We might indeed want nothing to do with any games or sports at all.

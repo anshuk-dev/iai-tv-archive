@@ -1,0 +1,84 @@
+---
+title: "Quantum Theory and Common Sense: It's Complicated"
+subtitle: "There's more of it in quantum physics than we think"
+author: "Tim Maudlin"
+date: "Issue 75, 22nd August 2019"
+article_id: "1254"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,517 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/albert-einstein-oil-painting-1505932842nN3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/quantum-theory-and-common-sense-auid-1254"
+---
+
+# Quantum Theory and Common Sense: It's Complicated
+
+*There's more of it in quantum physics than we think*
+
+**By Tim Maudlin** | *Issue 75, 22nd August 2019* | *Read time: approx. 13 mins* | *2,517 words*
+
+![Quantum Theory and Common Sense: It's Complicated](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/albert-einstein-oil-painting-1505932842nN3.webp)
+
+---
+
+Physical theories can open new vistas of human thought, suggesting that the world is not what it seems to be. This situation presents itself as a conflict between the scientific account of the world and “common sense”, a conflict that scientists sometimes gleefully portray as the defeat of common sense. There are clear historical episodes of this character.
+
+Copernicus, for example, proposed that instead of the Earth being fixed in place with the Sun, planets and stars whirling around it, it is the Earth itself that is spinning on its axis and orbiting the Sun. A quick calculation shows that locations at the equator would then be moving at about a thousand miles an hour due to the rotation of the Earth, and the whole Earth moving over million miles a day in its orbit around the Sun. In a world in which a speed of 10 miles an hour would be considered fast, these sorts of apparently unnoticed motions defied common sense. If the Earth is spinning so fast, one wonders, how could the birds in flight possibly keep up?
+
+Common sense is a collection of widely shared beliefs that spontaneously arise from everyday interaction with the world together with some seemingly obvious inferences from that experience. In the case of the birds, the conflict between Copernicus and common sense was only resolved by the introduction of the concept of inertia, first by Galileo and then by Newton. Inertia meant that objects put in motion tend to remain in motion without any further ado, so the birds resting on trees and therefore being carried along with the rotation of the Earth would tend to maintain that motion without any additional effort, even when they left the trees.
+
+\_\_\_
+
+"Common sense plays a dual, and almost self-contradictory, role in scientific practice"
+
+\_\_\_
+
+Common sense plays a dual, and almost self-contradictory, role in scientific practice. As we have seen, common sense is sometimes the foil—if not the adversary—of scientific theorising. Making progress in understanding the world sometimes requires overcoming or limiting the authority ascribed to common sense. But on the other hand, it is logically impossible for any empirical science to break free completely of common sense. For empirical theories ultimately appeal to experimental outcomes for their justification, and claims about experimental outcomes themselves draw their authority from common sense. The experimentalist informs us that 28% of the electrons in a certain experiment have been deflected upwards and 72% downwards. Why should we believe her? Because it is part of common sense to accept what we take to be the plain evidence of our senses in appropriate everyday situations.
+
+Niels Bohr made precisely this point in one of his discussions of quantum theory, using “classical terms” to mean what we are calling “common sense”: “it is decisive to recognise that, however far the phenomena transcend the scope of classical physical explanation, the account of all evidence must be expressed in classical terms”. Speaking of the numbers of marks that formed in different locations on a screen is exactly expressing the evidence in classical terms.
+
+Granting that the evidence for the theory must be stated in a way that accords with common sense, just how far can quantum theory go in undermining the more extensive everyday picture of the world? Many physicists seem to positively delight in pushing the scope of “quantum weirdness” as far as possible. An iconic example of this is the so-called “paradox of Schrödinger’s cat”.
+
+In his intellectual struggles with the physical significance of quantum theory, Erwin Schrödinger described a certain easily realisable (but ethically unacceptable!) experimental situation. Take a single atom of a radioactive element. Quantum theory makes only probabilistic predictions about such a system: it ascribes a definite chance to the atom that it will decay in a given period of time, but makes no further precise prediction about whether or not the decay will actually occur, even given complete information about the initial “quantum state” of the atom. This failure to make precise predictions was one of the great innovations of quantum theory: in classical physics, complete information about the initial state of a system, together with the laws of physics, entail exactly how the system will behave at all times. The failure of quantum theory to do better than merely probabilistic or statistical predictions was taken by Bohr and his school as an indication that the laws of physics themselves fail to be deterministic. It was, in contrast, taken by Einstein as an indication that the quantum-mechanical description of a system is not a complete description: there are further physical characteristics of the individual system, including perhaps characteristics that pre-determine the precise moment of decay.
+
+Schrödinger was considering just how far Bohr’s account of the matter could be pushed. The quantum state of an electron in an atom does not ascribe it a particular location: the “wave function” of the electron is “smeared out” around the atomic nucleus. If the wave function is a complete description of the electron, then the electron itself must also be “smeared out”: it is not a point particle with a definite precise location but rather something more like a mist or a fog. Schrödinger acknowledged that such a description of the electron might be accurate: maybe electrons are “smeary” at subatomic scale. (It is essential to this picture that the probabilities associated with different locations for the electron are not a matter of us not knowing where the electron “really” is, they rather somehow arise from the electron not actually being in any precise location. As Schrödinger memorably put it in the cat paper: “there is a difference between a shaky or out-of-focus photograph and a snapshot of clouds and fog banks”.) If the quantum wave function is complete, then the “smeariness” of the electron wave function reflects that of the electron itself: sub-atomically, an electron is more like a cloud bank than a billiard ball.
+
+This account of the nature of an electron cannot conflict with common sense because common sense has no access at all to the microscopic structure of things. That’s the whole point of calling the structure “microscopic”. Maybe individual electrons are “smeary”: who knows? Our best counsel is attend to what our best physics tells us.
+
+But—and this was Schrödinger’s point—the quantum theory of Bohr had no principled means of confining the smeariness to microscopic scale. Schrödinger proposed placing the radioactive atom near a Geiger counter, and then hooking the Geiger counter up with a device that would smash a flask of hydrocyanic acid if the atomic decay is detected, thereby killing a cat. If the wave function of the system always evolves in accord with Schrödinger’s equation and if the wave function provides a complete description of the system, then the smeariness of the electron will inevitably be amplified to macroscopic scale into a smeariness of the cat itself: just as the electron was not in any particular location, the cat would end up objectively “smeared out” between being alive and dead! And that would, indeed, be in the most severe possible conflict with common sense beliefs about cats!
+
+It is essential to note that Schrödinger was not proposing that one accept such a bizarre conclusion. He describes the example as a “ridiculous case”: it does not show that cats can end up smeared out between alive and dead, it shows that Bohr’s understanding of quantum theory cannot be correct. That does not tell us how to correct Bohr’s views, but it does show that they must be corrected somehow. Either the quantum wave function does not provide a complete physical description of the cat (so the cat can have a definite state of health despite the noncommittal nature of the wave function) or else the Schrödinger evolution of the wave function must break down at some point. As the physicist John Bell put it: “Either the wave function, as given by the Schrödinger equation, is not everything or it is not right”.
+
+But for some obscure reason, physicists have taken to presenting Schrödinger’s example as an illustration of the very thing he found ridiculous: that cats can indeed be in a state of indefinite health! Further, they sometimes assert that this peculiar state persists until someone looks: the very act of observation somehow magically forces the cat to make the literal life-or-death decision. This peculiar physical power of observers to make the physical state of systems jump would also violate common sense, and pretty much all other sense as well. Einstein used to mock the idea by asking just how sophisticated an observer had to be to acquire this magical power: can a mouse do it, for example? (If a cat can do it, then presumably Schrödinger’s cat will avoid such an indeterminate situation by simply observing its own state of health!).
+
+It is impossible to overstate how extreme physicists have sometimes been in insisting on this bizarre view. The Cornell physicist David Mermin, for example, once wrote “We now know that the moon is demonstrably not there when nobody looks”. Now if we did know that then that would be the most extreme and radical rejection of common sense in the history of mankind. But we know no such thing. And I am sure that Professor Mermin regrets having written that particular claim. But he did write it, and publish it, and it certainly illustrates that physicists discussing quantum theory feel no compunction about letting common sense get in the way of the astonishing claims they are making. But let the public beware: what the average physicist has to say on this topic in not at all reliable. Indeed, although there are several quite different clear and coherent ways make sense of quantum theory, none of them suggests that the moon does not exist when no one is looking at it.
+
+But if quantum theory does not tell us there are cats that are neither alive nor dead, and quantum theory does not tell us that the moon’s very existence depends on it being observed, what does it tell us, and how does that comport with common sense?
+
+The direct answer, in most cases, is that “quantum theory” as it is taught in physics texts simply does not make definite claims one way or the other about many aspects of the physical world. What goes by the name “quantum physics” is a predictive algorithm: it allows you to calculate probabilistic predictions about experimental outcomes. It could, for example, tell you to expect that in the long run about 72% of the marks formed in a particular experiment will be on the upper part of the screen and about 28% on the lower. But whether that is because “God plays dice” (i.e. experiments that begin in exactly the same state sometimes come out differently) or because we simply have not accounted for the physical conditions that determine each particular outcome, “quantum theory” has nothing to say about. To answer questions like that you need what is commonly called an “interpretation” of quantum theory, i.e. a precisely articulated physical theory that makes the same predictions as the predictive algorithm.
+
+Some such precise “interpretations” are indeterministic: according to them, God does “play dice”. But other “interpretations” are deterministic: according to them there is a reason each particular mark forms where it does. “Quantum theory” is silent on this question.
+
+[![what is knowledge a quantum perspective juha staasi](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/what-is-knowledge-a-quantum-perspective-juha-staasi.webp)
+
+SUGGESTED READING
+What Do We Know? A Quantum Perspective
+By Juha Saatsi](https://iai.tv/articles/what-do-we-know-a-quantum-perspective-auid-1253)
+There is, however, one common sense belief that quantum theory—and the world itself!—does violate. This is the principle John Bell called “locality”, and whose violation Einstein called “spooky action-at-a-distance”. In fact, the reason Einstein rejected Bohr’s account of quantum theory was not because it is committed to indeterminism—to God playing dice—but because it is committed to spooky-action-at-a-distance. Even Newton rejected unmediated action at a distance between objects. In a letter to Richard Bentley he wrote: “It is inconceivable, that inanimate brute Matter should, without the Mediation of something else, which is not material, operate upon, and effect other Matter without mutual Contact, as it must be, if Gravitation in the Sense of Epicurus, be essential and inherent in it. And this is one Reason why I desired you would not ascribe innate Gravity to me. That Gravity should be innate, inherent and essential to Matter, so that one Body may act upon another at a distance thro’ a Vacuum, without the Mediation of anything else, by and through which their Action and Force may be conveyed from one to another, is to me so great an Absurdity, that I believe no Man who has in philosophical Matters a competent Faculty of thinking can ever fall into it.”
+
+It may be that “common sense” is not quite as unequivocal about this as it once was. Newton would not have had much experience of what seems to be instantaneous action at a distance, but anyone who uses a TV remote control has experiences suggestive of it every day. Even so, it may well rank as a dictate of common sense that in for system A to have an influence on system B, some sort of physical entity must at least be capable of passing continuously from A to B.
+
+And once the Theory of Relativity comes on the scene one can be even more precise: if nothing can go faster than light, then an intervention on System A can have no influence on system B until at least as much time has passed for something travelling at the speed of light to get from A to B. It was precisely this principle that Bell subjected to investigation.
+
+What Bell showed that if A and B are governed by local physics—no spooky-action-at-a-distance—then certain sorts of correlations between the behaviours of the systems cannot be predicted or explained by any local physics. It is this universal character of Bell’s proof that allows one to draw conclusions without having to settle on a particular interpretation of quantum theory. What Bell further showed is that the quantum predictive formalism entails violations of his constraint—a violation of Bell’s inequalities—which means that it predicts behaviour that no local physics could account for. And the absolute kicker is that experimentalists have shown that the quantum-mechanical predictions are correct. That is, nature itself violates Bell’s inequalities and so must—one way or another—employ some superluminal physics. Further, this spooky-action-at-a-distance does not appear to be mediated by any sort of particle or wave that passes continuously from one system to the other, even at greater than the speed of light.
+
+That surely violates common sense.
+
+So quantum theory and common sense are indeed in tension, and given the experimental proofs common sense should just modestly withdraw.
+
+But quantum theory does not suggest—as many physicists have asserted—that cats can be neither dead nor alive or that physical reality depends crucially on being observed. Further, there are limits to how far any empirical science can, even in principle, undermine common sense. For if our confidence in what common sense asserts concerning experimental outcomes were to be undercut, our confidence in the accuracy of our physical theories would soon follow. As Democritus had the senses admonish the mind over two millennia ago:
+
+*Poor mind, do you take your evidence from us and then try to overthrow us? Our overthrow is your fall.*

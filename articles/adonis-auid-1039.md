@@ -1,0 +1,53 @@
+---
+title: "We Need to Save Our Democracy from Political Bullies Before It's Too Late"
+subtitle: "As an uncertain Brexit looms nearer, parliamentarians must fight for democratic process"
+author: "Lord Andrew Adonis"
+date: "12th February 2018"
+article_id: "1039"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "683 words"
+read_time: "Read time: approx. 3 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/adonis.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/adonis-auid-1039"
+---
+
+# We Need to Save Our Democracy from Political Bullies Before It's Too Late
+
+*As an uncertain Brexit looms nearer, parliamentarians must fight for democratic process*
+
+**By Lord Andrew Adonis** | *12th February 2018* | *Read time: approx. 3 mins* | *683 words*
+
+![We Need to Save Our Democracy from Political Bullies Before It's Too Late](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/adonis.webp)
+
+---
+
+I believe in democracy. I trust the people to make important decisions. I also believe that democracy now dictates we must have a second referendum on the final EU withdrawal bill. Those politicians who try to block this present a warped image of power to the people, and really only want more power for themselves. Power to the people means no citizen is silenced and no issue is beyond debate. It means the people are in power not just once a decade, but continuously. It means the executive branch cannot act as it pleases, but is controlled by the elected parliament. And it means that the people can make decisions about the future when they know what it might look like, rather than being forced to jump into the unknown by a government lacking democratic legitimacy.   
+  
+ These deeply held convictions recently made me come to a decision: I must try to stop Brexit. I am now campaigning all around the country, talking to voters everywhere, to try to convince them of the need for a second referendum. When the people are presented with the inevitably unfavourable terms of the withdrawal bill, it will be clear that the right future of the UK is in, not out, of the EU.
+
+\_\_\_
+
+"Given the magnitude of the cliff we’re jumping off, a second vote on the actual terms, to clearly express what the people want, is imperative."
+
+\_\_\_
+
+The Daily Mail and the most fervent Brexiters condemn those who won’t roll over and submit to Brexit. But they are the ones jeopardising the will of the people by trying to sneak a hard Brexit through without a democratic mandate. A referendum on the terms of Brexit is a necessary step to protect our democracy.
+
+The notion that the issue of the EU is now beyond debate is monstrously undemocratic. Before, after, and during referendums, citizens are free to say what they like, and to attempt to convince others that they are right.   
+  
+ Thus, I am not disrespecting the will of the people, I am honouring it. One referendum on a still vague and uncertain proposition is not sufficient to represent the preferred will of the people. In or out of the single market, Norwegian or Canadian model, we still don’t know anything about the people’s will on these issues. Given the magnitude of the cliff we’re jumping off, a second vote on the actual terms, to clearly express what the people want, is imperative.
+
+\_\_\_
+
+"This loss of power for parliament is the biggest we’ve seen in modern British history – including the time we joined the ‘undemocratic’ EU. Rule of law, representative democracy and parliamentary sovereignty are fundamental parts of our great British nation that we cannot simply discard."
+
+\_\_\_
+
+The Brexiters argued that we needed to leave the EU because it threatens our parliamentary sovereignty. The irony is that each and every transferral of powers from the EU that the current government has proposed puts it in the hands of the executive, rather than parliament. The current government’s disdain for parliamentary sovereignty was clear when May triggered Article 50 without parliamentary approval, and now she is quietly attempting to enshrine order by decree in our constitution. This loss of power for parliament is the biggest we’ve seen in modern British history – including the time we joined the ‘undemocratic’ EU. Rule of law, representative democracy and parliamentary sovereignty are fundamental parts of our great British nation that we cannot simply discard.
+
+It is therefore vital that parliamentarians like myself fight for that democratic process, and make sure it is the will of the people, rather than the will of Nigel Farage, that wins the race. The majority of parliamentarians – both Labour and Conservative – probably agree with me that the direction this government is taking on Brexit is the wrong one. However, most of our democratically elected representatives feel disempowered. The only way to resolve this is another referendum on the final terms of Brexit.
+
+Especially in a time of crisis, we must never forget John Dewey’s injunction that ‘the cure for the ills of democracy is more democracy’.

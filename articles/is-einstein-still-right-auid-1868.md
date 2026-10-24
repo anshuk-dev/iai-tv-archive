@@ -1,0 +1,57 @@
+---
+title: "Is Einstein still right?"
+subtitle: "The latest experimental tests of Einstein's theory of gravity"
+author: "Clifford Martin Will"
+date: "25th August 2021"
+article_id: "1868"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,621 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-25.Is-einstein-still-right.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/is-einstein-still-right-auid-1868"
+---
+
+# Is Einstein still right?
+
+*The latest experimental tests of Einstein's theory of gravity*
+
+**By Clifford Martin Will** | *25th August 2021* | *Read time: approx. 8 mins* | *1,621 words*
+
+![Is Einstein still right?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-25.Is-einstein-still-right.webp)
+
+---
+
+*Einstein's theory of general relativity has been tested to remarkable precision. Yet from the theoretical problems posted by singularities to the unexplained nature of dark energy, some serious physicists are troubled by the theory's shortcomings. Will the theory continue to stand the test of time? In this article, Clifford M. Will and Nicolás Yunes survey the new and future tests of Einstein's greatest achievement.*
+
+In the 1990s, the TV series “The X-Files” told the story of an FBI detective, who was obsessed with finding the truth about a government conspiracy to hide the existence of aliens. Agent Mulder truly believed that aliens existed and that if he looked hard enough he would find the evidence he needed. Unlike Mulder, most people do not think that aliens are visiting Earth on a weekly basis, communicating through our microwave ovens or abducting everybody they spot, even if they accept that intelligent life probably does exist elsewhere in our galaxy. But the wide popularity of the show suggests that we all have a side that enjoys seeing conventional wisdom upended.
+
+Today, in the world of gravity physics, there is a host of scientific Mulders, hoping to overturn Einstein’s general theory of relativity. But these are not wild-eyed obsessives, seeking to blow up the conventional status quo. Rather, they are serious physicists, troubled by what they perceive as potentially serious shortcomings of Einstein’s great theory of gravity.
+
+There is a host of scientific Mulders, hoping to overturn Einstein’s general theory of relativity. They are serious physicists, troubled by what they perceive as potentially serious shortcomings of Einstein’s great theory of gravity.
+
+What could possibly be wrong with Einstein’s beautiful masterpiece? From the theory perspective, there are two possibilities. One of them is that general relativity seems to be incompatible with quantum mechanics. The many successes of quantum mechanics in the second half of the 20th century have been dazzling.  We have learned how to create quantum electrodynamics (the quantum version of Maxwell’s theory of electromagnetism) and quantum chromodynamics (the quantum version of the fundamental weak and strong nuclear forces). However, the methods that worked so well there fail badly when applied to general relativity, suggesting perhaps that a completely different description of gravity is needed at the quantum scale.
+
+Another possible issue with Einstein’s theory relates to “singularities.” In general relativity, there can exist regions of space and time where the curvature of the spacetime continuum becomes infinite. In fact, Roger Penrose, one of the recipients of the 2021 Nobel Prize in Physics, was instrumental in proving that not only can these bizarre regions exist, but in fact, they *must* exist! Einstein’s theory, however, seems to have a built-in “censorship” mechanism so that observers like us are not exposed to the gory and dangerous features of these singularities. Indeed, the spacetime singularities in all reasonable solutions to general relativity are hidden behind event horizons, boundaries that forever trap all observers and light signals, as well as any garbage emitted by a singularity. But just because they are hidden behind a veil does not mean that singularities are not a problem.
+
+From the observational perspective, there are also arguments from the world of astronomy suggesting that perhaps Einstein’s theory is not the final word. For example, observations of the way galaxies and galaxy clusters rotate do not exactly conform with the predictions of general relativity, unless one postulates the existence of a new form of matter that only gravitates; since this matter does not interact electromagnetically, it does not produce light and it has thus been dubbed “dark matter.” Similarly, observations of supernova suggest that the universe is expanding at an accelerated rate, which is in conflict with general relativity unless one either postulates the existence of a new form of matter that anti-gravitates and does not shine (“dark energy”) or postulates the existence of a cosmological constant added to Einstein’s equation.  Sure, all of these “observational anomalies” can be resolved through a rather “vanilla” measure: for example, just add a cosmological constant to Einstein’s equations, and add a suitable amount of dark matter into the mix of ordinary matter that we are familiar with! But these resolutions are not satisfactory to many people because of our failure to explain the origin of this cosmological constant and our inability to directly detect dark matter with experiments on Earth (and believe us, an enormous decades-long experimental effort has been happening, to no avail).
+
+[Massimo Pigliucci, Tara Shears and Rupert Sheldrake ask whether physics still need experiment?](https://iai.tv/video/missing-evidence "Watch more videos on iaitv")
+
+If you believe that Einstein’s theory is incomplete, then it behooves you to carry out new and ever more precise experiments and observations that may point to additional anomalies and reveal the path forward. This is extremely hard because Einstein’s theory has already been tested to incredible precision over the past half-century using laboratory experiments, measurements of planetary and spacecraft orbits in the Solar System, and observations of pulsars in double-star orbits. Therefore, finding new ways to test the theory is very hard, and coming up with extensions of the theory that predict new observable effects but are not ruled out by previous observations is even harder.
+
+Where should we then look? One aspect that many of these previous tests have in common is that they probe gravity in regimes where the curvature of space and time is weak and not very dynamical. For example, in the Solar system the orbital velocity of planets is much, much smaller than the speed of light, and the gravitational potential produced by our most massive object, the Sun, is also extremely weak. In binary pulsars, these factors are a bit larger, but not by much.  They are still nowhere near what is achievable, for example, when black holes or neutron stars collide.
+
+A new natural arena to test Einstein’s theory is then through the gravitational waves emitted in such collisions. Since 2015, the Laser Interferometer Gravitational-wave Observatory (LIGO), together with its partners in Italy and Japan, have been detecting gravitational waves from binary mergers, the wave-like disturbances in the spacetime continuum generated when compact objects like black holes and neutron stars coalesce. By now, LIGO and its partners have detected over 50 collisions of compact objects of all types and sizes; one of them even came with an accompanying set of signals in the electromagnetic spectrum from gamma rays to radio waves!  The gravitational waves generated in these collisions are strong, encoding information about the nature of the object that produced them and about the theory of gravity that was in play during these collisions.
+
+Of course, ultimately observations will decide whether modifications to Einstein’s theory are truly necessary. But we will never know unless we look for evidence.
+
+The tests we can carry out with these new “messengers” have already begun to yield outstanding results. For example, in 2017, the nearly coincident observation of the gravitational waves emitted in the merger of two neutron stars and the gamma rays produced shortly after the collision has yielded the first-ever measurement of the speed of gravity – it is the same as the speed of light to 16 significant digits!  Many extensions of general relativity that attempted to explain the cosmic acceleration effect without introducing a cosmological constant or dark energy predicted that gravity would not travel at this speed, and thus this single observation sent a large number of theories into the trash bin. Other LIGO/Virgo observations have tested the general relativity prediction that black holes inspiral due to only the emission of gravitational waves, with the data once again favoring Einstein’s theory.
+
+To date, no deviations from general relativity have been observed with gravitational waves, but this is just the beginning. In this decade, new detectors will be completed and improved, mostly in Japan and in India. When the two American LIGO detectors and the Italian Virgo detector are joined by the Japanese KAGRA and the LIGO-India instruments, we will possess a larger network of detectors that will allow new tests. Perhaps one of the most anticipated ones is the measurement of the polarizations of gravitational waves. Einstein’s theory predicts that gravitational waves, like electromagnetic waves, only possess two polarizations, but modified theories of gravity can predict up to six. With additional detectors, we will be able to determine whether there are more than two polarizations in the gravitational wave data, which would be smoking-gun evidence for a departure from Einstein’s theory.
+
+In the next decade, new gravitational wave detectors will be deployed that will allow us to go even further in our continued quest to test general relativity. Perhaps one of the most anticipated ones is the deployment of the Laser Interferometer Space Antenna, or LISA for short. LISA will consist of three satellites in orbit around the Sun.   Laser beams will be sent back and forth between each pair of satellites, hoping to sense tiny wave-like disturbances in the spacetime. LISA will be able to detect gravitational waves of much lower frequencies than the ground-based detectors, in the milli-Hertz range instead of in the 100s of Hertz. This means that LISA will be able to observe the waves emitted in the merger of supermassive black holes, or when a small black hole zooms and whirls into a supermassive one. These “extreme mass-ratio inspirals” have the potential to map the spacetime geometry generated by the large object, thus allowing us to determine whether astrophysical super-massive black holes are well described by the solutions of Einstein’s theory.
+
+Given all of these planned observations and many more that we have not had a chance to discuss in this essay, the future is exciting. Of course, ultimately observations will decide whether modifications to Einstein’s theory are truly necessary. But we will never know unless we look for evidence. As agent Mulder would say, “the truth is out there.”

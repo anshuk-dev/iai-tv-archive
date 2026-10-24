@@ -1,0 +1,51 @@
+---
+title: "Of Wonder and Terror"
+subtitle: "Art and science are two sides of the same coin."
+author: "Lynne Segal"
+date: "6th April 2014"
+article_id: "345"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,176 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sublime.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/of-wonder-and-terror-auid-345"
+---
+
+# Of Wonder and Terror
+
+*Art and science are two sides of the same coin.*
+
+**By Lynne Segal** | *6th April 2014* | *Read time: approx. 6 mins* | *1,176 words*
+
+![Of Wonder and Terror](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sublime.webp)
+
+---
+
+Does science now provide our access to the sublime, or does art still have the power to make us feel awe?  
+  
+ This question is supposed to direct us to grand thoughts: the wonders and terrors of science versus visions of the sublime in poetry and visual culture. But that’s not how I see it. We need to tread carefully when we venture into lofty thoughts on the nature of science and the arts, all the more so if we decide to choose sides.
+
+The grandeur of the terrain conceals rather tired debates involving more mundane matters: politics, money and sponsorship, as well as personal rivalries and resentments. Beyond binary conflict, not only does culture include science but, more significantly, science includes culture. To say this is to say very little, one might think, yet it remains deeply contentious, begetting endless battles.
+
+The nature of the empirical research which gets done and the way it is broadcast and popularised, whether by scientists or their promoters, does not bring us to the true nature of things. It always reflects the assumptions and goals of the culture around it, or certain pockets of it. In the dazzling techno-world we now occupy, this should be more obvious than ever. The extraordinary degree of information available to us is presented carefully filtered of what might appear its less interesting aspects, via the addition of magnification, colour, sound, and more, to produce the most aesthetically attractive images. The most popular media presentations of science are themselves true works of art, delivered with as much metaphorical and poetic flourish as its interpreters can manage.
+
+The return of battles between science and the arts takes us back to the 1780s and what is considered to be the birth of reason itself. This was when the philosopher Immanuel Kant (troubled by David Hume’s empiricism) awakened from his “dogmatic slumber” to announce that “objects conform to concepts and not concepts to objects”. In other words, we can never simply know “things-in-themselves”.
+
+Philosophers and scientists have debated the toss ever since. As the French essayist, Montaigne, put it (back in the 16th century), we “need to interpret interpretations more than we need to interpret things” - a mere 400 years before its cutting-edge repetition by reputed poststructuralists, such as Derrida. In the beginning was the word, God said (so we know whose side He’s on!). Those who most stridently declare themselves the spokespeople of science today offer a similar unifying mantra for the natural sciences: in the beginning was the gene, and in rhetorical mimicry they do battle with God and creationists.
+
+Clashes between the sciences and the arts were already troubling John Stuart Mill back in the 19th century: “the one doctrine is accused of making men beasts, the other lunatics.” In my own lifetime, it is more than fifty years since C. P. Snow, the British scientist and novelist, delivered his famous lecture in Cambridge, “The Two Cultures”. In it he criticised the literary scorn for “the men with the future in their bones.” In Snow’s view, the British education system then strongly favoured the Humanities over the Sciences, leading to a disdainful ignorance of science among the cultural elite. Snow eventually expanded his thesis into a less polarising book, *The Two Cultures and the Scientific Revolution.* Only a few years ago, this text was listed as one of the hundred books that had most influenced Western public discourse since the Second World War
+
+Rest assured, however, that in this debate both sides have produced those who claim to feel devalued. “The true men of action in our time, those who transform the world are not the politicians and statesmen, but the scientists... When I find myself in the company of scientists, I feel like a shabby curate who has strayed by mistake into a drawing room full of dukes”, the poet W.H. Auden wrote in 1965. Extraordinarily, these were the very words borrowed by that well-known public spokesman for science, Richard Dawkins, in his book *Unweaving the Rainbow*, in which he claimed that nowadays scientists are made to “feel like shabby curates among literary dukes”.
+
+Dawkins wrote this in 1998, decades after both government and industry had poured enormous amounts of money into scientific research, with unprecedented expansion of British university laboratories for those seen to be doing entrepreneurial science. Meanwhile, funding to the Arts Council and the humanities has been systematically cut across the board. A similar lack of funding for the humanities in higher education and funding councils also occurred in the USA, where money flowed even faster into scientific research, especially biomedicine. Playing off the sciences against the arts thus draws us into economic, cultural and political confrontations whose endless revisiting, whether via awe, astonishment, approbation or rebuke, allows little light in at all.
+
+In my view, the most useful way of addressing such territorial squabbling is to realise all the ways in which science, biology, culture and politics are inextricably entangled. The higher the hopes we place in science, the greater the need to be attentive to its interpreters, and to how their interpretations are used. The point is, when we are looking at “spectacular” images of science, all the resources and images of language and art are in play. Much of what is most exciting about science, or indeed art and literature, comes from the interface of the two, not the tedious positioning of one against the other.
+
+We know that many of the greatest artists, such as Leonardo da Vinci, were also scientists. Albert Einstein was a talented violinist, who not only said he got most joy in life from music, but spoke of its overlap with physics, maintaining that “the greatest scientists are artists as well”. Like artists, many of the most creative scientific insights derived, not from logic or mathematics, but from intuition and inspiration. Stephen Jay Gould and Oliver Sacks, along with many of our most inspiring scientists would agree. It’s not just that some scientists might be interested in the arts in order to think beyond their own boundaries, and vice versa, it is also that – as with most binaries –the barrier is always permeable.
+
+Let me give the last word to Ken Arnold, who runs the often awe-inspiring programmes on science at London’s Welcome Collection. He has been one of the most explicit voices on the necessary interface between science and the humanities. Science, as he says, always needs to be decoded, and decoded with an audience in mind. Cultural values, aesthetic imaginations, staged performances – all impact on science and technology and vice versa: “Art can provide unique, and often unpredictable, viewpoints from which to marvel or decry, inspect or challenge, scientific ideas and assumptions. Visual, plastic, performance and dramatic arts all have a role to play, often uncompromisingly dissecting the social and ethical implications of science and, ironically, often dealing with the scientific subject matter in greater depth and seriousness…”
+
+The impact of those “wonders” that inspire us, it is clear to me, rests as much with the resources of language and visual production as with the scientific data they present.

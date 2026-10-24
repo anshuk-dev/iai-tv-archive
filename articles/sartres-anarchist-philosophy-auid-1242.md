@@ -1,0 +1,61 @@
+---
+title: "Sartre's Anarchist Philosophy"
+subtitle: "Is Existentialism closer to Anarchism than Marxism?"
+author: "William L. Remley"
+date: "21st June 2019"
+article_id: "1242"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,173 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Jean-Paul-Sartre-Birthday-Anarchism-Exisentialism-Political-Philosophy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/sartres-anarchist-philosophy-auid-1242"
+---
+
+# Sartre's Anarchist Philosophy
+
+*Is Existentialism closer to Anarchism than Marxism?*
+
+**By William L. Remley** | *21st June 2019* | *Read time: approx. 6 mins* | *1,173 words*
+
+![Sartre's Anarchist Philosophy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Jean-Paul-Sartre-Birthday-Anarchism-Exisentialism-Political-Philosophy.webp)
+
+---
+
+Every philosopher must run the gauntlet of time. Philosophical ideas fall in and out of favor, but the acid test is whether we continue to debate a philosopher’s ideas long after they have left the scene. The anniversary of Jean-Paul Sartre’s birthday, almost forty years since his death, is an appropriate moment to look back on the legacy of a philosopher whose work helped to define an era, and whose ideas continue to resonate with the political climate today. Professor Richard Falk places Sartre alongside Noam Chomsky and Edward Said as one of the few individuals worthy of the title ‘public intellectual’. Yet towards the end of his life, even as Sartre moved further in the direction of political engagement, he lamented that his politics were not radical enough; perhaps that is why Sartre’s political philosophy is so highly disputed.
+
+Since the publication of *Critique of Dialectical Reason* in 1960, scholars have largely interpreted Sartre’s political philosophy as ‘existential Marxism’: a critical appropriation of Marxism. Sartre encouraged this reception by often professing his affinity with Marxism, even stating that existentialism was parasitic to Marxism, a point he later retracted. But commentators who emphasize the influence of Marx overlook the signs of Sartre’s skepticism. Far from being a supporter of the French Communist Party, he rejected outright the dogmatic Marxism of dialectical materialism underpinning its ideology.
+
+\_\_\_
+
+"If one reads my books, one will realize that I have not changed profoundly, and that I have always remained an anarchist."
+
+\_\_\_
+
+While Marx’s influence is overemphasized, the role of anarchism deserves far more airtime than it currently gets. Sartre said it himself: “if one reads my books, one will realize that I have not changed profoundly, and that I have always remained an anarchist”. Not only do Sartre’s anarchist undertakings underscore his political positions, from his earliest writings all the way through to the post-war period, they also provide a far more radical foundation for his ideas.
+
+The clearest anarchist element in Sartre’s political thought is the pursuit of a society free from authoritarianism. In the early 1950s, Sartre began sketching out his vision for an ideal society, brought about by the overthrow of existing systems of oppression through revolutionary activity. In the *Critique*, Sartre argues that the authority-oppression paradigm is made possible by institutionalization, where groups become conditioned to eschew individual freedom, adopting serialities and their concomitant social impotence. Individual freedom is immobilized by this process but not vanquished; the potential to reform as a group-in-fusion and direct their praxis towards an ideal survives.
+
+Sartre’s anarchist contemporaries condemned institutions which were based on coercion and authoritarianism. The state and centralized authority received the brunt of their scrutiny, with many believing that the state was illegitimate, had no right to exist, and its abolishment would eliminate many social evils. The same concerns can be seen today in the activities of the Occupy Movement, the Invisible Committee, and the Tarnac 9, all of which have come to be known as Insurrectionary Anarchism. Sartre’s account of group formation demonstrates that not only did he share such concerns about coercion and authority, he argued forcefully against the oppression of institutionalized authority long before contemporary anarchists took up the cause. Sartre’s revolutionary solution likewise entailed the eradication of the existing order.
+
+Yet it is the degree of coercion that interested Sartre most. The philosopher’s critique of the state was that it attempted to convert human beings into automata, extending the machine metaphor to associate institutionalized bureaucracy with nefarious analytic reason. In his view, the practico-inert surrounds and conditions human existence through its seen and unseen apparatuses, representing a servitude to mechanical forces designed to quash individual freedom.
+
+\_\_\_
+
+“I have always been in agreement with anarchists, who are the only ones to have conceived of a whole man to develop through social action and whose chief characteristic is freedom”.
+
+\_\_\_
+
+In place of a state, anarchism advocates peaceful coexistence based on social freedom and our capacity for mutual aid, cooperation, respect, and communal relations. Sartre agreed, arguing that only individuals are sovereign, but that humans are united to each other and the world around them through their interactions, particularly in the workspace. According to Sartre, work is an essential attitude of human reality, founded on a need to collaborate with others based on an agreed mutual dependence. As he pointed out, “I have always been in agreement with anarchists, who are the only ones to have conceived of a whole man to develop through social action and whose chief characteristic is freedom”. While the individual is paramount, dependency prompts the being-outside-ourselves which is essential to Sartre’s concept of selfhood.
+
+Sartre conceived the relation between humans and elements in the social sphere as ‘interest’. Interest is a univocal relation of interiority that provides the connection for humans to their environment. In contrast, subjectivity is derided as an abstraction: a verdict compelling everyone to willingly carry out the commands pronounced by society. For Sartre, interest is not our subjective, interior decisions concerning our existence; rather, it is the discovery of our being-outside-ourselves. There are no innate ideas or fixed essences, no ‘wheels in the head’ that direct our actions, as Max Stirner suggested. Instead, we are at all times situationally determined by others.
+
+The final element of anarchist thought which I argue is echoed in Sartre’s political philosophy is the immediate and practical proposal for change: a socio-political theory that embraces, among other things, a notion of praxis. Indications of this praxis are embraced by anarchists today, including the decentralization of political and economic authority, worker self-management, and freedom of expression. There are several themes which reappear consistently throughout Sartre’s work, and the theory of praxis has to count among the most prevalent.
+
+One of the foundational aspects of the *Critique* is Sartre’s desire to expose the profound dialectical relationship that unites praxis to the outside world. And on reviewing Sartre’s earlier work, we see that the intent of revolution is not only to alter the world, but to re-create our collective situation. In order to accomplish this task, praxis becomes essential, since praxis not only constitutes individual authenticity, it also eradicates the impotency of the practico-inert.
+
+But what does Sartre mean by praxis? While the concept is somewhat nebulous, it should be understood as the historical whole determining our power at any given moment as it conditions our attitude toward an entire plethora of dichotomies, such as the possible and impossible. This occurs because praxis prescribes the limits of our actions as well as our possibilities for a future. For Sartre, the collectivity is faced with a choice to submit to the course of the world or contribute to the shaping of it. The force separating these paths is action. Action forces the individual to contextualize the event within a future possessed by everyone.
+
+Having explored all of these shared traits, one thing is certain; Sartre’s political philosophy extends far beyond Marxism. Intrinsically linked to anarchist thought, Sartre believes that only *bureaucratization*, *decentralization*, and *democratization*, where the dominant forces renounce their grip on the social structure, can overcome the hegemonic, hierarchical, and oppressive nature of contemporary society.

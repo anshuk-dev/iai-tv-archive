@@ -1,0 +1,71 @@
+---
+title: "Science, Magic, and the Inexplicable"
+subtitle: "Is science a form of magic, or is this a heresy?"
+author: "George Ellis"
+date: "Issue 40, 21st November 2015"
+article_id: "598"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,517 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/George-Ellis-40.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/science-magic-and-the-inexplicable-auid-598"
+---
+
+# Science, Magic, and the Inexplicable
+
+*Is science a form of magic, or is this a heresy?*
+
+**By George Ellis** | *Issue 40, 21st November 2015* | *Read time: approx. 8 mins* | *1,517 words*
+
+![Science, Magic, and the Inexplicable](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/George-Ellis-40.webp)
+
+---
+
+In our scientific age, magic has been reduced to conjurers and wands. Yet, Newton and Wittgenstein saw the accounts of science as ultimately inexplicable. Should we see our theories as limited and, in a sense, magical or would this undermine all knowledge?  
+  
+ In our recent [IAI TV debate](http://iai.tv/video/sceince-magic-and-the-inexplicable) on this subject, mathematician George Ellis sided with Newton: science will not uncover every mystery in the universe; there are some questions best left to philosophers.  
+  
+ Ellis made his name focusing on some of the big questions of cosmology and relativity. Along with Stephen Hawking, he co-authored 1973’s *The Large Scale Structure of Space-Time*, which attempted to describe the very foundations of space itself. More recently, Ellis has been focusing on top-down causation.   
+  
+ Here he speaks to the IAI about the dangers of magic, the importance of mystery, and the line that separates science from philosophy.
+
+**Arthur C Clarke’s third law of science fiction states that: “Any sufficiently advanced technology is indistinguishable from magic.” Does that apply to the levels of science and technology that we have reached today?**
+
+In a certain sense, that’s correct, yes. If you can press a button here and your garage door opens, in a sense that’s making magic.
+
+**Isaac Newton was mentioned a number of times in the [IAI TV debate](http://iai.tv/video/sceince-magic-and-the-inexplicable). He was deeply interested in alchemy. It could be argued that his theory of force looks a lot like the old Hermetic description of the secret powers of nature at work – “as above so below”. And now, of course, we can turn lead into gold…**Yes, that’s nuclear physics. It’s what happens in nuclear reactors. We can change elements and we do so via nuclear reactors – that’s a well understood part of science.  **So do you see science as largely something born from alchemy or does it have separate roots?**
+
+No I don’t see it like that. I think that’s a dead end which didn’t get anywhere. The reason is that to make nuclear transformations you need enormous energy. The kind of equipment which the alchemists were using simply could not get anywhere near the energy you need to make nuclear change. They were using temperatures that would make chemical changes. Chemical changes leave the nuclear fixed. You have to get to enormously high temperatures and energies in order to make nuclear transformations.
+
+**But that points to a limitation of technology rather than insight…**
+
+Science and alchemy are trying to achieve a similar thing but the alchemists did not have the insight. Nowadays we understand exactly what you need to do. You need to change the protons and the neutrons in the nucleus and they didn’t have any theory of that kind when they were working on it. What they did understand is that you can change chemical elements: you can change hydrogen and oxygen into water, and you can change chlorine into salt. But that is a different level of transition that leaves the nuclear alone. It doesn’t change the elements; it makes compounds out of the elements. They didn’t understand the distinction between chemistry and nuclear physics.
+
+**If we return to Newton: he identifies a force and then calls it gravity, but he hasn’t really explained anything there. So is the point of science to function effectively or to explain how the world works?**Science has both of those aims.Once you can identify the force in the inverse square law, you don’t have to know anything about how it works in order to use it to make predictions. So it is very useful to have that pragmatic description in quantitative terms.  
+  
+ Then there is the separate issue, which is understanding it: how is it that the moon over there can raise tides on the earth over here? How does the force get from there to here? For science, it is insufficient simply to say that there’s a force which acts from a distance. But if you explain that there is a gravitational field that goes from other there to here and you can give equations to that – which is what happens in general relativity – then you’ve gone a stage further. You’ve given it a mechanism whereby the effect can get from there to here. That’s what general relativity does.
+
+**So is science different from magic because it works, or because its explanations are better?**
+
+If you explain something scientifically, then it isn’t magic anymore because you know how it works. Magic comes with its own set of laws – it is not completely arbitrary. But they don’t actually work: for example, in our universe saying incantations never gets you anywhere. That’s a pretty important kind of understanding. There’s nothing wrong with trying, but they don’t work and so you must move onto something that does work.
+
+**One thing that [you discussed with John Milbank](http://iai.tv/video/sceince-magic-and-the-inexplicable) in the debate was the role of scientism in modern culture – particularly science’s claims to have some kind of moral authority. Do you think that science, like religion in previous ages, is being too aggressive trying to hand out its explanations of the universe?**
+
+There’s no question that the so-called New Atheists are doing that – and doing it in the name of science. There are two separate issues there: the first is the attempt to chase out magic – incantations and so on, the kind of things that Carl Sagan has written about. I’m very in favour of that because such magic can be dangerous. There is still magic being practiced in my home country of South Africa, for example. There are rituals in which young children are killed and their body parts used in potions. On a broader scale, take an issue like climate change. We really need to listen to scientists in terms of trying to combat climate change.
+
+However, the second issue is that some of these so-called New Atheists are on a crusade against religion as a whole. In that sense they’re being very naïve philosophically, because they’re confusing religion with magic. Of course, some religions do believe in magic, but even the examples from South Africa I mentioned are not part of any one religion; they cut across religious boundaries. A sophisticated, modern believer would not believe in magic at all, but they might believe that science is not the only thing in the universe. Even many scientists believe that, if we knew all that science could teach us, we would still not have a complete understanding of the universe.   
+  
+ You mention morality. In my opinion, science has nothing whatever to say about morality. A specific example: if science may state that global warming will lead to polar bears dying out, or even humanity dying out. But science has totally nothing to say about whether human beings dying out or polar bears dying out is either good or bad. Because good and bad are not scientific categories. So science doesn’t enter this territory; it can’t do that.
+
+**The essential mission statement of science seems to be to dispel mystery from the universe, to peer into the dark corners and figure out what’s really going on. Where do you think the boundaries should lie between science and mystery? Is there anything science should recognise as mystery or does it do that already?**
+
+I think that’s a correct description of science: science is indeed trying to dispel mystery. However, if we try to use science to talk about, for example, the beginning of the universe, what we’re doing is taking present-day scientific theory and extending it to places where it’s highly questionable whether it’s actually applicable. That extrapolation is an attempt to dispel mystery, but it can’t actually dispel mystery. What it can do is provide a theory which will compete with other theories.
+
+But you can’t ever prove that this theory is the correct one because when you’re trying to explain how the universe came into being, before the universe was in existence and science didn’t exist, the laws of physics didn’t exist – or if they did exist you have to explain why you think they existed. In such a discussion, you enter into deep philosophical territories. You can’t just say that the laws of physics existed and therefore the universe existed; you have to be a little bit more serious and explain in what sense the laws of physics existed before the universe came into existence. In that kind of context, science cannot get rid of mystery entirely.
+
+**So is there a point at which science should stop and leave things to the philosophers?**
+
+There is nothing wrong with scientists making these theories and I think they should do. But once they’ve made those theories they should then step back and ask themselves two questions. 1. Which of these theories is tested physics and which is an extrapolation of physics beyond where it is tested? And 2. Given that we’re extrapolating, in what ways might we be able to test this, in what ways might there be quantifiable consequences? Once those two things have been answered, we can then ask ourselves the third question: Given the answer to those two earlier questions, are we actually dealing with science or are we dealing with philosophy?

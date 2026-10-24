@@ -1,0 +1,93 @@
+---
+title: "The rules of war are a collective myth"
+subtitle: "Why the weak still suffer what they must"
+author: "Alyssa Erspamer"
+date: "12th June 2025"
+article_id: "3193"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,758 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/In-geopolitics-the-weak-still-suffer-what-they-must.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-rules-of-war-are-a-collective-myth-auid-3193"
+---
+
+# The rules of war are a collective myth
+
+*Why the weak still suffer what they must*
+
+**By Alyssa Erspamer** | *12th June 2025* | *Read time: approx. 9 mins* | *1,758 words*
+
+![The rules of war are a collective myth](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/In-geopolitics-the-weak-still-suffer-what-they-must.webp)
+
+---
+
+*From ancient times until the present day the weak have had to suffer the whims of the strong. The question of whether that still remains the case today was the subject of the debate held at [HowTheLightGetsIn Festival](https://howthelightgetsin.org/festivals) in Hay-on-Wye this past May,* [*which has been released in full on iai.tv today*](https://iai.tv/video/the-rules-of-war)*. The discussion centred around international law and what, if any, efficacy it has. Former Labour politician Jeremy Corbyn, former Conservative Minister Malcolm Rifkind, hero of the Left Yanis Varoufakis, and CEO of Chatham House Bronwen Maddox debated this question. Alyssa Erspamer here analyses their divergent, and sometimes opposed, perspectives, all of them however ultimately defending the necessity of our rules-based international order. She questions, instead, whether it itself is merely another tool for the strong.*
+
+“The strong do what they can, and the weak suffer what they must,” the Athenian generals told the small Greek island they were besieging. When Melos, the island, surrendered, its men were slaughtered and its women and children enslaved. The event, according to Athenian historian Thucydides, was not sugar-coated by the Athenians. They were resolute, and brutally honest: they committed this travesty because they *could*.
+
+\_\_\_
+
+We do not have to reach into ancient history, unfortunately, to make sense of these questions: the conflicts in Gaza and Ukraine have been ongoing for years. International law has thoroughly failed to stop them.
+
+\_\_\_
+
+Enter our debate, hosted at [HowTheLightGetsIn Festival](https://howthelightgetsin.org/festivals) in Hay-on-Wye this May, with speakers featuring two bastions of the left, Yanis Varoufakis and Jeremy Corbyn; Conservative politician Malcolm Rifkind; and Brownen Maddox, CEO of international affairs think tank [Chatham House](https://www.chathamhouse.org/). The debate centred around the role and helpfulness of international law. Has international law finally arrived to help stop such massacres? Might we now be beholden to rules during wartime? Have we proven Cicero wrong when he claimed that “in times of war, the law falls silent”? Or are the laws just some pretty words and would Melos be crushed, even now, by the strong?
+
+\_\_\_
+
+Yanis Varoufakis brought his characteristic trenchant analysis to the question, stating off the bat that, “law that doesn’t come together with the institutions to enforce it is fiction.”
+
+\_\_\_
+
+We do not have to reach into ancient history, unfortunately, to make sense of these questions: the conflicts in Gaza and Ukraine have been ongoing for years. [International law has thoroughly failed to stop them](https://on.ft.com/44kFqRl). [Should we just accept it has failed us?](https://iai.tv/articles/international-law-is-a-collective-delusion-auid-2671) Our four speakers reached a perhaps surprisingly shared conclusion of international laws’ ultimate necessity. Is it a lack of imagination or courage on their part that none of them can imagine a world without international law? More on that later. For now, to their different viewpoints.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-rules-of-war-2.webp)
+
+SUGGESTED VIEWING
+The rules of war
+With Malcolm Rifkind, Mary Ann Sieghart, Bronwen Maddox, Yanis Varoufakis, Jeremy Corbyn](https://iai.tv/video/the-rules-of-war)
+
+Yanis Varoufakis brought his characteristic trenchant analysis to the question, stating off the bat that, “law that doesn’t come together with the institutions to enforce it is fiction.” After all, UN Peacekeepers are not, by a long margin, institutions that can enforce (indeed, I have even heard them called a job scheme for a country’s privileged children, but that is neither here nor there). Basic psychology would agree and suggest that if we are told not to do something but face no consequences if we do it, the lesson will not be too long-heeded. Yet Varoufakis responded to himself: “fictions are important” nonetheless. It is our “shared mythologies that shape our understanding of what is and is not acceptable.” Across history they have been termed commandments, morals, promises, codes – *religion* in Hebrew is the same word as *law*. Hence one feature of any law might simply be that it requires collective beliefs.
+
+Malcolm Rifkind had a slightly different perspective. Our rule-bound international order is not just fiction, it is a real thing that holds governments to account – but only some of them: democracies. The electorate, the legislature, the independent courts, and the public debate of democracies all serve as second-hand enforcement of any international law or treaty. Rifkind emphasized that “the saddest fact of the world we live in is that half the countries in it don’t respect the rule of law, domestically or internationally.” And those are, in his view, the usual suspects: Xi’s China, Putin’s Russia, the so-called dictatorships of our global “community”, [ruled by strongmen defined precisely by their repudiation of the rule of law](iai.tv/video/the-return-of-empire). International law might perhaps then be simply impossible until [Fukuyama’s erstwhile prognosis comes to pass](iai.tv/video/francis-fukuyama-on-why-he-was-surprised-by-trumps-foreign-policy), and liberal democracy reigns supreme worldwide. (I am reminded of democratic peace theory, referred to me as the “iron law” of international relations, postulating that two democracies do not go to war with each other. But we may be entering the terrain of semantics now).
+
+\_\_\_
+
+It’s not David beating Goliath, for no one on the panel held that kind of romanticism – it’s about the Davids becoming Goliaths too, or at least coming a little closer.
+
+\_\_\_
+
+Bronwen Maddox toed the moderate line, echoing the lineage of Thucydides. For she argued that, on the international level, “it is the weaker ones who say more clearly that we need the rule of law.” So something has been achieved, for Maddox. Under the banner of international declarations, human rights, and the like, the weak can form coalitions and begin to match the strong. It’s not David beating Goliath, for no one on the panel held that kind of romanticism – it’s about the Davids becoming Goliaths too, or at least coming a little closer.
+
+Finally, former Labour leader Jeremy Corbyn defended international law from a grassroots point of view, as one might expect of him. His was perhaps the most empirical perspective – when it works, it works, but it doesn’t always work. [Pinochet was arrested on the streets of London thanks to international law](https://www.theguardian.com/world/1998/oct/18/pinochet.chile), thanks to the “power of pressure and enforcement,” some of that pressure coming from Corbyn himself. But Corbyn was more concerned with the disease, not the cure: the arms industry, arguably what keeps our wars hot and unending, now at a scale that Cicero couldn’t have possibly imagined (though his original quote, commonly translated as I have above, actually inculpates “arms”, *arma*, rather than “war” itself). “Politicians must avoid making historic mistakes,” Corbyn enounced, citing the reparations loaded on Germany after World War One as such a mistake. International law or not, we must avoid committing actions that could lead us to another Holocaust. According to Corbyn, the point is simply peace.
+
+\_\_\_
+
+We have to wonder what can actually stop the rule of the strong, if not punishment or enforcement.
+
+\_\_\_
+
+And the current regime of international law initially came about precisely for that purpose: when the world (ehm, the West) agreed, after World War Two, to come together to prevent the horrors some of them had just perpetrated. The horrors that now horrified them. The International Declaration of Human Rights was finalized in 1948, the Geneva Convention on rights during wartime in 1949. It’s perhaps too trite to wonder – would a Declaration declaring “universal respect” for all humans have been enough to make Hitler rethink, Chamberlain act out earlier? And, note to self, just a couple of years later, were not the same bereaved European parties [committing massacres in Algeria and other colonies](https://www.theguardian.com/world/2018/sep/13/france-state-responsible-for-1957-death-of-dissident-maurice-audin-in-algeria-says-macron)?
+
+[![23 11 17 Internatinoal laws are a collective dilusions.dwk copy](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-11-17-Internatinoal-laws-are-a-collective-dilusions.dwk-copy.webp)
+
+SUGGESTED READING
+International law is a collective delusion
+By Samuel Moyn](https://iai.tv/articles/international-law-is-a-collective-delusion-auid-2671)
+
+We have to wonder what can actually stop the rule of the strong, if not punishment or enforcement (of course, punishment/enforcement themselves necessitate the strong to carry them out… Even liberal democracies have their police forces). Rifkind put a more positive light on all this – we are early in the history of serious international law, too early to be pessimistic. Yet. Yet Gaza and Ukraine do not inspire optimism. Because international law is not being followed, for one, but also because it is not even always being *invoked*. If international law is a useful mythology, we should turn to it in our times of need. Yet what Corbyn and Varoufakis emphasised was the double standard of the current law (born, as I have pointed out, with the 1948 declaration itself). Why are Western politicians condemning and sanctioning Russia, but supplying arms to Israel? As Varoufakis proclaimed, in this way, “international law is reduced to a theatre of hypocrisy.” “International law either applies everywhere or it applies nowhere.”
+
+\_\_\_
+
+It will become the veneer that the strong use to justify their massacres and condemn those of their enemies, while the weak, well, continue to suffer what they must.
+
+\_\_\_
+
+What about terrorists though? Should they also be considered equal players in the field of international law, both in their breach and observance? Here, the panel was sharply divided. Rifkind considers terrorists akin to dictators, in that they are unable to conform to the rule of law. And Hamas are terrorists, he said. [The question of who international law applies to](iai.tv/articles/only-states-can-wage-war-and-why-it-matters-auid-2923), though it is technically universalist, here emerges clearly. Might it be its signatories (by the way, the US has not ratified all of the Geneva Convention), or just liberal democracies, or just states as defined by… international protocol? Varoufakis countered that Hamas had to be at the negotiating table (Rifkind retorted at one point that Varoufakis was “naïve”). And Varoufakis offered a provocation. Wasn’t Nelson Mandela called a terrorist before his liberation? And the IRA, before their essential role in brokering the Good Friday Agreement? In no small part, international law is a game of policing definitions. What counts as a war crime, what counts as genocide, torture, terrorism, crime against humanity, etc. [In those definitions, many see the possibility for a broader justice](iai.tv/articles/the-rules-of-war-are-absurd-but-necessary-auid-2068), but others might see justice definitively closed off to them.
+
+My conjecture is that, if the double standard continues, international law will become worse than just an empty non-credible signifier without a referent: it will become a tool in the Athenian generals’ arsenal. It will become the veneer that the strong use to justify their massacres and condemn those of their enemies, while the weak, well, continue to suffer what they must.
+
+But Varoufakis would disagree. International law, he stated – and here all the panellists agreed – “is our legacy” and we have no right to give it up. It is, at the very least “the yardstick with which we can measure the hypocrisy of our leaders.” Perhaps this is a conclusion. International law is a weapon of the strong. But that is only because everything available is a weapon for the strong. And yet, if the weak do not want to just suffer, the infrastructure of international law can help them somewhat in their much more burdensome work of building coalitions, fighting in court, quoting the hypocrisies of their leaders, and so on and so on and so on.

@@ -1,0 +1,93 @@
+---
+title: "The political power of your body"
+subtitle: "Defending the unmodified body"
+author: "Clare Chambers"
+date: "11th February 2022"
+article_id: "2049"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,742 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/bodies.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-political-power-of-your-body-auid-2049"
+---
+
+# The political power of your body
+
+*Defending the unmodified body*
+
+**By Clare Chambers** | *11th February 2022* | *Read time: approx. 9 mins* | *1,742 words*
+
+![The political power of your body](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/bodies.webp)
+
+---
+
+*We all feel pressure for our bodies to look a certain way: 70% of women say they feel pressure to have a perfect body, and two thirds of men feel ashamed of how they look. However, those pressures don’t affect everyone equally. The standards by which our bodies are judged reflect and reinforce other unjust societal hierarchies. Furthermore, the failure to adhere to society’s beauty standards is often interpreted as a deeper failure of character, encompassing our entire identity. By being aware of the sources of these pressures we can remind ourselves that the unmodified body* is valuable just as it is, writes Clare Chambers.
+
+Which part of your body would you most like to change?
+
+Most of us have an easy answer to this question. Perhaps it’s your buttocks or thighs, your belly or nose; do you want fewer wrinkles, different hair? In fact, if someone were to answer “nothing, I’m perfect just as I am” we’d likely dismiss them as arrogant or complacent. We are always ready to judge bodies, both ours and other people’s, and find them wanting.
+
+Since our bodies are never good enough, there is always something about them that we could – or even should – change. Generally we should be free to try to change our bodies as we see fit. But in [*Intact: A Defence of the Unmodified Body*](https://www.penguin.co.uk/books/316/316701/intact/9780241439043.html) I argue that the overwhelming pressures to change our bodies are politically significant, and that responding to them is philosophically complex. Put simply, the social context in which no body is allowed to be good enough is harmful. We should work together to change it.
+
+We all receive incredibly strong, all-encompassing messages about the need to *change* our bodies. On this perspective, the body is a work in progress. It’s an unruly, wild thing to be brought under control. It’s an ageing, deteriorating shell to be rejuvenated. It’s an abnormality to be rectified, an impairment to be concealed if it can’t be cured. It’s an expanding waistline that needs to be trimmed, a shrinking bicep that needs to be bulged.
+
+\_\_\_
+
+Bodies are judged according to standards that reflect and reinforce other hierarchies.
+
+\_\_\_
+
+These ways of thinking about the body are also ways of judging it. They’re ways of making the bodies we have – and, ultimately, the people we are – into things that are failing, things that are wrong. If you need to change to be socially acceptable then you are deficient as you are. This idea, that our bodies need to change if they are to be good enough, undermines equality – even though it applies to everyone. How can that be?
+
+One reason is that we don’t experience the pressures to modify our bodies as pressures that apply to everyone. We experience them as specifically applied to our own bodies in particular. We can readily identify ways that our own body is deficient as compared to others, since we are surrounded by images to look up to and goals to aim for. We develop a particularly awareness of our own personal failings, such that our bodies can become infused with shame.
+
+\_\_\_
+
+Failure to be beautiful is not understood simply as failure to be beautiful. It’s experienced as failure full stop: as a moral failing, as a lack of equal worth, as something to be ashamed of.
+
+\_\_\_
+
+Equality is also undermined because, while almost all of us can identify with the thought that our bodies are not good enough as they are, these pressures do not affect us equally. Bodies are judged according to standards that reflect and reinforce other hierarchies. For example, beauty standards are highly racialized, with Afro-textured hair being cast as inferior to straight hair in the dominant beauty norms of societies like Britain and the USA. Ageing is cast as unattractive or even shameful for women much more than for men, with significant and gendered pressure to conceal wrinkles and dye grey hair. Disabled people face discrimination and stigma for having bodies that do not conform to a conception of ‘normality’. Body modification very often invokes identity in a way that gets to the core of individuals’ social worth and status, and its requirements and standards are not egalitarian.
+
+One familiar reason to change our bodies is to make them look different – where *different* is also coded to mean *better*. The impetus to improve our appearance is widespread, familiar across many contexts. Just as humans seek to improve their surroundings, constructing buildings, landscapes, and objects with aesthetics in mind, so too we adorn our bodies with clothes, jewellery, hairstyling, and makeup. Some people use body art, tattoos, and piercings to reflect their identity, their taste, or to reclaim their bodies. This adornment can be creative and expressive, bringing joyous diversity to our visual environment. But it can also be repressive, conforming, suffused with shame and a sense of inadequacy.
+
+Studies show the existence of what psychologists describe as an epidemic of appearance anxiety. 70% of women feel media pressure to have a perfect body. Two thirds of men feel ashamed of how they look. The main pressure faced online, as experienced by British girls aged eleven to sixteen, is ‘to look pretty all the time’. This appearance anxiety is in itself a public health issue, contributing to mental health problems as well as to risky behaviours such as disordered eating.
+
+Appearance anxiety also connects to other structures of inequality. Feminists have long criticised the way that women and girls are made to feel inadequate unless they are beautiful. In fact, the pressure to be beautiful is so overwhelming, and the standards so impossible to meet, that many women and girls feel shame about their looks no matter how beautiful they are.
+
+\_\_\_
+
+The universal reach of appearance anxiety does not mean that it is felt equally.
+
+\_\_\_
+
+Shame is part of many people’s feelings about how they look. We feel ashamed if we don’t look good enough. We feel ashamed if we don’t do enough to improve our looks. As philosopher Heather Widdows argues, failure to be beautiful is not understood simply as failure *to be beautiful*. It’s experienced as failure full stop: as a moral failing, as a lack of equal worth, as something to be ashamed of.
+
+This process of shaming people for their looks has traditionally focused on women and girls, making it a feminist issue. But pressure to look good – which fundamentally means to look different, in some way, from how you already look – is increasingly falling on everyone. And when we all feel ashamed of our bodies, that’s a sign that it’s the shame that’s wrong, not our bodies.
+
+The universal reach of appearance anxiety does not mean that it is felt equally. Dominant norms about how we should look allow of some variety, but there are clear constraints of body, skin, hair, and function that are deemed beautiful. These constraints set out an acceptable image. Its (un)acceptability intersects with social positions of (dis)advantage along lines of race, sex, gender conformity, disability status, class, and age. What this means is that pressures to look good – to look better – are political. And resisting them is political, too.
+
+\_\_\_
+
+The unmodified body is not a body that has never been changed or adorned. Instead, the unmodified body is a body that is allowed to be good enough just as it is.
+
+\_\_\_
+
+The idea of the *unmodified body* is one way to resist. I use that deliberately unfamiliar phrase because it draws attention to the fact that the unmodified body is a philosophical concept, not a particular physical thing. It’s a philosophical concept because, speaking literally, it is impossible for any body to be unmodified. Every time you do anything to your body, including *not* doing something, you change it. What you eat, how you exercise, when you sleep, how you wash, groom and trim – all these everyday acts affect how your body looks and functions. The only way to refuse body modification entirely would be to cease to exist. There’s nothing valuable about having an unmodified body understood in this absolute, unphilosophical way. The unmodified body is not a body that has never been changed or adorned.
+
+Instead, the unmodified body is a body that is allowed to be good enough just as it is. We can understand the unmodified body as a political principle. It’s a principle that resists the idea that changing how we look is a necessary part of what we are worth. The principle of the unmodified body is that your worth should not depend on what your body is like. Who you are, in terms of your social status and political entitlements, should not depend on your body fitting some ideal. In other words, the unmodified body is a principle of equality.
+
+The principle of the unmodified body doesn’t say that there is necessarily anything good about having a certain kind of body. It doesn’t claim that it’s better to have a body that has had less done to it. On the contrary: it’s precisely that sort of ranking and judging of bodies that the principle rejects. The price of having an unmodified body depends on how your body is socially ranked: how it fits into hierarchies. What equality demands is the equal opportunity to be unmodified.
+
+\_\_\_
+
+The principle of the unmodified body doesn’t tell you to avoid exercise and healthy eating, although it does point out the politics inherent in these goals.
+
+\_\_\_
+
+The principle of the unmodified body doesn’t tell you to avoid exercise and healthy eating, although it does point out the politics inherent in these goals. It doesn’t tell you to reject makeup, body art, even surgery in the pursuit of beauty, although it does show how beauty ideals relate to gender. For many of us, these body modifications are crucial to our self-esteem. Changing our bodies can help us feel socially accepted, to feel that we fit in, or that we can express our identity. Body modification can be a way of reclaiming one’s body, of feeling more like oneself, of making a statement or feeling at home. It can be a source of creativity, too.
+
+Instead, the principle of the unmodified body asks you to notice the overwhelming pressure to think of our bodies as inadequate. It draws attention to the fact that this pressure undermines our equal status and our mental health. And it asks us all to work together to resist the idea that our bodies *need* changing. Collectively, we should insist that our bodies can be good enough just as they are.

@@ -1,0 +1,53 @@
+---
+title: "Remembering your self"
+subtitle: "Does loss of memory mean loss of self?"
+author: "Muireann Irish"
+date: "Issue 89, 12th June 2020"
+article_id: "1563"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,237 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-12.irish.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/remembering-yourself-dementia-self-auid-1563"
+---
+
+# Remembering your self
+
+*Does loss of memory mean loss of self?*
+
+**By Muireann Irish** | *Issue 89, 12th June 2020* | *Read time: approx. 6 mins* | *1,237 words*
+
+![Remembering your self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-12.irish.ata.webp)
+
+---
+
+*Imagine looking into the mirror and not recognising the face that greets you. What might it be like to sit in a room full of visitors each claiming to know you well, yet you have no knowledge of who they are. Consider the experience of asking to go home, only to be told repeatedly that this unfamiliar building is your home and has been for many years…*
+
+How much of who we are is shaped by memory? Scientists, philosophers, artists, poets, and musicians alike have all grappled with the notion of the self – that seemingly immutable and enduring sense of who we are, steadfast in the face of life’s many vicissitudes. Within the field of cognitive neuroscience, we have yet to find a universal definition of what the self does and does not encapsulate, or how we might go about operationalising and measuring this nebulous construct. It is clear that there is no single entity that we can label “the self” and certainly no neat neural substrate that we can pinpoint in the brain as supporting this construct. What is becoming increasingly clear, however, is that the self is intimately connected to memory.
+
+Humans possess an innate proclivity to derive meaning, stability, and continuity from our personal or autobiographical experiences. As we navigate different periods of growth and change, we distil meaning from these life-changing events and incorporate them into our view of who we are as an individual. This contributes to our sense of morality, our preferences, our ambitions, and our conception of who we might become in the future. The central role of memory in shaping our view of ourselves has led many to suggest that the converse relationship must also hold, whereby memory loss necessarily erodes the self.
+
+It is clear that there is no single entity that we can label “the self” and certainly no neat neural substrate that we can pinpoint in the brain as supporting this construct.
+
+Loss of memory is one of the canonical symptoms of Alzheimer’s disease. In early stages of the disease, an anterograde memory loss predominates, whereby the individual is unable to form *new* memories. This can manifest in the person being unable to follow conversations, to remember recent experiences, misplacing items, or forgetting where they parked the car. Gradually, as the disease advances, retrograde amnesia becomes pronounced, whereby the memories acquired prior to the onset of dementia are affected. It has been argued that, in the absence of supportive memories related to oneself, we cease to have a unified or coherent self-concept. Where dementia is concerned, this has given rise to a slew of pejorative terms implying a lack of agency, unbecoming, or erosion of the self. The individual is viewed as frozen in time, unable to make sense of their surroundings, and relegated to the background in many areas of their life.
+
+Yet, memory is not completely eradicated, and many residual and self-defining memories persist in dementia. These islands of memory often stem from childhood and early adulthood; those critical time periods in which we carve out our sense of identity and place in the world. What results is a profound discontinuity between the individual’s own view of themselves, their roles, social relationships, and even physical appearance, with that of their family, spouse, or carer.
+
+[Mark Rowlands, Angie Hobbs and Margaret Heffernan ask if memory is essential to who we are](https://iai.tv/video/forgetting-to-be-me "Watch more videos on iaitv")
+
+This collision between the inner experience of the individual and their current external surroundings was first impressed on me by my grandmother, Molly, who was diagnosed with Alzheimer’s disease at age 80. Prior to receiving a formal diagnosis, she displayed a keen awareness that something was not quite right, often complaining of a “muzzy head”, but masked this well by staying busy and clinging to routine. On the surface, the mismatch between my grandmother’s sense of who she was a person and her immediate environment resulted in innocuous and repetitive conversations, sometimes humorous as she bemoaned the fact that no one ever came to visit her, especially not the local priest. We passed many afternoons politely listening to the same stories from my grandmother’s past, not realising that these preserved narratives served an important purpose, grounding my grandmother to something familiar in the midst of an increasingly confusing reality.
+
+Humans possess an innate proclivity to derive meaning, stability, and continuity from our personal or autobiographical experiences.
+
+As the disease progressed, her insight into her impairments dissipated, and it became clear that she could no longer live independently. Now living in a nursing home, she became increasingly distressed – wandering the corridors, searching for my long-deceased grandfather Mal, and pleading to go home. The initial reaction for most people is to reorient the person with dementia, to correct them and attempt to align their viewpoint with our own. We swiftly realised the error of our ways and soon learned to stand in my grandmother’s shoes. When viewed from her perspective and her current conception of self, her behaviours and actions made quite a lot of sense. Her conceptual knowledge of events from her early adulthood was remarkably intact. In fact, when we asked her how she might get home, she relayed the exact route that she would walk, including all street names and people’s houses, to get back to her home on St. John’s Road.
+
+Recognising the person within, the care staff supported my grandmother to embrace her memories on the wards as a nurse by accompanying them on the morning and afternoon tea rounds and “assisting” in the kitchen. The change in her demeanour was palpable. She had always possessed a strong work ethic, and nothing pleased her more to receive a knock on the door and being told it was time to “do the rounds”. Watching my grandmother bid me a hasty farewell to attend to her duties was far preferable to her pulling out her suitcase and begging me to take her home. Her sense of agency and purpose remained, and that defining sense of helping and caring remained ever present. In recognising her desire to help, and her desperate need for a purpose, the care staff adapted the current environment to meet my grandmother in *her* past.
+
+If the self is something unified or integrated, does this mean that the self itself is fragmented or less cohesive when memory begins to fail?
+
+If the self is something unified or integrated, does this mean that the self itself is fragmented or less cohesive when memory begins to fail? While memory is inextricably bound to our sense of who we are, it is clear that we are more than just a repository of events. My grandmother remained “Molly” in many ways – her determined nature, her strong faith, and her wicked sense of humour all persisted, as did her musical tastes and sweet tooth. Our interpersonal connections, however, changed. At best, my grandmother saw me perhaps as her daughter, again an appropriate assumption to make for someone whose self is based on their middle adulthood years. At worst, I was a friendly young woman who she enjoyed chatting to and walking with. Our shared history was no longer shared, and inevitably our relationship drifted into new territory.
+
+As her language deteriorated, we would sit in companionable silence holding hands; connected by an intimacy and understanding that transcended those memories now lost to the disease. Near the very end, my grandmother surprised me by offering me *50p* for “bus money”. She was, without question, still herself.

@@ -1,0 +1,63 @@
+---
+title: "The Last Jedi and the Problem of Free Will"
+subtitle: "Can free choice exist in an uncontrollable world?"
+author: "John Donaldson"
+date: "6th February 2018"
+article_id: "1037"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,594 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/kylorenhelmet.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-will-of-the-force-the-last-jedi-and-the-problem-of-free-will-auid-1037"
+---
+
+# The Last Jedi and the Problem of Free Will
+
+*Can free choice exist in an uncontrollable world?*
+
+**By John Donaldson** | *6th February 2018* | *Read time: approx. 8 mins* | *1,594 words*
+
+![The Last Jedi and the Problem of Free Will](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/kylorenhelmet.webp)
+
+---
+
+In every Star Wars film destiny is a central theme, and *The Last Jedi* is no exception. The main characters – including Kylo Ren, Rey, and Luke Skywalker – are explicitly portrayed as possessing a fixed destiny in that their futures are preordained by a mysterious energy field that governs the entire universe: the Force. This same energy is also presented as determining the outcome of the struggle between the warring sides in which the main characters play their part: the Resistance and the First Order. But here lies a puzzle: the characters are explicitly portrayed as making many free choices, for which they are being morally responsible. But how can someone make free choices they are responsible for if their future is fixed by something outside of their control?
+
+ Let’s begin by getting clear on how it might be possible for the future to be fixed. If forthcoming events are already determined by present or past events in that universe, then the universe is deterministic. A universe is deterministic if every event in it has a sufficient cause (a prior occurrence which is ‘enough’ to bring about each event). If a universe is deterministic, then everything that happens in it is made to do so by what has already happened. And here, ‘everything’ really means *everything*: all the happenings from the tiniest subatomic fluctuations to supernovas, galactic collisions, and all that’s in-between; including, most importantly, people’s actions. And so, given the complete state of the universe at any time, its future state at any point in time is predetermined.
+
+So, we can make sense of how futures can be fixed in the Star Wars universe if we understand it as deterministic. Kylo, Rey, and Luke have destinies because everything that occurs in the universe – including their every thought and action – is determined by what has happened up to that point. And Star Wars lore tells us that the Force is the main determinant of what happens, especially, it seems, when it comes to the fates of people and polities.
+
+\_\_\_
+
+"Either our universe is predetermined like the Star Wars universe, or it’s indeterministic. But either way, it’s not immediately obvious that free will in a significant enough sense is possible."
+
+\_\_\_
+
+This brings us to the first part of the puzzle. In *The Last Jedi*, Kylo and other members of the First Order that he leads are portrayed as *choosing* to act in various ways. For example, he deliberately attacks Luke, and appears to use every effort to kill him. This choice is presented as one Kylo makes ‘of his own free will’. And the same holds true for the other characters in the film: Rey seemingly freely chooses to persuade Luke to train her, and in turn Luke is portrayed as making a free choice about whether to do this. But to what extent can these actions be viewed as free if they are simply part of some grand, predetermined ‘plan’ governed by the Force? To answer this question, we need to reflect on what must be the case in order for a person’s will to be free. A person’s will is a kind of mental state – an occurrence in their mind that we would normally call an ‘intention’. Intentions seem to be an essential component of action: persons’ actions – such as hailing a taxi, making a cup of tea, or killing an opponent with a lightsaber –are whatever they do intentionally. This suggests that prior to taking action, the intention to act in that way must be formed in the person’s mind. Once the intention is formed, it will normally cause the person to act in the relevant way (sometimes our intentions to act are frustrated, of course). And, intentions are in turn caused by other mental states such as beliefs and desires. Here’s a simple causal model of this:
+
+![lastjedidiagram](assets/Uploads/_resampled/ResizedImageWzYwMCwxNTVd/lastjedidiagram.PNG)
+
+So, the question about what must be the case for there to be free will can be understood as asking: what do people’s intentions need to be free *from*, exactly,in order to cause free actions? Consider again Rey’s intention to persuade Luke to train her. Presumably, this is caused by her desire to be a Jedi Knight and her belief that Luke training her is the best way to become one. If the Star Wars universe is deterministic, then it looks as if Rey’s forming the belief, desire, and intention such that she tries to persuade Luke to train her was fixed from the moment the universe began.
+
+A reasonable thought at this stage is that this entails that Rey’s action is not free, but philosophers are divided on this. Some, known as incompatibilists, contend that if a universe is deterministic then there cannot be free will in it. Others, known as compatibilists, contend that there can in fact be free will in a deterministic universe. The basic move made by compatibilists is to argue that so long as a person’s intentions are free from *certain kinds* of prior causes then there can be free will. Different compatibilists tell different stories about which prior causes must be ruled out for a person’s actions to be free. But one rough-and-ready version of what many of those stories have in common is that a person’s intentions are freely formed so long as they are not brought about by particular types of irrational thought processes.
+
+For example, Harry Frankfurt famously argued that a person’s actions are free if they desire to have their own desires. Someone addicted to smoking, say, might desire to smoke, but also desire not to desire to smoke. Such a person is not acting freely, Frankfurt suggested, and it seems also that they exhibit a certain kind of irrationality: there is a conflict between their desires. Whereas a person who desires to smoke and desires to desire to smoke *is* acting freely and, in so far as their desires are consistent, more rationally. And this kind of free will – freedom from inconsistent desires – is compatible with the universe being deterministic.
+
+\_\_\_
+
+"Is simply being free from irrational thought processes sufficient for a person to be morally responsible for their actions?"
+
+\_\_\_
+
+But is this particular compatibilist kind of free will enough? This brings us to the second part of the puzzle: moral responsibility. Why does free will matter to us? Part of the answer seems to be that human beings have the deeply embedded belief that people can be morally responsible for their actions and judged morally on that basis. And we certainly seem to make such judgments when watching Star Wars. It appears that Snoke and Kylo Ren act in blameworthy ways, while Rey and Luke act in praiseworthy ways. But the justification for such judgements apparently requires that the subject of them be acting sufficiently freely. If a person is forced to do something by forces outside their control, then they cannot be held to be morally responsible for whatever they’ve done. And here’s the rub: is simply being free from irrational thought processes sufficient for a person to be morally responsible for their actions? Is a person’s action’s being determined from the moment the universe began sufficient to deem them never to be morally responsible for their actions? The answers to these questions, over which philosophers are deeply divided, will have a significant bearing on whether the compatibilist variety of free will is taken to be free will enough.
+
+So where does this leave us?
+
+When watching Star Wars it appears as if we have at least some grounds for doubting whether we really are justified in judging, on the one hand, that the characters have predetermined destinies, and on the other, that the characters act freely and so can be held responsible for those acts.
+
+When looking at our universe, where it is perhaps not so obvious that people really do have destinies, matters are even murkier. Of course, the Force doesn't appear to govern our universe, but there are laws of nature and they could determine events at least as much as the Force determines them in the Star Wars universe. A person might be tempted to console themselves with the thought that according to quantum physics our universe is not deterministic, but rather indeterministic: there are events, primarily various kinds of quantum fluctuation, which do not have a sufficient cause. In an indeterministic universe, the complete state of the universe at any time does not fully determine the state of the universe at any future time. Perhaps, it might be thought, this defeats the threat to free will posed by a deterministic universe. But such a thought is not obviously correct. How does adding quantum fluctuations make a person’s actions freer? It seems rather like just adding in a bit of chance into what actions a person might pursue, which might seem to threaten the possibility of free will from a whole other direction.
+
+So there we have it. Either our universe is predetermined like the Star Wars universe, or it’s indeterministic. But either way, it’s not immediately obvious that free will in a significant enough sense is possible. And if such free will isn’t possible, then no-one would be morally responsible for their actions. Imagine, if you can, a society in which there’s no moral responsibility (as some philosophers have done). Or hope, if you prefer, that the compatibilists are right, and that the extent to which our actions are determined is consistent with free will. But don’t forget that whether you imagine or hope is either already determined to occur, or an at least partly chance-like occurrence in an indeterministic world.

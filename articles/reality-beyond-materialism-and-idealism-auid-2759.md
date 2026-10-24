@@ -1,0 +1,59 @@
+---
+title: "Reality beyond materialism and idealism"
+subtitle: "Untangling ourselves from the metaphysical quagmire"
+author: "David R. Cerbone"
+date: "29th February 2024"
+article_id: "2759"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,649 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-02-29-Wittgensteins-idealism-philosophy-iai.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/reality-beyond-materialism-and-idealism-auid-2759"
+---
+
+# Reality beyond materialism and idealism
+
+*Untangling ourselves from the metaphysical quagmire*
+
+**By David R. Cerbone** | *29th February 2024* | *Read time: approx. 8 mins* | *1,649 words*
+
+![Reality beyond materialism and idealism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-02-29-Wittgensteins-idealism-philosophy-iai.webp)
+
+---
+
+*Realists and idealists argue about whether physical objects exist, whether they are real or just part of a world of ideas. But can they at root help us solve the most important philosophical questions? In this instalment of our idealism series, in partnership with the Essentia Foundation, David R. Cerbone argues that Wittgenstein can help us return to more substantive questions. Should we be Idealist or Realists in the first place?*
+
+In his very first meeting with Bertrand Russell, Wittgenstein is reported to have said “that he did not think either realism or idealism was satisfactory: one would have to take some third position between them.” According to [Rush Rhees](https://oar.princeton.edu/bitstream/88435/pr18s4jn8b/1/WittgensteinsPhilosophicalConversation.pdf), Russell rebuked the young Wittgenstein for seeking an intermediate position, since “you would have to have an intermediate position between this new one and each of the others, and so on ad infinitum.” But Wittgenstein’s early dissatisfaction with both realism and idealism persisted throughout the ensuing four decades of philosophical thinking and writing. He developed a neither-nor attitude towards realism and idealism, which is particularly clear in his much later comments on the subject in *Remarks on the Philosophy of Psychology* (also published under the title [*Zettel*](https://blackwells.co.uk/bookshop/product/Zettel-by-Ludwig-Wittgenstein-G-E-M-Anscombe-G-H-von-Wright/9780631128236), which means “scraps” or “fragments”). Here he suggests that the debate between idealists and realists has no practical significance for our lives.
+
+These late remarks of Wittgenstein do not focus on the doctrinal details of these two “-isms.” In general, his writings are disappointing if one comes to them looking for attention to such details. In academic philosophy, realism and idealism come in myriad sophisticated versions with all manner of modifiers (transcendental idealism, absolute idealism, empirical realism, scientific realism, and so on). Wittgenstein’s interest lies instead with some of the more basic impulses that motivate philosophers to develop such intricate theories. He does so in the remarks we’ll be looking at by considering otherwise unnamed adherents to such views – the idealist rather than idealism, and the realist rather than realism. Wittgenstein invites us to consider the realist and idealist not so much as archetypical philosophical figures, but as otherwise ordinary people. What do these considerations reveal?
+
+[![related-video-image](https://iai.tv/assets/Uploads/tn-cropped.webp)
+
+SUGGESTED VIEWING
+The shadow of spirituality
+With Barry C. Smith, Sophie Grace Chappell, Michael Shermer, John Vervaeke](https://iai.tv/video/the-shadow-of-spirituality)
+
+The first remark begins with Wittgenstein asking us to consider “a convinced realist” and “a convinced idealist,” each of whom has children. It would be natural to suppose that they would each want to pass on their respective convictions to their children: “In such an important matter as the existence or non-existence of the external world they don’t want to teach their children anything wrong.” However, Wittgenstein wonders what differences in parenting practices there might actually be between the idealist and the realist. “What will the children be taught?”, he asks, “To include in what they say: ‘There are physical objects’ or the opposite?” He indicates a degree of scepticism about this suggestion in his conclusion to this first remark: “If someone does not believe in fairies, he does not need to teach his children ‘There are no fairies’: he can omit to teach them the word ‘fairy’. On what occasion are they to say: ‘There are…’ or ‘There are no…’? Only when they meet people of the contrary belief.”
+
+Wittgenstein’s appeal to fairies here is puzzling, since practically no one believes in the literal existence of fairies, yet children generally *are* taught the word ‘fairy’. Little children tend to be quite conversant with fairy-talk, having been exposed early and often to storybooks, movies, and the like where fairies feature prominently (*Peter Pan* comes immediately to mind, but there are many others). While children may become adept at dressing like fairies or drawing them, none are taught to catch them (unless this is just a fanciful way of talking about catching fireflies), nor are fairies included when children start to learn about the kinds of animals that populate the world. They thereby pick up (eventually) that fairies are make-believe, usually without being told this explicitly. Occasionally, saying “there are no …” may come into play. If a child is instructed to make a list of things that fly and after listing birds, butterflies, and airplanes chooses to add fairies to the list, one might imagine the parent or teacher saying, “Well yes, I suppose, but of course there are no fairies.”
+
+We might instead, then, be tempted to think of the differences between the practices of realist and idealist parents as akin to the differences between what a devout Christian and a committed atheist would teach their respective children. The Christian will talk to her children about God and Jesus, sin and atonement, salvation and redemption, both directly and through stories in which such ideas figure; moreover, she will talk of such matters in a manner and tone that conveys her convictions. Meanwhile, the atheist will by and large omit such topics of instruction and discussion, except when her children return from a playdate with the Christian’s children and she must explain to them what the other children believe. Of course, when she does this, the atheistic parent’s tone and manner is likely to be quite different from that of the Christian.
+
+Wittgenstein does not directly answer his question about instruction when it comes to “There are physical objects.” The concept “physical object” is awfully abstract and it would seem that a child must learn a lot before being introduced to such a notion. The same goes for a child learning about *appearances*, which is of importance especially for the idealist (what the realist counts as physical objects, the idealist considers mind-dependent appearances). Wittgenstein instead pivots to a more pedestrian example. Even if the convinced idealist eventually teaches – or tries to teach – his children that there are no physical objects, nonetheless “the idealist will teach his children the word ‘chair’ after all,” since “of course he wants to teach them to do this or that, e.g. to fetch a chair.” He then asks: “Then where will be the difference between what the idealist-educated children say and the realist ones? Won’t the difference only be one of the battle cry?”
+
+Wittgenstein is still asking here about just what kind of difference these supposed doctrinal differences really make. When it comes to chairs and the like, what the idealist’s children come to learn will not look much different from what the realist’s children learn: the children of both parents will become equally conversant with chairs, not just with talking about them, but with sitting on them, arranging them, counting them, making sure there are enough in the room for the number of guests, getting more from the other room if not, and so on.
+
+Can we therefore say that the children of both the idealist and the realist are first taught to believe (naively, as it were) that there are chairs, to accept that there are chairs with a kind of certainty? Wittgenstein rejects this appeal to certainty: “There isn’t any question of certainty or uncertainty yet in their language-game. Remember: they are learning to *do* something.” So the realist’s children might in the fullness of time be taught that chairs are physical objects, while the idealist’s children might come to learn about chair-appearances, but all of that is subsequent to the kind of imitation and instruction that leads to children sitting on, arranging, and fetching chairs. Moreover, whatever they learned at that earlier time – what they learned to *do* with chairs – is unaffected by whatever is added later. Hence Wittgenstein’s likening of the addition as only one of “the battle cry.”
+
+Notice that this is not the case when it comes to the contrast between the parent who is a devout Christian and the parent who is an atheist: the differences here are not superfluous in relation to practice in the way the respective convictions of the realist and idealist are. To be sure, there will be overlap in what the different children learn, but there will be divergence as well: the Christian children will spend their childhoods going to church, learning various prayers, saying those prayers earnestly in various settings, and even when the Christian and atheist children do the same thing, their reasons and motives might be quite different. Nothing like that divergence happens with idealist and realist children: the child who is eventually taught that the chair is a physical object will sit on, fetch, and count chairs in exactly the same way as the child whose parent told her that chairs were systems of appearances. Nor, we might add, will there ever be a “fairy moment” of that kind that happens with the child making a list of things that fly. “There are no chairs” will only ever mean what we mean when walking into an empty room expecting (or hoping) to sit down.
+
+[![tn 4](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/tn-4.jpg)
+
+SUGGESTED READING
+Wittgenstein vs Wittgenstein
+By Lee Braver](https://iai.tv/articles/wittgenstein-vs-wittgenstein-lee-braver-auid-2615)
+
+In *Philosophical Investigations*, Wittgenstein describes his method in philosophy as “marshalling recollections”. Much later in the text, he describes himself as “supplying remarks on the natural history of human beings.” These remarks do not concern “curiosities” of the kind we might take in at a natural history museum (e.g. the finer points of seal hunting or the vast variety of early muskets). Instead, they are “facts that no one has doubted, which have escaped notice only because they are always before our eyes.” I think the remarks we have been considering about chairs are the kind of natural-historical observations Wittgenstein has in mind. “Human beings sit on chairs” strikes us as obvious and not even worth saying. A placard in a natural history bearing that observation would hardly warrant a passing glance. But confronted with the question, “Are chairs real?” – a question that sets us off in the direction of realism and idealism, appearances and physical objects, belief and certainty – that mundane observation is just the kind of thing we tend to ignore. “Are chairs real? I’ll have to sit and think about it.” Once the thinking has started, what the thinker did before getting started has already been forgotten.

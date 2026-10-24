@@ -1,0 +1,100 @@
+---
+title: "Where Is My Mind?: An Interview with Andy Clark"
+subtitle: "Is your smartphone a part of your brain? Andy Clark discusses his mind-expanding ideas."
+author: "David Maclean"
+date: "Issue 69, 9th November 2018"
+article_id: "1162"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,719 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/andy-clark-iai-thinker.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/where-is-my-mind-an-interview-with-andy-clark-auid-1162"
+---
+
+# Where Is My Mind?: An Interview with Andy Clark
+
+*Is your smartphone a part of your brain? Andy Clark discusses his mind-expanding ideas.*
+
+**By David Maclean** | *Issue 69, 9th November 2018* | *Read time: approx. 9 mins* | *1,719 words*
+
+![Where Is My Mind?: An Interview with Andy Clark](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/andy-clark-iai-thinker.webp)
+
+---
+
+*Andy Clark is currently a professor of philosophy at the University of Sussex and, along with collaborator David Chalmers, is a leading figure in the literature on consciousness, artificial intelligence, embodied cognition and technology's impact on what it means to have a mind and be a person.*
+
+*Dispelling all stereotypes of the fusty old British academic, with his distinctive spiked hair and a colourful array of patterned shirts, as well as a penchant for electronic music and rave, his body of work is widely lauded as both startlingly ambitious and hugely influential across disciplines. To that end, his academic career has seen him occupy prominent roles around the globe, with notable tenures at Indiana University in Bloomington, Indiana, University of Edinburgh, and the Washington University in St. Louis.*
+
+*In this interview, we discuss the legacy of his most famous work on the 'Extended Mind', smartphones, artificial intelligence, and his issues with panpsychism's response to the hard problem of consciousness.*
+
+*—David Maclean*
+
+---
+
+**You have been a key figure in developing the concept of the Extended Mind — an influential and rather strange thesis in the field of extended cognition. For those unfamiliar with the idea, would you be able to provide a sketch of the salient points behind it?**  
+  
+Here's the core idea: There’s a lot of stuff that counts as part of what *you* know, even when that stuff isn’t currently being consciously rehearsed. You know what month this is, and you knew it (‘dispositionally’ as philosophers say) even before my asking the question brought it into your conscious thoughts. Now we can try out the Extended Mind idea for size. Suppose some bio-external resource, such as your notebook or smartphone, poised some piece of information (a friend's address, say) for retrieval as and when needed. The information is there, accessible, and will be trusted on retrieval.  The Extended Mind thesis challenges us to find some good reason to insist that all *you* can really know, in that dispositional (non-conscious, prior to conscious access) sense,  is what’s encoded in bio-memory. Why not allow that non-occurrent memory (e.g. your standing ‘dispositional’ belief about the friend's addresses)  need not be all in the head. In other words, we should count you as already knowing your friend's address even before you access it using the notebook or smartphone. There are several standard replies that don’t work. The most popular is that all you already know is that the address is in the notebook or on the smartphone. But we don’t say, in the standard case, that all you know before conscious retrieval is that the information is stored in your bio-memory. I think we need to treat both cases the same way until proven relevantly different. Indeed, the bulk of the original paper was devoted to dealing with all those ‘first pass’ replies, and I’d recommend that [the sceptical reader go there](http://www.consc.net/papers/extended.html "http://www.consc.net/papers/extended.html") to see if their objection has been anticipated.  
+  
+**As I'm sure you're aware, it's the 20th anniversary of the publication of your paper with David Chalmers with its now-famous thought experiment of Otto and Inga visiting a museum simultaneously. Inga is able to recall the directions from memory, but Alzheimer's patient Otto must rely upon a notepad to provide him with directions — an extension of his mind wherein memory is being served by the notepad. Looking back to that example in hindsight, do you think you would revise your argument? Does the advent of the smartphone, for instance, complicate the example of Otto receiving instructions from his notepad?**  
+  
+Surprisingly, there’s really nothing I’d revise. The smartphone actually helps the argument, by making it even easier to see how the right information could be readily available as and when needed, with roughly the reliability of bio-memory (which isn’t always working just when you need it).   
+  
+Some people do worry that we then start to count as ‘already knowing' way too much (in that dispositional sense) as a result. But I just bite that bullet. All that limits the scope, I claim, is the need for the bio-core to know what’s there, roughly how reliable to treat it as being, how to combine it with other knowledge and information, and how to get it when needed. If the information stored ‘out there’ is in those ways properly integrated with the stuff known by the bio-core, it counts as part of your extended mind. I think we’ll all get used to this in the near future, as we routinely extend our minds using various forms of more personalized A.I. But that’s another story...
+
+\_\_\_
+
+"**If it’s a mystery how highly organized matter can be conscious, saying that unorganized matter is conscious (or proto-conscious) too doesn’t seem like much of an advance. If anything, this is even harder to comprehend!**"
+
+\_\_\_
+
+**If at-hand objects like smartphones and books function as extensions of the mind, where do the restraints on this begin? For instance, I have a laptop at home that I can readily consult for answers to questions that I can't solve alone —  does that not too function as an extension of my mind, even if not immediately accessible?**
+
+We can apply the so-called ‘parity principle’ (one of the main argumentative tools for thinking about the extended mind) here. The principle states that if a well-integrated non-biological resource is such that, were it realized biologically, we’d judge it part of the machinery of mind, then (other things being equal) we should give the non-biological version the same kind of cognitive credit. In this case, imagine that we met aliens who had evolved so their biological brains repeatedly spawned new detachable non-conscious sub-modules that could be separately trained and located conveniently for different bouts of problem solving. In such a case, we would most likely regard those sub-modules as aspects of a single distributed alien mind. So applying the parity principle (and assuming ‘sufficient integration’  which would need to be argued case by case) the physically separated sub.modules can potentially count as parts of a single distributed intelligence.
+
+In fact, nature provides a near-exemplar of this in the octopus, significant aspects of whose intelligence seems housed in the eight ‘arms’ (as we are advised to call the effectors that many dub ‘tentacles’). It is not obvious why mere physical detachability should matter for a sufficiently integrated overall intelligence (think, indeed, of networked computers versus a single big mainframe). Obviously, we’d then need to spend a long time thinking about what counts as sufficient integration with the core bio-intelligence. But I think as our ‘interfaces’ become more fluid, and perhaps even begin to disappear from sight in use, our intuitions here will shift and alter, and we start to feel simply like single intelligences that can do more stuff, rather than single intelligence using lots of other stuff to do more stuff.
+
+**Given that it has at least some superficial overlaps with your work, what are your thoughts on panpsychism? Do you think it brings us any closer to explaining the hard problem of consciousness and what it means to have a mind?**
+
+No, it simply skips the issue, by re-locating the problem ‘lower down’ as it were. If it’s a mystery how highly organized matter can be conscious, saying that unorganized matter is conscious (or proto-conscious) too doesn’t seem like much of an advance. If anything, this is even harder to comprehend!
+
+**How would the parity principle apply to artificial enhancement of the mind and our cognitive faculties? I'm thinking here of proposals like Elon Musk's Neuralink and an emerging number of companies focusing on brain-computer interfaces, and the notion of merging the human mind and an artificial intelligence. As I understand it, you're somewhat skeptical of the claims made of the latter**.
+
+I’m not a sceptic about this stuff. The main thing for me is to stress that hard-wired links and implants don’t automatically make anything more deeply integrated with our bio-bits than when stuff gets read in via perception and out via action. In each case, what matters is the way bio and non-bio elements get to work together without excessive conscious effort.
+
+****[![martha nussbaum](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/martha-nussbaum.webp)
+
+SUGGESTED READING
+Martha Nussbaum on how to escape fear
+By Paula Erizanu David Maclean](https://iai.tv/articles/escaping-the-monarchy-of-fear-an-interview-with-martha-nussbaum-auid-1128)**If there was only one question you could focus on, what would that be?**
+
+I’d want to ask how the embodied, situated brain builds the world as we experience it. That means focussing on three interlocking things - the nature of embodied action, the way the brain drives action and deals with its sensory consequences, and the way social and technological settings alter and impact that process. The last bit lets me sneak in the extended mind alongside my core interest, which is how minds basically work.  
+  
+**What advice would you give your younger self?**
+
+Worry a bit less about trying to please everybody all the time.  
+  
+**What is one practical application of philosophy in your day-to-day life?**
+
+It’s helped confirm my belief that reason and argument are the best tools we have, but also shown me that they get little purchase without good stories, empathy and understanding too.  
+  
+**One puzzle you don’t think will ever be solved?**
+
+The puzzle of exactly when science has done enough to explain the very possibility of conscious experience. I basically think we are nearly there, but that it’s ridiculously hard to know when the puzzle has been ’satisfactorily solved’.
+
+**What do you consider to be your greatest achievement?**
+
+Helping ideas about the importance of embodiment, environment, and action become mainstream in philosophy and cognitive science.  
+  
+**What has been your most ambitious unfinished project?**
+
+I’ve maintained a constant background interest in the so-called ‘hard problem’ of consciousness, and I really do think we are getting there — but see above!  
+  
+**What is your idea of a good life?**
+
+Nothing special. Friends, family, music, enriching relationships. Not getting bored is pretty important, but that’s never been a threat!  
+  
+**What is a phrase or motto that keeps you going in times of distress?**  
+Um, never had one. Is that really a helpful thing? I do have a strategy, which is to imagine myself forward, to some point where the stressful time is past…..Also, buying weird stuff that I don’t need.

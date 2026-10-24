@@ -1,0 +1,85 @@
+---
+title: "Music, grief, and philosophy"
+subtitle: "Finding solace in sound"
+author: "Kathleen Higgins"
+date: "13th September 2023"
+article_id: "2603"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "1,975 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-09-14.Music-grief-and-philosophy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/music-grief-and-philosophy-auid-2603"
+---
+
+# Music, grief, and philosophy
+
+*Finding solace in sound*
+
+**By Kathleen Higgins** | *13th September 2023* | *Read time: approx. 10 mins* | *1,975 words*
+
+![Music, grief, and philosophy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-09-14.Music-grief-and-philosophy.webp)
+
+---
+
+*Socrates thought philosophy’s role was to prepare us for death. But what about the death of our loved ones? Philosophers have had surprisingly little to say about the experience and meaning of grief. In this interview, Kathleen Higgins rights that wrong and argues that grief has a deep connection to art, especially music, in the way it disrupts but also reorients our relationship to the world and others.*
+
+**Kathleen, your work has focused on a philosophical analysis of grief and aesthetics. This is not a field you would find addressed in most modern day philosophy textbooks. What drew you to this area and why did you think it was an appropriate place for philosophical analysis?**
+
+The experience of grieving is what first drew me to the topic.  I was surprised at the discrepancy between what I experienced and what I would have predicted it would be like.  I was also amazed at how frequently aesthetic gestures and activities seemed to be involved in interpersonal interactions after my loss.  I started to notice the aesthetic aspect of sending flowers, cards, and sometimes poems to family members of a person who died, the aesthetic scriptedness of funerals, and the way that the deceased is often kept in mind as a silent witness to the commemorative actions of the living.  Aesthetic taste is also involved in decisions about marking graves, disposing of human remains, constructing obituaries and eulogies, and engaging in many memorial projects. The more I thought about the theme of grief and aesthetics, the bigger it seemed.  I have also been interested in the role of music in our lives for a long time, so it felt an obvious step for me to focus on music in this connection.
+
+**Philosophy as a theory of life is quite devoid of figures in our contemporary times. Heidegger being an obvious example of someone who breaks that mould, with his obsession with death and our relationship to it. Do you have to look to the continental tradition to find thinkers addressing these bigger questions? Figures such as Nietzsche, Heidegger or Merleau-Ponty to find philosophy dealing with life problems?**
+
+All of those figures, especially Nietzsche, have been helpful to me in thinking about grief and the aesthetic.  Nietzsche often considers mortality and various possibilities for resiliently responding to loss.  Heidegger’s ideas about our reactions to other people’s deaths have also been relevant to my discussion. So have Merleau-Ponty’s ideas about how we coordinate our bodily behaviour and sensibility with those with whom we interact routinely, which has implications for how disoriented we feel after the death of someone we are close to.
+
+I have also been influenced in my thinking by ancient Chinese thinkers such as Zhuangzi and Xunzi, both of whom reflect on the death of loved ones.  Although they have different views on the value of funerals and other codified behaviour after the death of a loved one, both have insights on grief that I’ve found very useful. There are whole traditions beyond the European which can give us insight into life.
+
+**How does the experience of grief disrupt the bereaved individual's functioning in terms  of their body, but also their overall orientation to the world and others,?**
+
+The phenomenology of music depends in many ways on music’s bodily impact. Music addresses our aural, tactile, and motor systems all at once.  We track music much as we track our physical surroundings, and we easily compare our engagement with music with our explorations of the environment. Music enters our bodies through the ears and the skin, and we physically vibrate along with it.  We also entrain rhythmically to music and to everyone else who is doing the same.  Music connects us with the larger world and with each other, and this has an impact on our experience.  I would emphasize its power to connect us and to affect our orientation more than its disruptive character, although it does divert us from our inertial state before we start to perform or listen to it.
+
+\_\_\_
+
+Aesthetic concerns are also often trivialized by comparison with moral considerations.
+
+\_\_\_
+
+**I detect in your work a sense that music has failed to receive the attention it’s due as a philosophical concern, especially in connection to grief. Why do you think music’s role in this context hasn’t received enough attention?**
+
+In general, the role of the arts in dealing with grief has been underemphasized except when they are being discussed as practices in grief therapy.  Many people think of the arts and other aesthetic matters as relatively “light” concerns, while grief deals with something profoundly serious, the death of a loved one or some other profound loss.  So the connection between the arts and grief does not seem obvious.  Aesthetic concerns are also often trivialized by comparison with moral considerations.  Moral matters, which have to do with obligations that we’re bound by, are often contrasted with preferences that are “merely” aesthetic (although aesthetics is often involved in moral behaviour as well, such as treating someone with respect).  People who are grieving are typically concerned with “doing right by the dead,” a moral notion.  Although they also often consider what the deceased loved one would have liked when they plan a funeral or make other decisions after the death, this is rarely recognized as a matter of aesthetic taste.
+
+So the role the arts might play in connection with grief is rarely noticed.  Another reason music hasn’t been given the attention it deserves in this context is that when the relationship between music and emotion is considered, the focus is often placed on music’s relation to a particular, oven short-lived emotion (as in “sad music”).  True, some extended musical compositions reflect the experience in grief and the lyrics of shorter songs sometimes convey aspects of grief. But grief is necessarily an extended process that involves various emotional states, so while we can often characterize a piece of music as joyful, it is harder to make such a straightforward connection between a piece of music and grief.
+
+\_\_\_
+
+Music’s power to connect us with others and with the world in general is important, but not frequently noticed.
+
+\_\_\_
+
+Also some of the emotional power of music is not based on its reflecting or arousing particular types of emotions.  Music also provokes feelings of solidarity with other people who are performing or listening to it, and this can be emotionally affecting.  We can feel a special kind of connection with others who are tracking the very specific trajectory of a particular performance (either as performer or listeners).  In light of the isolation that commonly comes with grief, music’s power to connect us with others and with the world in general is important, but not frequently noticed.
+
+**You often talk about the interconnectedness of music and the human experience. And yet you have elsewhere suggested that emotions are in the world of the intangible, whereas you talk of the effects of grief on the body which appears to be a very palpable phenomenon. How do you see the gap being bridged?**
+
+Although some theorists have argued that music only mimics emotional behaviour, most think that it arouses emotions in listeners as well.  Very often when we listen to music, we respond to the emotions that we take the music to be expressing as though they were our own.  This makes us feel less isolated in our own emotions, since obviously someone else has had emotions similar to our own, judging from what they have expressed in the music.  This can be comforting in the context of grief, since it is easy to feel cut off from the rest of the world, which for the most part is oblivious to the loss.
+
+Another way that music can be emotionally powerful in connection with grief has to do with the way that grief disturbs our temporal impressions.  For many people who grieve, it is as though time has come to a stop.  Grieving individuals can see that others are moving along with social time as usual, but feel dissociated from the temporal flow themselves.  In fact, they are not eager to move along with the time of the social world, because doing so would make them feel farther and farther away from the deceased loved one.
+
+In this situation, music enables grieving people to participate in a temporal flow with others without engaging in practical projects that seem to distance them further and further from their deceased loved ones.  While engaged with music, we are involved in a temporality that is virtual, but nonetheless socially shared. Music can even make us feel connected with our deceased loved ones.  Because it is broadly directed outward, music seems to address the entire social world, not obviously excluding the dead.  And music that was shared with the person can also provide a point of contact with him or her.  I often feel close to my dad when I hear a recording of one of his favourite Big Band hits.  In general, pieces of music that have had staying power through time are part of the legacy that generations hand on to each other.  They remind us that those who have gone before us continue to be part of our lives.
+
+**How do you think music should be seen in the future as an area for philosophical discussion?**
+
+Music touches on numerous philosophical questions, and I think that future philosophical discussion will take up the many ways that music ties in with philosophical themes.  Considering music can add new dimensions to our thought about the interplay of the internal and the external, the way our senses work together as we navigate the world, the conditions for feeling free or inhibited as agents, and the connections between what is bodily and the spiritual. One of the most important ways that I think music may contribute to future philosophical discussion is by helping us recognize the ways in which we distribute our attention and the effect this has on our ability to act effectively. The unfolding of forms in music invites comparisons with other processes that develop. The shapely ways that change often occurs in musical developments can provide us with models for successfully negotiating the many, divergent demands on us that we have to juggle in our contemporary world.
+
+Reflecting on music ties in with the ideas of the thinkers mentioned earlier in numerous ways.  I read Nietzsche as emphasizing the importance of the present moment both as an occasion for reconsidering one’s course and for actualizing possibilities. His emphasis on the immediacy of music reflects these ideas and his enthusiasm for feeling fully alive. Merleau-Ponty’s emphasis on lived bodily experience and style helps illuminate the interplay of the body and the resounding environment in our experience of music. And although Heidegger does not much discuss music, he describes us as always being attuned to the world through some mood, an idea that is closely related to the way in which we attune ourselves to the music we hear, identifying with its movement and its emotional content.
+
+\_\_\_
+
+Philosophy is important because it is about life.
+
+\_\_\_
+
+***What do you most look forward to at HTLGI London 2023? Have you done similar public debates before? What do you think about the idea of bringing philosophy back out of the 'ivory towers' into the public square?***
+
+*I look forward to interacting with people who have ideas about things that I’ve thought about, but probably come to them from very different perspectives than I do.  I have done public debates and talks before, but not on the scale of HTLGI.  I think bringing philosophy into the public square is important.  Most people think about philosophical matters, but just don’t label what they think about as philosophy.  Philosophy is important because it is about life.  I rarely see a movie that doesn’t engage with philosophical concerns, and that convinces me that people are eager to explore philosophical ideas.  I greatly look forward to HTLGI London 2023.*

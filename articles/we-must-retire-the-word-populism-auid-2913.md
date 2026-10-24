@@ -1,0 +1,67 @@
+---
+title: "We must retire the word \"populism\""
+subtitle: "Criticism of populism diverts us from the real issues"
+author: "Benjamin Arditi"
+date: "7th August 2024"
+article_id: "2913"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,520 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/populism.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-must-retire-the-word-populism-auid-2913"
+---
+
+# We must retire the word "populism"
+
+*Criticism of populism diverts us from the real issues*
+
+**By Benjamin Arditi** | *7th August 2024* | *Read time: approx. 8 mins* | *1,520 words*
+
+![We must retire the word "populism"](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/populism.jpg)
+
+---
+
+*Populism, we’re often told, threatens democracy. But, argues Benjamin Arditi, the common understanding of populism as pitting righteous masses, led by a charismatic leader, against evil elites describes most emancipatory movements since the French Revolution – some of which promoted democracy. Criticising ‘populism’ is sometimes a way of criticising democracy or mass movements without admitting that this is what you’re doing. So instead of flinging about the ‘populist’ slur, we should be more precise and honest about what exactly it is that we object to.*
+
+Populism is a word blessed with academic muscle and street cred. Everyone uses it. But let me ask you two questions. First, can you explain what it means? You will probably say that populism is a moral view of politics that divides society into two camps, pitting the good people led by a messianic leader against the evil elites who stand in the way of fulfilling the promise of popular sovereignty.
+
+[![what is life](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/what-is-life.webp)
+
+SUGGESTED READING
+Did Schrödinger solve the mystery of life?
+By Samuel McKee](https://iai.tv/articles/did-schrodinger-solve-the-meaning-of-life-auid-2912)
+
+That would be the standard answer. It is so generic that it describes most emancipatory movements since the French Revolution, not to mention many far-right projects for radical change. All you need is an aggrieved party and its designated nemesis. Little changes if you replace the good people and the evil elites with something else. Make it the proletariat and the bourgeoisie, and the opposition becomes the Marxist struggle to end class rule. If it is colonial subjects rising against imperial powers, you have a struggle for national self-determination. If it is proponents of [White Lives Matter](https://www.aljazeera.com/features/2016/10/3/white-lives-matter-a-new-us-hate-group-shows-its-face) or [the Great Replacement](https://www.nytimes.com/2022/05/15/us/replacement-theory-shooting-tucker-carlson.html) (the belief in a gradual, planned genocide of the native population through replacement by immigration) fighting back against Blacks, Jews, Muslims, or simply non-Caucasian and non-Christian immigrants, you get one variety or another of white supremacists.
+
+\_\_\_
+
+Calling far-right parties populist tells us little about them.
+
+\_\_\_
+
+Class struggle, national liberation, and the far-right’s distorted interpretation of identity politics fueled by resentment and paranoia then become species of the genus populism. Strong leaders like Lenin, Mandela, Patrice Lumumba, Fidel Castro, and Donald Trump would be the archetypical messianic leaders of populist movements. This resembles Ernesto Laclau’s view of populism as the general formula for (radical) politics. In his book [*On Populist Reason*](https://www.versobooks.com/en-gb/products/1941-on-populist-reason), he said that “Populism means putting into question the institutional order by constructing an underdog as a historical agent … But this is the same as politics,” and he reinforced this in an article published almost simultaneously by declaring that “there is no political intervention which is not populistic to some extent.” Name your underdog, define your opponent, rally around a leader, and you are well within the territory of populism. But if it overlaps with politics, why bother explaining populism? Just talk about politics and be done with it.
+
+My second question is whether there is any added value in adjectivizing a political group, a policy, or a decision as populist. I don’t see any. Calling far-right parties populist tells us little about them. I can understand them better by saying, for example, that they have little regard for critical media and the right to demonstrate without protesters risking physical harm. It’s also helpful to point to what Ruth Wodak calls [the normalization of shamelessness](https://uk.sagepub.com/en-gb/eur/the-politics-of-fear/book265617) in public discourse. By this, she means that political debate has come to resemble reality TV, where participants humiliate each other, lie about their track records, and keep a straight face while inventing facts. Wodak illustrates this in [a study of the Austrian far right](https://journals.sagepub.com/doi/10.1177/09579265221095419), but her argument applies to mainstream conservative parties in other European countries, the United States, and Brazil. Mainstream conservative parties have reinvented themselves so much along these lines that it is hard to tell them apart from their cousins from the far right when examining the speeches, policy positions, and interviews with participating delegates at their conventions. The same is true of the way they campaign and govern. Saying they are populist doesn’t add any helpful information for figuring out the various shades of the right.
+
+So, let me suggest three provocations to shake the comfort zone of those who confidently cry “populism!” when prompted by the Pavlovian behavioral bells of the people, elites, strong leaders, and polarizing discourse. Think of these provocations as (metaphorically) taking the safety pin off a hand grenade and tossing it into a room full of politicians, influencers, academics, and people from various walks of life talking about populism to see how they react. I’m partial to provocations two and three.
+
+My first provocation is that while populism worked for a while (see provocation three below), it has outlived its usefulness, even though the [Cambridge English Dictionary declared it the word of the year for 2017](https://dictionaryblog.cambridge.org/2017/11/29/cambridge-dictionarys-word-of-the-year-2017/). Popularity is no guarantee of usefulness. Much has been written about populism over the past half-century without delivering a satisfactory shared definition. We could go all Humpty Dumpty and say that the word “means just what I choose it to mean—neither more nor less,” but then, what’s the point in describing language as a social construction? Retiring the word “populism” is not an extravagant gesture. We’ve dropped many words and ideas before. We stopped saying groovy and calling women birds. The few who still believe in the divine right of a monarch to rule speak from the fringes of public opinion. Why not accept that populism has passed its use-by date too?
+
+\_\_\_
+
+Think of it as a relay race of insults: democracy has passed the baton of contempt to populism.
+
+\_\_\_
+
+The second provocation is for those who believe it is premature to abandon the idea of populism: do as most people do and use it as a word of derision. *Accuse* someone of being a populist and dismiss a political party, a decision, or a policy as populist. Sometimes, it may be because they are embarrassed to say people with poor political table manners are unfit for public office. Calling them populists provides some cover for their prejudices. Jacques Rancière reminds us that in ancient Greece, “democracy” was “used as an insult by those who saw in the unnamable government of the multitude the ruin of any legitimate order. It remained synonymous with abomination for everyone who thought that power fell by rights to those whose birth had predestined them to it or whose capabilities called them to it.” Democrats were those with neither the wealth nor the excellence of others. They were nobodies. Think of it as a relay race of insults: democracy has passed the baton of contempt to populism.
+
+My third and final provocation is that if the previous ones don’t work for you, then keep talking about populism, but as something that happened around the middle of the twentieth century, mainly in Latin America. This requires some contextualization. People speak of four waves of populism. It all starts with the classical populism of the 1940s and 1950s. The archetype is Juan Perón in Argentina, whose government built a network of social security institutions, empowered trade unions, increased wages as a percentage of GDP partly by ignoring sound monetary policy, had a tactical anti-imperialist discourse, and developed a top-down model of democracy in which Perón was the undisputed political broker. In the eyes of the underclasses, he and his wife Evita were rock stars, while to the oligarchic establishment, they were merely opportunistic political entrepreneurs.
+
+Then came the massive U-turn of neo-populism or neoliberal populism of the 1980s and 1990s, as exemplified by Alberto Fujimori in Peru and Carlos Menem in Argentina. They embraced the [Washington Consensus](https://www.britannica.com/money/Washington-consensus), balanced the books by privatizing state enterprises and cutting social spending instead of raising taxes, and liberalized financial and labor markets. A third wave in the 2000s has been characterized as left-wing populism. The standard-bearers were Hugo Chávez of Venezuela and others who used the boom in commodity prices to redistribute wealth to the poor and the indigenous people and empower them, mainly through top-down participatory mechanisms. Finally, there’s the contemporary wave of right-wing populism. Trump is often mentioned as an example. He is a pathological narcissist surrounded by sycophantic aides and followers who remade the Republican party around his persona. Republicans now show a cavalier attitude toward the checks and balances dear to constitutional liberalism, define immigration as the greatest threat to the country, see the media critical of their policies as enemies of the people, and claim to be the voice of the underclasses while advocating tax cuts for the rich and slashing spending on social services.
+
+What do these four waves have in common? Strong leaders, perhaps, and sometimes opportunism, but not much else. Their policies are so different that any family resemblance between them is too tenuous to call them all populist. If there is such a thing as populism, it coincides with the glory days of the first wave of classical populism, so let’s drop the “classical” qualifier and call it populism, period. What came later was something else.
+
+You may find these provocations unworthy of serious consideration. Perhaps you are right, but they are what they are: provocations that invite us to turn off the autopilot that invokes populism whenever we encounter the familiar combination of anti-establishment discourse, the celebration of the people, and a polarizing discourse.

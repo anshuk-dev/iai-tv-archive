@@ -1,0 +1,85 @@
+---
+title: "Reality is not revealed by quantum mechanics"
+subtitle: "The very small is not fundamental"
+author: "Peter West"
+date: "19th June 2023"
+article_id: "2512"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,765 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-mechanicswk394y.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/reality-is-not-revealed-by-quantum-mechanics-auid-2512"
+---
+
+# Reality is not revealed by quantum mechanics
+
+*The very small is not fundamental*
+
+**By Peter West** | *19th June 2023* | *Read time: approx. 9 mins* | *1,765 words*
+
+![Reality is not revealed by quantum mechanics](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-mechanicswk394y.webp)
+
+---
+
+*The craze with all things quantum is not just because of its inherent weirdness. It’s motivated by a reductionist impulse that has been animating science from Robert Hooke in the 17th century to Stephen Hawking in the 21st. The idea that we can discover the fundamental level of reality might be alluring, but it’s based on a faulty philosophy, not science, writes Peter West.*
+
+The idea that reality is reducible to its most fundamental parts still animates much of science, particularly physics and philosophy. The craze with all things quantum is partly animated by this thought: understand quantum mechanics, the way that matter behaves at the smallest level known to us, and you’ve understood everything. But this philosophical impulse - because contrary to belief, it’s not scientific - that the microscopic holds the key to the secrets of the universe, is much older than quantum mechanics. It goes back at least all the way to the 17th century and the invention of the microscope. Some of the best critiques of reductionism also date from the same century: Size doesn’t matter, the very small is just one realm of reality among many, with no special privilege.
+
+In 1665, three years after the end of the English Civil War and a year before the Great Fire of London, a book called Micrographia was published. The author was Robert Hooke, a founding member of the Royal Society (itself founded in 1660), and the full title of the text was Micrographia: or Some Physiological Descriptions of Minute Bodies made by Magnifying Glasses with Observations and Inquiries thereupon. Hooke was at the cutting edge of ‘experimental philosophy’; a movement that set the stage for modern science as we now know it, and which took inspiration from the empirical philosophies of figures like Francis Bacon and Aristotle, as opposed to the kind of a priori, ‘armchair’ reasoning about nature endorsed by the likes of René Descartes, Baruch Spinoza, and Plato.
+
+[![Bells theorem and the Nobel Prize min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Bells-theorem-and-the-Nobel-Prize-min.webp)
+
+SUGGESTED READING
+What the Nobel prize gets wrong about quantum mechanics
+By](https://iai.tv/articles/einstein-god-and-spooky-action-at-a-distance-auid-2255)
+
+Hooke’s aims were simple: show to the world, through illustrations and accompanying passages of text, what ordinary objects like poppy seeds, drawing pins, and various insects look like through a microscope. According to Hooke, microscopes, like telescopes, put us on the cusp of doing what philosophers from Antiquity onwards had always tried to do, namely, understand the fundamental nature of reality. In fact, the invention of the microscope was all part of God’s plan for us. Finally, we had reached the point where, thanks to the ingenuity and intellect bestowed upon us by the Creator, we could enhance and augment our own sensory organs. Microscopes played their part in this by allowing us to improve our insight exponentially and thereby, in principle, see what the world is really like.
+
+\_\_\_
+
+Have 21st century scientists and philosophers really moved beyond the idea that with the right scientific equipment we can ‘discover’ what the world around us is really like?
+
+\_\_\_
+
+Even today, Micrographia is an amazing text. Despite his scientific aims, there’s something alluringly imaginative about Hooke’s drawings (they are reminiscent of early attempts to visualise dinosaurs based on fossil findings such as the (in)famous dinosaur sculptures in Crystal Palace Park in London). It was also a hugely significant text. Its aims and impact may seem modest now, after all, we have a good idea (or at least think we do) of what very small objects really look like. We grow up learning that even atoms are composed of smaller entities like a nucleus, electrons, protons, and neutrons.
+
+However, prior to the dawn of the microscope, observations and speculations about what the world around us is really like were if not confined to then certainly limited by what the naked eye could observe. Ancient Greeks may have postulated that nature is composed of fundamental elements, but these elements, with the exception of the atomism of Democritus, which was an early form of corpuscularianism, were typically understood in terms of phenomena observable to the senses: fire, water, fire, and earth. The microscope, in contrast, paved the way for a more reductionist account of the fundamental parts of nature. ‘Corpuscularianism’, defended by Hooke (and other prominent figures like John Locke), was the view that all that really exists are ‘corpuscles’; microscopic, physical particle-like entities which are moved around in the void (by one another, much like dominoes), their collisions ultimately explaining the phenomena we experience on an everyday level. Defenders of this theory hypothesised that one day we would invent microscopes capable of seeing these corpuscles.
+
+Beyond the academy, the cultural impact of Micrographia was also significant. Ordinary people were suddenly confronted with the reality that there was another world quite literally beneath their feet or under their noses, that they were previously completely unaware of. Hooke’s illustrations of insects, as seen through the lens of his microscope, caused much discussion and even distress. In her own commentary on Hooke’s findings, the philosopher, playwright, novelist, and poet, Margaret Cavendish, noted that Hooke’s drawings turned insignificant creatures like woodlouse and bed lice into horrifying monsters. It is no surprise that, for some readers, the news that such creatures were living in their bedsheets was alarming.
+
+[![George Ellis 40](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/George-Ellis-40.webp)
+
+SUGGESTED READING
+Science, Magic, and the Inexplicable
+By George Ellis](https://iai.tv/articles/science-magic-and-the-inexplicable-auid-598)
+
+When I teach my undergraduate students about Hooke’s Micrographia and show them the original text with its enormous fold-out drawings of giant bugs, I suggest that its publication was what we might call a ‘glass-shattering’ moment, more formally known a paradigm shift: The kind of burst of new information that a culture or society cannot go back from but must learn to digest and incorporate into its worldview. This year, I took some students to the British Library in London to see a first edition of Micrographia (thanks to the BL for letting us pretend to be seventeenth-century readers of Hooke) at around the same time as the release of the third Ant-Man film. The film takes place almost entirely in something called ‘the quantum realm’, a plane of reality reached by the film’s protagonists by shrinking themselves down beyond the size of even things perceivable using a microscope.
+
+The timing was a coincidence, but the juxtaposition of Hooke’s text along with the release of this film prompted me to think about how the quantum realm plays something like the role that the microscopic world played in the ideas of Hooke and his readers. It also made me wonder: Have 21st century scientists and philosophers really moved beyond the idea that with the right scientific equipment we can ‘discover’ what the world around us is really like? Or are they still hostage to the thought that looking ‘downwards’ at the smallest possible parts of reality is the key to uncovering reality.
+
+Many scientists and philosophers engaged in attempts to understand the fundamental nature of reality today do so within a ‘physicalist’ paradigm. Physicalism typically involves a methodological commitment to the view that, whatever the final, accurate description of reality looks like, it will be set out in terms of physical entities: things with properties like mass and velocity. And if anti-physicalist thinkers, such as the philosopher Philip Goff, are to be believed, this is a worldview that inherited from thinkers roughly contemporaneous to Hooke, such as early scientists (in the sense that we would use the term) like Galileo Galilei.
+
+Three years after the publication of Micrographia, Margaret Cavendish wrote a commentary on the new experimental method, entitled Observations upon Experimental Philosophy. There, Cavendish challenges the idea that eventually instruments like the microscope will allow us to literally see the fundamental constituents of reality. In her view, nature is infinite and vast, and will inevitably, no matter how far ‘down’ we go, hide something from us. To some extent, Cavendish’s scepticism about the potential of microscopes (or other such instruments) has been born out. Just when experimental philosophers thought they had things worked out, another paradigm shift – motivated by new and conflicting experimental findings – took place.
+
+The microscopic realm, once thought of as the bottom-most later of reality, has been replaced by the quantum realm; and the quantum does not succumb to human observation. Indeed, the more of it we observe, the less we seem to understand it; for the quantum realm is, or seems to be, observer-dependent. And yet, the quest to identify a ‘base layer’ that the world around us is reducible to doesn’t seem to have been given up.
+
+\_\_\_
+
+According to Hooke, microscopes, like telescopes, put us on the cusp of doing what philosophers from Antiquity onwards had always tried to do, namely, understand the fundamental nature of reality.
+
+\_\_\_
+
+Twentieth and twenty-first century thinkers, like Stephen Hawking, persisted with the idea that the world around is reducible to something. Hawking prophesised that the time for philosophy - typically characterised as a priori speculation about the nature of reality - will soon be over and the inner workings of the world around us will be revealed by some kind of scientific development. But as philosophers of science are keen to emphasise, this claim is itself a philosophical commitment. Indeed, it is a commitment that Cavendish identified in the work of her own contemporaries, like Hooke, and one which she too identified as philosophical. Scientific instruments do not inform us that reality is reducible to some ‘other world’ beneath our feet, be it microscopic or quantum. That is a commitment that the person using the instrument brings to the table.
+
+[![21 08 25.Is einstein still right](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-08-25.Is-einstein-still-right.webp)
+
+SUGGESTED READING
+Is Einstein still right?
+By Clifford Will](https://iai.tv/articles/is-einstein-still-right-auid-1868)
+
+Given that we seem to be no closer to ‘seeing the world as it really is’ than Hooke and his contemporaries, perhaps it is time to give up on the idea that reality can be reduced down to either a microscopic or a quantum world. The twentieth century pragmatist Wilfred Sellars introduced the idea of the ‘manifest’ and the ‘scientific image’; two perspectives on the world (the former being the perspective of common sense, and the latter the world as described by the sciences) which need not give way to one another. Sellars denied that the manifest image was reducible to the scientific image. Instead, they are simply different frames of reference; the truth of certain claims (like ‘the table in front of me is a solid object’) vary depending on the frame of reference in which they are uttered.
+
+Perhaps, in the vein of Sellars, we should stop looking for a world that we can reduce everything else down to. And perhaps, in the vein of Cavendish, we should accept that nature, or reality, is a complex, multifaceted entity and that the best we can hope for is to establish domains of inquiry (microscopy, quantum physics) that can reveal to us aspects of that multifaced whole but do (and could not) not hold the key to understanding it all at once.

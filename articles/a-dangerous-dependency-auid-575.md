@@ -1,0 +1,77 @@
+---
+title: "A Dangerous Dependency"
+subtitle: "Does victory for radical Labour leader Jeremy Corbyn signify a wider rejection of expertise?"
+author: "Norman Lamont"
+date: "Issue 37, 26th September 2015"
+article_id: "575"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,851 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Dangerous-Dependency.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-dangerous-dependency-auid-575"
+---
+
+# A Dangerous Dependency
+
+*Does victory for radical Labour leader Jeremy Corbyn signify a wider rejection of expertise?*
+
+**By Norman Lamont** | *Issue 37, 26th September 2015* | *Read time: approx. 9 mins* | *1,851 words*
+
+![A Dangerous Dependency](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Dangerous-Dependency.webp)
+
+---
+
+We rely on experts in every field. Yet from economists to climate scientists they hold wildly disparate views. Might the very idea of objective knowledge be illusory and expertise be a form of institutional power? If we were more sceptical would it lead to democracy or bring chaos?
+
+Norman Lamont was Chancellor of the Exchequer under Major and Chief Secretary to the Treasury under Margaret Thatcher. He is now President of the Economic Research Council. Here he speaks to the IAI about the role of the expert in a democracy, the future of the Eurozone, and why Jeremy Corbyn has proved so popular with disillusioned voters.
+
+**What is the role of the expert in today’s society?**
+
+Experts in society and experts in government are different things. Experts in society will give their conclusions and inform a debate. Frequently an expert’s word would be taken as true. But in policy one has to be more precise. The expert will give his or her opinion but it is up to the political master, the government, to test that opinion. There may of course be conflicting expert opinions and it is the function of the minister to evaluate and test those opinions. He may have to weigh the costs of particular advice against issues in other areas so the politician has to make judgements sometimes between different experts.
+
+**On what criteria do politicians make those judgements?**
+
+Firstly, they have to use common sense. Take the issue of climate change, for example. I’m not advocating one position or another, but obviously getting rid of fossil fuels can impose certain costs and enormous change on society. One has to look at what those costs are, look at what other countries are doing. Does this leave Britain or Europe at a relative disadvantage compared with the United States? These are some of the questions. The views of the scientist claiming that this will happen if you don’t curb fossil fuels now have to be balanced against the considerations of employment and whether we’re acting on our own or with support of other countries.
+
+**Despite being a former Chancellor yourself, you spoke candidly in the [debate with Matthew Parris and Edward Mortimer](http://iai.tv/video/expert-lies) about how the idea of an economic expert is something of a contradiction in terms; that the economic forecasts the chancellor is legally obliged to produce in the budget are invariably inaccurate. So how then can we advocate a certain economic policy over another?**
+
+One has to distinguish between an expert and a forecaster. Not all experts are forecasters. What I was being sceptical about was economic forecasting. I think it’s the beginning of wisdom to realise that nobody can foresee the future precisely. The unexpected always happens. History is a series of unexpected events, all of which appear inevitable with hindsight. Most forecasts are done on the basis of an extrapolation from the present, but of course the moment you begin to extrapolate is probably the point at which the trend reverses itself.
+
+There are other forms of economic expertise other than forecasting; economics is not just about forecasting. You ask the question, how can we have a sensible policy if we can’t forecast the future? Well we can make stylised assumptions about the future. We can just assume, although we know it may be wrong, that unemployment will stay at a particular level and the consequences will possibly be x, y or z. But the basic rules you can observe involve things like running a balanced budget over a whole economic cycle. That is something you can do year by year. It doesn’t require trying to forecast what will happen five years hence.
+
+**A widely acknowledged role of the expert is to act as a check against despotism, to ensure some rationalism in policy debate, holding the decisions of politicians to account against a particular evidence-based framework. With that in mind, is there a danger in allowing politicians to ignore the advice of experts altogether?**
+
+I don’t think that’s a correct assumption. I don’t see the role of the expert as combating the despot. An expert might well go along paths that contradict what people would call natural human rights. I dare say some of the people who advised Hitler were experts. If you say decisions should be evidence-based, I agree with that. But evidence also has to be balanced against values and the protection of people. So I don’t see the expert as a restraint on despotism per say; he’s just part of the necessity of basing decisions rationally and on evidence.
+
+**How can we strike a balance between the technocratic idea of rational governments with all decision-making based on evidence and a more idealistic conception of politics based on ideas and values?**
+
+Whatever the experts may think, a politician will have to take account of public opinion. Sometimes public opinion will have a very strong view, and sometimes there is a limit beyond which public opinion can’t be pushed. Of course we don’t want to live with the tyranny of the majority; that’s one danger. But equally one can just have technocrats overruling the majority, particularly when the majority, let us say, as in the case of Greece within the Eurozone, are saying that the costs that they’ve had to bear are just far too great, and enough is enough. To ignore that is to run very considerable dangers of fermenting more extremism.
+
+**Experts can often come with a particular set of ideas informing the advice they offer and so we should be sceptical of who is funding the experts and what their interest may be. Are there any vested interests whose influence over expertise particularly concerns you at the moment?**
+
+With the EU referendum coming up it’s quite obvious that there are many so-called think tanks which actually receive quite a lot of funding from European Union sources. Equally we have academics who give us their opinions about European integration when they sit in the Jean Monnet chair professorship. I think there are always issues of this kind in politics, but I think the debate on the European Union is particularly influenced by the European Union funding.
+
+**A major criticism from left and right, as your friendship with Yanis Varoufakis attests to, is that when Europe moves beyond being either a simple common market or a monetary union, it takes on an element of undemocratic technocratic rule. In light of enforcing an arguably unfeasible memorandum on Greece and its people, does this seem like a reasonable critique?**
+
+Europe tends to like purely technocratic government. It was very happy when Mr Monti was prime minister of Italy – I’m not saying that he wasn’t a very good prime minister but he was not elected, he was chosen really by the establishment in Brussels. Equally the Brussels establishment for a long time didn’t really like Mr Tsipras and were rather keen to get him replaced by another government.
+
+I think it’s inherent in the integrationist model of Europe that you have highly intelligent, no doubt honourably motivated people, who are so dedicated to an idea and see intellectual arguments for it but all the time are operating in defiance of public opinion. This has been illustrated many times by the insistence of the European Union that when voters have rejected a treaty they must reconsider it and vote again until they get the right answer. I fear that the apparatus that will be necessary to support the Euro will lead to more and more of this happening and less and less ability of voters to influence outcomes, which, in the long run, is a real problem for the Eurozone.
+
+**Do you think Europe does have a future? Is it too early to pick a likely winner in the referendum?**
+
+I think it is too early to say. Polls indicate that people will vote to stay in Europe, which in one sense is very odd because we have just lived through a period of tremendous crisis in Europe. The Eurozone crisis appears to be passing at least for the moment, but now we have the migrant refugee crisis. It is odd that at the moment when Europe appears at its most uncertain, support in this country has gone up. Perhaps crises evoke support, I don’t know.
+
+The great problem for Europe in the long run is that of reconciling integrationist measures with national parliaments and national elections. For Britain, outside the Eurozone, this dilemma is not so great because Europe is interfering with us much less than it does with countries inside the Eurozone: countries inside the Eurozone are going to face more and more dictats from the centre which are unalterable. One of the reasons Mr Varoufakis and the rest of the Eurozone ministers did not get on very well was because they were talking completely at cross purposes. As I read it, Mr Varoufakis was saying that these rules ought to be changed and our electorate has given us a mandate to change these rules. But the rest of the European Union was saying that these are the rules and no-one has any right to change them. That is a real dilemma. At some point I think there will be an explosion.
+
+**Finally, there’s arguably a trend growing in our society of derision for the perceived Westminster bubble.  For example, the recent election of Jeremy Corbyn as leader of the Labour Party. Would you see this as part of a wider reaction against expertise?**
+
+On the one hand I would say quite the opposite. Look at how the media dig out experts to stage a debate. You see it every night on Newsnight. But there is a certain amount of derision for people who have no expertise of any kind and call themselves policy wonks. I’m not saying they’re all like that but there are an awful lot of bag carriers around who, as soon as they’ve spent eighteen months in Whitehall, start writing newspaper articles just on the basis they once wrote speeches for somebody. There remains a proper regard for experts, but there are a lot of people who pretend to be experts who have no real expertise.
+
+With regards to Jeremy Corbyn, a great weakness of the critiques against him has been that they have been couched in terms of “you can’t win an election” rather than being couched in terms of “is it right or is it wrong?” Such criticisms are fudging the question between right and wrong, and simply arguing about electability. The implication is: “I half agree with you but we’ve had to depart from the true path in order to win the elections.”
+
+Jeremy Corbyn is very interesting. Partly because all the other candidates in the Labour party were just fudging their positions, giving this nuance, that nuance, whereas Corbyn is speaking in a very simple way and I think that is very refreshing for many people.
+
+Some of the old arguments are going to have to be re-argued again and again and again. In the end, I do obviously think Corbyn’s policies would be very bad for this country but I can understand why they appear fresh and novel to some people.

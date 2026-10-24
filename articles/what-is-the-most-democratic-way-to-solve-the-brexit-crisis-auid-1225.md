@@ -1,0 +1,181 @@
+---
+title: "Twelve Philosophers and Thinkers on Brexit"
+subtitle: "What is the most democratic way to resolve Brexit?"
+author: "IAI Editorial"
+date: "2nd April 2019"
+article_id: "1225"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "3,602 words"
+read_time: "Read time: approx. 18 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Philosophers-on-Brexit2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/what-is-the-most-democratic-way-to-solve-the-brexit-crisis-auid-1225"
+---
+
+# Twelve Philosophers and Thinkers on Brexit
+
+*What is the most democratic way to resolve Brexit?*
+
+**By IAI Editorial** | *2nd April 2019* | *Read time: approx. 18 mins* | *3,602 words*
+
+![Twelve Philosophers and Thinkers on Brexit](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Philosophers-on-Brexit2.webp)
+
+---
+
+*It’s not because we believe in philosopher-kings that we’ve asked thinkers – from philosophers to law professors – what is the democratic solution to the Brexit impasse. Rather, it’s because Brexit has challenged representative democracy as we’ve known it, antagonising the government and the electorate, and dividing parties to an unprecedented level. This is not an article arguing for Remaining or Leaving – although the majority (but not all) of the thinkers below argue for a second referendum. Still, this is a piece about the constructive and democratic way out of a paralysing crisis. To get the answers to this question, we went to those who have studied political ideas, their power, their limitations and the history of their abuses. The responses vary, and they are deeply entrenched in the current political climate, refuting the myth that philosophy and academia are far removed from the 'real' life. In times of crisis, we are all part of the political turmoil, and at its mercy.*
+
+\_\_\_
+
+Quentin Skinner
+
+\_\_\_
+
+*Quentin Skinner is one of the founders of the Cambridge school of the history of political thought, and author of 'Vision of Politics'.*
+
+To answer the question, it seems to me, we first need to recall two principles of our political system.  One is that we operate not a direct but a representative form of democracy.  The other is that MPs are not delegates; they are not elected to do whatever their constituents ask, but rather to deliberate together with the aim of arriving at policies that serve the common good.  Under this system, the only democratic way to solve the Brexit crisis is for the House of Commons to discover what proposed solution commands a majority in the House.  Since the Prime Minister has been negotiating while leading a party that lacks such a majority, it is arguable that this was at all times the only proper way to proceed.  Given, however, that the process began with a Referendum, this procedure cannot be enough.  For full legitimacy, Parliament would then need to put its proposal to the people.  The question on the ballot paper would have to ask whether the electorate wishes to endorse Parliament’s plan, or prefers the country to remain in the European Union.  It is of course possible that Parliament will find itself unable to agree on any proposed solution at all.  But if it fails in this way, then there will be no alternative but to leave it to the people to decide.
+
+\_\_\_
+
+Katherine Hawley
+
+\_\_\_
+
+*Katherine Hawley is the author of 'Trust: A Very Short Introduction', and Professor of Philosophy at the University of Saint Andrews.*
+
+29th March 2019: Liam Fox warns that failure to leave the EU will create a ‘chasm of distrust’ between voters and the political system.  The same message is central to Theresa May’s pleas on behalf of her doomed deal: abandoning Brexit would be ‘a catastrophic and unforgivable breach of trust in our democracy’.  Parliament asked the people for instructions; the people spoke; now Parliament must act, or forever forfeit the people’s trust.
+
+This urgent concern with public trust comes very late in the day.  Politicians were among the least trusted professionals even before 2016.  And however this sorry story ends, the chaos, cowardice and careerism displayed in Westminster since 2016 will linger in the collective memory for decades.  Trust is earned by demonstrating trustworthiness, and this demands both competence and moral discipline.
+
+Post-referendum politics has been worse than we could have imagined.  But the referendum itself made a breach of trust inevitable. Trustworthiness means keeping promises; crucially, this requires caution and clarity when making promises in the first place. Yet there was only a tenuous connection between the people making pre-referendum pledges, and the people and institutions who would be tasked with fulfilling those promises after June 2016.  Leave campaigners had no incentive to be either cautious or clear, since they would not be responsible for the implementation which was recklessly guaranteed by the government booklet sent to every household.
+
+Can anything now be done to mitigate the damage?  The current chaos makes simply abandoning Brexit too risky: it is just not credible that politicians have done their selfless, cross-party best to ‘deliver’.  But equally Parliament must not accede to a disaster capitalism Brexit.  In a representative democracy, respecting the outcome of the referendum means acknowledging the result but also the narrowness of the margin.
+
+\_\_\_
+
+A.C. Grayling
+
+\_\_\_
+
+*A. C. Grayling is the author of 'Democracy and Its Crisis' and Master of the New College of the Humanities in London.*
+
+Without question, the most democratic way to solve the Brexit crisis — indeed, the only democratic way — is to put the question to the public in a referendum, in this or some other wording acceptable to the electoral Commission as clear and unequivocal:  'Should a Brexit process continue or should the UK remain in the EU?' A delay to the 'exit date' would be required, sufficiently long for a referendum to be organised, probably in the region of 6-9 months.
+
+Any other way forward, either a revocation of Article 50 without a following referendum, or a continuation of the Brexit process without reverting to the public now that matters are so different from the vague outlines of a Brexit proposal in 2016 and with the public now knowing so much more about the implications, would be wholly undemocratic. Moreover, everyone with a material interest in the outcome of this better-informed referendum should have a voice in it: not just the restricted 2016 constituency of voters, but 16-17 year olds, UK expatriates of more than 15 years standing, and citizens of fellow EU countries who pay their taxes in the UK and have vested interests here (e.g. married to UK citizens, children born in the UK, running businesses here).
+
+Referendums are not appropriate for representative democracies, but matters have reached such a pass in the UK that the only way out of the debacle caused by the 2016 referendum is a further referendum predicated on all that has been learned since.
+
+\_\_\_
+
+Peter Ramsay
+
+\_\_\_
+
+*Peter Ramsay is a Professor of Law at London School of Economics.*
+
+The democratic way to solve the Brexit crisis is for the UK to leave the European Union on 12 April. This would ensure that parliament fulfilled the promises made in the manifestos of 85 per cent of MPs in the 2017 election. Britain can leave the EU under the terms of the Withdrawal Agreement made between the British government and the EU, or it can simply leave. The latter is the more democratic of the two options in so far as it ensures that elected representatives of the British people will have much greater control over law-making than they will under the terms of the Withdrawal Agreement. 
+
+The Withdrawal Agreement is very poor from the point of view of democratic control over law-making. It is not, however, as nakedly anti-democratic as a second referendum or revocation of Article 50. Both of these options amount to parliament openly reneging on its commitment to implement the result of the 2016 referendum. By failing to take either referendum majorities or key election promises seriously, both options discount the votes not only of the Leave majority, but of all voters. Either of these options would fatally damage parliament’s already weak political authority. 
+
+The inability of the British political class and civil service to negotiate seriously with the EU has been plain for all to see over the past three years. The current ‘crisis’ has been manufactured by an overwhelmingly pro-EU elite, creating a fearful climate in which majority opinion might be shifted towards a second vote or revocation. This ‘crisis’ is a continuation of the establishment’s Project Fear, which failed to convince the electorate in 2016. The politics of fear have always been the politics of authoritarianism, and the enemy of democracy. The democratic solution is to reject fear and Leave.
+
+\_\_\_
+
+Rae Langton
+
+\_\_\_
+
+*Rae Langton is a Knightbridge Professor of Philosophy at the University of Cambridge who has worked on the Leveson inquiry.*
+
+Brexit. It’s tempting to say that never, in the field of human conflict, has so much been said about democracy, by so many, for so few reasons.
+
+Democracy needs real choices, not fantasies. Democracy needs knowledge. We vote in the light of what we know, and this changes over time. Democracy does not mean insisting on a past ‘choice’, tainted by lies, manipulation, and ignorance, when what we have learned in the meantime makes a difference. That would be like a doctor who insists on a life-threatening amputation, when we had agreed to a minor procedure. Given the unanticipated threat to the Union — the Irish border problem, Scotland’s commitment to the EU — an amputation is no bad analogy. That is not what was asked for, or promised.
+
+Second, we need deliberation and consensus building, not adversarial combat. Democracy needs politicians who put the interests of the country first. We need a bipartisan solution, which takes hard work and co-operation of a kind that should have begun years ago. We need more time.
+
+Third, we are a representative, not a direct, democracy. From that viewpoint, there is something bizarre about the Brexit process: the dogged pursuit of a fate which most of those in government thought would be bad for the country. We need responsible leadership. The role for referenda is advisory.
+
+These are different reasons, but they all speak in favour of revoking Article 50. This would gain time for bipartisan deliberation, no strings attached, for a solution that commands broad support. And it could be followed by an advisory referendum. Democracy is fragile, but it needs real deliberation, leadership, and choice — not fantasies about Brexit, and not fantasies about democracy either.
+
+\_\_\_
+
+Richard Tuck
+
+\_\_\_
+
+*Richard Tuck is a political theorist and historian of political thought. He is Frank G. Thomson Professor of Government at Harvard University, and author of 'The Sleeping Sovereign: The Invention of Modern Democracy'.*
+
+Once the serious possibility of a second referendum was raised by the EU’s supporters, the EU had no incentive to agree to any reasonable deal, since the best way of getting a referendum would be to make the process of leaving formidably difficult.  In an article for the Daily Telegraph last year Tony Blair gave the game away.
+
+*'The people need to tell us: in the light of all we now know, and two years of hideously complex and tangled negotiation, what do you want to do?  Do you want to go forward with Brexit ? in which case it is true Brexit you will get with a Prime Minister who believes in it. Or do you want to stay in Europe, and I would hope with a new European offer to the British people.  Both sides would accept the outcome is final at least for a generation.  I for one, if we vote again for Brexit, would get behind it and do everything I could to make a success of a new future for Britain.'*
+
+The natural question to put to Blair is, if you would accept the result of the second referendum, why not accept the result of the first?  And his only answer is, we did not know in 2016 what we know now.  But what we “know” has been created by the EU in the hope that we will be driven by it into another referendum.  The “facts”are actually artefacts.  If people like Blair had said on the morning of 24th June 2016 “I for one will get behind Brexit”, would the EU have made the process of leaving so impossible?  The phrase “all we now know” is profoundly deceptive, and should not lead us to abandon the original referendum result.   
+
+\_\_\_
+
+Robert B. Talisse
+
+\_\_\_
+
+*Robert B. Talisse is the author of 'Democracy and Moral Conflict', and 'Democracy After Liberalism: Pragmatism and Deliberative Politics'.*
+
+Even in the abstract, referenda are democratically tricky.  On the one hand, it is essential to democracy that certain kinds of questions be decided by more-or-less direct popular vote, rather than by elected officials.  On the other hand, the issues put to a referendum are often complex, and so formulating a responsible judgment with respect to them typically requires more information and expertise than is common among citizens.  Thus, when applied in concrete cases, referenda go beyond being tricky -- they present a problem for democracy.  In order for a popular vote to settle a question democratically, its outcome must represent a collective judgment.  However, if a popular vote is to represent a collective judgment, there must be, prior to voting, a shared understanding among the voters of the question and the various proposals under consideration.  When interpretations of these matters differ radically among the citizens, the outcome of a popular vote is close to meaningless.  Accordingly, democratic theorists tend to argue that a properly democratic referendum process must include, prior to the vote, open processes of deliberation and discussion; such processes are necessary for the formation of an adequate public understanding of the issue to be decided.  The Brexit referendum occurred in the wake of a massive persuasion campaign that served to confuse, distort, and misdirect the public.  And so the Brexit vote was taken in the absence of a shared sense of what, exactly, the Brexit proposal is.  It is only in the course of trying to hammer out a definite Brexit plan that the citizenry has come to see what Brexit means.  And with that new understanding, opinions about the desirability of Brexit seem to have shifted.  The proper democratic response now is to put the proposal up for another vote.
+
+\_\_\_
+
+Lee Jones
+
+\_\_\_
+
+*Lee Jones is a Reader in International Politics at Queen Mary University of London.*
+
+Britain is a representative democracy: we elect representatives – MPs – to make decisions on our behalf. Sovereignty resides ultimately with the people, but we delegate our powers to parliament; MPs’ authority rests on the will of their electors. However, in 2016, parliament determined that it *could not decide* over the EU, and returned the power of decision to us. Hence, although legally the referendum was merely advisory, *politically*, it was binding: if parliament ignores the result, it fatally undermines its own authority, for it would imply that the people’s will is meaningless. This was well understood in 2016, when every politician warned that the decision would be final, and the government told every citizen that it would “implement what you decide”. Subsequent, legalistic insistence on “parliamentary sovereignty” rings hollow. Parliament has no magical authority independent of the electorate that constitutes it. Parliament bounced the decision back to us; it passed the EU Withdrawal Act; and, in 2017, 85 percent of MPs were elected on manifestoes that pledged to respect the referendum result. 
+
+The “Brexit crisis” is thus a crisis of representative democracy. It arises exclusively from the reluctance of Remainer MPs to enact the expressed will of those they are meant to represent. If they do anything except enact Brexit, they will conclusively demonstrate – as many citizens have long suspected – that political representation no longer functions in Britain. They will demonstrate that voting is meaningless, because MPs may simply refuse to implement any instruction they dislike, through sheer incompetence or simple obstructionism. Yet many millions of people have no political power beyond their vote. If they cannot pursue change through representative politics, they must either withdraw from public life, or seek other means: populist mobilisation and extra-parliamentary ructions are likely. If this happens, it will not be because Brexit unleashed demons, but because parliament refused to repair our tarnished representative democracy when it had the chance. 
+
+\_\_\_
+
+Kimberley Brownlee and Zofia Stemplowska
+
+\_\_\_
+
+*Kimberley Brownlee is a Professor of Philosophy at the University of Warwick, working on conscience, conviction, civil disobedience and the ethics of sociability. Zofia Stemplowska is an *Associate Professor of Political Theory at Oxford,* interested in the problem of what people owe to each other as a matter of domestic, global and historical post-war justice.*
+
+A referendum can look like the best of all democratic mechanisms. It’s simple, direct, and lets the citizenry take the most consequential decisions. But, even when a referendum is conducted well, we may worry about its democratic credentials. If it’s a lone event, it gives a frozen snapshot of an artificially polarized public opinion.
+
+When a referendum is fuelled by lies and offers unclear options, it is hopeless as a democratic mechanism. Unlike the UK’s first EU referendum in 1975, the second, 2016 referendum was a high-stakes gamble to silence the isolationist right of the Tory Party. It was not designed to deliver a moment of democratic clarity, and so did not deliver it.
+
+Consequently, we must worry that the referendum did not reveal what British people wanted. Did the 52% choose a soft, hard, or no deal Brexit? Or, did they choose the Brexit that would redirect to the NHS the UK’s EU contributions? Perhaps they thought that whatever the Tories could negotiate must be better than remaining. We don’t know.
+
+Since we cannot say that Leave voters would have preferred any Brexit to no Brexit, even a decision by Parliament to remain would not undermine the will of the people.
+
+As the poorly-designed 2016 referendum cannot be undone, a third EU referendum – if it can be designed and run better - may be necessary to produce a solution that’s seen as legitimate. But, a Parliamentary decision, produced through consensus, would also be sufficiently democratic, though not ideal if MPs fetishize the 2016 ‘decision’.
+
+What the 2016 referendum did reveal is that people are prepared to invest time and energy into learning about the EU and Britain in Europe once their mind is focused by a deadline. This knowledge should be harnessed now, as the Parliament or the public decides on whether to leave with no deal, to leave on specific terms, or to remain.
+
+\_\_\_
+
+Christian List
+
+\_\_\_
+
+*Christian List is Professor of Philosophy and Political Science at the London School of Economics and co-author of 'Deliberation and Decision: Economics, Constitutional Theory and Deliberative Democracy' and 'Group Agency: The Possibility, Design, and Status of Corporate Agents'.*
+
+The 2016 referendum produced a narrow majority for Brexit. Does this imply that Brexit is “the will of the people”, as the Prime Minister says? More than 45% of the UK’s residents did not or could not vote, including many young people not on the electoral register. But even if we set non-participation aside, “the will of the people” is a problematic notion. The PM understands it as the “the will of the majority”. But this notion is not generally coherent. Suppose 33% prefer A to B to C, another 33% prefer B to C to A, and a final 33% prefer C to A to B. Then there are majorities for A over B, for B over C, and yet for C over A. Every option is majority-defeated by another. This problem, known as Condorcet’s paradox, challenges a majoritarian definition of the popular will. Furthermore, in the case of Brexit, the pre-referendum debate was far from ideal; the referendum was advisory within a representative democracy; and there are good reasons for requiring supermajorities in decisions involving constitutional change. Given all this, more democratic scrutiny of the decision seems warranted, now that the feasible paths are clearer and everyone knows more. The best way forward, I think, would be a parliamentary decision followed by a confirmatory referendum, with a ratifiable Brexit option and Remain on the ballot. Does this conflict with the UK’s status as a representative democracy? Since Brexit was initiated by a referendum, many MPs are understandably reluctant to overturn it without another public vote, even if they think Brexit is against the national interest. A second referendum could adjudicate the matter. It should be preceded, however, not only by parliamentary debate, but also by citizens’ assemblies and other opportunities for inclusive and respectful public deliberation about the challenges the country faces.
+
+\_\_\_
+
+Martin Loughlin
+
+\_\_\_
+
+*Martin Loughlin is a Professor of Public Law at London School of Economics. He is currently writing a book on constitutional theory.*
+
+My first reaction on hearing that IAI was asking leading philosophers and political theorists this question was to ask: what special talent or insight do philosophers think they might possess that will enable them to answer that question? 
+
+Thomas Hobbes, the greatest of English political philosophers, long ago recognised that it is precisely because the war of the sword and the pen is perpetual that each side constantly tries to drag philosophers into the dispute to defend their positions. And when that happens much of what passes for philosophy contributes nothing to knowledge of truth; it merely lends ‘the influence of attractive and emotive language to hasty and superficial opinions’. 
+
+Hobbes’ message is that there can be no escape from the complexities of the political situation through refined philosophical analysis of the ‘true’ meaning of democracy. Brexit is a political problem requiring a political solution. It will not be helped by refined commentary demonstrating that since our constitutional tradition is one of parliamentary government the 2016 referendum is merely advisory, that rationally understood a referendum is analogous to a mere opinion poll or an ‘indicative vote’, or that our system of representative democracy vests full authority in the sovereign Parliament to revoke article 50 of the TEU.
+
+Over the last couple of years members of my own constituency – constitutional lawyers – have been coming out with the most imaginative (sc. ridiculous) arguments on both sides of the problem and, so far as I can ascertain, these have been driven by their (unstated) convictions on the merits or otherwise of leaving the EU. I wager that whatever views political philosophers bring to bear on this question are similarly motivated. So my message to philosophers seeking to answer that question would be similar to the warning issued to theologians by Alberico Gentili with respect to their treatment of international law: *Silete theologi in munere alieno!*

@@ -1,0 +1,77 @@
+---
+title: "Your genes do not define you"
+subtitle: "When chance, not reason, steers science"
+author: "Gregory Radick"
+date: "15th October 2024"
+article_id: "2969"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "2,192 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/your-genes-do-not-define-you.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/your-genes-do-not-define-you-auid-2969"
+---
+
+# Your genes do not define you
+
+*When chance, not reason, steers science*
+
+**By Gregory Radick** | *15th October 2024* | *Read time: approx. 11 mins* | *2,192 words*
+
+![Your genes do not define you](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/your-genes-do-not-define-you.webp)
+
+---
+
+*We’ve been misled. We’re taught that Gregor Mendel’s pea-crossing experiments provide a timelessly excellent foundation for genetics. Yet in the early twentieth century those experiments were heavily criticized for neglecting the role of environments in shaping hereditary characters. But, as Gregory Radick shows, those criticisms failed to carry the day – not because they were defeated in reasoned, evidence-based debate, but because of mere historical accident. As a result, the mistaken idea that genes determine character traits was allowed to persist.*
+
+In the year 1900, biology finally caught up with Gregor Mendel. Back in 1865, Mendel had reported the results of crossbreeding experiments done in the garden of his monastery in Brünn (now Brno, in Czechia). Working at unprecedented scale and taking painstaking care, he crossed yellow-seeded pea plants with green-seeded ones, round-seeded varieties with wrinkled-seeded ones, and so on, tracking seven binary character pairs in multiple combinations through several generations. To explain the patterns he found, Mendel offered a brilliant hypothesis: underlying the visible characters are invisible factors which, like the characters themselves, don’t blend into each other but retain their original identities.
+
+Yet far from celebrating this discovery of the gene – heredity’s fundamental particle – Mendel’s contemporaries responded with polite yawns, and he died in 1884 in relative obscurity. Sixteen years later, however, three European botanists independently rediscovered his patterns and explanations, bringing belated recognition to Mendel and soon launching the modern science of heredity, first known as “Mendelism,” then as “genetics.”
+
+\_\_\_
+
+If all you know about the early history of genetics is the textbook rendition of it, you’ll have little motive for querying the Mendelian framing
+
+\_\_\_
+
+Over the last century, versions of the above became standard fare in biology textbooks the world over. In keeping with this origins story, moreover, instruction in genetics has typically begun by introducing students to Mendel’s pea experiments. The history lesson might appear to be unconnected from the scientific lesson except as a bit of human interest to engage the students. In fact, it serves a subtle pedagogical function, by helping to make Mendel’s experiments look self-evidently appropriate as a starting point for learning about heredity. After all, if the science you’re about to study began when it did only because biologists were so slow to grasp the significance of Mendel’s work, then understanding that work yourself – and so beginning at the Beginning – seems entirely fitting. And indeed, if all you know about the early history of genetics is the textbook rendition of it, you’ll have little motive for querying the Mendelian framing. You’ll have accepted it as a frame for all your future knowledge in the subject. Furthermore, that incuriosity will remain intact even after you learn – for the textbooks make no secret of it – that most of the characters in most organisms most of the time little resemble the characters in Mendel’s peas.
+
+At the Mendel Museum in Brno, for example, near the end of a superb exhibition on genetics from Mendel to the present, a panel notes – in the spirit of fine print at the bottom of an insurance policy – some limitations in the foregoing. One is that, with “the vast majority” of characters, more than a single gene is involved, “which makes their heredity a very complicated matter.” Another is that the environment can bear too – a point illustrated via another of Mendel’s pea-plant characters, tallness versus shortness:
+
+You’ve no doubt noticed that if you don’t water a plant with genes for tall height, those genes won’t be enough to make it tall. The environment has a powerful effect on how our genes are expressed and produces even greater variability throughout populations.
+
+Thus figuratively and, at the Mendel Museum, literally, it’s only as you’re heading for the exit that your attention is directed to how variable characters can be, thanks to internal and external contexts which, in elementary Mendelian problem-solving (e.g., “what percentage of the children will have brown or blue eyes / dimples or no dimples / unattached or attached earlobes?”), are wholly absent.
+
+To be sure, organizing knowledge of heredity in this way, with exceptional cases treated as exemplary, has its advantages, for teachers (who, in teaching what they were taught, stay within their comfort zones) and for at least some students (since Mendelian genetics is the part of the biology curriculum where the students good at mathematics come into their own). But there are important downsides.
+
+First of all, there are longstanding concerns that anchoring understanding of heredity in such oversimplified examples and concepts creates the misleading impression that, details aside, genes are really what matter in the making of bodies and minds, themselves well described in this-or-that binary terms. As underscored by the award last week of [the 2024 Nobel Prize in Physiology or Medicine for the discovery of the role that microRNAs play in regulating gene expression](https://www.nobelprize.org/prizes/medicine/2024/advanced-information/), a given gene is but one element in a causal swirl, including – among other factors – the rest of the DNA in a genome (whether packaged into protein-encoding genes or not), expression-altering biochemicals (AKA epigenetics), the complex processes of development, microbial symbionts in the gut and elsewhere, and physico-chemical and even physiologically impactful social environments. And as the Mendel Museum panel teaches, the greater the number and diversity of causes impinging on a character, the greater the potential for modification, variability, plasticity.
+
+\_\_\_
+
+Beyond the authorized version of the history of genetics, however, another option emerges
+
+\_\_\_
+
+Second, a failure to grasp the causal complexity behind hereditary characters, and so the inadequacy of deterministic “gene for”-thinking, can have consequences beyond educational settings. It’s no coincidence that the two nations where eugenics reached its most appalling extremes, the United States and Nazi Germany, were also the places where public esteem for Mendelian simplisms was most easily encountered, not least in eugenic books, articles, exhibits, plays, and films carrying [a get-rid-of-the-gene-and-get-rid-of-the-problem message](https://faseb.onlinelibrary.wiley.com/doi/epdf/10.1096/fj.202300212), in the historian of science Nathaniel Comfort’s paraphrase. More recently, [classroom studies](https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21370) have shown that a standard lesson about recessive Mendelian conditions associated with different human races (e.g., sickle-cell disease with people of Black African ancestry) left students with an exaggerated sense of the homogeneity of the races, greater pessimism about the prospect of closing gaps between them in educational attainment, and even a lower willingness to socialize across racial lines.
+
+If we go beyond the authorized version of the history of genetics, however, another option emerges. Unquestionably, Mendel’s research was outstanding; but he saw himself as solving a focused problem about plant hybrids, using methods designed for that purpose. The reinterpretation of his experiments as founding a general science of heredity was the work of the post-1900 “Mendelians,” led by the Cambridge biologist William Bateson, who delighted in the fit between his vision of evolution as leaping between discontinuous species and the all-or-nothing characters Mendel studied, and who went out of his way to stress not just the scientific promise of the Mendelian perspective but what he saw as its hereditarian social consequences. In a 1904 address summarizing the new science’s successes, Bateson insisted that, “from the moment of fertilisation,” if an evil future lay in store, then no amount of “teaching, or hygiene, or exhortation [could] pick out the particles of evil in that zygote, or put in one particle of good.” And in a popular book published the next year, Bateson’s lieutenant Reginald Punnett likewise affirmed that “[p]ermanent progress is a question of breeding rather than of pedagogics; a matter of gametes, not of training. As our knowledge of heredity clears and the mists of superstition are dispelled, there grows upon us with an ever increasing and relentless force the conviction that the creature is not made but born.”
+
+But Bateson and his allies met with criticism, put most trenchantly by a friend-turned-rival, the Oxford biologist Walter Frank Raphael Weldon. Early in 1902, Weldon published [an article](http://www.esp.org/foundations/genetics/classical/holdings/w/wfrw-02.pdf) on Mendel’s experiments that included two photographic plates, one in color, the other in black and white. The color plate showed seeds from pea plants grown by breeders other than Mendel. These seeds didn’t all fall neatly on either side of a yellow/green binary, but instead formed a spectrum. The black-and-white plate did the same for the supposed round/wrinkled binary. Unlike Bateson, who took Mendel’s results to be a sign that his experimental methods had opened a window onto inheritance at its most basic, for Weldon those results mainly mirrored the choices Mendel had made at the outset about what to study and how – above all, choices about which varieties and characters to include and which to exclude, but also about which conditions to raise the plants under and which to ignore. With other choices, Weldon reckoned, other patterns – even opposite ones – could have been generated.
+
+Where, then, should the beginner start if not with Mendel’s peas? [A public lecture Weldon delivered on inheritance later that year](https://archives.ucl.ac.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=PEARSON%2f5%2f2%2f10%2f7) gives a clue. In Weldon’s view, if there was one thing that was well understood about inheritance by 1900, it was that characters in a mature organism are always the upshot of complex interactions between hereditary causes and environmental ones. To illustrate, Weldon told his audience about experiments that a student of his had conducted on spine length in the water flea *Daphnia.* As the water in which *Daphnia* live becomes ever more polluted with their waste, the average length of their spines decreases, to the point where a generation is born with no spines at all. Yet when one of these spineless *Daphnia* is moved to clean water, its offspring grow full-length spines. The average length of those spines, moreover, will be higher or lower depending on the variety of *Daphnia* used. As Weldon said to his audience:
+
+Now clearly the condition of the spine … is not exclusively acquired; and it is not exclusively inherited. It belongs to both categories. A *Daphnia* of certain ancestry, growing in a solution of certain chemical composition, has a spine of a certain length. You cannot assert that either factor is more essential than the other; for if the *Daphnia* remain the same you can change the result by changing the solution; while if the solution remains the same you can (within considerable limits) change the result by changing the *Daphnia*.
+
+In science, the winners write not just the history but the textbooks, including the history that gets into the textbooks. To become aware of what Weldon stood for is to realize that the science of heredity and its cognitive organization in the early twentieth century was up for grabs. Yes, for Bateson’s Mendelians, the moment was one of catch-up to Mendel (as they reinterpreted him). But for Weldon and his admirers, it was a moment of wider synthesis, centered on the notion that in heredity as in biology generally, from chromosomes in cell nuclei to organisms engaged in Darwinian struggle to the gradually adapting species that emerged from that struggle, contexts matter. Where Bateson sought to cast internal and external environments, and all of the variability they can bring, to the margins, Weldon sought to cast Mendelian binaries to the margins, as the special cases they are. No wonder that, as the debate with Weldon wore on, Bateson became increasingly unnerved.
+
+\_\_\_
+
+There was nothing inevitable about the Mendelian victory
+
+\_\_\_
+
+Why, then, did the science of heredity nevertheless go Mendelian? Not because Weldon’s emphases were unviable. We know this because, a little over ten years ago, colleagues and I at the University of Leeds successfully [taught introductory genetics the Weldonian way](https://link.springer.com/article/10.1007/s11191-017-9900-8). Intriguingly, what we found was that, whereas students taking a start-with-Mendel introductory course were on average just as deterministic at the end of teaching as they were at the start, our students were on average less deterministic about genes at the end (which, if the aim is to prepare students for the biology of their time, must count as a win). Nor is it because, in the post-1900 period, the scientific community fully considered the pros and cons of each way of organizing the science of heredity and then collectively decided that, on balance, the Mendelian one was better. The debate settled as it did because in the spring of 1906, at the age of 46, the ordinarily robust Weldon caught pneumonia and died, with a mostly completed book setting out his perspective on heredity unfinished and unpublished. The Mendelians won by default.
+
+Knowledge presented in our science textbooks tends to look inevitable, as though it would eventually have been discovered and then disseminated in the form familiar to us no matter what happened or who was involved in the run-up and the follow-up. Endlessly retelling the story of the triple rediscovery of Mendel while minimizing or outright ignoring the ensuing battle between Bateson and Weldon reinforces that sense of a Mendelian future for post-1900 biology as a foregone conclusion. But there was nothing inevitable about the Mendelian victory after 1900, or the subsequent Mendelizing of scientific knowledge about heredity, or the genetic determinism which a Mendelism-framed genetics education has done so much to perpetuate (and which, it’s becoming increasingly clear, [students do not bring to the biology classroom](https://doi.org/10.1111/cdev.14053) but learn there). No less than the foundational status traditionally accorded to Mendel’s experiments, genetic determinism is an accident of history.

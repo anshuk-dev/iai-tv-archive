@@ -1,0 +1,94 @@
+---
+title: "Wittgenstein vs Dawkins: Is God a scientific hypothesis?"
+subtitle: "Religious language is not scientific language"
+author: "John Cottingham"
+date: "12th March 2025"
+article_id: "3101"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,198 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/wittgenstein-vs-dawkins-is-god-a-hypothesis.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/wittgenstein-vs-dawkins-is-god-a-scientific-hypothesis-auid-3101"
+---
+
+# Wittgenstein vs Dawkins: Is God a scientific hypothesis?
+
+*Religious language is not scientific language*
+
+**By John Cottingham** | *12th March 2025* | *Read time: approx. 11 mins* | *2,198 words*
+
+![Wittgenstein vs Dawkins: Is God a scientific hypothesis?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/wittgenstein-vs-dawkins-is-god-a-hypothesis.webp)
+
+---
+
+*Critics of religion like Richard Dawkins often depict religion as a second-rate science. According to Dawkins, God is a “hypothesis” which is outcompeted by rival scientific explanations. But might this conception of religion be radically mistaken? In this article, philosopher John Cottingham draws on Ludwig Wittgenstein’s philosophy of language to argue that any understanding and evaluation of religious discourse must be sensitive to the form of life in which it is embedded. As such, religious claims are not defective scientific claims, but rather entirely distinct ways of seeing the world.*
+
+The first quarter of the twenty-first century has seen some serious damage to the cause of religious belief. Some of the damage has been self-inflicted, but a significant element relates to the attacks mounted by prominent scientists and philosophers. That formidable critic of religious belief, Richard Dawkins, has tended to portray religious thought as if it were primarily aimed at advancing rival explanations to those offered by modern science. On this picture, the “God hypothesis,” as Dawkins calls it (*The God Delusion*, 2006), is supposed to provide a quasi-scientific explanation for the workings of the cosmos.
+
+\_\_\_
+
+“In a religious discourse,” Wittgenstein maintained, “we use such expressions as *I believe that so and so will happen* differently from the way in which we use them in science.”
+
+\_\_\_
+
+Putting the matter this way perfectly sets things up for the atheist to declare God redundant. Thus the highly influential philosopher Daniel Dennett has argued (in his *Intuition Pumps*, 2013) that the purely natural mechanisms and processes uncovered by science – the workmanlike “cranes” that do the explanatory lifting – are incomparably more rigorous and intellectually satisfying than the “skyhooks” of the theologians, which supposedly attempt to short-circuit all the hard work of empirical scientific research by appealing to miraculous solutions from on high.
+
+All this has had the effect of reinforcing the widespread popular conception that science and religion are rivals. But even a cursory acquaintance with the great bulk of religious writings suggests they are not really about analyzing and explaining the world in the manner of modern science and technology, but are part of a spiritual quest for attunement to, or connection with, reality as a whole. There are of course differing views among the world’s religions as to the nature of that reality, and no doubt there can be points of friction between scientific and religious conceptions of the cosmos. But the typical goals of the religious quest, such as those related to the purification of the self and the search to align oneself with the good, seem orthogonal to the explanatory goals of science.
+
+\_\_\_
+
+It would be a radical mistake, on Wittgenstein’s view, to lift the religious believer’s assertions about God out of context, and expect them to be susceptible of the kind of experimental confirmation that we expect of our scientific theories. For if we wish to understand any type of language, including religious language, we have to look at the *form of life* in which it is embedded.
+
+\_\_\_
+
+What is more, the very *language* used in religious discourse seems to belong to a different domain from that used in science. This was one of the striking insights of that giant of twentieth-century philosophy, Ludwig Wittgenstein. “In a religious discourse,” Wittgenstein maintained, “we use such expressions as *I believe that so and so will happen* differently from the way in which we use them in science.” So (to take one example he used) belief in the Last Judgement is not assimilable to an ordinary belief that a certain event will very probably happen at some time in the future.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Dawkins-re-examined-official.webp)
+
+SUGGESTED VIEWING
+Dawkins re-examined
+With Richard Dawkins, Denis Noble, Güneş Taylor](https://iai.tv/video/the-gene-machine)
+
+Hence it would be a radical mistake, on Wittgenstein’s view, to lift the religious believer’s assertions about God out of context, and expect them to be susceptible of the kind of experimental confirmation that we expect of our scientific theories. For if we wish to understand any type of language, including religious language, we have to look at the *form of life* in which it is embedded. Our “language games,” the many and various ways we use words and sentences in our varied human pursuits and activities, are interwoven with a web of non-linguistic practices, and cannot be understood apart from the context that gives them life.
+
+Much contemporary philosophy of religion in the anglophone “analytic” tradition has become a highly technical and theoretical business, largely conducted at the level of abstract intellectual debate. But the lesson to be drawn from Wittgenstein is that philosophers of religion need to be more sensitive to how religion actually operates in the life of its adherents. And this means, amongst other things, a greater attention to religious praxis, including, for example, the forms of worship, and the spiritual disciplines and practices that structure the religious life. For when our philosophizing operates at a rarefied level, aloof from the living currents of human thought and action that animate the area of human life we are supposed to be studying, then there may be a risk that we become in a certain way disconnected from the very phenomena we are trying to understand. Abstract musicological theorizing may be all very fine and admirable, but to understand what makes music such a precious element in the lives of its performers and its devotees we need to *experience* it; our philosophizing about music needs to be informed and enriched by a living acquaintance with what music means in the lives of those who love and value it.
+
+In the seventeenth century, the philosopher and mathematician Blaise Pascal remarked that it is the *heart* that leads one to awareness of God. In somewhat similar vein, Wittgenstein wrote that “*life* can educate you to believing in God”; and by “life” he explicitly included “sufferings of various sorts.” The implication here is that a conversion to religious belief never, or only very rarely, occurs though abstract intellectual debate alone, but rather comes about as a result of an emotional transformation, a radical shift of perspective, that allows the world to be seen differently.
+
+Giving due weight to the role of the heart and the emotions, and to the hard won "lessons of life,” need not at all mean that coming to believe in God is an irrational business. There is an alternative interpretation, namely that an emotional shift can act as a *catalyst for the perception of new evidence*: as a result of being emotionally moved, one may become open to perceiving aspects of reality that were previously hidden from view.
+
+\_\_\_
+
+This kind of religious vision evidently does not arise from scientific measurement or mathematical calculation. But why should we insist that all valid human knowledge has to conform to this model?
+
+\_\_\_
+
+Such a change in outlook does not seem to have much to do with deciding to adopt a certain explanatory hypothesis about the origins of the universe. As the Dominican philosopher Herbert McCabe once observed, “when we speak of God, we do not clear up a puzzle, we draw attention to a mystery.” The religious believer does not try to dissolve that mystery, but embraces it, with wonder and gratitude. What is more, at least in the three great Abrahamic faiths, Judaism, Christianity, and Islam, the believer is able to see in the mystery of existence a source of goodness and blessing. Instead of a wholly blank impersonal cosmos, manifesting only, in the words of Richard Dawkins, “blind pitiless indifference” (*Rivers out of Eden* 1995), the eyes of faith are able, as the philosopher and theologian Judith Wolfe puts it, “to behold in the world an unseen depth of goodness, significance and love” (*The Theological Imagination*, 2024).
+
+This kind of religious vision evidently does not arise from scientific measurement or mathematical calculation. But why should we insist that all valid human knowledge has to conform to this model? The modern scientific and technological revolution has brought enormous benefits, but it also carries great risks if its methods are held to be the sole touchstone for how we should relate to the world. In his groundbreaking *The Master and His Emissary* (2009, expanded and amplified in his recent two-volume *The Matter with Things*, 2021), Iain McGilchrist diagnoses the malaise of our modern predicament as due to an excessive reliance on “left brain” thinking (to employ a useful shorthand term) – that is, on detached, abstract, instrumentalist ways of relating to the world, in contrast to more imaginative and empathetic ways of responding to it (which McGilchrist argues are typically associated with the right cerebral hemisphere).
+
+[![related-video-image](https://iai.tv/assets/Uploads/hilaryandainnnewnew.webp)
+
+SUGGESTED VIEWING
+In Conversation: Iain McGilchrist and Hilary Lawson
+With Iain McGilchrist, Hilary Lawson](https://iai.tv/video/iain-mcgilchrist-exclusive-interview)
+
+In my own recent book *The Humane Perspective* (2024), I argue that philosophy in general, and the philosophy of religion in particular, urgently needs to recover these more imaginative and creative modes of awareness. And one result is that the philosophy of religion may need to operate with a different epistemological model (that is, a different model of the requirements for knowledge and evidence) from the model that currently prevails among philosophers. Instead of an *epistemology of detachment*, where we remain cold impartial observers, waiting to be presented with data that will convince any rational inquirer, we may need an epistemology of receptivity – one that acknowledges that there are certain kinds of evidence that require a change in the subject, a certain openness, in order to be discerned properly.
+
+Some may worry that letting down one’s guard in this way is not philosophically respectable, because it risks allowing us to be swept along towards religious belief in a way that we should regard as irresponsible in any other area of inquiry. But in fact there are many areas other than religion where a certain openness and receptivity are both necessary and perfectly appropriate. In literary studies, for example, as the American philosopher Martha Nussbaum has argued, if we are to discern the properties of a great poem or novel, we have to allow ourselves to be receptive and “porous,” knowing when to yield to the power of the language, instead of maintaining a constant critical detachment. Or to give another example, in cultivating a personal relationship, if we always remain at a distance, clinically scrutinizing the attributes of the person we seek to know, we may only succeed in blocking the opportunity for a closer kind of acquaintance that allows their deeper qualities to shine through.
+
+\_\_\_
+
+In a way this goes back to philosophy’s traditional task, concerned not just with definitions and narrow conceptual analysis, but with the grand synoptic task of articulating a worldview that tries to do justice to all aspects of reality.
+
+\_\_\_
+
+But although the “humane” perspective which I advocate implies an openness and emotional receptivity in our understanding, that doesn’t rule out subsequent critical reflection. Our minds work best when we allow ourselves to draw on *both* “right brain” *and* “left brain” modes of thinking. Hence, it should remain an important part of the philosophy of religion to be able to examine a given religious framework and assess how far it coheres with other parts of our belief system – for example how far it fits with what science tells us about the workings and evolution of the cosmos, the history of the earth and of our species.
+
+In a way this goes back to philosophy’s traditional task, concerned not just with definitions and narrow conceptual analysis, but with the grand synoptic task of articulating a worldview that tries to do justice to all aspects of reality. But it is vital that the resulting outlook should never become too abstract, or too detached from its subject matter; it always needs to be sensitive to all the rich and manifold aspects of our human experience.   
+So I think there is every reason to move towards a more holistic and capacious model of philosophical inquiry – one that encourages the “amplitude of mind” that the poet William Wordsworth, in *The Prelude*, saw as involving a kind of dynamic fusion of imagination and reason, deserving to be called “reason in its most exalted mood.” In short, the role of philosophical reason is most to be respected when it is allowed the greatest scope, allowed to range over the full spectrum of human experience and to play its full part in the creativity and responsiveness of the human spirit. It will then not be cut off in isolation from the imaginative powers and emotional responses that bring our thinking alive, but will be able to draw on all these resources, so as to engage in a form of philosophizing that is conducted by, and addressed to, the whole human being.
+
+There is, of course, no guarantee that the enriched kind of philosophizing I am advocating will end up vindicating religious belief – guaranteed results are seldom if ever the result of philosophical inquiry. But at least the inquiry will be shifted away from the sterile arena of abstract intellectual debate, and can start to focus on what religious thought and practice actually *mean* for the lives of those who are committed to them. For, as Wittgenstein might have said, it is only when we understand the meaning of a given segment of discourse, by seeing how it is embedded in a given form of life, that we are in a position to decide what kind of truth, and what kind of value, is to be found there.

@@ -1,0 +1,85 @@
+---
+title: "The universe is made of desire"
+subtitle: "Schopenhauer and why denying the will ends the world"
+author: "David Bather Woods"
+date: "1st April 2026"
+article_id: "3536"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,272 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-universe-is-made-of-desire.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-universe-is-made-of-desire-auid-3536"
+---
+
+# The universe is made of desire
+
+*Schopenhauer and why denying the will ends the world*
+
+**By David Bather Woods** | *1st April 2026* | *Read time: approx. 11 mins* | *2,272 words*
+
+![The universe is made of desire](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-universe-is-made-of-desire.webp)
+
+---
+
+*Reality doesn't exist on its own. Without subjectivity to perceive the objectivity of the world, the way in which space, time, and the universe in general exist would be radically other. For example, can time be said to pass if there is no-one for whom time passes? What is the difference between a universe that began 14 billion years ago and one that started 14 years ago, if there is no one to count the years? Philosopher **David Bather** **Woods** here argues, using the philosophy of Arthur Schopenhauer, that the will that makes up our subjectivity also makes up the world. Therefore, denying the will, as is taught in Buddhism and other world religions, can turn the universe into nothing.*
+
+There is the way the world appears, and then there is the world as it is in itself. Arthur Schopenhauer’s masterpiece *The World as Will and Representation*, first published in 1818, fleshes out this distinction with two propositions: “The world is my representation” and “The world is my will.” We are perhaps more familiar with the idea that the world appears as a representation. The world appears to us as an object for a subject; the subject plays a constructive role in organising the experienced world. But what does [Schopenhauer](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801) mean when he says that the world is my will? What is the will?
+
+The will, it turns out, is many things.
+
+First, the will is the will. That’s right: before expanding the concept of the will to such grand metaphysical proportions, Schopenhauer begins with some observations about our everyday experience of the will. We human beings experience ourselves, on the one hand, as representations like any other. We have a look, a smell, a sound, a taste, and a texture; we are located in space and time; we have personal causal histories; are capable of, and susceptible to, causal effects: in other words, we are our bodies. But, on the other hand, we experience ourselves in a way that is unlike any other representation. We experience what it is *to be* this representation. We are directly acquainted with its inner animations: its stirrings and passions, wants and desires; its incentives and motives, deliberations and decisions. In other words, we are our wills.
+
+\_\_\_
+
+Human beings are still an embodiment of the same thing as other natural beings, only we are differently equipped.
+
+\_\_\_
+
+[Yet the will, to Schopenhauer, is not only the will.](https://iai.tv/articles/schopenhauer-vs-hegel-progress-or-pessimism-joshua-dienstag-auid-2416) The will is also a clue to the nature of metaphysical reality. How so? To begin, the will tells us that there is more to objects than how they appear in representation. We can know this, according to Schopenhauer, because we know there is more to *us* than our representation. Think of it this way: What would our experience of the world be like if it only consisted of objects as represented by subjects? If, that is, we were only representing subjects, not also willing subjects? Schopenhauer says we would be like *Engelskopf:* angel-heads floating above the world as representation. We would assume that there is no more to reality than what lies at the level of representation. But this isn’t how we experience the world. On the contrary, the will roots us in the world and gives us direct access to one of its representations—namely, ourselves—in an entirely different aspect. We are given to assume, then, that other objects, too, have a reality beyond representation. And our only clue as to the nature of that reality is, you guessed it, the will.
+
+The will is a name for the unnameable. Often, as he extends the will beyond its literal meaning and into a metaphysical concept, Schopenhauer speaks about it as though it were a metaphor. According to Aristotle’s classic definition, metaphor is when we give something a name that doesn’t really belong to it. On the Aristotelian view, in some metaphors, we give the name of a species to its genus: for example, instead of saying “a large number” (genus), I might say “a million” (species)—e.g., “It’ll take me a million years to finish reading *War and Peace*.” Similarly, when Schopenhauer clarifies what he means when he calls the things beyond representation “the will”, he says: “there could be no word to designate the concept of this genus. Accordingly, I will name the genus after its most important species.” We don’t really have a meaningful way of talking about what really lies beyond representation; we only have a meaningful way of talking about the species of its appearance that we know best: namely, the will.
+
+There are other species of what appears to us as the will: it appears in nonhuman animals, not often as rational deliberative agency, but at least as conscious or sentient motivation. It appears in nonanimal life, such as plant life, not often as sentient motivation, but at least as responsiveness to stimuli, such as light, air, and moisture. And it appears in insensate matter, such as stones and water, not as sensitivity to stimuli, but at least as brute natural powers and forces. These, too, according to Schopenhauer, are species of appearances of the thing as it is in itself. The thing as it is in itself is technically an unnamed genus, but he names it “the will” after the species most familiar to us. We human beings, as it happens, exemplify all of its other species at once—we have animal, vegetable, and mineral aspects to our overall nature—as well as exemplifying its pinnacle form in our self-conscious rational volition.
+
+[![Schopenahuer and will to live2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Schopenahuer-and-will-to-live2.webp)
+
+SUGGESTED READING
+Schopenhauer and the insatiable will to live
+By Robert Wicks](https://iai.tv/articles/schopenhauer-and-the-insatiable-will-to-live-auid-2262)
+
+The will is an analogy. As a subspecies of metaphor, Aristotle defined analogy as the following principle: *a* is to *b* as *c* is to *d*. The target domain of the analogy (what *a* is to *b*) is usually less familiar to us than its source domain (what *c* is to *d*). For example: God is to man as a father to his children. By the same principle, Schopenhauer suggests that we think of the relationship between appearances and essences by analogy to our relationship with our own species of the will: “a mote in a sunbeam … exhibit[s] that unfathomable something … as gravity and impenetrability: but this, I say, is to the mote what a man’s *will* is to the man”. A tiny fleck of dust floating in the air, insubstantial though it may seem, appears, like us, to have an inner essence. To begin to understand its inner essence, Schopenhauer proposes, we must think of its relationship to its appearance by analogy, a relationship we know more intimately: that key relationship between the body and the will.
+
+The will is, therefore, a theory of everything. By route of these metaphorical and analogical understandings, [Schopenhauer constructs an interpretation of the entire world: hence, “The world is my will.”](https://iai.tv/articles/schopenhauers-sense-of-self-auid-1329) The thing as it is in itself, beyond representation, is still somewhat mysterious to us, but this much we can know: there *is* something beyond representation; this something appears to me as the will in the literal sense; the will as we know it is one species among others of the appearance of some unfathomable something; throughout nature there are different species of appearances of the thing as it is in itself; and I can, and must, use my experience of myself as the will as a means and model for understanding all these other appearances of the thing as it is in itself.
+
+(The will is thus *not* an attempt by Schopenhauer to attribute something like volition or voluntary willpower to all of the rest of nature. The will as volition is only a species of how the thing as it is in itself appears in, and to, us human beings. By continuing to use the word “will” far beyond its original meaning and context, Schopenhauer hopes to transfer some of our insight into the will over to things other than ourselves, into which we otherwise would have no such insight. Like with all metaphors and analogies, not all of the meaning from the source domain is intended to be transferred over.)
+
+To bring us back closer to where we started, the will is thus also a theory of the human being: a theory, that is, of what it is to be human. By placing the human will as a species alongside other appearances of the thing as it is in itself—from animal to plant and mineral nature—Schopenhauer re-naturalizes the human being. To be human is not to stand above the natural world, although it is to manifest it in a distinctive way. Human beings are still an embodiment of the same thing as other natural beings, only we are differently equipped.
+
+\_\_\_
+
+We not only strive to persevere in being, but we *know* and *feel* this striving from a subjective perspective. We know it and feel it, furthermore, whenever this striving is challenged, frustrated, and threatened.
+
+\_\_\_
+
+Unlike plants and rocks, the will in human beings is guided by the intellect, and unlike most earthly animals, as far as we know, our intellectual powers are generally more advanced at the kind of abstract, conceptual thinking that guides much of human action on both an individual and a collective scale. But importantly, for Schopenhauer, in this respect rational human agency is as much a tool of the will as, say, our hands, feet, and stomachs—or, for that matter, the crow’s brain and beak, or the carrot’s umbelliferous blooms. The same applies for our genital organs, although here the will manifests itself as a set of tools for the propagation of the species, rather than the self-preservation of the individual being. “The genitals,” says Schopenhauer, “are the true *focal point* of the will and consequently the opposite pole of the brain.” We have all been there, I’m sure.
+
+The will, that is, wills life. As Schopenhauer says in *The World as Will and Representation*:
+
+*Regarded simply in itself, the will is just a blind and inexorable impulse, devoid of cognition; this is how we have seen it appear in inorganic and vegetative nature and their laws, as well as in the vegetative aspect of our own lives. With the emergence of the world as representation (which has developed to serve the will) the will obtains cognition of its willing and what it wills: namely, nothing other than this world, life, precisely as it exists. That is why we called the appearing world the mirror of the will, its objecthood: and since what the will wills is always life, precisely because life is nothing but the presentation of that willing for representation, it is a mere pleonasm and amounts to the same thing if, instead of simply saying ‘the will’, we say ‘the will to life.’*
+
+A pleonasm is a phrase that uses more words than necessary, such as “Sooner rather than later.” By “life” Schopenhauer here means something far more abstract and expansive than, say, plants and animals. He means the very presentation of the thing as it is in itself as representation. All representations are presentations of the will to life, on Schopenhauer’s interpretation, insofar as they will to be representations at all. To adopt a useful phrase from Spinoza, all things “strive to persevere in their being.”
+
+The will, however, is therefore a source of pain and suffering. This is the case, at least, for representations like us and other animals, who, in the light of our cognitive tools, are conscious of the will’s inner workings. We not only strive to persevere in being, but we *know* and *feel* this striving from a subjective perspective. We know it and feel it, furthermore, whenever this striving is challenged, frustrated, and threatened. Cruelly, it seems, satisfying our strivings does not seem to be a way of stopping them, at least not for long. Instead, it only invites more striving. Hence, Schopenhauer’s proposition, “The world is my will,” leads him to a rich source of support for the [pessimistic sorts of claims](https://iai.tv/articles/the-promise-of-pessimism-auid-1759) about human and animal life for which he is perhaps best known: “This is … the inner and essential fate of the will in *human existence*. Everyone will easily find the very same thing in the lives of animals, only expressed more or less weakly, and will also find enough in the suffering animal world to convince himself [how essential *suffering is to all life*](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801).”
+
+[![Pessimissm](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Pessimissm.webp)
+
+SUGGESTED READING
+The promise of pessimism
+By David Bather Woods](https://iai.tv/articles/the-promise-of-pessimism-auid-1759)
+
+Unlike other animals, humans—or *some* humans—[may have discovered a way out](https://iai.tv/articles/schopenhauer-and-how-to-overcome-your-negativity-bias-auid-3283). The way out, by definition, must take the form of an escape from the will to life. This is precisely how Schopenhauer interprets the way of life adopted by the ascetic saints that are often represented as the highest ethical ideal of the various world religions, from Christianity to Hinduism and Buddhism.
+
+Schopenhauer sometimes presents these saints like alien lifeforms, outwardly mysterious in their speech and conduct. He has, after all, proposed to construct an interpretation of all beings as [manifestations of the will to life](https://iai.tv/articles/schopenhauer-and-the-insatiable-will-to-live-auid-2262), and here what he is confronted by is a remarkable being that seems to resist precisely that sort of interpretation. Or at least, somewhat paradoxically, the saint appears to *aspire* to resist the will to life. Until a saint is released from life altogether by the sweet succour of death, that is, even they continue in some respects to be an appearance of the will to life. “The genitals, for instance,” Schopenhauer keenly observes, “as the manifestation of the sex drive, are present and healthy; nonetheless, sexual satisfaction is not willed, even most inwardly. The whole body is nothing but the visible expression of the will to life, and nonetheless the motives that correspond to this will are no longer effective.” In a world where the universe is made of desire, even the saint is a house divided against itself.

@@ -1,0 +1,61 @@
+---
+title: "How to Achieve Political Progress after Electoral Defeat"
+subtitle: "It’s essential to see political opponents as our equals, but is that possible?"
+author: "Robert Talisse"
+date: "Issue 84, 8th January 2020"
+article_id: "1291"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "986 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/How-to-achieve-political-progress-after-electoral-defeat.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-to-achieve-political-progress-after-electoral-defeat-auid-1291"
+---
+
+# How to Achieve Political Progress after Electoral Defeat
+
+*It’s essential to see political opponents as our equals, but is that possible?*
+
+**By Robert Talisse** | *Issue 84, 8th January 2020* | *Read time: approx. 5 mins* | *986 words*
+
+![How to Achieve Political Progress after Electoral Defeat](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/How-to-achieve-political-progress-after-electoral-defeat.webp)
+
+---
+
+Democracy can be frustrating; our hard-won right to participate in the task of collective self-government often results in disappointment and exasperation. What’s more, in the wake of a political defeat, democracy’s sole consolation is ‘continue working’; if you lose at the polls, you mustn’t resign or withdraw, but instead turn to the next election and begin anew. Citizenship takes *persistence*. And in both emotional and practical terms, that’s asking a lot.  
+  
+Yet democracy is demanding in another way as well. It requires a certain *ethos*, a moral stance towards our fellow citizen. We must acknowledge that they are entitled to an equal political say even if they hold views that we regard as unconscionable. What’s more, if our opponent prevails at the polls, we must hold that it is right for democracy to enact the policies they favor.  
+  
+The democratic ethos hence appears tragically fraught. How can we stand both for what’s right and acquiesce in an arrangement that gives ‘error’ an equal say? Is it even possible to maintain so conflicted a posture?  
+  
+An additional difficulty lurks. When it comes to high stakes decisions, we tend to regard our political opponent as being not merely on the wrong side of the issues, but on the unjust side. And once we start seeing our rival as not merely wrongheaded, but opposed to justice itself, then it may follow that we grow contemptuous of our opposition, to regard them as irredeemably failed, benighted, even depraved.
+
+It’s no wonder that politics can be so noxious. Put bluntly, there is no easy way to regard our opponents as equals.
+
+This attitude obviously is at odds with the democratic ethos, but it also presents an obstacle to the requirement to persist in our pursuit of justice. In the wake of a political defeat, we must not only continue pressing for our viewpoint, we must also attempt to persuade others to adopt it too: expand our coalition. Often this means that, after an election, opposing sides must reason and cooperate with the very same people who before the election were condemned as irredeemable adversaries of justice.  
+  
+Hence the conflict latent within the democratic ethos deepens. Not only must we regard as equals those who we believe promote injustice, we must also eventually endeavor to work with them, despite the fact that we may hold them in contempt.  
+  
+It’s no wonder that politics can be so noxious. Put bluntly, there is no easy way to regard our opponents as equals. Nevertheless, this ethos is fundamental to democracy.  If given up, the democratic idea of self-government among equals is ceded to a view of politics as strictly a matter of imposing one’s will on others.   
+  
+It may seem as if democracy simply asks too much of us. But perhaps there’s hope in the fact that attitudes similar to democracy’s ethos are found in the familiar practice of religious toleration.
+
+In the midst of our vigilant pursuit of a more just political order, we have eroded the conditions under which democracy’s ethos can thrive.
+
+Many religious believers embrace the following uneasy posture. They hold that salvation is the most important aim of life and is available only to those within their own faith community; they also recognize an obligation to assist others in achieving salvation. Yet they additionally hold that matters of religious conviction must be left to the individual. Consequently, they hold that it is impermissible to force others to perform the correct religious observances. The tolerant believer leaves others to their own spiritual devices, despite the fact that doing so may well result in their ruin.  
+  
+The conflict within this stance is mitigated by an underlying conception of conscience. The tolerant believer sees even in those who embrace grave theological error an exercise of conscience, and an effort, flawed as it may be, to live according to one’s best judgment. Thus, the tolerant believer sees even in the heretic something that he also sees in himself. This commonality provides the basis for toleration.
+
+The key is refusing to regard religious convictions as the totality of a person’s identity. Remembering that a supremely important character trait is only ever one part of a larger whole can be difficult; nevertheless, religious toleration is widely practiced and embraced. So perhaps there’s hope for the democratic civic ethos after all.  
+  
+As I argue in my book *[Overdoing Democracy](https://global.oup.com/academic/product/overdoing-democracy-9780190924195?cc=us&lang=en&)*, we are currently inclined to see political affiliation as the defining feature of our fellow citizens.  Consequently, we increasingly interact only with others who share our partisan identity, and regard those who do not share our politics as irredeemable. In this way, we are losing our ability to regard those who are politically unlike ourselves as our fellow citizens.  In the midst of our vigilant pursuit of a more just political order, we have eroded the conditions under which democracy’s ethos can thrive.
+
+In order to sustain the democratic ethos, we must see our fellow citizens as something beyond their civic roles.
+
+Just as religious toleration requires the acknowledgement that behind a person’s theology lies the common human endeavor to live a life of value, proper democratic citizenship requires us to recognize that a person’s political affiliation is not their defining trait. In other words, in order to sustain the democratic ethos, we must see our fellow citizens as something beyond their civic roles.    
+  
+The way to do this, in my view, is to construct social spaces where our political differences are not suppressed, but irrelevant. We must engage together in activities in which politics has no place, not because democracy requires us to perpetually ‘reach across the aisle’ or ‘hear the other side’, but rather because a progressive and engaged democracy needs us to recognize that there’s more to our collective life than politics.
+
+*If you want to hear from leading thinkers like this debating renowned philosophers, cutting edge scientists, headline-making politicians, and beloved artists, come to [HowTheLightGetsIn Hay 2020](https://howthelightgetsin.org/hay) for four days of debates and talks alongside music, comedy and parties.*

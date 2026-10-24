@@ -1,0 +1,63 @@
+---
+title: "Enjoying Vicious Artists"
+subtitle: "Can you ever really separate the art from the artist?"
+author: "Nate Sheff"
+date: "4th September 2018"
+article_id: "1140"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,534 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/usualsuspects2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/enjoying-vicious-artists-auid-1140"
+---
+
+# Enjoying Vicious Artists
+
+*Can you ever really separate the art from the artist?*
+
+**By Nate Sheff** | *4th September 2018* | *Read time: approx. 8 mins* | *1,534 words*
+
+![Enjoying Vicious Artists](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/usualsuspects2.webp)
+
+---
+
+The #MeToo movement has exposed a number of men in Hollywood as sexual predators. Starting with Harvey Weinstein and Kevin Spacey, #MeToo’s momentum kept going, with comments sections in scores of articles worrying about the next shoe to drop; many wondered whether one of their favorite actors or directors would be next. By and large, it has been a good, if painful, process, and the worries about “witch hunts” are unfounded. But #MeToo has forced many of us into an uncomfortable position. What do you do with all those movies you like, when they’re made by someone you know to be a monster?
+
+Take the *The Usual Suspects*, directed by Bryan Singer (who had dubious relationships with younger men) and starring Kevin Spacey in an iconic role. What do we do with *The Usual Suspects*, knowing what we know now? There are two ways to understand this question, first as a moral question, and second as a practical one. In a moral mode, the question is: what would be the ethical thing to do with movies made by vicious people, knowing what we know now? The practical version asks: what should I do with these movies, in light of what I know now? Many prioritize the moral question ([see the post on #MeToo at Daily Nous](http://dailynous.com/2017/11/21/philosophers-art-morally-troubling-artists/ "Philosophers On The Art of Morally Troubling Artists")); once you answer it, an answer to the practical question follows naturally. But I think the practical question could just as well come first, and indeed, I think that it actually does occur to us before the moral question.  An uncomfortable feeling follows from knowing that one has enjoyed the work of a vicious person. I’ll call this the “grossness” phenomenon: it makes us uneasy to enjoy the work of a monster. But why does the grossness phenomenon arise at all?
+
+\_\_\_
+
+"The connection between enjoyment and credit to the creator might have exceptions, but it explains the asymmetry in our reactions to learning that an artist we like is a fiend, and learning that an artist we hate is a fiend. The latter doesn’t change our attitudes to the works in question, but the former does."
+
+\_\_\_
+
+I say “enjoy” rather than merely “consume,” because the phenomenon only seems to follow from enjoyment. If I consider Brett Ratner to be a hack, then learning that he’s a serial harasser won’t make me feel gross about my past consumption of his work. Not so for *The Usual Suspects*; since I like that movie, I might regret my past enjoyment, and forswear future viewings. “Consumption” also implies payment, which is also irrelevant to grossness. I might pass on watching “The Usual Suspects,” even if I could do so for free, without any royalty checks going to Singer.
+
+One explanation for grossness says that the feeling comes from the intuition that it’s morally wrong to enjoy the work of a vicious artist. Our moral intuitions come first, and they infect our enjoyment of movies. This isn’t obviously true, though. Imagine you were satisfied by an argument that viewing movies by monsters is morally neutral; if you stumble upon a *Usual Suspects* DVD on the street and watch it in the privacy of your home, there’s no harm and no foul. But for many of us, the supposed moral neutrality of viewing might not matter. We would still feel gross, even as we’re convinced that we aren’t wronging anyone.
+
+We might also think that grossness comes from the nature of aesthetic experience. We feel gross about engaging with art by bad people because there’s something peculiar to enjoying art that infects our sentiments. This misses the mark, however, since #MeToo moments have come to decidedly non-artistic media. Credible accusations against influential philosophers like Thomas Pogge and John Searle prompt their own moral and practical questions about their works, just like those above. So whatever grossness consists in has nothing to do with aesthetic enjoyment as such. It has to be something more basic.
+
+When we recognize a movie, song, book, or philosophical text as good, we implicitly credit that goodness to the creator. A movie’s success is a success creditable to the people who made it. In short, you can’t call something a masterpiece without calling its creator(s) masters. If *Chinatown* represents neo-noir perfection, then that reflects well on Roman Polanski. The connection between enjoyment and credit to the creator might have exceptions, but it explains the asymmetry in our reactions to learning that an artist we like is a fiend, and learning that an artist we hate is a fiend. The latter doesn’t change our attitudes to the works in question, but the former does.
+
+This in turn tells us why the grossness phenomenon occurs in the first place. Our enjoyment of art by vicious artists bothers us because it fosters cognitive dissonance in us. On the one hand, by enjoying their art, we credit these artists for their success. You’ve got to hand it to Polanski for his achievements in *Chinatown*, and that means a certain kind of respect is due. But that respect clashes with the contempt we feel towards Polanski for his crimes. As a result, we hold two incompatible attitudes towards the same person — respect for their achievements, and contempt for their character — and their incompatibility comes to the fore when trying to watch their movies. The grossness phenomenon consists in this dissonance, the difficulty in reconciling the respect for brilliance with hatred for vice.
+
+Naturally, we don’t like cognitive dissonance. Opposing attitudes pull us in opposing directions. We want to enjoy masterpieces, while avoiding having anything to do with horrible people. To resolve this dissonance, we could give up one of the conflicting attitudes that creates the dissonance in the first place; we could give up our respect or contempt. But this is easier said than done, since those attitudes find footing in beliefs that are just as difficult to shake. Some people do, of course, change their minds in these situations. They avoid contempt by convincing themselves that the artist’s transgressions weren’t that bad, or avoid respect by thinking that they never really liked those works anyway. These responses are often more like rationalizing, however, rather than rational changes in view.[[DMA3]](#_msocom_3)
+
+\_\_\_
+
+"In all likelihood, there is no resolution to this kind of dissonance. Our heroes let us down all the time, as admirers of Bill Clinton know well in the #MeToo moment."
+
+\_\_\_
+
+Our attitudes can also evolve without simply going away.  Contempt can be resolved with forgiveness, acknowledging guilt while giving up feelings of blame. A *House of Cards* fan could admit Spacey’s guilt, but forgive him and continue to enjoy his work. But while forgiveness is often an option, it is typically reserved for people with a special standing, like victims. The casual Spacey fan, with no personal ties to Spacey, isn’t at liberty to forgive him; it would come off less as an act of mercy, and more as a cynical way to enjoy *American Beauty* without guilt. On the other hand, respect and contempt can turn into grudging respect, a complex tincture of admiration and disdain, like what Clarice Starling feels towards Hannibal Lecter. But living with grudging respect is just as hard as navigating a course between respect and contempt.
+
+One popular suggestion claims that there is no dissonance here, since one can separate the art from the artist. Maybe you can enjoy Louis CK’s comedy while condemning Louis CK, because enjoying his comedy only means crediting its merits to his creativity and sense of humor, or to one aspect of him, but not his character as a whole. A stronger version of the separation claim denies that appreciation involves any sort of credit-giving; enjoying a work commits you to nothing more than the merits of that piece, not the skill of its creator. However, the modified credit claim (that merits only reflect well on skills) collapses into the original credit claim, since skills reflect well on their possessors, and while the separation claim (that merits do not necessarily imply credit at all) might be logically possible, it seems psychologically unrealistic. It claims that, while we might say that a film is good, that does not commit us to thinking that someone did a good job.
+
+In all likelihood, there is no resolution to this kind of dissonance. Our heroes let us down all the time, as admirers of Bill Clinton know well in the #MeToo moment. Every person responds to this conflict in their own way, but for those of us who can’t stomach the dissonance, the only way to avoid the grossness is to avoid the things that trigger it: no more Polanski, no more CK, etc.
+
+While the grossness-as-dissonance view explains our struggle with the practical issue of dealing with monstrous virtuosos, it doesn’t obviously give us a way forward with the moral issue: what does justice demand of us? Can a good person continue to enjoy the works of vicious artists without risking a morally vicious kind of cognitive dissonance? There are no easy answers here, but by understanding why we struggle this way in the first place, we do have a good start.
+
+*This article was originally published on the [APA Blog](https://blog.apaonline.org/ "APA Blog") as part of their Philosophy in the Contemporary World series and is reprinted here with permission.*

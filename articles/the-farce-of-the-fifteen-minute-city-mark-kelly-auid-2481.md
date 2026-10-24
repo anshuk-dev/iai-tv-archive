@@ -1,0 +1,98 @@
+---
+title: "The farce of the fifteen-minute city"
+subtitle: "Foucault and petty utopianism"
+author: "Mark G.E. Kelly"
+date: "17th May 2023"
+article_id: "2481"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,945 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-17-The-farce-of-the-fifteen-minute-city.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-farce-of-the-fifteen-minute-city-mark-kelly-auid-2481"
+---
+
+# The farce of the fifteen-minute city
+
+*Foucault and petty utopianism*
+
+**By Mark G.E. Kelly** | *17th May 2023* | *Read time: approx. 10 mins* | *1,945 words*
+
+![The farce of the fifteen-minute city](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-05-17-The-farce-of-the-fifteen-minute-city.dc.webp)
+
+---
+
+*The 15 minute city has become a byword for modern planning, sustainability and the good life. To some it is a conspiracy designed to keep people in their place. However, through an understanding of Foucault, the allure of the 15 minute city is shown to be a modernist solution to a postmodern world writes professor Mark G.E. Kelly.*
+
+The concept of the 15-minute city, though based on rather older ideas in urban planning, has risen to quite sudden prominence in the context of the COVID-19 pandemic, having been first proposed as a way to improve cities that leans into the pandemic-associated movement restrictions by trying to reimagine urban living to eliminate lengthy commuting, and then become in turn a magnet for conspiracy theories that already understood the very pandemic itself as an exercise in social engineering. In sorting out this mess, I would recommend you to consider the thought of Michel Foucault, who understood contemporary societies in terms of the interaction of power and knowledge to discipline the bodies of individuals and thereby minutely to regulate populations, as allowing a critical view of such ideas that does not require us to believe in a grand conspiratorial narrative.
+
+[![23 03 15 Schopenhauer vs HegelRESIZED.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-03-15-Schopenhauer-vs-HegelRESIZED.dc.webp)
+
+SUGGESTED READING
+Schopenhauer vs Hegel: progress or pessimism? 
+By Joshua Foa Dienstag](https://iai.tv/articles/schopenhauer-vs-hegel-progress-or-pessimism-joshua-dienstag-auid-2416)
+
+In particular, I want to consider the concept of the 15-minute city in this regard as a form of utopian scheme, a form of knowledge production that serves strategies of power in our society. Foucault consistently opposed utopianism. One might even suggest this is a signature of his approach, were it not that his anti-utopianism is the fulfilment of a long anti-utopian tendency in European/continental/left thought, which one can trace back to Karl Marx in particular (think of his critical chapter on ‘utopian socialists’ in the Communist Manifesto, and his refusal to articulate any positive vision of communism).
+
+[![](https://iai.tv/assets/SubscriptionsSeven417.webp)](https://howthelightgetsin.org/festivals/hay?utm_source=IAI+Articles&utm_medium=Embedded+ad&utm_campaign=IAI+embedded+article+ads&utm_id=IAI+Articles)
+
+Utopianism is typically associated with grand schemes for reforming society. At what point, however, does politics become ‘utopian’? I tend to think the slippage from policy to utopianism occurs extremely readily, to the point that any and all politics ought to be assumed to be utopian. This is because any attempt to plan anything involves the development of an idealised conceptual plan for reality that does not match what we will get when the plan is put into effect. Indeed, Foucault once declared the sole moral imperative he would prescribe was ‘never to do politics’.
+
+We are sometimes told that policy can and should be ‘evidence-based’. This proposition is itself not based on any kind of evidence, either for its empirical applicability or even for its normative desirability given the inapplicability of evidence to form any policy at all, given the complexity of social systems. That is to say that, even if you have evidence that a policy works in a particular context, say in one country, any other situation in which you attempt to apply it is likely to be sufficiently different that you will not know whether it will yield the same result.
+
+\_\_\_
+
+One might say that the 15-minute city concept is benign precisely because it does not entail any particular policy. This, I would suggest, make it at best vacuous and at worse insidious.
+
+\_\_\_
+
+The concept of a 15-minute city – of an urban space in which all one’s needs can be met within a 15-minute journey – would seem to be a kind of petty utopianism, a modest proposal that only seeks to make our lives liveable, eliminating the long commutes that take such a toll on the environment and on our lives. It easily aligns it with such notions as the ‘work-life balance’. Indeed, it would surely seem unobjectionable. Doesn’t everyone want to live close to all the facilities they need?
+
+While indeed this is, all else remaining equal, desirable, we can immediately pose various critical questions:
+
+* what would need to be changed to make this happen?
+* What would this mean for the distribution of the provision of services that are sufficiently specialised that they cannot feasibly be within 15 minutes of everyone?
+* what does this imply for those who want to live in a way that doesn’t easily accord with the 15-minute city at all, e.g. those who do not want to live in cities at all, most especially those who wish to live rurally more than 15 minutes from any kind of centre?
+* might there indeed not be an overriding wish not to be around other people in the density implied by the 15-minute city?
+
+One might say that the 15-minute city concept is benign precisely because it does not entail any particular policy. This, I would suggest, make it at best vacuous and at worse insidious: either it doesn’t mean anything in practice, or it means various things without spelling out what they are.
+
+An example of a bad policy implication would be if the 15-minute concept were to be used to justify the densification of cities on the basis that this will drive the availability of facilities. This might, all else remaining equal, be true, but it also overloads existing facilities and can be said to be undesirable in itself.
+
+[![related-video-image](https://iai.tv/assets/Uploads/camus-vs-kafkav3.webp)
+
+SUGGESTED VIEWING
+Kafka vs Camus
+With Emma Sulkowicz, Andrea Elliott, Janne Teller, Paul Muldoon](https://iai.tv/video/kafka-vs-camus)
+
+An example of a good policy implicature might be if the concept leads the state to guarantee that there is always a GP within 15 minutes of you wherever you live in an urban area. However, given the paucity of GPs, this could have all kinds of undesirable consequences e.g. spreading GPs out inefficiently to meet this artificial with negative overall impacts on the availability of GPs to some, and potentially worse overall population health outcomes.
+
+The concept of the 15-minute city has latterly become fodder for conspiracy theories. Indeed, conspiracy theories are the first thing I think of now when I hear the phrase, and indeed Google returns me a hit about the conspiracy theories first, providing an article about the original concept only second.
+
+The conspiracy theory imagines that the concept of the 15-minute city implies the state preventing people from travelling more than 15 minutes from their homes, a paranoid fantasy stoked by the experience of such restrictions during COVID-19. For obscure reasons, the powers that be are suspected of desiring to restrict our mobility. Such fantasies seem faintly ridiculous to me since our mobility has always been effectively restrained in practice: as psychogeographers of the twentieth century discovered, the rich offerings of major modern cities and the freedom of vehicles that could let us drive to any location on a continent, people simply traipse between a small set of familiar locations with only occasionally and well defined detours for vacations etc. This being the case, there is simply no need for states to circumscribe our movements so stringently since we effectively manage ourselves very well in this regard.
+
+\_\_\_
+
+This is what I think the 15-minute city concept does: it re-presents society as it exists, either in the form of valorising and romanticising certain existing spaces or, more often, suggesting our existing mundane reality could be transformed into something perfect through some ostensibly minor modulations.
+
+\_\_\_
+
+Instead, Foucault’s concept of the ‘heterotopia’ may provide insight into this new planning principle. Articulated in a relatively obscure 1967 lecture (published in English under the title ‘Of Other Spaces’), this notion has long been seized on by geographically minded readers given the dearth of spatial concepts in his thought. Here, Foucault speaks briefly and dismissively about utopias as ‘fundamentally unreal spaces’ before moving on to discuss heterotopias, ‘places that do exist and that are formed in the very founding of society – which are something like counter-sites, a kind of effectively enacted utopia in which the real sites, all the other real sites that can be found within the culture, are simultaneously represented, contested, and inverted’. It is rather a stretch to think that a 15-minute city can be described in such grandiose terms. Foucault’s examples of heterotopias include mirrors, forbidden sacred sites, ‘rest homes and psychiatric hospitals’, cemeteries, gardens, museums, libraries, brothels, ships, and prisons. The 15-minute city is supposed to be more prosaic than this: it’s not supposed to be curated or restricted, but just to provide a bunch of stuff within a small radius.
+
+Broadly, the conspiracy theoretic response to the concept of the 15-minute city is to paranoically imagine that this is a proposal to turn real urban neighbourhoods into heterotopias. I don’t think we can entirely dismiss the possibility that this might one day happen, but this does not seem concretely to be afoot. Of course, this perhaps begs the question as to whether it is possible to realise the 15-minute city without introducing more controls than its advocates imagine.
+
+It might seem odd for me to categorise the 15-minute city as a utopia and hence ‘fundamentally unreal’, given that such cities apparently exist, but here I follow Foucault’s suggestion in this regard that a utopia can ‘present society itself in a perfected form’. This is what I think the 15-minute city concept does: it re-presents society as it exists, either in the form of valorising and romanticising certain existing spaces or, more often, suggesting our existing mundane reality could be transformed into something perfect through some ostensibly minor modulations.
+
+[![23 03 01 Orwell and Huxley.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-03-01-Orwell-and-Huxley.dc.webp)
+
+SUGGESTED READING
+Orwell, Huxley and the path to truth
+By Emrah Atasoy](https://iai.tv/articles/orwell-huxley-and-the-path-to-truth-auid-2406)
+
+It is typically suggested that utopian fantasies have a positive and productive function affecting our reality and hence should be encouraged. Foucault’s critical point in relation to this, spelt out not in his 1967 but in his 1970s work on power, is that utopianism can function as a screen or device for the operation of power. Foucault’s crucial insight is that the way discourse or knowledge operates relative power is irregular and ‘tactically polyvalent’: a single concept has no determinate political meaning, but rather can be turned to various purposes in different contexts. Indeed, it allows the policymaker to align themselves with a concept to suit specific needs. The concept of the 15-minute city, I would suggest, functions within our contemporary political order as an excuse for the cities’ excrescences. In common with many visions of a ‘perfected society’, it imagines reality made better and thus encourages people to accept things on the basis that their negative experiences are outliers that can and will be exorcised from their reality given time.
+
+The 15-minute city concept at a minimum is supposed to counter nightmare scenarios such as those now unfolding in the urban sprawl of Western Sydney (where I work) where entire suburbs are erected with no facilities to speak of. As a concept that provides minimum standards for urban planning, it again seems unarguable: every new domicile must be within a certain distance of various facilities. However, in this regard, I worry that this becomes an excuse for development: with the guarantees of the 15-minute city, people are less worried about the sheer perniciousness of allowing urban sprawl. In Australia, such sprawl is, for example (although in point of fact, not in the cases already mentioned), implicated in the ongoing inexorable driving to the extinction of koalas in the wild through habitat loss. It serves conceptually to licence two forms of development in Australia, urban sprawl in the guise of constructing new ideal communities, and densification within the existing city, allowing disregard towards the environmental impacts of continuing to expand Australia’s population.
+
+This is not to say that I am simply opposed to the city, however. This would imply a completely opposite grand utopian romanticism that imagines that all our problems can be solved through a return to nature. The Foucauldian position, difficult as this might be for us to adopt, would be to reject all the lures of utopian fantasies in favour of rigorously analytical attention to the reality of our situation and its difficulties, which can only be solved in a way that is entirely specific and local if we are to avoid the pitfalls of broad approaches that invite all kinds of unforeseeable negative implications.

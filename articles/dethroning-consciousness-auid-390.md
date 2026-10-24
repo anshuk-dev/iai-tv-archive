@@ -1,0 +1,103 @@
+---
+title: "Dethroning Consciousness"
+subtitle: "Is there space for free will in neuroscience?"
+author: "Barry C. Smith"
+date: "28th July 2014"
+article_id: "390"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,939 words"
+read_time: "Read time: approx. 15 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Neuroscience-and-mind.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/dethroning-consciousness-auid-390"
+---
+
+# Dethroning Consciousness
+
+*Is there space for free will in neuroscience?*
+
+**By Barry C. Smith** | *28th July 2014* | *Read time: approx. 15 mins* | *2,939 words*
+
+![Dethroning Consciousness](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Neuroscience-and-mind.webp)
+
+---
+
+Barry C Smith is a professor of philosophy at Birkbeck and Director of the Institute of Philosophy at the School of Advanced Study, University of London. His interests range from the philosophy of wine to Chomskyan theory of mind and language.   
+  
+Here, he discusses free will, philosophy of mind, and our changing conception of consciousness thanks to recent advances in neuroscience.
+
+**Do you think that neuroscience can tell us what the mind is?**
+
+I think neuroscience can give us a bigger and more precise account of the many things that go on in the mind. For a long time we've relied on what we consciously have access to, or the use of mind in language and in thought and in all the things that we’re aware of. But there are many aspects of mind that are slightly hidden from our own view and I think that neuroscience has done a good job of opening up and casting light on that and showing us some of the inner workings, the hidden workings, of the mind.
+
+**What are these things that we can’t find ourselves that neuroscience is helping us with?**
+
+When you think of how you process information visually you think, “I just see things”, and you might think that’s very different from, say, hearing things. But what you don’t realise is that sometimes the brain puts together information from seeing and hearing to affect what you actually experience. So there’s an interplay, there’s a cross-talk between our senses,
+
+For example, when you are looking at people speak you can better hear what they are saying when you are able to see their mouth moving, because in fact you are influenced in what you hear them saying by the signals you are getting through the eyes.
+
+We can set up little illusions where if you have a mouth making one speech noise but auditory feedback giving you a different noise - for example, if you see a mouth making the noise for ‘gah’ and you have the audio channel playing the sound ‘bah’ what you actually hear is ‘dah’ which is in between 'bah' and 'gah', something you neither saw nor heard but something that is in your experience, made by both seeing and hearing.
+
+So finding out that our senses collaborate and work in that way together is one thing. Sadly a lot of information we have is from patients with lesions or brain damage, but which again reveals some of the hidden workings of the mind. We have people who, because of stroke damage to the right side of the brain, the parietal area of the brain, sometimes have a way of disowning one of their arms. So they will say “this arm or this hand isn’t mine”, and you say “well whose is it?” And they might say to the doctor “it’s yours” or “it’s my sister's”’ and they don’t think it is their arm. But if you prick the hand, they might experience pain and if you say “is there pain here?” they’ll say “yes”, and if you say “whose pain is it?” they’ll say “I don’t know”.
+
+This shows us that it’s not enough for you to say this is your own experience, that you’re having sensations. We might think thatjust having a sensation means “I obviously know it's my sensation”; if there’s pain I obviously know it's mine. Wittgenstein thought a person could feel pain and yet wonder whose pain it was. But these patients can wonder whose pain it is, which shows that there’s maybe a system which actually claims ownership of some of these experiences. It’s not enough to just feel sensations; you also need to claim ownership of the sensations which requires a number of different systems working together to give you a normal experience of yourself and the world.
+
+**Is that evidence that there isn’t a unified self?**
+
+It puts doubt on the idea there’s a unified self. Or it tells you that the unity we experience and that we take for granted is in fact produced by a very complex collaboration of a number of different neural systems working together like an orchestra to produce a single sound. While we thought there was a seamless whole, something indivisible – this is the self, there’s nothing I can break it down into – it’s just the way it seems. Neuroscience is actually showing us that no, you can actually see, as it were, through fragmentation of the self, a number of different parts that must be collaborating to produce your overall seeming unity of consciousness.
+
+**What do we learn from neuroscience about the importance of consciousness itself, specifically free will and the neuroscientific experiments that seem to undermine it?**
+
+I think what we have learned is that neuroscience has dethroned consciousness, in that it has shown us that consciousness is not as important or as always involved in the things we think we’re doing. Very often as we move around the world, we walk and talk and eat and we look and we reach for things; we imagine ourselves to be consciously in control of all of these actions as though we’re constantly monitoring and guiding and performing movements and making choices all the time. But if anything, much evidence from neuroscience is showing us that consciousness is sometimes coming after the fact, that a lot of these operations are going on by unconscious mechanisms that will do things for you.
+
+There’s a nice experiment where you’re drawing circles and your hand is under the table drawing circles and you can see the result of the circles you’re drawing on a computer screen. Now, what happens is that by adjusting the programme they make the circles on the screen larger than the ones you’re drawing and, without noticing that you’re not actually in control, your hand starts to increase the size of circles it’s making to make them match what you’re looking at on the screen. So there’s a little system operating in you which you’re not aware of which makes sure that what you’re doing with the hand matches what you see with the eye. Nevertheless you’re under the illusion that you’re completely in control of the process and that that the circles are getting larger because you’re draw them in a larger way, even though that’s not really true.
+
+**What advantages does that mechanism give us?**
+
+I think it does give us advantages. The view, which is a bit of an illusion, that we’re always in charge and involved and consciously thinking through everything that we’re doing would make us too slow and would give us too much of a burden to be able to achieve things as effortlessly and fluently as we do.
+
+Very often our skilful way of moving around the world and dealing with it – avoiding obstacles or greeting people or recognising them – is all happening in an unconscious and rather automatic way. And that’s good because it frees up time for us to use our consciousness for higher levels of things like reflecting on philosophy and questions about why consciousness matters.
+
+**What about in a specific sense where your sense of sight is being deceived?**
+
+I don’t think your sense of sight *is* being deceived. What you’re being deceived about is you being in control. Normally, if you’re making movements and you’re seeing the result of them – so if you’re drawing a circle and seeing the result – it’s quite normal for the two things to go together: how your hand feels as its draws the circles and what you see as the line that’s drawn, they usually go together. But with this clever manipulation you can show people that if you change the size of the circle, the hand will come into agreement with it. What that shows you, I think, is that the brain really tries to put bits of information together as to how things look and how they feel and it does that automatically. It's not something which you’re having to do or pay attention to.
+
+I have colleagues in a lab down the hallway who are doing an experiment like this. When people walk along the street or along the floor they hear the sound of their own footsteps, but they’re not really paying much attention to the sound. But the brain is paying attention. The brain is paying attention to how it feels when one foot is planted in front of another and the noise that it's hearing. The brain is taking this information, happening simultaneously, and calculating that the noise goes with the pressure of the foot on the floor. And what they are doing in the experiment – it's very cunning – is to get people to wear fancy shoes with sensors which feed back information to make the noise of their footsteps louder or heavier. Just by hearing the noise changing, people start to feel that their body is bigger and heavier, and they sometimes even start to stoop a little from the effort.
+
+What that’s showing you is that the brain takes in a lot of information so that it regulates how you adjust to, move and react in the environment you’re in. But it’s doing it in a way that’s quite different from the way that we think. And that kind of correlation between the sound and the feel means that it’s not just one-way: it’s not just “I feel this way” and then the sound follows, but rather that the brain is trying to connect all of these bits of information. If you change the sound you’ll change the way things feel.
+
+So your knowledge of your own body is actually quite fluid. If you think about it, people who have eating disorders and don’t recognise that their body is very thin or people who continually feel fat, this may be because those signals are actually out of step and that the information they’re getting back from vision is actually mismatching what they feel.
+
+So I don’t think what we’re finding out is that we’re constantly deceived; what we’re finding out is that there are ways that things go right in the brain, enabling us to move around the world, which we didn't previously understand. We didn't know how these bits of information were put together, and now we're beginning to find out. But this also gives us clues as to what happens when things go wrong, and we’re beginning to get a better understanding of why some people have very strange attitudes to their own body or why someone might feel that a bit of their body doesn’t belong to them. In beginning to understand these strange and unusual cases they’re no longer just mysteries and we can now see how they relate to what we just didn't notice was already going on inside us.
+
+**Do we need ownership of these unconscious processes in order to have free will, or can we put them aside and say maybe we don’t have free will in these instances but we do in certain situations?**
+
+I think that’s right. The thing to realise is you’re not in charge of what you’re doing all of the time. A lot of the time you simply devolve responsibility to these unconscious processes and they’ll do it for you and they work pretty well, we can fool them but they work pretty well. So I don't think that's a threat to our feeling of free will.
+
+What is more a threat to our feeling of free will is neuroscientists telling us that when we take a decision it isn't of our free will. Take the classic Libet experiment where they say, “I want you to, when you’re ready, move your finger” and then “I have a way of measuring what the time was by looking at a fast moving clock and I want you to notice what the time was when you decided to move your finger”. And of course what the classic experiments show is that instead of the process being consciously deciding to move my finger, brain activation and then movement, it’s the other way round: that there’s brain activation, then there’s conscious decision, then there’s movement.
+
+Now, people say that this shows we don’t have free will. But it shows, I think, that your intention to move your finger happened long before the movement to actually “let it off the leash”. When the experimenter explains what they want you to do – “I want you to move your finger when you’re ready” – the question is actually “when did you intend to move your finger?” and the answer is “when I agreed to take part in the experiment”. So now I know that I *intend* to move my finger but when exactly will I do it? Now? Now? Not yet? Now. That’s an automatic system that plumps for the very moment, but you already have the intention to make the movement long before. So we shouldn’t think that you are only having the conscious thought to move your finger at the very moment when you let it off the leash.
+
+When you’re given arbitrary decisions to make – “Do I go right? Do I go left?”, “Do I move my finger now or not?” – isn’t it good that we have an automatic system that just plumps “go now” rather than actually having to think it all through and decide. We don't need to. I don't think that's a threat to free will. It's a threat to the idea that free will consists of, at every moment, consciously deciding what you're going to do at that moment, because I don't think that's true.
+
+**So you think that when people decided to take part in the experiment, and at some point to move their finger, that wasn’t preceded by brain activity in the same way**
+
+They’re listening to the instructions and they’re asked “would you agree to participate in an experiment where I want you to move your finger whenever you're ready, do you understand that?” “Yes.” That’s the point in which they intend to move their finger. When it will actually happen? A lot later.
+
+**At that point where they intend to, could you not predict that from brain activity before they make the decision. Are you saying that’s free because that’s not the same sort of process as moving the finger is?**
+
+Yes, it's not the same sort of process as moving the finger and I don’t think you want to say that the brain process precedes it, but I think you do want to say that the brain process is identical with intending to do it.
+
+Unless we’re dualists we think that if I intend to do something, I’ve created the intention and that actually has to mean my brain is reconfigured at that time. But because the experiment is looking at when do you actually release your finger, neuroscientists are saying *that’s* supposed to be the moment of free will. I don’t think that’s the moment of free will: you’ve decided you’re going to move your finger, now you’re asking when will you actually do it.
+
+You’ve got to look at these interpretations of what we mean by free will. And notice that by interpreting that free will is the very moment where you let the finger loose, that would suggest the bad picture that we’re consciously controlling every deliberate movement all the time, consciously monitoring, consciously doing it. No, we’re not. We’ve got automatic systems that do that. When you run up a set of steps it would be a terrible idea to think you were consciously choosing exactly how high or low you put your foot – if you tried to do that you would probably fall over.
+
+We’ve got this very nice system which works beautifully. You can also do some nice experiments where you can show people running up steps very happily, but if you make one of the steps just slightly higher or a slightly different size, but so little difference that its almost imperceptible to the eye, people trip on that step all the time. Why? Because they’ve automatically set their movements to be just right. And yet they might be very surprised why they keep tripping there – “I don’t mean to trip”. But it's not *you* who is in charge consciously at every moment of what you’re deliberately deciding to do. Instead you deliberately decide to run up the steps and then you set an automatic programme in operation and it does it – thank goodness!
+
+**Do you think that neuroscience can lead us to any philosophical truths or can it just help us to make up our own minds?**
+
+By itself, I don’t think neuroscience can answer philosophical questions, but I do think neuroscience can revise philosophical questions. We may have been asking the wrong questions, or we may have the wrong descriptions of the data. So when philosophers start with descriptions of the mind and how the mind works and functions – how we perceive how we act and so on – they may have those descriptions slightly wrong.
+
+In other words, the natural, everyday, common-sense way of thinking might actually distort the phenomena. I think neuroscience can give us better materials to understand the workings of the mind and then, when we know that, philosophers can ask better questions and, working with neuroscientists, can probably formulate better answers. So we need to start from the right starting place and neuroscience will help us with that. But equally, neuroscientists need philosopher to give them conceptual clarification and theoretical models for all the findings that they’re discovering. I think you need both.

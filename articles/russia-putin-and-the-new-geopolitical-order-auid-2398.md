@@ -1,0 +1,131 @@
+---
+title: "Russia, Putin and the new geopolitical order"
+subtitle: "The war in Ukraine: a year later"
+author: "IAI Editorial"
+date: "22nd February 2023"
+article_id: "2398"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,673 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Russia-Putin-and-new-geopolitical-order2.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/russia-putin-and-the-new-geopolitical-order-auid-2398"
+---
+
+# Russia, Putin and the new geopolitical order
+
+*The war in Ukraine: a year later*
+
+**By IAI Editorial** | *22nd February 2023* | *Read time: approx. 13 mins* | *2,673 words*
+
+![Russia, Putin and the new geopolitical order](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Russia-Putin-and-new-geopolitical-order2.dc.webp)
+
+---
+
+*One year on, the war in Ukraine continues to dominate the headlines. As Putin continues to admonish NATO’s thirst for expansion, and Western leaders maintain their support for their Ukrainian counterparts perhaps the most important question is what are going to be the long-term ramifications for the balance of world power. In this article, a number of world-leading experts, including Nigel Inkster, Owen Matthews, Svitlana Morenets, Stathis N. Kalyvas, Alexander Korolev, Chris Ogden, and Lasha Tchantouridzé discuss the state of Russia and the new geolpolitical order, one year since the invasion of Ukraine.*
+
+**Owen Matthews**
+
+In the first weeks of Putin’s invasion of Ukraine, Kyiv’s soldiers surprised the world by fighting the Russian army’s ill-planned and badly executed offensive to a standstill. NATO’s military assistance to Kyiv had essentially assumed that Ukraine’s army would be beaten in a full-frontal attack and focused instead on equipping them for a guerrilla war that would slow, not stop, the Russian steamroller. A year later, the cohesion of NATO and the scale of its assistance to Ukraine - now including main battle tanks and possibly deliveries of fighter jets - is at a level nobody could have predicted in those first chaotic weeks of the war.
+
+But though Russia’s military has been shown to be disorganized, demoralized and poorly-equipped, its sheer strength remains enormous. More, there was no sign in Vladimir Putin’s belligerent speech on the eve of the war’s anniversary that he intends to back down. On the contrary, Putin knows that defeat in the field would be fatal for his regime and for himself, and therefore has doubled down on the conflict, describing it as an existential battle for Russia’s survival against a belligerent West. Those two factors - the continued intransigence of the Kremlin and the weight of numbers and heavy metal still available to the Russians - will be crucial for the coming titanic struggles of the Spring and Summer.
+
+Volodimir Zelensky, too, has doubled down, abandoning his earlier willingness to negotiate over the status of Crimea and the rebel republics of the Donbas and insisting since September that only a full reconquest of all lost Ukrainian territory would be acceptable. Ukraine’s war effort is entirely based on the level of Western materiel it receives. Russia’s is limited only by political considerations such as avoiding the flickers of popular protest that arose after Putin’s announcement of a partial mobilisation on September 21st.
+
+The Russian economy, though damaged, has not been crippled by sanctions. The propaganda machine and police state created by Putin have succeeded in keeping the Russian people’s support for the war at surprisingly high levels. So the question going forward is who is more likely to win a war of attrition. Putin appears to be banking on Western publics tiring of supporting Ukraine - and assumed that his forces will be able to at least hold if not gain ground in Donbas. Already cracks are appearing on the fringes of the Western alliance, with majorities of voters in Hungary, Austria, Croatia and Italy opposing sending help to Ukraine. No peace deal is possible while both sides are still struggling for advantage.
+
+But if the war continues as a bloody stalemate after a summer of fighting the momentum for peace - including territorial losses of Ukraine - over justice in the sense of a complete defeat for Putin will grow. As former US Under-Secretary of State Rose Gottemoeller told me recently “there can be no return to the status quo ante” after the war - while in the same sentence insisting that “international law must be respected.” Tragically for Ukraine, both those things cannot simultaneously be true.
+
+*Owen Matthews is an award-winning writer who contributes regularly for The Spectator about Russia. He is the author of Overreach: The Inside Story of Putin's War Against Ukraine.*
+
+[![china russia2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/china-russia2.webp)
+
+SUGGESTED READING
+How the West got Russia and China Wrong
+By Aaron Friedberg](https://iai.tv/articles/how-the-west-got-russia-and-china-wrong-auid-2094)
+
+**Svitlana Morenets**
+
+Any Russian military plan to end the war against Ukraine victoriously can already be considered a failure. In the last year of fierce fighting, Vladimir Putin's imperial ambitions have shrunk from conquering Kyiv in three days to settling for capturing Donbas. Russia's war against Ukraine was intended to be a quick win, but today Russia's president is settling in for a prolonged conflict. Any peace deal that refuses to reward the invasion of Ukraine will be the downfall of Putin's regime.
+
+Tensions are rising in the Kremlin, with Putin's opponents openly criticizing his poor war strategy and the heavy losses of Russian military personnel. There have been clashes between Putin and Yevgeny Prigozhin, founder of the Wagner group, whose mercenaries are now the main force trying to seize Bakhmut. Even from behind bars, Russia's jailed opposition politician Alexei Navalny has been pestering Putin, saying that Moscow's military defeat in Ukraine is 'inevitable' and calling for free elections once Putin's 'dictatorship' is dismantled.
+
+The political elite in Moscow is coming to believe that Russia is incapable of winning – or ending – the war with its current leader. It may already be looking for a replacement. Putin himself may want to find a successor if he realizes he can no longer hold on to power. His ratings risk dropping low before the 2024 presidential race, although Russia is hardly famous for holding transparent democratic elections. Playing musical chairs with Dmitry Medvedev on the Kremlin’s throne won’t work this time: new candidates may be Sergey Kiriyenko, first deputy chief of staff, or Nikolai Patrushev, the powerful secretary of the Kremlin's Security Council.
+
+Before launching his full-scale invasion, Putin changed Russia's Constitution, allowing him to remain in power until 2036. Therefore, he will do all he can to overwhelm Kyiv with the mass of bodies attempting to break through Ukraine's front line. If Russia successfully captures Donbas, Putin will present this as a victory to Russian voters. He will hope it can save his system from collapsing – if not, its debris could bury Putin himself.
+
+*Svitlana Morenets is a Ukrainian journalist. A staff writer at the Spectator, she has been hailed as one of the leading correspondents of the conflict.*
+
+**Stathis N. Kalyvas**
+
+On the eve of Russia’s invasion in Ukraine one year ago, most observers shared one key uncertainty and certainty: uncertainty about whether Russia would invade; and certainty that if it did, it would prevail easily.
+
+We now know that Ukrainians were able not only to match Russia on the battlefield but also to roll back some of its initial gains. However, we are uncertain about the final outcome of the war. Although it is highly unlikely that the Russians will achieve their original goal to turn Ukraine into a puppet state, we are uncertain whether the Ukrainians will manage to achieve a decisive military victory or if the war will settle into a stalemate.
+
+Can we pierce the fog of war? How about revisiting our original assumptions? We then thought that a Russian invasion was unlikely because its risks and costs were overly high. As it turns out, this assumption was correct. What we got wrong was Vladimir Putin, whose recklessness we underestimated. Since then, however, he has been much less reckless: he has sustained serious reputational damage by failing to achieve his initial objectives, by effectively conceding NATO’s expansion, and by losing the city of Kherson only a few days after proclaiming its annexation to Russia.
+
+One year ago, we also thought that Ukraine was going to fold against Russia’s military superiority. We both overestimated Russia’s military capability and underestimated Ukraine’s willingness to fight—and fight effectively. [Public opinion surveys](https://dif.org.ua/en/article/results-2022-under-the-blue-yellow-flag-of-freedom) show consistently high levels of Ukrainian resolve; battlefield evidence suggests that the Ukrainian military’s capability keeps improving, sustained by a combination of high morale and massive Western assistance.
+
+We have learned in short that Russia was significantly weaker than we initially believed, that Putin is willing to absorb more punishment than we ever thought he would, and that Ukraine is fighting more effectively by the day.  While the outcome of the war is impossible to predict, it is also safe to say that never has a decisive Ukrainian victory appeared more likely than now, one year after Russia invaded.  Such an outcome bodes ill for Russia’s political future.
+
+*Stathis N. Kalyvas is a political scientist who is the Gladstone Professor of Government, at the University of Oxford and a University Academic Fellow at All Souls College, Oxford. He is the author of numerous books, including The Logic of Violence in Civil War.*
+
+[![related-video-image](https://iai.tv/assets/)
+
+SUGGESTED VIEWING
+The fantasies of the West
+With Paul Mason, Peter Hitchens, Bhavna Dave](https://iai.tv/video/the-fantasies-of-the-west)
+
+**Nigel Inkster**
+
+The day after Russia invaded Ukraine, the EU’s foreign policy chief Josep Borrell called on China to use its influence with Moscow to stop the fighting. That was never a realistic expectation.
+
+Just three weeks before the invasion, Russian President Vladimir Putin had visited China and together with President Xi Jinping announced a strategic partnership “without limits” with the declared intention of combatting US global influence. It is unclear whether Putin told Xi of his invasion plans – he had after all shared them with virtually none of his own senior officials – though Chinese officials have denied that he did. But China should not have been caught by surprise as both the US and the UK had passed it what proved highly accurate intelligence about Putin’s plans.
+
+Since then, China has maintained an ostensibly neutral position in the conflict. At the same time, China has blamed NATO expansion for provoking the conflict and has amplified Russian disinformation. So far China has not supplied Russia with weapons, fearing the impact of secondary sanctions. But according to US Secretary of State Blinken, presumably citing secret intelligence, that may be about to change.
+
+China sees the Ukraine conflict solely through the prism of an increasingly zero-sum relationship with the US. At the beginning of 2023 there were signs that an accumulation of domestic and foreign policy challenges had driven China to reduce tensions with the US and its main western allies. But the furore engendered by the discovery in US airspace of what was clearly a Chinese surveillance balloon – though China has rejected this characterisation -has had the effect of further exacerbating relations.
+
+China has doubtless been disconcerted by Russia’s poor military performance: it does not like being associated with failure. But, driven by its own interests and a conviction that “the East is rising, the West is in decline”, it will stick with Moscow come what may.
+
+*Nigel Inkster is the former director of operations and intelligence for the British Secret Intelligence Service. He recently wrote The Great Decoupling: China, America and the Struggle for Technological Supremacy.*
+
+**Alexander Kolorev**
+
+The Ukraine war is stress-testing the China-Russia partnership. However, it may also result in further consolidation of China-Russia alignment. The war has not significantly altered Beijing’s increasing recognition that it is on a long-term collision course with the United States, especially after high-profile visits by top US officials to Taipei and the Biden administration unveiling on 27 October 2022 a new defence strategy that effectively puts the US military into Cold War mode with both China and Russia. China and Russia’s shared perceptions that the US jeopardizes their geopolitical interests as well as civilizational identities and domestic regimes have only increased since the war.
+
+Russia’s relative weakness vis-à-vis China and its poor performance in the war with Ukraine are also unlikely to make China-Russia alignment less valuable for China. Military failures of great powers in their wars with smaller states do not undermine great powers’ attractiveness as strategic allies. The United States’ unsuccessful wars in Vietnam, Iraq, and Afghanistan as well as Soviet Union’s failures in Afghanistan and Russia’s poor military performance in the Chechen wars prove that. Moreover, relative weakness does not have immediate implications for alignment formation – all US allies are disproportionally weaker than Washington.
+
+On the other hand, Russia has already started considering China as not only a target market for its weapons and energy resources but also a source of critical equipment and technologies. The Western sanctions against Russia will only strengthen that trend. Russia will become more dependent and, hence, more willing to align with China. China might naturally take advantage of that situation, simultaneously using more complex and less traceable schemes in bilateral transactions with Russia to not be caught violating the Western sanctions. In this context, while a formal alliance between China and Russia may not be in the works, the alignment is likely to stay.
+
+*Alexander Korolev is a Lecturer in Politics and International Relations at the University of New South Wales, Sydney. He is the author of China-Russia: Strategic Alignment in International Politics.*
+
+[![ukraine tank](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/ukraine-tank.webp)
+
+SUGGESTED READING
+What victory in Ukraine looks like
+By Hew Strachan](https://iai.tv/articles/nato-needs-to-decide-what-victory-in-ukraine-means-auid-2152)
+
+**Chris Ogden**
+
+In international relations, for the most skillful leaders, every crisis is an opportunity. In a period of chaos, of uncertainty, of flux, new realities can take hold and deep-held fears can surface. Russia’s invasion of Ukraine a year ago has provided such a moment, both for those actors whose rise appears to be challenging the current order – China and India – but also those actors who historically dominant position also appears to be in danger.
+
+Within weeks of Moscow’s first military forays into Ukraine, leaders in the West were keen to highlight an apparently new alliance in international affairs. Deeply authoritarian in nature, it paired Russia with China – two actors that seen to be proactively attempting to weaken and replace the existing liberal world order.  Resuscitating past narratives that were easily consumable for Western audiences, but adding a twenty-first century twist, these two great powers would constitute the opposition in a coming Second Cold War.
+
+Complicating these dynamics however, India quickly contradicted western expectations that it would be a natural partner alongside western democracies in the fight against this new axis.  Instead, New Delhi’s extremely close – historical and contemporary – strategic ties with Moscow dating from the late 1940s were bought firmly into the mainstream. This unearthing complicated straightforward western narratives of a new Cold War.  It also majorly augmented India’s power as a highly wily diplomatic chameleon capable of close relations with an array of frequently antagonistic actors (such as the US and Russia).
+
+What all of these developments mean in the coming years is the emergence of a multipolar order that is – by its very definition – highly complex and counter-intuitive. It will take truly dexterous leaders to prosper in such a paradoxical strategic environment.
+
+*Chris Ogden is Associate Professor of International Relations at the University of St Andrews. His research analyses the rise of great powers, authoritarianism in global politics, and China’s coming world order.*
+
+**Lasha Tchantouridze**
+
+One year into Russia's war in Ukraine, most NATO decision-makers still resemble the main character in the "David after Dentist" Youtube video. In that popular video, a child repeatedly asks: "is this real life?" and "why is this happening to me?" Unlike child David, most Western leaders, with a couple of exceptions, are not under the influence of powerful painkillers.
+
+It should be clear to anyone that Moscow means business. The Kremlin is about to transition the country's economy to a war footing, the Russian population largely supports the war efforts, and the Russian war machine seems to outperform the entire NATO military-industrial complex. Instead of preparing for war -- the only thing that will give pause to the Kremlin -- Western leaders are endlessly debating the question of transferring outdated 1980s military equipment to the Ukraine Armed Forces (UAF), the only force that is standing between the Russian army and Europe. Perhaps it makes sense in a Machiavellian scheme of things to ration weapons for Ukraine: the longer the war continues, the weaker Russia will be, with less appetite for more war. Except it does not work that way. When the UAF is short of weapons, it loses the operational tempo, as a result of which it sustains high rates of battlefield casualties.
+
+Western media celebrating UAF's battlefield victories and 200,000 or so Russian war losses does not make things better either. Germany had sustained nearly a million casualties before it attacked the Soviet Union in June 1941, and unleashed the mother of all continental wars. The West has to shape up and accept reality or suffer dramatic losses. As Shevardnadze used to say, without a free Ukraine, there is no free Europe.
+
+*Lasha Tchantouridzé, is Professor of Diplomacy and International Affairs, Norwich University, and Director of their Diplomacy Programme.*

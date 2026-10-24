@@ -1,0 +1,115 @@
+---
+title: "We can have freedom without the self"
+subtitle: "The self enslaves us."
+author: "Chris Niebauer"
+date: "18th July 2023"
+article_id: "2546"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,408 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/gettyimages-898703636-3386832287.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/chris-niebauer-we-can-have-freedom-without-the-self-auid-2546"
+---
+
+# We can have freedom without the self
+
+*The self enslaves us.*
+
+**By Chris Niebauer** | *18th July 2023* | *Read time: approx. 12 mins* | *2,408 words*
+
+![We can have freedom without the self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/gettyimages-898703636-3386832287.jpg)
+
+---
+
+*If you think about it, the idea of free will doesn’t make sense if there is no self, as cutting edge-research neuroscience research suggests. But Chris Niebauer argues that, counterintuitively, we become free once we realise there is no self.*
+
+You probably started to read this article with the belief that it was something you decided to read and that you will decide when to quit reading or read till the end. It comes down to the idea that there is a “you” or a “self” similar to an inner CEO running the show and calling the shots. Most importantly, there is the assumption that this CEO possesses what philosophers (and now neuroscientists) call free will. The question of free will continues as a central question of what it means to be human because free will asks explicitly…Who is it that has free will?
+
+For most ordinary people, it is assumed that “we” exist somewhere within the skull, and this self is free to make decisions. This self is the “captain” of the body, controlling our behaviors and making our life choices. The problem is that neither this inner self nor free will exists the way most think that it does. Research conclusively demonstrates that these are just stories that we humans make up. Michael Gazzaniga’s groundbreaking research eventually concludes that the self is just a fiction created by the brain. Humans make up such stories, believe in them, and rarely question their validity. However, this isn’t the bad news it may appear to be. It is good news, but it will take a while to grasp.
+
+\_\_\_
+
+The greatest modern confusion regarding the human mind is to confuse thinking with consciousness.
+
+\_\_\_
+
+One of the most popular questions students asked me was the nature of my position on free will. Students would always have the strangest look when I would subsequently ask them, “Do you mean what I think of free will or an answer beyond thinking?” The greatest modern confusion regarding the human mind is to confuse thinking with consciousness, so it is important to make this distinction. Let’s first consider the thinking mind. In Western culture, human existence is defined by thinking. With Descartes’s famous statement, “I think therefore I am,” our existence became dependent on thought. Most thinking consists of a running inner narrative consistently trying to explain what’s happening or creating a theory to predict the future. Thinking is the inner voice you hear while trying to sleep as it speculates how the email you sent to your boss will likely get you into trouble the next day. While many may know that the left brain specializes in language, it is also responsible for this inner voice. It is this inner voice that creates all the stories we call thinking. Most of us overthink to the point that thoughts get in the way of a peaceful life, as many suffer from intrusive and unwanted thoughts. Let’s first consider what neuroscience has discovered about the story-telling, over-thinking left brain.
+
+**[![There is no self buddhist philosophy](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/no-self-magic.webp)
+
+SUGGESTED READING
+Why There Is No Self: A Buddhist View for the West
+By Jay Garfield](https://iai.tv/articles/why-there-is-no-self-a-buddhist-perspective-for-the-west-auid-1044)**
+
+One of the most insightful findings on this topic is from split-brain patients. When Gazzaniga studied the isolated left brain after it had been surgically split from the right, it demonstrated the unique ability to create stories and then believe them. When a message was sent to the right brain like “stand up,” it complied, and the patient stood up. When the left brain was asked, “Why did you just stand up?” it invented a story that was believable but incorrect. The patient’s left brain replied, I was thirsty and needed to get a drink. The correct answer is “I don’t know,” as the left brain had no information about the initial request to the right brain, as the two sides were severed and could no longer communicate.
+
+In a different set of patients studied by V.S. Ramachandran, the right brain was taken offline by injury. There was no end to the stories the left brain would generate and believe without question. In one case, regardless of the patient’s hand being paralyzed, the left brain of the patient claimed that they could pick up a table using their paralyzed hand if the patient “wanted to.”
+
+\_\_\_
+
+Of all the stories the left brain tells, the story of the self is its greatest tale.
+
+\_\_\_
+
+Of all the stories the left brain tells, the story of the self is its greatest tale. Research strongly suggests there is no genuine CEO in command but only a narrative consisting of stories invented by the left brain. The brain creates the command to stand and only later is a story invented to explain this. These “decisions” were always after the fact and simply stories that fit the situation. If there is no self to control our thoughts, the thinking mind seems to lack free will and is as deterministic as any computer program.
+
+Before we get to the good news, let’s really ponder what seems to be the bad news. Not only is there no CEO that controls your thoughts and decisions, but most of us spend half our time in this thought-generated fantasy rather than in the real world. Research shows that we spend half of our waking days lost in thought-generated stories about what isn’t happening rather than directly experiencing what is happening. More importantly, this mind-wandering actually makes us less happy. As the authors Killingsworth and Gilbert put it, “The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.”
+
+This could explain why mindfulness and meditation are so popular; they wake us up from the dream of involuntary thinking and get us back to the real world. In the real world, we find consciousness. In the real world, there is awareness of what is happening in the here and now, not what might happen in the future or what we think happened in the past.
+
+It may not matter if our thoughts run like an inflexible computer program because our true existence extends far beyond thinking. This is the good news. Consider when you get up in the morning, take a sip of coffee, walk outside, and feel the sun on your face. These are direct conscious experiences without any contribution from the thinking mind. These experiences are without the categories of the thinking mind, including categories such as free will versus determinism. Zen masters such as Dogen taught that not thinking is the essence of the practice of Zen. This is mindfulness, and it is “beyond” dichotomies created by thinking. Free will simply has no meaning in a conscious state of no thought. We all experience the reality of consciousness, but when the thinking mind turns back on, it dismisses this as trivial or “being zoned out.”
+
+Most modern humans live their lives dominated by thinking, with only brief lucid moments of being conscious in the real world. However, this is not true for all humans. Consider the Pirahã, a small, almost extinct indigenous people in the Amazon that live as our hunter-gatherer ancestors did. While they deal with physical hardships that few of us could ever imagine, they have been described as the happiest people on the planet. They do not even have a word for worry. There are good reasons to suggest they rely far more on right-brain processes. For example, their language is simple on the surface but relies on the intonation of speech and can even be whistled, suggesting far more right-brain involvement. They are not storytellers, have no creation myths, and do not tell their children stories.
+
+\_\_\_
+
+The trick of thinking that goes unnoticed in a world possessed by thought is that these categories exist only as thoughts; categories do not exist in reality.
+
+\_\_\_
+
+The most defining quality of the Pirahã is living in the immediacy of experience. They are conscious of the here and now rather than thinking about the past and future. Rather than believing the made-up stories of the left brain, their world is grounded in simple consciousness. While most of us need classes on meditation or mindfulness to live in the moment, this is their natural state, which suggests this may have been the natural state of our ancestors.
+
+Those trained in meditation and mindfulness only occasionally think and spend most of their time mindful and conscious of what they are doing at that moment. The essence of Zen Buddhism is to be in the natural state of our ancestors, spontaneous with nature and conscious of it, rather than caught up in the thinking mind. However, these are the exceptions to the norm of living a life dominated by left-brain thinking. The good news is that anyone can shift from a storytelling existence to one grounded in consciousness.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/607-Explaining-the-Inexplicable.webp)
+
+SUGGESTED VIEWING
+Are you an illusion?
+With Joanna Kavenna, Anders Sandberg, Dan Zahavi, Lisa Bortolotti](https://iai.tv/video/are-you-an-illusion-the-self)**
+
+Perhaps the most defining aspect of thinking is its categorical nature. The left brain became responsible for language due to the categorical nature of language and the left brain’s categorical talents. Categories take one quality many different things have in common, ignore everything else, and create a group. Consider how in sports, if everyone has the same shirt, they become one team regardless of how many differences exist. We use the word “dog” to group animals that have something in common while at the same time ignoring all the differences.
+
+Once a category is created, it almost always has an opposite. We either work or have the day off, we are rich or poor, smart or not so smart, at our job, others are under or above us, we are happy or sad, etc. Take a simple thought like “I like my cat” and consider how each thought has its opposite. “I” as opposed to everyone else, “like” as opposed to dislike, “my” as opposed to yours, etc. Consider that even the self is fundamentally categorical, as in “you” as opposed to “everyone” and “everything” else. To think is to think in categories, and there is no way around this.
+
+The trick of thinking that goes unnoticed in a world possessed by thought is that these categories exist only as thoughts; categories do not exist in reality. As you look at your dog, yes, it is real, but its categorization into the group “dog” exists entirely as a product of the left brain and only as a thought. Consider the category of black and white. It seems simple, but exactly when does white become black? Of all the endless shades of grey, is there a line that separates the two, or does that line only exist as a thought? Do the categorical lines defining a country truly exist if no one thinks about it?
+
+These thought categories are products of the mind rather than being in the real world, but this is easy to miss. When students ask about my position on free will, it is easy to show that the thinking mind lacks free will because there is no inner CEO to control thinking. This could be considered a useful insight as it may help one stop trying to control thoughts. However, what about conscious experiences that transcend the categories of thinking? Is there freedom beyond the thinking mind?
+
+Here is the trick of thinking. Thinking created the category of “free will versus determinism” in the same way that it creates all categories of thinking. In a grand irony, the left brain created this category and tells a story of a self with free will while at the same time endlessly struggling with the fact that it cannot control thoughts. What is believed to be free will is simply a story created by the left brain in the same way it created the story of the self. While the left brain engages in the creation of stories it mistakes for reality, the right brain processes the world in a continuous, connected, and immediate way. Rather than ponder questions of categorical opposites with the voice in the head, the right brain processes conscious experiences in the present now. Strictly speaking, consciousness without conceptual thought is not deterministic, but it also does not possess free will. It is beyond the categories of thinking. However, there is a sense of freedom when one no longer identifies with the limited categories of the left brain. Perhaps this explains why this topic is so often riddled with paradoxes. Can you retract the free will question, and be conscious of a single breath of air? What becomes of all thought-created categories when there is only the conscious experience of tea in the morning? Where is the free will debate when no one is thinking about it?
+
+One cannot fix a thinking problem with more thoughts, so this isn’t something you can think about. This isn’t to say thoughts are not useful on occasion, but they are tools, and the question is, do you use them, or do they use you? With great effort, neuroscience has attempted to find the self in the brain to no avail. This is likely because there is no self to find, as the self is just another story told by the left brain. For millennia humans have searched for a conclusion to the free will debate. Could the free will-determinism debate be just another categorical fiction of the left brain? Could the question of “free will or determinism?” be just another Zen puzzle to help us go beyond thinking? Let’s go back to the title when you first thought you decided to read this article and consider a final question. Is it possible that free will is only what you think it is?
+
+**References**
+
+Gazzaniga, M.S. (1998). The Mind’s Past. (Berkeley: University of California Press).
+
+Gazzaniga, M. S. and Gallagher, S. (1998). The neuronal platonist. [Interview]. Journal of Consciousness Studies. 5. 706-717.
+
+Wolman, D. (2012). The split brain: A tale of two halves. Nature 483, 260–263. https://doi.org/10.1038/483260a
+
+Ramachandran VS. (1995). Anosognosia in parietal lobe syndrome. Conscious Cogn. 1. 22-51. doi: 10.1006/ccog.1995.1002. PMID: 7497101.
+
+Killingsworth, M., & Gilbert, D. (2010). A wandering mind is an unhappy mind. Science,330,932.https://doi.org/10.1126/science.1192439 https://scholar.harvard.edu/files/danielgilbert/files/a-wandering-mind-is-an-unhapy-mind-killingsworthe-ma-science-2010.pdf
+
+Daniel Everett. (2008). Don't Sleep, There are Snakes: Life and Language in the Amazonian Jungle. Pantheon Books, New York.
+
+Wisdom from Strangers | Daniel Everett | TEDxPenn https://youtu.be/get272FyNto
+
+Patel S, Oishi K, Wright A, Sutherland-Foggio H, Saxena S, Sheppard SM, Hillis AE. (2018). Right Hemisphere Regions Critical for Expression of Emotion Through Prosody. Front Neurol,;9:224. doi: 10.3389/fneur.2018.00224. PMID: 29681885; PMCID: PMC5897518.
+
+Kosslyn SM. (1987). Seeing and imagining in the cerebral hemispheres: A computational approach. Psychological Review. 94:148–175.
+
+McGilchrist I, Vedantam S (4 February 2019). "One Head, Two Brains: How The Brain's Hemispheres Shape The World We See" (Audio podcast with transcript). NPR Hidden Brain. https://www.npr.org/2019/02/01/690656459/one-head-two-brains-how-the-brains-hemispheres-shape-the-world-we-see

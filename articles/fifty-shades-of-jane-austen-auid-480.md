@@ -1,0 +1,129 @@
+---
+title: "Fifty Shades of Jane Austen"
+subtitle: "The Big Issue's founder recalls a chance encounter"
+author: "John Bird"
+date: "Issue 25, 7th January 2015"
+article_id: "480"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,661 words"
+read_time: "Read time: approx. 8 mins"
+header_image: ""
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/fifty-shades-of-jane-austen-auid-480"
+---
+
+# Fifty Shades of Jane Austen
+
+*The Big Issue's founder recalls a chance encounter*
+
+**By John Bird** | *Issue 25, 7th January 2015* | *Read time: approx. 8 mins* | *1,661 words*
+
+---
+
+We met on the train. We sat opposite each other. She was reading from a device. I was reading *Northanger Abbey* by Jane Austen. She spoke first in one of the long unexplained halts. She put down her device as I laid down my book. She smiled at me. A good table separated us.
+
+"It's great to see people reading Austen, however suspect her morality."
+
+ "Yes, very suspect. I came to her suddenly a few months ago. I had never read her before."
+
+ "Really?"
+
+ She looked surprised.
+
+ "I never had the desire to. She never meant anything to me, until earlier this year when I got a cheap collection. I then read *Sense and Sensibility* and was gripped. Totally."
+
+ She looked carefully at me.
+
+ I asked what she was reading.
+
+ “Oh a different kettle of fish altogether. *Fifty Shades of Grey*.”
+
+A polite silence followed, as if one or other of as had let out a sneaky fart. One surely did not discuss the notorious spanking book with a total stranger.
+
+The train started to move again. She picked up her device and before I knew it we were at Paddington and leaving the train. As we stepped off onto the platform she stood before me and turned and said, "I couldn't get into Austen’s false moralisms – that sense that she denied the moral contradictions of the time."
+
+We walked together towards the platform end.
+
+"Of course, of course I understand. Her sector of society always talked morality yet they were kept alive by abject poverty and exploitation."
+
+"Precisely! Hypocrisy of the highest order."
+
+"Just like today."
+
+"Perhaps. But it was worst back then. I really can't take the early 19th century seriously because of all of their double standards".
+
+"But it's just as bad today. Morals are relative with most people: you put them on and take them off like a winter or summer jacket. Just as in Jane Austen."
+
+"I disagree. I advise you: watch out for her acceptable moral transgressions. Ugh!"
+
+I stopped and turned to her. I thanked her for her moral health warnings and mounted the moving stairs to Starbucks. I wanted a coffee before the journey on another two trains back to Cambridge. We did not say goodbye.
+
+In the coffee shop I returned to my book. I did not want to leave the early 19th century of Bath behind. I was so engrossed that I did not notice her come and sit opposite me in Starbucks. I looked up and there she was.
+
+"Sorry. You kind of niggled me there. Saying that the moral hypocrisy of today is as bad as it was in Austen’s day."
+
+I smiled. She sat.
+
+"I didn’t say that. I said that the morals in Austen day were as compromised as morals today."
+
+"That I find really difficult to accept."
+
+I ordered her a coffee and we fell to discussing morals in our modern days. I argued that there had been no progress, that we were as morally hypocritical today as back then in the days of the 19th century.
+
+"So you don't believe in progress?"
+
+"I believe in change. Life has changed since Austen’s time: the ending of slavery, for example, and a hundred more changes and improvements – voting and all that kind of democratic furniture. But progress? That we are heading somewhere better? That human beings are getting better? That we are more progressive? No. Now we compromise our morals as many times a day as in Austen’s time."
+
+She insisted that the times that Jane Austen lived in were entirely compromised by empire, the murderous laws that protected the upper class and government; the class system; hanging a man for stealing a sheep; deporting a boy to Australia for nicking a pot of jam. I listened to this defence. I found it wanting. Then she got personal.
+
+"Look, you talk about morality, but here you are sitting in Starbucks, an exploitative multi-national that crushes local choice! How superior are you in that moral equation?"
+
+"I talk about morals from a morally compromised position. I don’t think you have to be the purest to cast the first stone. Unlike most moralists, or moralizers, I don't speak from a clean moral slate. I speak from where I am. I am mired in moral compromises. As are you. As are all of us. Morals are a lovely set of shinning values that are good in abstraction but not application. Anyone who consumes is compromised – because in all markets, with very rare exceptions, exploitation is at the bottom of it all. Whether that is an Apple iPad or an apple pie. Just as in Jane Austen’s day, everything comes from the sweat of the brow of someone who is probably living a hard hand-to-mouth existence.”
+
+She sipped her coffee. Then, as if she was talking to a madman, she said: "Are you suggesting that you can't be moral today? That we are all compromised?"
+
+"We can struggle to be moral in all of the relationships we have in the world. But you only have to buy a bunch of bananas or go on a train journey and you are participating in a compromise with your morals. That is if your morals are based on values like ‘do unto others as you would have done to yourself’. That, I believe, is the basis of most people’s morals today. Would you agree? How can you believe that when all relationships under consumerism involve exploitation of the poorly paid and the poorly fed, and the poorly educated?"
+
+She looked heaven-ward.
+
+"I am sorry to say this. But you are one of those smart-arses who lecture and pontificate. You could be at some lectern now telling all your stupid students how stupid they are."
+
+"Yes. That's a big problem. As soon as you start telling people, or being emphatic, you lose people. Forgive me for being such an arsehole."
+
+She smiled and said "perhaps a smart-arsed arsehole?"
+
+"Precisely. But let's therefore compare. Let's compare, say, the morals behind Jane Austen and *Fifty Shades of Grey*."
+
+She lent forward authoritively, if you can imagine that, and pointed a very unnecessary finger at me, as if I had been reduced to the student. I was pleased I was not the only pontificator.
+
+“Their similarities are enormous. Why I had never thought if that? Both encourage you to enter a morally suspect world and be a voyeur – enjoying the world you enter even though you would never want to be in it yourself."
+
+"Precisely. Not every reader wants to spank or be spanked."
+
+"And, as with Jane Austen, not everyone wants to be a part of highly brocaded lifestyle that hides the manual labour that almost crushes to death the living, and the sugar from sugar cane cut and processed in blood. "
+
+We now had some common ground, enjoying our dismissals of former times when blood run from the chandeliers, so to speak. But I was trying to drive my new colleague towards some unacceptable conclusions.
+
+"Exactly. But I think *Fifty Shades* is a great parallel for our modern compromise with morals".
+
+"Back to your boring theme that you can't be moral today without being compromised."
+
+"You put it so well."
+
+Suddenly she looked at her watch and leapt up.
+
+"Oops! I have to be miles away by now. Sorry, I have to rush."
+
+We shook hands and exchanged email addresses. I watched her as she left. Young, bright, committed. And probably right about me being a smartarse. I would probably allocate that epithet to myself, if I was looking for a one-word summation. But does that make me wrong? Today does seem particularly difficult to make your way. The idea that morality is only a fig leaf that you use to hide behind is a terrible thing to say, especially to young people. But just like in Jane Austen’s day there is a fine surface of moral behavior; below which is a harsh and bitter reality. Even today, simply jumping on a bus involves getting involved in a system of exploitation, of the poorly paid, of a world worn down and exploited, just  to give you the products of your daily life.
+
+I got back to Cambridge and sat at my computer to write to my new acquaintance. I signed off "smartarse". The email went like this:
+
+Fifty Shades *is more morally compromised than Jane Austen. You can see the compromises coming from a mile off in Jane Austen;* Fifty Shades*, however, is a lot like capitalism. We read* Fifty Shades *in the same way we go to the supermarket to buy bananas – for the pleasure. Every stage of the banana’s journey to your fruit bowl involves poorly paid workers. Every page you read of* Fifty Shades *is like entering into the exploitation of a young, vulnerable woman placing herself in the hands of a priapic prick. Just like capitalism! We get our compromised kicks, even though we know it's exploitative; whether it’s out of the banana or the book.*
+
+*To me, the spanking book demonstrates clearly our way in the world: that someone has to pay for our pleasures; that for us to look over the shoulder of the young woman and enjoy her pleasures is the same as buying that pleasurable banana. The only difference is that you can always opt for a Fair Trade banana. There's no ethical way of presenting a tied-up, heavily spanked woman.*
+
+*Anyway I feel I'm breaking out in a hot sweat of lecturing. It comes with being conned at times into believing in morality. To me, if you really want morals then you have to fight for them. You have to moralise the world. And you can't just do that through protest and anger. That's short term-ism. You have to moralise the world by turning Fair Trade into normal trade, and not be just 1½% of trade. In the process, you also have to moralise yourself. That means ending the exploitation of all. But, as they say, that's another story. In short, you have to fight for your morals. They are not achieved by simply mouthing your disagreements about the world. The world remains unfair because we leave it unfair.*
+
+**Image credit: [Devon Elizabeth Barnett](https://www.flickr.com/photos/arngaladh/5022657077)**

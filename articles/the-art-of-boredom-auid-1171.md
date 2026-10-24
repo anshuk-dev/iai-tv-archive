@@ -1,0 +1,53 @@
+---
+title: "The Art of Boredom"
+subtitle: "Rather than an individual experience, boredom can be a philosophical key to understanding modern life"
+author: "Andrew Bowie"
+date: "Issue 70, 22nd November 2018"
+article_id: "1171"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,546 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-art-of-boredom-iaitv.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-art-of-boredom-auid-1171"
+---
+
+# The Art of Boredom
+
+*Rather than an individual experience, boredom can be a philosophical key to understanding modern life*
+
+**By Andrew Bowie** | *Issue 70, 22nd November 2018* | *Read time: approx. 8 mins* | *1,546 words*
+
+![The Art of Boredom](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-art-of-boredom-iaitv.webp)
+
+---
+
+The English word ‘boredom’, the French ‘*ennui*’, and the German ‘*Langeweile*’ are hardly synonyms – the first possibly deriving from the activity of boring wood, the next having to do with a feeling of annoyance, the last, which means ‘long while’, referring to the slow passing of time. Then again, if we think someone is boring they will probably be annoying, and time spent with them will feel unpleasantly long, so the terms make related sense. The relationship to the world involved in each term is evidently negative. ‘Langeweile’ implies, for example, that the meaningfulness of time, which is structured by desires, intentions, hope, anticipation, etc., has been reduced to a sense of time as empty because it lacks these projective qualities. However, boredom may not be thought of as simply negative. Nietzsche, for example, contends that boredom has a dialectical counterpart: ‘For the thinker and for all inventive spirits boredom is that unpleasant “doldrums” of the soul which precedes the happy journey and merry winds; he has to bear it, has to wait for its effect on him’. Boredom can, therefore, be seen as necessary to the generation of new meaning.   
+  
+But what sort of phenomenon is boredom? If we go to a football match and it ends in a goalless draw, someone who analyses tactics may have found it fascinating for the ways the two sides’ tactics cancelled each other out, but someone else, for whom goals and spectacular action are what gives the game its point, may have found it boring. So is boredom something merely ‘subjective’?   
+  
+Significantly, this question resembles the perennial debates over whether judgements about art – which can include the judgement that something is boring – are ‘just subjective’. People make opposing judgements with respect to what is boring and what is of aesthetic value all the time. What these judgements have in common is that they both derive from the idea that some connections with things in the world involve the presence or absence of certain kinds of value. The idea that these are solely subjective comes from the fact that such judgements may appear irredeemably contested. However, construing ‘subjective’ this way is questionable. Judgements of this kind involve criteria, such as a football game being boring because of its lack of goals. This is not simply ‘subjective’: because one can offer reasons why this criterion may trump tactical interest. Moreover, judgements which become widely socially accepted are not determined just by individual preference, but by other factors. These can involve social and cultural pressures that people are unaware of, and so function in an objective, socially caused manner. The interplay of subjective and objective, which can each change their status over time, is what matters here. If something comes to play a determining role in how people do things, it is mistaken to call it merely subjective. The norms for what is considered right or wrong in music, for example, often change because some way of playing or composing comes to be regarded as boring, and new norms then gain a compelling status. But why do things become boring?
+
+\_\_\_
+
+"Boredom, which may appear to be an individual psychological phenomenon, can be a philosophical key to fundamental aspects of modern culture."
+
+\_\_\_
+
+Boredom has to do with a lack of ‘meaning’. Meaning here should not be thought of either in a semantic sense, or even in a metaphysical sense. What is at issue is rather our investments in the world, and how they can fail, which happens both at the individual and the social level. Things can, for example, become boring through repetition. At the same time, repetition is a condition of meaning in the broad sense intended here. In his 1802-3 lectures that would become *Philosophy of Art*, Schelling says: ‘man seeks . . . driven by nature, to establish multiplicity and variety through rhythm. We cannot tolerate uniformity for very long, in everything that is in itself without meaning, for example in counting, we make periods’. These factors have to do with boredom’s relationship to time, which raises vital questions about how meaning and time are connected. The meaningfulness or the lack of meaning of time in boredom might in this respect again seem to make what is at issue a subjective projection onto an objective physical world. But this approach is precisely what gets in the way of understanding the significance of boredom, because ‘the world’ is not just what physics tells us about, but is also the context in which things mean something, including, of course, physics itself.  
+  
+The latter idea of the world derives from Martin Heidegger, and it is no coincidence that he provides some striking extended reflections on boredom, in his lectures on *The Basic Concepts of Metaphysics*, of 1929-30, just after the publication of *Being and Time* in 1927. Heidegger here wants to grasp ‘the basic mood (*Stimmung*) of philosophy’, and he cites the early German Romantic, Novalis’, remarks on philosophy as ‘homesickness’ as relating to this basic mood. ‘Stimmung’ has the connotation of ‘tuning’ in music, and can be translated as ‘attunement’, having to do with how we relate to the world in more than cognitive terms. Moods for Heidegger are not subjective psychological states of mind that are the object of the science of psychology, but fundamental ways of being in the world. He therefore insists that one is always already in a mood by the very nature of how we exist. Moods consequently also precede any possibility of objectifying things, including moods themselves. A mood is ‘a way (*Weise*), not just a form or a mode, but a way in the sense of a melody [the German word has both connotations]’, and it ‘gives the tone’ for human existence. Moods are the ‘basic ways in which we find ourselves as such and such’, and, though Heidegger himself makes little of it, suggest why music is central to such philosophical exploration.   
+  
+****[![Gerhard Richters Gelbrun Yellow Green on exhibition at Sothebys 2018](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Gerhard-Richters-Gelbrun-Yellow-Green-on-exhibition-at-Sothebys-2018.webp)
+
+SUGGESTED READING
+Life As a Work of Art
+By Bence Nanay](https://iai.tv/articles/life-as-a-work-of-art-auid-1129)****Heidegger seeks to ‘evoke’ a ‘basic mood’ of human existence, and he does this by focusing on boredom. His philosophy asks how things make any sense at all, so beginning with boredom, which empties things of sense, seems apt. Boredom only matters at all because there is a prior sense of things which it can revoke, so challenging us to understand what it is that goes missing. Rather than being an inner state, ‘boredom has its seat in the boring thing and insinuates itself into us from outside’. Things like books, plays, ceremonies, or people can be boring, and the phenomenon cannot be reduced to being mere subjective apprehension. Nor can the thing be seen as ‘an effective cause, but rather as that which attunes [*stimmt*] us’. This attunement is ‘a fundamental mode of our existence’ in which the world means something to us, or loses such meaning. Boredom precedes the means we employ to investigate it: ‘we may not make boredom, as a state which occurs for itself, the object of observation, but we must take it in the way in which we move in it, i.e. at the same time seek to dispel it’ by ‘passing the time’. As such, boredom is a key to the meaning of our existence, because it tells us something essential about the temporal nature of that existence.   
+  
+Heidegger then inflates the notion of boredom, in an attempt at a large-scale diagnosis of the state of modern culture, in which ‘boredom perhaps determines our existence here and now’. This remark leads in the direction of his extreme view of a science-based culture as what he terms ‘machination’. In the ‘‘Black Notebooks’’ of the 1930s, machination means that ‘truth becomes correctness of re-presentation’, rather than a revelation of meaning, ‘world-disclosure’. He sees the ‘progresses’ of science in machination as bringing ‘the exploitation and using of the earth, the breeding and training of man into states which are today still unthinkable’. The ‘hidden goal’ of machination is ‘the state of complete boredom’, a wholesale objectification of the world, and a concomitant dominance of merely quantitative forms of time. Heidegger’s disastrous political stances in relation to Nazism derive from his misapprehensions of how to respond to this. But that does not mean that seeing boredom as essential to the nature of modernity is just a mistake. In *Aesthetic Theory* Adorno talks, in a manner analogous to Heidegger, of ‘the grey of the boredom produced by the commodity world’, which reduces objects to a uniformly quantifiable status, to which modernist art is a response. However, this remark also suggests a more adequate approach than Heidegger’s to the wider cultural significance of boredom. In modernity, metaphysical assumptions that meaning is already inherent in the world, such that time, for example, is thought of as moving towards a goal, lose traction in the face of the new frameworks with which economics, science and technology order the world. The importance of modern forms of art for philosophy in this respect can lie precisely in how they respond to a world dominated by the endless potential for empty repetition. In this way, boredom, which may appear to be an individual psychological phenomenon, can be a philosophical key to fundamental aspects of modern culture.
+
+---
+
+*Andrew Bowie is Professor of Philosophy and German, Royal Holloway University of London, and [a jazz saxophonist.](https://soundcloud.com/andy-bowie "Andrew Bowie - Soundcloud")*

@@ -1,0 +1,65 @@
+---
+title: "Life doesn't have to be biological"
+subtitle: "No one has a good understanding of what 'life' is"
+author: "Sara Walker"
+date: "13th December 2024"
+article_id: "3025"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,015 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sara-walker-life-complexity-piece.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/life-doesnt-have-to-be-biological-auid-3025"
+---
+
+# Life doesn't have to be biological
+
+*No one has a good understanding of what 'life' is*
+
+**By Sara Walker** | *13th December 2024* | *Read time: approx. 5 mins* | *1,015 words*
+
+![Life doesn't have to be biological](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sara-walker-life-complexity-piece.webp)
+
+---
+
+*The primary understanding of life is as a biological organism that takes part in evolution. But this is a mistake. Sara Walker here argues our idea of what life is doesn't stand up, there are several counter-examples, and we can see life in a number of different and radical ways.*
+
+One of the most popular definitions for life circulating in scientific communities is that “life is a self-sustaining chemical system capable of Darwinian evolution.” This definition was first developed in an exobiology discipline working group organized by [John Rummel](https://astrobiology.nasa.gov/news/john-rummel-honored-with-2023-drake-award/), who at the time was manager of NASA’s Exobiology Program. Although the definition was developed under the auspices of a NASA working group, it is by no means the official NASA definition, as is sometimes claimed in popular news outlets. It’s not even necessarily a widely accepted definition.
+
+Gerald Joyce, a highly respected RNA chemist, has been misaccredited as the sole author of this definition, which he himself will point out. This is because in 1994 he wrote about the working group’s definition in the foreword of a book titled Origins of Life: The Central Concepts. RNA, short for ribonucleic acid, is believed to have played an early role in the origin of life, at least by those scientists who adhere to the RNA World hypothesis. This model proposes that life started with RNA, as opposed to DNA (deoxyribonucleic acid), as the genetic material. During the last few decades, the RNA World has been considered the leading hypothesis for the origin of life on Earth. Gerry studies the in vitro evolution of RNA molecules to understand potential mechanisms of chemical evolution in the putative RNA World. He and his colleagues have demonstrated amazing capabilities in RNA, such as the ability for self-replication and evolution under controlled conditions. Because RNA chemistry isolated and evolved in a test tube can fulfil so many functions of living biochemistry, it is understandable one might arrive at a definition of life as a self-sustaining chemical system capable of Darwinian evolution.
+
+\_\_\_
+
+These ants, piloted by fungi, are referred to as zombies because they are literally that: while animated, they are not in control.
+
+\_\_\_
+
+A lot of people use this definition and like it. But at the same time, like all definitions for life, it fails to deliver on solving the hardest problems. It has not allowed us to prove a mechanism for the origin of life nor design new instruments to search for and measure the presence of alien life on another world.
+
+Let’s first focus on the notion of “self-sustaining.” In vitro evolution proceeds by taking a sample from one test tube and transferring it to another, and then another, to simulate successive rounds of evolutionary selection. Because evolution occurs only by intervention of the experimenter, it requires continual human input to sustain an evolving population of RNA. Most people do not feel comfortable referring to these systems as “life” because they are not self-sustaining and they require human intervention. Most people thus take the stance, like the NASA working group did, that such systems should be excluded.
+
+However, this reasoning also excludes parasites: instead of depending on an experimenter and a test tube, parasites depend on their host organism to survive and reproduce. A fascinating example is the parasite Ophiocordyceps unilateralis, more popularly known as zombie ant fungus, a species of fungi that infiltrates and controls the brains of its host ant, leading the ant to abandon its colony as part of the life cycle of the fungus. These ants, piloted by fungi, are referred to as zombies because they are literally that: while animated, they are not in control. Many of us would consider parasites like Ophiocordyceps unilateralis alive, but it is not self-sustaining without the ant. And indeed, is the ant even really alive when it is being piloted? It requires the fungus at that point to live and to behave.
+
+In vitro evolution works by allowing RNA molecules to replicate in a test tube. Those that are the best replicators, i.e., those that are most “fit” in the terminology of evolutionary theory, will take a larger share of the resources and therefore be more abundant. A small sample of material is taken from the test tube and transferred to another with fresh resources, and exponential growth is allowed to happen again. Over successive iterations, the “fittest” molecules can be amplified in the population—that is, they are selected above the rest. In this way, evolution is not an autonomous process but requires an agent (the experimenter) to drive it.
+
+\_\_\_
+
+"Life" is not a precise scientific term.
+
+\_\_\_
+
+Next, there’s the concept of “Darwinian evolution,” which many would argue is the defining feature of life. In general, Darwinian evolution applies only to things that can reproduce. Reproduction allows traits to be inherited by offspring from their parents, and selection on these inherited traits can cause populations to change over time. However, by this definition an astronaut in space is not alive and neither is your grandmother, because neither is capable of reproduction. Some organisms, like worker bees or mules, never have the chance to reproduce because they are literally unable to. Are these individuals never alive?
+
+**[![Firefly concept art of nature and life evolving out of the chains of free will with a fantastic blu](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Firefly-concept-art-of-nature-and-life-evolving-out-of-the-chains-of-free-will-with-a-fantastic-blu.jpg)
+
+SUGGESTED READING
+Life, agency, and the evolution of free will
+By Kevin J. Mitchell](https://iai.tv/articles/life-agency-and-the-evolution-of-free-will-kevin-mitchell-auid-2718)**
+
+You meet all kinds of people at astrobiology conferences, and some love to challenge your ideas and have you challenge theirs. Lucas Mix, an ordained priest and astrobiologist, is among this crowd. He likes to highlight the fact that Darwinian evolution only makes sense as an attribute of a population and not of an individual. As Lucas would remind us, neither you nor Albert Einstein are examples of life, but maybe you both are when considered as part of a larger group that is evolving.
+
+When you look at all the exceptions to rules for life, it becomes clear that our classification of life cannot depend on the places where we feel comfortable drawing boundaries. "Life" is not a precise scientific term. We do not yet understand what all the things we call life have in common. This may be because our categorization is wrong, or it may be because life itself is uncategorizable.
+
+Excerpt from[*Life As No One Knows I**t*](https://www.hachette.co.uk/titles/sara-imari-walker/life-as-no-one-knows-it/9781405546942/)by Sara Imari Walker.

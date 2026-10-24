@@ -1,0 +1,77 @@
+---
+title: "Physics can't deal with reality's complexity"
+subtitle: "A dappled world needs a dappled science"
+author: "Nancy Cartwright"
+date: "17th October 2022"
+article_id: "2269"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "1,488 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Dappled-reality.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/nancy-cartwright-physics-cant-deal-with-reality-complexity-auid-2269"
+---
+
+# Physics can't deal with reality's complexity
+
+*A dappled world needs a dappled science*
+
+**By Nancy Cartwright** | *17th October 2022* | *Read time: approx. 7 mins* | *1,488 words*
+
+![Physics can't deal with reality's complexity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Dappled-reality.webp)
+
+---
+
+*The huge success of physics has led many to claim she is the queen of all sciences. According to this view, everything that takes place in the world could be explained, at least in principle, by the ultimate version of physics. But in truth, physics only reigns over small, easily modelled, subsections of reality. If we look at how science actually works when dealing with real-life, complex problems, we’ll see that physics plays only a small part, alongside a motley assembly of other natural and social sciences, engineering, and other disciplines, working together. The world is beautifully dappled, and requires a dappled science to explain it, argues **Nancy Cartwright**.*
+
+Physics, they say, is queen of the sciences. But not like Queen Victoria, who controlled only about a quarter of the world’s land area. Rather it is supposed to be as extensive as the Biblical text represents the domain of Caesar Augustus:
+
+*And there went out from Caesar Augustus a decree that all the world should be taxed.*
+
+This image requires of course a physics far from what we have ever had or can envisage having for the foreseeable future. One that is internally consistent and coherent and whose successes at treating the world do not depend on choosing among or piecing together models and theories from different sub-disciplines in physics, but one whose models flow transparently and deductively from this one, unified, consistent theory.
+
+If physics is to have total dominion, she must not only help out with chemical bonding, signal transmission in neurons, the flow of petrol in a carburettor, and the like. She must be able in principle to entirely take over the disciplines that usually study these things, to explain and predict the rise in teenage pregnancies, the current level of inflation, the Protestant Reformation, and the fate of migrants crossing the channel. Plus, she must be able to get me off the hook for shouting at my daughter: after all, I was just obeying the laws of physics.
+
+\_\_\_
+
+Physics as queen is a tall order, and the world she would rule is altogether unlike the one we experience. Why then believe this physics is possible, even if we only mean ‘possible in principle’?
+
+\_\_\_
+
+The idea of physics as queen of all that happens has powerful implications about just what the world we live in must be like. It must be a world made up entirely of the basic entities of physics—fundamental particles, curved space-time and the like — entities that have only the mathematical features that physics equations describe, features that often have no names of their own other than the names of the mathematical objects that are supposed to represent them, like the “quantum state vector” and the “metric tensor” of general relativity. The world *has* to be that way since these are the kinds of features that physics can rule.
+
+But this is a strange world, nothing like the one we live and move about in. It is a world devoid of all the colour, texture and emotion, all the unending variation and richness of the world we see when we open our eyes and that we have to negotiate our way through to live our daily lives.
+
+Physics as queen is a tall order, and the world she would rule is altogether unlike the one we experience. Why then believe this physics is possible, even if we only mean ‘possible in principle’? Equally puzzling to me, why should we embrace it as appealing? I know that this image of the ultimate science as unified, harmonised, consistent, simple, mathematical, elegant is found beautiful, compelling, even gripping by many. For me it is repugnant. It denies the ultimate usefulness of all our other hard-working sources of knowledge and it turns physics itself into a giant vending machine: you put in the initial state of your universe and out at the bottom pops all that ever happens. This belittles the skill, the detailed precise knowledge, the judgment and fine-grained hard work it takes, both from physics and from the myriad of other disciplines it cooperates with, to create the magnificent phenomena that make us so impressed with physics itself, like the laser, superconductors, and highly controlled experiments like Gravity Probe B, which put four totally homogeneous gyroscopes into space to test the general theory of relativity.
+
+\_\_\_
+
+Instead of supposing that physics must be queen of all we survey, I recommend we construct our image of what an ultimate science might be like on the basis of what current science is like when it is most successful
+
+\_\_\_
+
+We can of course create ‘small worlds’ – like the ones inside the casing of an ordinary battery or the marvellously controlled experiments that we use to test our physics theories and to create stable, repeatable phenomena.  These are worlds where what can happen is so restricted that the only factors that can affect the outcomes we are looking for are ones we know how to represent in our physics theories, and we know how to calculate what happens when these factors all work together. We can even discover small worlds that occur naturally, like the planetary system. But that goes little way to establishing that the big wide world we live in is in reality a small world where the only causes that affect what happens are ones physics can represent. And it goes no way to establishing that all the outcomes that occur, from the coherent radiation emitted from a helium-neon laser to my foolishly shouting at my daughter, can in reality be recast as quantities represented in physics equations.
+
+[![related-video-image](https://iai.tv/assets/Uploads/vibrations.webp)
+
+SUGGESTED VIEWING
+Unexplained events
+With George Ellis, Nancy Cartwright, Tara Shears, Michael Duff](https://iai.tv/video/unexplained-events)
+
+Instead of supposing that physics must be queen of all we survey, I recommend we construct our image of what an ultimate science might be like on the basis of what current science is like when it is most successful, from putting people on the moon to devising and carrying out a plan for the complete evacuation of the Royal Marsden Hospital (which took  just 28 minutes when called into play by a gigantic fire, 2 January 2008).  Physics does not act as queen in these cases. Rather, she does her bit as part of a motley assembly of scientific – and this means natural, biomedical and social science -- and engineering disciplines along with practical knowledge, all working together.  This is the way science works in actual practice when it works so surprisingly well and there is little evidence indeed that practice will be any different in the future. This, I urge, should be our model for what science at its very best will look like.
+
+If that is what science at its best can be like, what kind of world does that leave us with? It looks like we are left with a world just like the one we actually live in: a world that contains within its boundaries countless small worlds where precise order and stability obtain, but a world that is itself big, wide and gloriously differentiated, where much that happens beyond the confines of the small worlds within it happens haphazardly -- a result of the interaction of causes studied across the scientific disciplines, from fundamental particle physics to neuroscience to social psychology. This is a world in which irritability, generosity and social exclusion can affect what happens just as gravity and electromagnetic repulsion can.
+
+But can other kinds of causes really play a role, given that we know that gravity, electromagnetic repulsion and metric tensors are already at work in our world? Yes. To assume the contrary is to miss how these physics causes play out in the real-world settings that make physics so impressive. Either these settings are small worlds which exclude all other kinds of causes, settings that are nothing like the bulk of the larger world in which they are embedded, or they are ones where other causes are genuinely allowed to exert their influence as well. Even in these large-world cases, however, we can sometimes succeed in precise prediction and control. But we do not do this by deduction from the laws of physics. Rather we do it by artful modelling: combining vast arrays of different kinds of knowledge, case-by-case, to construct complicated models and designs that can predict what happens in real, large-world settings, like the launch and flight of Artemis 1.
+
+Once the queen is dethroned, the world we end up with is a plush, vibrant world, the one that Gerard Manley Hopkins so admired:
+
+*Glory be to God for dappled things—*
+
+*For skies of couple-colour as a brindled cow;*
+
+*For rose-moles all in stipple upon trout that swim;*
+
+This is a world in which we can unabashedly admire the dappled beauty around us without feeling we are deceiving ourselves about what is really real. It is also a world in which I have to take responsibility for shouting at my daughter, one where, as theologian Peter Fishes notes, we can genuinely ‘do justice to the signs of agency which are woven into our experience of the world around us’.

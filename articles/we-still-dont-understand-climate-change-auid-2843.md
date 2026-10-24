@@ -1,0 +1,99 @@
+---
+title: "We still don't understand climate change"
+subtitle: "An interview with Tim Palmer"
+author: "Tim Palmer"
+date: "17th May 2024"
+article_id: "2843"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,785 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/why-we-still-dont-understand-climate-change.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-still-dont-understand-climate-change-auid-2843"
+---
+
+# We still don't understand climate change
+
+*An interview with Tim Palmer*
+
+**By Tim Palmer** | *17th May 2024* | *Read time: approx. 9 mins* | *1,785 words*
+
+![We still don't understand climate change](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/why-we-still-dont-understand-climate-change.webp)
+
+---
+
+*2023 was the hottest year ever. But we still don't understand the climate and our models don't predict it accurately, and they need to. With crisis around the corner, Tim Palmer argues that the only way we can mitigate let alone solve climate change is with a CERN for climate models. Otherwise we’ll be stuck in the 1970s in an ever more inhospitable world.*
+
+I sat down with Professor Tim Palmer to discuss some of the issues coming up at the Global Climate Future panel coming up at HowTheLightGetsIn May 24th-27th. Tim is the Royal Society Research Professor in Climate Physics and a Senior Fellow at the Oxford Martin Institute. An expert in chaos, his latest book *The Primacy of Doubt* shows how we can understand chaos and use it to predict the world around us.
+
+Decrying the certainty with which many argue about climate change, Tim suggests that our models are stuck in the 70s, the resolution – how clearly we can know the specifics of the climate in a particular region – of our current models is poor. Last year’s heatwaves left many climate scientists surprised with NASA climate scientist Gavin Schmidt writing “It’s humbling and a bit worrying to admit that no year has confounded climate scientists’ predictive capabilities more than 2023 has.” This is just one sign of the many gaps in our knowledge. But Tim argues it doesn’t have to be this way. With the development of a CERN for climate modelling, an international effort to produce better models could better inform our plans for mitigation, adaptation and solutions to the climate emergency.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-10-10-The-science-of-uncertianty.tpu2.jpg)
+
+SUGGESTED VIEWING
+The science of uncertainty with Tim Palmer 
+With Tim Palmer](https://iai.tv/video/the-science-of-uncertainty-with-tim-palmer)
+
+**We are often told that there are many variables which make climate modelling more difficult. You have argued that we can understand chaos and just need to provide more time and resources to solve the problem. Are there not some intractable issues around the models we use to understand the climate?**
+
+I guess the honest answer is that we don’t know. But I take some encouragement from weather forecasting. If you go back to the 1970s weather forecast models were pretty rudimentary. I think you can compare climate models of today to simple weather models of the 70s. We could bring climate models to the levels of weather models today, if we pooled resources internationally. This being at the heart of my call for a CERN for climate change.
+
+\_\_\_
+
+A system which may cost a billion seems like a trivial matter when it would give us our best shot to save lives and mitigate damage.
+
+\_\_\_
+
+If you go back to the 1970s you’ll find there were tropical cyclones which killed 150,000 people because the modelling was so poor that no one got any sort of warning. Some massive storm surge could hit Bangladesh and kill all of those people. The combination of better modelling and communication allowed for warning which lets people move out of the way, saving thousands of lives each year. Now we don’t tend to get the scale of death 50 or so years ago.
+
+I don’t see any reason why we can’t make similar strides with weather prediction. There is a precedent, governments putting up the funds to allow us to predict the weather has saved lives and property. We could do the same for climate models, especially when you look at the trillions of pounds of damage that is predicted to be done. A system which may cost a billion seems like a trivial matter when it would give us our best shot to save lives and mitigate damage.
+
+**How much responsibility should we in the Global North be taking? The use of coal and other fossil fuels at scale began here but we are transitioning away more quickly. Should we be looking to our political leaders to invest in the global transition as well as the modelling to deal with these human made consequences?**
+
+I would prefer to stick to the science. Of course, we should be investing in this. Historically the models have been developed in the rich countries and scientists in the Global South have not been able to have much impact.
+
+I would like to see this type of research to take advantage of expertise and brainpower and insight and so on and so forth from these countries
+
+A lot of the AI work is coming from the Global South and that is going to play a larger role in the future. This is definitely an area where the UK and US should be leading the way in creating the conditions for a pooled effort which will be to everyone’s benefits.
+
+One of the most important outcomes of this type of work will be in the area of climate adaptation. So what sort of infrastructure will countries need whether or not we get to net zero by 2050. Climate change will continue to happen and unless we become resilient we will face the threats of mass migration you described. That is the natural consequence of not facing up to this issue. That’s why having models which tell us what is the right kind of infrastructure is so important.
+
+\_\_\_
+
+We need to embrace all possible solutions whether that be Nuclear or Carbon capture.
+
+\_\_\_
+
+A key question, which we won’t get an answer from the IPPC models, is whether its drought and flooding rather than these existential heatwaves which are going to be the greatest risk. It is a zero-order question, whether or not we should be adapting for flooding, heatwaves or drought. The models just can’t tell us that now.
+
+We need to lead the way but we can’t just focus on the national. This is a problem for the globe and we need an organisation which brings in expertise from around the world.
+
+[![24 03 05 optimism climate crisis2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/24-03-05-optimism-climate-crisis2.webp)
+
+SUGGESTED READING
+Optimism is a key weapon against climate change
+By Sarah Jaquette Ray](https://iai.tv/articles/optimism-is-a-key-weapon-against-climate-change-auid-2762)
+
+**So, what then is the role of the scientist is bringing this all about? There are huge political debates about how we implement all of this**
+
+I think we have got to be dispassionate about the strategy for NetZero if that’s what we are aiming for. How we get there is something we need to be more dispassionate about. Whilst there are manifest advantages to wind and solar, there are also downsides. The more we become reliant on renewables we need to plan for when demands exceed availability. There are lots of attempts to do this but very little we can be certain will work. Take for instance a report from the Royal Society which suggested we could store hydrogen in salt caverns. There are a lot of engineering issues around these problems. Personally, I think we need to embrace all possible solutions whether that be Nuclear or Carbon capture. I know people have reservations about both. But we need to seriously ask ourselves the question whether we can meet our energy needs with renewables alone.
+
+As a scientist I would ask people not to get immediately political about solutions. We need to focus on what is the most important objective. To me its cutting emissions, and whilst I definitely think there will be a role for wind and solar. But we also have to accept that we don’t have the storage or the metrological conditions are against us. We don’t want to end back up in the 1970s with rolling blackouts and wandering around the house with candles burning.
+
+**But can this ever be considered a non-political topic? Shouldn’t we be finding any way we can to stop using fossil fuels? Can we really keep using them when they are the cause of the problem?**
+
+Let me throw that back at you slightly. At the COP meeting in Dubai, the environment minister for Uganda had vetoed some wording in the final document which said we committed to stopping burning fossil fuels. And an interviewer later asked her, you are an environment minister you should know better, surely? She said “I am 100% in favour of decarbonising the Ugandan energy sector but we have costed it at 35 billion” and she asked where is the money going to come from. Uganda has a lot of fossil fuel reserves which will contribute to the cost of decarbonisation. They need that money to do any of this. And I’m not arguing in one direction or the other but this is not a clear scientific question. I am somewhat annoyed by people saying this is a question for the scientists, that seems to be a value-judgement or at the very least a political one.
+
+\_\_\_
+
+Geoengineering leaves us tinkering at our peril. We are completely bonkers to do any of this without an accurate understanding of the climate.
+
+\_\_\_
+
+The cost of it is enormous. And we can’t just expect the Global North to face all the costs. Take the UK with its own public services on their knees. It’s not feasible to think the political question of cost will translate into anything other than a contribution. But then that is a political question. The science of climate change is not going to give you the answer. It is not all obvious from the science. The point she was making is a great example of this. They want to move to NetZero it is in their favour to do so. But they need the money to do this. But even if the Global North does support this then there will still be a gap between the money they can offer and what is needed. We can’t stop ourselves from looking at every option to find the fastest way of decarbonising. But if we think things like environmental resources of the amazon are important we can’t just leave it to Brazil to pay for it.
+
+**You suggest that we should look at all possible measures for dealing with rising global temperatures. Should we be looking at geo-engineering as a tool to aid in hitting Net-Zero?**
+
+I have a straight forward view of this. There are lots of potential ways of geoengineering such as sticking mirrors into space but most of these are too expensive. But one way which is feasible is cloud seeding to increase cloud coverage. That means taking a plane into the stratosphere and releasing chemicals. This might reduce the amount of solar energy but this is not a clear solution to the climate’s problem. We have to remember the cause is due to our emissions of greenhouse gasses. And what that is doing is trapping infrared heat in the atmosphere. We are not compensating one problem for another. There is no guarantee the effects will offset one another. So, thenthen geo-engineering leaves us tinkering at our peril. We are completely bonkers to do any of this without an accurate understanding of the climate. As you say the climate is such a complicated system, the models are rudimentary and we can’t discuss this problem as the system is so poorly understood.

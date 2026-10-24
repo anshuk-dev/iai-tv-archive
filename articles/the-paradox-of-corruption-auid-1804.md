@@ -1,0 +1,51 @@
+---
+title: "The paradox of corruption"
+subtitle: "Why we need to get clear about what is being corrupted"
+author: "Robert Sparling"
+date: "Issue 96, 7th May 2021"
+article_id: "1804"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,427 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/white-black-grunge-background-366536-pixahiveresized.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-paradox-of-corruption-auid-1804"
+---
+
+# The paradox of corruption
+
+*Why we need to get clear about what is being corrupted*
+
+**By Robert Sparling** | *Issue 96, 7th May 2021* | *Read time: approx. 7 mins* | *1,427 words*
+
+![The paradox of corruption](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/white-black-grunge-background-366536-pixahiveresized.webp)
+
+---
+
+*There is a paradox at the heart of our corruption discourse. The concept only makes sense in opposition to something pure and untainted, yet our contemporary political culture shies away from articulating such moral and political ideals.  Only when we face up to the big underlying philosophical questions about the public good will corruption allegations stop being dismissed as mere partisan mud-throwing, argues Robert Sparling.*
+
+Corruption scandals are a constant feature of contemporary life. While everyone seems to hate corruption, people tend to focus their outrage in selective ways, attacking their partisan enemies and ignoring their own parties’ offenses. This makes it easy to dismiss accusations as mere partisan mud-throwing, where all the politicians are eventually covered in the same muck. But there is more to corruption than name calling, and the pretence that all politicians are equally sullied is dangerously depoliticizing.
+
+The concept of corruption if very difficult to define precisely, which allows it to devolve into empty, prejudiced moralizing. There is a wide range of behaviours about which public judgment seems conflicted on whether they count as corruption. Gifts to political parties appear in some people’s eyes to be an illegitimate form of private influence; for others, they are a reasonable extension of one’s freedom of political expression. When former leaders take up lucrative contracts with private businesses, some paint the behaviour as laudable private enterprise; others see it as a dangerous revolving door between politics and industry. But for all the diverse ways in which people understand the term ‘corruption’, there are clear family resemblances between competing conceptions. There is something near-universal about our indignation at seeing officials betray public trust. The difficulty is that such indignation only makes sense against the background of a positive set of ideals politicians and institutions should instantiate. Something can be corrupt only if there is a non-corrupt, pure version of it. Yet we are reluctant to articulate what that moral purity would look like for public officials, and skeptical about moral vocabularies more generally. That’s the paradox of corruption discourse today.
+
+Something can be corrupt only if there is a non-corrupt, pure version of it. Yet we are reluctant to articulate what that moral purity would look like for public officials, and skeptical about moral vocabularies more generally.
+
+Some argue that our moral outrage towards individuals is misdirected, obscuring the fact that what is needed is systemic reform. A minister misappropriating public funds evokes public fury; a system that is structured to benefit a particular group, class or caste at the expense of the wider public often slips under the radar, even though the members of the privileged group could easily be conceived of as abusing of public goods for private gain. Political philosopher Camila Vergara has recently written a delightfully pugnacious book treating corruption as a synonym for oligarchy.
+
+I find much to agree with in Vergara’s treatment of oligarchy as the core of systemic corruption. But like many who focus on corruption at a systemic level, she tends to disapprove of the focus on personal morality that dominates much corruption discourse. This is understandable: focusing on individual ethical lapses can seem insufficient to the task.  One might even think it serves ideological purposes. After all, we can witness anticorruption drives around the world, with performative arrests, imprisonments and in some places even executions, serving to direct and channel public rage, all the while bolstering oppressive systems. Accusations of corruption in such cases appear to be more a question of purging enemies than reducing abuse of public office.
+
+[Guy Standing, Jamie Whyte, Izabella Kaminska and Stephen King ask whether Capitalism is broken.](https://iai.tv/video/is-capitalism-broken-democracy-reform "Watch more videos on iaitv")
+
+But even if individualized moral outrage obscures the systemic nature of corruption, it expresses something important. The deep and near-universal sentiment that the abuse of public office is an evil of the highest order cannot be ignored. The fact that this sentiment often gets reduced to impotent bouts of moral indignation, however, has a great deal to do with our inarticulacy about just what the opposite of corruption is, as well as a lack of appreciation of how personal virtues are intertwined with political structures. The concept of political corruption is the reverse side of the idea of the political good, and this is something with both systemic and individual-moral dimensions.
+
+Classical political philosophers like Aristotle or Plato thought the individual and the structural were thoroughly intertwined — the constitution of the good city and the good soul were interrelated. In the history of modern political thought, there have been a number of conflicting conceptions of corruption and the underlying visions of purity they imply. The difficulty is that many contrasting visions of purity and corruption live on, silently, in our contemporary imaginary, rubbing up against one another uncomfortably. Consider some examples. Civic-republican writers often decry the depoliticized bourgeois individual who fails to take an interest in public affairs: the epitome of corruption on such a view is a social order in which the individual disinvests herself of her civic duties. The public becomes a realm of private interests, while the individual retreats into her wealth and comfort. A different vision of corruption and purity might be found in the ideal of detached, impartial and expert bureaucracy. On this view, a corrupted state is one in which the holders of bureaucratic office are not guided by the norms of expert public service. They are politicized, or they pursue personal enrichment in office. Both of these positions have a contemporary appeal — we extol deep civic engagement, and we equally like to think of the public service as a realm of detached impartiality and professional expertise.  But there is some tension between these visions: the model of thorough civic engagement and citizen participation on which the first is premised clashes with the technocratic nature of the second. A military run as a professional bureaucratic organization is at odds with a civil militia of armed citizen-soldiers. Each of these ideals imply particular relationships between public and private interests, particular ways of ordering public institutions, and the celebration of particular virtues.
+
+When we deploy the language of corruption today, we tend to be unclear about just what we think is pure or good, or how government structures and personal character intertwine.
+
+When we deploy the language of corruption today, we tend to be unclear about just what we think is pure or good, or how government structures and personal character intertwine. Indeed, the term is deployed against a background culture that appears skeptical about the very idea of the good. By this I do not mean that people are insufficiently idealistic—to have a clear view of what a healthy and just political order entails, of the right relation between public and private interests, or of the types of virtues we wish to see in officeholders and citizens, is not necessarily to have unrealistic expectations for political actors or institutions.  One might, as the cliché goes, think politicians like nappies, needing to be changed regularly and for the same reason—but even such a view does display the optimism that there can be clean nappies, and that parents can, with some attention, keep the baby’s bottom in a reasonably unsoiled condition. The difficulty is that we rarely attempt to spell out the type of social structure and civic character we think unsoiled. If we did, we would find ourselves articulating quite distinct and politically controversial visions of where the line between public and private should be.
+
+Raising the public debate to this level would be healthy.  It would not lead to some general consensus—corruption is a thoroughly political concept, and like all political terms, we should expect it to be a site of contestation. But it would make clearer the stakes of the debate. The idea of corruption admits of such variable manifestations because it is fundamentally linked at once to the most difficult philosophical questions and the most pressing political battles: how the public good is to be conceived. To take a position on the right relation between public and non-public things is to take a stand of a political and moral nature.
+
+The paradox of corruption discourse today is that it implies a notion of purity, but it takes place in an environment that is wary of articulating such ideals at all. Because we fail to articulate the bases for our indignation, accusations of corruption often appear as partisan mudslinging or gratuitous moralizing. We need to face up to those underlying philosophical questions and put forward our conceptions of both the pure, untainted public official and of the types of institutional and economic relationships that make such integrity possible.

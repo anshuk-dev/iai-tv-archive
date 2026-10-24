@@ -1,0 +1,47 @@
+---
+title: "Is Art Still a Vehicle for Progress?"
+subtitle: "The art world has become ‘part of the problem’, but the next generation of collectors won’t stand for it"
+author: "Marine Tanguy"
+date: "Issue 84, 8th January 2020"
+article_id: "1294"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "735 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Is-art-still-a-vehicle-for-progress.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/is-art-still-a-vehicle-for-progress-auid-1294"
+---
+
+# Is Art Still a Vehicle for Progress?
+
+*The art world has become ‘part of the problem’, but the next generation of collectors won’t stand for it*
+
+**By Marine Tanguy** | *Issue 84, 8th January 2020* | *Read time: approx. 4 mins* | *735 words*
+
+![Is Art Still a Vehicle for Progress?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Is-art-still-a-vehicle-for-progress.webp)
+
+---
+
+Jeff Koons started to produce his inflatable objects as a critique of American consumerism in the 1970s. Consumerism continues to flourish in the US today, as it does in all Western capitalist countries, but with one of Koons’ inflatables recently selling for $91million (the most expensive work by a living artist ever to be sold at auction), has the artist’s work become a symptom of the very order he meant to critique?
+
+Artists are a sort of ’cultural filter’. They absorb all the inputs provided by socio-political circumstances, literature, philosophy, indeed everything that connotes their particular era. Then they elaborate all these concepts, ideas and values, and express them through their highly individual aesthetic. Ultimately, the final outcome is the production of significant objects which add value to society, contributing to our understanding of culture as it is, and helping to shape whatever comes next.
+
+One question we can ask ourselves is this: what do the artworks produced over the last 20 years tell us about our society?
+
+Celebrity artists such as Koons or Damien Hirst have built personal empires on the aesthetics and ideas that might have been impactful at the moment of their inception, but have since become a predictable redundancy for sale purposes. This is partly because the art market pushes artists to follow the demand of their signature works, pressurising them to produce tired replicas of ideas that lost relevance 20 years ago. But how can the art world’s ‘frontmen’ shape what’s to come if they are stuck in this cycle of cultural repetition?
+
+In recent decades, art has undoubtedly lost some of its capability to inspire social progress. But the times are changing, and the youngest generations (the jeeringly titled ‘millenials’ and ‘generation Zs’) are leading the way. A recent survey found that today’s young people are disillusioned; their economic and socio-political optimism is at record lows. But out of this disillusionment has come a drive for positive change in the community, and from the school strike for climate to the rise of #MeToo, today’s youth are holding society to account by standing up and taking acting.
+
+In the face of growing demand for corporate social responsibility, most industries have made commitments in areas such as sustainability and reduced carbon emissions. But not so for the art world, which seems to have closed its eyes, plunged its head firmly into the sand, and prayed for immunity against the changing tides surrounding it.
+
+The art world might be unwilling to move with the times, but as the axiom of hospitality goes, ‘the costumer is always right’, and as millenials slowly but surely become art collectors, we’re seeing a growing trend in sales based on emotional connection, where an artwork is purchased based on how it reflects the buyer’s cultural and social values. The effect of this is manifold; firstly, it will increasingly be in the artist’s interest to be socially engaged rather than reeling off their ‘greatest hits’; secondly, to drive profit, the art world will need to join in with their buyers’ and artists’ views on social responsibility.
+
+These changes represent a fundamental reconstruction of the art world as it currently operates, creating space for innovative business models which would have the capabilities to support such change. This is what we do at MTArt Agency, where we support emerging artists whose work we hope will become catalysts for how the next generation debate issues like gender, race, and sustainability.
+
+These artists are rejecting the ‘art for art’s sake’ philosophy, because they understand that the next generation of collectors will not be looking simply to buy an object; they will be looking to invest in an individual who shares their values and ideals. It’s not about finding a ‘nice piece to match the sofa’; it’s about displaying an artwork that speaks to them about the realities of and the hopes for the times in which we live.
+
+If the art world doesn’t want to be left behind, it urgently needs to embrace its political role again - it can start by listening to the demands of future collectors. If that happens, artists en masse would become free to reclaim their roles as leaders of visual and social progress – maybe even Koons.
+
+*If you want to hear from leading thinkers like this debating renowned philosophers, cutting edge scientists, headline-making politicians, and beloved artists, come to [HowTheLightGetsIn Hay 2020](https://howthelightgetsin.org/hay) for four days of debates and talks alongside music, comedy and parties.*

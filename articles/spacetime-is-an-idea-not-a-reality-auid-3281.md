@@ -1,0 +1,101 @@
+---
+title: "Spacetime isn’t real in the way you think"
+subtitle: "Spacetime is not a container we live inside of"
+author: "Eleanor Knox"
+date: "7th August 2025"
+article_id: "3281"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,327 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Spacetime-is-an-idea-not-a-reality.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/spacetime-is-an-idea-not-a-reality-auid-3281"
+---
+
+# Spacetime isn’t real in the way you think
+
+*Spacetime is not a container we live inside of*
+
+**By Eleanor Knox** | *7th August 2025* | *Read time: approx. 12 mins* | *2,327 words*
+
+![Spacetime isn’t real in the way you think](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Spacetime-is-an-idea-not-a-reality.webp)
+
+---
+
+*Physicists often describe spacetime as a container in which the universe unfolds, but this metaphor is misleading and even obstructive. Philosopher of physics Eleanor Knox dismantles the classical view and argues for an alternative: spacetime should be understood functionally, as whatever plays the right theoretical roles in our best physical models. From string theory to emergent quantum realms, Knox shows how this shift opens the door to a deeper and more flexible understanding of reality.*
+
+What comes to mind when you think about space? By this I don't mean the nothingless void of outer space, but rather the more abstract, and yet ever present, notion - the space in which things live. That is, the space of the room you're sitting in, in which the earth resides and in which the galaxy sits. This is the space we’re talking about when we ask how many dimensions space has, or whether space is infinite.
+
+**[![causal set theory piece](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/causal-set-theory-piece.webp)
+
+SUGGESTED READING
+Spacetime is not a continuum, it's made up of discrete pieces
+By Sumati Surya](https://iai.tv/articles/spacetime-is-not-a-continuum-its-made-up-of-discrete-pieces-auid-3108)**
+
+What kind of thing is this potentially infinite space? One popular conception is that it's a kind of container, arena, or backdrop for everything else - after all, I described it as the space in which things *live*. If you think of space like this, it's natural to think of it as a kind of thing, a substance in its own right. This view, known as *substantivalism*, has a long history. Isaac Newton famously thought of space like this - an immovable substance in which matter lived and relative to which motion was defined. That said, substantivalism has never been the only game in town. Renee Descartes and Gottfried Leibniz both disagreed with Newton. Leibniz, in particular, espoused *relationism –* he believed that space was reducible to relations between bodies, rather than an independent substance.
+
+\_\_\_
+
+When someone claims that spacetime has extra dimensions, they’re making a claim about the fundamental container or arena in which things live – the backdrop on which reality plays out.
+
+\_\_\_
+
+To some extent, these debates rumble on today. Philosophers have argued that certain features of general relativity rule out substantivalism – [others have disagreed](https://iai.tv/articles/spacetime-is-not-a-substance-auid-3164). But a great deal has happened to our understanding of space, time, and matter since Newton defended his view of absolute space. Most obviously, Einstein’s theories of special and general relativity seem to have united space and time into a single, four-dimensional spacetime. Developments in our understanding of matter have also had an impact. The need for a theory of quantum gravity introduces new complications. String theory is often said to propose additional spacetime dimensions – a total of 26, 11 or 10, depending on the theory. “Wavefunction realists” propose that [reality really has three times as many dimensions as there are particles](https://iai.tv/articles/the-world-is-not-a-quantum-wave-function-auid-3096). Other theories of quantum gravity may lack anything like spacetime at the fundamental level altogether.
+
+In these contexts, focus shifts away from claims about substantivalism or relationism and towards claims about which theoretical entity actually represents spacetime. Unless we know this, we can’t start to ask about the qualities of spacetime itself. Is it the four-dimensional manifold of general relativity? The ten-dimensional one of some string theory? Something non-fundamental and ‘emergent’? Various contemporary theorists take a stand on these issues. But what, exactly, are they taking a stand *on*? What is the content of the claim that, say, spacetime has 26 dimensions? And how are we to evaluate these claims?
+
+Not all ‘spaces’ are spatiotemporal. As an obvious example, consider ‘colour space’, a nice way of representing the various combinations of and shades of colour that digital files can represent. Figure one, for example, shows a simple cubic model with red, blue, and green along each of three axes. Useful colour spaces are more complex, but no one claims that colour space is the same kind of thing as the space in which we measure distances. Physics involves many more mathematical spaces equipped with interesting geometries. Field theories, for example, can be represented via a mathematical space known as a fibre bundle. Quantum mechanics is naturally represented in something called a Hilbert space. But few think that the usefulness of these representations justifies treating them as spatiotemporal. Very generally, whenever we introduce a new degree of freedom – a new quantity of some kind – we can look for a way to incorporate it into a geometrical representation. The result is often mathematically interesting. But this doesn’t mean that every time physics discovers a new quantity, we discover a new spacetime dimension.
+
+![Photo 1](assets/Uploads/Photo-1.png)
+
+Fig 1: The RGB colour cube. (Image from <https://en.wikipedia.org/wiki/RGB_color_spaces.)>
+
+Consider the string theorist who holds that spacetime has more than four dimensions. String theory offers various reasons as to why we don’t notice these at ordinary scales. One reason is that some dimensions are ‘compactified’ - rolled up tightly so that they are only significant at very small scales. We usually read this as a claim about *spacetime* itself – not just a claim about additional quantities in our theory.
+
+![Photo 2](assets/Uploads/Photo-2.png)
+
+Fig 2: Compactification: a 2D surface rolled up tightly appears one-dimensional. (Image from <https://en.wikipedia.org/wiki/Compactification_%28physics%29>)
+
+How should we understand the difference between making a claim about spacetime itself and merely making a claim about a mathematical geometrical representation? Our original substantivalist view offered one route. When someone claims that spacetime has extra dimensions, they’re making a claim about the fundamental container or arena in which things live – the backdrop on which reality plays out.
+
+\_\_\_
+
+To use a phrase coined by Vincent Lam and Chris Wuthrich: *Spacetime is as spacetime does.*
+
+\_\_\_
+
+This is almost certainly what many people have in mind. But words like container, arena, and backdrop are metaphorical here – they bring to mind boxes and stages. Can we dig deeper into the container metaphor to find its real content? I think not. A container has edges, and the contents of a container have positions relative to those edges. We know that spacetime is nothing like that. Not only does it have no edges, it has no preferred coordinates – there's no special way to pick out positions within it. And, importantly, there’s no way to pick out the ‘same place’ in space over time – that's one of the lessons of Galileo’s principle of relativity, enshrined in the structure of Einstein’s relativity. Under scrutiny, the container metaphor starts to crumble. Moreover, if the container must be fundamental, emergent spacetime is ruled out. It’s generally a bad idea to rule out interesting physics ideas based on philosophical intuitions (rather than arguments), but a particularly bad idea when the foundations of the idea are already shaky.
+
+![Photo 3](assets/Uploads/Photo-3.jpg)
+
+Fig 3: The rubber sheet analogy, closely related to ideas about containers, is often used to help students understand the idea that matter curves spacetime. But, with its two-dimensional spacetime and three-dimensional object, not to mention its preferred coordinate grid, it’s only a metaphor, and a misleading one at that.
+
+How else might we understand claims about spacetime? We could turn to mathematics. Perhaps we should require spacetime to have something like the geometrical form of general relativity? But this would rule out a great many imaginative advances in physics. An alternative is *operationalism:* we could think about how spacetime connects to the behaviour of bodies, and hence to our measurements of distances and times. Spatial distance is measured by rigid bodies (with Einstein, let’s call these ‘rods’). Time is measured by the kinds of periodic processes that we can use to build a clock. On this operationalist understanding, to say that a piece of our theory is spacetime is to say that it is connected in the right kind of way to the behaviour of certain kinds of matter that act as rods and clocks. But mere operationalism is a very blunt tool. It won’t help us to understand the claims of theories of quantum gravity. We know that these theories leave the behaviour of large bodies like rods and clocks largely unchanged. To be useful to contemporary physics, we need a more subtle tool.
+
+Enter spacetime functionalism. This view holds that operationalism gets something right - namely that spacetime needs to be appropriately related to the behaviour of matter. But a relationship just with the behaviour of rods and clocks isn’t enough. There are other, more theoretical, roles that spacetime must play. And if something in our theory plays those roles, then it’s spacetime – there are no further, non-functional properties that something needs to have to count as spacetime. To use a phrase coined by Vincent Lam and Chris Wuthrich: *Spacetime is as spacetime does.*
+
+Functionalism is most familiar in the philosophy of mind, where it was developed for reasons much like those mentioned above: behaviourists (like our operationalists) wanted to reduce mental states to behavioural dispositions, but this seemed insufficient to capture the rich role of our mental life. In the philosophy of mind, functionalism can be controversial because mental states have a unique phenomenological character – there’s something that it’s like to be in a mental state. But away from questions about the mental, functionalism is much less controversial. In the words of the late great Daniel Dennett:
+
+Functionalism is the idea that handsome is as handsome does, that matter only matters because of what matter can do. Functionalism in this broadest sense is so ubiquitous in science that it is tantamount to a reigning presumption of all of science.
+
+[Dennett, 2005, Sweet Dreams: Philosophical Obstacles to a Science of Consciousness, p.17]
+
+Consider deciding whether some bit of biological structure in an alien species is a gene. While we might disagree about the exact functional role, it’s hard to imagine using a definition of gene that isn’t functional – ultimately, genes are biological units that code for heritable characteristics. Functionalism might seem less obvious for apparently fundamental notions like ‘spacetime’ and ‘particle’, but as we move to [a physics framework in which the fundamentality of these entities is questioned](https://iai.tv/articles/there-are-no-particles-or-fields-only-structure-auid-3243), functional definitions seem to be the obvious choice.
+
+Thus, I propose that we evaluate claims about, say, the dimensionality of spacetime purely via functional criteria: If string theory is true, and the extra dimensions proposed by string theory are those of a space that plays the role of spacetime, then spacetime does indeed have more than four dimensions. (As it happens, I think it's highly unlikely that either of those conditions are met, but that’s a topic for another article.)
+
+For this to be a useful proposal, we need to know a lot more about the theoretical roles played by spacetime structure. There are many. One important role has already been mentioned – spacetime should relate appropriately to whatever measures distances and times. (Note that, if we want to talk about spacetime at very small scales, we might have to think about distances and times as measured by something other than rods and clocks.) In existing theories such as special and general relativity, we can say much more about the spacetime role. Spacetime relates in an intimate way to the symmetries of our theories of matter – spacetime symmetries must also be symmetries of the equations. Relatedly, spacetime plays a crucial role in picking out force-free or inertial motion – in our existing theories, freely moving bodies follow straight lines in spacetime.
+
+\_\_\_
+
+Spacetime relates in an intimate way to the symmetries of our theories of matter – spacetime symmetries must also be symmetries of the equations.
+
+\_\_\_
+
+For the spacetime functionalist, anything that plays this role just *is* spacetime, without further qualification. This answers several questions in satisfying ways. For example, various theorists have debated whether general relativity’s metric field, which encodes its geometry, really counts as spacetime. They worry that the metric field has various attributes that make it resemble matter fields like the electromagnetic field - it obeys its own set of dynamical equations and interacts with other matter fields in meaningful ways. As Carlo Rovelli vividly points out, a burst of gravitational waves could smash the rock of Gibraltar just as well as a burst of electromagnetic radiation. If we think of matter and spacetime as exclusive metaphysical categories, the metric field seems problematic to categorize. For despite its matter-like characteristics, it plays all of the roles that spacetime in Newtonian theories or special relativity does – it picks out inertial motion, relates to the symmetries of other matter fields, and ultimately governs the behaviour of rods and clocks. For the spacetime functionalist, the role it plays determines our answer – the metric field plays the role of spacetime, so it is spacetime, regardless of any matter-like features. (Assuming that we also define matter functionally, it might of course also be a matter field.)
+
+When it comes to emergent spacetimes, spacetime functionalism proves particularly helpful, for functionalism generally remains silent on the fundamentality of the entity playing some functional role. Consider heat transfer, for example. Once thought to be the transfer of a fundamental substance, caloric, we now understand it to be a particular kind of energy transfer best defined by its role in the laws of thermodynamics. As such, it’s easy to understand how heat and temperature can be non-fundamental. As physics has progressed, our understanding of the mechanisms behind temperature and heat in different substances has also progressed, but our basic functional definition of heat remains largely the same. Functionalist frameworks don’t discriminate between fundamental and non-fundamental realisers of the functional role.
+
+Likewise, the spacetime functionalist can be relaxed about the extraordinary idea that the realizer of the spacetime role might be non-fundamental. Suppose the metric field of general relativity emerges as a non-fundamental entity in certain regimes, but that the theory of quantum gravity that it emerges from contains nothing that plays the spacetime role. Those attached to the containment metaphor find this at best puzzling, and at worst incoherent – if there is no spacetime, where do the quantum gravitational entities *live?* But for the spacetime functionalist, the situation, while hard to visualise, is no more disturbing than the idea that heat and temperature emerge from microscopic descriptions that don’t include heat as a basic quantity. Stripped of the container metaphor, modern spacetime physics is free to push further into the strange and wonderful world of quantum gravity.

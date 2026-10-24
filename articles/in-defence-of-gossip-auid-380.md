@@ -1,0 +1,43 @@
+---
+title: "In Defence of Gossip"
+subtitle: "Could gossip serve a vital social function?"
+author: "Evie Prichard"
+date: "28th June 2014"
+article_id: "380"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "760 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gossip2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/in-defence-of-gossip-auid-380"
+---
+
+# In Defence of Gossip
+
+*Could gossip serve a vital social function?*
+
+**By Evie Prichard** | *28th June 2014* | *Read time: approx. 4 mins* | *760 words*
+
+![In Defence of Gossip](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gossip2.webp)
+
+---
+
+Like many natural human behaviours, gossip has a much maligned past. Seen largely as a petty sin, a waste of time and a sign of shallowness or cruelty, gossip is nevertheless a viscerally enjoyable human activity. People from every culture engage in the universal pleasure of discussing those close to them; sharing secrets and judgements in a form of bonding which encompasses the community as well as the individual.
+
+Much like watching apes eating the lice from one another’s coats, gossip repels the outside observer with its exaggerated intimacy and relish for the disgusting. Yet what does our love of gossip really tell us about ourselves? It tells us that we care enough about other people to discuss them, that we feel part of a community which includes those about whom we are gossiping. Ultimately, it is proof that we care sufficiently about our group to be invested in the seemingly banal trivia of their lives – trivia which without these ties we would find absolutely tedious. Surely this is a good thing?
+
+In fact, not only does gossip reflect our communities, it also strengthens them. When we gossip with someone we find ourselves becoming closer to them, but we are also drawn closer to the group of people about whom we are gossiping. When all the members of a group are doing the same thing, is it any wonder that they feel more connected?
+
+Gossip also has its morally relevant benefits, too. It provides us with a constantly renewing series of moral judgements to be made, and hypothetical situations to be weighed. In this person’s shoes, we ask ourselves, would we have stayed with the wife or eloped with the mistress? Should we take into account the fact that the mistress gets on better with the kids? And how about the ex-wife’s office flirtation? And on it goes, an increasingly complicated moral situation to be debated or devil’s advocate to be played, a daily testing of what we think is acceptable and why.
+
+What better exercise could there be for our moral sensibilities? What better clarification of our own moral codes, and their conflict or agreement with those of society? And, perhaps most importantly, what better mechanism to allow our shifting moral codes to inform one another, to shape the group's morality over time to suit the changing sensibilities of its members?
+
+Without these routine and largely overlooked moral conferences there would be less exchange of moral views and far fewer opportunities to challenge other views. The evolution of morality is critical if we are not to stagnate or descend into a sort of fundamentalism. And much like the evolution of a cell, the more renewals we put our beliefs through – the more outings we give them and the more debate we allow – the faster they adapt to changing situations.
+
+Gossip serves a similar purpose when it comes to normalising behaviour. As times change and society becomes more liberal, it is gossip that perpetuates the movement. The more an individual breaks a social rule, the more they get gossiped about and the less taboo the action becomes. Eventually, we can ditch our corsets or kiss someone of the same gender because “everybody's doing it”. Of course there are some rules we want broken, and some rules we don’t. But broadly speaking, those taboos that get smashed are those we all secretly longed to break in the first place.
+
+Gossip can work the other way as well, as a disincentive to rule-breaking. No one wants to do something that will make them the subject of malicious gossip. Yet this too can be a benefit. Society’s rules can be constraining, but they are there for a reason. It would be a terrible idea if we were simply to ignore them completely. Gossip provides a hurdle to breaking the rules, but not an unscalable one. Thus we end up with an efficient system to encourage people to prioritise only those risks they really want to take.
+
+A final advantage of gossip is that it can be a great comfort. It allows those of us who are in some way abnormal to know that we are not alone. Everyone is doing something wrong, or notable, or just plain weird. We are provided with a context for our own foibles which offers the comforting knowledge that everyone is flawed and different. Gossip allows us to see beyond the veneer of respectability and normality that would otherwise blind us to the variety and fallibility of the human psyche. And that would be a very inhospitable world indeed.

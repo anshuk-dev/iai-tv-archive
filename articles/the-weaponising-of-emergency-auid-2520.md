@@ -1,0 +1,99 @@
+---
+title: "The weaponising of emergency"
+subtitle: "Making and manipulating crises in the West"
+author: "David Keen"
+date: "23rd June 2023"
+article_id: "2520"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,596 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Feb-26-Catalonia-e1551208290616-1300x500.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-weaponising-of-emergency-auid-2520"
+---
+
+# The weaponising of emergency
+
+*Making and manipulating crises in the West*
+
+**By David Keen** | *23rd June 2023* | *Read time: approx. 13 mins* | *2,596 words*
+
+![The weaponising of emergency](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Feb-26-Catalonia-e1551208290616-1300x500.jpg)
+
+---
+
+*David Keen lifts the lid on the constant state of ‘emergency politics’ currently consuming the Global North and argues why the framework of the Global South is key to understanding, and disrupting, these self-reinforcing systems of crisis.*
+
+A kind of ‘emergency politics’ is significantly shaping manypolitical systems across the world, and Western democracies are far from immune. It may be that globalization is now helping to ‘import’ into Western democracies not only the large-scale superfluousness and precarity afflicting the rest of the world but also some of the emergency politics that many influential actors in the Global South have for some time been fostering and using to distract, absorb and suppress the energies of discontented populations.
+
+A key part of the problem in Western democracies today, as so often in many parts of the Global South, has been that the underlying functions of overlapping disasters have helped to undermine attempts to relieve them, contributing greatly to the ineffective or actively counterproductive nature of responses.
+
+**Global South precedents, patterns and lessons**
+
+In several countries where I have investigated disasters (including Sudan, Sierra Leone and Sri Lanka), a key part of politics has come to be the instrumentalisation of disaster and emergency, while a second important part has been the attempt to limit the political fall-out from disaster, pointing towards an agenda of legitimising disaster.
+
+Emergency politics in the Global South is partly about sealing yourself off from the costs of disasters. At the extreme, elites creating a crisis obtain many benefits and incur very few costs, a situation that feeds into disasters themselves and even into what Mark Duffield has called ‘permanent emergency’. The trajectory of disasters in the Global South has been closely related to changes in the distribution of costs and benefits. So relatively powerful groups will tend to relieve disasters when they are incurring costs and they will tend not to relieve disasters (and indeed to make them worse) when they are reaping benefits. Famines in Sudan and Ethiopia in the 1980s were only seriously addressed when media reports belatedly exposed the severity of the problem — and in Sudan’s case the manipulation of famine for profit, oil and military advantage.
+
+Crises in the Global South can help to throw light on crises affecting the Global North. Disasters in the Global South have routinely yielded beneficiaries, and these benefits can help to explain why these disasters occurred and why they have frequently persisted. Today, as a great many disasters have in effect ‘come home’ to the Global North, so too have some of the *benefits* of disaster as well as the closely related *instrumentalisation* of disaster. Suffering is increasingly being welcomed and put to use in Western democracies, mirroring a disturbing phenomenon that has been documented in Africa, Asia and Latin America over several decades.
+
+\_\_\_
+
+Suffering is increasingly being welcomed and put to use in Western democracies, mirroring a disturbing phenomenon that has been documented in Africa, Asia and Latin America over several decades.
+
+\_\_\_
+
+**What’s happening in the West**
+
+A proliferating array of disasters are today feeding into each other in ways that are profoundly disturbing and ways that we need to understand much better. Terrorism, weather-related disasters, financial crisis, humanitarian crises among migrants, Covid, Ukraine, structural economic crisis, climate crisis and political crisis: while the list of crises or disasters now impacting Western democracies is certainly a long one, we should also notice that these various disasters tend to be treated *separately*. We need to recognize that these crises are strongly feeding into each other in what amounts to a mutually reinforcing system of emergency-and-response, a politics of emergency that tends to feed voraciously off itself.
+
+**The cycle – perpetuating blowback**
+
+Many of the current disasters in Western democracies are ‘coming home’ not just in the sense of encroaching on this historically privileged geographical zone but also in the sense that disasters represent a kind of ‘blowback’ from earlier abuses and misadventures. Both jihadist and white supremacist terrorism have been fed by the ‘war on terror’. Weather-related disasters have been encouraged by growth-induced climate change. And large-scale migration has been fueled by a combination of colonialism, neoliberalism, the ‘war on drugs’, and (again) the ‘war on terror’. Unfortunately, many of the fantasies that helped to create contemporary disaster-producing policies are today being reinforced precisely by the blowback that they have induced, so that the perennially proposed remedy is, in effect, ‘the hair of the dog’ – or ‘more of the same’. In short, we are seeing the emergence of a *disaster-producing politics* that is in many ways *self-reinforcing*. Today’s overlapping disasters offer important opportunities for political manipulation as well as important economic opportunities for the expensive apparatus of deterrence that has been constructed around a variety of much-trumpeted ‘threats’, whether ‘terror’, ‘drugs’ or ‘mass migration’. In effect, a sense of threat is being hitched to policies that generate more suffering – and more ‘threats’.
+
+\_\_\_
+
+Current responses to emergency centre on securitization, on the theatrics of getting tough, and on selling the fiction that you are protecting people while simultaneously neglecting what would really protect them.
+
+\_\_\_
+
+**Magical thinking – the politics of distraction and delusion**
+
+To a large extent, current responses to emergency centre on securitization, on the theatrics of getting tough, and on selling the fiction that you are protecting people while simultaneously neglecting what would *really* protect them.
+
+Today, we may say that a range of relatively spectacular emergencies like migration crises and terrorism have acquired an important ‘function’ in distracting Western populations from deeper-lying crises that major vested interests would prefer to leave unaddressed or even actively worsen. We need to recognize how addressing *the wrong disaster* (which is often ‘trumped-up’ in the sense of being manufactured and/or hyped) is stirring up dangerous fantasies while severely inhibiting our responses to the graver underlying disasters. A key part of the problem is that many disasters are being harnessed to a form of right-wing populism that offers big emotional pay-offs and largely magical solutions for real-world problems while simultaneously turning against (or perhaps we should say turning *further* against) the world of evidence. There is also a problem of ‘crying wolf’. Particularly since many contemporary emergencies have been trumped up or trumpeted or both (from ‘oppression by Brussels’ to ‘the migrants’ caravan is coming!’ to the more mundane and often profit-driven insistence in the workplace that ‘our organization is in crisis!’), Western publics now face a major challenge in sorting out the real emergencies from the fake ones.
+
+**[![The era of crisis and the new normal](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/The-era-of-crisis-and-the-new-normal.webp)
+
+SUGGESTED READING
+The era of crisis and the new normal
+By Stathis N. Kalyvas](https://iai.tv/articles/the-era-of-crisis-and-the-new-normal-auid-2315)**
+
+As part of this, Western electorates have been invited to ‘buy into’ magical solutions for a range of high-profile crises. Such ‘solutions’ have often centred on some kind of trumpeted impact on *supply* (building walls against migrants, deterring migrants through bad conditions or lack of rescue-at-sea, eliminating terrorists, deposing governments that ‘support terrorists’, arresting druglords, destroying poppy crops, and so on) while either leaving demand unaddressed or actively fueling it through the intervention itself (see also Ruben Andersson and David Keen, Wreckonomics, Oxford University Press, 2023 forthcoming).
+
+We need to take much better account of the disasters that actually exist within people’s own lives (such as ill health, bad housing, unemployment, being rendered economically superfluous,) as well as a range of neglected and related ‘macro’ disasters such as civil war, global precarity, and global warming. This demands a very fundamental re-think about how social and economic life is fashioned, but it is hard to think clearly when trumped-up disasters are constantly being placed before our eyes and mixed in with the real ones. That impediment to thinking may indeed be a key *function* of various high-profile disasters. Our more fake or fabricated emergencies and associated scapegoating tend to shore up a (gainful) world of delusions while distracting people from a range of all-too-real disasters and a proper understanding of their causes.
+
+Underlying problems fester and proliferate when high-profile security measures absorb huge amounts of tax revenue. The cost of these various ‘security systems’ is sucking the lifeblood from systems of public health and social security, which in turn feeds back into vulnerability to disaster.
+
+\_\_\_
+
+The idea that countries or individuals can be physically sealed off from ‘blowback’ greatly erodes the incentive to prevent or tackle disasters.
+
+\_\_\_
+
+**Walling off from blowback – projecting immunity**
+
+An emphasis on ‘building walls’ tends dangerously to reinforce a pre-existing sense of ‘immunity’ to collective problems. Naturally, the idea that countries or individuals can be physically sealed off from ‘blowback’ greatly erodes the incentive to prevent or tackle disasters, and encourages reckless behaviour. We saw this when the idea that banks were ‘too big to fail’ encouraged lending far in excess of one’s assets. We’ve seen it in the ‘war on terror’ and with global warming. A key ‘sealing off’ has been reinforcing borders as conflicts and humanitarian crises proliferate under the strain of conflict and global heating. Indeed, we may expect that this walling off will be a central strategy for those who wish to focus on consequences, not causes, and to pursue ‘business as usual’. In *No Go World*, Ruben Andersson shows that in marking out large parts of the world as ‘no go zones’, in trying to push risk away, and in outsourcing ‘migration control’ to abusive regimes and militias, Western policy-makers are fuelling discontent and stoking the very abuses that bring these risks closer. ‘Escape strategies’ in relation to global warming include such small-scale ‘adaptations’ as pumping Florida beaches and building luxury homes on higher ground from Miami to New Zealand. We are also seeing a proliferation of ‘gated communities’, often in response to crime, while in the financial markets hedging against future disasters is now a huge industry. In a small but telling incident from the UK, leading ‘Brexiteer’ Jacob Rees-Mogg’s company Somerset Capital Management set up offshoots in Dublin to guard against the economic effects of Brexit.
+
+**Breaking the cycle**
+
+Our current focus on abusive or irresponsible individuals tends to obscure what made them possible; if Trump, Johnson and Brexit and right-wing populism more generally are symptoms rather than causes, then focusing only on these prominent phenomena will not get us very far. The growing prominence of right-wing populism in many countries around the world represents an invitation to learn from experience and to re-think the practices that have helped to generate these movements. In highlighting the ‘crisis’ of Trump or Brexit, we often sideline awareness of the complex causes and functions of right-wing populism. Today, even opponents of the status quo risk being mesmerized by particular phenomena that are perhaps better seen as variations on a global theme and as *epiphenomena* produced by deeper processes, of which widening inequality would seem to be the most important. Such a reflex represents, in effect, another version of focusing on symptoms rather than underlying problems, on consequences rather than causes.
+
+Arendt emphasized that it was dangerous to be so mesmerized by totalitarianism that one forgot to investigate and address the conditions that had made it possible (and that were always threatening to recreate it). She noted, for example, that ‘If homelessness, rootlessness, and the disintegration of political bodies and social classes do not directly produce totalitarianism, they at least produce almost all of the elements that eventually go into its formation’.
+
+We need to interrogate the nature of actually existing democracies and the nature of the media operating therein and how these relate to the protection that is or is not being provided. This applies in any part of the world. A key factor here is the extent to which particular groups are exposed to disasters through lack of political muscle or influence. Another is the extent to which disaster is actually welcomed. A third is the degree to which the media is interested in preventing or promoting disasters. A fourth is the extent of intimidation that accompanies democratic rule. And a fifth is the extent to which the essence of democracy is actually being eroded or surrendered, whether in the suppression of dissent or in various versions of ‘emergency rule’ and ‘emergency management’. The protection that democratic institutions are often presumed to provide turns out to depend on how disaster is conceptualized and whether the will and energy exists to inject these institutions with the vitality they require. Democracy is still a kind of lifebelt in an increasingly stormy sea; but if we forget to breathe air into this lifebelt, it will not save us.
+
+Disasters are a chance to wake up, to change – and multiple overlapping disasters even more so. We know from past experience that disasters can radicalize people, but this does not always work out well. We might think here of the role of the First World War in giving birth to both Communism and Nazism. Radical solutions may bring their own versions of magical thinking and their own forms of intimidation, as we saw many times with Communism. And Nazism should remind us that radical politics may also trigger a political backlash that ends up bolstering important existing interests while embracing its own disastrous kinds of magic. To my mind, the point is not to ‘rebel’ in any violent sense. As Gandhi stressed, such violence tends to legitimize security structures while also reinforcing the sense of self-righteousness within and around these structures. In both the Global South and the Global North, violent protest has sometimes been quickly and effectively instrumentalized to strengthen state repression. This can easily be part of a toxic politics of distraction and fear that sells people the ‘lesser evil’ of state repression on the grounds that it prevents a greater one that is rather quickly labelled as ‘terrorism’. A better path, to my mind, is to think for oneself, to question one’s own assumptions, to talk with others, to speak very plainly about what is happening, to organize protest, and to refuse to cooperate. In that sense, we are back to Gandhi and ‘non-violent non-cooperation’, a path that helped to bring about Indian independence, which strongly informed the Arab Spring, and which remains much more threatening to power than we often imagine.
+
+From Arendt’s perspective the hope lies partly in good actions, however small, which push in the opposite direction to those ‘lesser evils’ that generally turn out to be not so small after all. If every infringement of human rights is a kind of denial of legal and moral frameworks (and thus a form of what Arendt called ‘action as propaganda’), it is also the case that every action defending human rights – on whatever scale – is correspondingly a crucial affirmation that these rights do in fact exist: in fact, it is ‘action as propaganda’ in reverse. In the face of the current migration crisis, there has been a huge wave of volunteer humanitarianism, with people from all walks of life offering their time and services to help the refugee populations. This is not so much an old-style ideological movement with a prescription for a new world order as it is an amazing accumulation of the ‘small and not so small’ acts of kindness that Arendt sees as making a better world. Each act of helping carries the message, which may or may not be widely heard, that human rights do exist and that they exist because there are people who are still willing – rather against the odds and in many ways against the *Zeitgeist* – to make them real. Even if not widely noticed, this kind of affirmation will almost always be noticed by those whose rights are being affirmed. This opens at least the possibility of a virtuous circle, a circle that is already playing out every day in countless ways alongside all the bad things that are happening and being encouraged to happen.

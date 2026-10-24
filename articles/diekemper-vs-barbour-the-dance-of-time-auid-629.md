@@ -1,0 +1,56 @@
+---
+title: "Diekemper vs Barbour: The Dance of Time - part 1"
+subtitle: "The present is a border between past and future."
+author: "Joseph Diekemper"
+date: "Issue 45, 13th February 2016"
+article_id: "629"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,562 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Diekemper-vs-Barbour-45-1-text.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/diekemper-vs-barbour-the-dance-of-time-auid-629"
+---
+
+# Diekemper vs Barbour: The Dance of Time - part 1
+
+*The present is a border between past and future.*
+
+**By Joseph Diekemper** | *Issue 45, 13th February 2016* | *Read time: approx. 8 mins* | *1,562 words*
+
+![Diekemper vs Barbour: The Dance of Time - part 1](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Diekemper-vs-Barbour-45-1-text.webp)
+
+---
+
+*Read part 2: Julian Barbour argues that Diekemper's discussion of past and future misses [what really matters](http://iainews.iai.tv/articles/diekemper-vs-barbour-the-dance-of-time-part-2-auid-630).*
+
+We live in a dynamic world. That is my starting point for thinking about the nature of time. Time, if it exists at all, must be such that it passes, and its passage, though fundamental to our experience, does not depend upon experience. Another way to put this foundational thesis is to say that temporal becoming is an objective feature of reality, independent of the mind.
+
+Why make this thesis one’s starting point? It is because of the pervasiveness of our experience of the passage of time. It is pervasive in a way that common experiences which we know to be illusory are not. For example, it is common for earth-bound humans to experience the earth as flat, yet we know that it is not. It is common for humans to experience a straw placed in a glass of water as bent, even though we know it is not. We are able to see past illusions in these kinds of cases because science has provided an explanation for them.
+
+Those who think that time is static – that there is no such thing as objective temporal becoming – hope to show that our experience of passage is very much like these other kinds of experience: illusory but explicable. But the experience of passage is altogether different than these and other kinds of illusory experience. The experience of passage is universal; it does not depend upon spatial location or perspective. It does not depend upon individual sensory modalities. That is to say, even if I’m not currently seeing, hearing, touching, tasting, or smelling anything (assuming such an experiential state is possible), I can still experience temporal passage – I can experience it while working through a mathematical sum in my mind.
+
+So the experience of temporal passage is universal and pervasive, yet why should we think that it obtains independently of our experience? It is because, when experiences are universal and pervasive, we quite rightly take them to indicate something about the way the world fundamentally and objectively is. Were such inferences from observation illegitimate, most of what we have learned from science would not have been possible. But there are no scientifically verified observations which demonstrate that time is not dynamic, and it is likely that there could be no such observations (notwithstanding the empirical success of the prevailing interpretation of special relativity theory).
+
+So I start with the view that we live in a dynamic world in which temporal becoming is an objective feature of reality. But what kind of dynamic world? Is it one in which all events are positioned throughout time – past ones lost and forlorn, never to be experienced again; future ones awaiting our experience of them, and present events: the temporal celebrities in the spotlight of the now? Such a conception is called the moving spotlight theory of time, and, as J.M.E. McTaggart demonstrated, it is imbued with contradiction. For it requires us to project the dynamic tenses – past, present, and future – onto a static series of tenselessly positioned events, and the only escape from the resulting contradiction is to embark on an infinite and vicious regress.
+
+Another possible dynamic world is captured by the theory known as presentism. Presentism avoids the contradiction of the moving spotlight theory by doing away altogether with the static series of tenselessly positioned events. Rather, the only events that exist are present events. Past events *did* exist (when they were present), and future events *will* exist (when they will be present), but there are no presently or tenselessly existing past and future events. It is safe to say that presentism is the prevailing dynamic theory among contemporary philosophers of time, but I think it suffers from a devastating objection. As a dynamic theory, presentism is supposed to justify our common-sense notions of temporal passage and asymmetry, but it is unable to do so. This is because, according to presentism, there is no intrinsic difference between past and future, they are both equally unreal; and yet common-sense temporal asymmetry tells us that the past is fixed and the future is non-fixed. Furthermore, a dynamic theory requires that this difference in fixity be grounded in the intrinsic difference between past and future, but there is none according to presentism! So presentism fails to deliver what it promises.  
+  
+\_\_\_  
+  
+"The objects of our conscious awareness are all memories, even though the state of being aware of them is simultaneous with the present."  
+\_\_\_
+
+The final dynamic theory I will consider, and the one which I endorse, I call the growing universe theory (also known as the growing block theory). According to this theory, the present and past exist, but the future does not. This theory has the advantage over presentism of providing a suitable ontological ground for the fixity of the past and the non-fixity of the future: the past is fixed in virtue of its existence, and the future is non-fixed in virtue of its non-existence. Nonetheless, in its standard form the theory does have a serious problem which mirrors that of the moving spotlight theory: it suffers from incoherence! This is because the standard form claims that both past and present *events* exist, and this forces one to say both that past events exist tenselessly at past times, *and* that they *have occurred* (tensed) at those times, and this is incoherent. For this reason I have developed a growing universe theory according to which the ‘present’ does not designate a temporal region at all, rather it is a temporal boundary between existence and non-existence. Given the dynamic nature of the world, this boundary is constantly ‘moving’, so to speak, as the sum total of existence increases. This means that there are no present events, since I take events to be temporally extended entities which *take* time, and there is no present region for them to inhabit. So there are only past events. This is not to claim, however, (as the presentist does about the past) that the present is unreal. The present is simply point-like and therefore it does not contain events. I call this view pastism.
+
+This leads us back to the discussion of illusion, since pastism does have to acknowledge that an aspect of temporal experience does involve illusion. On the pastist view, the only events that exist are past events, and they are all equally real. So the experience which came into existence only a moment ago has precisely the same objective reality as a long past experience. The presentist finds this view unpalatable because a dynamic theory of time is supposed to be a common-sense theory, and common sense tells us that there is something special about the present – and, in particular, about present experience. For my part, I do not deny the importance of the so called ‘privileged present’, but my claim is that present experience is *at* the present, not *in* it (again, think of the border analogy). The closer an experience is to the present, the more vivid it is psychologically, and thus the more real it is to the subject. Thus I am not denying the subjective significance of present experience; I am merely redefining it and accounting for it on the basis of a different ontology than does the presentist.
+
+Present experience, on the pastist view, is experience that is immediately adjacent to the present, where the present is conceived as the boundary between past and future (i.e. between existence and non-existence). Furthermore, this ontological picture objectively grounds the subjective significance of present experience, since the pastist ontology acknowledges the objectivity of the present. Nonetheless, the pastist view does call for an explanation in accounting for some of our other pre-theoretic beliefs about the present. This is because we pre-theoretically believe not only that present experience is privileged, but also that there *are* present events. The pastist explanation for this belief, I suggest, is best offered in terms of the continuity of experience.
+
+On the pastist view, if we think of experiences as events, then all experience is past, since all events are past; but I think that the view can also accommodate states of conscious awareness, where these states are not temporally extended entities, and can therefore be conceived as simultaneous with the boundary (or point) of the present. Thus, the subject of experience can be in a ‘present’ state of conscious awareness, but the objects of this awareness are experiences that are temporally extended, and which are therefore past. What this means is that the temporally extended objects of our conscious awareness are all memories, even though the state of being aware of them is simultaneous with the present.
+
+Now, past experiences that are adjacent to the present constitute such immediate memories, and are so seamlessly joined in our consciousness to subsequent, more immediate memories, that we subjectively locate some indefinite set of the most immediate memories in the specious present. This, I suggest, is the ground of the common-sense conception of the privileged present. So the pastist must acknowledge that at least some of our beliefs about the present involve illusion and are based merely in subjective experience, and not in objective reality; but this acknowledgment does nothing to diminish the objective underpinnings of that subjective experience.
+
+*Read part 2: Julian Barbour argues that Diekemper's discussion of past and future misses [what really matters](http://iainews.iai.tv/articles/diekemper-vs-barbour-the-dance-of-time-part-2-auid-630).*

@@ -1,0 +1,75 @@
+---
+title: "Silence Reigns"
+subtitle: "Penny Rimbaud speaks on music, love, and meaning."
+author: "Penny Rimbaud"
+date: "16th July 2014"
+article_id: "384"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "1,036 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Silence-Penny-Rimbaud-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/silence-reigns-auid-384"
+---
+
+# Silence Reigns
+
+*Penny Rimbaud speaks on music, love, and meaning.*
+
+**By Penny Rimbaud** | *16th July 2014* | *Read time: approx. 5 mins* | *1,036 words*
+
+![Silence Reigns](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Silence-Penny-Rimbaud-1.webp)
+
+---
+
+Founding member of the anarchist punk group Crass, Penny Rimbaud is a musician, poet, author and activist. His works include *This Crippled Flesh*. We spoke to him about meditation, materiality and the power of silence.
+
+**Wittgenstein said “that of which we cannot speak thereof we must be silent”. Are there things we can only speak of with silence?**
+
+I would say that true love, true unconditional love, is expressed through silence. There is no need, there is no want, therefore silence is the appropriate expression. In that sense I can’t say more than that, I think.
+
+**And can someone know you love them without you ever having to discuss it?**
+
+I think it’s utterly irrelevant whether they know or not. If you love them simply because you possess that knowledge, it is surely the same as possessing a person, which I wouldn’t want to do in any case. Knowledge is a form of possession, and quite often it’s a very defended form of possession, as you see in many relationships.
+
+The Samurai for example had their unconsummated love, which was where the love was enough; it need not be expressed. And, in fact, in expressing the specific you're denying the whole. To concentrate on the specific is to deny the whole and I'm not very interested in that.
+
+It’s easy to pick cherries out of life and say “here I belong” and “here I don’t belong”, but the magnificence of life, and the sumptuousness of it demands total engagement. And total engagement is not the engagement of the ego, which itself is very specific – what do I want, what do I need, how do I get it? – but a deep sense of allowance, a deep sense of acceptance that goes beyond sense. Sense itself is a thing that is contained within the ether, a deep non-sense about a deep non-sense of acceptance, and therein is the greater love.
+
+**Are humans capable of that level of non-specificity?**
+
+Yes, in short.
+
+**I can't imagine how anyone could live without divisions, here I live and here I don’t, here I belong, and here I don’t. Surely your life would become a total mess without them?**
+
+Quite the opposite. When you swim, for example, you become the sea: you are manifestly part of it. If you try and struggle against it you go down. Well, I think that the great force of life itself, which is beyond all of our considerations, it is simply just happening. It doesn’t give, it simply is, and if we are simply being with it, what else do we need? Why have an argument over it? Each part we take away from that we deny another.
+
+**And do we become a part of the whole through processes like meditation and silence?**
+
+That’s one way, yes. All noise is basically psychological. There are all kinds of noises going on all the time: some of them you might find offensive, some of them I might not even notice; there’s no absolute about the quality of noise. There is something absolute about the quality of silence, however. We can all claim to be able to sit in silence, we all know what silence is.
+
+**But it still varies as to whether it is offensive or not?**
+
+That’s a psychological issue, it hasn’t got any bearing on its physical truth at all. A mother hearing a baby cry will react in one way because it’s a message, whereas to another its just a fucking annoying noise that’s getting in the way of reading a book or whatever. There’s no absolute in noise, so what is it that prevents the absolute? The only thing that prevents the absolute is psychology, ego-driven psychology
+
+**So what’s the role of music in all this?**
+
+I don’t see necessarily that there is a role of music. The fact that I make music doesn’t mean anything. I also make bread.
+
+**And what’s the role of bread in all of this?**
+
+Well there is a Chinese saying that I can’t remember exactly, but it's something like, “those who don’t make their bread properly have no respect for life”, which I agree with. Bread is the start. In Christianity it has a strong presence. I love making bread; I make gardens and I make paintings and I make all sorts of things, but I don’t see any one of my activities as being any less or more important than any other.
+
+**Do you think that these multiple activities, the things that we do to fill our time are just a struggle to fill the silence and the emptiness of an otherwise...**
+
+Well actually it’s a struggle against our lives as well. More than anything it’s a struggle against, for want of a better term, God-given life. I don’t believe in God, but I do believe in life. It's here. I don’t understand what it means and I don’t care to try and understand what it is. It certainly won’t be explained through science; there are suggestions of what it could be in physics, all of which simply mirror things that mystics were saying thousands and thousands and thousands of years ago.
+
+**Could you give an example?**
+
+Well quantum, for example, in the potential of possibility. We are simply a single manifestation at any given time, and there is no permanence in any presentation we make of ourselves. We imagine ourselves to be existing within a framework, and it is only imagining because those things hold no grounds at all in certain mind states, as we know. We might call those things psychopathy or we might call it Alzheimer's disease or we might call it all sorts of things.
+
+So, even in the materially-defined world we can not be here, but actually, in practice, we can not be here equally. You know, in a deep meditation one is no longer there. One might have thoughts going through but they are like clouds, they simply go by. If you want to attach to them and say, “fucking weather” or whatever, you can if you want, but there’s no point.
+
+And so it’s all to do with our attachment to our ideas. Everything is an attachment to our ideas. Everything is a set of ideas in the material world. There’s nothing in the material world that actually exists.

@@ -1,0 +1,86 @@
+---
+title: "Dating Nietzsche: Love vs Power"
+subtitle: "There is no love without gender equality"
+author: "Tom Digby"
+date: "14th February 2024"
+article_id: "2741"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,671 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-02-14-valentines-aqnd-nietzsche2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/dating-nietzsche-love-vs-power-auid-2741"
+---
+
+# Dating Nietzsche: Love vs Power
+
+*There is no love without gender equality*
+
+**By Tom Digby** | *14th February 2024* | *Read time: approx. 8 mins* | *1,671 words*
+
+![Dating Nietzsche: Love vs Power](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-02-14-valentines-aqnd-nietzsche2.webp)
+
+---
+
+*Romantic love, often celebrated as one of life's greatest treasures, can also be a treacherous terrain fraught with tension and conflict. But why does this paradox persist? Inspired by Nietzsche, philosopher Tom Digby argues that notions of romantic love are entangled with gender binaries, perpetuating cycles of dominance and submission. He contends that dismantling these constructs is essential for fostering healthy, egalitarian relationships.*
+
+Romantic love often goes terribly awry, even though it can be one of the greatest sources of joy and fulfillment available to human beings. Our most obvious clue to understanding this quandary about romantic love comes from the historically prevailing notion that it is for heterosexual couples. In fact, it is supposed to be for two persons who represent not just two different sexes, but two opposite sexes. Thus, it should not be surprising that romantic love is often construed as a “battle of the sexes”.
+
+\_\_\_
+
+According to Nietzsche – and he says this explicitly – when a man loves like a woman he becomes a slave, but when a woman loves like a woman she becomes a more perfect woman. He leaves the implicit conclusion hanging right before our eyes: the most perfect woman is a slave.
+
+\_\_\_
+
+Conceivably, a woman and a man in a romantic relationship could be opposite to each other without being combative. Nietzsche explains the routine adversariality of heterosexual love as emanating from a tension between gender equality and romantic love. Men and women think about love differently, he says. Borrowing the language of today, Nietzsche proposes that men have a masculine understanding of love, while women have a feminine understanding of love. Those different conceptions of love are complementary, and each expects the other to act accordingly. Nietzsche says the feminine conception of love by a woman is complete devotion and unconditional surrender. That kind of love requires a woman to have a kind of faith in her partner. Nietzsche says that men expect precisely that kind of love from a woman. Men want a woman to be devoted to them, to have faith in them, to embrace subordination to them. Hence, masculine love is complementary to women’s love, but entirely different from it. It is premised on entitlement rather than devotion or surrender. Consequently, according to Nietzsche – and he says this explicitly – when a man loves like a woman he becomes a slave, but when a woman loves like a woman she becomes a more perfect woman. He leaves the implicit conclusion hanging right before our eyes: the most perfect woman is a slave. Nietzsche acknowledges that some men may experience that womanly kind of love, but they are not “real men”; in other words, they are lacking in masculinity.   
+  
+I propose in my Love and War book that Nietzsche is addressing how his society – and to a significant extent, ours – culturally programs men and women to have these peculiar notions of love. He’s not giving his personal opinion about what love ought to be, nor is he generalizing about every instance of romantic love. Rather, Nietzsche is, in effect, giving us a phenomenological description of cultural programming about love and gender. He is decidedly not endorsing this male dominant/female subordinate version of love; rather, he says it leads inevitably to antagonism. While love may have evolved in complicated ways since the 19th century, Nietzsche’s insight about heterosexual antagonism is powerfully confirmed by contemporary research on interpersonal violence, which shows us that such a patriarchal notion of love regularly leads to emotional and physical abuse, torture, rape, and even murder.
+
+[![Rewriting romance2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Rewriting-romance2.webp)
+
+SUGGESTED READING
+Rewriting romance
+By Carrie Jenkins](https://iai.tv/articles/rewriting-romance-auid-2351)
+
+That oppositionality of precisely two sexes is not something we find in nature, nor is it our inevitable fate. Rather, it derives from a mythical gender binary. Although the gender binary is putatively not mythical, but rather grounded in a biological sex binary that can be found throughout nature, such a sex binary is itself derived from looking at nature through a culturally gendered and inaccurate lens. In nature, some fish change sexes and others have three sexes, males in some animal species do the infant caregiving, females in some species are bigger than males, and there are some species where females are in charge, promiscuous, prone to fighting, or all three. Furthermore, genitals, hormones, and chromosomes are not consistently reliable determinants of sex. Some people have ambiguous genitalia. Some people with XY chromosomes are phenotypically female. Some otherwise female persons have testosterone levels above the range considered normal for females.  
+  
+In sum, the sex binary is not something that exists in itself; rather, it is culturally derived from a gender binary, and both binaries are myths, figments, and often downright delusions, and both serve as lenses through which we get a distorted view of nature.  
+  
+Nonetheless, the gender binary myth is one of the most powerful forces in human history. It may have shattered the lives of more people than any other factor, including even war. And when war and the sex binary myth are conjoined, things get downright apocalyptic, with rape, torture, and murder as routine phenomena. However – and this is crucially important – the two of them don’t ever become conjoined, because they are utterly inseparable to begin with.  
+  
+I’ll explain that. But first, let’s address the stubbornness of the notion that males and females comprise a binary. It is stubborn largely because in most societies when people have looked around, they have thought they were seeing humans quite consistently divided into females and males, women and men, girls and boys. It’s a pattern that has often appeared universal, and therefore it has often seemed to be rooted in nature. But that apparent universality within the human species is rooted only in prevalence, not full ubiquity. Not all societies embrace a gender binary. There are numerous societies where gender is blurred, diversified, or virtually nonexistent, and many societies have multiple genders. Examples include the Semai of Malaysia, the Sakalava of Madagascar, the Zapotec people of Mexico (Oaxaca), the Tahitians of the South Pacific, the people in the Philippines who recognize the bakla, some indigenous groups of North America who recognize two-spirit people, and the Bugis of Indonesia who recognize three genders in addition to the two designated by the gender binary.
+
+\_\_\_
+
+Most of us are a potpourri of purported gender characteristics.
+
+\_\_\_
+
+Those gender variations are consistent with biology, where we find that maleness and femaleness are largely analogous to tallness and shortness. What prevents sex and height from being fully analogous is that conceivably we could arbitrarily impose some particular height – say, 160 centimetres – as the dividing line between tallness and shortness, but there is no such criterion available for serving as a dividing line between maleness and femaleness. There is no characteristic such that all and only females (or males) have that characteristic. Some women have uteruses, and some don’t. Some men have testes, and some don’t. Human chromosomes don’t always align with human phenotypes, and folks who insist on a human phenotypical binary just need to get out more often. Seriously, everywhere on earth there are trans and intersex people, there are feminine men and masculine women, and there is extraordinary diversity of gender expression even among ostensibly phenotypical males and females. Most of us are a potpourri of purported gender characteristics.
+
+[![Reasons impotence](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Reasons-impotence.webp)
+
+SUGGESTED READING
+The impotence of reason
+By Lori Gruen](https://iai.tv/articles/the-impotence-of-reason-auid-2149)
+  
+  
+So if the mythical gender binary is neither an actual binary, nor derived from an actual universal sex binary, from whence does it come? In my research, I have found that it is typical of societies that manifest a proclivity for violence in relation to other groups, and that, consequently, have militaristic cultures. These war-reliant societies need a ready supply of warriors. and typically that role goes to men only. That’s not because all men are better fighters than all women, which is demonstrably false. In war-reliant societies a significant number of people, especially warriors, tend to get killed in battle, so there is a need to maximize reproduction. Toward that end, the loss of a man is less of a problem than the loss of a woman. So smaller, less aggressive males are typically preferred for the inherently sacrificial warrior role over larger, more aggressive women.
+
+\_\_\_
+
+If we want to maximize the immense joy and fulfillment that romantic love can potentially bring, we need to get over the gender binary myth
+
+\_\_\_
+
+Furthermore, boys, and not girls, tend to be socialized into the warrior role, which requires not only violently dominating others, but also managing the capacity to care about the suffering of others and oneself. (Sports, toys, and video games are all effective ways of doing that cultural programming.) Complementarily, females get socialized as breeders, and tend to be denied breeding off-ramps, such as abortion, contraception, and refusal to have sex with males. (Religion is a marvelous source of such cultural programming.) Thus, two of the core culturally programmed concepts in almost all militaristic societies are (1) masculinity, understood to include the use of force to solve problems, plus the ability to suppress empathy and self-care, and (2) femininity, understood to include self-sacrifice, maximum empathy, and a particular interest in babies. And just to make sure the tight interrelationship of those two concepts isn’t missed, it is reinforced regularly by calling boys and men who display deficient masculinity “pussies”. There is no more potent means of pressuring boys into acting masculine, nor is there a more effective way to make boys misogynistic. In fact, misogyny is a crucial mechanism for instilling masculinity.   
+  
+If we want to maximize the immense joy and fulfillment that romantic love can potentially bring, we need to get over the gender binary myth, we need to stop valorizing masculine force, and we need to reject the subordination of women. As I explain in Love and War, such efforts would profoundly and beneficially ramify throughout human society because of the dysfunctionality that results from setting two halves of humanity against each other.  
+  
+  
+**References**  
+Digby, Tom. 2014. Love and War: How Militarism Shapes Sexuality and Romance. New York: Columbia University Press.  
+  
+Nietzsche, Friedrich. 2001. The Gay Science, ed. Bernard Williams, trans. Josefine Nauckhoff. Cambridge: Cambridge University Press.

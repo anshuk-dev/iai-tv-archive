@@ -1,0 +1,67 @@
+---
+title: "Playing in the concrete jungle"
+subtitle: "How urban design can awaken our sense of play"
+author: "Anna Boldina"
+date: "17th November 2023"
+article_id: "2674"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,179 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-17-11-concrete-jungle-where-dreams-are-made-of.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/playing-in-the-concrete-jungle-anna-boldina-auid-2674"
+---
+
+# Playing in the concrete jungle
+
+*How urban design can awaken our sense of play*
+
+**By Anna Boldina** | *17th November 2023* | *Read time: approx. 6 mins* | *1,179 words*
+
+![Playing in the concrete jungle](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-17-11-concrete-jungle-where-dreams-are-made-of.webp)
+
+---
+
+*Cities are built for efficiency, but that can also make them monotonous. The human body was not designed to walk endlessly on flat surfaces. By creating more physically challenging urban environments people can get more of the exercise they need, but also reconnect with a sense of playfulness than many adults secretly yearn for in everyday life, writes Anna Boldina.*
+
+Homo sapience developed thousands of years ago, in wild grassy lands full of physical challenges and this is what our bodies are optimized for through evolution. Throughout more recent human history, city dwellers have walked on a whole variety of surfaces: cobbled stones, steppingstones, gravel; balancing on narrow boards over ditches, stepped over holes and up the level changes. Navigating this environment is still part of everyday life in less economically developed countries. The remains of a less regulated environment can be seen in historic towns, such as Cambridge or Coimbra. Gradually, most of those landscapes are being replaced with tarmac to facilitate vehicle movement and make places more accessible, as well as for eliminating the chance of injuries and insurance claims.
+
+Cities are a source of rich sensory experiences, just not when it comes to our bodily motion. Our pedestrian environment has become limited to two modes of mobility: The first includes people transported on wheeled apparatuses, such as prams, wheelchairs and mobility scooters. The second one is that of a basic walking ability, regular steps, shallow slopes, far below the moving capacity of the majority. As a result, the entire population is restricted to the intensity of movement available to its most physically unfortunate members. While becoming easier, urban environment becomes monotonous and limited in challenges and experiences, something that affects our mood and even our health.But things don't have to be this way, and recent research shows us that most of us would also prefer it not to be this way. A more physically challenging way of moving through cities would not only help us be more healthy, but would also tap into our sense of play, that so many adults have left behind.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-08-31-100-Cities-of-the-future.yt-thumbnail.tpu.jpg)
+
+SUGGESTED VIEWING
+Cities of the future
+With Lucelia Rodrigues](https://iai.tv/video/cities-of-the-future-lucelia-rodriguez)
+
+Millions of people around the world are not meeting the minimum of moderate and high physical activity necessary to stay heathy. Exercising 'on the go' is key to changing this but while walking along a pavement is better than nothing, it only qualifies as mild exercise for the cardiovascular system. Walking also fails to significantly improve balance or bone density, unless it includes jumping, balancing, and stepping down.
+
+It is important to maintain accessibility for all, but designing the whole public realm as flat is just lazy. Where there is enough space, designers have an opportunity to combine various surfaces, adding extra options to the accessible one. While the idea might sound expensive, installing steppingstones in a turfed area can be cheaper than laying and maintaining conventional tarmac pavements. In addition, some of the alternative route designs, such as steppingstones in grass or cobbled stones are more nature-friendly due to CO2 emission, permeability, and cooling. Steppingstones in grass allow for space for biodiversity and continuous bio corridors as well as natural rest to the eyes.
+
+\_\_\_
+
+The style of surroundings switched people’s mind into related mode: formal architecture encouraged formal behavior, while natural materials such as timber and stones made people feel they are on a hike, where climbing on things comes naturally.
+
+\_\_\_
+
+At Cambridge University we have researched the possible benefits such a built environment can bring to human health: improvement to [heart](https://www.tandfonline.com/doi/full/10.1080/23748834.2022.2146567) health, [bones](https://www.tandfonline.com/doi/full/10.1080/23748834.2021.1921512), and muscles. We know that if people took these adventurous routesit would be good for them, but would they do it? Children would of course play and climb on everything they see, but what about the adults?
+
+Together with University of Essex psychology department we ran a series of experiments with calibrated photoshopped images to see if people would be interested to try those alternative routes. The results made us happy: 84% of the study’s participants chose a challenging route in at least one of the scenarios, depending on perceived level of difficulty and design characteristics. Where a challenging option was a shortcut to a conventional route, its likelihood of being chosen increased by 10% - people follow the desire lines even when there are obstacles. The presence of handrails achieved a further 12% rise.
+
+It was truly fascinating to delve into the diverse rationales that individuals provided for their choices between adventurous and conventional routes. We found that embarrassment, anxiety, caution and peer pressure can put some adults off. The encouraging factors included the perceived integrity of structure, difficulty level, appealing design and encouraging signage. The style of surroundings switched people’s mind into related mode: formal architecture encouraged formal behavior, while natural materials such as timber and stones made people feel they are on a hike, where climbing on things comes naturally.
+
+\_\_\_
+
+There is this underlying trend to think adults should work and suffer, and only be active if it serves an extrinsic goal: die later, work for longer, look more attractive.
+
+\_\_\_
+
+Some people were worried about falling, but also – about being seen to fall. The least intimidating routes were found to be those with wide, steady-looking balancing beams and wide steppingstones, especially with the presence of handrails. Many participants (40%) said the sight of other people taking a challenging route encouraged them to do the same.
+
+Large group of participants would only take a challenge if there was a sign saying it is good for their health, fitness and weight watching. There is this underlying trend to think adults should work and suffer, and only be active if it serves an extrinsic goal: die later, work for longer, look more attractive. Only children are allowed to balance on a log because it is fun to do so. Just having fun, playing with toys, dressing up and doing silly things usually requires one of 3 excuses: being drunk, having sex, or participating in charity. This is so ingrained in society that I was once told by an 11yo who saw me on a swing that this is not how adults should have fun – with a full list of adult things he thought I should be doing instead.
+
+Interestingly, the topic of children came up in explanations of both pro and against taking a challenging route: some, were very keen to prove they are no longer children and grew out of all this jumping around. Interestingly this explanation was given particularly often by 22 year old men.  Older respondents saw being playful as a child as a route to eternal youth. Many said they would be more likely to take fun routes if they were with their children or grandchildren. Our experiments showed that welcoming signs and stylish designsare likely to communicate to the adults that they are welcomed to take the playful routes even without children.
+
+The insights gleaned from these experiments can be used in designing landscapes and even buildings. With this data in hand, there is a potential to not only enhance physical well-being, but also nurture a sense of freedom and playfulness, to enjoy our urban environment, movement and our own body.

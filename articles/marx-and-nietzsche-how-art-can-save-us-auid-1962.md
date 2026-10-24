@@ -1,0 +1,73 @@
+---
+title: "Marx and Nietzsche: how art can save us"
+subtitle: "How to philosophize with a hammer, sickle and paint brush"
+author: "Jonas Čeika"
+date: "3rd November 2021"
+article_id: "1962"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "1,917 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-11-4.Marx-and-Nietzsche.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/marx-and-nietzsche-how-art-can-save-us-auid-1962"
+---
+
+# Marx and Nietzsche: how art can save us
+
+*How to philosophize with a hammer, sickle and paint brush*
+
+**By Jonas Čeika** | *3rd November 2021* | *Read time: approx. 10 mins* | *1,917 words*
+
+![Marx and Nietzsche: how art can save us](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-11-4.Marx-and-Nietzsche.webp)
+
+---
+
+*The similarities between the thought of Marx and Nietzsche might not at first be obvious. However, each saw art, and in particular, an artistic attitude, as crucial to a well lived life. Each thinker criticizes modernity in differing ways; Nietzsche, through philosophy and psychology, Marx, through economics. Yet, these infamous, historical heavyweights, share a utopian vision – be it psychological or societal – that very much centers around the affirmation of life through art, writes Jonas Čeika.*
+
+In the foreword to his first book, Friedrich Nietzsche called art “the highest task and the true metaphysical activity of this life”, [1] a claim which set the tone for his entire philosophical career. But the ambitiousness of this view of art was by no means out of place in the German philosophy of Nietzsche’s time, and Karl Marx, a thinker whose name is rarely associated with aesthetics, in fact shared this ambition. Both philosophers found aesthetic activity *inseparable* from a genuine human existence.
+
+Towards the end of the 18th century, German philosophy was undergoing a revolution. Kant’s philosophy had demolished the conventions of “dogmatic” philosophy, and undermined many of the assumptions held by established theology. While many were optimistic, seeing this as philosophy’s awakening from its “dogmatic slumber”, others feared that the decline of theology would strip life of its meaning and justification. It was in this context that the term “nihilism” was first popularized, as the philosopher Friedrich Jacobi accused Kant’s philosophy of being nihilistic insofar as it undermines faith. Others were sympathetic to Kant, but worried about the seemingly unbridgeable split at the heart of his thought: the split between theoretical philosophy (which saw human beings as natural objects, determined by the necessary laws of physics) and practical philosophy (which saw human beings as subjects, capable of freedom and moral choice). How could these two seemingly incompatible aspects of existence be reconciled?
+
+The aesthetic philosophers of this period stand out in how ambitious their views on art are, and, given the magnitude of the problems they were facing, it is understandable why: art for them was to fill the void left there by the death of God.
+
+It was in response to the above problems that a long line of German thinkers came to seek solutions not in theology, nor epistemology or natural science, but *aesthetics*, and the two most influential philosophers of 19th-century Germany, Karl Marx and Friedrich Nietzsche, must be understood as inhabiting this context. The aesthetic philosophers of this period stand out in how ambitious their views on art are, and, given the magnitude of the problems they were facing, it is understandable why: art for them was to fill the void left there by the death of God.
+
+Before delving into philosophy, both Marx and Nietzsche initially wanted to be artists. Nietzsche’s main passion was music, and he wrote compositions from his teenage years all the way to the last decade of his sane life, while Marx wanted to be a romantic poet – some of his earliest available writings are of poetry, and as a young student, he wrote three books of poetry to his wife Jenny. Although they came to find their lasting mark elsewhere, art never ceased having immense importance to them, not only as a hobby and interest in their personal lives, but as an aspect of their philosophical writings too.
+
+Nietzsche famously proclaimed that “only as an aesthetic phenomenon is existence and the world eternally justified.”
+
+Nietzsche famously proclaimed that “only as an *aesthetic phenomenon* is existence and the world eternally *justified*.” [1] He believed that, in the absence of a God, only art could justify a world so full of suffering. This is because art has the capacity to turn even the greatest suffering into something beautiful, and beauty is something that justifies itself. In the popular imagination, Marx is often seen almost as the opposite of an aesthetic thinker – someone who reduces art to the economic conditions under which it is created, or to a merely useful tool for political propaganda, but nothing could be further from the truth. Marx lamented the way in which capitalism leads to an underdeveloped aesthetic sense, as the beauty of objects is obscured by their exchange-value: “the dealer in minerals sees only the commercial value but not the beauty and the specific character of the mineral”. [2]
+
+In other words, humans can only affirm themselves by realizing their inner being in the external world through aesthetic activity.
+
+Both philosophers looked back to Ancient Greece as an idyllic period in art history, although Nietzsche believed that the Ancient Greeks had reached their peak in the Homeric period, as things began going south already with Socrates, and the spread of the type of person that Nietzsche referred to as “the Socratic man,” a type which reaches its peak in modern times. The Socratic man is someone who puts the pursuit of truth above all else, and engages in this pursuit through calm and detached reason, believing that the truth is a cure-all by which we can affirm, justify, or fix the world and all of its ills. By doing this, the Socratic man devalues the aesthetic sense, which cannot be adequately accounted for by reason, and thereby denigrates the only possible means by which life could be justified – artistic beauty.
+
+Not only was aesthetic activity credited with the capacity to affirm life, it was also seen by many German thinkers as a means by which to make the human being, and by extension philosophy, *whole* again. Here it is helpful to turn to the German Romantic Friedrich Schiller. Today, he is more often remembered as a poet and playwright, known for writing the *Ode to Joy*, used in Beethoven’s 9th Symphony, as well as *The Robbers*, an influential tragic drama. In his time, however, he was just as influential as a philosopher, who, with writings such as *On the Aesthetic Education of Man*, presented one of the most ambitious philosophies of art of his time. Not only was his work crucial in the development of German Idealism after Kant, he was an influence on both Marx and Nietzsche.
+
+Schiller attributed to art the power to unify the oppositions set up by Kantian philosophy, reconciling theory and practice, freedom and necessity, reason and the senses, matter and spirit, subject and object. This is because, in aesthetic activity, one takes up ideas derived from *spirit*, and in creating the artwork, embodies them in *matter*. The canvas used for painting, or the block of marble used for sculpting, for example, are *material*, *passive* objects, determined by *necessity* (natural laws), and yet, through artistic production, they come to express *spiritual*, *active* ideas, determined by human *freedom*. A human being’s *inner* life is realized *externally*, the *objective* is imbued with the *subjective*. Thus, art reconciles what seemed to be opposed, and thus makes the human being whole again. Art, for Schiller, is the *appearance of human freedom*.
+
+Through this change of focus, Marx and Nietzsche were able to expose the underlying conditions of artistic creation – psychological ones for Nietzsche, and economic ones for Marx, which made them better suited to seek the conditions under which art could truly flourish.
+
+It is highly likely that Marx was drawing from precisely this philosophy when he wrote in his *1844 Economic and Philosophic Manuscripts* that “[m]an therefore also forms things in accordance with the laws of beauty.” [2] Schiller’s influence is particularly clear when Marx writes that “[o]nly through the objectively unfolded wealth of human nature is the wealth of the subjective human sensibility either cultivated or created – a musical ear, an eye for the beauty of form, in short, senses capable of human satisfaction i.e., sensing universality in empirical individuality.” [2] There are clear traces of this same influence in Nietzsche, when he says that a person in a state of artistic freedom “transforms things until they reflect his own power, – until they are the reflexes of his perfection.” [3] In other words, humans can only affirm themselves by realizing their inner being in the external world through aesthetic activity.
+
+Another notable similarity between the two thinkers is that they both viewed art not primarily from the point of view of the spectator, as was common at the time, but the point of view of the *creator*. Nietzsche wrote that “Kant, like all philosophers, just considered art and beauty from the position of 'spectator', instead of viewing the aesthetic problem through the experiences of the artist (the creator), and thus inadvertently introduced the 'spectator' himself into the concept 'beautiful'.” [4] This is why, Nietzsche believed, many philosophers had been incapable of understanding the true impact of art – they are not aesthetic creators themselves, and are thus not familiar with that life-affirming passion that comes only in a state of active, aesthetic creation. Through this change of focus, Marx and Nietzsche were able to expose the underlying conditions of artistic creation – psychological ones for Nietzsche, and economic ones for Marx, which made them better suited to seek the conditions under which art could truly flourish.
+
+It should be noted that, for Marx as for Nietzsche, aesthetic activity is not confined to literal works of art, such as you could place in a gallery. Rather, their ideal is to approach *life itself* in an aesthetic manner. As Nietzsche put it in *The Gay Science*, “we should learn from artists while otherwise being wiser than they. For usually in their case this delicate power stops where art ends and life begins; we, however, want to be poets of our lives.” [5] Nietzsche would emphasize that by reflecting on our lives as art pieces, we can see them as beautiful wholes telling a coherent story. Marx, on the other hand, would emphasize that even when we produce items for practical use, for instance, furniture or clothing, we can design them according to “the laws of beauty,” and in so doing express ourselves, and see ourselves reflected in the objects we create and among which we live. In either case, the goal is to make life beautiful through our own creative activity.
+
+The philosophies of Marx and Nietzsche have undeniably great differences, but they also have crucial similarities that tend to be unnoticed or overlooked in their popular reception. Limiting ourselves to the topic of aesthetics alone, we can already find striking commonalities between them, similarities which could even form the basis for a common project. Both thinkers are critics of modernity, who criticize it for under-developing our sense of beauty, and both see liberation as having an irreducibly aesthetic aspect. In creative activity, we realize our inner ideas in the outer world, and when *art is realized in life*, *life is affirmed in art*.
+
+*For an exclusive 20% discount on How to Philosophize with a Hammer and Sickle go to <https://repeaterbooks.com/product/how-to-philosophize-with-a-hammer-and-sickle/> and enter the code IAI20 at checkout.*
+
+References
+
+[1] Nietzsche, Friedrich (1872) *The Birth of Tragedy*, trans. Ronald Speirs. Cambridge: Cambridge University Press. Foreword.
+
+[2] Marx, Karl (1844) *Economic and Philosophic Manuscripts of 1844*, trans. Martin Milligan. Moscow: Progress Publishers. III, *Private Property and Communism*, p. 46 at <https://www.marxists.org/archive/marx/works/download/pdf/Economic-Philosophic-Manuscripts-1844.pdf>
+
+[3] Nietzsche, Friedrich (1888) *Twilight of the Idols*, trans. Judith Norman, in Aaron Ridley & Judith Norman (ed.) The Anti-Christ, Ecce Homo, Twilight of the Idols, and Other Writings. Cambridge: Cambridge University Press. Skirmishes of an Untimely Man, #9, p. 196.
+
+[4] Nietzsche, Friedrich (1887) *On the Genealogy of Morality*, trans. Carole Diethe. Cambridge: Cambridge University Press. Essay III, #6
+
+[5] Nietzsche, Friedrich (1882) *The Gay Science*, trans. Josefine Nauckhoff & Adrian Del Caro. Cambridge: Cambridge University Press. #299

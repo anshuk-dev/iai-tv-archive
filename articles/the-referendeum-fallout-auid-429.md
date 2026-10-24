@@ -1,0 +1,43 @@
+---
+title: "The Referendum Fallout"
+subtitle: "The devolution genie is out of the bottle."
+author: "Diana Wallis"
+date: "24th September 2014"
+article_id: "429"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "767 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-yorkshire-flag-showing-the-white-rose-of-yorkshire.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-referendeum-fallout-auid-429"
+---
+
+# The Referendum Fallout
+
+*The devolution genie is out of the bottle.*
+
+**By Diana Wallis** | *24th September 2014* | *Read time: approx. 4 mins* | *767 words*
+
+![The Referendum Fallout](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-yorkshire-flag-showing-the-white-rose-of-yorkshire.webp)
+
+---
+
+The nation state has been saved; the United Kingdom remains intact. That seemed to be the immediate comment on the “No” result of last week’s referendum in Scotland. However, the reality is of course much more complex, and actually in a matter of just hours comments, statements and raised expectations mean that the future of the UK as a nation state has started to look distinctly ragged around the edges. Perhaps the whole event has been another staging post in a continuing process of constitutional change; the question then is, where do we go next and what is the ultimate destination?   
+  
+ For a nation with a famously 'unwritten' constitution this is quite a task. Even our point of departure is unclear, hidden as it is in ancient charters, centuries of legal precedent in turn overlaid by more recent statutes and treaties tacked on here and there. In such circumstances it is challenging to know when or indeed if we are actually having a constitutional debate. We lack the structure and clarity of an ordered constitutional settlement, so that, suddenly, when we start to think about it in more logical terms – surprise, surprise – the inequalities are exposed and we are outraged.
+
+The Scots have just had a very clear-cut constitutional debate: independence or not. One thing should be celebrated about the Scots vote and that was the high turnout of over 85%. No election for politicians as elected representatives has ever produced anything near that level of public engagement in recent history. The lesson should be: give people something meaningful to vote for and give them time to examine and discuss it.   
+  
+ In contrast look at the very pale exercise in democracy that took place in the north east of England 10 years ago. Then, the area was offered a sort of regional devolution – nothing like Wales, though, and with no tax-raising powers. Little was done to prepare the debate and it was rejected on a low level of participation. Since then it has passed into folk history that regional devolution (or regional assemblies) are a failed model and have been rejected across the north of England. However, in the fallout from Scotland, certainly in some regions, particularly my own region of Yorkshire, we should and must look again.
+
+Just remember those pictures on our television screens this summer from the Grand Depart of the Tour de France. Yorkshire staged one of the 'grandest' ever Grand Departs. The region came together and acted as a region: people, towns, villages, cities – it was a huge achievement. The number of Yorkshire flags waved along the route was indicative of something deeper, for this was an event hosting won against competition from Scotland and antagonism from London and Westminster.   
+  
+ Yorkshire has been called 'a country in miniature'. After all, it has the population of Scotland, twice the economy of Wales and yet the political decision-making powers of neither. Seeing what has happened in Scotland comes shortly after the excitement and celebration of the summer; for indeed Yorkshire would also have come seventh in the medal table if it had participated as a separate country in the Commonwealth Games! The devolution genie is irreversibly out of the bottle.
+
+So those people in London who now think either we should have an English Parliament (presumably with a similar southern bias), or city regions (excluding the rural areas) or even 'Combined Authorities' are completely out of touch. This last offering of ‘Combined Authorities’ is hardly going to get the people from Halifax to Hull queuing at the polling stations – that’s if they are even offered a chance to vote on it, which is unlikely.   
+  
+ All these options involve in one way or another imposed solutions. What we need is a process which is inclusive and energising, capturing the civic engagement that we saw in Scotland. Our politics south of the border will never be re-invigorated by more of the same type of political structures or decision-making. What Scotland showed was a new willingness to participate in public decision-making if the offer made is sufficient.
+
+So for Yorkshire I want to see a process that involves people from across our region selected not from political parties or the usual suspects, but rather bringing geography, gender and generations together to participate in a conversation about the future of our great region. I want Yorkshire to devise its own answers to the English constitutional problem, its own plan and its own future – just in the same way Yorkshire grabbed the Grand Depart and fashioned it in its own unique, exuberant style.

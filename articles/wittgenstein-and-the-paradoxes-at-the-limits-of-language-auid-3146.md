@@ -1,0 +1,163 @@
+---
+title: "Wittgenstein and the paradoxes at the limits of language"
+subtitle: "An interview with Graham Priest"
+author: "Oliver Adelson"
+date: "22nd April 2025"
+article_id: "3146"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "3,809 words"
+read_time: "Read time: approx. 19 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Wittgenstein-and-the-paradoxes-at-the-limits-of-language-4.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/wittgenstein-and-the-paradoxes-at-the-limits-of-language-auid-3146"
+---
+
+# Wittgenstein and the paradoxes at the limits of language
+
+*An interview with Graham Priest*
+
+**By Oliver Adelson** | *22nd April 2025* | *Read time: approx. 19 mins* | *3,809 words*
+
+![Wittgenstein and the paradoxes at the limits of language](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Wittgenstein-and-the-paradoxes-at-the-limits-of-language-4.webp)
+
+---
+
+*In the penultimate line of the* Tractatus*, Wittgenstein famously declared the book itself to be nonsense. According to Graham Priest, this kind of self-referential contradiction is not peripheral, but rather central to philosophy when it reaches the limits of language. In this IAI interview, Oliver Adelson sat down with Graham Priest to discuss Wittgenstein, truth, paradox, and non-Western philosophy.*
+
+**Oliver Adelson: Thank** **you very much for joining me, Graham Priest. You’ve written about various contradictions in philosophy and your own dialetheist approach to handling them. Could you give a brief overview of the sort of self-referential contradictions that you see running through the work of Kant, the early Wittgenstein, and other philosophers?**
+
+Graham Priest: There’s this phenomenon you get in philosophy from all the traditions I'm aware of – analytic, continental, east, west – where someone comes up with a view about the relationship between language and, for want of a better word, the world, such that there are things out there in the world that you can't talk about. They come up with a view to the effect that there are limits to language. There are many such views.
+
+The problem that such a view faces is that, if you say there are such things, and even worse if you argue that there are such things – as all these philosophers do – then you must talk about them. So the view itself says that these things go beyond language. And yet, the very fact of arguing for it shows that they don't. That's the problem.
+
+You find this view in many philosophers. One example is Immanuel Kant, who says that his view commits him to there being *dinge an sich*, things to which you can't apply the categories. But in talking about these things, you have to apply the categories. You get the problem in Wittgenstein, where he says that the very grammar of a correct language, an ideal language, is such that you can describe the world, but not the relationship between it and language – that can only be shown. But he does talk about it. A third example is Heidegger, who says that there is a difference between beings and what he calls Being, *Sein* – and Being is not an object, so you can't talk about it. And Heidegger is well aware of this problem – probably more than any other philosopher I know – and he struggles with the problem for decades. Just to finish and point out that this is not exclusive to Western philosophy: You get this in a number of Eastern traditions. In Mahayana Buddhism, it is pretty orthodox that ultimate reality is ineffable. And of course, all these guys talk about it.
+[![related-video-image](https://iai.tv/assets/Uploads/14.nothing-and-everything-copy.webp)
+
+SUGGESTED VIEWING
+Nothing and everything
+With Graham Priest](https://iai.tv/video/nothing-and-everything-graham-priest)
+
+**I want to home in on the case of Wittgenstein.** **According to Wittgenstein's *Tractatus*, statements which have sense are those that picture states of affairs. But many of Wittgenstein's remarks in the *Tractatus*, as you hinted at, do not picture states of affairs according to his own account – even the first sentence of the work. What should we make of this contradiction?**
+
+This problem has come up countless times in the history of philosophy. As you can imagine, there are many ways you might respond to it. The most flat-footed and obvious way is to say that when a view ends in a contradiction, it’s just false. It’s wrong; get rid of it. But it's notable that Kant, Heidegger, and Wittgenstein aren’t prepared to say that. So they have to face this situation sort of head on. And even then, there are many ways that you might think to do this.
+
+Homing in on Wittgenstein explicitly: The English translation of the *Tractatus* has a foreword by Bertrand Russell, who was well aware of this problem. He says, rather charmingly, that Mr. Wittgenstein brings forward powerful arguments that there are things you can't talk about, but “what causes hesitation is the fact that, after all, Mr. Wittgenstein himself manages to say a good deal about what cannot be said.”
+
+\_\_\_
+
+At the stunning end of the Tractatus – it’s one of the great final lines of any philosophy book – he says the whole Tractatus, or most of it, is nonsense.
+
+\_\_\_
+
+Wittgenstein hated this introduction, and for obvious reasons. Russell's solution was that, given a language, you can't talk about how it relates to the world in the language itself, but you can talk about it in what we now call a meta-language. And Wittgenstein didn't like this. Now, there are lots of philosophers who are more attached to the Wittgensteinian project of the *Tractatus*, which I might say, I think is one of the great books of the history of Western philosophy.
+
+**One of the great works of Western literature too, certainly.**
+
+Yes, it's a brilliant book. There's no doubt about that. And if you think that Wittgenstein is onto something with the Tractarian picture – which went out of fashion for a while, partly because of Wittgenstein's own writings – you've got two options before you, even before you get to the hard question.
+
+But perhaps we should have Wittgenstein’s own response on the table before we go any further. Wittgenstein is aware that he's talking about things that he can't talk about, because to do so, you have to use language which is literally ungrammatical. And then at the stunning end of the *Tractatus* – it’s one of the great final lines of any philosophy book – he says the whole *Tractatus*, or most of it, is nonsense – literally nonsense. Evidently a rather desperate attempt at bullet-biting.
+
+As I was saying, you have two options for how you approach this issue. One is to say, “Well, what Wittgenstein really intended us to make of what he says was this.” I don't know that I have much sympathy with that kind of approach, just because what Wittgenstein really intended is a kind of historical conjecture. Who knows? I think it will be a matter of scholarly debate for a long time.
+
+The other thing is to say “Who really cares what Wittgenstein himself thought? Let me tell you how I think you should make sense of this.” I think that's actually a more sensible way of going.
+
+Suppose you think that the Wittgensteinian project of the *Tractatus* is right, is onto something, and you're not particularly concerned with what Wittgenstein himself held, because that's lost to us in the mists of time. What *should* Wittgenstein have said? There are of course, many possible solutions here. There is a view that is certainly not an unpopular view – endorsed by Adrian Moore at Oxford. I really like Adrian's work. I think he's a terrific philosopher too. And again, he's a good enough historian of philosophy to know that this happens right through the history of Western philosophy. He likes the kind of Wittgenstein solution which says that when you talk about these things, you really are uttering nonsense, but it's kind of a significant nonsense. And then there's the question: “What does that mean?” Clearly it's meant to tell you something. Obviously you can't say what it is, because it's ineffable, but you can sort of gesture at it. And I think he thinks this the right interpretation of Wittgenstein. But as I’ve said, I think that that's a sort of hopeless question.
+
+\_\_\_
+
+You are not forced into this sort of difficult situation of saying the Tractatus is nonsense. You just say you've hit a contradiction at the boundary of language.
+
+\_\_\_
+
+There are a number of issues that have to be dealt with if one goes down this path. One is that, if most of the things in the *Tractatus* are literally nonsense, they don't express propositions. And since propositions are used in arguments, you can't take the *Tractatus* as providing arguments. Now, if you don't take the *Tractatus* as providing arguments, they don't argue for any conclusion. And in particular, they don't argue for the conclusion that there are ineffable things. I'm not stupid enough not to realize that there are things one might say in response to this, but it's not the way that I would prefer to go if I were a Wittgensteinian. And I'm not really, although I love the *Tractatus*. 
+[![related-video-image](https://iai.tv/assets/Uploads/95-Fragments-and-reality-2.webp)
+
+SUGGESTED VIEWING
+Fragments and reality
+With Tim Maudlin, Michael Della Rocca, Kathleen Higgins, Jack Symes](https://iai.tv/video/fragments-and-reality)
+
+**There is the complicating issue that, in the preface, Wittgenstein remarks that “the truth of the thoughts communicated here seems to me definitive and unassailable.” If we are not dealing with propositions, that raises the question: What does he mean by “the truth of these thoughts”?**
+
+Good point. And, of course, you know scholars struggle with this.
+
+**So how would you handle the matter?**
+
+What would my preferred solution be? Well, I'm not a Wittgensteinian, so I certainly wouldn't go as far as endorsing the metaphysics, the philosophy of language, of the *Tractatus*, but if I did, what I’d say is this.
+
+There’s this view that you mentioned briefly at the start, dialetheism, which holds that some contradictions are true. As I probably don't need to tell most people listening to this event, this has been a highly unorthodox view in the history of Western philosophy, ever since Aristotle defended the law of non-contradiction.
+
+But in recent times, some philosophers and logicians, myself included, have challenged the principle of non-contradiction. And I believe that if you meet one of these scenarios where, by good arguments, you can show that there are ineffable things (and so you hit this problem), the right response is to be a dialetheist about it.  The thing in question is effable and ineffable. Now, of course, the *Tractatus* is built on so-called “classical logic.” In other words, the logic invented by Frege and Russell just before Wittgenstein was writing. “Classical logic” has nothing to do with classical civilizations or classical texts on logic, or anything like that. But the sort of core logical chapters of the *Tractatus* endorse Russellian logic, essentially. So I would not want to endorse that. But as far as the metaphysical picture goes, I think you could tell the story he tells using any form of logic. The core of it is simply the picture theory of meaning.
+
+If I were a Wittgensteinian about the metaphysics of the *Tractatus*, I would replace the logic of the *Tractatus* with a paraconsistent logic, which says that you can have true contradictions. And what Wittgenstein is exposing is the fact that you're hitting the limits of expressibility, at the very locus of which is a contradiction. (I have an old book called *Beyond the Limits of Thought*, which is a long discussion of this phenomenon.) Then you are not forced into this sort of difficult situation of saying the *Tractatus* is nonsense. You just say you've hit a contradiction at the boundary of language. That would be my preferred solution if I were a Wittgensteinian. It’s certainly my preferred solution when you hit this phenomenon for reasons I do find cogent.
+
+**I'm sure some might be asking themselves whether, when you say that some contradictions are true, you're using words in the same way that we ordinarily use them. I know that this is a discussion that can take us far afield, but just briefly, could you give some indication to people who might be scratching their heads at this point as to what you mean by “true”?**
+
+As you know, “what we mean by true” is a deep discussion that goes back two-and-a-half thousand years in Western philosophy, not to mention Eastern philosophy. The theories of truth are contentious. You might have a view about truth, I might have a view about truth, and almost certainly they're going to differ. Take any two philosophers and they will almost certainly have different views about truth. So this appeal to what “we mean” doesn’t really make much sense.
+
+\_\_\_
+
+Truth does not float in mid-air. If something is true, something in the world has to make it true.
+
+\_\_\_
+
+If I tell you some contradictions are true, and you ask me what *I* mean by truth,  my answer is: it doesn’t matter. Whatever your favorite theory of truth is, you're welcome to it. I am driven by arguments which tend to support contradictions. Good arguments are truth-preserving – in whatever sense of truth you like – that’s how a logician tends to define validity. And I'm driven by these arguments. So I don't have a horse in the race about the nature of truth. You can be a deflationist, you can be a realist, you can be some kind of pragmatist. You choose.
+
+**I'm sure some readers are still curious to know what account you are most sympathetic to. Do you have sympathies with realism?**
+
+I have one view on Mondays, Wednesdays, and Fridays, and another view on Tuesdays, Thursdays, and Saturdays – then on Sundays, I'm thoroughly confused. I'm kind of a knee-jerk realist. I have spent most of my working life in Australia, and Australian philosophy has a strong tradition of realism. I think someone once said, and it might have been David Armstrong, that Australians have a tendency towards realism because they spend too much time in the sun. But if you look at the great Australian philosophers like David himself and Jack Smart and so on, there is a realist tendency. So I have a knee-jerk reaction in favor of realism.
+
+\_\_\_
+
+It was Aristotle who established this view as orthodoxy in the West, but Aristotle's arguments are, frankly, terrible.
+
+\_\_\_
+
+In some sense, truth does not float in mid-air. If something is true, something in the world has to make it true. The Empire State Building is in the US. It's in New York. True. Of course it's true. Why? Well, I can look out the window and see the bloody thing. So there's got to be some relationship between the truth of what I say and what's outside my window. That’s what motivates a kind of realist view. Truth does not float in midair. It has to be dependent on the world, in some sense.
+
+**That might throw into relief the counterintuitiveness of the dialetheist position, because if you think of truth as not floating in mid-air and instead being somehow nailed down to the world, a lot of people will think, “Well, you couldn't have something be both true and false once it's nailed down.”**
+
+What you're reporting is kind of the orthodoxy amongst Western philosophers, and most such philosophers have drunk the Kool-Aid. Now, it's not good enough to say “that's what everyone thinks.” Not everyone thinks that. There are plenty of counterexamples in the history of various philosophical traditions, such as Neo-Platonism and Buddhism. The question is: why should we suppose that the view is true? That's where the debate goes. It was Aristotle who established this view as orthodoxy in the West, but Aristotle's arguments are, frankly, terrible. And that's not just my view. I think most modern philosophers who work on the *Metaphysics* will agree with that.
+
+You can't appeal to Aristotle, so you have to come up with some better reasons. And that's what a lot of the debate about dialetheism has been about in the last 40 years. And you know, the first thing that any modern philosopher is going to tell you as a defense of the view that you can’t accept a contradiction is that there is a principle of logic called “explosion,” which says that from a contradiction everything follows. It’s kind of highly counterintuitive, but it's orthodox in many contemporary logics. Of course, if you think that a contradiction implies everything and you think that some contradictions are true, then you're going to have to hold everything is true, and even I think that's Looney Tunes stuff. But if you ask what grounds the principle of explosion – and it's not as arbitrary as it might sound when you first meet it – it depends on the thought that contradictions can't be true. And if you look at the semantics of classical logic, that's baked into it. So this argument simply begs the question.
+
+**The paradoxes we've discussed have involved self-reference, something which would appear to be central to the project of philosophy. After all, a philosophical view must be coherent by its own lights. Do you think that all cases of true contradictions involve self-reference? Or are there some true contradictions that you would want to take on board which don't involve self-reference?**
+
+I think you have to consider each case on its merits. And it's true that things which involve self-reference have tended to occupy a central position in debates over the last 40 years. Contradictions at the limits of language involve an obvious kind of self-reference – though it’s not exactly of the same kind as you get in, say, the Liar Paradox, where you say *p* and say not-*p*. In that case of the limits of language, you say *p* and *show* not-*p*.
+
+But to answer your question: Do all plausible candidates for dialethia involve self-reference? As I said, I think you're going to have to judge these things on a case-by-case basis. Am I personally attracted by dialethias in some areas which don't obviously involve self-reference? The answer is yes. When I wrote *In Contradiction*, which is the first book I wrote on this topic, another example I discussed is motion and the contradictions of motion. And I have one historical philosopher on my side there, and that's Hegel. He is one of the historical philosophers who clearly does not accept the principle of non-contradiction. And I know that many Hegel scholars out there who are reading this will now be frothing in the mouth. That's an argument I'm happy to have.
+
+**You said Hegel doesn't accept the principle of non-contradiction. What about Marx?**
+
+I do think that Marx is dialetheist. That will make a lot of Marx scholars froth at mouth too.
+
+It gets messy here, because Marx, Engels, and other Marxists have a kind of distressing tendency to widen the use of the word “contradiction” beyond what I, as a logician, would normally use it to mean. That's obvious. You know, the means of production are owned privately and worked publicly. Marx calls that a contradiction, but it's not a contradiction as I would understand it. Now, look, I'm not the sort of linguistic fascist who says there's only one right way to use the word “contradiction.” Use it to mean what you want, as long as you explain what you mean. But there is this tendency in the Marxist tradition to stretch the meaning – and this is a tendency in Hegel himself. So Marx *et al*. weren't new in doing this; they were just taking techniques from their mentor.
+
+\_\_\_
+
+Modern dialetheism breaches the last bastion of Aristotelian philosophy.
+
+\_\_\_
+
+ But for all that, contradiction in the logician’s sense *is* central to Hegel's view of the dialectic. (There’s lots to argue about there.) I don't think that it's central to Marx's analysis of socio-economics in the same way. There are places in *Capital* where he does use “contradiction” in the logician’s sense – places which are important to him—for example, the discussions of value at the beginning of *Capital* *Volume I*. But in the end, this is not where the real action is for Marx. So I do think he's a dialetheist, but I don't think it plays a really important role for him in the same way that it does for Hegel.
+
+**I know that dialetheism has not been particularly popular in the history of Western philosophy compared to Eastern philosophy, though it certainly seems better received now than it was decades ago. Why do you think this is, and do you envisage Western philosophy expanding the circle of acceptable theories it's willing to consider in the future to incorporate other traditions?**
+
+It's true that non-contradiction has been highly orthodox in Western philosophy. It's been less orthodox in Eastern philosophy. But Eastern philosophy has many different traditions, and some of those traditions are very favorable to the law of non-contradiction. For example, philosophers in the Hindu Nyaya tradition and many in the later Indian Mahayana Buddhist tradition endorsed the law of non-contradiction. So one shouldn’t universalize about Eastern philosophy. Though it’s certainly true that it is less orthodox in Asian philosophy.
+
+Now, why is there this difference? I’m not sure, but I’m inclined to think that it's because there's no equivalent of Aristotle – or at least the equivalents of Aristotle like Confucius and Nagarjuna didn't endorse the law. I don't need to tell you that the influence of Aristotle on the history of Western philosophy has been enormous. I mean, in the Middle Ages, he was called *the philosopher*. So the orthodoxy about the law of non-contradiction is, I think, largely due to his influence, not necessarily rational influence, but sociological influence. Nearly everything Aristotle said has been attacked by philosophers ever since, right? And I've always thought that in some sense, modern dialetheism breaches the last bastion of Aristotelian philosophy. That's maybe a rather picturesque way of putting it, but I think there's some truth in it.
+
+\_\_\_
+
+Philosophy in the Anglosphere is distressingly ahistorical.
+
+\_\_\_
+
+The last thing you said was about whether Western philosophy would come to countenance some Eastern views which have been off the table. I think that's already happening – though little of this has to do with the principle of non-contradiction. I think that there's been a change of attitude towards Eastern philosophy in my professional lifetime. Because when I started being a philosopher longer ago than I care to remember, it was common to hear the thought that, “These Asian views, they're not really philosophy. They're sort of mysticism. They're great-man sayings. They’re not real philosophy.” That’s just crazy, and the view was held by people who'd never read the bloody texts. I never hear that view nowadays, though I do hear the parochial thought that this is “fringe philosophy” expressed.
+
+**You have made many references to the history of philosophy – East and West – but many philosophers think that the history of philosophy is not important for philosophy itself. That’s not your view?**
+
+Philosophy in the Anglosphere is distressingly ahistorical. As you say, there are many people who think that the only important things are the issues that are *au courant* now, and studying the history of philosophy is a separate discipline that doesn’t teach anything about philosophy as such. I think that's a very sad view, because philosophy is always going to be a dialogue between people who disagree. And great philosophers who are now dead and therefore not part of the contemporary discussion have really interesting views. These are smart bastards. A lot smarter than most contemporary philosophers, myself included. So if you choose to engage with their thought, you're choosing to have a philosophical dialogue with someone who’s a really good philosopher – and you know how much that improves your own thinking. So I think this is just a very short-sighted view toward the history of philosophy, East and West.
+
+**Thank you so much for joining me, Graham Priest.**

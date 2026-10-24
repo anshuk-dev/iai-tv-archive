@@ -1,0 +1,103 @@
+---
+title: "The mind-body problem is ruining our health"
+subtitle: "Medicine’s Cartesian struggles"
+author: "Camilla Nord"
+date: "6th November 2023"
+article_id: "2661"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,760 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/mind-body2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-mind-body-problem-is-ruining-our-health-camilla-nord-auid-2661"
+---
+
+# The mind-body problem is ruining our health
+
+*Medicine’s Cartesian struggles*
+
+**By Camilla Nord** | *6th November 2023* | *Read time: approx. 9 mins* | *1,760 words*
+
+![The mind-body problem is ruining our health](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/mind-body2.webp)
+
+---
+
+*Descartes’ mind-body dualism might sound antiquated, but it is still surprisingly prevalent within medicine. But, neuroscientist Camilla Nord argues, treating mental and physical health as separate domains is a mistake. Recent medical evidence shows that poor mental health and poor physical health often share a common underlying cause, highlighting the need for a fundamental shift in how we understand the connection between mental and physical health.*
+
+We all know that our bodily states can sometimes alter our mental experiences. Think to the last time you felt irritable, but later realised you were just hungry—or felt depressed the morning after a sleepless night. But for the most part, medicine still treats mental and physical health as though they were completely independent of one another. This mind-body dualism is not only misguided, but can be dangerous when informing the treatments doctors provide (or fail to provide) for mental and physical ailments alike.
+
+Mental illness tragically shortens life expectancy by about 15 years for women and 20 years for men: this is called the ‘[mortality gap](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055176)’. Most of this mental health mortality gap is not driven by what one might think, thinks like self-harm, addictive substance use, or suicide. It is actually accounted for by *physical* health, particularly [cardiometabolic health](https://www.pcdsociety.org/resources/details/dont-just-screen-intervene-protecting-cardiometabolic-health-people-severe-mental-illness) such as high blood pressure and Type 2 diabetes. Mental and physical health are closely intertwined by common risk factors and intersecting biological processes supporting mental and physical health. Increasingly, neuroscientific studies find physical origins, correlates, and consequences of mental health problems—and on the other hand, have discovered key psychological contributors to physical health. In reality, many conditions cannot be neatly categorised as affecting either ‘mental’ or ‘physical’ health.
+
+\_\_\_
+
+Studies suggest some aspects of poor mental and physical health share a common cause—and potentially, common treatments.
+
+\_\_\_
+
+We need a radical shift in our conceptualisation and treatment of mental and physical health conditions. This shift could be key to closing the mortality gap, whether by using psychological therapies for some physical health problems or by discovering potential mental health benefits of physical health treatments.
+
+Mental and physical health are related in many ways. Most obviously, poor physical health can lead to poor mental health: discomfort or pain from a physical health problem might understandably worsen mental health. But poor mental health can also cause poor physical health, including indirectly, by changing someone’s environment or the way they interact with the environment. Maybe most interestingly of all, studies suggest some aspects of poor mental and physical health share a common cause—and potentially, common treatments.
+
+[![AdobeStock 335975405](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/AdobeStock-335975405.jpg)
+
+SUGGESTED READING
+Technology and the demise of medicine
+By David Healy](https://iai.tv/articles/technology-and-the-demise-of-medicine-david-healyauid-2537-auid-2537)
+
+Let’s start with whether poor mental health can cause poor physical health. Recent large-scale epidemiological studies suggest the answer is yes: by following over 700 twins for twenty-seven years, [scientists found](https://pubmed.ncbi.nlm.nih.gov/33431106/) that experiencing symptoms of depression by midlife increased risk of later diabetes and high cholesterol. The scientists were careful to statistically control for variables that might otherwise drive the relationship, including alcohol consumption, smoking, and body mass index (BMI). Studies like this show that having a history of depression increases your risk of cardiometabolic problems. But this type of research struggles to answer perhaps the most interesting question—*how*? What is it about depression that might increase risk of later health problems? Might changes to the brain (or body) involved in mental health cause physical health differences, or vice versa?
+
+To answer this, I think, we need to turn to neuroscience. In my recent book, *The Balanced Brain: The Science of Mental Health*, I argue that the brain (and wider nervous system) is the ‘final common pathway’ for mental health, pooling together our social experiences, genetic predisposition, our body’s physiology, and many other factors to construct our sense of mental health. Because the body, and our subjective sense of our bodies, contributes to our mental health, physical health challenges have downstream mental health effects. And it works in the other direction as well: because our mental health involves interpreting the state of our bodies, disrupted mental health can also alter our physical experience.
+
+\_\_\_
+
+Every autumn, millions of people get the flu vaccine, which temporarily increases inflammation in the body. Some, but not all, experience a short dip in mood afterward.
+
+\_\_\_
+
+I’ll start with one risk factor you might have heard of before: that inflammation in the body can drive poor mental as well as physical health.
+
+Inflammation is a common risk factor for many physical health conditions, including [cardiometabolic disease](https://www.nejm.org/doi/full/10.1056/NEJMoa021993). In other studies, heightened inflammation is correlated with poor mental health across conditions from [psychosis](https://academic.oup.com/schizophreniabulletin/article-abstract/45/4/742/5085584) to [depression](https://www.sciencedirect.com/science/article/pii/S0006322319318864) and [PTSD](https://www.sciencedirect.com/science/article/pii/S0165178117309447). The mere fact they are correlated doesn’t necessarily mean inflammation drives poor mental health. But in the lab, there are ways to test this directly – to test whether inflammation *causes* worse mental health – and if so, how.
+
+Every autumn, millions of people get the flu vaccine, which temporarily increases inflammation in the body. Some, but not all, experience a short dip in mood afterward. That’s not a coincidence: the greater your body’s inflammatory response to a flu vaccine, [the more depression-like features you experience](https://www.sciencedirect.com/science/article/pii/S0889159118300138). With treatments that cause an even bigger inflammatory response, there can be more serious consequences: one effective treatment for melanoma and hepatitis, interferon alpha, causes nearly [half of all patients to develop major depression](https://www.nejm.org/doi/full/10.1056/nejm200103293441303). Lab experiments have shown that [even a single dose of interferon alpha](https://www.sciencedirect.com/science/article/pii/S000632231500637X) is sufficient to cause brain changes that look a lot like the brain changes we see in people with depression— a shift towards processing negative events at the expense of positive outcomes. For some people, an immune system trigger might cause or contribute to low mood or other symptoms of poor mental health, and inflammation-reducing drugs could be a potential treatment (as [several trials](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/1916904) suggest).
+
+But explaining the mental-physical health link solely with inflammation risks misses the bigger picture. Your body’s immune system is just one of many sources of information for the brain. Other sources include the heart, the gut, and even metabolic processes, like blood sugar.
+
+\_\_\_
+
+The body sends information to the brain, but the brain is not just a passive receiver. The brain talks back, interpreting and predicting signals from the body.
+
+\_\_\_
+
+You’ve experienced this connection throughout your life. Have you ever felt ‘hangry’? A physiological variable (hunger) is often experienced as a change in emotions (anger, or irritation) because our brain uses bodily signals to figure out how we are feeling at every given moment. Even outside of conscious perception, signals from the body influence emotion: in one of my lab’s [experiments](https://www.cell.com/current-biology/pdf/S0960-9822(20)31664-X.pdf), we showed that signals from the stomach influenced disgust avoidance. Our emotional experience of the world, and therefore our mental health, is constructed in part from signals from the body.
+
+The body sends information to the brain, but the brain is not just a passive receiver. The brain talks back, interpreting and predicting signals from the body. Two people with equivalent levels of inflammation might each experience very different symptoms – and different subjective senses of health. This interface between the body and brain is called ‘interoception’: our hidden sense of the internal condition of the body, from the beating of our hearts to our blood sugar levels. Interoception is distinct from ‘exteroception’, our sense of the outside world (via the traditional hearing, sight, taste, etc.). Patients with many different mental health conditions—from [eating disorders](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00281/full) to [depression and anxiety](https://www.sciencedirect.com/science/article/pii/S1566070223000012)—experience altered interoception: a changed sense or awareness of bodily experiences. Interoception drives your *subjective* sense of physical health, meaning people with mental health conditions might sense physical symptoms differently. This could explain why (for example) depression increases your later chances of developing chronic pain.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-02-20-L77-The-medicine-myth.iaitv-thumbnail.tpu.webp)
+
+SUGGESTED VIEWING
+The medicine myth
+With Denis Noble, David Malone, Guy Brown, Nessa Carey](https://iai.tv/video/the-medicine-myth)
+
+Interoceptive changes suggest that the link between cardiometabolic disease and mental health has an additional dimension: physiological factors such as inflammation might confer common risk for both groups of conditions, but so too might changes in the brain. Changes to your sense of your own body, via changes in the brain, might affect your susceptibility to both mental and physical health problems.
+
+The interlocking causes of physical and mental health problems might also illuminate overlapping paths to treatment. New work suggests that medications intended to treat cardiometabolic disease might coincidentally improve mental health. For example, in large population studies, taking some blood pressure medications (such as [ACE inhibitors](https://www.cuh.nhs.uk/patient-information/ace-inhibitors/)) is associated with [lower rates of PTSD](https://www.psychiatrist.com/jcp/trauma/ptsd/renin-angiotensin-pathway-posttraumatic-stress-disorder/) – a finding strengthened by lab experiments finding an effect of these blood pressure medications on [reducing fear memory](https://www.sciencedirect.com/science/article/pii/S0006322313007774). In people with mental health disorders, concurrently taking physical health treatments might confer unexpected benefits on mental health: several diabetes, cholesterol, and heart disease medications were associated with [reduced rates of psychiatric hospitalisation](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2719703) in populations with serious mental health conditions.
+
+\_\_\_
+
+Our mind is constructed from biological processes, shaped through their interactions with our outside and inside worlds—just like our bodies.
+
+\_\_\_
+
+So the links between physical and mental health are important for preventing physical risk in mental health conditions, but also potentially for treating mental health symptoms themselves. On the other hand, treatments we think of as exclusively for ‘mental’ health could affect physical health via similar mechanisms: even a single dose of antidepressants [improves interoception](https://link.springer.com/article/10.1007/s00213-022-06115-7), potentially explaining why antidepressants can be useful for some physical health conditions like [irritable bowel syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2669938/): because they could alter your subjective perception of your physical body.
+
+[![Medicines mind body problem](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Medicines-mind-body-problem.webp)
+
+SUGGESTED READING
+Medicine's bad philosophy threatens your health
+By Diane O'Leary](https://iai.tv/articles/medicines-bad-philosophy-threatens-your-health-auid-2225)
+
+These practical, medical implications also highlight something more intangible: the breaking down of the mind-body divide. At this point it is probably clear to you that I’m not a dualist, though I understand why people find the mind-body divide so appealing. It reflects an instinctive feeling that our mind is accessible, immaterial, and often under our conscious control, whilst our body feels distinct, material, and sometimes like it follows its own set of rules. It is appealing, but it is wrong. Our mind is constructed from biological processes, shaped through their interactions with our outside and inside worlds—just like our bodies. I do not think understanding the biology of our mental states, or indeed mental health is ‘reductive’: it’s constructive, enabling us to link complex mental experiences with biological phenomena to better understand the origins of all our experiences, from the medical to the mystical. It may even be transformative, revealing surprising ways of understanding one’s own subjective world, or leading us to unexpected treatments or preventions.
+
+This all points to the importance of considering mental and physical health together, whether in campaigns to improve health, or in the clinic when treating unwell patients, or in the lab when testing new treatments. But the links between physical and mental health are complex, and solving—and closing—the mortality gap will take a multidisciplinary effort from social, biological, and medical sciences, and perhaps a fundamental paradigm shift in how society views mental versus physical health.

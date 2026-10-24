@@ -1,0 +1,105 @@
+---
+title: "A way forward for a world where truth has died"
+subtitle: "A framework for a Post-Truth World"
+author: "Manuel Delaflor"
+date: "19th December 2024"
+article_id: "3029"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,963 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/A-way-forward-for-a-world-where-truth-has-died.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-way-forward-for-a-world-where-truth-has-died-auid-3029"
+---
+
+# A way forward for a world where truth has died
+
+*A framework for a Post-Truth World*
+
+**By Manuel Delaflor** | *19th December 2024* | *Read time: approx. 10 mins* | *1,963 words*
+
+![A way forward for a world where truth has died](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/A-way-forward-for-a-world-where-truth-has-died.webp)
+
+---
+
+*As the prophets of certainty wage their wars in our fractured age, a radical new approach from philosopher [Manuel Delaflor](https://www.manueldelaflor.com/) shows us how to dance with the uncertain.*
+
+Consider a curious phenomenon: When passionate fans discuss their favourite shows online, they rarely debate what happened in a scene. For example, in online forums dedicated to *Game of Thrones*, viewers spent countless hours dissecting a brief moment where Cersei Lannister lingered near a dimly lit archway during a crucial negotiation scene, debating whether the shadows implied secret motives, inner turmoil, or a looming betrayal. Through this collective endeavour, fans weave intricate webs of interpretation that reflect their values, their beliefs, and even their shadows. The very meaning of what they see on screen becomes a mirror, reflecting not just the content itself, but the deeper patterns of how humans create understanding from their personal experiences.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Riseandfallofthegrandnarrative.resized.webp)
+
+SUGGESTED VIEWING
+The rise and fall of the grand narrative
+With Rana Mitter, David Aaronovitch, Konstantin Kisin, Jessica Frazier](https://iai.tv/video/the-rise-and-fall-of-the-grand-narrative)
+
+For millennia, truth served as humanity's foundation - a way to end arguments, establish facts, and build knowledge. It stood as a beacon of certainty in an uncertain world, promising that through divine foretelling, or later with proper methods and careful reasoning, we could arrive at unshakeable conclusions about the world, our lives, and our place in the universe. This faith in truth shaped our institutions, our education systems, and our very way of thinking. It provided the bedrock upon which we built our understanding of ourselves and the cosmos.
+
+\_\_\_
+
+What's remarkable isn't just the rejection or dismissal of traditional ways of establishing shared understanding, but the incredible refusal to even accept sets of facts.
+
+\_\_\_
+
+From time to time, a handful of dissenting thinkers queried truth, from the Pyrrhonian skeptics of Ancient Greece to figures like David Hume, who questioned the reliability of causation and empirical certainty, and Immanuel Kant, who argued that our understanding of the world is mediated by the structures of human cognition. Then we have Nietzsche's rejection of absolute truth in the 19th century that further shook these foundations. Then, in the 20th century, a particular kind of thinker started to dig deeper, geniuses like Derrida, Foucault and Deleuze delivered what might have been the final blow: truth itself, they argued, was nothing more than a construct shaped by power and language. The certainties upon which our institutions rest began to crumble, and as a result, we've been entering a kind of second dark age. Nonetheless, a lay belief in truth by the countess masses prevailed.
+
+What constitutes evidence, what a fact is, or used to be, has lately taken completely unexpected twists. We are witnessing a profound shift: the rejection of established frameworks has become widespread, fuelled not just by past institutional failures, but by a deepening social distrust of expertise itself. What's remarkable isn't just the rejection or dismissal of traditional ways of establishing shared understanding, but the incredible refusal to even accept sets of facts. For instance, debates over whether the Earth's curvature can be observed directly or whether atmospheric distortion explains such observations highlight how even well-established scientific principles can be dismissed to fit alternative narratives in a blink of an eye.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-Value-of-Everything.webp)
+
+SUGGESTED VIEWING
+The Value of Everything
+With Mariana Mazzucato](https://iai.tv/video/the-value-of-everything-mariana-mazzucato-capitalism)
+
+The social media landscape amplifies and accelerates this crisis in ways we're only beginning to comprehend. These platforms don't simply create echo chambers - they actively reward content that triggers emotional responses, which puts humans into animal states of fight or flight, triggering the amygdala, bypassing the frontal lobe. Research confirms what we intuitively feared: social media rewires our very brains, with studies like this in JAMA [*Pediatrics*](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2799812) showing how it fundamentally alters neural pathways, particularly in developing minds. Unlike traditional media, platforms like Facebook and X use algorithms designed to maximize engagement by reinforcing pre-existing beliefs. Research, such as [Cass Sunstein's Republic](https://press.princeton.edu/books/hardcover/9780691175515/republic), highlights how these mechanisms entrench divisions, transforming disagreements into unbridgeable chasms.
+
+\_\_\_
+
+The irony is striking - in our supposed "post-truth" era, we're witnessing not an absence of truth claims, but their multiplication, with each claiming absolute validity while rejecting all others.
+
+\_\_\_
+
+The machinery of engagement runs on the fuel of outrage and confirmation bias, fragmenting our shared ways of making sense of experiences into increasingly isolated islands of understanding. Each click, each share, each angry reaction further entrenches these divisions. Like a fever spreading through a weakened body, this machinery of fragmentation has created perfect conditions for a more dangerous infection.
+
+In this fragmenting landscape, we're not really seeing the end of truth, but rather its splintering into opposite sets of competing absolutisms. Each group, each echo chamber, each populist movement claims to possess not just an interpretation, but the "real truth" that "the others" have been hiding. The irony is striking - in our supposed "post-truth" era, we're witnessing not an absence of truth claims, but their multiplication, with each claiming absolute validity while rejecting all others. Today, digital platforms take these philosophical insights to their most extreme consequences, bypassing reasoned debate. Conspiracy theories like QAnon thrive in these environments, fuelled by algorithms that amplify sensationalist narratives over nuanced ones, reflecting the splintering of shared understanding into echo chambers.
+
+\_\_\_
+
+I believe that we've been approaching our “post-truth” problem with a fundamental misunderstanding about human nature.
+
+\_\_\_
+
+But the problem is exactly the same, we've discovered that our beloved traditional solutions have failed us. Better education? Facts bounce off hardened beliefs. Improved communication? Our most articulate arguments fall on deaf ears. Enhanced access to information? It only seems to deepen the divide.   
+  
+ I believe that we've been approaching our “post-truth” problem with a fundamental misunderstanding about human nature. Traditional approaches, such as Karl Popper's emphasis on falsifiability, Thomas Kuhn’s exploration of paradigm shifts, and Festinger's cognitive dissonance theory, assume we're primarily seeking accurate descriptions of the world but are led astray by biases, emotions, or faulty reasoning. While these frameworks have profoundly influenced our understanding, they presuppose a rationalist ideal that often fails to address the deeper human craving for meaning and coherence. This assumption shapes how we try to address disagreements - with more facts, better arguments, clearer evidence. And this is precisely what leads opportunists with enough audience to force their own “truths” on others. Despite unprecedented access to information, our divides are just deepening, to the extent that rational discourse has become impossible, culminating in people embracing the weirdest possible beliefs, like [flat earthism](https://today.yougov.com/society/articles/20510-most-flat-earthers-consider-themselves-religious), because they seem somehow preferable to the perceived “mainstream lies” (as they call them). And who is to tell them that they don't have the "real truth" when facts become whatever they want them to be?
+
+And this is how old explanatory frameworks persist despite contrary evidence, how scientific findings, no matter how robust, fail to convince those who've found reassurance in alternative interpretations. Take religious frameworks - they persist not because they better explain natural phenomena, but because they provide profound meaning about life's purpose, death's mystery, and human suffering. Their power lies not in their empirical accuracy but in their meaning-making capacity. These aren't just failures of education or reasoning. They point to a deeper pattern in human cognition, a profound need we've been blind to all along.
+
+\_\_\_
+
+What we crave is meaning. Not truth.
+
+\_\_\_
+
+We have now reached the point where we are standing at a crossroads: either continue this sacrificial dance of competing “absolute truths”, each more strident than the last, or recognize that we have failed and that we've been asking the wrong question all along.
+
+As Nietzsche once suggested, humanity’s obsession with absolute truth often blinds us to deeper existential needs, meaning and coherence. This insight resonates with my personal conclusion: what we crave is meaning. Not truth. What we seek are frameworks that illuminate our experiences, a way to make sense of our struggles, narratives which give purpose to our pain. We hunger for stories that help us navigate the vast complexity of existence, which make our world coherent, comprehensible, meaningful. If I am correct, this revelation changes everything.
+
+It was in part this realization that led me to develop Model Dependent Ontology (MDO), an epistemic framework that addresses how humans engage with their experiences rather than how we think they should. At its core, MDO recognizes that meaning-making isn't just one aspect of human cognition - it's fundamental to how we live. It touches our most inner core. Our understandings, explanations and beliefs aren't attempts to capture some “external reality” or “eternal truths”; they're tools we use to make sense of what we live, of how we engage with others to create coherent narratives that guide our actions and decisions in a hyper-complex world.
+
+Consider how even our most successful scientific theories - quantum mechanics and relativity - demonstrate that what we observe fundamentally depends on our framework of observation, not on some eternal “truth” of any kind, one that is valid for anyone at every point. Different frameworks yield different but equally valid descriptions of the same phenomena. MDO takes this insight further: it suggests that even our most basic concepts about what exists or what counts as evidence emerge from specific models with their own assumptions and limitations. This isn't about denying the importance of evidence or observation - quite the opposite. It's about recognizing that any statement, any fact, any concept we employ is necessarily interpreted within some model or framework. This is a point that Rudolf Carnap made in a seminal paper entitled Empiricism, Semantics, and Ontology (1950).
+
+[![related-video-image](https://iai.tv/assets/Uploads/Thumbnail-26-democracy.webp)
+
+SUGGESTED VIEWING
+Dissent, division and democracy
+With Peter Lilley, Ella Whelan, Paul Mason, Rana Mitter, Peter Mandelson](https://iai.tv/video/dissent-division-and-democracy)
+
+Understanding this opens up more sophisticated ways of evaluating and working with multiple models while maintaining their pragmatic utility. Rather than attempting to determine which model is "true," rather than enforcing new "truths" like some figures do, it examines how different ways of understanding serve different purposes, create different meanings, and lead to different outcomes.
+
+Consider how differently this approach works in practice. Instead of treating economic frameworks as competing claims, where one and only one can be "the right one," MDO examines their use as tools for making sense of different scales and contexts of human endeavours. MDO then acknowledges that the breathtaking complexity of global markets cannot be reduced to a single model any more than human political beliefs can be reduced to imagined "lefts" or "rights." MDO actually encourages generating a potentially unlimited quantity of different models in different dimensional axes, as a way to overcome the stubbornly persistent human insistence on using bipolar, monodimensional axes.
+
+This represents a radical shift in how we approach understanding itself, and the irony is exquisite: by abandoning our obsession with finding the truth, we might finally develop better ways of understanding our world than we ever could through the lens of absolute certainty. Instead of imposing single "correct" ways of seeing the world, we might be better by cultivating multiple model competency, teaching people to work with different frameworks while understanding their contexts and limitations. Imagine an education system that taught not what to think, but how to move fluently between different ways of making sense of the world, recognizing that different contexts require different tools for understanding. More crucially, imagine having practical tools to evaluate these models based not on their claim to any truth, but on their ability to illuminate our experiences while remaining consistent with observed evidence.
+
+The challenge ahead isn't choosing between truth and relativism - that's the old game, the one that led us into our current crisis. The real challenge is learning to dance more skilfully with the multiple frameworks through which humans create meaning. To find the greater meaning, not the greater truth. This isn't just an academic exercise - it's about survival in an age where competing absolutisms threaten to tear societies apart. MDO offers not just an epistemic framework for understanding this dance, but the practical tools for performing it with greater awareness, flexibility, and effectiveness. Perhaps then we can move beyond the endless war of "truths" toward something more sophisticated: a world where meaning-making becomes not a source of division, but a shared human adventure in understanding.

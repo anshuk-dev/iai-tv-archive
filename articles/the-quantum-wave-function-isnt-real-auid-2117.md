@@ -1,0 +1,97 @@
+---
+title: "The quantum wave function isn't real"
+subtitle: "The universe isn't a wave function"
+author: "Eddy Keming Chen"
+date: "29th April 2022"
+article_id: "2117"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,283 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-wave-function.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-quantum-wave-function-isnt-real-auid-2117"
+---
+
+# The quantum wave function isn't real
+
+*The universe isn't a wave function*
+
+**By Eddy Keming Chen** | *29th April 2022* | *Read time: approx. 11 mins* | *2,283 words*
+
+![The quantum wave function isn't real](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-wave-function.webp)
+
+---
+
+*The dominant interpretation of the quantum wave function sees it as real – as part of the physical furniture of the universe. Some even go as far as to argue that the entire universe is a quantum wave function. But this interpretation runs into a number of problems, including a clash with Einstein’s theory of relativity. Karl Popper prize-winner, Eddy Keming Chen, suggests that we instead interpret the wave function as the basis for a law of nature that describes how particles, fields and ordinary objects move through space and time. That way, a number of puzzles around quantum mechanics are resolved.*
+
+Believe me when I say it's easy to love quantum mechanics—the fundamental rules that describe our physical world, starting at the microscopic level —but hard to interpret what it’s really about. Quantum mechanics is unquestionably useful as an algorithm for predicting the outcomes of experiments and has given birth to many technological innovations — from MRIs to semiconductors. But when it comes to the question of what quantum mechanics tells us about the nature of physical reality, things get very complicated, very quickly. Does quantum mechanics really reveal what exists at the fundamental level of the universe?
+
+**[![Wave Function](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Wave-Function.webp)
+
+SUGGESTED READING
+Reality is just a quantum wave function
+By Alyssa Ney](https://iai.tv/articles/reality-is-just-a-quantum-wave-function-auid-2024)**Such questions are at the heart of the foundations of physics. Physicists and philosophers have debated them since the early days of quantum mechanics. And while there are many divergent interpretations, most of them agree that uncovering the physical reality of the quantum world requires us to come to terms with the wave function -  the central mathematical object used in quantum mechanics. But what is the wave function? We have invented a beautiful mathematical framework to talk about the wave function, but it is very hard to give a physical interpretation of its abstract mathematics. One dominant interpretation of the wave function is that it in fact represents physical reality – some even argue that the universe as a whole is just a quantum wave function. But that interpretation runs into a number of problems. What I suggest is that we stop thinking of the wave function as real, as part of physical reality, and instead interpret it as providing the basis for a simple law of nature.
+
+\_\_\_
+
+## It is far from clear how the wave-function is connected to our ordinary world of physical reality.
+
+\_\_\_
+
+# The dominant view of the wave function and its discontents
+
+At first glance, the wave function stands to quantum mechanics as particles to classical mechanics and electromagnetic fields to classical electrodynamics. The wave function of quantum mechanics seems to have all the marks of something real, indispensable, and should presumably be just as much a part of the constitution of physical reality as ordinary objects like tables and chairs. This might motivate one to adopt a realist interpretation of the wave function. Proponents of this view include many prominent physicists and philosophers such as Sean Carroll, David Albert, and Alyssa Ney. Yet, compared to particles and electromagnetic fields, the wave function is a highly abstract mathematical object that lives in a high-dimensional space, and includes imaginary numbers. It is far from clear how the wave-function is connected to our ordinary world of physical reality.
+
+\_\_\_
+
+## Instead of thinking of quantum mechanics as telling us that, at the fundamental level, the universe is actually a wave function, we should think of it as providing us with the basis for a simple law of nature.
+
+\_\_\_
+
+The task of interpreting quantum mechanics, I argue, becomes easier if we reject the orthodox view that the quantum universe must be described by a wave function (a pure state, in technical terms**).** We should reconsider the realist interpretations of the wave function. Instead of thinking of quantum mechanics as telling us that, at the fundamental level, the universe is actually a wave function, we should think of it as providing us with the basis for a simple law of nature, one that determines how ordinary physical objects, such as particles and fields, move in space and time.
+
+To motivate the new picture, let me summarize some of the problems facing the realist interpretations of the wave function. First, if we take seriously the space on which the wave function is defined, we might need to accept that the real arena where physical events unfold is a space of extremely high dimensions - about 10 to the power of 80, which is a huge number. While we may believe our universe may contain the 20+ dimensions postulated by some versions of string theory, it is much harder to swallow the idea that in fact, the real number of dimensions of the universe is 10 to the power of 80. It is difficult to see how ordinary four-dimensional objects like dogs and cats can emerge from it.
+
+\_\_\_
+
+## Realist interpretations of the wave function seem to be in tension with Einstein’s relativity theory – a pillar of modern physics.
+
+\_\_\_
+
+Second, if we assume that the wave function is a physical object living in four-dimensional spacetime, it leads to a surprising kind of holism. Suppose we have a group of particles in spacetime. The wave function would endow the group with properties that cannot be derived from properties of the individual particles. The whole is, as it were, more than its parts. That is related to what is called quantum entanglement.
+
+Finally, realist interpretations of the wave function seem to be in tension with Einstein’s relativity theory – a pillar of modern physics. If there is no objective and unique way of slicing spacetime into space and time, as relativity theory tells us, admitting quantum entanglement as a fundamental feature of the physical world makes it difficult to describe the full history of the universe. As David Albert argues, the history of a quantum universe on one way of slicing spacetime cannot be related to that on another, just by changing the reference frame. Instead, it requires details about the laws of nature.
+
+Hence, we already have motivations to seek an alternative to the realist interpretations of the wave function as a physical object. According to an earlier proposal (due to Detlef Dürr, Sheldon Goldstein, Stefan Teufel, and Nino Zanghì), the wave function of the universe is not a physical object, but a physical law, like Newton’s second law of motion. The wave function determines the motion of physical objects - both at the quantum level, and at the everyday level - such as particles, fields, tables and chairs. My proposal is inspired by theirs, but I suggest there is an easier and simpler way to implement the idea.
+
+# The quantum wave function as the basis for a law of nature
+
+A hypothetical wave function of the universe is fairly complex. As it carries so much information, it can be complicated to specify. Because of its complexity, it does not look like a law of nature, which we expect to be relatively simple, like the expression for the law of universal gravitation and Newton’s second law F = m a.
+
+I suggest that we take a step back, by zooming out a bit. There is a mathematically well-defined way to do so (yielding what is known as the density matrix) but let me use a metaphor. Think of each possible wave function as a pixel on a screen. Think of the wave function of the actual universe as a particular pixel marked in red. If we have a powerful microscope, we see every dot on the screen, including the red dot. Specifying the location of the red dot requires a lot of information. Now, if we adjust the magnification and zoom out a bit, we stop seeing individual pixels. At the right level of magnification, we see some pattern emerging. The pattern, being more coarse-grained, can be easier and simpler to describe than the exact locations of individual pixels. I suggest that such a coarse-grained pattern suffices as a law describing the motion of ordinary physical objects. This less detailed description is given by a density matrix.
+
+If we zoom out too much, there is the danger of throwing away too much information and hence missing out on the pattern. So what is the right level of magnification to use? The answer to that question relates to another remarkable feature of our world---the arrow of time. Even though the microscopic dynamical laws do not distinguish between the past and the future, our ordinary experience is full of processes that do. Just think of the melting of ice, the spreading of smoke, and the decaying of fruits. The universe appears more orderly in the past and less orderly in the future. This observation is summarized in the Second Law of Thermodynamics, according to which isolated systems tend to increase in entropy, a measure of disorder. What is responsible for this arrow of time? A standard answer is to add a fundamental axiom or a law of nature called the Past Hypothesis, according to which the universe started in a special state of very low entropy, at or near the Big Bang.  Such a state can be characterized in relatively simple terms using macroscopic variables such as entropy, temperature, density, and volume. The Past Hypothesis, as it were, picks out the magnification level for the microscope. It strikes the perfect balance and selects just the right amount of information we need for specifying a simple and yet empirically adequate law.
+
+Because of the simplicity of the Past Hypothesis, the coarse-grained pattern obtained from it can be described by a remarkably simple object. It carries much less information than a hypothetical wave function. It is sufficiently simple to be a candidate law of nature and sufficiently informative to determine the motion of ordinary objects. As a result, we do not need to reify the wave function as either a physical object or a physical law. This has two implications. First, it shows that conceptual issues about the arrow of time are intimately connected to the interpretations of quantum mechanics. Second, it provides an attractive alternative to realist interpretations of the wave function.
+
+I develop this idea in a proposal called the Wentaculus. (The name comes from the word “Mentaculus,” which, as used in the Cohen Brothers’ movie *A Serious Man*, means the probability map of the universe. In the philosophy of science literature, David Albert and Barry Loewer have named their theory “the Mentaculus.” For my proposal, I’ve changed “M” to “W” as the latter is used to denote a density matrix.) The picture of the world it offers is easier to embrace than the realist interpretations of the wave function. The quantum universe includes ordinary objects made of particles, fields, and / or other localized entities.  The wave function is no longer central in this theory as either a physical object or a physical law. Instead, we postulate a much more coarse-grained and simpler object that naturally arises from considerations about the Past Hypothesis. The simple object represents a law of nature determining the motion of ordinary objects.
+
+\_\_\_
+
+## The Wentaculus picture of the world is easier to embrace than the realist interpretations of the wave function. The wave function is no longer central in this theory as either a physical object or a physical law.
+
+\_\_\_
+
+# The benefits of the Wentaculus view of quantum mechanics
+
+The Wentaculus reduces the types of randomness in the world. On the orthodox view, the outcomes of quantum experiments are random, and the randomness is predicted (probabilistically) by the wave function. However, the wave function itself is also chosen at random from a collection of many different hypothetical wave functions, and such randomness is an additional postulate in the theory. On the Wentaculus, the second postulate of randomness is eliminated; there is only one physically possible quantum state and it is not random at all.
+
+Moreover, the Wentaculus unifies the universe with its subsystems (small parts of the universe). On the orthodox view, the universe is described by a wave function, but most subsystems cannot be described by wave functions because of the phenomenon of quantum entanglement. On the Wentaculus view, the entire universe---including all of its parts---can be described by the same mathematical equations.
+
+Furthermore, the Wentaculus version of Everett’s many-worlds quantum mechanics is the first realistic and simple example of strong determinism, the idea (introduced by Roger Penrose) that laws of nature allow only one possible model of physical reality. On the orthodox version of Everett’s theory, the wave function gives rise to many different and parallel branches, each realizing a different history. All of them are real and included in a gigantic multiverse, a much larger version of what we commonly regard as the physical reality. However, on the orthodox version of Everett’s theory, there can be different wave functions and hence different multiverses. The actual multiverse could be any one of them. In other words, physical reality is not pinned down by the laws of nature, as they allow distinct models of the multiverse. On the Wentaculus version of Everett, in contrast, the laws of nature completely specify the multiverse, so there is only one way physical reality could be. In other words, the actual multiverse could not have been different on pain of violating physical laws.
+
+The orthodox view assumes that, if physical reality is quantum mechanical, the universe must be described by a wave function. This view leads to difficulties, because the wave function is not something we can easily regard as a physical object (as it is too abstract) or a physical law (as it is too complicated). The situation is transformed when we zoom out a bit. The most natural object of quantum mechanics compatible with the Past Hypothesis becomes simple enough to be a law of nature.
+
+Quantum mechanics is hard to interpret. We can make progress if we stop being realists about the quantum wave function, and zoom out.

@@ -1,0 +1,59 @@
+---
+title: "The power of anxiety"
+subtitle: "Heidegger and Kierkegaard on the disruption of our worlds"
+author: "Maria Balaska"
+date: "14th February 2022"
+article_id: "2050"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,472 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Anxiety.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/anxiety-and-the-meaning-of-life-auid-2050"
+---
+
+# The power of anxiety
+
+*Heidegger and Kierkegaard on the disruption of our worlds*
+
+**By Maria Balaska** | *14th February 2022* | *Read time: approx. 7 mins* | *1,472 words*
+
+![The power of anxiety](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Anxiety.webp)
+
+---
+
+*We tend to think of anxiety as a phenomenon that makes us fearful or stressed, or worried about something. But Heidegger and Kierkegaard understood the phenomenon of anxiety very differently. For them, anxiety isn’t about any one thing in particular, but a disruption of our worlds where all meaning is suddenly lost. This reveals something important about how we make sense of our life, writes Maria Balaska.*
+
+We are inhabitants of worlds. Not just geographical worlds, like London, or Europe, but also the worlds of our activities, practices, and interactions, like the world of a kitchen, of a philosophical conversation, of a friendship, of a love affair, of a film, etc. This is the only way in which we encounter and make sense of things, including ourselves and others; not in a vacuum but through our involvements with them, our various activities and practices. We encounter bread, mugs, and coffee in preparing breakfast; newspapers and articles when reading the news; posts, comments, and threads when we are on social media, etc. Despite variations in what this looks like for each one of us, our lives share a fundamental trait: we always find ourselves amid entities, engaging with them meaningfully, entangled in worlds.
+
+Or rather, almost always. Sometimes our worlds are disrupted. This article is about an unusual kind of disruption and how it reveals something important about who we are.
+
+Most usually the disruption of our worlds involves some kind of breakdown. There are less severe and more severe cases of breakdown, and the entities that were habitually available to us through these worlds become unavailable -at least for a while. When there is a power cut, we may not be able to cook, check our social media feed, or listen to our favourite album. After a divorce, the worlds that made up the relationship break down: we will not share the same house anymore, we will not visit ourfavourite restaurant together anymore, nor utter meaningfully the phrases that were unique to that relationship. Recently, the pandemic became a more generalised breakdown of our worlds. Among other losses, we stopped being able to share physical space with loved ones, visit our workplaces, or travel beyond our cities or countries. We almost forgot how to socialize with others.
+
+Here, however, I want to focus on a different, stranger kind of disruption, where although our worlds have not broken down and are still intact, they stop engaging us altogether. As an example, imagine the case of a woman who is in a happy marriage, satisfied with her job, pleased with how things are in her life, yet for a brief moment she has an uncanny sense that all these worlds mean nothing to her, that she is not inhabiting them anymore. No breakdown is involved; she is not clinically depressed, nor is she mourning for the loss of a loved one (these could be alternative ways in which worlds stop engaging us). Yet, the worlds that are usually so familiar and enjoyable to her, the world of the flat that she recently bought and had decorated with great care, the world of her latest project at work, the world of her marriage, everything that had engaged her so far now suddenly feels strangely unhomely and alien. This strange panicky feeling doesn’t last long, and within a few minutes, perhaps even seconds, she returns to her worlds. She forgets about it and goes back inhabiting the worlds that make up her life. Some of us may have had this experience only once, some of us may have never had this experience, or perhaps to some of us this is only available through a description in a film or a novel, like the case of Antoine Roquentin in Sartre’s *Nausea*.
+
+Unlike the cases described earlier, in this case worlds don’t break down as they do when we are going through a crisis; instead, they seem to fade away like the colours of an old picture. But if nothing has been damaged, perished or broken down, either inside us or outside us, then why does it feel like significance is being stripped away and all things fade away as a whole?
+
+\_\_\_
+
+The anxiety that Kierkegaard and Heidegger are talking about has a unique trait that differentiates it from stress, fear, or worry: it has no object.
+
+\_\_\_
+
+Søren Kierkegaard and Martin Heidegger used the term *anxiety* to describe this strange phenomenon. The term can be confusing. We tend to say that we are ‘anxious’ when an exam is approaching, we say that Covid made us more ‘anxious’, and we may feel ‘anxious’ before a first date with someone, but words like ‘stress’, ‘fear’, or ‘worry’ can also be suitable for those states. Instead, the anxiety that Kierkegaard and Heidegger are talking about has a unique trait (that differentiates it from stress, fear, or worry): it has no object. Anxiety’s object ‘is something that is nothing’, Kierkegaard writes in *The Concept of Anxiety*; ‘it is nothing and nowhere’, Heidegger remarks in *What is Metaphysics?.* Contrary to those cases when we feel fearful, agitated, or stressed because of the presence of something (an approaching exam, a visit to the dentist) or the absence of something (the termination of a job contract, a separation), in the case of anxiety no change has occurred in the entities and the worlds within which they appear. Yet these entities and their worlds withdraw from us, and we withdraw from them and ourselves.
+
+When these moments occur, it is not only one single world that breaks down, not even some of them, but the entire structure of our worlds that we normally inhabit withdraws from us. The fact that the totality of my worlds fades away can give this experience the quality of vertigo, a sense that our worlds are tumbling and that we ourselves are also tumbling with them, unable to hold onto them. Hence Kierkegaard compares anxiety with dizziness. Despite the panicky feeling, what happens in such moments is fleeting and can go unnoticed. Sometimes, we might also be able to shake it off by distracting ourselves. Given that nothing specific caused it, we can ignore it as something random, perhaps an illusion produced by the mind. Why should we place any importance on such brief and rare moments that seem to be about nothing? Because **t**his kind of disruption -that is not caused by a breakdown in our worlds, yet in which our worlds as a whole slip away- reveals something about how our worlds hang together in the first place. It shows that we have access not only to the particular practices and activities that make up our lives**,** but to the whole that holds them together. As Heidegger puts it in his *What is Metaphysics?* lecture**:** ‘The obstinacy of the nowhere means as a phenomenon that the world as such is that in the face of which one has anxiety […] what oppresses us is not this or that, it is rather […] the world itself’. In other words, we are creatures that have access to something beyond our particular worlds, a totality within which these make sense in the first place.
+
+\_\_\_
+
+Moments of anxiety call on us to make sense of our life, by responding to the fact that there is a world for us in the first place.
+
+\_\_\_
+
+The value of the insight that anxiety can offer us is not a merely theoretical one, but a deeply existential one. If we do not pay attention to (the possibility of) these moments, we may be tempted to think that worlds engage us only in virtue of their specific characteristics, namely that whether and how we inhabit a world depends solely on what that world is like. We might think, for example, that if a marriage is not engaging us anymore, it is solely because of what this marriage is like or has become like. Yet what we can learn from anxiety is that the way we inhabit each world depends on how we inhabit our worlds as a totality. The way I relate to the world of my marriage rests on the way I make sense of how this marriage fits with my life as a whole, and on what it means to me to live a meaningful life. Therein lies for Kierkegaard the taste of freedom these moments can offer, a reminder that we are always more than the worlds that currently make up our life and that our future is not anticipated by our past.
+
+Moments of anxiety call on us to make sense of our life, by responding to the fact that there is a world for us in the first place. Because of their elusive nature, these calls may sound more like whispers. But we can listen out for them.
+
+\*I am grateful to Reshef Agam-Segal, Amalia Balaska, and Alexis Papazoglou for helpful comments and suggestions.\*

@@ -1,0 +1,67 @@
+---
+title: "Memory is not stored in the brain"
+subtitle: "Time, not space, contains memory"
+author: "Victoria Trumbull"
+date: "17th November 2025"
+article_id: "3420"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,697 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/memory-is-not-stored-in-the-brain.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/memory-is-not-stored-in-the-brain-auid-3420"
+---
+
+# Memory is not stored in the brain
+
+*Time, not space, contains memory*
+
+**By Victoria Trumbull** | *17th November 2025* | *Read time: approx. 8 mins* | *1,697 words*
+
+![Memory is not stored in the brain](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/memory-is-not-stored-in-the-brain.webp)
+
+---
+
+*The leading theories of memory describe it as being stored in the brain – similarly, some argue, to the way a computer stores memory. But this assumption relies on materialist assumptions and problematically bypasses the hard problem of consciousness. Memory is not stored in space, but in time, argues philosopher **Victoria Trumbull.***
+
+From ancient times, philosophers have used the “storage” metaphor to describe the phenomenon of remembering. Memory is often pictured as a vast warehouse or library of experiences. In the past century, this “storage” metaphor has come to be taken literally: neuroscientists today maintain that a “memory” is simply a given pattern or collection of patterns of neural activity. This hypothesis forms a key part of the greater worldview known as “[materialism](https://iai.tv/articles/materialism-is-holding-science-back-auid-3364)” or “[physicalism](https://iai.tv/articles/why-materialism-is-a-dead-end-bernardo-kastrup-auid-1271)”: in brief, the idea that reality consists solely in physical stuff, and, correspondingly, that the human mind is reducible or equivalent to the body or the brain.
+
+The central problem with this picture of memory is that, like many descriptions of the mind, the storage metaphor is only a metaphor. It feels intuitive to say that we “store” memories like books in a library or files on a hard drive. While this is a useful metaphor insofar as it helps us to describe and express [what it feels like to remember](https://iai.tv/articles/memory-creates-reality-and-the-self-auid-3088), it cannot be anything more than this.
+
+In order to *prove* that memories are stored in the brain, we would need to be able to *observe* this. But this is not a fact that belongs to the order of observation and experimentation. The most that neuroscientists can do is track cerebral activity and attempt to correlate the physical brain state to a description of concurrent mental experience. In carrying out experiments of this kind, however, the neuroscientist has already provisionally assumed that there is an exact identity or perfect equivalence between the mental state and the cerebral state. In other words, the hypothesis of localization that the neuroscientist has set out to prove has already been assumed as an initial axiom of his or her research. The correlation between brain activity and memory reports doesn’t prove that memories are stored in the brain any more than the correlation between footprints and walking proves that walking is stored in footprints, or the correlation between the piano and a sonata proves that the sonata is stored in the piano.
+
+If we assume that the brain stores up discrete, localisable memories, it then becomes extremely difficult to explain [how the brain can be said to generate, preserve, and reconstruct “representations” of this kind](https://iai.tv/articles/our-brains-evolved-to-survive-not-to-find-truth-auid-3406). How can the brain translate an image of experience, itself intangible and invisible, into a physical record or neural pattern? The neuroscientist is left with [the philosophical challenge famously known as the “hard problem of consciousness”](https://iai.tv/articles/is-your-brain-really-necessary-for-consciousness-auid-3280): given the complex physical machinations of the brain, whence arises the conscious experience of remembering?
+
+It does not make sense to say that we “store” the smell of coffee, the face of our mother, or the sound of a Mozart symphony “in” the brain. But can a pattern of neural firings, like the embossed print of Braille or the successive taps of Morse code, indicate or contain these prior events, or even mark their salient outlines? In recent years, the idea of “neural code” and the general hypothesis that the brain operates like a computer has been offered as one way of trying to solve this puzzle. But this framework simply provides us with another metaphor; the computer model is no more explanatory than the storage metaphor itself. Neuronal configurations may very well be a biological prerequisite for remembering, but it does not follow from this fact that these configurations *are* the memory, nor that they can be said to “represent,” “portray,” “depict,” or “contain” what is being remembered.
+
+\_\_\_
+
+When neuroscientists locate memory “in” the brain, what they’re really finding is that certain brain regions are active during remembering
+
+\_\_\_
+
+In truth, the theory of localization far exceeds the facts of current neurobiology. When neuroscientists locate memory “in” the brain, what they’re really finding is that certain brain regions are active during remembering. But being active during a process is not the same thing as being the storage location for that process. The brain is undoubtedly involved in remembering, but involvement does not necessitate containment.
+
+In most neuroscientific experiments intended to prove that memories are stored in the brain, the researchers study *habit*, not recollection proper. *Habit* is a motor attitude or pattern retained by the body or nervous system; it is characterized by repetition and acquired by motor education. *Memory* is personal recollection, involving the persistence of the past under the form of an *image*, reflecting a unique moment of our original history. In famous experiments with [rats](https://www.nature.com/articles/s41593-024-01676-6) and [sea slugs](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1601-5215.2010.00476.x), the kind of “memory” being studied is nothing more than a physiological response. What has been shown successfully in experiments of this kind is that physical conditioning produces a regular motor reaction to a given external stimulus, and that brain activity prepares and paves the way for the systematization of this motor response. In other words, what has been proven is that *habit* is effectuated via lasting changes in synaptic architecture. But to move from the fear response of a mouse to a human episodic recollection would require more than an increase in the number and complexity of neurons: it requires a distinction in kind, a categorical leap from motor habituation to conscious evocation.
+
+Furthermore, if localization theory were true, and if memory-images are indeed “stored up” as cellular or neural traces, then the impairment of certain brain regions should definitely correspond to the destruction of certain well-defined recollections. But this is precisely not the case. For example, on a timescale varying from weeks to years, many patients who have suffered from a stroke come to recover their once-lost ability to speak and comprehend words. Similarly, [certain objects](https://www.sciencedirect.com/science/article/abs/pii/S0028393217302476) or [sound-based triggers](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914108/) can cause patients suffering from Alzheimer’s to suddenly recover memories that were previously lost in obscurity. Perhaps what we find to be impaired by brain lesions is the mechanism required to *recall* or *express* certain kinds of memories, rather than a firm and final destruction of the recollections themselves.
+
+What, then, are memory-images? First of all, it is important to note that the objects of memory are not like the objects of perception. They are neither visible nor tangible. The remembered thing or event is not found in the present, except somehow intangibly “in” the mind, while the perceived object is present physically and externally. Second, memory-images essentially bear the mark of “pastness.” They are attached to the past by their deepest roots, so that we immediately recognize a memory as distinct from a perception and thus know it *as* “memory.” An individual recollection points to the wealth or totality of the past that it belongs to and from whence it originates; it points to the total history of the personal life we have lived since our birth.
+
+For these two reasons, our desire to think of memories as “things” that are capable of being “stored” in a receptacle is what we philosophers might call a “category error.” Memory-images are not objects or things. We thus cannot apply to them the same categories, such as the necessity of “being contained *somewhere*” that we apply to the things of space. The relationship of “container” to “contained” here arises from a misguided analogy with material objects. Why should recollections, which are neither visible nor tangible, need a container, and how could they have one? We could say, again metaphorically, that they exist “in” the *mind*, but “mind” is not a literal container for mental experiences any more than the number 10 can be said to be a “container” for the series “1, 2, 3…etc.”
+
+\_\_\_
+
+If we assume from the start that everything mental must be reducible to something physical, then we close the possibility of understanding the mind on its own terms
+
+\_\_\_
+
+Memory is, essentially, a fact of *time*—it is the persistence of the *past*—and, because it is a temporal phenomenon, it is fundamentally *extra-spatial*. To extend to memories, to a series of moments in time, the obligation of “being contained” in a place is to transfer to a temporal phenomenon a quality which applies only to the collection of material bodies perceived in space. And it is this series of observations which leads us directly to the reality of the *mind*: because the past overflows the present, memory overflows the brain; and because memory overflows the brain, mind overflows the body.
+
+Perhaps what the brain does in all of this is far less extravagant. The body or brain can be said to retain and resume specific habits, patterns, or motor attitudes. Most importantly, the brain provides the motor basis for recall. The capacity to remember certainly depends functionally upon the health and integrity of certain brain regions. Thus, if you damage certain parts of the brain, then you diminish the capacity for recollection within the present; you do not, however, destroy the images themselves. If we go further than this, if we say that a brain injury abolishes individual recollections, then we are forced to assume that psychological states are miraculously capable of springing about from anatomical configurations, and thus to consequences that partake of the metaphysical rather than observational order. The invigorating opportunity for neuroscientific research is to determine by what mechanism the brain concretely serves the dynamics of remembrance, but the storage hypothesis will only hinder neuroscience from pursuing its natural course.
+
+If we assume from the start that everything mental must be reducible to something physical, then we close the possibility of understanding the mind on its own terms. We have consigned ourselves to translating the wealth of subjective experience into impoverished neural patterns, only to then realize that this has not helped us to “explain” memory in any meaningful sense of the word. A genuine science of memory would begin by questioning the storage metaphor itself. Perhaps memories are not stored “anywhere.” Perhaps the brain’s role is not to house the past, but to facilitate our engagement with it.
+
+**Victoria Trumbull will be appearing at the [HowTheLightGetsIn Festival](https://howthelightgetsin.org/festivals/hay) this May 22-25th, alongside world-leading thinkers like Slavoj Zizek, Cornel West, Martha Fiennes, Jimmy Wales, and many more. [Book your tickets now](https://howthelightgetsin.org/festivals/hay).**

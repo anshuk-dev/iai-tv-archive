@@ -1,0 +1,135 @@
+---
+title: "Time's arrow is not an illusion"
+subtitle: "Hegel and the reality of time"
+author: "James Sares"
+date: "27th January 2025"
+article_id: "3059"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,495 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/hegel-and-the-proof-of-times-reality.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/times-arrow-is-not-an-illusion-auid-3059"
+---
+
+# Time's arrow is not an illusion
+
+*Hegel and the reality of time*
+
+**By James Sares** | *27th January 2025* | *Read time: approx. 12 mins* | *2,495 words*
+
+![Time's arrow is not an illusion](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/hegel-and-the-proof-of-times-reality.webp)
+
+---
+
+*According to conventional wisdom, Einstein’s Theory of Relativity showed that the flow of time is an illusion, and that reality is a fixed block. And philosophers from Augustine to McTaggart have found the idea of time’s passage to be incoherent. However, argues James Sares, the idea that time’s flow is an illusion is itself incoherent. He uses Hegel’s dialectical logic to prove that time is real, since any denial of its reality must fall into self-contradiction.*
+
+*1. The denial of time’s passing*
+
+From [Zeno](https://plato.stanford.edu/entries/paradox-zeno/) to [McTaggart](https://philpapers.org/archive/MCTTUO.pdf), the history of philosophy contains a number of arguments against the reality of time. Even philosophers who think time is real have admitted the difficulty of making sense of it. Augustine asks how time exists if past and future do not, while the present takes no time. Kant asks how time can have a beginning if a beginning implies a change, hence a prior time. And yet how can time have no beginning – hence be actually infinite – if particular, finite moments of time’s passing can never add up to this infinity?
+
+\_\_\_
+
+You might think your experience is the authority on the truth of the world, but you might be too trapped in it to see it for the illusion it is.
+
+\_\_\_
+
+ Today, many scientists and philosophers of time accept the “B-theory” of time, the view that time is just a static series of tenseless moments and relations, against the view that time actually flows from past to future, especially given problems introduced by Einstein’s theory of relativity. In science and philosophy alike, the denial of time’s passing remains a popular position to do away with the conceptual difficulties it implies.
+
+*2. Our experience of time’s passing*
+
+It may seem the height of philosophical hubris to declare the unreality of our basic form of experience. Indeed, if time—by which I mean time’s passing—is unreal, our experience of the world must be illusory. What right do philosophers have to declare themselves the authority over *your* experience? Are you not the one who is doing the experiencing, thus demonstrating time’s reality?
+
+Yet, it is not sufficient to appeal to experience as its own justification. One lesson of philosophy is that we think we are the experts of our own experience, but upon further scrutiny, we see that we often have misunderstandings about it and its significance for conceiving reality. You might think your experience is the authority on the truth of the world, but you might be too trapped in it to see it for the illusion it is. A mere pointing to experience does not resist the force of reasoned argument. It begs the question by reasserting the truth of what has been demonstrated as untrue.
+
+\_\_\_
+
+Time is real precisely because it appears.
+
+\_\_\_
+
+It is another question whether we can rationally *prove* that time *must be real*. We might begin by challenging arguments against time’s reality based on its supposedly contradictory nature. However, this route would not provide a positive argument *for* time. In addition, even as someone who does believe that time’s passing is contradictory, which implies it cannot be real, I think such an argument *for* time’s reality is possible. And as someone trained in Hegel’s dialectical philosophy, I believe such an argument should be made by turning the denial of experience on its head. It is not that time is unreal appearance, as those who deny the reality of time claim. Rather, time is real precisely because it appears.
+
+*3. How to avoid begging the question*
+
+The question is how to appeal to experience without begging the question against time’s deniers. In his magnum opus *The Science of Logic*, Hegel recounts Diogenes’s reaction to Zeno’s paradoxes of motion, which purported to show that motion was impossible. In response, Diogenes walked silently back and forth. According to Hegel, Diogenes’s gesticulation operates at the level of commonsense and fails to ascend to a logical argument capable of taking on Zeno at a conceptual level.
+
+Moreover, Hegel claims, Diogenes misses the very point of Zeno’s argument. What is at issue is not whether change and motion appear but whether this appearing can be judged as true. This story clearly resonates with our concern over time: what experience reveals about time’s passing must be judged as true, demonstrating its irreducibility to a mere illusion, to have any philosophical weight. Experience must stand the test of rational scrutiny.
+
+[![related-video-image](https://iai.tv/assets/Uploads/L23-twt-thumbnail-iai.tv.webp)
+
+SUGGESTED VIEWING
+The trouble with time
+With Michio Kaku, Güneş Taylor, Avshalom Elitzur, Jimena Canales, Tim Maudlin](https://iai.tv/video/the-trouble-with-time)
+
+In fact, despite Hegel’s rather negative gloss on Diogenes, his gesticulation may hold the seeds of a rational argument. To unfold this argument, I suggest we look to Hegel’s logic.
+
+Hegel’s logic is notoriously difficult, partly because it is thoroughgoingly dialectical. In other words, it takes purely logical claims and unfolds the implicit contradictions or inadequacies at work in them, overcoming those problems by reformulating or revising the prior claims made. Hegel also writes with a deeply idiosyncratic use of terms, which makes his work inaccessible for even many philosophers. Nevertheless, some of his comments on the logical concept he calls “shine” (*Schein*) can be translated into an argument for time’s reality. I do not aim to present this concept in all its complexities—its terms have a much more complex connection than I can discuss—or even to offer a proper tracing of its steps here. Rather, I simply want to think with some of Hegel’s logical insights that are relevant to the problem of time.
+
+*4. Hegel’s logic and the nature of reality*
+
+Imagine someone claims that only one kind of reality, X, is real. Something else, Y, appears to exist, but they say that Y is merely an illusion, not a *real* being. This is our initial proposition. The question is how it can be that Y appears if it is not real. By appearing, Y must be something – something distinct from X. This requires us to explain Y’s relation to X – the relation between the unreal appearance and the reality.
+
+How can we think through this relation between X and Y? It would get us nowhere to deny their relation – we would fail to address the fact that Y appears as distinct from X. Instead, we might assert a relation between X and Y and also deny Y’s reality. Yet, this position contradicts itself: it accepts a relation between the terms only to deny one of the terms being related, thus ultimately denying the relation.
+
+Hegel’s dialectic progresses instead with a third option: let us accept that there is a relation between X and Y but make Y nothing but the appearing of X. This seems initially more plausible. It allows for a difference between the terms while preserving X as the only real thing. Indeed, the distinction between X and Y is now a distinction belonging to X.
+
+However, this position also proves unsustainable if it is interpreted as another roundabout denial of Y. Following this interpretation, we would accept the difference between the terms only to deny that difference in the reduction of Y to X. The problem can be put like this: if there is really a difference between these two terms, then Y must be not merely the same as X. Yet, Y would be just X if *only* X is real. As above, we would reduce Y to a non-existence in its difference from X – and it must be different from it – by identifying it simply with X. In other words, we would still contradictorily deny the reality of Y.
+
+\_\_\_
+
+Hegel’s logic claims to tell us about reality itself.
+
+\_\_\_
+
+Ultimately, instead, Hegel will demonstrate how, even when Y is thought to inhere in X or otherwise express it, there is actually a mediation between the terms: there are no effects without causes, but also no causes without effects; no properties without a thing, but no thing without properties; and so on. Both X and Y must be real for a relation to hold.
+
+This purely logical dialectic is not specifically concerned with time. However, Hegel’s logic claims to tell us about reality itself. It is concerned not only with what we think but also with what reality is insofar as we can think it at all.
+
+In my reading, the infamous and highly debated Hegelian dictum that *reason is reality* means then that we cannot think a reality beyond our rational categories. Any attempt to do so simply puts this “beyond” back into the grasp of reason (the idea of the beyond is itself our own), preventing it from being the absolute beyond it ought to be. In other words, we cannot think beyond our own thinking – something that is obvious enough but so often denied, resulting in irrationalism. Logic isn’t simply a matter of what we’re able to think about: it tells us what reality itself must be like because we *must* think it that way.
+
+This means that logic can critique incoherent claims about reality, exposing and working through their implicit contradictions. This is why Hegel often intersperses comments about other philosophers in his logic, locating their thought at particular junctures of the dialectic to criticize them. And in the context of the dialectic above, Hegel considers how even those who deny the intrinsic reality of worldly appearances nevertheless preserve this appearing as *not nothing*.
+
+*5. The argument for time’s reality*
+
+Our purely logical dialectic extends to time-denial. Let us assume that a static reality (henceforth, “eternity”) is alone real, despite admitting the illusory appearing of time’s passing (henceforth, “time”), and work out the contradictions of this position in light of our analysis above.
+
+If eternity is alone real, then the illusory appearing of time must be nothing. Yet, by admitting the difference between an essentially eternal reality and the illusory being of time, one admits that this appearing *is*. Indeed, if one assumes any difference between eternity and time, the problem becomes explaining how time is nothing despite appearing. We must explain this appearing away in relation to eternity if only eternity really exists.
+
+We have two initial possibilities for thinking this relation. First, we can refuse the relation given the absoluteness of eternal reality. Yet, this option leaves the appearing of time unexplained: it is not eternity, and so it is nothing, but it can’t be nothing, since it exists as an appearance. We have not overcome that contradiction. Second, we can assert a relation between time and eternity but deny the reality of time as a mere *seeming*. This option attempts to think a relation between two terms while denying one of the terms in order to preserve the absoluteness of the other. These commitments cannot be reconciled: either there is a relation between time and eternity as distinct terms, which contradicts the absoluteness of eternity, or there is no relation, which contradicts the existence of the appearing of time.
+
+Is the appearing of time instead nothing but eternity itself, as it appears to us? Might time be reduced to the appearing *of* an eternal reality?
+
+[![related-video-image](https://iai.tv/assets/Uploads/18-resized-thumbnail.webp)
+
+SUGGESTED VIEWING
+Untangling space and time
+With Tim Maudlin](https://iai.tv/video/untangling-space-and-time-tim-maudlin)
+
+If this proposal means denying the reality of time again, it offers an unsustainable combination of thoughts. At once, it recognizes a relation between time and eternity while also reducing time to eternity, denying it as a real term of the relation. Eternity is, at once, only one term of the relation and the relation as a whole. As such, this proposal continues to deny time as the distinct kind of being it is, failing to explain how it appears as time over and against eternity, as what eternity *is not*. Either time is something really distinct from eternity or it is reduced to eternity, which contradicts its appearing as time. The former option contradicts the thesis that eternity is alone real, while the latter option returns us to the contradiction with which the dialectic began.
+
+What this argument shows is that reality cannot be solely static if time really appears (and whether this static eternity exists at all can be brought into question). Indeed, the proposal that eternity is the sole reality cannot obviate the need to recognize time’s appearing as not eternity. Time is real in its appearing, and this reality is distinct from eternity.
+
+*6. Is time a false appearance?*
+
+There might seem to be a problem with this appeal to experience. Can I not use the same form of argument to justify the reality of anything simply because I experience it, even if that experience is obviously *false*? What about when I experience a spooky sound as a ghost, when it is in fact a friend tricking me? What about perceptual illusions, like a stick appearing to be bent in the water when it is in fact straight? Perhaps time is one of those falsities, a mere misperception of eternity.
+
+In answer to this concern, we should first note that appearing is *real* insofar as it is experienced, even if claims about it can be false. The stick really appears bent, and it belongs to the nature of reality for it to appear that way. I really experience something as a ghost, and reality is such that this experience is made possible for me. We would be mistaken only in falsely formulating beliefs about this appearing, attributing some significance to it that it does not have.
+
+The worry, then, is that our argument for the existence of time wrongly attributes to the appearance of time a significance that it does not have. Just as we can form false beliefs about the bent stick, perhaps time’s appearing is just a false belief held by our truly static selves.
+
+\_\_\_
+
+This absolute givenness distinguishes time from perceptual illusions.
+
+\_\_\_
+
+In response, there is an important difference between the appearance of time and the illusory appearance of bentness in a straight stick held underwater. When we experience time, the experience itself is temporal, and *time is nothing other than, meaning hidden behind, the experience of it*. The appearance can’t be distinguished from a belief about something lying behind it because the experience is the very being of time. This absolute givenness distinguishes time from perceptual illusions in which a false belief is projected onto reality.
+
+The idea that time is a misapprehension of reality thus fails. If I am truly misperceiving reality as temporal when in fact everything is static, I cannot explain the appearance of the supposed illusion of time. As others like Arthur Prior have noted, the supposed misperceiving or confusion itself appears temporally, and it would be impossible for this appearing to happen if reality, including my perception of it, were actually static.
+
+As such, this argument for the reality of time has taken experience as its ground, but we have not simply pointed to experience and unreflectively asserted its truth as Diogenes does against Zeno. Instead, we have interrogated the logical determinations unfolding from experience itself to make a judgment on its truth.
+
+Still, for all that, this does not mean that there are not forceful arguments demonstrating that time *cannot* be real. If there really are such arguments, philosophy would find itself in the midst of a contradiction between affirming and denying experience. And perhaps that would mean that despite the identification of reason and reality, experience confounds rational explanation after all.

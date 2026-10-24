@@ -1,0 +1,114 @@
+---
+title: "Andrew Tate, Nietzsche and the Matrix"
+subtitle: "The dangers of the appearance–reality distinction"
+author: "Alexis Papazoglou"
+date: "26th January 2023"
+article_id: "2373"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "1,995 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Andrew-Tate-and-the-Matrix.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/andrew-tate-nietzsche-and-the-matrix-auid-2373"
+---
+
+# Andrew Tate, Nietzsche and the Matrix
+
+*The dangers of the appearance–reality distinction*
+
+**By Alexis Papazoglou** | *26th January 2023* | *Read time: approx. 10 mins* | *1,995 words*
+
+![Andrew Tate, Nietzsche and the Matrix](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Andrew-Tate-and-the-Matrix.webp)
+
+---
+
+*“Who is Andrew Tate?” was one of the most Googled searches in 2022. A kickboxer turned social media personality whose online videos on TikTok alone have amassed 11 billion views, keeps making references to “The Matrix”. The appearance-reality distinction that underlies Tate’s pronouncements has a distinguished pedigree, going all the way back to Plato. But another philosopher, Friedrich Nietzsche, warned of the dangers of believing that reality is only accessible by the few, and lies beyond the ever-changing world of experience, writes Alexis Papazoglou.*
+
+“The Matrix has attacked me” were the words of Andrew Tate, an online influencer, supposed multi-millionaire, and former kickboxer, as he was being arrested by police in Romania last December. Tate talks a lot about “The Matrix” in the myriad of videos one can find of him pontificating online. In one such video, when referring again to “The Matrix” he says: “They want to control us. This is what people who are in charge ever wanted from the beginning, control. They want people to comply. And you have to put systems in place to ensure people comply.” So what is Tate really trying to get at when he references the science fiction film franchise? That we are living in a computer simulation? No. What he’s saying is that the world that most of us take as real is a mere appearance, an illusion, and that he has cracked the code and come to see the world as it really is.
+
+[![neitzsche 2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/neitzsche-2.webp)
+
+SUGGESTED READING
+Nietzsche and the perils of denying your self
+By Guy Elgat](https://iai.tv/articles/nietzsche-and-the-perils-of-denying-your-self-auid-2325)
+
+This reference to The Matrix by a certain type of online personality is not new. Conservative YouTube is awash with references to taking “the red pill”, a phrase that became so mainstream that even [Ivanka Trump tweeted about it](https://www.newstatesman.com/world/2020/05/ivanka-trump-taken-red-pill-tweet-elon-musk-reddit-4chan).  Being “red-pilled” in conservative online circles became equivalent to, again, waking up from the illusory world curated by the media, the government and other powers to-be, and seeing things as they really are. This idea of there being an illusory world of appearances that most people take to be reality, whereas the real world, Reality, eludes them is, of course, much, much older than this. It goes at least all the way back to Plato. But this distinction between appearance and reality, and the suggestion that only “the chosen ones” can have access to the Real World while the masses are stuck with deceitful appearances, is not only harder to sustain philosophically these days, it is potentially insidious and dangerous.
+
+\_\_\_
+
+Downgrading people’s everyday lives to mere illusion, and promising them some higher reality, if only they follow your teachings, is a formula used not just by Plato and today’s online hustlers like Andrew Tate but by religions, cults, and conspiracy theorists over the ages.
+
+\_\_\_
+
+# Plato and the Birth of Reality
+
+Let’s first look at the historical origins of this appearance/reality distinction. Plato’s own account is found in the allegory of the cave in his book *The Republic*. According to the picture that Plato paints, most people in life are prisoners, stuck deep inside a dark cave, with their arms and legs bound, facing a wall where shadows come and go. The shadows cast on the wall are produced by a fire that’s burning behind the prisoners’ backs, and the wooden and stone objects that are paraded in front of the burning fire. This shadow show is all the prisoners ever know; this is what reality is for them. But some prisoners manage to escape their bonds and leave the cave. As they first exit, the sunlight blinds them, but eventually, their sight adjusts to the light, and they can now see clearly for the first time.
+
+For Plato, it’s philosophy that enables a select few to escape the proverbial cave and see reality for what it truly is. For reality is one of eternal truths that are over and above the contingencies of everyday life, of the constant change and flow of things, of history. And in order to be able to access the truth, you need to unlearn what society teaches you about the good and virtuous, about knowledge and truth.
+
+Downgrading people’s everyday lives to mere illusion, and promising them some higher reality, if only they follow your teachings is a formula used not just by Plato and today’s online hustlers like Andrew Tate but by religions, cults, and conspiracy theorists over the ages. They all call for a denial of the world of everyday experience, the one most of us are familiar with, in favour of a different, more real world that only a select few can access.
+
+\_\_\_
+
+Nietzsche argued that once we get rid of the ‘real world’ as a useful concept, we should also get rid of the concept of an ‘apparent world’.
+
+\_\_\_
+
+# **Nietzsche’s Critique of Reality**
+
+Nietzsche is perhaps the philosopher that has attacked the appearance/reality distinction most directly, both as a discredited philosophical idea, but also as an insidious, life-denying ideology.
+
+In a famous chapter of his book *Twilight of the Idols* entitled “How the ‘True World’ Finally Became a Fable”, Nietzsche offers a history of this notion that there is a deeper reality behind appearances and demonstrates how this idea has been overcome. The short story here is that there is a turning point in Western philosophy with Immanuel Kant, who, while clings on to the idea of there being a reality behind appearances, also claims that humans can never come to know that ultimate reality as we are not cognitively equipped for it. But, Nietzsche argues, if this ‘reality’ is completely unknowable to us, if it is beyond our grasp, of what use could it possibly be to us? Here is the place in the text where Nietzsche makes this move:
+
+*4. The true world — unattainable? At any rate, unattained. And being unattained, also unknown. Consequently, not consoling, redeeming, or obligating: how could something unknown obligate us?*
+
+*(Gray morning. The first yawn of reason. The cockcrow of positivism.)*
+
+*5. The "true" world — an idea which is no longer good for anything, not even obligating — an idea which has become useless and superfluous — consequently, a refuted idea: let us abolish it!*
+
+*(Bright day; breakfast; return of bon sens and cheerfulness; Plato's embarrassed blush; pandemonium of all free spirits.)*
+
+Think back to the contemporary version of Plato’s cave, the Matrix allegory. If we are really living in a computer simulation, we will probably never know, and we almost certainly will never be able to break out of it. If that’s the case, and we are stuck with the world we take to be reality, does it even matter if it’s all just an “appearance”? In fact, Nietzsche argued that once we get rid of the ‘real world’ as a useful concept, we should also get rid of the concept of an ‘apparent world’. The last section of “How the True World Finally Became a Fable” makes that point:
+
+*6. The true world — we have abolished. What world has remained? The apparent one perhaps? But no! With the true world we have also abolished the apparent one.*
+
+*(Noon; moment of the briefest shadow; end of the longest error; high point of humanity;  
+ INCIPIT ZARATHUSTRA.)*
+
+[![related-video-image](https://iai.tv/assets/Uploads/Heaven-on-Earth-resized.webp)
+
+SUGGESTED VIEWING
+Do we still need morality?
+With Jason McKenzie Alexander, Justin Smith, Barry C. Smith, Myriam François](https://iai.tv/video/do-we-still-need-morality)
+
+This is perhaps too highfalutin as an analysis of the ideology of an online influencer like Andrew Tate, just as, for some, postmodernism was not the best account of the ascent of Donald Trump. However, Nietzsche’s critique of the Platonic myth of an ultimate Reality beyond the world of appearances has another element to it, one that speaks more directly to the dangers of Andrew Tate’s ideology.
+
+For Plato, what separated Reality from appearances was time. The True world was one of eternal, unchanging truths, absolute ideals of every concept, whereas the world of experience was a messy, ever-changing, contingent collection of imperfect objects. Nietzsche did not agree:
+
+*“In so far as the senses show becoming, passing away, change, they do not lie… But Heraclitus will always be right in this, that being is an empty fiction. The ‘apparent’ world is the only one: the ‘real’ world has only been lyingly added…”* Twilight of the Idols
+
+This disagreement was not just about metaphysics. What Nietzsche detested in Plato’s account, where eternal Being was valued higher than Becoming, was the underlying moralism of it all. According to Nietzsche, philosophers like Plato see the everyday world of the senses not only as a source of deceit but as a source of moral decadence. They are suspicious of that which changes and idealise that which remains constant. Moreover, this looking down upon the world of the senses leads to a whole other phenomenon, *asceticism*: the sacrifice of the pleasures of the senses in the alter of a true but transcendent reality. Almost all major religions propagate this ascetic ideal, and Nietzsche thinks philosophy, with its obsession about the real and the true, is guilty of it too. And I would argue that underneath Andrew Tate’s online pronouncements runs a similar disdain for a constantly changing world, and along with it an attack on the small pleasures of everyday life in favour of some ideal life people should be aspiring to.
+
+\_\_\_
+
+Tate can’t deal with a constantly changing world in which everything, including traditional gender roles, are in flux, and instead yearns for the eternal, Platonic ideals of 'Man' and 'Woman'.
+
+\_\_\_
+
+The gospel, according to Tate, goes something like this: The government is out to get you, Covid was a lie told to control the population, climate change is a hoax made up so that governments can tax you more, having a job is for losers and “brokies” (sic), and, perhaps the claim that Tate has become most known for, men and women have distinct roles in society and the great illusion of our times, propagated by feminist ideology, is that women can occupy the roles of men.
+
+Tate can’t deal with a constantly changing world in which everything, including traditional gender roles, are in flux, and instead yearns for the eternal, Platonic ideals of Man and Woman. Men for him have to be strong, to protect and provide, whereas women have to be pure, to nurture and to care for their families. Anything that falls short of that is a replica, a bad copy of the archetypal, and thus, less than real.
+
+At the same time, when speaking to the millions that have watched his clips online, Tate suggests that we are all being lied to by the all-powerful about everything from climate change, to Covid, to what is valuable in life. We are all looking at a shadow show on our cave walls, (on our screens), as the media and the government convince us that the false is true and the illusory real. And while that might be a banal, adolescent critique of power, the follow-up is more insidious.
+
+[![20 08 07.anandi.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-08-07.anandi.ata.webp)
+
+SUGGESTED READING
+Is this real life, or The Matrix?
+By Anandi Hattiangadi](https://iai.tv/articles/is-this-real-life-or-the-matrix-auid-1613)
+
+Most people’s lives, in Tate’s eyes, are pitiful, full of false pleasures. Young men waste time playing video games, drinking with friends and working normal jobs when what they should be doing is devoting their time to acquiring strength, status and wealth. Young women, on the other hand, are wasting their youth by going out, having sexual adventures, and developing a career when what they should be doing is staying pure, avoiding any adversities, and finding a high-status mate to have a family with. This dismissal of the pleasures of life of a young person is Tate’s version of the ascetic ideal (not surprising given his own fascination with and respect for religion). And his claim that what is a normal life for the majority of young people in the developed world is in fact some kind of illusion, a trick to control them, is his very own myth of the cave.
+
+Andrew Tate seems to fancy himself as a kind of Nietzschean  Übermensch, a strong, powerful individual that has risen above society’s norms and become the best version of himself. But besides both men being accused of misogyny, there is nothing else the two share in outlook. Asceticism and a love for eternal, idealised archetypes at the expense of the ever-changing and evolving world of the senses would have left Nietzsche distinctly unimpressed.

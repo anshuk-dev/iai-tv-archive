@@ -1,0 +1,37 @@
+---
+title: "Retraction Statement by Robin Dembroff, Rebecca Kukla and Susan Stryker"
+subtitle: "The scholars explain their position against co-platforming"
+author: "Robin Dembroff"
+date: "26th August 2019"
+article_id: "1256"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "607 words"
+read_time: "Read time: approx. 3 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/can-philosophy-help-us-understand-the-transgender-experiences2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/retraction-statement-by-robin-dembroff-rebecca-kukla-and-susan-stryker-auid-1256"
+---
+
+# Retraction Statement by Robin Dembroff, Rebecca Kukla and Susan Stryker
+
+*The scholars explain their position against co-platforming*
+
+**By Robin Dembroff** | *26th August 2019* | *Read time: approx. 3 mins* | *607 words*
+
+![Retraction Statement by Robin Dembroff, Rebecca Kukla and Susan Stryker](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/can-philosophy-help-us-understand-the-transgender-experiences2.webp)
+
+---
+
+We — Robin Dembroff, Rebecca Kukla, and Susan Stryker — were recently invited by the Institute for Art and Ideas to contribute short paragraphs on the IAI website on what philosophy could offer to contemporary understandings of transgender issues. We each accepted the invitation because we are philosophers and/or gender theorists who work on this topic and are committed to public scholarship. Upon publication, we learned that our responses were being presented as part of a “debate” on transgender identities, and we asked that our responses be taken down – a request that generated considerable backlash against us on Twitter and other social media. We appreciate that IAI has honored our request to remove our work, and offered us the opportunity to explain our reasons for retracting our original contributions.
+
+We considered our inclusion in the IAI “debate” to have been a non-consensual co-platforming, for which we sought redress through the retraction of our contributions. We also believe that the reframing of our contributions as part of a debate we did not know we were in, or choose to be part of, changed the force and meaning of our words. We welcome genuine dialogue and mutually respectful exploration of the complex and contentious social realities that characterize contemporary transgender issues. We devote a large part of our working lives to these issues, and we have much at stake in them, personally and politically. We object, however, to any “debate” that questions transgender people’s fundamental legitimacy as people who are entitled to the same respect as any other person. We reject as a starting place presuppositions held by some voices included in the IAI forum that transgender people are by definition mentally ill or delusional, and that respecting transgender people irreparably conflicts with the interests of cisgender women. These presuppositions are uniformed, and fly in the face of evidence as well as years of feminist thought and activism. They preemptively delegitimate transgender people as speaking subjects. We consider the right to occupy spaces in which our basic safety is not at risk to be a right that should not be up for debate. We refuse on principle to engage in any discussion that treats such positions as up for abstract intellectual debate, in the same way that we would refuse to participate in a conversation that debated whether the Holocaust actually happened, or whether corrective rape should be used to cure lesbianism, or whether or not the white race is superior to all others. There are limits to civil and intellectual discourse beyond which speech acts are simply acts of violence.
+
+We believe that the discourse of some invited participants in the original IAI forum goes beyond those limits. We refuse on principle to “co-platform” with those who seek, under the guise of “debate” with us, to persuade an audience that it should partner with them in advocating harm to us. While there are reasonable conversations to be had about the usefulness and ethics of “no-platforming” as a tactic, we each arrived at this position with respect to the present situation independently, after careful deliberation.
+
+As feminists, as philosophical thinkers, and as queer and trans scholars, we hold that how minoritized people live out their embodied difference in the world can offer valuable existential and phenomenological perspectives on ethical, political, ontological, and epistemological questions. We welcome any engagement with our work, or with our lives, that begins from a place of mutual respect and curiosity.
+
+-------------------------------------------------------
+
+IAI TV: The article from which the authors of this retraction statement withdrew their contributions can be found [here](https://iai.tv/articles/how-can-philosophy-help-us-understand-transgender-experiences-auid-1250). A response to this retraction statement from Holly Lawford-Smith, one of the other original contributors, can be found [here](https://iai.tv/articles/gender-identity-vs-gender-norms-auid-1258).

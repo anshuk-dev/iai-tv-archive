@@ -1,0 +1,85 @@
+---
+title: "War is not a game, but we should play it like one"
+subtitle: "Game theory could help to prevent and end wars"
+author: "Frank Zagare"
+date: "11th April 2023"
+article_id: "2448"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,505 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-04-11-War-is-not-a-game-but-we-should-play-it-like-one2.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/war-is-not-a-game-but-we-should-play-it-like-one-frank-zagare-auid-2448"
+---
+
+# War is not a game, but we should play it like one
+
+*Game theory could help to prevent and end wars*
+
+**By Frank Zagare** | *11th April 2023* | *Read time: approx. 8 mins* | *1,505 words*
+
+![War is not a game, but we should play it like one](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-04-11-War-is-not-a-game-but-we-should-play-it-like-one2.dc.webp)
+
+---
+
+*In one sense, war most certainly is not a game. People’s lives are at stake. But a branch of mathematical thinking named ‘game theory’ can help us understand relationships between warring states, and how to best navigate them, by treating their interactions as ‘games’. This could help us avoid ever recreating the near human suicide of Mutually Assured Destruction, and could help us find a way out of the Russia-Ukraine war and the tensions between China and the USA, writes Frank Zagare.*
+
+Game theory is the science of interactive decision-making. So, it should not be a surprise that it has influenced military planners and strategic thinkers in both academic and governmental circles across the globe. To understand why, first a little background.
+
+[![Psychology wins wars](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Psychology-wins-wars.webp)
+
+SUGGESTED READING
+Psychology wins wars
+By Jacob Ware](https://iai.tv/articles/psychology-wins-wars-auid-2374)
+
+A game is any interactive situation in which the outcome depends on the choice of at least two individuals or two decision-making units. Games, therefore, can run the gamut from lighthearted diversions such as a board game to very serious interactions up to and including war. The current relationship between the United States and China, for example, can be thought of as a game. But so can less contentious relationships such as those that exist among some members of the European community.
+
+The participants in a game are called “players.” The players are assumed to be “rational.” This assumption is widely misunderstood. In game theory a rational player is simply a purposeful player. Players in a game can have just about any goal including those that a game theorist might consider fanciful, misguided, or immoral. The assumption that state actors and their leaders have goals is a common, yet usually unstated, assumption among defense intellectuals.
+
+What can the mathematical theory of games tell us about the great issues of foreign affairs? Game theory is a tool and like any other tool it can be used wisely or misused. That said, certain fundamental insights can be gleaned from the corpus of game theory. Perhaps the most pertinent is that rational players do not always fare well. It is sometimes the case that two rational players may, collectively, do worse than two players who make choices that are individually “irrational.” In other words, players in a game can fall into a rationality trap. A good example is when two states get involved in a costly arms race that leaves both sides worse off than they would be if they both decided not to compete. The naval competition between Germany and Great Britain just prior to World War I is a case in point.
+
+\_\_\_
+
+So-called 'nice' players who cooperate unconditionally are usually taken advantage of. But 'meanies' who never cooperate also do not generally do well
+
+\_\_\_
+
+A variety of game theoretic methodologies suggests that this trap can best be avoided when all of the players use a “tit-for-tat” strategy that reciprocates cooperation with cooperation, and non-cooperation with non-cooperation. So-called ‘nice” players who cooperate unconditionally are usually taken advantage of. But “meanies” who never cooperate also do not generally do well. The problem that hasn’t yet been solved is how to escape the trap once players fall into it. It is clear, however, that if, for whatever reason, one of the players signals a willingness to cooperate, all the players will benefit if the signal is reciprocated. Unfortunately, neither Beijing nor Washington currently seems inclined to help the other out.
+
+Making matters worse, there is yet another trap in which rational players figuratively throw good money after bad. Once significant resources have been invested in a conflict and these costs are sunk, players may have a strong incentive to escalate a low-level conflict. The US involvement in Vietnam is a good example as might well be the case with Russia in Ukraine today. If the current thinking in Moscow is that the only path forward is to try to outlast the Ukrainians, because backing off is believed to be too costly, either domestically or internationally, then the trap may be inescapable.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-West-in-danger.dc.webp)
+
+SUGGESTED VIEWING
+The West in danger
+With Nigel Inkster, Tulip Siddiq, Theodore Dalrymple, Myriam François](https://iai.tv/video/the-world-in-jeopardy)
+
+Of course, the key question right now is how can these intense conflicts be avoided in the first place? Almost as important is how an escalatory dynamic can be stopped once a low-level conflict breaks out? Game theorists do not speak with a single voice on these questions, so I will have to draw on my own work for an answer. One thing that is clear to me is that there is no surefire way to avoid a war, and that includes a nuclear war. During the Cold War it was the conventional wisdom that an all-out war between the United States and the Soviet Union was all-but precluded. The key to this strategic nirvana was a carefully calibrated balance of strategic weapons and the high costs associated with nuclear conflict. The policy that was credited with bringing this state of affairs about was labeled Mutual Assured Destruction, or MAD. Each side could threaten to obliterate the other once it was attacked. Based on this logic some strategic thinkers even argued for the selective proliferation of nuclear weapons, to Iran for example, in order to stabilize the relationship between otherwise hostile states. Others argued that Ukraine was misguided to have surrendered its nuclear arsenal in 1994.
+
+However, the theory underlying this policy, sometimes called classical (or rational) deterrence theory, does not pass the test of strict logic. It assumes, simultaneously, that the players are both rational and irrational: rational when they are being deterred and irrational when they are deterring. Bernard Brodie, considered by many to be the seminal deterrence theorist, put it this way: “For the sake of deterrence before hostilities, the enemy must expect us to be vindictive and irrational if he attacks us.” The noted game theorist, Thomas Schelling, who was the recipient of the 2005 Nobel Prize in economics, also argued that nuclear deterrence only worked if an aggressor was convinced that its opponent would retaliate—irrationally. As he wrote so succinctly: “another paradox of deterrence is that it does not always help to be, or to be believed to be, fully rational, cool headed, and in control of one’s country.” In other words, it was rational to be irrational.
+
+Logically inconsistent theories are prima facie seductive, yet fatally flawed. They invite theorists with a point of view to draw almost any conclusion, including its exact opposite, depending on the analyst’s policy preferences. So, it is unsurprising that other classical deterrence theorists oppose disseminating nuclear weapons to Iran or to any other state actor including Ukraine.
+
+\_\_\_
+
+The players are assumed to be “rational.” This assumption is widely misunderstood. In game theory a rational player is simply a purposeful player
+
+\_\_\_
+
+To overcome the logical inconsistency of the standard theory, I have constructed an alternative specification that insists that the players are rational (or purposeful) at all times. (For technical reasons understandable only by those who are familiar with game theory, I call it Perfect Deterrence Theory. No claim is made that the theory itself is perfect.)
+
+In this alternative specification there are certain conditions under which wars cannot be avoided. For example, it is possible that Russia *may* still have invaded Ukraine even if the Ukrainians had not given up their nuclear capability once the Soviet Union broke up. Low level conflicts are very difficult to deter, as are situations where one state seeks to deter an attack on an ally. Worse still is the propensity of these conflicts to escalate. Sunk costs may play a role here. But so may uncertainty about the extent of resistance, if any. Risk taking leaders are the most dangerous.
+
+The policy implications of the theory I have constructed are significantly different than those of the standard theory. For example, the theory opposes both an “overkill” capability and proliferation policies; as well, it supports significant arms reductions and minimum deterrence deployment policies. Finally, instead of hard-line coercive negotiating stances based on increasing an opponent’s conflict costs and/or inflexible bargaining tactics, it recommends a conditionally cooperative diplomatic approach based on reciprocity.
+
+[![war crimes](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/war-crimes.webp)
+
+SUGGESTED READING
+Prosecuting war crimes is not the answer
+By Samuel Moyn](https://iai.tv/articles/prosecuting-war-crimes-is-not-the-answer-auid-2116)
+
+However, not all game theorists agree. But the strength of using a game model to understand human behavior, at the interpersonal, the inter-group, or the inter-state level is that, unlike loosely stated arguments that favor or oppose a particular policy recommendation, the logical structure of a game model is transparent. Thus, two competing models can easily be counterpoised, revealing in the process the assumptions that give rise to the differences.  In other words, game models facilitate the assessment of logical consistency, minimize the probability of its absence, and encourage counterfactual reasoning, allowing for contingent theorizing, *inter alia.*
+
+To summarize: game-theoretic models have been widely used in both governmental and academic circles to gain insight into interstate relationships. But like any methodology, it is not without limitations. The outward appearance of a game model may suggest intellectual rigor. Appearances, however, may be deceiving. It is up to the consumer of a game model to subject these models to intense scrutiny. In addition to the strategic insights they provide and the policy prescriptions they recommend, the great appeal of these models is that they greatly facilitate microscopic examination of an argument’s underlying logic.

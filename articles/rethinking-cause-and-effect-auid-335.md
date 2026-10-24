@@ -1,0 +1,121 @@
+---
+title: "Rethinking Cause and Effect"
+subtitle: "An interview with James Ladyman"
+author: "James Ladyman"
+date: "22nd March 2014"
+article_id: "335"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,429 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/James-Ladyman.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rethinking-cause-and-effect-auid-335"
+---
+
+# Rethinking Cause and Effect
+
+*An interview with James Ladyman*
+
+**By James Ladyman** | *22nd March 2014* | *Read time: approx. 7 mins* | *1,429 words*
+
+![Rethinking Cause and Effect](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/James-Ladyman.webp)
+
+---
+
+*James Ladyman is Professor of Philosophy at the University of Bristol. His work has predominately focused on the philosophy of science and mathematics. He is co-editor of the collection* Arguing About Science*, an introduction to the essential topics in the philosophy of science.*
+
+**What do we mean by “cause and effect”?**
+
+Well, that's very contentious. I'm not quite sure how to answer that. I think, traditionally, a cause is thought to be a sufficient condition for an effect, but that’s if the cause definitely happened.
+
+That's not what people tend to think now. They tend to think there are various causal factors; causation might be probabilistic, it might be all or nothing. I think cause and effect has been blown wide open as science has changed. For one thing, there are all sorts of diverse uses of cause and effect. Adaptation being caused by natural selection, for example, is the kind of causation that can only happen at population level.
+
+But people might say, "smoking causes cancer”. They might be largely talking about population level effect, even though they also think that for any given individual there's a singular causal story. Someone might therefore smoke and have cancer without smoking being the cause.
+
+**So it's a little different to the traditional picture of an almost mechanistic idea of “cause and effect”?**
+
+All or nothing, you know.
+
+**How has quantum mechanics challenged our understanding of cause and effect?**
+
+By suggesting that there may not be determinants. So it’s made us think that the world might be fundamentally probabilistic. I’m not saying that’s right, but that’s certainly what it’s made us worry about.
+
+**Do you think that something like quantum field theory has changed the idea of forces, and whether there's something perhaps more fundamental driving the universe?**
+
+Well, sure, that may well be true. But I don't think our understanding of cause and effect is particularly exhausted by forces. In the idea of smoking causing cancer, for example, you're not talking about forces. You might be talking about, I don't know, if someone causes someone else’s death by dangerous driving, for example, it's not really to do with fundamental physics or anything. It's just an idea of causation, like the cause necessitated the effect. It made it happen. It brought it about.
+
+**If the reality of time is essential to the idea of cause and effect, do you personally think that time is real?**
+
+Yes, but that doesn't mean I think it's fundamental. That's a different question. So I think the mind is real, but it might not be fundamental to reality.
+
+**So might time be an emergent property?**
+
+It might be.  
+  
+**And do you have any suggestions as to where it is?**
+
+I think that's a matter for physics, but there are research programmes in physics that make time and space emergent. And I'm open-minded as to whether or not they work or not. They might or they might not. I don’t know.
+
+I think we're going to have to think that time is real, even if it's emergent. But eventually it depends what you mean by the “reality of time”. Do you mean a temporal structure to events, or the present, and the flow of time and all that kind of stuff? Because that, I think, is probably not just emergent but also subjective, making it a product of our consciousness.  
+  
+**So the flow of time being the product of our consciousness? Where do you see special relativity fitting into those two different breakdowns?**  
+  
+ I think special relatively undermines the idea and that there's a meaning to “now” that is universal and absolute.
+
+**And then, so whether or not time exists on a fundamental level isn't something that is significant to how we understand cause and effect?**
+
+Maybe not, if cause and effect is emergent as well.  
+  
+**Okay**.  
+  
+ There are two choices then. Either you say that we generalise the idea of cause and effect so it's not temporal, or we say cause and effect is always temporal, and then it's emergent. There may be something related to cause and effect – whether you want to call it “cause and effect” might just be a semantic issue – which you might call “relationships”, more what Bertrand Russell talked about, laws that relate to physical properties. Not necessarily in a dynamic or temporal way.
+
+**If that were the case, and we need not necessarily separate cause and effect by temporal relations, do you then think that the way that most science approaches cause and effect, by being temporally separated, is detrimental to progress or understanding?**
+
+No, I don't think so. It’s like wondering whether it's detrimental to psychology to talk about the mind if the mind is emergent. Most scientists study emergent structures, like geology or chemistry.
+
+**How does time symmetry at the microscopic level becomes broken at the macroscopic level, do you think?**
+
+Very good question. I don't know. The standard explanation in physics is that there's an initial state of the universe that's very special.
+
+**With low entropy?**
+
+Yes, and that provides the temporary asymmetric Second Law.  
+  
+**Is that in some way unsatisfying? Because often cherry-picked initial conditions aren't all that satisfying without looking to understand the laws of physics.**
+
+I think that might be right. I don't really know. I mean I think you could say that, and then you could also say that we have to take the universe as we find it. In a sense, I don't know if we're cherry-picking the initial conditions; we're just saying that, given the way the world is, that must be what the initial conditions were like. But I think it remains a very interesting question.
+
+**Are there any other interesting theories or explanations that you've heard that you think might hold some sway?**  
+  
+ Well, the theory of decoherence in quantum mechanics seems to give rise to asymmetry and time as an emergent phenomenon. I think that's all very interesting. So, yes, I think there are other possibilities.
+
+**Does the symmetry and time that we experience at this microscopic level mean that the future already exists somewhere?**  
+  
+ Well, I don't think that makes any sense if they exist somewhere; you’d have to say “somewhen”. But I don’t really think that has anything to do with symmetry. We have asymmetry in time…but if I have an asymmetry in space, I don't think that only that existence moves along the asymmetry. I just have an asymmetry. I don't have an asymmetry in time. I don't have to think that goes with the moving present or anything.
+
+So I think it's a slightly orthogonal issue, whether or not our laws of physics of time are symmetric. I don't think the idea that only the present exists makes a lot of sense either way.
+
+**And then, with regards to the question of mental causation…**
+
+That’s a deep question, the problem of mental causation, and one which a lot of philosophers worry about. I think the only thing one can say about that is that maybe the problem in principle is the same for any causation that isn't at the fundamental physical level. So, the causation of the clouds causing it to rain or low-pressure systems causing a storm isn't a fundamental physical description.
+
+How exactly we have to stand higher level entities in processes emerging is a big deep problem that I don't have ideas about, but I think it's a really big, deep open question to think about, but a genuine puzzle.
+
+**And yet I know some people like George Ellis, for example, have been working on this idea of emergent structures having top-down causation.**  
+  
+ Yeah, I don't buy that at all. We just have lots of evidence for the causal closure of the physical. It's not like we believe it because of prejudice. People in the nineteenth century did experiments and found they didn't need to posit additional kinds of forces, and that there's a kind of balance of energy in and energy out at the physical level, even in living processes. So I don't think that's the right way to go at all.
+
+**Are there any other issues within cause and effect that you think are of importance?**   
+  
+ Well, there might be some reason for thinking that there's retrocausality. It's not obviously completely crazy.
+
+**And what's the evidence for that, or where are you looking?**
+
+Subtle phenomena in quantum mechanics. I'm not saying that there is, but there might be. I think that the idea of law-like connections might be more fundamental in the idea of cause and effect. Cause and effect might well be emergent.  
+  
+**So that’s going back to Russell?**  
+  
+ Yes. Well, no. He denied it existed at all. He denied it was useful to talk about it at all. I certainly wouldn't say that.

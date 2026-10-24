@@ -1,0 +1,57 @@
+---
+title: "Return of the Living Dead"
+subtitle: "Slavoj Žižek examines humanity's fascination with the living dead"
+author: "Slavoj Žižek"
+date: "Issue 82, 28th October 2019"
+article_id: "1261"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,055 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/zizek-final.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/return-of-the-living-dead-slavoj-zizek-auid-1261"
+---
+
+# Return of the Living Dead
+
+*Slavoj Žižek examines humanity's fascination with the living dead*
+
+**By Slavoj Žižek** | *Issue 82, 28th October 2019* | *Read time: approx. 5 mins* | *1,055 words*
+
+![Return of the Living Dead](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/zizek-final.webp)
+
+---
+
+Let us begin with Antigone who, according to Lacan, irradiates a sublime beauty from the very moment  she enters the domain between two deaths, between her symbolic and her actual death. What  characterizes her innermost posture is precisely her insistence on a certain unconditional demand on which she is not prepared to give way: a proper burial for her brother. It is the same with the ghost of Hamlet's father, who returns from his grave with the demand that Hamlet revenge his infamous death. This connection between drive as an unconditional demand and the domain between the two deaths is also visible in popular culture.   
+  
+ In the film The Terminator, Arnold Schwarzenegger plays a cyborg who returns to contemporary Los Angeles from the future, with the intention of killing the mother of a future leader. The horror of this figure consists precisely in the fact that it functions as a programmed automaton who, even when all that remains of him is a metallic, legless skeleton, persists in his demand and pursues his victim with no trace of compromise or hesitation. The terminator is the embodiment of the drive, devoid of desire. In two other films, we encounter two versions of the same motive, one comical, the other pathetic-tragic.   
+  
+ In George Romero's omnibus Creepshow (screenplay by Stephen King), a family is gathered around the dinner table to celebrate the anniversary of their father's death. Years earlier, his sister had killed him at his birthday party by hitting him on the head in response to his endlessly repeated demand, "Daddy wants his cake!" Suddenly, a strange noise is heard from the family cemetery behind the house; the dead father climbs from his grave, kills his murderous sister, cuts off the head of his wife, puts it on the tray, smears it with cream, decorates it with candles and mumbles contentedly: "Daddy got his cake!"—a demand that has persisted beyond the grave until satisfied. The cult film Robocop, a futuristic story about a policeman shot to death and then revived after all parts of his body have been replaced by artificial substitutes, introduces a more tragic note: the hero who finds himself literally "between two deaths"—clinically dead and at the same time provided with a new, mechanical body—starts to remember fragments of his previous, "human" life and thus undergoes a process of resubjectivation, changing gradually back from pure incarnated drive to a being of desire.  
+  
+ The ease with which examples from popular culture can be found should come as no surprise: if there is a phenomenon that fully deserves to be called the "fundamental fantasy of contemporary mass culture," it is this fantasy of the return of the living dead: the fantasy of a person who does not want to stay dead but returns again and again to pose a threat to the living. The unattained archetype of a long series—from the psychotic killer in Halloween to Jason in Friday the Thirteenth—is still George Romero's The Night of the Living Dead, where the "undead" are not portrayed as embodiments of pure evil, of a simple drive to kill or revenge, but as sufferers, pursuing their victims with an awkward persistence, colored by a kind of infinite sadness (as in Werner Herzog's Nosferatu, in which the vampire is not a simple machinery of evil with a cynical smile on his lips, but a melancholic sufferer longing for salvation).   
+  
+ Apropos of this phenomenon, let us then ask a naive and elementary question: why do the dead return? The answer offered by Lacan is the same as that found in popular culture: because they were not properly, buried, i.e., because something went wrong with their obsequies. The return of the dead is sign of a disturbance in the symbolic rite, in the process of symbolization; the dead return as collectors  of some unpaid symbolic debt. This is the basic lesson drawn by Lacan from Antigone and Hamlet. The plots of both plays involve improper funeral rites, and the "living dead"—Antigone and the ghost of Hamlet's father—return to settle symbolic accounts. The return of the living dead, then, materializes a certain symbolic debt persisting beyond physical expiration.
+
+It is commonplace to state that symbolization as such equates to symbolic murder: when we speak about a thing, we suspend, place in parentheses, its reality. It is precisely for this reason that the funeral rite exemplifies symbolization at its purest: through it, the dead are inscribed in the text of symbolic tradition, they are assured that, in spite of their death, they will "continue to live" in the memory of the community. The "return of the living dead" is, on the other hand, the reverse of the proper funeral rite. While the latter implies a certain reconciliation, an acceptance of loss, the return of the dead signifies that they cannot find their proper place in the text of tradition.   
+  
+ The two great traumatic events of the holocaust and the gulag are, of course, exemplary cases of the return of the dead in the twentieth century. The shadows of their victims will continue to chase us as "living dead" until we give them a decent burial, until we integrate the trauma of their death into our historical memory. The same may be said of the "primordial crime" that founded history itself, the murder of the ''primal father" (re)constructed by Freud in Totem and Taboo: the murder of the father is integrated into the symbolic universe insofar as the dead father begins to reign as the symbolic agency of the Name-of-the-Father. This transformation, this integration, however, is never brought about without remainder; there is always a certainleftover that returns in the form of the obscene and revengeful figure of the Father-of-Enjoyment, of this figure split between cruel revenge and crazy laughter, as, for example, the famous Freddie from Nightmare on Elm Street.
+
+---
+
+ This article is an extract from Slavoj Žižek's book '[*Looking Awry:  An Introduction to Jacques Lacan hrough Popular Culture*' published by MIT Press (1991)](https://mitpress.mit.edu/books/looking-awry "Looking Awry - Slavoj Zizek - MIT Press") and reproduced here with kind permission from the author. and publisher.
+
+**Read more** from our **Halloween Issue**:
+
+[The Dark Side – Stephen de Wijze](https://iai.tv/articles/the-dark-side-auid-1263)
+
+[The Metaphysics of Horror – David Livingstone Smith](https://iai.tv/articles/the-metaphysics-of-horror-auid-1262)
+
+[The Search for Extraterrrestrial Life - Lynn J. Rothschild](https://iai.tv/articles/the-search-for-extraterrestrial-life-auid-1264)
+
+[Dressed To Kill - Shahidha Bari](https://iai.tv/articles/dressed-to-kill-auid-1265)
+
+[Rest In Peace - Diane Purkiss](https://iai.tv/articles/rest-in-peace-auid-1266)
+
+[Why We Should Care About Our Corpses - Thomas Laqueur](https://iai.tv/articles/why-we-should-care-about-our-corpse-auid-1270)

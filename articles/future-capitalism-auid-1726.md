@@ -1,0 +1,51 @@
+---
+title: "Future Capitalism"
+subtitle: "The free market's bright future"
+author: "Paul Collier"
+date: "Issue 94, 8th January 2021"
+article_id: "1726"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,111 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Future-capitalism-NEW.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/future-capitalism-auid-1726"
+---
+
+# Future Capitalism
+
+*The free market's bright future*
+
+**By Paul Collier** | *Issue 94, 8th January 2021* | *Read time: approx. 6 mins* | *1,111 words*
+
+![Future Capitalism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Future-capitalism-NEW.webp)
+
+---
+
+*Contrary to the views of Marxist activists such as [Joti Brar,](https://iai.tv/articles/capitalism-now-auid-1727) Capitalism is changing for the good. The ugly, greedy version of this system is giving way to a new, communitarian capitalism argues Paul Collier.*
+
+Over the past 40 years, capitalism has derailed, degenerating into greed. Fortunately, the ideas that drove that derailment are at last being discredited. We are living at the turning of the tide - a moment of intellectual inflection as the mantras of individualism are being displaced.
+
+They are being replaced by a recognition of the value of community. The Tyranny of Merit, (2020), by Michael Sandel, the world’s foremost moral philosopher, introduces the concept of ‘contributive justice’ – linking fairness to the mutuality of obligations. The Upswing (2020), by Robert Putnam, the world’s foremost sociologist, links the rise of communitarian thinking during the first have of the 20th Century to increasing mass prosperity and greater social harmony. He traces the rise of greed to the individualistic cultural revolution of the late 1960s. Reimagining Capitalism in a World on Fire, (2020), by Rebecca Henderson, the top professor at Harvard Business School, is a clarion call for a capitalism based on purposes that contribute to society, not profits at the expense of society. These profoundly important works are complemented by the advances in evolutionary biology pioneered by researchers such as Joe Henrich at Harvard and Nicolas Christakis at Yale.
+
+Accelerated by COVID, aggressive demands for ‘my rights’ are beginning to give way to acceptance of ‘our obligations to each other.’ Ideas take time to filter through into a changed reality, but as Keynes said, ‘the world is ruled by little else’. As the ideas that underpinned greed wither, capitalism will be reformed: we are currently living through Peak Greed. This is what John Kay and I mean in our new and hopeful book Greed is Dead.
+
+We are living at the turning of the tide - a moment of intellectual inflection as the mantras of individualism are being displaced.
+
+We may need a new term to describe a reformed capitalism, but we certainly need the blend of decentralised decision-taking, competition and cooperation that are its best features. The highly centralised decision-taking intrinsic to socialism has been tried in many societies and has invariably failed spectacularly. Its current manifestation in Venezuela has produced the world’s most severe refugee crisis. The alternative extreme, - Silicon Valley’s libertarian dogma of untrammelled individual rights, - is exemplified by response of American society to COVID - queues outside gun-shops.
+
+A socially purpose capitalism is not an oxymoron, it is how business can transform life for the better. In the 19th Century, socially purposive business was exemplified by Titus Salt of Bradford and Joseph Rowntree of York, inventors and businessmen who pioneered philanthropy. In the first decades of the 20th Century, local business was instrumental in founding many or our provincial universities, such as Jesse Boot in Nottingham. We are about to be rescued from COVID by an alliance between a university and a business. Oxford’s success is because it has considerable independence from Whitehall, and even within the University decisions are highly decentralised. Its partner, AstraZeneca has risen to social purpose, committing to provide the vaccine at cost to developing countries.
+
+[Michael Sandel exposes the hubris of meritocracy](https://iai.tv/video/in-conversation-michael-sandel "Watch more videos on iaitv")
+
+The problem is not capitalism but its distortion by bad ideas taught in business schools, and the growing dominance of finance. From the 1970s, business schools taught their MBA students to focus only on profit: by the 1990s those students were running companies. For example, ICI, in my youth the most revered British company, changed its mission statement from that of being a world-class chemical company that contributed to society, to ‘maximising shareholder value’. Similarly, bankers and asset managers started to focus on quarterly profits. Fancy lawyers helped company executives and financiers to plunder the assets out of businesses without being jailed. Far from delivering better economic performance, these changes coincided with a deceleration of productivity. As for ICI, it no longer exists. But the new approach rewarded the participants handsomely: the earnings of chief executives, bankers and lawyers rose spectacularly, paid by the rest of us.
+
+We need a financial sector, but not the one we have got. The post-COVID recovery will depend upon innovative small firms creating productive jobs. We need a venture capital industry that finances investment in the minority of small firms with good opportunities. Increasingly, these will come from collaboration with research in university departments of science and technology, at which Britain excels. Sorting these genuine opportunities from the scams and fantasies is why experienced financiers are crucial – this is the engine of capitalism that cannot be left to civil servants. This is already working brilliantly in Oxbridge, where most of the financiers studied, but we need it to work where jobs are most needed – in our regions. Finance used to be decentralised around the regions, but early in the 20th Century the Bank of England centralised it in London. Unsurprisingly, two-thirds of the venture capital for small firms now goes to the South East. It’s not just the civil servants who need to be relocated out of London, but the financiers.
+
+The problem is not capitalism but its distortion by bad ideas taught in business schools, and the growing dominance of finance
+
+Many of the recent problems of capitalism are confined to Britain and the USA where bad ideas and big finance took root. In Scandinavia, Switzerland and Germany the norms of business are more pro-social. They expect to contribute to their local communities, for example by devote substantial resources to training of local youth. These healthier norms are belatedly being readopted in the Anglo-Saxon world. In 2019 the American Business Forum, - the CEOs of major American companies, - publicly retracted the statement that had stood on their website for 30 years – namely, that the purpose of business is to maximize shareholder value. In its place, they committed to more pro-social purposes – their workers, their local communities, their customers, and their suppliers. Shareholders came in last, and then only in relation to long-term value.
+
+Of course, some of this is public relations rather than real change. But lying to the public is a dangerous game because employees can detect it, and blow the whistle. As the new communitarian ideas gradually displace greedy individualism, Ill-motivated companies will struggle to recruit, retain, and silence the decent young people they need if they are to function effectively. That shift in thinking among youth will drive change in Britain’s businesses. But for it to happen, it is vital that bright, well-motivated young people recognize that capitalism at its best offers far more socially purposive opportunities than either NGOs or Whitehall.

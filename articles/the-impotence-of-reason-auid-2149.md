@@ -1,0 +1,93 @@
+---
+title: "The impotence of reason"
+subtitle: "Entangled Empathy as a Motivator for Change"
+author: "Lori Gruen"
+date: "8th June 2022"
+article_id: "2149"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,221 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reasons-impotence.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-impotence-of-reason-auid-2149"
+---
+
+# The impotence of reason
+
+*Entangled Empathy as a Motivator for Change*
+
+**By Lori Gruen** | *8th June 2022* | *Read time: approx. 11 mins* | *2,221 words*
+
+![The impotence of reason](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reasons-impotence.webp)
+
+---
+
+*Many of us recognize the serious ethical problems confronting us, and want to change the world towards the better. So why do so few of us go on to do so, even when we are convinced that we should? At least since Plato philosophers have argued over the power of reason to bring about change. But abstract reason on its own, it turns out, is unable to motivate us. Simply knowing what the right thing to do is, isn’t enough. It’s only when our emotions, when our empathy, become engaged that we feel the pull of our reasoning, argues Lori Gruen.*
+
+The world is a far from perfect place. There are so many problems confronting us – wars, poverty, injustice, racism, climate change. And it’s not just humans who are facing such devastation. Animals are being killed  by the trillions, annually, in industrial food systems and are perishing in their dwindling and increasingly polluted habitats.  Many of us want to change the world for the better, make a difference, but only a few actually go on to do so. Why is that?
+
+Philosophers at least as far back as Plato have focused on ethical questions and wondered about the best ways to bring about change.  Yet even when a theory for ethical social change emerges, not much action results.  Of course, there are many reasons why people don’t act – political, material, and ideological forces can create an array of obstacles to action.  But there also appears to be a problem of motivation. As we are facing global suffering and tragedy as never before, people are unmoved to act. Part of this reluctance may stem from the abstract nature of ethical theorizing and the way such theorizing arrives at apparent solutions.
+
+\_\_\_
+
+## Ethical arguments should both tell us what to do and move us to do it.
+
+\_\_\_
+
+# Arguments from reason alone
+
+Consider arguments against factory farming. These arguments made by philosophers in the 1970s and 1980s, were designed to bring attention to the violent conditions that chickens, turkeys, ducks, lambs, cows, and pigs experience before they are slaughtered in the billions in industrial agricultural production.  They urged a change in eating habits.  Philosophers Tom Regan and Peter Singer were early pioneers of these arguments in animal ethics, arguments that maintain there is no morally relevant distinction between human and non-human animals that can justify humans raising and slaughtering non-humans for food. Regan argued that both humans and non-humans are individually experiencing subjects-of-a-life whose lives matter to them regardless of what others might think. Regan argues that subjects-of-a-life,
+
+want and prefer things, believe and feel things, recall and expect things. And all these dimensions of our life, including our pleasure and our pain, our enjoyment and suffering, our satisfaction and frustration, our continued existence or our untimely death—all make a difference to the quality of our life as lived, as experienced, by us as individuals. As the same is true of . . . animals . . . they too must be viewed as the experiencing subjects of a life, with inherent value of their own. (Tom Regan, “The Case for Animal Rights,” in *In Defense of Animals,* ed. Peter Singer (New York: Blackwell, 1985), 22.)
+
+For Singer, because animals used for food are beings that can suffer, we are no more justified in causing them to suffer than we are causing suffering to any being who can suffer, all else being equal. To confine, control, manipulate, transport, and ultimate slaughter animals for food in contexts in which there are other foods available is to disregard their suffering just because they are animals. By reasoning about the capacities that matter morally, being a subject-of-a-life in Regan’s case or being an individual who can suffer in Singer’s case, and by documenting the ways that modern first-world food production disrespects animals, violates their rights or interests, and harms them before they die, both types of arguments lead to the conclusion that we should forgo consumption of factory farmed animal products.
+
+\_\_\_
+
+## The problem is that our knowing or believing what the right thing is, does not grip us or move us to action.
+
+\_\_\_
+
+Both Regan and Singer are explicit in claiming that their arguments stand on reason alone, not requiring appeals to emotion.  They have drawn on familiar normative theories, deontological ones in the case of Regan and consequentialist ones in the case of Singer, and these theories should motivate us to act and point us toward less violent, more compassionate behavior.  Unfortunately, the consumption of animals has drastically increased in the time since they initially presented their arguments – estimates suggests that demand for animal products has more than doubled since the 1980s.  Given that more and more is known about the devastating impacts of industrial animal agriculture in terms of green-house gas emissions, land and water pollution, human health, and the enormous suffering animals experience, why haven’t these classic arguments had more impact?
+
+Ethical arguments should both tell us what to do and move us to do it.  Ethics should both direct and motivate our behavior.  Insofar as it is directive, ethics helps us formulate beliefs about what the right thing to do is and it does this by helping us describe, interpret and identify morally salient features of the world.  Insofar as it motivates, ethical claims take us from our desires and values to action in the world.  The problem is that our knowing or believing what the right thing is, does not grip us or move us to action.  And desiring that the world be a certain way, doesn't help us assess the accuracy or legitimacy of our ethical beliefs.  Believing and desiring are two distinct mental states that pull in opposite directions.  On the view that ethical theory is directive, we understand ethical judgements as taking us from the state of the world and then shaping our beliefs.  Our ethical beliefs are then put to work in arguments that work to persuade others to do the right thing.  But right belief does not guarantee right action. On the view that ethical theory is motivating, we start not outside ourselves with data from the world or analytic, transcendental truths, but rather within.  Ethical claims stem from our desires and preferences about how the world should or could be and that is what moves us to act.  If we accept something like this picture of moral psychology in which beliefs and desires are distinct entities, ethical theories cannot simultaneously tell us what is right and move us to do it.  Traditionally, ethical theory has tacitly or explicitly accepted this picture of moral psychology and has viewed the role of theory as ultimately concerned with systematizing beliefs in order for us to use those beliefs to guide action.
+
+This standard way of seeing ethical argumentation, like the arguments against eating animal products, reveal such argumentation as external constraints on behavior. The ethical requirement works from the outside-in. Even if the arguments attend to the context in which a person may find herself, for example, that she may have nutritional needs that make a vegan diet potentially harmful to her health, the demand does not arise from the agent herself. This distance may be an implicit source of resistance to arguments against consuming factory farmed animals.  Ignoring how we feel, or foregoing emotion in ethical argumentation, is one source of the problem with motivating action.
+
+\_\_\_
+
+## I argue for a view I call “entangled empathy” that is a process that refocuses our ethical and political attention on what we care about – our relationships.
+
+\_\_\_
+
+# Entangled empathy as an alternative
+
+I have proposed an alternative, not focused on external, abstract reasoning, that also is not reducible to what sometimes is derogatorily referred to as “mawkish sentimentality” of the sort J.M. Coetzee’s Elizabeth Costello is often accused of.  I argue for a view I call “entangled empathy” that is a process that refocuses our ethical and political attention on what we care about – our relationships. While most of us care about our own lives and projects, we also care about those we are in relation to. Indeed, it seems that our very understanding of ourselves situates us in those relations. Most of us think about our actions when they impact those with whom we are in relations, and when we are being especially thoughtful we will reflect on our dependencies and our obligations in those relations as well. And our relationships are not only with other humans.
+
+\_\_\_
+
+## Since we are already, inevitably in relationships, it makes sense to work to make them better, more meaningful, and more mutually satisfying.
+
+\_\_\_
+
+Many of us have deep, meaningful relationships with other animals, relationships that can change how we see ourselves and the world. And we are not just in relationships as selves with others, but the self itself is comprised of what Karen Barad calls “intra-actions.” The idea is that there is not an individual that exists prior to and separate from the entangled intra-actions that constitute them. Importantly, the individual that emerges from entanglements is distinctly constituted by particular intra-actions. Understanding and reflecting on our entanglements is part of what it takes to constitute ourselves in relation.
+
+That we are already, necessarily, in these relations should move us toward more conscientious ethical reflection and engagement. Since we exist in relation with other beings, and our perceptions, attitudes, and even our identities, are entangled with them, we have a motivation to reflect on our actions as they impact ourselves, these others, and our relationships.
+
+I think we’ll be motivated to improve on these relationships as we don’t want to be in “bad” or “abusive” ones. I have not yet met someone who endorsed the idea that they are in a bad relationship and want it to stay that way. Since we are already, inevitably in relationships, it makes sense to work to make them better, more meaningful, and more mutually satisfying. Relationships of exploitation or complete instrumentalization, which is how we might characterize the bulk of our relationships with other animals and many other human “outgroups” are precisely the sorts of relationships that should change.
+
+Entangled empathy is one way to engage with others in order to help change our relationships for the better. Entangled empathy integrates a range of thoughts and feelings to try to get an accurate take on a situation of another and figure out what, if anything, we are called upon to do. Once we hone our skills, we can empathetically engage with others with whom we don’t have direct contact as well as groups of unfamiliar individuals. We can extend our empathic attention to more distant others with whom we are in less immediate, but nonetheless entangled, connections.
+
+Human activity has touched virtually every part of the globe, whether directly or indirectly. I often think of orangutans who are critically endangered due to the enormous market for palm oil. In the forests of Indonesia, over 6000 orangutans die each year and over 80% of their habitat has been destroyed. I’ve never met wild orangutans, but I am in relationships with them when I consume palm oil, an ingredient in so many products, including many processed “vegan” products. The palm oil industry is spreading to Africa where dwindling chimpanzee habitats will be endangered further and many other forest-dwelling animals will be threatened. It may not be common to think of one’s relationships to endangered great apes and other animals while shampooing one’s hair or spreading margarine on one’s toast, but entangled empathy encourages us to attend to all of our relationships, intimate or casual, near and far, and work to avoid making these relationships worse.
+
+\_\_\_
+
+## Empathy has gotten a bad reputation because people think of it as a type of knee-jerk reaction that is often misguided or biased. I
+
+\_\_\_
+
+Empathy has gotten a bad reputation because people think of it as a type of knee-jerk reaction that is often misguided or biased. I worry too that people have “feminized” empathy and view it as overly sentimental. Some think about empathy as presumptuous, as people thinking they know how someone else feels or sees the world. That isn’t the empathy I have in mind. Entangled empathy is not merely an emotional reaction – it requires critical attention, practice, and correction. I think it is wise to add a good dose of humility to the process of empathizing and the actions that spring from it too.
+
+Entangled empathy requires work. An entangled empathizer will think through the complicated processes of trying to understand others, human and non-human, in situations of differential social, political, and species based power. These are complex processes in which we may only get a “glimpse” of the other, and in which we are likely to make mistakes. But given that we are entangled in co-constituting relationships, this work to understand is not just something desirable, it is central to our very agency. Our agency is relational in a robust sense, co-constituted by our social and material entanglements. Social entanglements often extend beyond the human and far beyond our geographical location. Material entanglements include our socio-economic opportunities and barriers to opportunity, shaped by race and class. They also include our entanglement with the food we have access to, the safety of our physical environments, the animals and humans whose labour and bodies are exploited in what we consume. All of these actions, in part, constitute who we are. We are, in this sense, what we eat. ​

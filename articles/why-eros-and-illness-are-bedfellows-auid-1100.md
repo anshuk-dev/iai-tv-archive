@@ -1,0 +1,89 @@
+---
+title: "Why Eros and Illness Make Good Bedfellows"
+subtitle: "Illness can ignite our strongest lust for life."
+author: "David Morris"
+date: "Issue 67, 22nd June 2018"
+article_id: "1100"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "2,092 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christopher-campbell-30252-unsplash2-small.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-eros-and-illness-are-bedfellows-auid-1100"
+---
+
+# Why Eros and Illness Make Good Bedfellows
+
+*Illness can ignite our strongest lust for life.*
+
+**By David Morris** | *Issue 67, 22nd June 2018* | *Read time: approx. 10 mins* | *2,092 words*
+
+![Why Eros and Illness Make Good Bedfellows](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christopher-campbell-30252-unsplash2-small.webp)
+
+---
+
+“Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick." Susan Sontag, *Illness as Metaphor* (1978)
+
+Eros and illness are abstract terms, with widely differing definitions, but equally undefined and unexpected they broke into my life as anything but abstractions.  I belong to the growing number of family members suddenly thrust into the role of caregivers: spouses, siblings, adult children looking after elderly parents, even (as in AIDS-devastated Africa) exhausted grandparents or overwhelmed teenagers left to care for disease-orphaned children.
+
+Eros is the classical god of desire, and classical writers did not think highly of his love-related activities.  “He ruins mortals and causes them every kind of disaster…”: so Euripides writes. Eros for Greek tragedians is a power that, simply put, can rip your life apart.  The Golden Ass, a late Latin romance, describes Eros (in his Roman form as Cupid) “rampaging through people’s houses at night armed with his torch and arrows, undermining the marriages of all.” Roman and Greek lyric poets see a doubleness inherent in eros—pleasure but also pain, ecstatic self-transcendence but also abject self-betrayal— which Sappho captures in the repeated epithet *bittersweet*.  “Eros is expropriation,” classicist Anne Carson sums up.  “He robs the body of limbs, substance, integrity and leaves the lover, essentially, less.”  Eros could thus make a very bad choice of bedfellow if you fall ill, but it proves equally misguided to jump to a blanket condemnation of erotic desire.
+
+I want to explore the counterintuitive position that Eros is almost always, if invisibly, at the sickbed.  We will make better choices and face better outcomes if we recognise the ambidextrous power of Eros both for good and for ill.
+
+We live in an age of superheroes, as confirmed by the cinematic fantasies we pay good money to see, so Eros (as a defunct but once powerful Greek god) fits right in.  If Marvel Comics is the new matrix of post-postmodern mythology, replacing old-school classical deities with contemporary figures such as Batman and Wolverine, Eros too has been transformed—into the lower-case human internal power that we associate with everything erotic. The currents of human erotic life flow through pop culture like an underground stream, nourishing even the larger-than-life, real-time, human superheroes who appear on screen and onstage, from rock stars and megawatt evangelists and famous athletes to upstart political demagogues.  The erotic life, however, also has its opponents not limited to traditional puritans.  Rich multinational corporations, faceless government bureaucracies, and vast, unseen digital networks reinforce their own hidden power and reaffirm our inverse, relative powerlessness with strategies that deflect or disarm any erotic impulse.  Biomedicine ranks among the everyday hidden superheroes generally opposed to the erotic life that help to define the conflicting tone of modern life.
+
+\_\_\_
+
+"Roman and Greek lyric poets see a doubleness inherent in eros—pleasure but also pain, ecstatic self-transcendence but also abject self-betrayal**.**"
+
+\_\_\_
+
+Biomedicine, if you need a doctor, drug, or surgery in a life-threatening crisis, can almost literally bring you back from the dead, so we rightly honor (even worship) its amazing power, but life-saving gifts represent only its most dramatic achievement.  On our most ordinary days, when we enter the kingdom of illness we fall under the sway of this invisible, monolithic, rational sovereign whose presence we acknowledge even if we choose to resist it.  Resistance—as in homeopathic, alternative, complementary, or integrative medicine—is always a position that affirms its minority status.  Like medieval cathedrals, biomedicine reflects a combined and accumulated human endeavour whose monuments and power dominate the landscape with each gleaming new hospital.  The distinctive superpower that defines biomedicine is not reason (since logical, rational thinking proves basic to almost every modern discipline from computer science to deconstruction) but what British sociologist Nikolas Rose calls its cell-penetrating “molecular vision.”
+
+*What does this science-based sovereign power—this irresistible goliath, Biomedicine, with its cell-penetrating molecular vision—fail to notice or (on principle) choose to ignore*?  My brief response: *human desire*.  Or, in short, *Eros*.
+
+Desire is the forgotten or neglected power—beyond mere erotic doubleness in its complex role as medicine, poison, underground current, and spark of life—that we urgently need to recognise and ultimately to understand as we enter the always difficult kingdom of the ill.  Eros, as a rough synonym for desire, offers a perhaps unfamiliar but relevant term for identifying and discussing the poorly understood force of human desire in its relations to illness and health.  Eros and desire certainly find familiar expression in ancient and modern concepts of romantic love.  It is the plot that launched a thousand books. Two lonely people meet, declare their eternal affection, and (faced with the usual obstacles) either die consumed in tragic, transcendent passion or live, as comedies signal with their happy endings, happily ever after. Even in its unrequited form as lovesickness, romantic love no doubt maintains direct, if tangential, contact with issues of health and illness, but romance is hardly the whole story.
+
+**[![steve taylor pic jpeg](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/steve-taylor-pic-jpeg.webp)
+
+SUGGESTED READING
+The Roots of Anxiety and How to Escape It
+By Steve Taylor](https://iai.tv/articles/the-roots-of-anxiety-and-how-to-escape-it-auid-1065)** Eros resists a clear definition, since clear definitions belong to the realm of reason and logic, but such inherent resistance, luckily does not constitute a fatal flaw, although it creates an obligation that I sketch out the rough boundaries of my usage.  Eros is not a fully knowable quantity—something we can pin down, define, and reconstitute as an object of knowledge; it inhabits shifting relationships, spontaneous actions, and hidden states that desire (often without our knowledge or against our better judgment) draws us into.  Eros and desire are finally less about knowledge than about altered states, unruly impulses, hidden biological forces, charismatic bodies, everyday selves at risk, vertigo and lost control.  My diagram of proliferating erotic relations thus includes a measure of self-parody in stable geometric patterns used to clarify a shifting, uncontainable force.  A better diagram would be three dimensional, spinning nonstop like a pinwheel, and embedded with a kill switch to self-destruct when the formula approaches hazardous clarity.  A simplified birds-eye view cannot avoid local error, like weather maps, but it remains useful here in representing eros as a libidinal energy that suffuses a wide variety of disparate states from empathy to lust.
+
+![Figure 0.1](assets/Uploads/Figure-0.1.png)
+
+The diagram also recognizes that eros remains distinct from energies that circulate entirely *outside* it.  Mindless brutality and rape are as un-erotic as a butcher shop, although my clock-face diagram allows for at least fifty-six additional un-named shades of erotic practice, not all of them pleasant.  One key assertion about eros, however, seems to me as reliable as bedrock.  Eros, whatever it is, is *not* identical with sexual activity.
+
+ “Sexual reproductive activity is common to sexual animals and men,” writes French polymath Georges Bataille in L’érotisme (1957), “but only men appear to have turned their sexual activity into erotic activity.” Bataille does not shy away from exploring violent, perverse, or grotesque episodes when erotic pleasure, sexual passion, and delirium make contact with the dark side.  Its darkest excesses, however, only confirm for Bataille that human erotic life and its inflections of desire encompass what he calls “the inner life” (*la vie intérieure*).  If cruelty can be erotic, so can a sonnet sequence, email innuendos, a certain smile, the sway of bodies, a passing hint of perfume, even a lullaby.  Inner life matters as much as erogenous zones, and the free play of mind offers entirely self-sufficient erotic pleasures, from daydreams to virtual reality.  As Bataille nails down the key point: “Human eroticism differs from animal sexuality precisely in this, that it calls inner lifeinto play.”
+
+How exactly does the inner life of eros play into human illness and health?  Biomedicine, preoccupied with statistical knowledge and molecular vision mostly doesn’t want to ask the question.  The medical journal Heart, for example, shows in a 2018 study that married people are less likely to develop cardiovascular disease or to die from a heart attack than divorced, widowed, or never-married adults.  It shows that unmarried adults are 43 percent more likely to die from heart disease and 55 percent more likely to die from strokes.  Did anyone ask about the erotic dimensions of marriage?  The senior study author replies only that the protective effect afforded by marriage might reflect the influence of ‘financial stability’ and ‘social support’.  Apparently a regular paycheck and a gym membership will count for more than eros in the cardiac health of marriage.  Irony (or perhaps unfairness) aside, let me offer three brief and more positive instances that suggest how eros, whether acknowledged or not, regularly infiltrates the biomedical kingdom of the ill.
+
+\_\_\_
+
+"We flirted, canoodled, talked about sex, and had sex when he was sick because, well, sex wasn’t death. It was the antithesis of death."
+
+\_\_\_
+
+Jennifer Glaser was just twenty-four when her boyfriend was diagnosed with leukemia. “Cancer works very hard to make life unsexy,” she recalls in a brief memoir ("Mortality Can Be a Powerful Aphrodisiac") published in the New York Times in August 2006.  Desire plays an increasingly crucial role in their relationship almost in direct relation to the limits of biomedical knowledge and ineffectiveness of its treatments. “We flirted, canoodled, talked about sex, and had sex when he was sick because, well, sex wasn’t death,” she writes. “It was the antithesis of death.”  Eros, for Freud too, is the antithesis of Thanatos, even though at times (as Keats writes in his “Ode on Melancholy” (1819) death can assert its own erotic attractions.
+
+Anatole Broyard, longtime writer for the *New York Times*, found that his diagnosis with inoperable prostate cancer sparked an elevation of spirit so intense as to resemble the euphoria of falling in love. He calls this response—the opposite of what reason might predict—an *intoxication*.  Indeed, his 1982 account in the New York Times illustrates how the biomedical disdain for eros constitutes not only a special instance of professional denial but also a denial that, as a consequence of biomedical prestige, contaminates the entire culture of illness.  Visitors too, as they arrive to offer consolation, expect to find a patient weighed down with a hopeless medical prognosis.  They are thus startled to encounter Broyard so buoyant and  cheerful that they attribute his irrational elevation to courage.  “But it has nothing to do with courage, at least not for me,” Broyard counters, in what might be his ode to Eros.  "As far as I can tell, it’s a question of desire. I’m filled with desire—to live, to write, to do everything.…  While I’ve always had trouble concentrating, I now feel as concentrated as a diamond or a microchip.”
+
+\_\_\_
+
+"Is it possible to love a person who has lost, through illness, not only the traditional marks of personhood but also any traces of an inner life?"
+
+\_\_\_
+
+My third instance is personal, calling me back to the many years that I stood as primary caregiver for my wife, Ruth, who was stricken with younger-onset Alzheimer's Disease.  Is it possible to love a person who has lost, through illness, not only the traditional marks of personhood but also any traces of an inner life?  Or does the lover simply honor and maintain fidelity to the remembrance of a lost love?  Ruth’s physical and mental changes during her last years were so profound that at times I no longer recognised *her*.  The unfocused, distant look in her eyes and her abrupt, wild laughter actually frightened me.  Eros can take us into unfamiliar, sometimes fearsome spaces.  That is its gift and its curse.
+
+**[![Does diagnosis prove mental illness is real? ](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/pickard.webp)
+
+SUGGESTED READING
+Mental Disorders Are Real, Diagnosis Or Not
+By Hanna Pickard](https://iai.tv/articles/why-do-we-need-a-diagnosis-to-see-mental-disorders-as-real-auid-1067)** But even more than her mental absence, her physical absence shattered my health. The American Association of Retired Persons reports that caregivers are at increased risk for heart disease, arthritis, cancer, diabetes and other stress-related diseases, suffering depression at twice the rate of non-caregivers.  When Ruth no longer recognised me, I at last felt able to put aside my self-appointed caregiver role and accept a professional invitation to speak at a conference in Australia.  One week later I was attached to electrodes in an Australia Emergency Department with a heart attack.  Experiments show that viewing the photo of a romantic partner can *reduce* pain.  I would contend that the physical absence of a beloved spouse, left behind in an Alzheimer’s unit, can also *induce* pain.
+
+My three examples prove nothing, of course, and a skeptic could blame my heart attack on high cholesterol rather than on erotic currents.  Eros does not require ironclad evidence or statistical demonstrations, however, while biomedicine simply ignores evidence that it does not credit and cannot quantify.  The situation resembles almost a military standoff between eros and logos.
+
+My hope is that biomedicine can be persuaded to take eros seriously. Otherwise, patients need to take matters into their own hands and hearts.

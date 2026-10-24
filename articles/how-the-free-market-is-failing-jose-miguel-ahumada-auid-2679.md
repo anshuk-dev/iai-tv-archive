@@ -1,0 +1,169 @@
+---
+title: "How the free market is failing"
+subtitle: "How save markets from eating themselves"
+author: "José Miguel Ahumada"
+date: "24th November 2023"
+article_id: "2679"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "2,781 words"
+read_time: "Read time: approx. 14 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-montsterthing.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-the-free-market-is-failing-jose-miguel-ahumada-auid-2679"
+---
+
+# How the free market is failing
+
+*How save markets from eating themselves*
+
+**By José Miguel Ahumada** | *24th November 2023* | *Read time: approx. 14 mins* | *2,781 words*
+
+![How the free market is failing](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-montsterthing.jpg)
+
+---
+
+*Competition is a panacea to most economists. So surely expanding markets would enable more competition and in turn benefit us all. But reality hasn't lived up to the theory argues José Miguel Ahumada. Far from eliminating these excess profits or 'rent', neoliberalism expands opportunities for rentierism intrinsically, and this force shapes our lives and freedoms.*
+
+I
+
+We tend to think of inequality and precariousness as just a monetary problem that can be solved through redistributing income. While that is part of the solution, that view obscures the fact that is not only personal income the issue at stake, but a general trend of society toward multiplying the areas for rent production and exctraction. Think, for example, of Oriana, an Uber worker. Oriana has to pay between 25% and 30% of the income generated to her digital landlord – in return for this rent, she receives only the right to access work.
+
+\_\_\_
+
+Rents for working, rents for her health, rents for services, rents for debt, and so on.
+
+\_\_\_
+
+When she arrives home, she must pay her private landlord a rent that has been systematically increasing for more than a decade while the quality of her home continues to deteriorate. If she gets sick, Oriana knows that drug prices are exorbitant, due to the increasing patent protections. She also knows that services and goods that were once public access, such as education, health, and recreational spaces, are now privately managed, charging rents for the right to access them. With a salary that has been stagnating for three decades, it is increasingly difficult for her to afford her material life, so she resorts to borrowing money from banks, entering into a relation of quasi-servitude by debt as the interest grows.
+
+Oriana’s central problem here is not only her income, but the multitude of rents she must pay in various areas of her economic and social life: rents for working, rents for her health, rents for services, rents for debt, and so on. This opens up a question that has been addressed by several scholars: how has rent-seeking expanded so widely throughout the economy?
+
+For almost half a century we have been guided by policies focused on liberalising markets, stimulating competition among suppliers, and guaranteeing an economic order that allows prices to just represent the marginal cost of the production of commodities. Indeed, one of the great promises of neoliberalism was, precisely, to be a force that would eliminate any rent in the economy.
+
+How to explain this tension between what the discourse promises and reality? I will argue that it is capitalist competition itself that generates rents in ever-increasing parts of our lives: competition, far from preventing rentiers, helps them to be born. In order to understand how this works, we need to rethink what market competition and rent production mean.
+
+II
+
+The 1980s saw the emergence of a marriage between libertarian philosophical thought and the neoclassical school in [economics](https://academic.oup.com/cje/article/26/5/539/1698491). The neoclassical school was emphatic in pointing out that prices above the market equlibrium corresponded to inefficiency as the producer is being unfairly rewarded for their effort.
+
+\_\_\_
+
+The global strategy of opening markets since the 1980s was viewed as synonymous with reducing these unearned profits, and forcing a productive use of the surplus. If rent is inefficient, and free markets are efficient, then free markets would abolish rents.
+
+\_\_\_
+
+Rent, understood as the gap between the market price and the marginal cost of production, was a dead weight that could only be maintained through barriers and restrictions to competition. Indeed, classic neo-liberal economists, such as Anne Krueger and Jagdish Bhagwati, saw rentierism as the main problem in the 1970s – erected through protectionism, wage increases, state-subsidized monopolies, etc. – and argued that ‘free’ market competition would enable its “de-rentierism” effect. The global strategy of opening markets since the 1980s was viewed as synonymous with reducing these unearned profits, and forcing a productive use of the surplus. If rent is inefficient, and free markets are efficient, then free markets would abolish rents.
+
+However, [recent research](https://www.nber.org/papers/w24768) identified that global markup (a proxy of concentration and rent production) had gone from 1.15 in 1980 to 1.6 in 2016, while market valuation as a proportion of sales went from an average of 0.4 in 1980 to 1.2 in 2016. [In the United States,](https://www.janeeckhout.com/wp-content/uploads/26.pdf) markup went from 21% over marginal cost in 1980 to 61% in 2016, while profit went from 1% to 8%. Companies with high markup have increased their market share, which reinforces the trend towards concentration.
+
+These are surprising results. Indeed, after decades of neoliberalism’s supposed “de-rentier” tendencies, profits have soared to historic levels. This could be because firms are not competing with similar products at different prices, but instead through dramatic innovation that triggers a whole new area of the economy. The old Austrian economist, Joseph Schumpeter, would argue that innovations entitle the entrepreneur to a surplus profit – Schumpeterian rent – that would stimulate the continuous process of "creative destruction".
+
+Schumpeter's argument is coherent and reasonable. However, the current economy is marked not by “creative destruction” but its opposite, stagnation.
+
+[![thumb3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/thumb3.jpg)
+
+SUGGESTED READING
+Adam Smith was a champion of the working classes
+By Alexandra Digby](https://iai.tv/articles/adam-smith-was-a-champion-of-the-working-classes-alexandra-digby-auid-2583)
+
+III
+
+This forces us to rethink the tense relationship between capitalist competition and dynamic economic growth. It is not a new issue for economics – Ricardo and the classical school put a great deal of energy into identifying precisely where these unearned excess profits arise.
+
+While capital and labour were involved in production, the landowner, through the control of a strategic and scarce resource such as land, could obtain rents without participating in the creation of value. Rent was considered a tax that the landlord collects from the producers for the use of the land because she was its owner. Her income, thus seen, derived from the private control of a productive resource (the land) that was given (not created by her effort) and that is, by nature, scarce.
+
+As economic growth and populations rise, there is greater demand for food and therefore for land use, but since the productivity of land is separate (due to differences in fertility or transportation costs) and its availability is given, the owners of the most productive land will be able to charge a higher income for its use, thus appropriating a growing share of the fruits of growth.
+
+The argument is particularly radical in that it identifies a structural contradiction in the way in which ownership of an economically strategic, but scarce, resource is established. While market competition forced the capitalist to invest productively, the landowner could accumulate increasing rents without being forced to invest. Capitalist competition could not eliminate rents because of the primacy it affords property. Furthermore, the more productive the work performed around the asset, the greater the level of rent that can be extracted, perpetuating this parasitic tendency.
+
+[![related-video-image](https://iai.tv/assets/Uploads/capitalism-poverty-progress.webp)
+
+SUGGESTED VIEWING
+Capitalism, Poverty and Progress
+With Deirdre McCloskey](https://iai.tv/video/capitalism-poverty-and-progress)
+
+However, this view of rents limits it to the control of land and continues to assume that rent would be something exogenous to competition itself. But that is exactly where the problem lies. Competition contains internal dynamics that may well be sources of rent creation.
+
+The key point is that capitalist competition is not a static equilibrium, with passive actors adapting to prices around the given marginal cost. On the contrary, it is characterised by its constant transformation, expansion and dynamism. But dynamism around what? Schumpeter provides us with a suggestive answer: economic actors permanently seek profits over the competition. They compete to create monopolistic areas, since this is the source of an exorbitant profit. Few can create them, it is true, and those few will be the successful innovators. But that does not discredit the fact that it is rent-seeking that drives competition. As Schumpeter pointed out, the deep desire of every capitalist is to create a *private dynasty*.
+
+In fact, he suggested that the secret of capitalism's technological dynamism lay in this search for becoming a private dynasty and obtain excess profits. The creation of new products, productive processes and markets, would provide a rent that, by the very force of competition, would gradually dissolve, as imitators transform this novelty into a new normality. Unintuitively, the dream of the capitalist is to free herself from capitalist competition. The rent would be diluted, but the consumer would have access to new goods.
+
+This gives us a clearer picture of what capitalist competition is all about. However, it still does not explain why, despite the growth of rents, the economy does not advance. After all, in Schumpertarian terms, surely all these dynasties are driving innovation and therefore growth!
+
+IV
+
+Thorstein Veblen took this question into his hands in order to explain the nature of the American Gilded Age. The nature of competition is the pursuit of surplus profits over and above the one of competitors and this, Veblen argued, involved a permanent battle to create and/or appropriate new *assets*.
+
+What is an asset? An asset is a legal structure that implies a claim of present and future income to the owner derived from its private control. This implies the capacity to both appropriate and create a situation of scarcity over a resource that is needed for the economic production of an agent or society.
+
+\_\_\_
+
+Rent is a function of four elements: an institutional order that structures an asset, the level of society's dependence on that asset, the level of scarcity on which the asset is built, and the area in which it is established.
+
+\_\_\_
+
+Here Veblen distinguished between *tangible* and *intangible assets*. For example, the private ownership of a tangible asset, such as natural resources, companies, technologies, or capital goods, implies a restriction for its use unless the owners receive a payment. The owners are able to to do this because the asset is not publicly available. Thus, the scarcity of the asset, derived from its private control, becomes the source of rent to the owners.
+
+An intangible asset corresponds to the series of rules and institutions that facilitate profit through control over the economic circulation of things, such as trademarks, patents, credits, monopolies, marketing, or the exclusive control of sources of income or [inputs](https://www.britannica.com/topic/input-economics). Trademarks and patents, for example, generate an artificial scarcity on an idea or good, allowing over-profits not from production, but from the rules on its distribution. Exclusive control over the supply of assets makes it posible to demand a rent for their use – not from contributing to production, but because of the control over the resource.
+
+Whether tangible or intangible, the heart of the asset is its condition of being, just as land for Ricardo, scarce, strategic for the economy (i.e. needed for an economic sector to function), and with the capacity of being privately appropriated, so the owner chan obtain a rent for its management or use.  Indeed, on what does a rent depend? Rent is a function of four elements: an institutional order that structures an asset, the level of society's dependence on that asset, the level of scarcity on which the asset is built, and the area in which it is established.
+
+Let us think of the form of a patent. For capitalist competition in the field of ideas to exist, ideas must cease to be public goods, and be privately appropriated on the basis of a legal construct – as a temporary monopoly. The patent creates an artificial scarcity, which allows the idea to be exchanged in a market. In turn, the value of a company – pharmaceutical, for example – will depend on the number of patents it holds, its given scarcity, and the degree of dependence that society has on this drug. When Pfizer produced its Covid vaccine it was so valuable because its patent produced a monopoly and the world desparately needed the drug. Monopoly and competition, rent and profit, are not antithetical, but are parts of the same process.
+
+We can draw two important conclusions from this. First, rent and assets would not be an independent constraint on capitalist competition, as the neoclassical school argued, but, on the contrary, its raison d'être. Rent comes not from outside constraints on the market, such as unions, artifical monopolies etc, but it is a natural product of competition.
+
+Second, there is no natural connection between the dynamics of competition and technological innovation. Competition for assets is an eminently price-led phenomenon (it only has as its reference point monetary gain over competition), while innovation is a productive process that creates new ways of improving production and welfare.
+
+The capitalist market in Veblen's view is a process of permanent competition to create, appropriate and accumulate assets, both tangible and intangible, with the aim of obtaining rents over competition. Thus, *wealth in contemporary society is expressed as an accumulation of assets*.
+
+[![related-video-image](https://iai.tv/assets/Uploads/22-04-27.Yanis.ata.webp)
+
+SUGGESTED VIEWING
+The new ruling class
+With Yanis Varoufakis](https://iai.tv/video/the-new-ruling-class-yanis-varoufakis)
+
+V
+
+Neoliberalism is, among other things, a grand process of unleashing restrictions, limitations and regulations on capitalist competition from the welfare state in the developed world, and from developmental states among peripheries.
+
+Neoliberalism involved expanding private investment to spaces that were previously public or communal (privatisation of natural resources, public services, ideas, etc.); strengthening private property rights in these sectors (ensuring the creation of *assets*); ensuring the private appropriation of income derived from properties (via tax reductions and elimination of redistributive mechanisms) and, finally, the reducing competing powers, such as workers’ powers.
+
+The goal of this cycle of privatisations, market deregulation and strengthening of private property rights was to ensure the expansion of market competition, under the premise that it would unleash innovation and eliminate rentierism. However, as we have already seen, it is precisely capitalist competition that contains an intrinsic tendency towards rent generation, since the competition among capitalists is, to a large extent, a competition for the appropriation and/or creation of tangible and intangible assets that serve as sources of extra-normal profits. The market unleashed the very thing it swore to destroy.
+
+[![23 04 14 Why Friedmans free market needs basic income.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-04-14-Why-Friedmans-free-market-needs-basic-income.dc.webp)
+
+SUGGESTED READING
+Why Friedman's free market needs basic income
+By Joshua Preiss](https://iai.tv/articles/why-friedmans-free-market-needs-basic-income-joshua-preiss-auid-2452)
+
+In this way, in Veblenian terms, ‘unleashing’ capitalism implies allowing competition for rents to expand without limits: privatisations opened the door to an investment cycle focused on transforming resources into rent-generating assets; the reduction of taxes and deregulation allowed the centralisation of rents in the new private owners; and, finally, the strengthening of property rights strengthened the the rentiers’ control over their assets.
+
+Neoliberalism, in this way, has multiplied the creation of tangible and intangible assets. While privatisations have transformed previously public resources into tangible assets, capitalist competition has risen rents through the expansion of companies with increasing market power and from new and innovative ways of rent accumulation, such as data extraction, while financial rents have made debt a lucrative source of asset generation and sale in the capital market.
+
+\_\_\_
+
+This may have generated private prosperity, but it failed to bring dynamic growth.
+
+\_\_\_
+
+Ultimately, from this perspective, neoliberalism can be understood as a regime that:
+
+(1) creates rents in multiple social and economic dimensions that were previously unavailable,
+
+(2) overprotects private property rights over those assets, and
+
+(3) ensures the private appropriation of the rents generated by these assets.
+
+From this perspective, we can better understand why our initial protagonist is tied up in so many rentier structures. The capitalist competition unleashed from its previous constraints was a great private race to create rent-generating assets. This may have generated private prosperity, but it failed to bring dynamic growth.
+
+The big question that remains is what we can do. Several authors, such as Martin Wolf or Luigi Zingales, have now returned to the idea that it is necessary to stimulate greater competition to undermine these rentier gains. But that will only reinforce the problem at hand. The solutions should not involve trying to make reality conform to models, but rather analysing economic reality as it is. We need to rethink the following three pillars:
+
+First, a new tax regime specifically focused on rentiers. This will not only not reduce investment and growth, but may well increase it, as unproductive resources in the hands of private rentiers can be used for productive investments by the state.
+
+Second, it is necessary to rethink the nature of property protection of, for example, ideas such as patents or investments such as investment agreements. This would entail restricting the length of patents, and increasing policies of exception and patent flexibility, so that those ideas can be used freely in times of crisis, such as with Covid-19. A new investment regulation regime should make investment conditional on technology transfer mechanisms, so that new ideas and assets can be used for the public good.
+
+Third, some areas of life should be excluded from markets. Education, health, and service infrastructure are areas that should be protected from rent accumulation and serve as a material right for citizens.
+
+These measures are, of course, tentative and still at an abstract level. However, these ideas can provide Oriana, the protagonist of our essay, with a more sustainable material life, bring back public areas for her to freely enjoy in the community, and less anxiety for the future. In sum, to enjoy the basic resources, income and labor conditions that a democratic order should provide.

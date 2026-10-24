@@ -1,0 +1,89 @@
+---
+title: "The way human life is created is changing, and the world isn't ready"
+subtitle: "On pregnant men, birthing fathers and reproductive technology"
+author: "Suki Finn"
+date: "26th June 2025"
+article_id: "3241"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "2,319 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-way-human-life-is-created-is-changing-and-the-world-isnt-ready.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-way-human-life-is-created-is-changing-and-the-world-isnt-ready-auid-3241"
+---
+
+# The way human life is created is changing, and the world isn't ready
+
+*On pregnant men, birthing fathers and reproductive technology*
+
+**By Suki Finn** | *26th June 2025* | *Read time: approx. 12 mins* | *2,319 words*
+
+![The way human life is created is changing, and the world isn't ready](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-way-human-life-is-created-is-changing-and-the-world-isnt-ready.webp)
+
+---
+
+*We come into this world via pregnancy and birth. The emergence of new reproductive technologies promises that this will not always be the case. But many aspects of society and law are yet to catch up with the lived realities of diverse family formations that currently exist—let alone reflect how they might further diversify as a result of future technologies. This article explores the position of pregnant men and birthing fathers within changing legal landscapes, highlighting the regressive ideologies that are in tension with the present diversity of life. Feminist theorist Suki Finn argues we are exceedingly unprepared for today’s world, let alone equipped for future trajectories of new assisted reproductive technologies. The proposal: we shouldn't force people’s experiences to fit rigid frameworks, we should instead look at the experiences first, and build our philosophical concepts and legal definitions from there.*
+
+**Becoming a parent**
+
+There are many ways to become a parent. Some do not involve giving birth—even within traditional heteronormative setups, there is a non-birth-giving parent who is usually identified as a father. There are also many ways to become a mother, some of which do not involve giving birth. Motherhood comes in many shapes and sizes, and is, as such, a multiply realizable state. Consider the various ways that people become mothers without being pregnant themselves: through adoption; via their partner’s children; from a surrogate arrangement; as lesbian parents... And given the developments of technologies that assist reproduction outside of the body, people may become mothers through pregnancies that are outsourced to machines of some form. It is in this sense of having multiple ways to become a mother that motherhood is said to be a multiply realizable state. Likewise, there are many ways to become a woman. Womanhood may be multiply realized via [an innate sense of gender identity](http://iai.tv/articles/judith-butler-gender-is-not-a-culture-war-auid-2791), a lived experience of being [treated or perceived a certain way](http://iai.tv/articles/gender-is-decided-by-experience-not-biology-or-choice-auid-3143), having particular chromosomes, genitalia, reproductive capacities, or other sex characteristics that may have contributed to your birth certificate assignment, and where transitioning medically or legally, serves to aid recognition of some of the various ways that one can become a woman.
+
+\_\_\_
+
+If we start with an extensional understanding to see where the terms apply in practice—i.e., where they are multiply realized—then we are more likely to end up using the terms in ways that pick out the intended individuals that use those terms in their lives.
+
+\_\_\_
+
+Given this multiple realizability of womanhood and motherhood (which do not necessarily align with each other), how are we to understand or define the meanings of these terms? Philosophically, there are various methods. Let us here consider two: intensional and extensional. The intension provides a formal definition of a concept like “mother,” where an intensional meaning consists of a description that individuals must satisfy for the concept to apply (say, by being a woman and having a child). On the other hand, the extension provides the range of applicability of a concept like “mother,” where its extensional meaning consists of the individuals that the concept denotes (so, all the mothers that there are). In other words, an intension picks out the attributes and the extension picks out the things, prizing apart what a term “connotes” (suggests or implies beyond its literal meaning) and what it “denotes” (the specific things it refers to) respectively. Our intensional descriptions or definitions of motherhood provide us with one way of understanding its meaning, and our extensional referents of the mothers provide us with another way of understanding who is captured by the term—sometimes these do not coincide.
+
+[![related-video-image](https://iai.tv/assets/Uploads/motherhood-and-the-mahcine.webp)
+
+SUGGESTED VIEWING
+Motherhood vs. the Machine
+With Chine McDonald, Charlotte Faircloth, Mary Harrington](https://iai.tv/video/motherhood-vs-the-machine)
+
+Bridging the gap between intensional and extensional can sometimes be done in ways that widen the gap between theorizations of gender and gendered experience. For example, I believe that narrow, monistic, intensional meanings can motivate trans exclusion from extensional meanings. Whereas, if we were to start from a place of trans inclusion in extensional meanings, this will motivate shifts and pluralities in our intensional meanings of terms that do justice to their multiple realizability and the diversity of gendered experience. If we start with an extensional understanding to see where the terms apply in practice—i.e., where they are multiply realized—then we are more likely to end up using the terms in ways that pick out the intended individuals that use those terms in their lives.
+
+In being guided by extensional meanings, we can broaden or pluralize what we take their intensional definitions to be, in far more inclusive ways that are reflective of diversity. By adjusting our intensional definitions based upon extensional meanings of concepts such as “mother,” “father,” “pregnant,” “man,” and “woman,” we challenge the inclusions and exclusions that seem to be prominent in the legal frameworks. This will help to ensure the concepts are effectively capturing their intended meanings and their intended populations as they are continuously negotiated by those who shape and are shaped by them.
+
+The possibility of gestation outside of the body using new assisted reproductive technologies—which, as I and E. Kingma argue, are often [inappropriately called artificial wombs](https://onlinelibrary.wiley.com/doi/10.1111/bioe.12717)—creates yet more potential opportunities for parenthood without pregnancy and giving birth. This further challenges our intensional meanings of parenting and expands who, or even *what*, is captured by extension of the concept of “parent.” But before zooming ahead into the future of those technological possibilities, we must consider today’s realities, which include the fact that trans men and nonbinary and intersex people experience pregnancy and give birth, becoming parents who may not always want to be identified as mothers. This possibility was not always legally recognized; until not that long ago, in many places around the world, becoming infertile was considered a price to pay for legal gender transition. In 2017, the European Court of Human Rights (ECtHR) clarified that making legal gender recognition conditional upon compulsory sterilization or surgeries likely to cause sterility breaches [Article 8 of the European Convention of Human Rights](https://www.equalityhumanrights.com/human-rights/human-rights-act/article-8-respect-your-private-and-family-life). This opened the legal possibility for trans persons to become biological parents, enabling the physiological capacity for trans men to give birth and for trans women to contribute semen to the process of conception. However, where laws have defined parents in terms of their biological contributions to birth (for example, designating the person giving birth as *mother*), tension has arisen within the legal frameworks: it becomes difficult to consistently acknowledge legal gender changes without misgendering how they are identified as a parent.
+
+**The legal making of a mother**
+
+Some men have menstrual cycles, can become pregnant, and give birth to become fathers. But many laws do not reflect this, and the legal recognition of transgender parenthood is a rapidly evolving issue in European courts. S. Indesteege and I highlight how [European and British jurisprudence have reinforced rigid, binary notions of parenthood](https://www.sagepub.com/explore-our-content/blogs/posts/sage-perspectives/2025/04/02/reimagining-parenthood-challenging-(bio)logic-in-legal-cases-of-trans-families?hootPostID=eabb7857e2a65233f04716e1d14e2022)—often to the detriment of transgender parents and their children. Many jurisdictions conflate pregnancy, motherhood, and womanhood in ways that are trans-exclusionary and, given their rigidness, are therefore damaging to all. Recent ECtHR cases illustrate this: in [*A.H. and Others v. Germany*](https://www.ilga-europe.org/case-law/a-h-and-others-v-germany/) (2023), a trans woman was denied recognition as her child’s mother when she had contributed sperm; in [*O.H. and G.H. v. Germany*](https://www.ilga-europe.org/case-law/o-h-and-g-h-against-germany/) (2023), a trans man who gave birth was classified as the child’s mother rather than father. These decisions reflect a framework that insists on aligning parenthood with biological functions rather than gender identity.
+
+English and Welsh law operate similarly, where the recent [UK Supreme Court ruling in *For Women Scotland v The Scottish Ministers*](https://supremecourt.uk/cases/uksc-2024-0042#case-summary)offers an illuminating case study. The judgement states that, for the purposes of sex discrimination law, “women” is limited to “biological women,” which itself is further limited to being assigned female at birth. This is a reduction and conflation between womanhood and the physiology needed to become pregnant—something feminists have long fought against. The reasoning stated by the UK Supreme Court for advocating such a limited and regressive conception placed a significant emphasis on pregnancy, namely that in order for pregnant men to be protected from pregnancy discrimination in the [Equality Act 2010,](https://www.legislation.gov.uk/ukpga/2010/15/contents) they must be understood as women. But this is not the only way to ensure all who have the capacity for pregnancy are covered—rather than squeezing all pregnant people into the category of “woman,” the process or state of pregnancy could be understood as something experienced by people of any gender. This was a direction the Court did not consider, where they could have called for a broader understanding of who becomes pregnant so as to advocate for the protection of trans men, *as men*, from pregnancy discrimination, rather than misgendering them as women to attain that protection.
+
+\_\_\_
+
+In English and Welsh law, motherhood is established in only one way, and defined in a biologically essentialist manner, through pregnancy and giving birth, thus unable to capture the multiple realizability of motherhood.
+
+\_\_\_
+
+I have argued that a [biologically essentialist definition of motherhood is further entrenched in English and Welsh law](https://www.cambridge.org/core/journals/think/article/degendering-and-desexing-motherhood/7971AE120EC62E79124F678038FF1BEA). The *mater semper certa est* (“mother is always certain”) principle is written into the [Human Fertilisation and Embryology Act 2008](https://www.legislation.gov.uk/ukpga/2008/22/contents) and the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41/contents), and entails that the person who gives birth *is* (and always is) the (only) mother. This legal motherhood applies for six weeks minimum until the status can be relinquished and transferred by giving “effective consent” to adoption or via parental orders. This is the only way to be registered as “mother” on the birth certificate, even if someone else is identified as an “adoptive mother” (which, I note, is a qualified form of motherhood, and not simply *motherhood*) or a “parent” who is a woman, and even when the person who gave birth has no intention of or does not consider themselves as being a mother, for gendered or other reasons.
+
+Giving birth, therefore, *always* results in the creation of a legal mother: it is not possible for there to be a birth without there being a mother. Whoever gives birth is automatically registered as the legal mother on the birth certificate, and this status cannot be granted to anyone else. Z. Mahmoud and E.C. Romanis (whom I write with on this topic elsewhere) similarly find that during the process of pregnancy, t[he pregnant person is already deemed a mother](https://academic.oup.com/medlaw/article/31/1/109/6671148) (even when some pregnancies do not result in giving birth). As such, in English and Welsh law, motherhood is established in only one way, and defined in a biologically essentialist manner, through pregnancy and giving birth, thus unable to capture the multiple realizability of motherhood.
+
+**Mother is not always certain**
+
+Presumably, the *mater semper certa est* principle tracks the obviousness of giving birth, in a way that providing sperm is not as easily evidenced. But that does not mean that the person giving birth is certainly going to be the mother if we take mother to be implicitly gendered (for the person giving birth may be a man or nonbinary), and so “mother” is not “always certain.” Given that the various cases and jurisdictions described above conflate the person giving birth with the mother, the law cannot accommodate for the wide variety of family formations that there are. Specifically, there is a difficulty in acknowledging and recognizing mothers who do not give birth and people who give birth who are not mothers. The UK Supreme Court judgement especially renders pregnant men and birthing fathers invisible (or, rather, impossible or unlawful!), since in virtue of their pregnancy and birthing, they will be recategorized as women and mothers.
+
+\_\_\_
+
+Far from providing clarity, those trans men with Gender Recognition Certificates as male are considered legally as men under the Gender Recognition Act, but women according to the Equality Act, a tension centred explicitly around their (capacity for) pregnancy.
+
+\_\_\_
+
+What all these examples show is that there is an incongruency between the legal use of “woman” and “mother” and the ways that those terms are used in other domains of life. To rule as the Court has done is out of touch with the lived realities that the law is intended to legislate about, carving out gendered and parental groupings in unfitting, inappropriate, inaccurate, and offensive ways. Far from providing clarity, those trans men with Gender Recognition Certificates as male are considered legally as men under the Gender Recognition Act, but women according to the Equality Act, a tension centred explicitly around their (capacity for) pregnancy. The more appropriate legal reform would be to understand pregnancy inclusively of all genders, as opposed to regressively understanding gender exclusively by the capacity for pregnancy.
+
+\_\_\_
+
+If we cannot even begin to capture the full diversity of pregnancy and parenthood today regarding our fellow humans, then representing and understanding their multiple realizations assisted by reproductive technologies is both the least of our worries and a far way off.
+
+\_\_\_
+
+As S. Indesteege and I have shown, some European countries, such as Sweden, Iceland, and Denmark, have already adopted [laws that recognize trans parents according to their gender identity in legal documents](https://journals.sagepub.com/doi/full/10.1177/03043754251325040). Further afield, a progressive model is needed worldwide to guide us in the right direction for more inclusive law regarding gender and reproduction to offer a promising alternative for ensuring reproductive justice for all nonfamilies. We suggest that the [Yogyakarta Principles](https://yogyakartaprinciples.org/) might support this, namely, Article 24: the right to found a family, regardless of sexual orientation or gender identity, where birth certificates are issued for children upon birth that reflect the self-defined gender identity of the parents. These Principles have gained significant attention from states, UN actors, and civil society, and despite not being legally enforceable, they do affirm binding international legal standards and have played a crucial role in advancing the recognition of sexual and gender minorities as protected groups within the human rights framework. If we cannot even begin to capture the full diversity of pregnancy and parenthood today regarding our fellow humans, then representing and understanding their multiple realizations assisted by reproductive technologies is both the least of our worries and a far way off.
+
+So let us say it together: Men can be pregnant and become fathers who give birth. Not only women have periods. Period.

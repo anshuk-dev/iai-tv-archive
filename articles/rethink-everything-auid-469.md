@@ -1,0 +1,59 @@
+---
+title: "Morality Matters"
+subtitle: "A biologist agitates for moral philosophy's return"
+author: "Colin Tudge"
+date: "Issue 23, 22nd November 2014"
+article_id: "469"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,184 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/5549123-dd3e6c2b3f-b.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rethink-everything-auid-469"
+---
+
+# Morality Matters
+
+*A biologist agitates for moral philosophy's return*
+
+**By Colin Tudge** | *Issue 23, 22nd November 2014* | *Read time: approx. 6 mins* | *1,184 words*
+
+![Morality Matters](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/5549123-dd3e6c2b3f-b.webp)
+
+---
+
+The whole world needs re-thinking from first principles – and the point of my latest book, *Why Genes are Not Selfish and People are Nice,* is to set the ball rolling.
+
+Alas, it’s all too easy to list the things that have gone wrong. A billion people are chronically undernourished out of the total population of 7 billion. A billion more suffer from diseases of excess – including a world population of diabetics that is twice the size of Russia’s population. A billion live in urban slums – almost one in three of all who now live in cities. Half our fellow species are in imminent danger of extinction. All ecosystems are under threat, from woods and meadows to the oceans. The climate is de-stabilised. All in all, we are sliding headlong to Armageddon. The problem that obsesses governments and their selected advisers – the collapse of the neoliberal economy – is the least important, although the fact that they don’t see that the neoliberal party is over and are still trying to prop it up, at our expense, is a further sign of the inadequacy, the absolute unfitness for purpose, of the world’s present leadership.
+
+In fact we can summarise what needs doing in a simple diagram: all the problems of the world in eight balloons.  
+  
+![Poster 1st draft](assets/Uploads/_resampled/ResizedImageWzYwMCw1MThd/Poster-1st-draft.jpg)
+
+The top two balloons spell out what, I suggest, we should be trying to achieve – which is what, I believe, most people want: convivial societies within a flourishing biosphere. Peace; amity; justice; comfortable cities; trees, with birds in them; clear rivers; wild forests. Today’s governments rarely spell out what they are trying to achieve, although they did in the past. Now they tell us only that we must “compete” in the global market to achieve “economic growth”, though without specifying what the growth is for or bothering too much how it is achieved. Meanwhile, although we are told that Britain is now more affluent than ever, almost a million of us have resorted to food banks in the past couple of years and more than one in five earns less than a living wage, which presumably means they are sliding towards destitution. Never mind, though. We have more billionaires than ever.
+
+But we can’t create a convivial and flourishing world unless we do the right things. Appropriate *action* is what really counts. I could have written “Action” in the next balloon down but it seems to me that agriculture is the thing that is most important to get right. If we do, then all good things are possible, and if we don’t, the world is wrecked – as present-day industrial agriculture is now demonstrating. Specifically we need “Enlightened Agriculture” – “farming that is expressly designed to provide everyone, everywhere with food of the highest standard without wrecking the rest of the world”. Technically that should be easy, despite what we are told from those with vested interests. The present strategy, imposed from on high, threatens to kill us all.
+
+Which brings us to the next two balloons: the kind of economy and the kind of governance we need to support the kind of farming (and everything else) that we need to provide the kind of world we need and want.
+
+Clearly, the present neoliberal, neo-Darwinian economy, based on the global market, conceived as an all-against-all dogfight to acquire maximum wealth, and dominated by corporations and mega-banks, is horribly destructive. Yet to put things right, we don’t need to be as radical as we might suppose. We don’t need to “smash capitalism”. We do need to rediscover its acceptable face. An economy rooted in small businesses, ethical investment, and community ownership – adding up to “economic democracy”: that would do the trick.
+
+Governance does need root-and-branch re-structuring. At present we are ruled by a self-reinforcing oligarchy of corporates and banks (the lead players), backed up by governments which for some unfathomable reason we elect, all supported by compliant, carefully chosen experts and intellectuals who alas include more and more of academe. This won’t do. We need massive devolution of power – not simply from Westminster to the other countries of the British Isles but from central government to the people at large: communities; professions; trades (let’s bring the guilds back); the various religions (and humanist groups); and so on.
+
+But then we come to the ideas and attitudes that form the *zeitgeist*: our worldview; all the notions that inform everything we do. The zeitgeist is all-important, but we leave its core ideas largely unexamined. We need to bring them into the open.
+
+As I see things the zeitgeist has three principal components. Science asks how the material world works. It gives rise to high technologies but should not be seen merely a materialist pursuit. It should be seen as a triumph of humankind, with huge cultural connotations. Alas, though, it has on the one hand become far too cock-sure and on the other has allowed itself to become the handmaiden of big business and corporate-dominated governments, and in its present form is often deeply pernicious. It needs to free itself from the oligarchy and rediscover its spiritual and aesthetic roots.
+
+Proper moral philosophy nowadays is much neglected. Instead, a crude utilitarianism is taken for granted. Whatever makes people happy is deemed to be OK; and in this ultra-materialist age “good” is commonly taken to mean “cost-effective” – or in the market economy is simply taken to mean whatever people are prepared to pay for. The result is vile. In truth it is hard and perhaps impossible to define any *absolute* truth – but we can certainly find universals; and the most universal moral principle of all, right at the heart of all religions, is compassion. This is closely followed by humility (the precise opposite of the arrogance of commerce, governments, and government-supported scientists and economists).  We also need a sense of reverence for the biosphere and the universe as a whole. They are not of our making, they are beyond our ken. We depend on them absolutely, and should be grateful for our brief period of awareness.
+
+Finally, balloon eight, we need to rediscover metaphysics which asks the most fundamental questions and yet has gone missing, although it can still be found within formal religions entwined in various theologies. The fundamental questions are, in my opinion at least: What is the universe *really* like (is the material world that science is concerned with all there is?); What is the basis of morality; How do we know what’s true (mere rationality won’t do); and – the biggest and least tractable of all – How come?
+
+Why, though, in this grand overview, is there no balloon for the arts? Well, the arts sit above the diagram, orthogonal to it, looking down on the whole. The arts, after all, aren’t a subject. They are a different way of looking at the world –as many different ways as there are artists.
+
+I would like to found a school to teach and discuss all this together. That, I suggest, would be a truly rounded education.
+
+**Colin Tudge’s latest book,** ***Why Genes are Not Selfish and People are Nice*****, is published by Floris.**
+
+ Image credit: [Jose venegas](https://www.flickr.com/photos/venegas/5549123/in/photostream/)

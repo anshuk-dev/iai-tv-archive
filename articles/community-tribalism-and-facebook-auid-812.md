@@ -1,0 +1,50 @@
+---
+title: "Community, Tribalism and Facebook"
+subtitle: "Anthropologist Daniel Miller investigates how Facebook has transformed one community in rural Trinidad"
+author: "Daniel Miller"
+date: "Issue 55, 10th April 2017"
+article_id: "812"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,148 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Daniel-Miller-5-new.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/community-tribalism-and-facebook-auid-812"
+---
+
+# Community, Tribalism and Facebook
+
+*Anthropologist Daniel Miller investigates how Facebook has transformed one community in rural Trinidad*
+
+**By Daniel Miller** | *Issue 55, 10th April 2017* | *Read time: approx. 6 mins* | *1,148 words*
+
+![Community, Tribalism and Facebook](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Daniel-Miller-5-new.webp)
+
+---
+
+One of the problems in teaching anthropology is the awareness that so many people come to study this discipline because of some romantic idyll of kinship, the village or community. These seem to be imagined as some kind of paradise lost, remaining only in these enclaves studied by anthropologists. This romantic otherness is largely used as a stick to beat ourselves with. All sorts of faults and deficiencies are assumed to exist in our own society as against these others.   
+  
+One of the reasons I try to conduct research in areas as varied as London, Manila, village India or Trinidad is in order to contest such assumptions. We all live equally in the present. Peoples studied by anthropologists in tribes or villages are not some evolutionary remnant of our own past. Having said all that, sitting in this quiet rural hamlet in Trinidad, it is quite hard to entirely escape from this romance of community. I can just feel sentimentality creeping up my spine, softening my resolve, despite all my attempts to disown it. I blame the palm trees.  
+  
+Alana seems the very embodiment of community. There is something about her that is warm and gentle and considerate. This sentiment naturally extends to her family who seem just as benign. They all seemed to embody an ethical sensibility of concern for others’ wellbeing, but never as a matter of abstract principle. Always with a touch of humour, and those allowances for slippage and spoilage that are realistic about the actual world and its foibles.   
+  
+ Alana lives in the kind of settlement which has become quite rare in contemporary Trinidad. Santa Ana is quite small. There are around twenty-five houses straddling a ridge in the foothills of the mountains that form a spine pointing north into the hills. These houses, with only two exceptions, represent the descendents of the same three or four core families. So by now pretty much everyone in the village is related to pretty much everyone else. When it comes to any kind of significant event, such as a wedding or a wake, then any remaining lack of relationship is ignored. For all intents and purposes this village is a family writ large. All of which makes this the kind of place one imagines to approximate that romantic idyll of community. And Santa Ana has that feeling of common identity, of solidarity and reciprocal concern. Working back downwards this is the solidarity and common care that seems to be channeled through Alana’s exemplary family and thence to Alana herself.  
+  
+Alana was reluctant to come onto Facebook in the first place. But pressure from her younger cousins forced her to give in and once on, she loved it. She now has around two hundred Facebook friends of whom about forty are relatives. She has less than ten friends from outside of Trinidad. Alana fully acknowledges the problematic side to Facebook. As she puts it you might trust your ten friends, but then they trust their ten friends and a friend’s friend doesn’t have the same trust and commitment to you. So before you know it, things get circulated that shouldn’t. It’s not usually so bad or so common in her age group. Though even she finds herself often tagged in photos. Quite a few times she has moved swiftly to untag them. After all she has most of her family on Facebook as well. But then she also monitors what she does in public, because she knows this could happen.
+
+\_\_\_
+
+"Peoples studied by anthropologists in tribes or villages are not some evolutionary remnant of our own past"  
+\_\_\_
+
+Where she feels Facebook really causes havoc is amongst the teenagers. Partly they simply haven’t learnt the self-discipline that this technology so evidently requires. But also they are the ones who play with taking risk, with the girls competing in trying to look sexy. It is also at this age when sometimes girls can be complete bitches to each other, especially when your best friend, who told you all her secrets, is now suddenly your worst enemy. There is the speed with which gossip surges through the network and spills as grimy foam through the doors and onto the carpets of those living far from its source. There are the quarrels and the suspicions and that can cause the break up of otherwise viable relationships.  
+  
+Yet, however much one blames Facebook for malicious or ill-informed gossip, Alana feels it doesn’t even start to approach what happens routinely in a small place like Santa Ana. Alana’s family has a running feud with their neighbour that has gone on for years. Every time a pause arises that might have led to a rapprochement it gets extended by disputes about where children shouldn’t be playing or when dogs shouldn’t be barking. They even have a classic confrontation as to where exactly the boundary lies between the two houses, and who last moved the fence late at night to their advantage. If we stand around the village for an evening and gossip, it’s not going to be long before there are whispers about who has slept with who and really really shouldn’t have. Alana tells of how, in a community like this, people would look at how their friend’s children are growing up, or the youths in the village. They wouldn’t take time to get to know them, they would just sit and talk about whether a child is neglected or a youth is into drugs.  
+  
+She says to me: “Yeah it’s much much worse. I think people still have some level of respect on Facebook, well at least the people that I socialise with. They wouldn’t blatantly put something very offensive. Whereas if you having a conversation with somebody, they would tell you what they think about someone else in confidentiality. With the older people you would just probably hear an exchange of words but the youths they would start with the words and end up with fist-fighting and stuff like that. We recently had a stranger that came in. I think he dating a girl out the road and she girl, she pretty young. And she and a guy in the village always had an exchange of words. Like throw talk for one another and stuff like that. So he was passing and something she said and her boyfriend get up and try swing a blade at him. And he hold it and pull it away from his hand. All his ligaments and everything gone. He came out of the hospital about three days ago. His right hand, he can’t do anything right now. He have strings and stuff on his hand trying to get it back... yeah terrible.”   
+  
+As far as Alana is concerned, Facebook is a much safer version of community, a whole lot less malicious and vicious than the real thing. Maybe she’s right.
+
+**Read more from this issue of IAI News here: [A Tribal World](https://iainews.iai.tv/articles/issue-55-a-tribal-world-auid-817)**

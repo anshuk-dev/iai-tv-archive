@@ -1,0 +1,89 @@
+---
+title: "To function in the real world, AI needs motivation"
+subtitle: "Machines need motivation, and biology holds the key"
+author: "Gaurav Suri"
+date: "17th March 2026"
+article_id: "3524"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,853 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/to-function-in-the-real-world-ai-needs-motivation.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/to-function-in-the-real-world-ai-needs-motivation-auid-3524"
+---
+
+# To function in the real world, AI needs motivation
+
+*Machines need motivation, and biology holds the key*
+
+**By Gaurav Suri** | *17th March 2026* | *Read time: approx. 9 mins* | *1,853 words*
+
+![To function in the real world, AI needs motivation](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/to-function-in-the-real-world-ai-needs-motivation.webp)
+
+---
+
+*AI is very powerful at doing a wide range of verbal and numerical tasks, but we haven't been able to make robots effective in the real, physical world. To solve this problem, c*omputational neuroscientist **Gaurav Suri** argues that* we need to give AI models their own motivation. Against our intuition that conscious experience is necessary for motivation, Suri insists that machines can and must become motivated in order to tackle complex and evolving problems. As a result, AI researchers must learn how motivation works in living minds.*
+
+A mild hunger may leave us unmoved. We notice it, perhaps, but do nothing. A stronger hunger can change everything. We pull on a coat, step out into the cold, and walk several blocks in search of food. Something similar happens with [anger](https://iai.tv/articles/anger-is-not-a-guide-to-truth-or-morality-auid-3427): a mild offense may be brushed aside, while a stronger one may push us toward confrontation. Asked to explain these differences, we might say that the stronger state leaves us more motivated. And if pressed to say what we mean by that motivation, we would probably point to a familiar conscious experience: a feeling of inner pressure or readiness, focused and taut, like a coiled spring. It is hard not to conclude that hunger or anger first creates this feeling, and that the feeling, in turn, drives the right kind of action at the right intensity.
+
+This, in essence, is the intuitive theory of motivation: a bodily signal, such as a need, an emotion, or a goal arising from them, gives rise to a [conscious feeling](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462), and that feeling then produces actions suited in both type and intensity to the demands of the moment.
+
+\_\_\_
+
+Today’s systems are not yet much like organisms. They can execute, but they do not truly regulate their own action in a context-sensitive way.
+
+\_\_\_
+
+But there is good reason to think this intuitive theory is wrong. Motivated feelings may accompany motivated actions without actually causing them. Even very simple creatures exhibit behavior much like motivated action. The tiny worm [C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans), with only 302 neurons, becomes more willing to cross an aversive barrier to reach food when hungry, much as a hungry person may become more willing to step out into the cold in search of food. It may be that such a creature has some faint form of experience. But it is hard to imagine that it possesses anything like the rich, differentiated conscious feeling humans mean when they say they feel motivated. Yet its behavior still changes systematically with need. That suggests that the machinery organizing action does not depend on an elaborated conscious feeling. In humans, the feeling may accompany that machinery closely enough to seem like the cause, without actually being it.
+
+If that is right, then the most important work of motivation may be happening beneath awareness. Perhaps the system that changes action is also, in creatures like us, the system that gives rise to the conscious feeling of motivation. On this view, the feeling does not cause the behavior. Both feeling and behavior are outputs of a deeper neural process unfolding in the brain. The feeling accompanies motivated action, often closely enough to fool us into treating it as the engine.
+
+**Towards Motivated Machines**
+
+Once motivated feeling can be separated from motivated action, a new possibility comes into view: machines may be able to become motivated too. That is, they may be able to select the kind of action a situation calls for and to pursue it with the appropriate intensity, without needing anything like the conscious feeling humans report.
+
+Today’s large language models are, for the most part, not motivated in this sense. So-called agentic systems can chain together subtasks and pursue user-given objectives, but even they still largely lack a mechanism for deciding, moment to moment, which task should take priority, how long it should be sustained, and with what urgency or persistence it should be pursued. Imagine, for example, a household robot asked to prepare lunch. If a pan begins to smoke, a child starts crying in the next room, and the robot is halfway through setting the table, it must do more than execute a plan. It must determine which demand matters most, interrupt one course of action, intensify another, and sustain that effort until the situation is under control. In that respect, today’s systems are not yet much like organisms. They can execute, but they do not truly regulate their own action in a context-sensitive way. That gap will have to be closed if we want AI agents that can function reliably in the physical world, from homes and hospitals to disaster zones and Mars, where useful action depends on continually deciding what matters most and how urgently it must be done.
+
+How, then, might we build such systems? The most intuitive strategy is to specify rules ahead of time: if this happens, do that, and do it with this level of urgency. But the physical world is too complex for that approach to take us very far. A household robot, for example, might be told to treat a smoking pan as more urgent than a crying child, and a crying child as more urgent than setting the table. But real situations do not arrive in such neatly ranked form. Is the pan lightly smoking or in flames? Is the child merely upset or in danger? Is another adult already responding? Is the robot holding a knife, carrying a hot dish, or standing next to the stove? The right action depends not on fixed priorities alone, but on how multiple details combine in the moment. No designer can anticipate every such combination in advance. What is needed instead is a system that can continuously integrate shifting signals and allow behavior to reorganize itself as the situation changes.
+
+\_\_\_
+
+What is needed is not just a better reward function, but an architecture in which priorities themselves can shift as the world shifts.
+
+\_\_\_
+
+A second strategy is reinforcement learning, in which an agent explores its environment and is rewarded for actions that lead to valued outcomes. But this approach has a limitation of its own. Once a reward function is fixed in advance, the agent’s problem is no longer to determine what truly matters in a changing world, but simply to maximize the score it has been given. The familiar [paperclip thought experiment](https://nickbostrom.com/ethics/ai) makes the point vividly: reward a sufficiently capable machine upon making paperclips, and it may pursue that objective so single-mindedly that it decides it would be better if there were no humans, as humans might switch it off, and if it were switched off, there would be fewer paperclips. One can try to soften this brittleness by adding penalties, constraints, or additional rewards. But in dynamic real-world settings, no designer can anticipate every relevant tradeoff in advance. A useful agent must be able not merely to optimize a pre-specified target, but to continuously rebalance competing demands as circumstances evolve. What is needed is not just a better reward function, but an architecture in which priorities themselves can shift as the world shifts.
+
+What, then, would such an architecture need to do? At a minimum, it would have to keep track of many pressures at once and continually sort among them. A motivated machine cannot simply pursue one standing objective until told otherwise. It must register what matters most now, what can wait, what should be ignored, and how strongly it should respond. In an organism, hunger may compete with fear, habit with opportunity, fatigue with urgency. In a machine operating in the world, battery reserves may compete with a human request, a safety risk, a time-sensitive task, or an unexpected obstacle. Motivation, on this view, is a process of ongoing reprioritization based on changing circumstances.
+
+**Seeking Inspiration from Biology**
+
+That suggests that the right architecture may not look like a rulebook or a system that relies on fixed rewards. It may need to look more like a system in which many influences are active at once and push against one another until one pattern temporarily wins out. This is one reason biology-inspired neural networks are so interesting. [Neural networks](https://psycnet.apa.org/fulltext/2019-55522-001.html) already implement competition, mutual constraint (in which active tendencies limit and shape one another) and graded activation (in which representations can be more or less active rather than simply on or off). With the right design, several action tendencies can be active at the same time, each strengthened or weakened by the current context, until the system settles into a temporary commitment. Not a rigid plan written in advance, but a provisional answer to two questions: what should I do now, and how strongly should I do it?
+
+\_\_\_
+
+AI made little progress when intelligence was treated as a set of explicit rules, and advanced only when it turned toward neural networks inspired by biology. Motivation may be no different.
+
+\_\_\_
+
+But competition among action tendencies is not enough. A motivated system also needs a way to register when something in the environment has suddenly become important. A sudden threat, a surprising opportunity, a critical failure, a rapidly depleting resource, an urgent human demand: such events should not merely enter the system as one more input among many. They should change how the whole system responds. In biological brains, part of that job is carried out by neuromodulators. These signals do not specify, in detail, which action to take. Instead, they alter what becomes salient, what is suppressed, how strongly competing tendencies are expressed, and whether the system should keep doing what it is doing or rapidly shift course.
+
+This matters not only for action, but for learning. A useful agent must be able to treat some moments as more consequential than others. Most events should leave only a modest trace. But a novel, surprising, or high-stakes event may need to reshape future behavior after only one or two encounters. A neuromodulator-like system offers a way to do that. By marking certain situations as especially important, it could allow both responding and learning to change in real time, without requiring the entire system to be retrained from scratch.
+
+[![related-video-image](https://iai.tv/assets/Uploads/spikebot-original.webp)
+
+SUGGESTED VIEWING
+Creative robots
+With Margaret Boden](https://iai.tv/video/creative-robots)
+
+Importantly, such signals could not be fully hand-coded in advance. From a specified starter kit, the agent would have to learn when novelty matters, when urgency should rise, when persistence should fall, and when an episode is important enough to alter future priorities. The system would also need built-in limits on what can become globally urgent, so that local salience can be updated without allowing arbitrary goals to hijack the entire agent (as in the paperclip case). In that sense, neuromodulation would not be an extra feature added on top of motivation. It would be part of the mechanism by which motivation becomes flexible, adaptive, and sensitive to context.
+
+**Looking Ahead by Looking Back**
+
+AI made little progress when intelligence was treated as a set of explicit rules, and advanced only when it turned toward neural networks [inspired by biology](https://iai.tv/articles/water-not-silicon-has-to-be-the-basis-of-true-ai-auid-3200). Motivation may be no different. If we keep trying to hand-specify priorities, we may repeat the mistakes of the past. If we continue to take our cues from biological minds, we may yet build genuinely motivated machines.
+
+---
+
+***Gaurav Suri** is the co-author of [The Emergent Mind: How Intelligence Arises in People and Machines](https://www.panmacmillan.com/authors/gaurav-suri/the-emergent-mind/9781035088348).*

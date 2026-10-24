@@ -1,0 +1,168 @@
+---
+title: "Time is the increase of order, not disorder"
+subtitle: "Towards a new arrow of time"
+author: "Julian Barbour"
+date: "28th July 2022"
+article_id: "2195"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "3,985 words"
+read_time: "Read time: approx. 20 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-new-arrow-of-time-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/time-is-the-increase-of-order-julian-barbour-auid-2195"
+---
+
+# Time is the increase of order, not disorder
+
+*Towards a new arrow of time*
+
+**By Julian Barbour** | *28th July 2022* | *Read time: approx. 20 mins* | *3,985 words*
+
+![Time is the increase of order, not disorder](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-new-arrow-of-time-min.webp)
+
+---
+
+*The received view in physics is that the direction of time is provided by the second law of thermodynamics, according to which the passage of time is measured by ever-increasing disorder in the universe. This view, Julian Barbour argues, is wrong. If we reject Newton’s faulty assumptions about the existence of absolute space and time, Newtonian dynamics can be shown to provide a very different arrow of time. Its direction, according to this theory, is given by the increase in the complexity and order of a system of particles, exactly the opposite of what the received view about time suggests.*
+
+Two of the most established beliefs of contemporary cosmology are that the universe is expanding and that the direction of the arrow of time in the universe is defined by ever-increasing disorder (entropy), as described by the second law of thermodynamics. But both of these beliefs rest on shaky ground. In saying that the universe is expanding, physicists implicitly assume its size is measured by a rod that exists outside the universe, providing an absolute scale. It's the last vestige of Newton's absolute space and should have no place in modern cosmology. And in claiming that entropy is what gives time its arrow, physicists uncritically apply the laws of thermodynamics, originally discovered through the study of steam engines, to the universe as a whole. That too needs to be questioned.  
+  
+
+[![Time min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Time-min.webp)
+
+SUGGESTED READING
+Einstein and why the block universe is a mistake
+By Dean Buonomano](https://iai.tv/articles/einstein-and-the-block-universe-auid-2065)
+In the absence of an absolute space and external measuring rods, size is always relative - relative to a measure of distance internal to the system. Starting from the simplest case, a triangle, what we find is that the internal measure of size produces a ratio which also happens to be related to a mathematical measure of complexity that intriguingly plays the central role in Newtonian universal gravitation. Applying these findings to the universe as a whole, we find that Newton’s theory of gravity, contrary to what physicists believe, contains within it an intrinsic arrow of time. This provides a strong hint that the direction of time is not defined by an increase in entropy, but by an increase in structure and complexity.  
+  
+**Part I. The Relativity of Size and the Expansion of the Universe**  
+  
+ In *Science and Method* published in 1908, the great French mathematician Henri Poincaré said. "Suppose that in one night all the dimensions of the universe became a thousand times larger. The world will remain similar to itself ... Only what was a metre long will now measure a kilometre, and what was a millimetre long will become a metre. The bed in which I went to sleep and my body itself will have grown in the same proportion. When I wake in the morning what will be my feeling in face of such an astonishing transformation? Well, I shall not notice anything at all ... In reality, the change only exists for those who argue as if space were absolute."   
+  
+ In the light of Poincaré’s comments, how are we to understand the supposed expansion of the universe? As beings like Poincare in his bed, it would seem we should not be able to tell that the universe is expanding.   
+  
+**How the changing shape of the universe mimics expansion**  
+    
+ The way that many authors explain the expansion of the universe is by likening it to a balloon that is being blown up. Its surface is covered with dots which represent galaxies getting ever farther from each other. The problem is, a dot has no size. If you are watching a balloon with dots being blown up in a room, the background gives you a scale with respect to which the separations are visibly changing. For you the relative change is objective because you can see both the balloon and the room. However, as far as the dots on the surface of the balloon are concerned no ratios are changing: the distance between dots 1 and 2 divided by the distance between dots 3 and 4 does not change. This is the point Poincare was making when he asks his readers to imagine that one night every distance in the universe became 1000 times larger. Unless we assume a Newtonian absolute space, a ruler outside of the universe - an idea that’s clearly nonsense - this model doesn’t explain how the universe could be expanding.
+
+\_\_\_
+
+Fascinating interconnections are revealed if we describe the evolution of the universe exclusively as the change of its shape, rather than its size.
+
+\_\_\_
+
+A better way to think of the expansion of the universe is by illustrating the galaxies as coins stuck on the balloon's surface. The coins can have different sizes, but the ratio of their sizes does not change as the balloon gets larger and the separations between the coins gets larger relative to their diameters. The expansion of the balloon here is measured by a relative change in the distance between the coins, compared to the unchanging size of the coins themselves. This is much closer to how things are in our actual universe. Since galaxies are dynamical and their relative sizes change over cosmological timescales, the image is not perfect but is near enough the truth. What has actually happened in the history of the universe is that its most fundamental constituents - nucleons, atoms, molecules - have maintained a constant ratio of their sizes and so too, to a reasonable accuracy, have rocks, planets, stars, all the way up to galaxies.  
+  
+
+[![Elegant](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Elegant.webp)
+
+SUGGESTED READING
+The Elegant Universe
+By Julian Barbour](https://iai.tv/articles/the-elegant-universe-auid-349)
+The way to make sense of the expansion of the universe, therefore, is by measuring the changes in the distances between the centres of the galaxies relative to the distances defined by the diameters of nucleons, atoms, molecules etc. We should think of the latter as the measuring rods of the universe. What needs to be emphasized is that these ‘measuring rods’ exist within the universe, not outside it. We have no access to an absolute measure of space outside the universe. The most fundamental fact is that the shape of the universe is changing. The only justification for saying that it is expanding is that things within it, above all nucleons, atoms, and molecules but also to lesser accuracy macroscopic objects like planets and stars and even whole galaxies, have for billions of years kept constant sizes relative to each other while the separations between the galaxies have been increasing relative to those 'measuring rods'.
+
+It might seem pedantic to emphasize the relativity of size. However, shape is a much more fundamental concept and, as I will explain, fascinating interconnections are revealed if we describe the evolution of the universe exclusively as the change of its shape, rather than its size.
+
+\_\_\_
+
+Consider this question: how large, considered in itself and without relation to anything else, is a triangle?
+
+\_\_\_
+
+**Size and shape without absolute space**   
+  
+ Measuring distance always requires something to measure it. In our everyday life, we take some physical object as a ruler and say it has some nominal length. On mine, which measures both inches and centimetres, there are lots of closely spaced notches with equal separations between them. Each separation is generally much less than the distance that I want to measure. If I say my unit of distance is a millimetre, I can then lay my ruler next to the interval that is to be measured and find it is a certain number of millimetres in length. What I establish is a ratio: the number of times a short distance goes into a long one. That is the essence of measurement: it's concrete and relative. However, we are still critically involved in choosing the ruler and laying it on the interval we want to measure. Is there any way we can think about size, always determined as a ratio, that exists independently of us, is intrinsic, anis directly determined by the basic concepts of geometry?   
+  
+ There is and it leads to interesting possibilities. Consider this question: how large, considered in itself and without relation to anything else, is a triangle? Of course, if you cut one out in cardboard and hold it in your hand, it has a definite size relative to your body. This brings to mind the ancient Greek philosopher Protagoras's "Man is the measure of all things." The aphorism is usually interpreted to mean that the individual human being, rather than a god or an unchanging moral law, is the ultimate source of value. It could however be taken literally: you, reader, are by a given number of times larger or smaller than the various objects in the universe and, indeed, the universe itself.  
+  
+ Now let's see if we can turn this into the definition of the intrinsic size of any triangle you happened to have cut out of cardboard. Here's the simplest possibility. In general, the triangle will have a shortest side. Let's say that is always to be chosen as the unit of measurement. Then mark out the two longer sides together as a line on paper and see by how many times it's longer than the shortest side. If you find it's 2, that means you chose an equilateral triangle, all of whose sides are equal. If it is greater than 2, your triangle is either scalene (all sides different) or isosceles (two equal). If the number you get is very large, your triangle has the shape of a shard: one side is much shorter than the other two. Thus, measured intrinsically, any shard is much larger than an equilateral triangle.  
+  
+ A triangle is a rather simple object, however. Is there a more general method for measuring an object’s internal size? As it turns out, there is, and that method leads to a fascinating connection with Isaac Newton's theory of gravitation. What is more, this connection leads to nothing less than a revolution in the way we think about the arrow of time.   
+    
+  
+**Part II.   Newtonian Gravity and the Arrow of Time**  
+  
+ In order to discuss the intrinsic size of objects within a Newtonian system, I will introduce brief definitions of the Root Mean Square Length and the Mean Harmonic Length which both characterise distances with a system of mass points distributed in space.  
+  
+**Root mean square length**  
+  
+ Extending the principle of measuring an object’s internal size beyond a triangle, let's suppose a set of particles all have the same mass. Suppressing one dimension of space, you can picture them as dots, *n* in number, on a piece of paper. The number of distances between any two of them is *n(n-1)/2*. Suppose you have measured all the distances with a ruler. Square each distance, add all the *n(n-1)/2* squares, and take the square root of the sum. What you get is called the root-mean-square length - it is more or less the average of the longest separations between the particles and is a good measure of the size of the system. This number also, as we will see, plays a fundamental role in Newton's theory of gravity.   
+  
+**Mean harmonic length**  
+  
+ There's a second number that characterizes the separations between the particles. To find it you divide 1 by each separation, add up all the resulting fractions and divide 1 by the resulting sum. That's the mean harmonic length - more or less the average of the shortest inter-particle separations.
+
+\_\_\_
+
+There is a lot more to this measure of intrinsic size, C. As it happens, it’s also the most direct measure of the variety, or complexity, of a distribution of points in space.
+
+\_\_\_
+
+**Intrinsic size and complexity**   
+  
+ If you divide the first number by the second you get a pure number that I will denote by *C*. Because it is a ratio, you will get the same value for *C* in whatever units - centimetres, inches, miles, light years even - that you use to measure the separations. It is a scale-invariant number.  
+  
+ If you suppose the *n* mass points represent stars in the heaven and in their totality make a model universe, then, by analogy with the intrinsic size I defined for a triangle, *C* is the intrinsic size of the universe in the instant in which the points are distributed in a given way. If the separations between the particles change, so will *C*. Which means the universe will get larger or smaller intrinsically - not with respect to some absolute ruler, the way that Isaac Newton thought about things, but also one that a remarkable number of scientists still do unconsciously.  
+  
+ Digging a bit deeper, one finds there is a lot more to this measure of intrinsic size, *C*. As it happens, it’s also the most direct measure of the variety, or complexity, of a distribution of points in space.  
+  
+ This is because it is a positive number and has an absolute minimum which is realised when the points are more uniformly distributed than in any other possible way. If, from such a uniform state, the points begin to form structured clusters, *C* increases of necessity. This is why it is a measure of complexity and why my collaborators Tim Koslowski, Flavio Mercati and I have given it that name and the notation *C*.   
+  
+ For three particles, the minimum value of *C* is when they form an equilateral triangle. For shards - those triangles with one side much shorter than the other two - it gets larger and larger as they get ever more pointed. Furthermore, nothing can stop *C*, the complexity of a system, getting ever greater.
+
+\_\_\_
+
+C, the measure of intrinsic size as well as the measure of complexity, is directly related to Newton's theory of universal gravitation.
+
+\_\_\_
+
+**Dynamics without absolute measures**  
+  
+ This is where things really start to become interesting. *C*, the measure of intrinsic size as well as the measure of complexity, is directly related to Newton's theory of universal gravitation.    
+  
+ Most readers will know that Newton’s theory is based on the famous forces that decrease in strength inversely with the square of the distance between any two particles. What they may not know is that these forces acting in a system of *n* particles are derived from a quantity that is called the Newton potential.   
+  
+ To find the Newton potential, you consider all *n(n-1)/2* pairs of particles and for each pair multiply their masses and divide that product by the distance between them. You then add all the resulting numbers, which gives you the value of the Newton potential. If the masses are all equal and given the nominal value 1, you find something whose significance has not, I believe, been properly recognised, if at all: The mean harmonic length that I introduced earlier is 1 divided by the Newton potential.  
+  
+ This finding essentially means that the distance between two particles that features in Newton’s law of gravity is not, as Newton had assumed, the absolute distance, as measured from some external vantage point, but the intrinsic distance associated with the mean harmonic length, which in turn, when divided into the root-mean-square length, gives the complexity *C* and with it the intrinsic size of the system of mass points. Thus, the two most fundamental quantities that appear in the standard representation of Newton's theory - distance and the Newton potential - are more or less forced upon us as soon as we try to characterize a universe of mass points intrinsically.  
+  
+ But Newton didn’t only assume an absolute space and ability to measure scale. He also assumed the existence of an absolute time, position and orientation. But what if we do away with all Newton's absolutes, so that one is left solely with things that can be measured from within in the universe? Doing so matches the fact that we never actually see space and time, but only things and the way they change, in themselves and relative to each other. This type of change, as we will see, is what produces a direction of time.   
+  
+ Students learning physics at school often have to apply Newton's law of universal gravitation to find how a planet orbits the sun. In effect, students are told to solve the two-body problem in Newton's absolute space. However, that's a fictitious framework. The validity of Newton's laws was not confirmed relative to an invisible, absolute space but relative to the fixed stars. That is what astronomers see, not absolute space. Moreover, during the period when Newton's laws were confirmed and for over 200 years, the clock that was used to measure time was the rotation of the earth, which causes each fixed star to sweep through the meridian once a day. That defines what is called sidereal time. So once again, the time used here was an internal, relative time – measured from within the universe, not some absolute, Newtonian time outside it.   
+  
+ Let us now think about the model universe of *n* point particles governed by Newtonian gravity. Bearing in mind that astronomers can only make meaningful statements about things that can be seen and measured, let us insist that the only solutions of Newton's laws that govern the model universe exhibit no trace at all of any of the absolute - invisible and insensible - measurements that Newton mistakenly thought he had to employ. This drastically reduces the number of possible solutions of his law. For example, in the absence of absolutes and when there are just two point-particles in the universe, all we can say is that they are either coincident or there is space between them. We cannot say how much there is since there is no independent ruler to measure that distance.  
+  
+ If there are three particles in the universe, they must always be at the vertices of a triangle. Now a triangle has a shape, which is determined, as we saw earlier, by the relative length of each of its sides. If we consider the three particles to constitute a model universe, there is no sense to the question of how big the universe is -  it is only the shape of the triangle  - the position of the three particles -  and its ability to change shape, that is real. In the absence of an external reference point, there is also no orientation to the changes in shape of the triangle, and in the absence of an external clock, there is also no telling how fast the triangle is changing shape. However, it does change in an objective way, determined by the intrinsic core of Newton's theory.
+
+\_\_\_
+
+Incredibly important discoveries were made in thermodynamics, but all for systems confined effectively in a box. But is the universe in a box?
+
+\_\_\_
+
+**Towards a Newtonian arrow of time**   
+  
+ Newton's laws themselves do not specify a direction of time; they are said to be time-reversal symmetric.   
+  
+ The fact that apart from some tiny effects all processes in nature are observed to unfold in the same direction - we and the stars all get older in the same direction - has been a puzzle since the laws of thermodynamics were discovered in 1850. The phenomenon is known as the arrow of time. It is manifested in the famous second law of thermodynamics, in accordance with which a quantity known as entropy and usually interpreted as a measure of disorder has a built-in tendency to increase, leading to a bleak prospect for the universe known as heat death. This has been a great problem since the discovery of the laws of thermodynamics in 1850, because it required one to assume that in the past the entropy of the universe had been incredibly low and nothing in the known laws of physics could explain why.
+
+\_\_\_
+
+The fact that arrows of time exist of necessity in Newton's theory without any need to postulate, in addition to Newton's laws, some extra initial (low entropy) condition in the past, changes the whole debate.
+
+\_\_\_
+
+In my book *The Janus Point*, I argue that the law of entropy increase needs to be applied with caution to the universe as a whole. Incredibly important discoveries were made in thermodynamics, but all for systems confined effectively in a box. But is the universe in a box? The universe modelled by the problem of *n* point particles most definitely is not and suggests that the arrow of time has a quite different origin. Indeed, one can be found directly in Newton's theory when used to model, not just the solar system, which is part of the universe, but the universe itself. For this purpose, the only solutions that should be considered are those that contain no trace of the effect of the absolute structures that Newton needed to describe the solar system.  
+  
+ The succession of shapes that is found in such solutions is very interesting and is of two kinds, one much more special than the other. In the less special solutions, you can arrange the shapes along a timeline and you then find that the complexity *C*, the measure of how varied a given shape is, has its smallest values in a certain region and grows to infinity in either direction away from it. In fact, in the Newtonian representation the size of the model universe, measured by the root-mean-square length, has its smallest value more or less in the middle of the region of lowest complexity at what I call the Janus point after the Roman god who looks in two opposite directions of time at once. The justification for this is that the increase of complexity away from the Janus point defines a direction of time in each of these two directions. After all, any intelligent beings in such a universe must be on one or other side of the Janus point and will find the complexity growing in one direction even though the laws that govern the motion are time-reversal symmetric.
+
+\_\_\_
+
+Whereas the increase of entropy in confined systems corresponds to an increase of disorder, the increase of complexity corresponds to an increase of order.
+
+\_\_\_
+
+This fact, that arrows of time exist of necessity in Newton's theory without any need to postulate, in addition to Newton's laws, some extra initial (low entropy) condition in the past, changes the whole debate. For beings in the universe there is bound to be a special state in their past, but it does not need to be put there as an additional condition. Newton's laws say it must be there. Moreover, the nature of the arrow is different. Whereas the increase of entropy in confined systems corresponds to an increase of disorder, the increase of complexity corresponds to an increase of order. In the region of the Janus point, the particles are typically moving around in a random way like a swarm of bees, but with increasing distance in either direction along the timeline clusters of particles form with a motion that is much more ordered. In particular pairs form and orbit around their centre of mass in the elliptical motion that Kepler discovered in the case of planets moving around the sun. These 'Kepler pairs', which have regular periods, constant sizes and fixed directions of their major axes, become clocks, rods and compasses all in one. Existing within the universe, they are intrinsic. They are born out of chaos and show that Newton's theory is much more than simply a theory of clockwork motions. It is simultaneously a theory of how the clockwork is created. Moreover, since Newton's theory of gravity is in many cases an excellent approximation to Einstein's theory, there is a good chance a similar situation will be realized in that theory too.  
+  
+ I hope you will agree that rather wonderful and surprising things follow from exploring the implications of the inescapable fact that size is relative. Near the end of writing *The Janus Point*, I even came to conjecture that the complexity not only defines the direction of time but could be time itself. If correct, this is almost certain to have far-reaching implications for our understanding of quantum mechanics and all those mysteries associated with Schrödinger’s cat.

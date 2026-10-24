@@ -1,0 +1,127 @@
+---
+title: "Consciousness research is ready for its Einstein moment"
+subtitle: "Einstein's abandonment of the ether holds the key to consciousness"
+author: "Harald A. Wiltsche"
+date: "22nd October 2026"
+article_id: "3709"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,459 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-research-is-ready-for-its-Einstein-moment.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/consciousness-research-is-ready-for-its-einstein-moment-auid-3709"
+---
+
+# Consciousness research is ready for its Einstein moment
+
+*Einstein's abandonment of the ether holds the key to consciousness*
+
+**By Harald A. Wiltsche** | *22nd October 2026* | *Read time: approx. 12 mins* | *2,459 words*
+
+![Consciousness research is ready for its Einstein moment](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/consciousness-research-is-ready-for-its-Einstein-moment.webp)
+
+---
+
+*It remains a mystery about how consciousness relates to neural mechanisms. Now, with the advent of AI, some argue that consciousness could emerge in these systems. Here, philosopher and Lead for Responsible AI at Microsoft **Ken Archer**, and phenomenologist **Harald Wiltsche**, argue that the attempt to reduce consciousness to a mechanism won't work and relies on a misunderstanding. Instead, using Einstein's re-thinking of the ether as a guide, we can unlock the mystery of consciousness.*
+
+The strongest argument for believing that AI can become humanly intelligent, or even conscious, seems to come from science. Neuroscience, we are told, is steadily revealing—or will reveal, given enough time—that intelligence and consciousness are nothing more than what the brain’s neural mechanism does. Evolution appears to make the conclusion unavoidable. Matter existed for billions of years before intelligent and conscious beings appeared. Conscious intelligence emerged from that matter through natural processes. So intelligence and consciousness must ultimately be reducible to particular organizations of matter, which neuroscience tells us is a particular organization of neurons.
+
+To resist the reducibility of intelligence and consciousness to some type of organization of matter can sound like [resisting science itself](https://iai.tv/articles/science-must-move-from-materialism-to-mystery-auid-3430). Perhaps consciousness seems irreducible only because we do not yet understand the mechanism. Give neuroscience another century and the mystery will disappear, just as so many earlier mysteries disappeared before it. With the ability to do neuroscience-like experiments on AI neural networks—known as mechanistic interpretability—perhaps the mystery will disappear even sooner.
+
+But there is something peculiar about this debate. Those who are most philosophically reductionist about the mind are often the most optimistic about artificial intelligence. If consciousness is ultimately nothing more than the operation of a physical mechanism, then there seems little reason in principle why the relevant mechanism must be made of neurons rather than silicon.
+
+Yet the reverse position contains an equally revealing irony. Many who resist reducing human consciousness to “merely” neural activity become strikingly reductionist when they turn to AI: whatever impressive behavior a machine exhibits, we are told, it is still “merely computation.” The anti-reductionist about the human mind becomes a reductionist about the artificial one.
+
+[![related-video-image](https://iai.tv/assets/Uploads/cracking-the-code-for-thought.webp)
+
+SUGGESTED VIEWING
+Cracking the code for thought
+With Roger Penrose, Sabrina Gonzalez Pasterski, Max Tegmark, Güneş Taylor](https://iai.tv/video/cracking-the-code-for-thought)
+
+These positions appear to be opposites. In fact, they share a deeper assumption. Both have come, without quite noticing it, to understand reduction as the identification of a phenomenon with a mechanism. They disagree over whether the mechanism is sufficient to produce consciousness, but agree that finding—or failing to find—the right mechanism settles the question.
+
+That is not the kind of reduction that produced some of the deepest advances in science. Scientific reduction has repeatedly succeeded not by discovering that one thing is “merely” another thing—as with, say, germ theory’s identification of specific pathogens as the mechanism of disease—but by discovering a deeper invariant structure through which apparently different phenomena become intelligible as transformations of the same underlying order.
+
+We should reduce consciousness. The problem is that today’s reductionists don’t reduce it far enough.
+
+**Thingification**
+
+The history of physics is not simply a history of explaining complex things in terms of smaller things. Its great reductions have repeatedly occurred when apparently different phenomena were shown to be varying transformations of a deeper invariant structure. Galileo and Newton discovered mathematical invariants—such as inertia—beneath the bewildering variety of terrestrial and celestial motions. Maxwell brought the phenomena of electricity, magnetism and light into a common mathematical order. Einstein found a deeper invariance beneath observations of space and time that appeared incompatible from the standpoint of classical mechanics. The task is not even finished within physics itself: quantum reconstruction programs are explicitly searching for the analogue of Einstein’s invariant—the deeper structure that would make quantum mechanics as intelligible as special relativity became once physics gave up the demand for a mechanical substrate.
+
+But these successes repeatedly introduce a characteristic intellectual temptation. Having discovered an invariant structure [that makes phenomena intelligible](https://iai.tv/articles/consciousness-is-the-hidden-architecture-behind-fundamental-and-quantum-physics-auid-3523), we want more than intelligibility—we want a mechanism—so we turn the invariant into a thing. Call this thingification. The mathematical achievement of one reduction becomes an ontology: the hidden machinery that supposedly causes the phenomena. Nature must be made of corpuscles, gears and vortices; light, being a wave, must be a mechanical disturbance travelling through an ether. And once yesterday’s successful reduction has been thingified, tomorrow’s phenomena are only real when explainable on its terms.
+
+This reverses the direction in which scientific discovery actually works. The phenomena no longer determine what would count as an adequate explanation. Our preferred explanation determines which phenomena we are prepared to take seriously.
+
+Some of the greatest advances in physics have occurred when scientists reversed that reversal. The luminiferous ether is a particularly revealing example. Nineteenth-century physics had discovered something profound about light: its behavior could be captured by Maxwell’s electromagnetic equations. But physicists assumed that waves had to be waves *of something*. The extraordinary success of mechanics had hardened into a conception of what physical causation itself must look like. Electromagnetism therefore needed a mechanical substrate.
+
+Einstein’s achievement was not to discover the hidden machinery of the ether. It was to take the recalcitrant phenomena seriously enough to abandon the demand for such machinery. What had seemed to require a mechanism instead pointed toward a deeper transformation in our understanding of space, time and motion.
+
+**Thingification of consciousness**
+
+We may now be making the same mistake with consciousness.
+
+Consciousness is among the most extraordinary phenomena nature has produced. There are beings who live through a streaming flow of conscious experience; who experience other conscious beings as living through radically other streaming perspectives on what is nonetheless the same shared world; who dread or hope for how conscious experience will stream forward, as it incessantly does, and so seek escape into past memories or future anticipations.
+
+Yet confronted with these phenomena, we immediately turn our attention away from them and toward the mechanism of the day: the neural mechanism.
+
+\_\_\_
+
+Perhaps consciousness is telling us that our present mechanical conception of nature is incomplete.
+
+\_\_\_
+
+We look for neural correlates of consciousness, neural mechanisms of attention, neural representations of objects, and neural correlates of various emotions. This research is invaluable for understanding how conscious states are realized, disrupted, and altered within a physical system. But somewhere along the way, a perfectly legitimate scientific question—*what happens in the brain when we are conscious?*—quietly becomes a metaphysical answer: *consciousness is what the brain does*.
+
+That conclusion does not follow.
+
+The problem is not that neurons are irrelevant to consciousness. Clearly they are not. The problem is assuming in advance that a given mechanistic explanation sets the terms for what counts as the explanandum. We have turned a method of discovery into a restriction upon discovery.
+
+**Letting the phenomena set the terms**
+
+A more radical reductionism would proceed in the opposite direction. It would begin with the phenomenon that needs explaining and allow that phenomenon to set the terms for what an adequate account would have to explain. If our current conception of natural processes cannot adequately explain consciousness, perhaps consciousness is telling us that our present mechanical conception of nature is incomplete.
+
+That is what anomalous phenomena have repeatedly done in the history of physics. They have demanded not an abandonment of reduction but a new reduction: a deeper invariant capable of making intelligible both what the old theory explained and what it could not. It strains credulity to think that consciousness will be explained without another such advance.
+
+**The hard problem, one step too soon**
+
+Instead, we have allowed consciousness to be defined in terms of neural mechanisms, through the following two steps. First, we are told that intelligence is a mechanistic phenomenon: “perceptual discrimination, categorization, internal access, verbal report” in [David Chalmers](https://iai.tv/video/from-the-matrix-to-the-metaverse)’ well-known presentation. On this view, whatever a system does—biological or artificial—counts as intelligent to the degree that it performs these functions, regardless of what, if anything, it is like to be that system.
+
+Second, consciousness is narrowed and set aside as a separate question entirely: the “hard problem,” as opposed to the “easy problems” of discrimination, access and report. The easy problems are hard only in the mundane sense that neuroscience has not yet worked out the mechanisms. The hard problem is hard in a different sense: even a complete account of the mechanisms would not tell us why any of it is accompanied by subjective experience at all.
+
+This looks like a modest, careful distinction. It is actually the thingification move again, one step further along.
+
+Notice what has happened. A particular mechanism has been taken as the terms in which intelligence itself must be defined. Once this is settled, anything about conscious experience that does not show up in those terms is either illusory—as many maintain—or is instead reclassified as a different kind of thing altogether: private, ineffable, a “feel” attached to the mechanism rather than a structure to be explained by it.
+
+\_\_\_
+
+What is needed is not a defense of qualia against reductionism, nor a doubling down on computation as the measure of intelligence, but a deeper invariant capable of doing for the stream of experience what Maxwell’s equations did for electricity, magnetism and light.
+
+\_\_\_
+
+But a fact so thoroughly withheld from structural description is a strange sort of fact for a reductionist to accept at face value. Compare it to how Einstein actually treated the recalcitrant behavior of light. He did not conclude that the ether’s nature was forever inaccessible to structural description—a residue no equation could capture, however complete. He concluded that the demand for a mechanical substrate had been the wrong demand from the start, and he went looking for the deeper invariant that would make the phenomena intelligible on their own terms.
+
+The hard problem, as usually stated, forecloses this move before it can be attempted. It takes the mechanistic account of intelligence as fixed and treats whatever escapes it as forever escaping explanation, rather than treating the escape as evidence that the original invariants are incomplete. One might object that physics is the wrong guide here. Biology and chemistry, after all, are disciplines where mechanistic reduction has repeatedly succeeded—why not expect the same of consciousness, given enough time and finer mechanisms? But the situation we face in trying to scientifically grasp consciousness resembles Einstein’s nineteenth-century predicament more than it resembles an ordinary unsolved biological mechanism. The very persistence of the hard problem—the fact that no amount of added mechanistic detail seems to close the gap—is the same signature the ether case displayed: not an incomplete mechanism, but the wrong kind of explanation altogether.
+
+**The stream**
+
+Return, then, to the phenomena themselves, and let them set the terms, as the history of physics counsels. What would we have to explain? Not a bare, atomic “feel” sitting inertly beside the mechanism, but the rich stream of experience already sketched earlier: a flow of conscious experience that does not present itself in discrete frames but as a continuous stream; and not a chaotic flow of incoherent change, but one coherently structured as unities of change; a world that is given as perspectival and yet shared with others who bring their own perspective; and a sense of being thrown into the flow that provokes moods of anxiety and hope and a sense of responsibility to the future. These are not mysterious residues. They are structural, describable, and [in the hands of Husserl and others](https://iai.tv/articles/consciousness-is-the-hidden-architecture-behind-fundamental-and-quantum-physics-auid-3523) have already been described with considerable clarity.
+
+One might object that all of this structure could in principle be present with nobody home—that a system could stream, anticipate, and take up a perspective on a world shared with others, and still be, in Chalmers’ own phrase, dark inside. But notice what this objection already assumes. It pictures cognition as a mechanism running on its own, complete in itself, to which experience is then added or withheld as a further ingredient—an inner glow the mechanism happens to have or lack. That picture is not a neutral description of the phenomena. It is the thingification diagnosed above, arrived at a second time. Intelligence was first defined out from under consciousness by fixing it in mechanistic terms; now the very structure recovered by returning to the phenomena is treated as one more external mechanism, to which consciousness might or might not be separately attached.
+
+[![consciousness is the hidden architecture](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/consciousness-is-the-hidden-architecture.webp)
+
+SUGGESTED READING
+Consciousness is the hidden architecture behind fundamental and quantum physics
+By Harald A. Wiltsche](https://iai.tv/articles/consciousness-is-the-hidden-architecture-behind-fundamental-and-quantum-physics-auid-3523)
+
+But a being who streams, anticipates and shares a world with others does not have an inner light switched on beside these activities. Having a streaming perspective on a world constituted with other similarly conscious, perspectival beings as a single, shared world simply *is* how the phenomena of conscious experience presents itself. The zombie is conceivable only for someone who has already split cognition from consciousness and is now asking whether the two might be glued back together—which is exactly the dualism a genuine reduction is supposed to dissolve, not smuggle back in through the shape of a thought experiment.
+
+If this is right, then the contrast between intelligence and consciousness—function on one side, private quale on the other—is not a discovery about the deep architecture of mind. It is the shadow cast by an incomplete reduction, the same shadow the ether cast over electromagnetism. What is needed is not a defense of qualia against reductionism, nor a doubling down on computation as the measure of intelligence, but a deeper invariant capable of doing for the stream of experience what Maxwell’s equations did for electricity, magnetism and light. Until that invariant is found, calling one side “easy” and the other “hard” only dignifies, with the vocabulary of humility, a reduction that stopped one step too soon.
+
+**AI Reductionism Stops Too Soon**
+
+Ask whether an AI system can become conscious, and the honest answer is that our present structural understanding of nature was not motivated to account for consciousness or intelligence. Genuine reduction would not fix the terms of intelligence or of consciousness in advance. It would let the phenomena of conscious experience set the terms, and then ask what invariant persists through the manifold transformations of conscious experience. Only then could we ask whether a machine could instantiate the invariants of consciousness or of intelligence. Until AI research is willing to be reduced that far, it is not being reductionist. It is only borrowing reductionism’s authority while quietly discarding its discipline.
+
+This is not merely a promissory note. Whatever invariant eventually does justice to the stream of conscious experience, it is unlikely to be found in systems that lack the structure that stream requires: no persistence between one exchange and the next, no living retention of what came before or anticipation of what comes next, no answerability to a world encountered and revised through action. As we argued in [a previous piece for this website](https://iai.tv/articles/language-maths-and-code-extend-the-human-mind-out-into-the-world-auid-3576), today’s large language models operate on the sediment of language—the accumulated trace of countless acts of perception and judgment already stabilized into words—rather than on the streaming, anticipatory activity that deposits that sediment in the first place. Until that gap is closed, the question of AI consciousness has not even been properly posed, let alone answered.

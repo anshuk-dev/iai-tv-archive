@@ -1,0 +1,67 @@
+---
+title: "Referencing is a sham"
+subtitle: "How authority gets mistaken for the truth"
+author: "Nina Lyon"
+date: "18th March 2024"
+article_id: "2778"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,378 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-03-19-Against-referencing.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/referencing-is-a-sham-auid-2778"
+---
+
+# Referencing is a sham
+
+*How authority gets mistaken for the truth*
+
+**By Nina Lyon** | *18th March 2024* | *Read time: approx. 7 mins* | *1,378 words*
+
+![Referencing is a sham](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-03-19-Against-referencing.webp)
+
+---
+
+*Referencing is supposed to improve writing by making it accountable to its sources and to external facts. But the rise of in-text referencing has been bad for academic writing, making it even less readable and encouraging readers and writers to mistake appeals to authority for the truth. Addressing the problems of referencing will help improve how we think as well as how we write.*
+
+Browse the writing guide on any university website and you’ll soon alight on a webpage explaining the importance of referencing for academic integrity. Referencing is important because it makes the writer more accountable to their sources. It makes the writer more credible by ensuring that each claim is backed up by the best available evidence in the form of little nuggets of authoritative truth. It provides the reader with access to useful further reading on the subject of the piece. Referencing enforces scientific integrity on ever-broader domains of knowledge, enabling the social sciences to operate in a similar manner to the empirical sciences when it comes to building new sets of ideas from established units of work. From the premises established by credible references, we can infer new and reliable conclusions.
+
+That is, at least, how referencing is supposed to work. But the social sciences in particular are in the grip of a [replication](https://en.wikipedia.org/wiki/Replication_crisis) crisis, with the majority of published studies in some areas of [psychology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4436798/) and an increasing number of studies in [economics](https://theconversation.com/the-replication-crisis-has-engulfed-economics-49202) failing to replicate. Factors contributing to this crisis include publication bias, selective reporting of results and flawed statistical methods. If the aim of referencing is to root claims in externally verifiable truth, those truths are looking shaky.
+
+\_\_\_
+
+Authority – whether or not a study or author is high-status – becomes a substitute for truth*.*
+
+\_\_\_
+
+Referencing carries a cost to the written text too, imposing cumbersome parentheses that contribute to the notorious unreadability of [academic writing](https://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/). Parenthetical referencing, in which the author and date is inserted into the text, became more dominant as a citation style from the late 20th century onwards. First used in a paper about slugs by a Harvard zoologist in 1881, it evolved in Harvard and then in wider academic communities as a means of signposting the reader to previous works at a glance, without the laborious task of tracking down the footnotes. The American Psychological Association adopted a similar style in 1952 which became popular across the social sciences, emphasising the relevance of the author and the date of their research.
+
+This style of referencing drops an [appeal to authority](https://en.wikipedia.org/wiki/Argument_from_authority) within each claim: this point is valid because *X* said so. While the intention may have been to use the author of a paper as a proxy for the empirical content of the paper itself, as social animals we tend to assign status to ideas based on whose ideas they are. The credibility of that empirical content is also less secure in the social sciences, in which many influential theories are purely qualitative, and where quantitative studies are prone to subjective interpretation. Authority – whether or not a study or author is high-status – becomes a substitute for truth. 
+
+It becomes more tempting for writers to name-drop authors who are socially or professional salient to them, while perpetuating the self-deception that the practice of referencing is hewing their work closer to the truth. This also militates against original thinking, because it’s socially safer to stay within the domain of authoritative – or high-status – ideas than to carve out anything new.
+
+Steven Pinker’s 2014 essay [*Why Academics Stink at Writing*](https://www.chronicle.com/article/why-academics-stink-at-writing-and-how-to-fix-it/) identifies defensiveness as a factor in stylistically poor writing: asserting a point simply puts the academic writer at risk of being viewed as simple. This leads to overcautious linguistic hedging, resulting in dense, clause-laden writing. In-text referencing norms only compound this defensiveness – if you are taught that you can only make a claim if that claim has already been authoritatively made by someone else, it can feel risky to assert any ideas of your own. Language alone becomes insufficient to carry an argument. Statements lack credibility if they can’t be backed up in parentheses.
+
+If these referencing practices undermine trust in writers to make an argument of their own, they also underestimate the capacity of readers to parse information for themselves. The development of ideas in the Islamic Golden Age, the Enlightenment and the various scientific and technological revolutions of the nineteenth century entailed discussing and transmitting knowledge, but this was largely done discursively, presenting the writer’s interpretation of another thinker’s work along with their own proposed innovations to those ideas. In a narrative argument, the writer is asserting their own account of an area of knowledge and the reader is invited along to bring their own critical eye to any of these claims. There’s no elevated claim to truth by virtue of someone else having said it; an idea is simply an idea to be evaluated.
+
+Essay-writing is an important element of academic pedagogy and intellectual development. When we write, we thrash out formerly inchoate ideas into a more coherent order. If you aren’t permitted to write down your chain of thought, because no thought in that chain is admissible before fact-checking it first, it becomes harder to think. Perhaps you could just do it, and retrofit it with references. But that’s not how references are supposed to work – you’re supposed to use them as a factual starting point, and build your argument from there. This encourages either avoiding originality or [cherry-picking](https://en.wikipedia.org/wiki/Cherry_picking) sources to support the point you were going to make anyway.
+
+Students are increasingly accused of lacking intellectual [autonomy](https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1411) – if the accusations are merited, perhaps it isn’t surprising given the fire-and-brimstone briefings they’re given about academic honesty and plagiarism. What if you make what you believe to be a new and original point, unacquainted with the entirety of literature in the field, and [Turnitin](https://en.wikipedia.org/wiki/Turnitin) flags it as plagiarism?
+
+If you have something new you want to say, the alternative strategy of cherry-picking sources is more appealing, but it is also dishonest – you are cloaking an argument in signifiers of external credibility rather than allowing it to be assessed on its own merits. It’s easy to get away with because so few people read academic writing, partly because it’s aggressively gatekept by a dysfunctional [publishing](https://www.thebookseller.com/comment/academic-publishing-broken-1257894) system and partly because it’s stylistically [terrible](https://areomagazine.com/2020/07/06/writing-wrongs-why-academics-write-so-badly-and-how-that-hurts-them/).
+
+\_\_\_
+
+We place too little trust in today’s readers if we think they’re incapable of triangulating the claims in a narrative argument without being given little nods to authority along the way
+
+\_\_\_
+
+If referencing exists to further accountability, it would be better to open academic writing up to a wider audience so that ideas in development can be made robust by through intellectual challenge. This means making it more readable. Removing in-text references is a step in this direction; removing the burdensome and often perverse incentives they bring to academic writing would help too.
+
+Accountability when citing other thinkers’ ideas or empirical support for a claim remains important. Journalism’s move online has seen a shift to using hyperlinks for sources. The natural sciences use numbered footnotes when a study needs to be cited or a claim backed up. Earlier academic works in the humanities and social sciences used footnotes too, allowing the main argument to take place in unencumbered prose.
+
+It’s a more pleasurable experience reading discussions of mathematics or philosophy or psychology from over a century ago, even taking into account changes in language and idiom that make older texts harder. There are, of course, exceptions – being born in the eighteenth century didn’t insulate Kant from being stylistically challenging – but there is an elegance and simplicity in earlier texts that much of today’s academic writing has lost.
+
+Before the professionalization of academia, journals were written by and for intelligent generalists. We place too little trust in today’s readers if we think they’re incapable of triangulating the claims in a narrative argument without being given little nods to authority along the way – and if they’re expected to take those nods to authority at face value, we’re insulting their critical faculties too. To write clearly is to think clearly. To read clearly is to have the headspace to evaluate ideas with a critical eye. Academic writing needs cleaning up – in-text referencing is one place where that endeavour could start.

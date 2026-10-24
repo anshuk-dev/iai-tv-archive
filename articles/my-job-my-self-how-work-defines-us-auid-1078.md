@@ -1,0 +1,89 @@
+---
+title: "My job, my self: how work defines us"
+subtitle: "Rather than serving our individual passions, work is essential to being human"
+author: "Al Gini"
+date: "Issue 66, 3rd May 2018"
+article_id: "1078"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,633 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sisyphus-al-gini-my-job-my-self.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/my-job-my-self-how-work-defines-us-auid-1078"
+---
+
+# My job, my self: how work defines us
+
+*Rather than serving our individual passions, work is essential to being human*
+
+**By Al Gini** | *Issue 66, 3rd May 2018* | *Read time: approx. 8 mins* | *1,633 words*
+
+![My job, my self: how work defines us](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sisyphus-al-gini-my-job-my-self.webp)
+
+---
+
+Work is not something detached from the rest of human life. It rather is synonymous with life. In the words of Pope Piux XI, we humans are “born to labor, as a bird is born to fly.”
+
+As adults there is nothing that more preoccupies our lives than work. For 95% of us, work is an entirely non-discretionary matter. We must work. We do not sleep, spend time with our families as much as we work, eat or recreate or rest as much as we work. Whether we love our work or hate it, succeed in it or fail, achieve fame or infamy through it, we are all – like Sisyphus – condemned to push and chase that thing we call our *job*, our *career*, our *occupation*, our calling or our vocation all our days. “Even those of us who desperately don’t want to work,” said the American poet Ogden Nash, “must work in order to earn enough money so that they won’t have to work anymore.”
+
+I have been fascinated by work.
+
+I come from a family of workers who immigrated to the United States in the early 1900s and who, by dint of their labor, not only survived but thrived. My family valued and honored work. They believed in it and praised it. It was their yardstick for measuring status and success. Although there was no shame in being “out of work” because you lost your job due to economic hard times, work was an obligation of adult life. The only sin was in not wanting to work, in being lazy.
+
+\_\_\_
+
+For the men and women of my family, work was the active demonstration of their life and the proof of their commitment to one another.
+
+\_\_\_
+
+My maternal grandfather, for example, was finally forced out of his janitorial job, for insurance reasons, when he was in his late eighties. My father and uncle stayed on their jobs well into their seventies. My beloved godmother worked for the same company for forty-eight years. And my mother retired in her late sixties, only because I begged her to do so in order to help care for my youngest child. For the men and women of my family, work was the active demonstration of their life and the proof of their commitment to one another. Work was a source of pride and a badge of honor for responsibilities accepted and borne bravely.
+
+In an old, Italian neighborhood of Chicago, long before the cloistering effects of television and air-conditioning, summer nights were spent outside. While it was still light, the boys played baseball in the street, the girls jumped rope on the sidewalk, and the adults – segregated by gender – would sit on the front steps and talk. When it got too dark to play, the younger children were sent to bed. The older kids had the option of laying claim to a porch of their own or joining the adults, but only to listen, never to be heard. More often than not, I joined the adults, sometimes the women but most often the men.
+
+Their conversation was limited almost completely to two topics only: sports and work. Since most of the men were either recently arrived or first-generation citizens, the sports conversation didn’t last long. What they ended up talking about all night, every night, was their work. They bemoaned it, complained about it, dissected it, and decried it. They also bragged and boasted about their work and retold complicated stories extolling their efforts, duties, and responsibilities on the job. Work was the center of their lives, and – love it or hate it – work was the only thing these guys really knew and understood well enough to discuss at length.
+
+I was both fascinated and frightened by what these men had to say. They taught me that there was dignity in work, a sense of fulfillment and satisfaction in earning your way and providing for your family. They taught me that an honest man should never be too proud to do whatever was necessary – no matter how humbling or backbreaking the effort – in order to earn an honest dollar. They also taught me that work could wear you out and break you down.
+
+\_\_\_
+
+We cannot understand a person unless we understand his or her work and how he or she deals with it.
+
+\_\_\_
+
+These men knew that although working was a human necessity, not every job offered satisfaction, meaning, or even decent money. The honor was in surviving the doing, not in what was being done. Having to do unpleasant, unsatisfying work could never be used as an excuse for not working at all. They taught me – as Abraham Lincoln’s father taught him – to work hard but not necessarily to love my work. At the same time, they warned me in no uncertain terms not to do the kind of work they had to do to earn a living. They told me to go to school, get an education, find better work – work that did not break your spirit or your back, work that did not leave you empty and disappointed.
+
+As I grew up I quickly realized that the lessons and wisdom of my neighbors and family were not unique to the Italian-American community. The “work ethic”, whether it was “Protestant,” “Catholic,” “immigrant,” or anything else, was the law of the land. Work was as expected as the sun rising each day. Ironically, one needed only to consult the wording of death notices in the newspapers to fully appreciate the importance of work in our lives. Obituaries almost always list the occupation of the deceased first, the relationships last: “John Doe, leading public interest lawyer, dead at seventy-two…He is survived by his wife, Jane, and his beloved children….”
+
+Work is not just about earning a livelihood, about getting paid, about gainful employment. Nor is it only about the use of one’s mind and body to accomplish a specific task or project.
+
+Work is also one of the most significant contributing factors to one’s inner life and development. Beyond mere survival, we create ourselves in our work. In his classic article, “Work and Self,” Everett C. Hughes argues that work is fundamental to the development of personality. Because work preoccupies our lives and is the central focus of our time and energies, it not only provides us with an income, it literally names us, identifies us – both to ourselves and to others. Hughes was convinced that even when we are dissatisfied with or dislike the work we do, our choice of occupation irrevocably “labels” us, and that we cannot understand a person unless we understand his or her work and how he or she deals with it. In the long run, work can prove to be a boon or a burden, creative or crippling, a means to personal happiness or a prescription for despair. But no matter where we might wind up on this spectrum, where we work, how we work, what we do at work, and the general climate and culture of our particular workplace indelibly mark us for life. Work is the means by which we form our character and complete ourselves in our work. Work is a necessary and defining activity in the development of the adult personality.
+
+According to Catholic theologian Gregory Baum, “Labor is the axis of human self-making.” We both establish and recognize ourselves in our work. Work allows us to find out what we can and cannot do, how we are seen by others, and how we see ourselves. Through work we discover our boundaries and limits as well as our capacities for success. Work is the yardstick by which we measure ourselves against others. It is the means by which we establish our rank, role, and function within a community. Work not only conditions our lives; it is the necessary condition for life.
+
+\_\_\_
+
+We both establish and recognize ourselves in our work.
+
+\_\_\_
+
+Assuredly other factors enter into the question of self-identity: for example, genetic inheritance, race, gender, ethnicity, sexual orientation, religious training, and family background. But even with all of these, work remains an irreducible given, the most common experience of adult life. The lessons we learn at work help formulate who we become and what we value as individuals and as a society. Whatever the conditions of our labor, work shapes us and, unfortunately, often malforms us. But, for good or ill, work makes us human, because we all make something of ourselves through work, and in so doing we recognize ourselves and others in the task of something.
+
+A number of years ago, I attended a family wedding, and the first person I saw was my Uncle Frank. “Hey, college kid,” he said to me as he shook my hand in a vice-like grip and peppered my shoulder with a series of heavy blows. “How you been?” Uncle Frank was in his early eighties but his punches still hurt, as did his annoying habit of calling me “college kid”. I had just turned 60.
+
+“Uncle Frank,” I said, massaging my shoulder, “you look great. Where did you get that tan? Have you been playing a lot of golf?"
+
+“Naw,” he said, “you know I hate golf. I had a couple of jobs this month.”
+
+“Jobs? But you’ve been retired for ten years!”
+
+“Yeah, but they were easy jobs,” said Uncle Frank. “A couple driveways, some concrete steps, a few sidewalks. It was a piece of cake.”
+
+“Uncle Frank,” I said, “this doesn’t make sense. Is something wrong? Do you need money?”
+
+“No! No!” he said. “It’s nothing like that."
+
+“Then why?” I persisted. “Why did you take these jobs?”
+
+Uncle Frank smiled, grabbed me roughly and drew me to him. “Because,” he said with a wink, “I wanted to see if I could still do it, college kid. *Capice*? I just wanted to see if I could still do it.”

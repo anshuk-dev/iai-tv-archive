@@ -1,0 +1,83 @@
+---
+title: "The rewilding paradox"
+subtitle: "A world free of human domination"
+author: "Eric Katz"
+date: "1st December 2023"
+article_id: "2685"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,811 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-631257412-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-rewilding-paradox-eric-katz-auid-2685"
+---
+
+# The rewilding paradox
+
+*A world free of human domination*
+
+**By Eric Katz** | *1st December 2023* | *Read time: approx. 9 mins* | *1,811 words*
+
+![The rewilding paradox](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-631257412-copy.webp)
+
+---
+
+*Rewilding is an increasingly important part of environmental policy today, as a tool to mitigate climate change and increase biodiversity. However, Eric Katz argues that the policy is built on a paradox. While attempting to create “wilderness” free from human intervention, rewilding inevitably subjects nature to human domination, of both its physical processes and its meaning.*
+
+Over the past few decades, the practice of rewilding has gained widespread popularity in the environmental movement. There are now countless rewilding projects, both small and large-scale, across the globe; and the UN recently called for the world to rewild and restore around 1 billion hectares of land to increase the biodiversity of natural systems and to further policies that mitigate climate change.   
+  
+What could be wrong with an environmental policy that attempts to heal the natural world? As a philosopher who focuses on environmental issues, I find that rewilding encounters a problem in meaning. Rewilding is based on a fundamental paradox, indeed, a double paradox.  
+  
+There are many different varieties of rewilding, but the basic model often involves the reintroduction of a keystone species, like beavers or wolves, into an ecosystem to create a self-sustaining, autonomous natural system. Autonomy is the crucial idea here. After the re-introduction of whatever plants or animals are necessary for the functioning of the ecosystem, humans permit the system to develop on its own without management and intervention.  Rewilding is an environmental policy that seeks to expand the autonomy of nonhumans in the natural system. It wants to create a robust wild ecosystem—hence the label “rewilding.”  For its advocates, this means a natural environment that exists largely independently of humans and human activity within the ecosystem.  
+  
+Where is the double paradox?  First, rewilding projects endeavour to create spaces in which nature can develop freely without human interference, but inevitably pursue this ideal through human interference in nature. Second, the very idea of rewilding, creating a “wilderness”, is ultimately a human construct, only intelligible through human concepts. Thus, far from creating a space for the autonomous development of nature, rewilding involves humans physically and epistemologically engaged with the management of nature. Try as we might, we are human beings, with human bodies and minds.  We inevitably impose ourselves on nature, moulding its physical processes and determining its meaning. As the great American philosopher William James wrote in his second lecture on Pragmatism, “the trail of the human serpent is thus over everything”.
+
+\_\_\_
+
+As human beings we engage physically with the world on human terms, transforming it to meet human goals and purposes.
+
+\_\_\_
+
+Let us begin with the physical side of the rewilding paradox.  Even a cursory glance at the history of rewilding projects illustrates that the physical independence of nonhuman natural entities is not easily achieved. Take what is perhaps the most famous rewilding project, the Oostvaardersplassen (OVP) in the Netherlands, as an example. Despite the importance of the experiment and its architect, Dr Frans Vera, to the rewilding movement, the OVP is notorious for its failure to live up to the ideal of autonomous wilderness.  
+  
+As the site was not large enough to sustain a wolf population, no predators were introduced alongside the wild deer, horses and cattle that organisers brought onto the OVP. The result was that the numbers of these animals exploded well beyond the limits of the region to provide vegetation for food, and starvation ensued. The park management had to intervene. Animals had to be culled – i.e. shot – to maintain viable population levels; and in particularly harsh winters, food even had to be brought in to provide for them. No one examining this history would conclude that the OVP is a self-sustaining natural landscape, meeting the ideal of autonomous wilderness. In fact, even the water level of the reserve is continually adjusted through a man-made sluice system.  
+  
+Most proponents of rewilding are quick to distance themselves from the operational failures of the OVP. But beneath these policy issues, the physical paradox remains. Despite its professed ideals of wilderness and nonhuman autonomy, the project did not create a space in which nature could develop freely. Rather, it interrupted the natural development of the area, and subjected it to human intention and design. The keystone herbivore ungulates such as Heck cattle, Konik horses, and red deer were introduced to the OVP to restore and preserve a marshy wetlands area that was conducive to the survival of migratory bird populations. Thus, the natural developmental succession of the reclaimed marshland into a forest landscape was to be prevented. This is not, then, an autonomous natural system. It is a landscape with a particular profile desired by a particular set of human policymakers.  Whether the goal of creating this specific landscape was based on an aesthetic ideal or the belief that “ecosystemic services” benefitting humanity could be produced is ultimately unimportant.  The key point is that the attempt to create this landscape was based on a human plan to meet a human vision.  
+  
+Rewilding then is no different than any other form of human engagement with the world. As human beings we engage physically with the world on human terms, transforming it to meet human goals and purposes – through science, industry, politics, art, and culture. We attempt to improve the world as we find it. Rewilding projects do not then re-create a “wild” nature free from human intervention and activity. They are a form of human management of natural processes, designed to achieve human-centered goals, to meet human wants and needs. It is a delusion to believe that in creating a space to rewild that we are creating a space free of human influence and control, a space of robust nonhuman autonomy.  This is the first paradox of rewilding.  
+  
+We encounter the second paradox of rewilding when we assess the meaning of these re-created landscapes.  At best, rewilded landscapes can be understood as the creation of a nonhuman “other” that lies outside the boundaries of human society and thought. Yet, even when seen in this way the meaning of these landscapes is inextricably bound up with humanity in an inescapable opposition or dialectic. Even if we turn a blind eye to the physical imposition of human intentions on the rewilded landscape, the primary meaning of the area is that it stands in a specific (in this case, negative) relation to human society.  Because “wilderness” itself is a human construct, the rewilded landscape only gains meaning through its conceptual opposition to human civilization. We cannot escape the human perspective that surrounds us.
+
+\_\_\_
+
+“wilderness” itself is a human construct, the rewilded landscape only gains meaning through its conceptual opposition to human civilization.
+
+\_\_\_
+
+And yet this opposition serves a normative purpose. It provides us with a lesson about the value of nonhuman natural systems. Because rewilding attempts to re-create a landscape in which we can visualize robust nonhuman autonomy, it provides us with a valuable example of nonhuman meaning, even if we cannot manufacture an actually “wild” landscape.  
+  
+Consider two hypothetical (but realistic) cases of a rewilded landscape.  Both cases involve a forest and mountain landscape which has not had a wolf population in hundreds of years, although at a given point in history wolves thrived there as part of a healthy and autonomous, nonhuman ecosystem.  
+  
+In Case I, wild wolves migrate into this region from a neighboring ecosystem, entirely on their own, and succeed in establishing a viable, self-sustaining population.  
+  
+In Case II, wild wolves that have been captured by game managers in a neighboring ecosystem are transported to the wolf-less region and released, where they succeed in establishing a viable, self-sustaining population.  
+  
+In both cases the end result is a successful “new” landscape, repopulated by wolves, that is similar to a previous state of the very same landscape before the disappearance of the original wolf population.  
+  
+And yet the cases are different, in their normative value and in their epistemic meaning. Case II involves a human intervention. It involves human intentionality, design, planning, and actual physical activity.  It is a human project, an example of the contemporary environmental policy of rewilding.  Case I, on the other hand, should be understood as an example of natural autonomous rewilding, free from human activity and control. The two cases show us the difference between a natural system that is produced by human management and a natural landscape that is independent and autonomous.    
+  
+Understanding this difference leaves us with a normative lesson, a lesson about the distinct values of these different landscapes. The landscape in Case I is a truly autonomous natural system, and thus it has a different value than the landscape in Case II.  In a world dominated by human technology, science, and engineering, in a world populated by artifactual landscapes created and controlled by humans; nonhuman autonomous systems remind us that there is something beyond society, beyond our control.  These robust nonhuman landscapes remind us of what we will lose if we fail to preserve the nonhuman natural world.  And thus, the preservation of these landscapes should be a primary goal of any meaningful environmentalism.   
+  
+We live increasingly in an environment, in a world, that is dominated by the artifactual products of human activity, in a series of manufactured and artifactual landscapes with virtually no connection to nonhuman natural entities that exhibit robust independence from humanity.  For a fuller and more meaningful life, we need to think about the aspects of the world that are nonhuman; thus there is value in preserving landscapes where nonhuman autonomy is possible.
+
+\_\_\_
+
+Re-wilding can never create landscapes that exhibit a robust nonhuman autonomy, for these landscapes owe both their physical being and their conceptual meaning to the intentions and actions of humanity.
+
+\_\_\_
+
+Does the human project of rewilding help to make possible the continued existence of nonhuman autonomy? Does it make possible the consideration of the value of nonhuman entities free from human interference, management, and control? Only by forcing us to confront the paradoxes and the dialectic of human/nature opposition sketched out above. The process of rewilding can never create landscapes that exhibit a robust nonhuman autonomy, for these landscapes owe both their physical being and their conceptual meaning to the intentions and actions of humanity.  And yet these projects provide us with a moral vision of a possible world free of human domination.  
+  
+Should rewilding projects continue? Of course. I am not against the environmental policy of rewilding.  Rewilding offers valuable lessons in various sciences such as conservation biology, and ecology, and even more so in the history of  human interaction with nature. My analysis of rewilding merely seeks to determine its philosophical meaning. If we get the meaning wrong, if we fail to understand the essence of rewilding as a policy that imposes human purposes on the environment; if we fail to preserve something that exists independently of all human activity, then we will awaken one day to a world that is totally artifactual.  To return to James: the trail of the human serpent will lie over everything.

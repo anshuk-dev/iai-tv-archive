@@ -1,0 +1,78 @@
+---
+title: "How Smart is Your Pet?"
+subtitle: "The answer could shed light on a deeper mystery."
+author: "Ali Boyle"
+date: "18th October 2017"
+article_id: "910"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "2,286 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/octopussmart.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-smart-is-your-pet-auid-910"
+---
+
+# How Smart is Your Pet?
+
+*The answer could shed light on a deeper mystery.*
+
+**By Ali Boyle** | *18th October 2017* | *Read time: approx. 11 mins* | *2,286 words*
+
+![How Smart is Your Pet?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/octopussmart.webp)
+
+---
+
+How smart is your pet? The book *Test Your Cat: The Cat IQ Test* claims to be able to tell you ‘how smart your cat really is’. He or she might be an ‘undiscovered genius’. Using the book, you score your cat on a variety of questions, perform a calculation, and this gives you the cat’s IQ. The first question is whether the cat eats on a regular schedule. The second is whether it eats a variety of foods. There are many other questions. Now, I have no idea how seriously this book is intended to be taken. But it strikes me that there is something very odd about the idea that eating on a regular schedule and enjoying a varied diet have anything to do with intelligence, as we usually understand that term.
+
+Similarly, you sometimes hear people say that a particular breed of dog is highly intelligent. But quite often, what people mean by this is that individuals of that breed are very obedient and can be trained to perform many tasks. This interest in ‘trainability’ is reflected in the British television show *Teach My Pet To Do That*. In each episode, two different pets are compared on their ability to learn a trick, like answering the doorbell or wiping their feet on a mat. The pets might be dogs, cats, miniature horses, even chickens or pigs. If one pet takes to the trick much faster than the other, it can be tempting to say that the first is more intelligent.
+
+Perhaps in a sense they are. The tricks are taught using operant conditioning – when the animal performs the desired behaviour, they get a reward which ‘positively reinforces’ the behaviour. To learn a trick in this way involves latching on to the contingency between act and consequence – ‘figuring out’ just what behaviour the reward is tied to. This might be a component of intelligence, but it can’t be all there is to it. After all, it’s not as though we think that a child must be especially intelligent when we successfully reinforce her good behaviour through the award of gold stars.
+
+As well as this, there are any number of reasons an animal might not succeed in learning the trick. They might be insufficiently motivated by the reward, find the repetition frustrating, or simply be uninterested in what the trainer is up to. In any case, it’s not obvious that any of these traits indicate a lack of intelligence.
+
+\_\_\_
+
+"We should not be too quick to draw conclusions about intelligence from an animal’s success in learning through operant conditioning. More generally, we should be cautious about thinking that this kind of learning is what intelligence is all about"  
+\_\_\_
+
+Octopuses illustrate this point nicely, as Peter Godfrey-Smith notes in his book *Other Minds: The Octopus and the Evolution of Intelligent Life*. Godfrey-Smith writes that whilst in experimental settings, octopuses seem to be rather slow learners, this fits poorly with their behaviour in other scenarios. For instance, some octopuses seem to figure out quite quickly that they can put out the bright lights in an aquarium by squirting jets of water at them. This apparent mismatch may have its roots in a failure of experiments to tap into octopus motivation. In an early study on octopus learning, one octopus would repeatedly break or steal the equipment and squirt jets of water at experimenters. Godfrey-Smith suggests that in this case, ‘the assumption that an octopus would be *interested* in pulling a lever repeatedly to get pieces of sardine,’ was at least partly to blame. ‘Rats and pigeons will do things like that, but octopuses […] tend to lose interest. For at least some of them, taking the lamp down from above the tank and hauling it back to the den – *that* is more interesting. So is squirting the experimenters.’
+
+So, we should not be too quick to draw conclusions about intelligence from an animal’s success in learning through operant conditioning. More generally, we should be cautious about thinking that this kind of learning is what intelligence is all about. But that raises a tricky question: what *is* it all about? That’s a difficult question. There probably isn’t just one thing we’re referring to when we talk about intelligence – and the best way to define the term might depend on our goals in asking the question. So, for now, perhaps a better question is: why do we want to know how intelligent animals are?
+
+I suspect that some of us simply want a better understanding of the mental processes underlying animal behaviour. It's well known that we have a tendency to anthropomorphise animals – to explain their behaviour in terms of beliefs, desires and forms of reasoning that would be appropriate for humans. This isn’t necessarily unreasonable. After all, human and non-human animals alike are products of evolution. This motivated Darwin, in *The Descent of Man*, to write that ‘the difference in mind between man and the higher animals, great as it is, is certainly one of degree and not of kind’. Since our minds may be similar to those of animals in many ways, our tendency to anthropomorphise might not always lead us astray.
+
+\_\_\_
+
+"Many things beside sensory experience make up a mental life. Among them are the cognitive capacities falling under the general heading of ‘intelligence’"  
+\_\_\_
+
+But just as evolution produces different kinds of organisms, it surely also produces different kinds of minds. My mind and that of my cat, for instance, were shaped by different pressures. Our behaviours are driven by very different motivations. It seems highly likely that her cognitive capacities are different from my own. Even our sensory systems present the world to us in very different ways – she can pinpoint the origin of a sound in space far more accurately than I can and has an additional olfactory organ on the roof of her mouth, but doesn’t see as well as I do at short distances or in bright light. A product of evolution she may be, but there’s a sense in which my cat is quite alien to me. It is very hard to imagine what her mental life might be like.
+
+Perhaps, then, when we wonder ‘how smart’ an animal is, it’s not that we want to put a number on their possession of some mental quantity called ‘intelligence’ – as the *Test Your Cat* book claims to do. Perhaps we just want a better idea of what is going on in their heads.
+
+Looked at in this way, questions about animal intelligence have a bearing on questions about ‘what it is like’ to be them. The philosopher Thomas Nagel coined the phrase ‘what it is like’ to refer to the subjective character of experience – how it feels. Philosophers typically illustrate the idea by appeal to sensory experiences – using examples like ‘what it is like to smell coffee’ or ‘what it is like to see red’. Questions about what it’s like to be an animal are notoriously tricky. As Nagel argued, whilst there are undoubtedly facts about what it is like to be a bat, these are facts ‘whose exact nature we cannot possibly conceive’. Bats present a particularly suggestive case because they perceive primarily through sonar – a sense utterly unlike any we possess. But the same type of problem arises when we consider species other than bats. It arises because there are some things which are beyond our capacity to imagine. There are facts about ‘what it’s like’ which can only be known by someone who has *had* the relevant experiences.
+
+Why do I say that questions about intelligence are relevant to such ‘what it’s like’ questions? Because many things beside sensory experience make up a mental life. Among them are the cognitive capacities falling under the general heading of ‘intelligence’. Having or lacking these capacities, or having them to a greater or lesser extent, surely makes a difference to what life is like for us. It shapes our perspective on the world. So whilst we might never know what it’s like to perceive through sonar, we might gain some insight into what it’s like to be an animal if we knew which cognitive capacities it possessed.
+
+To take an example, humans can ‘read minds’. That isn’t to say that they’re telepathic. Rather, it’s to say that they possess a particular cognitive capacity: they can attribute mental states to others. They understand that others behave in certain ways because they have particular *beliefs, desires*, *intentions* and so on. It’s this ability that makes it possible for us to wonder about animal intelligence in the first place. Only a mindreader can wonder what is really going on in another animal’s head.
+
+This, surely, has a substantial impact on what it is like to be human. Without this ability, presumably other humans would appear to us not as agents, but as objects. They might seem to be a rather special kind of moving object, predictable in some ways – but they would not seem to be animated by beliefs and desires. So one approach to wondering what animals’ mental lives are like involves asking whether they are mindreaders – a question which has generated a substantial research programme in comparative cognition research.
+
+We might also ask whether any non-human animals have a kind of memory known as ‘episodic memory’. Episodic memory is memory for events from your past – things like finishing a race, getting married, or falling on your face on the first day of school. Episodic memory is typically distinguished from semantic memory – memory for facts or information. If you remember that Ouagadougou is the capital of Burkina Faso, this is a semantic memory. But if you remember the event of someone telling you that Ouagadougou is the capital of Burkina Faso, this is an episodic memory.
+
+\_\_\_
+
+"Suppose it turns out that animals really do lack episodic memory. It seems this would tell us something significant about their mental lives. Think how important episodic memory is for us"  
+\_\_\_
+
+When the psychologist Endel Tulving first described episodic memory, he proposed that it is uniquely human. Whether this is true is far from clear. Whilst research by Nicola Clayton at the University of Cambridge suggests that scrub jays can recall details of specific past events, some remain sceptical. At the heart of the issue is that episodic memory essentially involves ‘mentally reliving’ or ‘re-experiencing’ a past event. Whereas in semantic memory we simply retrieve information, there is an *experience* involved in having an episodic memory. Sceptics argue that there is no reason to think that the scrub jays have such an experience when choosing between cache sites. Indeed, it is not yet clear what could count as a reason. Lacking such a reason, we might – for the time being, at least – remain agnostic.
+
+But suppose it turns out that animals really do lack episodic memory. It seems this would tell us something significant about their mental lives. Think how important episodic memory is for us. It’s sometimes described as a form of ‘mental time travel’ – it allows us to mentally return to and relive past events. Some think it is intimately connected to both imagination and foresight – the ability to mentally travel into the future and ‘play out’ possible future events. Without episodic memory, it’s been claimed, we would be ‘cognitively frozen in time’. And it’s intuitive to think that recalling events from our past plays a role in personal identity – that part of what makes me the very same person as the one who fell on her face on the first day of school is that I *remember* that event. If I didn’t have episodic memory, could I even be me?
+
+This makes it tempting to think that if animals lack episodic memory, they don’t have ‘selves’ constituted by memories, and they are ‘cognitively frozen in time’. But here we should exercise caution. It may be that simply *having* episodic memory prejudices our response to this question. The loss of episodic memory would, for most of us, be devastating. But, as it turns out, there are humans who lack episodic memory – and they are not very different from the rest of us. Their deficits are often not discovered until late in life. In fact, to these individuals it often comes as a complete shock that other people *can* mentally relive past events. It seems odd to suppose that these individuals lack selves, or are cognitively frozen in time, and that this has gone unnoticed.
+
+If the ‘how smart’ question is really about understanding the cognitive processes driving animal behaviour, then investigating their cognitive capacities seems like the right approach. I’ve suggested that this can also shed light on ‘what it’s like’ questions – because the cognitive capacities we have shape our perspective on the world. But it will not provide easy answers. As Nagel highlighted, lacking a capacity (like sonar perception) makes it difficult to imagine life with that capacity. The converse, it seems, is also true. Having a capacity (like episodic memory) can make it difficult to imagine what life without that capacity must be like.
+
+Still, if animals lack episodic memory, some things must be true. They may be able to retrieve information learned in the past, but our dogs and cats do not recall the *experiences* they shared with us as puppies and kittens. Nor are they now plagued by unpleasant memories of past trips to the vet. And if episodic memory is bound up with foresight and imagination, they do not plan for future visits, or imagine what they would do to the vet if only they got the chance. But perhaps they are not cognitively frozen in time. Perhaps they just live in the moment, floating freely in a perpetual now.

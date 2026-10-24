@@ -1,0 +1,69 @@
+---
+title: "There is no political truth waiting to be discovered"
+subtitle: "What the red pill gets wrong about reality"
+author: "Marianne Janack"
+date: "14th May 2026"
+article_id: "3575"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,689 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/there-is-no-political-truth-waiting-to-be-discovered3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/there-is-no-political-truth-waiting-to-be-discovered-auid-3575"
+---
+
+# There is no political truth waiting to be discovered
+
+*What the red pill gets wrong about reality*
+
+**By Marianne Janack** | *14th May 2026* | *Read time: approx. 8 mins* | *1,689 words*
+
+![There is no political truth waiting to be discovered](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/there-is-no-political-truth-waiting-to-be-discovered3.webp)
+
+---
+
+*We assume that adopting a political position is a matter of being awakened—of peering behind the curtain and seeing the hidden Truth. From Marxism’s historical materialism to Curtis Yarvin’s so-called “red pill,” radically different ideologies have all claimed to reveal a political truth that is discovered, not created. In this article, philosopher **Marianne Janack** argues this is a radical mistake. Philosophy cannot ground any political theory, and by invoking a non-human authority—whether God, Reality, or Truth—to ground our politics, we evade responsibility for the world we live in and create. We must instead recognize that values are made, not found.*
+
+When Donald Trump won the American election in 2016, lots of people called and emailed me to say that Richard Rorty seemed to be a prophet—that he’d predicted something like this in his book [*Achieving Our Country*](https://www.hup.harvard.edu/books/9780674003125), which had been published nearly 20 years before. In that book, Rorty predicted that:
+
+The nonsuburban electorate will decide that the system has failed and start looking around for a strongman to vote for—someone willing to assure them that, once he is elected, the smug bureaucrats, tricky lawyers, overpaid bond salesmen, and postmodernist professors will no longer be calling the shots. A scenario like that of Sinclair Lewis’ novel *It Can’t Happen Here* may then be played out. For once a strongman takes office, nobody can predict what will happen… All the sadism which the academic Left has tried to make unacceptable to its students will come flooding back. All the resentment which badly educated Americans feel about having their manners dictated to them by college graduates will find an outlet.
+
+Since Rorty had been dead nearly ten years when Donald Trump was elected, the book seemed to predict exactly how Americans would respond: they would look for an avatar of reaction—a strongman who could set things right.
+
+\_\_\_
+
+By invoking a non-human authority (God or Reality or Truth) to legitimize our hopes or justify our political or social arrangements, we are evading responsibility for the world we live in and create.
+
+\_\_\_
+
+But if Rorty seemed to be prescient in this case, he is also seen as an avatar in his own right—an avatar of the threat posed by a rejection of the idea of truth and reason in politics. Much of the controversy surrounding Rorty was prompted by [his claims about Truth and Reality](https://iai.tv/articles/rethinking-truth-auid-2507): that appeals to these concepts were part of the theological hangover that the Enlightenment had tried to replace with the idea of a secular good. But the Enlightenment project was not finished, Rorty thought, as long as humans continued to think that there was something like Reality-as-It-Is-in-Itself (*Ding an sich*) and Truth as correspondence with the way things *really* are. Realists no longer think that God underwrites the Good and the True, but Rorty claimed that they’d replaced God with a non-human Reality. And the idea that human beings have rights which are God-given, Rorty warned, is another piece of religious dogma. Though it might have had rhetorical value in the fight for civil rights and against colonialism, Rorty warned, it won’t work forever. And indeed, as he seemed to predict in *Achieving Our Country*, those gains could provoke a backlash.
+
+**Red pills**
+
+Curtis Yarvin and many of his fellow political influencers like to use the model of being awakened, peering behind the curtain—sort of like Plato’s cave, but for our present political moment. Being awakened—the idea of grace—is an idea that is often connected to religious conversion, and Yarvin and other critics of what they consider the matrix of secular progressive culture like to use this idea of seeing the truth as a way of freeing oneself from the groupthink that underwrites political progressivism. Rorty seemed to worry about what the search for a hidden Truth would lead to once certain areas of discourse were shown to fall short of the ideal of objectivity that is connected with Truth. The ascendancy of someone like Yarvin and worries about red pilling and blue pilling are, Rorty would say, another instantiation of the search for an authority beyond the human that can guarantee justification for one’s beliefs.
+
+In an essay he wrote in 1996—“[Looking Backwards from the Year 2096](https://press.princeton.edu/books/hardcover/9780691217529/what-can-we-hope-for?srsltid=AfmBOoqx5g7J6T-2BPz76iUvdlMWOcfcE1SQdCEnKH5RZ8ns72Sr-WkL)”—Rorty imagines an encyclopedia article that gives the history of the twentieth and twenty-first centuries’ “breakdown of democratic institutions” called the Dark Years (2014-44). From this perspective, the author wonders how the people of that time could have thought that it was morally acceptable for CEOs to earn 20 times more than their lowest-paid employees; for huge differences in income and opportunity to persist; for rich countries to invade and dominate other countries. The narrative is one that Rorty uses to show that our present commitment to democracy is no guarantee that it will survive the predations of multinational capitalism. His narrative is not one of truth revealed, but of changes in how we think of our past. We can think of ourselves as “seeing the truth that our predecessors didn’t see,” but this will not guarantee anything, and will not be more convincing than a narrative that reframes and reinterprets our past. The key to social change, Rorty tells us, is hope and an orientation toward the future, not accurate representation of “what is” or the grasp of God-given moral truths or disinterested and objective truths. By invoking a non-human authority (God or Reality or Truth) to legitimize our hopes or justify our political or social arrangements, we are evading responsibility for the world we live in and create. Framing the problem as one about knowledge and thinking of our fellow humans as “red-pilled” is a way of treating them as not responsible for their hopes and fears. To some extent, humans are not responsible: we are born into specific times and specific places with specific rules and norms. But we can also change those—for better and for worse.
+
+\_\_\_
+
+Philosophy professors feel like they have some special knowledge that allows them to be useful in the fight for democratic liberal ideals.
+
+\_\_\_
+
+“But aren’t we *just* relativists then? Doesn’t that mean that white supremacists are just as entitled to their values as those of us who fight against white supremacy?” objectors ask (sometimes rhetorically, sometimes not). Rorty’s response: Yes, we are relativists in that sense. But relativism is only a threat if one thinks that there is some single way the world is, and that moral values must be guaranteed by Reality, Truth, or God to be real. We can still argue about values as relativists, Rorty claims, but such disputes must rest on ideals and what we want to make of ourselves—or how we want our descendants and successors to think of us. Not all ideals are worthwhile, not all values are equally good, given our ideals about human freedom and happiness. White supremacy, unchecked capitalism and nationalism—especially if those come with a dose of self-righteousness—won’t fit easily with those ideals. But neither will a dismissal of those with whom we disagree. We may not be able to persuade some people to agree with us, but then again, we might. An appeal to Truth or Human Essence or The Just won’t do that, either. The remedy for political disagreements is not to try to convince by argument—it is to change people’s patterns of sympathy, or to portray in detail a utopia that exemplifies those ideals. Appeals to Truth are ways of encouraging human hankering for non-human guarantees that our way is the Right Way. There are truths—and that’s where the rubber meets the road. It is important that we try to justify ourselves to others, but telling others that they believe falsehoods won’t convince. Words can be used to tell a story, to report, to convince, and to converse. An appeal to the truth of a belief might fit into storytelling, reporting, or the attempt to convince, but it’s less useful for a conversation. And the political realm, Rorty thinks, should value conversation.
+
+**Truth, intrinsic value, and stories**
+
+In his book [*Truth and Truthfulness*](https://press.princeton.edu/books/paperback/9780691271767/truth-and-truthfulness?srsltid=AfmBOor4-eUsBHPvx0gAm1EROfdRRmcbfm9zT8dlZsciG62i08_FjAtT), Bernard Williams argues that the ideal of truthfulness, which is essential to our understanding of narratives and history, is tied to the idea of truth as an intrinsic value. Against Rorty, Williams argues that we cannot and should not equate justification—how we account for our beliefs to others—with what is really true. In order to distinguish between fantasy and history, Williams argues, we need an ideal of truthfulness: the attempt to say what is true, even if it turns out not to be. Truth, Williams claims, has a value that cannot be captured by justification. Even if everyone in the world believed that the earth was flat and even if no one had any reason to believe otherwise, it wouldn’t be true. And, Williams argues, the liberal political tradition requires that distinction.
+
+[![related-video-image](https://iai.tv/assets/Uploads/the-only-freedom-which-deserves-the-name.webp)
+
+SUGGESTED VIEWING
+The only freedom which deserves the name
+With Yascha Mounk, Curtis Yarvin, Minna Salami, Roger Hearing](https://iai.tv/video/the-only-freedom-which-deserves-the-name)
+
+Rorty argues that we might agree with Williams that the virtues of sincerity and honesty have been important to liberalism and democracy, but that does not support the claim that truth must be understood as having non-instrumental (intrinsic) value. Rorty praises Williams’s account of how humans in the West have developed the kind of self-image that could support liberal ideals. But Rorty thinks that Williams is adding a Platonic metaphysics of Truth to justify that story—an addition that Rorty claims is superfluous, but that helps philosophy professors feel like they have some special knowledge that allows them to be useful in the fight for democratic liberal ideals.
+
+For Rorty, [democratic liberal ideals](https://iai.tv/articles/why-giving-up-truth-could-save-democracy-auid-3418) do not need philosophical grounding. In “[The Priority of Democracy to Philosophy](https://www.cambridge.org/core/books/abs/objectivity-relativism-and-truth/priority-of-democracy-to-philosophy/1B42A03329642CB705B291DE71732BAF)” Rorty claims that just as the Enlightenment taught us to set aside theological and religious questions in determining public policy and political institutions, [we should see debates](https://iai.tv/articles/even-if-truth-is-an-illusion-we-must-keep-pursuing-it-auid-3556) in the religious and theological neighborhood—debates about whether humans have an ahistorical and acultural nature; the idea of the self; the source of moral motivation; the nature of truth—as different from questions about our own political institutions and public policy. These practical questions are important, as are the questions about how multinational corporations and tech companies have manufactured consent and had enormous influence on American politics. But the history of our time is being written now: Time will tell what that story turns out to be. Epistemology won’t.

@@ -1,0 +1,129 @@
+---
+title: "Spiritual but not religious: The end of belief"
+subtitle: "God is not a man in the sky"
+author: "George Adams"
+date: "20th June 2024"
+article_id: "2870"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "3,487 words"
+read_time: "Read time: approx. 17 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Spiritual-but-not-religious-the-end-of-belief.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/spiritual-but-not-religious-the-end-of-belief-auid-2870"
+---
+
+# Spiritual but not religious: The end of belief
+
+*God is not a man in the sky*
+
+**By George Adams** | *20th June 2024* | *Read time: approx. 17 mins* | *3,487 words*
+
+![Spiritual but not religious: The end of belief](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Spiritual-but-not-religious-the-end-of-belief.webp)
+
+---
+
+*Traditional religion is in decline. But figures like Ayaan Hirsi Ali and Jordan Peterson are transforming faith for the 21st century. With over a quarter of Americans now claiming to be ‘spiritual but not religious’, what does this new era of belief look like? George Adams argues the new face of religion is predicated on a move away from dogmatic belief and an anthropomorphised God, and towards a more expansive, experiential, spirituality.*
+
+Churches closing at an alarming rate, reputable polls showing a dramatic decline in the percentage of the population identifying as believers, a chronic shortage of pastors and priests, seminaries struggling to find students, and popular culture that is increasingly detached from any connection to the traditional religious beliefs and values of Western society: clearly religion as we know it in much of America and Europe is in a state of dramatic decline. While some believers (in decreasing numbers) continue to follow traditional religions and other more adventurous seekers (in similarly small numbers) embrace the many variants of New Age spirituality, where does that leave the vast, “silent spiritual majority” who find the old religions to be obsolete and the new religions to not yet be credible? For the 21st century citizen who feels the pull to believe but is unwilling to sacrifice their intellectual and moral integrity, what alternative is there?
+
+[![related-video-image](https://iai.tv/assets/Uploads/tn-cropped.webp)
+
+SUGGESTED VIEWING
+The shadow of spirituality
+With Barry C. Smith, Sophie Grace Chappell, Michael Shermer, John Vervaeke](https://iai.tv/video/the-shadow-of-spirituality)
+
+*How to Think About Religion in the 21st Century: A New Guide for the Perplexed* is intended for this population of thoughtful, well-meaning men and women who, fully informed by the intellectual, historical, and cultural elements of modernity in the early 21st century, find that while they are not atheist materialists, neither can they believe in the religious traditions of the past, nor are they prepared to accept the sometimes dubious claims of newer alternatives. For this population of 21st century citizens who want to believe, but not at the price of sacrificing their intellectual and moral dignity, we argue that there is another way to look at religion, fully informed by 21st century sensibilities, that requires no sacrifice of the intellect or abandonment of moral sensibilities.
+
+The position that we advocate is grounded in acceptance of a fundamental proposition about religion: it changes, and it changes all the time. Finding a spiritual path in the 21st century does not mean looking back over 2000 years ago to traditions that functioned successfully given the nature of human consciousness and its related culture at that time. But human consciousness has evolved, as have the various components of human culture that contribute to our capacity to sense the Sacred and articulate that sense through the components of the phenomenon of religion. Humans in the 21st century are in a transitional stage in which the symbols, myths, and doctrines of the traditional religions, rooted in a pre-modern mythic consciousness, no longer are credible, but a successor to those ancient religious traditions which is grounded in contemporary, science-informed post-mythic consciousness and all of the various elements of contemporary human culture that have emerged from post-mythic [consciousness](http://articles/life-and-consciousness-what-are-they-auid-2836), has not yet emerged in any sort of definitive manner. The old religions are dying away, but the basic elements of the religions of the future are only beginning to develop, leaving today’s would-be believers in a state of confusion and doubt.
+
+\_\_\_
+
+We are suggesting that, once the biases of scientism, materialism, and dogmatic religious fundamentalism are set aside, the possibility of recognizing the presence of a spiritual dimension opens up.
+
+\_\_\_
+
+This transition to a new post-mythic spirituality, like any transition in human consciousness, is likely to be a very slow process, with many fits and starts, extending perhaps over centuries before identifiable and credible new religions emerge. In the meantime, what alternative, if any, exists for the person who has a sense that some sort of spiritual dimension exists, but cannot possibly accept the traditional understanding of that spiritual dimension as found in the existing religions that are still rooted in pre-modern mythic consciousness? We are likely to be in a period of a sort of spiritual anomie until something new– the spirituality of the 21st century and beyond –coalesces into more specific and concrete beliefs and practices. It’s a difficult moment that might last for decades or even centuries, but it’s necessary: evolution, whether biological or cultural, is a slow process.
+
+In Thinking About Religion in the 21st Century: A New Guide for the Perplexed (hereafter referred to as TAR), we endeavor to both explain the nature of the transitional period that we are in and provide a glimpse of what a 21st century religion might look like. We do this by exploring several areas of everyday life which offer a grounding for a new spirituality that is not dependent on anything other than our own experience and perception: no dependence on ancient texts, church dogmas, or religious authorities. We are suggesting that, once the biases of scientism, materialism, and dogmatic religious fundamentalism are set aside, the possibility of recognizing the presence of a spiritual dimension opens up.
+
+More specifically, we are suggesting that this emerging transition to a “religion of the future” will include the following developments (each explored in more depth in TAR):
+
+**1. A different understanding of “religion” and “being religious”**
+
+Traditionally, and especially in the West, religion has been understood as something that originates with a top-down act of divine revelation in the form of a discrete event which has occurred at some point in the distant past, and from which there have developed identifiable religious traditions, each with its own unique sacred text, doctrines, and practices all flowing from that revelation. Being “religious” has been understood as a matter of identifying with one of those revelation-based traditions, including allegiance to its texts, doctrines, and practices. But that understanding of religion and being religious is simply not credible to many 21st century citizens who are fully informed by the historical and multi-cultural awareness that has become widespread, and we are likely to see this traditional model of religion gradually supplanted.
+
+[![related-video-image](https://iai.tv/assets/Uploads/science-and-religion-debate.webp)
+
+SUGGESTED VIEWING
+Science and Religion
+With Alister McGrath](https://iai.tv/video/science-and-religion)
+
+Specifically, we are transitioning to an understanding of religion that is more deeply rooted in the experiential awareness of the [spiritual dimension of reality](http://articles/the-reality-of-the-mystical-experience-auid-2620). As such, religion and being religious are less likely to be about allegiance to a past revelatory event and adherence to the propositions of a single tradition, and more about the simple awareness of Spirit that is available to everyone, and hence is less likely to be pigeon-holed into an identifiable sectarian tradition. As religion becomes recognized as the product of the natural evolutionary process of the slow expansion of the capacity of human consciousness to sense or perceive, however dimly, the presence of a “Something More,” or the spiritual dimension of reality, adherence to past claims of revelation and identification with the traditions that have grown out of belief in those revelations will diminish.
+
+In addition to reducing sectarian differences, the transition to an experientially grounded spirituality that is less moored to faith in past revelatory events will produce a secondary benefit of diminishing the conflict between religion and science. If religion is rooted in a perception or experience, it is empirical in much the same way as is science. Of course, the religious position affirms that the human capacity for empirical experience provides access to a much more expansive awareness of Reality than science typically recognizes, but even this is changing as recent developments in science ([quantum theory](http://articles/quantum-physics-proves-a-conscious-universe-bruce-gordon-auid-2765), cosmology, [fine tuning](http://articles/fine-tuning-points-towards-a-cosmic-purpose-phillip-goff-auid-2600), consciousness studies) have already produced many reputable scientists who have embraced at least the possibility of a reality which is far more expansive than that which has traditionally been recognized by science. With a more expansive religion and a more expansive science, the conflict between the two is markedly diminished.
+
+**2. A different, more expansive way of thinking about “God”**
+
+As human consciousness evolves and human perceptual capacities expand over the centuries and millennia, it should logically follow that our understanding of the spiritual dimension will change accordingly. Specifically, we argue that the traditional anthropocentric, mythical concept of Spirit, which typically consists of a male deity who behaves in a human-like manner (including human flaws such as anger and jealousy) will be replaced by a more mature, non-anthropocentric sense of Spirit. Freed from allegiance to established church dogma and dependence on ancient texts, the 21st believer will be able to develop a sense of the nature of Spirit that is fully compatible with a 21st century sensibility, which is to say, fully informed by science, history, and culture.
+
+In a sense, we are in the early stages of a transition from a type of spirituality in which the sacred or divine was typically thought of in terms of a male, kingly, rule-giving, punitive father figure, to something that is likely to be quite different, perhaps even to the point where the word “God” might seem inadequate. This does not mean denying “God,” but rather developing a more expansive sense of “God,” perhaps even to the point where new language is needed to talk about that more expansive sense of Spirit that is likely to continue to emerge in the 21st century and beyond. The “God” of the 21st century and beyond will likely be a much larger sense of “God” than what we currently find in the existing traditional religions, even though a shared language to refer to that more expansive sense of Spirit has not yet developed.
+
+**3. Spiritual Minimalism/Epistemological Humility**
+
+For the would-be believer of today who is looking for grounds to believe, the traditional religions encountered by such a 21st century citizen who has an intuitive urge to believe can have quite the opposite effect: doctrines, dogma, theology, words upon words, which purport to explain in sometimes overwhelming detail the nature of God and the path to living a spiritual life can have the effect of driving people away from religion.
+
+For someone grounded in a 21st century sensibility, the confident assertions about the Sacred found in traditional religions can be rather off-putting. Unlike our pre-modern predecessors, and indeed unlike much of humanity prior to the 20th century, todays’ informed thinker is aware of the inconceivable vastness of space and time and, spatially and temporally speaking, the smallness of humans in that context. To such an informed thinker, the notion that such vast wisdom could be acquired by one tiny species, able to assert a definitive understanding of the nature and meaning of the entire cosmos, seems rather absurd. How, one might ask, could such wisdom be acquired through the perceptual apparatus of a tiny species, using a gooey three pound organ called a brain, existing at a small point in the Universe during only a brief moment in that Universe’s history? This sounds like an extraordinarily arrogant over-estimation of human epistemological capabilities, and in this context one can see why thoughtful people – who might have an intuitive sense of the Sacred – choose to turn away from traditional religions with their detailed propositional assertions and their confident allegiance to voluminous sacred texts.
+
+[![related-video-image](https://iai.tv/assets/Uploads/166-thumbnail.webp)
+
+SUGGESTED VIEWING
+Gods, worlds and monsters 
+With Mary-Jane Rubenstein](https://iai.tv/video/gods-worlds-and-monsters-mary-jane-rubbenstein)
+
+We are suggesting, however, that the religion of the future will be quite different from traditional religion. The religion that is emerging in the early 21st century will be characterized by a sense of epistemological humility, which in turn will lead to a spiritual/theological minimalism, in which assertions about Spirit will be appropriately minimalist to reflect the simple truth that, while human consciousness has evolved to the point of acquiring the capacity to intuitively sense that a spiritual dimension exists, we are far from having the sort of definitive and comprehensive understanding of Spirit that is claimed by the traditional religions.
+
+Of course, one has to say something about the nature of Spirit, even in a spirit of epistemological humility and spiritual minimalism, and over time (centuries, perhaps), in a spasmodic manner, some sort of language and agreed-upon symbols, beliefs, and practices will slowly evolve. But whatever emerges as the “belief content” of the religion of the 21st century and beyond will surely be characterized by a minimalism and sense of humility that does not exists in traditional religions today.
+
+**4. Empirical Spirituality: Religion rooted in experience, not dogma**
+
+In the previous section we made reference to the “intuitive sense of Spirit”. We did so in the context of arguing that the type of religion that emerges in the coming decades and centuries will be one that lacks the detailed, lengthy, often abstruse doctrines, dogma, theology, etc. as found in the traditional religions that exist today. However, if we are moving toward a type of spirituality that is not grounded in doctrines, dogma, and texts, then what will it be based on? What’s left as the basis for spirituality once the propositional elements of belief are removed?
+
+We are suggesting that what’s left is precisely that intuitive, experiential, difficult-to-articulate, but nonetheless solidly real and epistemologically convincing, intuitive sense of Spirit.
+
+More specifically, we argue that we are in the early stage of a transition from a mode of spirituality based on cognitive assent to propositional beliefs to a spirituality rooted in a sense or experience of Spirit. Historically speaking, in the Western religious traditions, and particularly in Christianity, being religious has been understood as primarily a matter of orthodoxy, which literally means correct belief, as in the sense of assenting to the truth of certain propositions. We are suggesting that the religion of the 21st century will transition away from a religion of propositional belief to [a religion of experience](http://articles/the-reality-of-the-mystical-experience-auid-2620). In a sense, religion will become more empirically grounded and less rooted in cognitive assent to unprovable propositions.
+
+The notion that religion is rooted in experience is hardly a new idea. Mystical traditions, in which experience of Spirit is the key element, are found in all of the major traditional religions, even though the mystical component of traditional religions has often been disparaged and sometimes persecuted by the mainstream religious establishments. Modern students of the history of religion also have suggested that the very origin of religion is found in experience, not doctrinal belief (see, for instance, [William James’](https://psychology.fas.harvard.edu/people/william-james) 1902 classic work, [The Varieties of Religious](https://www.gutenberg.org/ebooks/621) [Experience](https://www.gutenberg.org/ebooks/621)).
+
+Of course, arguing that future religion will be more experientially, or empirically, based, does not mean that everyone will be walking around with a full-blown, overwhelming religious experience. Granted, some people do indeed have such profound mystical experiences in a wide range of manifestations, from a unitive, non-dual sense of identity with the ineffable quality of Spirit (Hindu Vedanta, Buddhism), to a sense of overwhelming closeness with the natural world (Thoreau, Daoism, Neo-Confucianism), to an experience of intense love emanating from the personal aspect of Spirit (medieval Catholic mysticism), and much more.
+
+But we do not mean to imply that future believers will all be full-blown mystics who walk around in [altered states of consciousness](http://articles/ricky-williamson-psychedelic-experience-isnt-just-brain-chemistry-auid-2395) while in the midst of intense, prolonged, overpowering experiences of the Sacred. Rather, we are talking about a broader acceptance of the simple everyday awareness of the sacred quality of reality, an experience open to everyone who sets aside the restricting  influences of both dogmatic scientific materialism and dogmatic religious orthodoxy, and opens up to the experience of Spirit that is always available to human consciousness as it has evolved in the 21st century. We are talking about an experience that is often nothing more than a vague sense of Something, a difficult-to-describe awareness that there really is a [Something More than a Universe of matter, energy, time, and space.](http://video/the-reality-beyond-spacetime)
+
+Freed from the epistemologically restricting cynicism of science and the repressiveness of religious doctrinal orthodoxy, anyone can discover, as a being with a consciousness that has evolved the capacity to do so, a sense that there exists this Something More. We can sense, intuit, or experience the reality of Spirit, just as we can intuit or sense the reality of love and beauty even if we find them difficult to describe. Leaving aside religious doctrines and sacred texts, each person still has access to those subtle, quiet, yet powerfully meaningful moments when one senses the presence of Spirit, the presence of the mysterious, supremely Good, indefinable Something More that can never be adequately captured in religion’s doctrinal propositions or in science’s objective observations. Embracing the full range of the human consciousness that has evolved over the long span of the human species, we can experience the reality of Spirit.
+
+**5. Trans-human morality**
+
+Religion, of course is not just about belief or experience: it also is about practice. Traditionally, this ethical component of religion has focused on moral responsibilities to other humans, as found in the various moral codes of the traditional world religions: Ten Commandments, Laws of Manu, Shari’a, Confucian aphorisms, etc. However, these moral codes are a product of the human consciousness that created them roughly two millennia ago. If, as we have argued above, the nature of human consciousness has changed since the time of the emergence of these traditional religions, we should also expect that the human sense of moral responsibility has changed as well.
+
+\_\_\_
+
+But we can be fairly certain that as human consciousness continues to develop in a more expansive direction away from the parochial sectarian interests reflected in the traditional religions, the human sense of moral responsibility will similarly expand.
+
+\_\_\_
+
+And this indeed is what we see if we take a long term, big picture perspective of the history of the human moral sensibility. Specifically, what we see is a slow but steady expansion of our sense of moral responsibility to a larger and large circle of beings. From a sense of moral responsibility to the smallest of units, the family, we see a gradual widening of this circle to encompass tribe, village, ethnic group, and, as we enter modernity, larger political units such as multi-ethnic empires and nations.
+
+If such a trend continues, in keeping with the expansion of human consciousness, we should anticipate the emergence of a future morality that includes not only all of humanity (a global morality), but a sense of moral responsibility that extends beyond the human species and on to the realm of all living beings (a trans-human morality). Thus, the religion of the future, freed from attachments to century’s old sectarian parochial interests, is likely to include a truly planetary ethic that will reflect a sense of our moral obligation to animals, nature and the entire biosphere. We already see elements of the early stages of this trans-human global morality, from the worldwide environmental movement to the growth in vegetarianism and veganism. When even profit-driven American fast-food restaurants are rushing to offer plant-based, meat-substitute sandwiches, it’s clear that something is happening in the moral awareness of the larger culture.
+
+Of course, the development of a global trans-human morality will, like all culture-wide spiritual changes, take place slowly erratically. But we can be fairly certain that as human consciousness continues to develop in a more expansive direction away from the parochial sectarian interests reflected in the traditional religions, the human sense of moral responsibility will similarly expand.
+
+**The Transition**
+
+The above remarks offer only a partial, introductory exploration of how religion is changing as human spirituality transitions from the traditional, 2500 year old Axial Age religions to a future expression of religion which in some ways will be significantly different from all that has preceded it. We explore each element of this transition in more detail in TAR. A more expansive concept of “God” or Spirit, a different understating of the nature of religion, a greater appreciation of the limitations of the human capacity to comprehend and articulate the nature of Spirit, the grounding of spiritual life in experience rather than faith in detailed propositions, and the expansion of our sense of moral responsibility beyond the human to the family of all sentient beings – these are some, but hardly all, of the changes that we are likely to observe as the transition to a credible 21st century spirituality continues.
+
+In projecting such broad changes in human thought, consciousness, and culture, however, a healthy dose of humility is in order since such large scale changes can easily take unexpected turns and move in directions we cannot anticipate from our present day perspective. In a sense, what we are offering here are simply “best guesses” as to where religion is headed in the coming years, decades and centuries.
+
+Similarly, we should acknowledge that the timeframe for such a proposed evolution of human spirituality is impossible to predict with any accuracy. Large scale changes in human consciousness, including religious consciousness, or awareness of the spiritual quality of existence, occur with agonizing slowness over long stretches of time, often in fits and starts, and always subject to trends in the broader culture and environment. Much of what we propose presumes a relatively stable living situation for humans, but that can change suddenly with a single catastrophic event, whether human or natural.
+
+But in the long run (which, of course, could turn out to be several centuries), religion will change, and we are confident that such change will be in the direction of what has been described above and in Thinking About Religion in the 21st Century.

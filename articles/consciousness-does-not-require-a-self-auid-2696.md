@@ -1,0 +1,84 @@
+---
+title: "Consciousness does not require a self"
+subtitle: "The self is a prediction of the brain"
+author: "James Cooke"
+date: "14th December 2023"
+article_id: "2696"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,079 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/giorgio-trovato-HAFZE-xZR4o-unsplash2.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/consciousness-does-not-require-a-self-auid-2696"
+---
+
+# Consciousness does not require a self
+
+*The self is a prediction of the brain*
+
+**By James Cooke** | *14th December 2023* | *Read time: approx. 10 mins* | *2,079 words*
+
+![Consciousness does not require a self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/giorgio-trovato-HAFZE-xZR4o-unsplash2.jpg)
+
+---
+
+*The idea that consciousness requires a self has been around since at least Descartes. But problems of infinite regress, neuroscientific studies, and psychedelic experiences point to a different reality. 'You' may not be what you seem to be, writes James Cooke.*
+
+We typically feel like we are the conscious subject, the one who has experiences. Look around you in this moment and direct your attention to different objects. It can feel like we exist in our heads, behind our eyes, directing a spotlight of attention in order to wilfully make things conscious. This intuitive model of the mind has often been imported into the science and philosophy of consciousness, leading to confusion in our understanding of the true nature of experience. This subject is not the bodily organism, it is something that is felt to live inside us, the possessor of the body, the “you” that is reading these words now. Consciousness is very much a property of the bodily subject, but not of the conscious subject that is felt to live in our heads.
+
+Thinking in terms of conscious subjects was present at the very origins of the scientific method, in the work of Rene Descartes. Descartes saw the natural world as unconscious mechanism. Humans alone were conceived of as being conscious by virtue of a transcendent subject that could illuminate our experience of the world [1]. If we want to understand consciousness, however, postulating the existence of an inherently conscious subject merely passes the buck of explanation. What makes that conscious subject conscious? If it is intrinsically conscious then consciousness has not been explained. If not, then what makes it conscious, another subject within it? With this logic we end up in an infinite regress, with consciousness never being explained. This view of the mind has been dubbed the Cartesian Theatre by philosopher Daniel Dennett [2].
+
+Many scientific accounts of consciousness too appeal to a self-like mechanism in the brain that is responsible for bestowing the illuminating quality of consciousness on the informational content processed by the brain [3]. The brain is a hierarchically structured network, with sensory information entering the brain at the bottom of this hierarchy and subsequently passing through multiple layers of processing. In contrast to the lower levels which analyse sensory information, the top levels deal with cognitive tasks such as decision making and the directing of attention. Some theories hold consciousness to arise in a bottom-up manner, passively bubbling up out of the information-processing performed by the brain. Subject-based theories, on the other hand, see consciousness as a top-down phenomenon, something that occurs as the result of active introspection performed by high-level brain regions [4]. The brain is organised so that sensory information is predominantly processed in the posterior half of the brain, while executive functions such as decision-making and attention largely rely on brain areas in the front half of the brain. Neural correlates of consciousness have been observed in both posterior and anterior brain regions, lending credence to both the bottom up and top down perspectives [5].
+
+\_\_\_
+
+This intuitive model of the mind has often been imported into the science and philosophy of consciousness, leading to confusion in our understanding of the true nature of experience.
+
+\_\_\_
+
+There’s one issue, however, the fact that frontal areas of the brain are recruited by the act of communication. When the subject in an experiment reports what it is that they are consciously perceiving, we cannot tell if the frontal brain activity is due to it playing a role in consciousness itself or merely the act of reporting on the contents of consciousness. One study found a clever way around this, by deciphering what subjects were experiencing based on physiological data, such as pupil dilation. When the subjects didn’t have to report the contents of consciousness, the frontal correlates diminished [6]. The neural structures we associate with the idea of the introspecting subject seem to not underpin consciousness itself after all, but to instead merely report on the contents of consciousness.
+
+Beyond the neuroscientific study of consciousness, phenomenological analysis also reveals the self to not be the possessor of experience. In mystical experiences induced by meditation or psychedelics, individuals typically enter a mode of experience in which the psychological self is absent, yet consciousness remains [7]. While this is not the default state of the mind, the presence of consciousness in the absence of a self shows that consciousness is not dependent on an experiencing subject. What is consciousness if not a capacity of an experiencing subject? Such an experience reveals consciousness to consist of a formless awareness at its core, an empty space in which experience arises, including the experience of being a self [8]. The self does not possess consciousness, consciousness is the experiential space in which the image of a psychological self can appear. This mode of experience can be challenging to conceptualise but is very simple when experienced – it is a state of simple appearances arising without the extra add-on of a psychological self inspecting them.
+
+We can think of a conscious system as a system that is capable of holding beliefs about the qualitative character of the world. We should not think of belief here as referring to complex conceptual beliefs, such as believing that Paris is the capital of France, but as the simple ability to hold that the world is a certain way. You do this when you visually perceive a red apple in front of you, the experience is one of believing the apple to exist with all of its qualities such as roundness and redness. This way of thinking is in line with the work of Immanuel Kant, who argued that we never come to know reality as it is but instead only experience phenomenal representations of reality [9]. We are not conscious of the world as it is, but as we believe it to be.
+
+\_\_\_
+
+In order to survive over time, we need to construct beliefs about the world so that we can successfully navigate it.
+
+\_\_\_
+
+There is a branch of mathematics that deals with how we optimally update our beliefs in light of new evidence, known as Bayesian inference. One issue with seeing the brain as performing Bayesian inference is that this process involves knowing the probability of all possible causes that could have given rise to any piece of evidence, information the brain could not possibly have access to. A workaround has been found in the strategy of “free energy minimization”, in which the brain starts with a guess about the causes of sensory inputs and updates it in light of how surprising the evidence it receives would be if that belief were true [10]. With this approach, this initial belief is successfully sculpted to align with reality, with no need to know all of the possible causes behind any piece of evidence. This dynamic is described in Karl Frison’s Free Energy Principle (FEP), and it goes a long way to account for how the contents of consciousness are shaped by the sensory inputs the brain receives, as well as by the prior beliefs that it holds [11].
+
+The FEP does not just explain how the beliefs that underlie our perception of the world become shaped, but it also accounts for how it is that we come to act in the world [12]. In this framework, known as active inference, a belief is initially formed about the world being in a state that is different to its current state. Say you are sitting down and want to stand up. The brain creates the belief that you are standing up and then your body moves in whatever way is necessary to reduce the surprising feedback it receives, given that you are not currently in that state. The end result is that you move towards the goal of standing via an optimal trajectory. In his “Beast Machine” theory of selfhood, Anil Seth suggests that the experience of the subject is a Bayesian belief of this kind [13]. The belief in an unchanging self that continues over time becomes a self-fulfilling prophecy as a result of this process of prediction-error minimization, under the active inference framework. We come to act like a coherent bodily self over time because we have the belief that we are a stable unitary self. We perceive ourselves into existence.
+
+If consciousness is thought to depend on complex cognitive machinery that allows for the construction of a psychological self that can introspect, we can flatter ourselves with the impression that only we, and complex creatures sufficiently like us, are conscious. If this is not the case, however, and consciousness is something less complex yet more fundamental than the self, we are faced with the possibility that experience may exist more widely than is commonly thought. By getting rid of the subject, we can see consciousness to not be the product of sophisticated brains that can introspect on experience but instead as the fundamental ability to know the world that all organisms possess.
+
+Belief updating does not just happen in brains, it is a fundamental aspect of being alive. We typically dismiss the possibility of organisms without nervous systems as being conscious because of the widespread belief that they can function by unconscious reflex alone. This idea is a myth that contravenes our understanding of the thermodynamics of life. In order to survive over time, we need to construct beliefs about the world so that we can successfully navigate it. The FEP not only provides a strategy by which brains can perform approximate Bayesian inference, it also shows that such a strategy is necessary for any living system that can keep itself orderly over time [14].
+
+\_\_\_
+
+The neural structures we associate with the idea of the introspecting subject seem to not underpin consciousness itself after all, but to instead merely report on the contents of consciousness.
+
+\_\_\_
+
+In this view, consciousness does not require a complex brain that can construct a self with the power to make the contents of the mind conscious. Consciousness is instead seen as the attempt to know the world that all living things must engage in, in order to exist over time. In this way, we can see consciousness as existing in the way that the organism interacts with the world, as a process or behaviour rather than as a “thing”. From this perspective, the space of awareness that exists prior to the experience of the self can be conceived of as what Thomas Metzinger has called an “epistemic space”, the space in which beliefs about both the character of the world and the self can arise [15]. By understanding consciousness to exist prior to the experience of psychological selfhood, we can both remove a major roadblock to the scientific understanding of consciousness and come to know the nature of our own minds more fully.
+
+References:  
+[1] Descartes, R. (2013). Meditations on first philosophy. Broadview Press.  
+[2] Dennett, D. C., & Kinsbourne, M. (1992). Escape from the Cartesian theater. Behavioral and Brain Sciences, 15(2), 234-247.  
+[3] Seth, A. K., & Bayne, T. (2022). Theories of consciousness. Nature Reviews Neuroscience, 23(7), 439-452.  
+[4] Lau, H., & Rosenthal, D. (2011). Empirical support for higher-order theories of conscious awareness. Trends in cognitive sciences, 15(8), 365-373.  
+[5] Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. Nature Reviews Neurosciene  
+[6] Frässle, S., Sommer, J., Jansen, A., Naber, M., & Einhäuser, W. (2014). Binocular rivalry: frontal activity relates to introspection and action but not to perception. Journal of Neuroscience, 34(5), 1738-1747.  
+[7] Millière, R., Carhart-Harris, R. L., Roseman, L., Trautwein, F. M., & Berkovich-Ohana, A. (2018). Psychedelics, meditation, and self-consciousness. Frontiers in psychology, 9, 1475.  
+[8] Shear, J., & Jevning, R. (1999). Pure consciousness: Scientific exploration of meditation techniques. Journal of consciousness studies, 6(2-3), 189-210.  
+[9] Kant, I. (1908). Critique of pure reason. 1781. Modern Classical Philosophers, Cambridge, MA: Houghton Mifflin, 370-456.  
+[10] Friston, K., Kilner, J., & Harrison, L. (2006). A free energy principle for the brain. Journal of physiology-Paris, 100(1-3), 70-87.  
+[11] Skora, L. I., Seth, A. K., & Scott, R. B. (2021). Sensorimotor predictions shape reported conscious visual experience in a breaking continuous flash suppression task. Neuroscience of Consciousness, 2021(1), niab003.  
+[12] Friston, K., Mattout, J., & Kilner, J. (2011). Action understanding and active inference. Biological cybernetics, 104, 137-160.  
+[13] Seth, A. (2021). Being you: A new science of consciousness. Penguin.  
+[14] Friston, K. (2013). Life as we know it. Journal of the Royal Society Interface, 10(86), 20130475.  
+[15] Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of “pure” consciousness. Philosophy and the Mind Sciences, 1(I), 1-44.

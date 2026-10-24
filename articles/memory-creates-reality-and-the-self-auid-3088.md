@@ -1,0 +1,117 @@
+---
+title: "Memory creates reality and the self"
+subtitle: "What Alzheimer's reveals about identity"
+author: "Michael Hornberger"
+date: "25th February 2025"
+article_id: "3088"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,142 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Memory-creates-reality-and-the-self3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/memory-creates-reality-and-the-self-auid-3088"
+---
+
+# Memory creates reality and the self
+
+*What Alzheimer's reveals about identity*
+
+**By Michael Hornberger** | *25th February 2025* | *Read time: approx. 11 mins* | *2,142 words*
+
+![Memory creates reality and the self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Memory-creates-reality-and-the-self3.webp)
+
+---
+
+*When our memory begins to fail, it can erode the stories we share with those closest to us and profoundly change who we are. Neuroscientist and Alzheimer’s expert Michael Hornberger speaks to IAI’s Nina Lyon about what the study of memory can tell us about our sense of self, and how the unreliability of memory can lead us to create so-called truths that may not be quite as accurate as we believe.*
+
+**What is a memory?**
+
+When we talk about memories, we usually refer to memories of events – what we call episodic memories that we can pinpoint to a certain time and place. There are other types of memories too, such semantic memories that store factual information and procedural memories about how to do things like cycling. With episodic memories, information is encoded like a trace in the brain, and if that's done in a complete enough way, we can then recall it and relive an event almost as if we were there, essentially in front of our inner eye.
+
+**How are memories encoded neurologically?**
+
+We still don't know exactly how memory works, but what we do know is that there's one region of the brain which is important for memory formation called the hippocampus. As a species, we humans are very visually driven, and the hippocampus integrates this visual information along with other sensory inputs like smell, situating them in time and space. The hippocampus seems to create a memory trace, and when we try to recall that memory, this trace is reactivated to find all the information about that event and bring it together.
+
+There are two main competing theories about how this happens. One is that the hippocampus creates the neuron activity which stores the actual information of the memories. The other is that the hippocampus creates indices to find the neurons that store that information somewhere else in the brain. Either way, it's about neuronal representation – ensembles of neurons that fire together to recreate the stored information.
+
+[![related-video-image](https://iai.tv/assets/Uploads/220-Memory-and-the-Self-2.webp)
+
+SUGGESTED VIEWING
+Memory and the Self
+With Mark Rowlands](https://iai.tv/video/memory-and-the-self)
+
+**Why are our memories rooted in specific points in space and time?**
+
+The hippocampus is a region which is very important for our space perception, and it's also the timekeeper of the brain, helping us organise the sequence of events in our memories. How it exactly does this isn't actually understood. But it makes perfect sense, evolutionarily, that where things like food and shelter are and what happens in those places is really critical information for events in our life – being able to bring that information back is really helpful to us. I think that's why the whole memory system was based on this kind of information for us humans. Maybe for other species it's other information – there's good evidence that some other species use completely different information for their memories.
+
+**Is there something about the structure of our cognition, in terms of how we map out information conceptually in our minds, that has emerged from the way memory is structured in the hippocampus?**
+
+I think that’s a great question – does our brain structure determine our cognition or do our experiences determine how the brain structure developed? It's kind of a chicken and egg problem, but I believe that it's actually evolutionary. It makes more sense that our brain’s structure determines how we actually define things, how we experience memory, and what memories are.
+
+There are really great studies of desert ants, which are invertebrates with far fewer nerve cells than we have. They use celestial information for their spatial memories in order to find their way back after foraging, which is completely fascinating. They don't have a hippocampus – they use completely different types of modalities. But they are still able to do some kind of mapping of where they are in space.
+
+**When we’re encoding an event, how accurate is the encoding? Does retrieving a memory multiple times make its trace stronger?**
+
+Yes, it does. But we have to be careful – those traces can also be modified or overwritten. There's a whole literature on witness memory, which shows that we can influence our memories and can have false memories of many things. Sometimes you find this yourself – you're retelling the same story to different friends, and over time your partner might say, “Actually, that's not what happened. You just made part of this up.” Even though you didn't mean to, but maybe it was a better story that way. So you can override your own memories or modify them – they're not static.
+
+When we're encoding a memory of an event, it's always going to be an imperfect encoding of that information. It’s not efficient for the brain to encode everything that happens, so we cannot perfectly memorise everything about a conversation or everything about our surroundings at any given moment. When we subsequently access that memory and relive it, we're going to be filling in some of those gaps to a more or less accurate extent, making it more coherent with what we expected would have been there.
+
+\_\_\_
+
+If you want to get philosophical, what is the truth out there, and what we think was the truth of the event? Maybe that's not as attainable as we wish it was, because it's based on our subjective memories.
+
+\_\_\_
+
+**What does this mean for the reliability of our memories?**
+
+This raises another great conundrum – is our memory really true? If you ask different people about the same event, they might tell you different versions. Autobiographies are a great example –  people recalling their life remember it, but is that a truthful representation of their life? That's the question.
+
+If there are strong influencing factors to remember something in a particular way, or embellish it, or dramatize it, you might do that for clear external incentives. But then you may start to actually remember that event according to those incentives. You might be completely convinced your childhood bicycle was red, then see a picture or have your mother tell you it was actually blue. But you're convinced it was red, for whatever reason.
+
+Every memory is dynamic, which is probably a good thing – the system needs to adapt to our circumstances. But it makes us vulnerable to bias in what we're thinking. If you want to get philosophical, what is the truth out there, and what we think was the truth of the event? Maybe that's not as attainable as we wish it was, because it's based on our subjective memories.
+
+\_\_\_
+
+We are a species that searches for this coherence – it seems to be a key goal in our life. We want to make sense of things, see patterns, have coherent memories.
+
+\_\_\_
+
+It's a peculiar thing, because when we relive a memory, it feels as true as an experience in the present moment. We can get very attached to this idea that there is a fixed, objective truth about what happened, but that might only partially exist. We're looking for coherence between our memories and the external information we can find about that situation.
+
+We are a species that searches for this coherence – it seems to be a key goal in our life. We want to make sense of things, see patterns, have coherent memories. It gives us security in who we are and purpose in what we believe in.
+
+This raises an interesting question I alluded to in the book – if we lose our memories, how much do we lose our identity? That's a big philosophical problem that John Locke and others have written about. We don't know how people with dementia feel about their own sense of self. Do they really feel they lose their identity? It's a question we would have to ask them. But clearly, if you're losing part of your memories, do you lose part of your identity? Do you become a different person? I don't know the answer, but it's a fascinating philosophical question.
+
+**You write about the relationship between memory and identity in the context of conditions like Alzheimer's disease. Can you tell us more about this?**
+
+What we see is that people get extremely frustrated in the beginning stages of dementia because they can see this coherence of their memory breaking down. It can cause a lot of tension with family members because it completely questions our reality when we don't remember things that clearly happened, or that we're told happened, but we have no trace of that memory. This can shake you to the core, which explains the enormous frustration people experience as memory symptoms progress.
+
+Interestingly, as the condition progresses, the person with dementia usually becomes more content. In a way, you could say they become very Buddhist – they really live in the here and now, as maybe we all should do more often. They're not worrying about the future or the past.
+
+At that point, it often becomes much harder for the family. When patients reach moderate or advanced stages, families experience what's called “anticipatory grief”: they often tell us ‘we've already lost him/her’ even though the person is still alive, because they're not the same person we knew. For the families, the grieving process begins while the person is still alive, because clearly something important about who they are is gone.
+
+**When we talk about identity, we could mean a memory-based, narrative story about someone's life or we could mean their personality or temperament. Can different neurological changes can affect these different facets of who you are in different ways?**
+
+Absolutely. For example, with frontotemporal dementia, people don't necessarily have memory problems, but their whole personality changes. That can be very distressing for the family when the person becomes completely different while their memories remain intact. I suppose that would contradict Locke's theory about memory and identity, since the person can be very different while having intact memory.
+
+Different areas of the brain are responsible for different aspects of who we are, and if they're disrupted by injury or disease, that can have quite different effects. Someone can become quite a different personality while having good memory, or vice versa – someone might lose their memory but stay essentially the same person, just without access to the events of their life.
+
+**In your book, you discuss how to optimise episodic memory, particularly in pre-literate times when people would memorise vast amounts of information, such as being able to internalise and recite the Odyssey. You explain how ancient rhetorical techniques reflect how we developed these "hacks" that enable us to memorize much more information than we ordinarily could, and to do so accurately. It was particularly interesting to consider how narrative structures—the idea that a story has a beginning, middle, and end, or that poetry rhymes—might have emerged as memory optimization techniques. Could these structures have emerged as a consequence of our memory systems?**
+
+That's an incredible thought! I'd have to apologize to all poets that they're essentially just slaves to an old memory system. But it clearly helps, and songs are perfect examples of this. Composers of pop songs have long known that if you have a catchy phrase, everybody can sing along and will remember that song for their lifetime. Think about children's books that rhyme – parents can recite them decades later due to countless bedtime readings.
+
+Our culture, especially before written language, may have developed based on how well we could remember things. Once written language started, that changed and allowed for much longer forms. But before that, it makes sense that we relied more on the structures of songs, poems, and rhymes that allowed us to retain information.
+
+We shouldn't forget that mass-produced paper is very recent in our evolution – really only since around the 19th century. Even in the Middle Ages, writing things down was very expensive, requiring special materials like vellum. People had to pay scribes to produce written records.
+
+Today, memory experts and influencers present these memorisation techniques as new discoveries, but they're actually ancient. The ancient orators knew all these techniques because they had to – it was their only way to retrieve information.
+
+**Finally, what can we learn from this if we want to optimise our memory?**
+
+I'd say it comes down to three main elements: attention, emotion and repetition. You need to be focused, have an emotional context, and repeat the information. It might not sound like rocket science – everyone should know this – but the application is key.
+
+The ancient orators used specific techniques, particularly the method of loci, a technique of associating memories with specific places, which is brilliant and easily applicable. I still use it myself for remembering people I meet for the first time, as my face memory is terrible. This comes back to the hippocampus. If you can frame a memory in space, that's very powerful for memory retrieval. You're taking maximum advantage of your brain's natural capabilities – your brain is literally built that way.
+
+**Michael Hornberger’s book**[***Tangled Up: The Science and History of Alzheimer’s Disease***](https://www.canburypress.com/collections/frontpage/products/presale-tangled-up-by-michael-hornberger-isbn-9781914487422) **is published on April 24 by Canbury Press**

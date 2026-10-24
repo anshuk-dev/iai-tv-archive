@@ -1,0 +1,99 @@
+---
+title: "Beyond the Anthropocene: We must rethink our epoch"
+subtitle: "The dangers of hierarchical science"
+author: "Sophie Chao"
+date: "8th April 2024"
+article_id: "2803"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,174 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-04-08-antropocene-article-iai-news-sophie-chao-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/beyond-the-anthropocene-we-must-rethink-our-epoch-auid-2803"
+---
+
+# Beyond the Anthropocene: We must rethink our epoch
+
+*The dangers of hierarchical science*
+
+**By Sophie Chao** | *8th April 2024* | *Read time: approx. 11 mins* | *2,174 words*
+
+![Beyond the Anthropocene: We must rethink our epoch](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-04-08-antropocene-article-iai-news-sophie-chao-copy.webp)
+
+---
+
+***In the first of a two-part series, we go head-to-head on the Anthropocene, after the status of ‘Anthropocene’*** ***was rejected for the world by an international panel last month. Part two of the series can be read [here](https://iai.tv/articles/rejecting-the-anthropocene-is-a-mistake-auid-2806).***
+
+*Have we entered a new planetary epoch, the “Anthropocene”? As scientists and environmentalists bitterly debate this question, Sophie Chao argues that we need to move beyond reductive “official” labels. We must instead develop a plurality of concepts for our epoch, recognizing that it is experienced differently by different beings, human and non-human.*
+
+It’s official: we don’t live in the Anthropocene. Or so the [International Union of Geological Sciences](https://www.iugs.org/history) (IUGS) ruled last month (March 2024) in a controversial vote. Jan Zalasiewicz, a geologist and chair of the Anthropocene Working Group, is [calling for the result to be annulled](https://www.nytimes.com/2024/03/20/climate/anthropocene-vote-upheld.html), and Timothy Morton, a leading proponent of the idea of the Anthropocene, criticizes the IUGS decision in an article that will appear tomorrow in IAI News.
+
+Coined in 2000 by biologist [Eugene Stoermer and chemist Paul Crutzen](https://link.springer.com/chapter/10.1007/978-3-030-82202-6_2), the word “Anthropocene” describes a new planetary epoch wherein the human species has become the dominant force shaping Earth’s bio-geophysics. Among the countless examples of human impact are climate change-induced rising oceans, species extinction, and extreme weather events, as well as the environmental consequences of extractive mining, deforestation, air and water pollution, soil erosion, and microplastics proliferation. Although the term is now widely used in academic and public discourse, the IUGS decision means that the Anthropocene remains an unofficial geological epoch: officially, we remain in the Holocene, which began around 11,700 years ago at the end of the last glacial period.
+
+The notion of the Anthropocene has been criticized on the grounds that it implicitly blames *all* humans for environmental degradation, rather than focusing on the genuinely guilty parties – capitalists or colonialists, say. Critics propose different labels – such as Capitalocene, Plantationocene or Wasteocene – to highlight the ecological impacts of *specific* aspects of human life. In my view, any attempt to identify the current epoch through a single, unitary, and overarching determinant (capital, plantation farming, waste, etc.) necessarily obscures other dimensions of our epoch. None of these terms, including “Anthropocene,” should be adopted in a way that excludes the others. But that doesn’t make these concepts useless. Instead of destinations in themselves, we can more productively approach them as tools and vehicles to help *get us* somewhere. They point to the necessity and challenge of holding different facets of the current moment together in generative conversation and tension. They offer different and complementary ways of thinking about the planetary crisis: in Timothy Morton’s terms, they provide ways of being and thinking “really specific at really big scales.” And, crucially, they are what one might call “action-concepts”: they can help guide action against ecological disaster.
+
+\_\_\_
+
+The Anthropocene is at once a characterization of the world we inhabit and a political call for change – an “action-concept” par excellence.
+
+\_\_\_
+
+The greatest strength of the Anthropocene concept remains the way it helps unravel the presumed separation of humans from their environment, or of “culture” from “nature.” This in turn demands that humans take greater responsibility for the consequences of our unsustainable activities on earth. It further draws attention to the adverse consequences of anthropocentrism or human exceptionalism on planetary survival and wellbeing. In these respects, the Anthropocene is at once a characterization of the world we inhabit *and* a political call for change – an “action-concept” *par excellence*.
+
+However, the validity and usefulness of the Anthropocene as an action-concept have been questioned. Three criticisms stand out. The first relates to the term’s identification of the category of the “human,” or *anthropos*,as the driver of planetary change. This species-level thinking elides intersectional identity factors like race, ethnicity, gender, age, class and Indigeneity, that profoundly shape different human communities’ relative responsibilities for, and harms suffered from, ecological destruction. Some scholars mark this by styling the current epoch as the “Anthropo-not-seen.”
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-12-05-H22-214-thumbnail.mid.webp)
+
+SUGGESTED VIEWING
+The Anthropocene is bigger than climate change 
+With Mike Berners Lee](https://iai.tv/video/the-anthropocene-is-bigger-than-climate-change-berners-lee)
+
+A second critique concerns the Anthropocene’s timeline. Geologists who voted against making the Anthropocene official disagreed with the proposed starting date of 1952. Crutzen originally identified the Industrial Revolution (1800) as the epoch’s beginning, while others have offered the [first testing of the atomic bomb](https://www.bbc.com/future/article/20230808-atomic-bomb-spike-carbon-radioactive-body-anthropocene) (1945), [the Great Acceleration](https://journals.sagepub.com/doi/10.1177/2053019614564785) (1950), and the [colonization of the New World](https://www.ucl.ac.uk/news/2020/jun/opinion-why-anthropocene-began-european-colonisation-and-mass-slavery) (1492). *When* the Anthropocene started matters because it inflects which peoples and what processes bear most responsibility for its legacies.
+
+Third, assumptions of human exceptionalism, discipline, and mastery over nature undergirding the idea of the Anthropocene omit the agencies and effects of *non-human* beings on planetary ecosystems. Whether one thinks of deadly fungal or bacterial epidemics in plantation and livestock industries, feral and invasive species proliferations that undermine ecosystemic balance, extreme fires and droughts prompted by climate change, or viral pandemics, humans seem *not* to be in control of nature – and possibly have *never* been quite as in control as they thought.
+
+ 
+
+Over eighty alternatives have been offered to the term “Anthropocene.” The first set of concepts within this ever-growing list share a focus on particular *forces, ideologies*, *and processes* shaping the current era. The “[Capitalocene](https://www.tandfonline.com/doi/abs/10.1080/03066150.2016.1235036),” for instance, identifies as the root of planetary unmaking not a particular species (the human) but rather an economic and political system anchored in the propertification, privatization, and extraction of natural resources. The “[Plantationocene](https://culanth.org/fieldsights/introduction-plantationocene)” centers on an industrial production system – the monoculture – that is indissociable from longer histories of racial colonialism across Global North and South divides. Other terms that find anchorage in processes rather than entities include the “Necrocene” and closely related “Thanatocene,” which foreground the mass death of diverse non-human beings who are driven to the brink of extinction, the “Homogenocene,” which points to the radical homogenization of landscapes under industrial regimes, and the “Urbanocene,” which identifies in the expansion of cities a major driver of ecological transformation.
+
+The second set of concepts revolves around prominent or proliferating *entities*, *objects*,or *forms of matter*. Here we find terms like the “[Technocene](https://www.frontiersin.org/articles/10.3389/fevo.2020.00214/full),” which highlights how technology and science shape human and geological relations, the “[Virocene](https://journals.librarypublishing.arizona.edu/jpe/article/id/2252/),” which centers the effects of viruses on human and non-human bodies, and the “[Wasteocene](https://www.cambridge.org/core/elements/abs/wasteocene/714CA45E810E6437D5EBB4B71E6C8F71),” which foregrounds the lasting legacies of toxins, pollution, and consumerism’s other by-products. It encompasses also concepts like the “Manthropocene” and its close cousin, the “Misanthropocene,” which identify in heteropatriarchal and sexist behaviors the roots of social and gender violence, as well as the “Whitesupremocene,” which focuses on the racialization of human beings and bodies and its implications for human health, sovereignty, and justice.
+
+The third set of concepts are characterized by their aspirational nature. In contrast to the two previous groups, these terms describe what *should be* or *could be*,as opposed to what *is*.The “[Chthulucene](https://www.dukeupress.edu/staying-with-the-trouble),” “Symbiocene,” and “Lovecene” each present philosophies and practices of more-than-human co-becoming, co-existence, and co-creation as critical to the forging of less violent and more evenly distributed multispecies futures. The concept of the “Planthroposcene,” meanwhile, shifts the lens away from time-periods (“cene”) and towards different ways of seeing (“scene”) by calling on humans to engage with plants and other vegetal beings as persons, kin, agents, and relations, who are endowed with their ways of being in and producing the world.
+
+\_\_\_
+
+Science, as a dominant system of meaning, is and has always been political. It is shaped by uneven power fields, by situated rather than objective knowledge, and by histories that continue to determine who counts as an expert.
+
+\_\_\_
+
+As with the Anthropocene, the strengths of each of these concepts is paired with certain limitations or omissions. The Capitalocene struggles to encompass or reflect the nature of human-environment relations under other ideological regimes like communism. The Plantationocene speaks to a very specific industrial production nexus that might not influence all world-regions or communities of life equally, and that in some instances sustains rather than undermines human income and opportunities. The Necrocene elides those many non-human beings who are proliferating without bounds in the current epoch, such as invasive species and feral organisms. Meanwhile, aspirational terms like the Symbiocene and Planthroposcene, while promissory in pointing to alternative multispecies futures, lack the pragmatic edge required to put them into practice in everyday and institutional life, across different social contexts, and with due attention to the power asymmetries shaping who benefits from planetary transformations and who suffers the brunt of their effects.
+
+Jan Zalasiewicz [claims](https://www.theguardian.com/science/2024/mar/22/geologists-reject-declaration-of-anthropocene-epoch) that the IUGS ruling means “the Anthropocene will confusingly continue to represent widely different concepts” and so will fail to endorse the “clear and simple reality” of planetary misfunction resulting from human activity. As the recently coined and intentionally tongue-in-cheek concept of the “Neologismcene” suggests, creating, comparing, and critiquing charismatic mega-concepts to characterize the current epoch can easily veer into a self-indulgent intellectual exercise. And yet, as Timothy Morton’s powerful IAI essay conveys, there is an urgency to these times of crisis that means we cannot afford to wait and see which term is correct.
+
+[![21 09 17.Anthropoce](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-09-17.Anthropoce.webp)
+
+SUGGESTED READING
+Human history in the age of the Anthropocene
+By Giuseppina D’Oro](https://iai.tv/articles/human-history-in-the-age-of-the-anthropocene-auid-1887)
+
+The key to avoiding scholarly navel-gazing over labels is first to recognize that the various labels need not be approached as exhaustive or mutually exclusive. One might, for instance, think of the Plantationocene, Wasteocene, and Urbanocene as particular expressions of the Anthropocene, or vice versa. Second, we need to treat them as action-concepts, which encourage us to *get* somewhere. They inject scientific epistemologies with a political edge.
+
+The bigger questions that we then need to ask ourselves are: Which action-concepts can help us get to where we want to be in pragmatic and political terms? What do these action-concepts offer in helping us reimagine who we are and how we *act* in the world, and the accountabilities that accompany our supposed exceptionalism as a species? Most importantly, how do we deploy these action-concepts in ways that acknowledge actively and on equal ground our shared responsibility as a species for planetary change, the uneven liabilities and harms experienced by different human communities, and the role of non-human agents in making and unmaking our earthly commons? Proliferating “-cenes” can be seen as part of a growing attempt to answer these questions by highlighting the geographical scale and ecological impacts of *specific* factors that are often normalized – technology, racism, sexism, anthropocentrism, and others.
+
+Crucially, they also remind us that science, as a dominant system of meaning, is and has always been political. It is shaped by uneven power fields, by situated rather than objective knowledge, and by histories that continue to determine who counts as an expert. These labels invite us to think about science itself in a more expansive and inclusive way, bringing dominant traditions into dialogue with Indigenous sciences that are anchored in a relational, intimate, and lived understanding of human and multispecies coexistence.
+
+\_\_\_
+
+We ought not to search for a single “official” name for our geological epoch – especially since it is an epoch experienced differently by different beings, both human and non-human.
+
+\_\_\_
+
+For example, the Nyikina Warrwa scholar and activist Anne Poelina insists that traditional ecological knowledge “has developed through observation, experimentation, and analysis, and includes knowledge adaptation to complex and changing systems – just like Western science.” And the Xicana scholar Felicity Amaya Schaeffer describes an Indigenous “[sacredscience](https://www.dukeupress.edu/unsettled-borders),” to foreground how Indigenous knowledge systems integrate biological knowledge and spiritual cosmologies in ways that account for “the lively presence and knowledge of wind patterns, animal habits and behaviors, the edible parts of animals and plants, plant growth, star patterns, and what all life forces need to survive, propagate, and thrive.” These and many other Indigenous scholars insist on celebrating the ancient and dynamic body of knowledge Indigenous science embodies. They urge a symbiosis between Indigenous and Western knowledges that can help us achieve the shared goal of sustainability for land and for culture.
+
+Here, context matters for determining which label is most relevant, representative, and responsive to contemporary realities across space and society. It matters too, as Morton notes, for who gets to participate in much-needed debates around the naming and claiming of the space and time we all unevenly inhabit. This point accrues heightened significance given that the overwhelming majority of idioms developed to describe a supposedly “global” epoch have been coined by scholars from the White Global North.
+
+So, we ought not to search for a single “official” name for our geological epoch – especially since it is an epoch experienced differently by different beings, both human and non-human. Multiplying our understandings of science requires on the part of dominant secular scientists a move away from the prevalent framing of Indigenous epistemologies as less-than-scientific on account of their spiritual or non-secular dimensions. We must recognize Indigenous science not as static but rather as dynamic, and enable a rethinking of science’s universal language in light of its cultural, historical, and regional specificities. Compromise, negotiation, and concession will be part of this endeavor – but so too will the discovery of shared principles and paradigms, wherein the empirical and the ethical are not positioned as radically distinct but rather as mutually enriching realms of thinking and acting in an increasingly vulnerable and always already more-than-human world.
+
+***Sophie Chao is the author of [In the Shadow of the Palms: More-Than-Human Becomings in West Papua](https://www.dukeupress.edu/in-the-shadow-of-the-palms)***

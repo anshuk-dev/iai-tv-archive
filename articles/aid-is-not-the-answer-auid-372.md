@@ -1,0 +1,59 @@
+---
+title: "Aid is not the Answer"
+subtitle: "Aid won't fix everything but we must still give it"
+author: "Hilary Benn"
+date: "18th June 2014"
+article_id: "372"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,058 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/money-pie1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/aid-is-not-the-answer-auid-372"
+---
+
+# Aid is not the Answer
+
+*Aid won't fix everything but we must still give it*
+
+**By Hilary Benn** | *18th June 2014* | *Read time: approx. 5 mins* | *1,058 words*
+
+![Aid is not the Answer](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/money-pie1.webp)
+
+---
+
+Having previously served as International Development Secretary, Hilary Benn is MP for Leeds Central and the Shadow Secretary of State for Communities and Local Government. Here he talks about the problem with ill-thought through aid provision and the responsibility of human beings to look after those less fortunate than themselves.
+
+**What do you think the main problem is with aid provision today?**
+
+I know from my experience as the International Development Secretary that aid saves lives. It puts children in school; it stops people dying because they’re HIV positive, because we’re able to buy antiretroviral drugs; it improves the life chances of children and it saves lives in emergencies. We give a lot of humanitarian aid when disaster strikes, be that natural disaster, conflict or famine.
+
+But aid is not on its own the answer. If it were, you could write a big enough cheque and you could solve the problem of global poverty. But you need lots of other things as well. You need an absence of conflict in a country – civil war is bad for citizens and for encouraging people to invest. You need good governance. You need to tackle corruption. You need transport links. You need to title land to farmers, because if farmers feel insecure they’re not going to improve the land. So you need all of those other things as well.
+
+We also need to give aid in a way which respects where countries are coming from. We need to recognise that there are politicians and officials who’ve got things they want to do – they have a plan for getting their kids into school, they just lack the cash. The sensible thing to do in those circumstances is to bring the donors together and give the support in one lump sum so that, for example a country can get more children into school.
+
+Otherwise, you get the French turning up to say, “we'll build that school”, and the Brits saying, “and we'll do that school over there”, with the Germans saying, “we'll buy the textbooks.” That's a much more inefficient way to go about things and it also means ministers spend a lot of time with donors when they should be spending time delivering education to their own people.
+
+**Can you think of any reasons why aid might be seen to do more harm than good?**
+
+If you give aid in the wrong way, it can lead to the wrong sorts of outcomes. I have an example from my own experience. Visiting Ethiopia a decade ago, I came to a village in a remote community which had a maternity seat with some equipment and a table and stirrups in a building. The donor had provided those things and then clearly gone away and said: “great, we’ve brought some modern equipment to this part of rural Ethiopia.” But the equipment had never, ever been used. It was left to rust because the village had no doctors and no maternity staff. If you got into difficulty during your pregnancy, there was a bus once a week to the nearest hospital. If you missed the bus and couldn't afford to pay for a motorbike, you went without help.
+
+That’s a classic example of donors not thinking things through. You want officials from the country to say: “that’s not a sensible thing to do because we’ve got no money to employ a doctor or midwife in that village, so please don’t do that, please do something else!”
+
+When you think about it, it’s a pretty obvious example, but there are other examples where you can see that aid has not been given in the right way. Of course, that's not an argument for not giving aid; it’s an argument for giving aid in a way that works and can be sustained and in the end helps people develop themselves. Development is not about someone else turning up to say: “I’m here to develop you.” It’s about people improving their own lives by their own efforts, by their own involvement – by making politics work. Good governance is fundamental to improving the chances that a country is going to be able to do just that.
+
+**Is good governance synonymous with the kind of government we have in the west?**
+
+Not necessarily. Look at China, which has made extraordinary progress in reducing the number of people living in absolute poverty. It is a different form of governance. It’s not the system we’ve got here, but it’s certainly been effective in doing that. Look at the progress Vietnam has made.
+
+As countries open and participate in a global world, people will want to hold their government to account – and this is certainly true of China and other countries. The desire to influence how you’re governed, the desire to have a say in your community, the desire to speak out when things are wrong, the desire for freedom in its broadest sense – these are universal human aspirations. There's absolutely no argument about that at all. But there are different models in development that can work at particular points in time.
+
+**Do we have a responsibility to give aid?**
+
+I think we have a moral responsibility, yes. It is an expression of our solidarity with other human beings whose children are dying of diseases that our children aren't dying of because we have the drugs and the health services that they don't. Or whose children don't go to school while ours do. Don't we have a responsibility to our fellow human beings?  
+  
+It’s also in our self-interest in the proper sense. It’s not the same as selfishness. It’s in our self-interest that we should have a more equal and more stable world in which countries develop. It's when development doesn't happen that we see people travelling up from sub-Saharan Africa to pay smugglers to get on a leaky boat on the north-African coast to try to make it to Europe to better their lives.
+
+If human beings cannot live and prosper, raise a family and build a better life in the place where they find themselves, they will do what human beings have done through all of history, which is to go somewhere else. Ultimately, it is in our interest to support development, because in the end people should be able to live safely and securely in the land of their birth if that’s what they choose to do.

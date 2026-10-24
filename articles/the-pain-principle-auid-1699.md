@@ -1,0 +1,49 @@
+---
+title: "The morality of animals"
+subtitle: "Interventionism or isolationism"
+author: "Christopher Belshaw"
+date: "Issue 92, 24th November 2020"
+article_id: "1699"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,052 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-226660883-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-pain-principle-auid-1699"
+---
+
+# The morality of animals
+
+*Interventionism or isolationism*
+
+**By Christopher Belshaw** | *Issue 92, 24th November 2020* | *Read time: approx. 5 mins* | *1,052 words*
+
+![The morality of animals](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-226660883-1.webp)
+
+---
+
+*There are two types of vegans: those who do not want to interfere in nature and those who want to make nature good. Given that non-interference runs quickly into contradiction we must embrace the moral force of animal pain and act on our instincts argues Christopher Belshaw.*
+
+A sunny afternoon in autumn, and you are enjoying a walk in the woods. Just after turning a corner, you notice a stoat close to a rabbit on the track ahead. The rabbit is motionless. Shout or clap your hands and both animals will run away. Do nothing and the rabbit will be killed. Should you intervene?
+
+Vegans are principally concerned with human rather animal diets. Rabbit and other meats is off the menu, along with fish, birds, eggs, milk and milk products. In having an explicit concern with hurting as well as killing animals means that their position is clearer and more consistent than that of vegetarians. But is it clear and consistent through and through?
+
+All vegans agree that we should not use or exploit animals, but they disagree about how to understand this principle
+
+Beyond this common ground, vegans divide into what I will call the isolationist and interventionist camps; the former are against meat because humans should not interfere with the natural world, the latter focus on minimizing animal suffering. These differences emerge in vegans’ attitudes to their pets. Assuming that having a pet or companion animal is allowed (a question in itself), the interventionist will try to turn their dog into a vegan. They will feel deeply conflicted about keeping a cat because a vegan diet is not possible.  The isolationist, in contrast, will allow their animals a choice about what to kill and what to eat. The isolationist would let the stoat have its lunch. The interventionist will step in to save the rabbit.
+
+There are further differences. All vegans agree that we should not use or exploit animals, but they disagree about how to understand this principle. They are opposed to using animals in medical experiments to improve human health. But what about animal health? On the isolationist view it is not our business to interfere with the natural world. But, if we do, we are responsible for the consequences and for their mitigation. If a disease is causing the decline of an animal population we have to establish whether it has a human cause before deciding whether to get involved. If the cause is nothing to do with us, we ought to let the animals die. The same question applies to climate change: if it is happening, is it caused by humans? For the interventionist this is irrelevant – if climate change has bad effects and we can fix it then we should do so.
+
+[Peter Singer, Christopher Belshaw, Mary Ann Sieghart and Peter Egan ask if we’re really in love with animals](https://iai.tv/video/in-love-with-animals "Watch more videos on iaitv")
+
+We are all familiar with the thinking behind the isolationist stance: What is natural is good, ‘nature knows best’, we should live in harmony with nature, show it respect and ensure we don’t upset its delicate balance. We can find the echo, if not the origins, of such thinking in religious texts and teachings. God made the world and, in Christian theology, it was initially a vegan world. He saw that it was good but did not see how quickly human beings would mess it up. This religious view bifurcates at the next stage. In one view, nature is there to serve humans. In the other, humans are the custodians of nature, tasked with its care. Factory farmers will like the first view; vegans (and many others) will insist on the second.
+
+But key elements in the isolationist views do not hold up. Nature is neither benign nor malevolent. And neither does it care about us. Asbestos, cancer, earthquakes, grapes, strawberries and butterflies; none of these is designed to benefit or to harm. On the other hand, nor is nature aloof; it neither wants or needs to be left pristine and untouched.
+
+Should you save the rabbit? You do nothing wrong in intervening. You do nothing particularly right either, as the stoat will no doubt find another meal as soon as your back is turned.
+
+Isolationists run counter common sense, some will say, by insisting that we leave nature to take care of itself, especially where this involves sick or wounded animals.  If their concern is non-intervention, they also have difficulty explaining why we can farm and eat plants. Humans do not sit outside of nature. Meat eating might not be a physiological necessity but hunting, farming, killing and eating are deeply embedded in our history and culture. It is no more unnatural for us to eat meat than it is for foxes, badgers, squirrels and bears. Still, that is comes to us naturally does not make it right. Human beings are able to know what is right and wrong, rather than simply aiming at their own survival. We should not squander this and fail to address the challenges thrown up by our encounters with the natural world. The best arguments for veganism – I do not say these can be made out perfectly, but they are worth pursuing – are ones that insist that the human gains in eating and using animals do not outweigh the animals’ losses, and many of these focus on suffering.
+
+Should you save the rabbit? You do nothing wrong in intervening.  You do nothing particularly right either, as the stoat will no doubt find another meal as soon as your back is turned.  But consider another case. A couple of years back, riding through the forest, we came across a sound uncannily like a baby crying. Looking around we soon discovered a frog hanging by its leg from the thorns of a bramble, entirely unable to extricate itself.  No one could believe it wasn’t in pain. We did not spend time wondering whether it had got itself into this position or had been put there by some depraved child, nor whether brambles were indigenous or introduced by the Romans, nor again whether the planting here was entirely natural, or whether we were in the residues of a garden, long-neglected. Instead we carefully lifted it down, and set it free.  Only someone with a heart of stone, too much in the grip of a theory, would have done differently.

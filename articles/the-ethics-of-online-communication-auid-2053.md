@@ -1,0 +1,83 @@
+---
+title: "The Ethics of Online Communication"
+subtitle: "Towards a new digital ethics"
+author: "Onora O'Neill"
+date: "16th February 2022"
+article_id: "2053"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,524 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Digital-Communications.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-ethics-of-online-communication-auid-2053"
+---
+
+# The Ethics of Online Communication
+
+*Towards a new digital ethics*
+
+**By Onora O'Neill** | *16th February 2022* | *Read time: approx. 8 mins* | *1,524 words*
+
+![The Ethics of Online Communication](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Digital-Communications.webp)
+
+---
+
+*We are increasingly becoming aware of the dangers that digital technologies pose to us. Yet, the usual focus of legislators on the potential harms that online communications can cause is misguiding. What we should be focussing on is the wrongness of particular actions, rather than their potential consequences, which can be harmful in some contexts but completely harmless in others, argues Onora O'Neill.*
+
+A standard approach to uses of digital technologies aims to prohibit those that harm others, and to allow those that do not.  However, it is not always possible to identify which uses harm and which do not. In the early days of digital technologies, many hoped that they would prove highly beneficial—for example, by supporting the spread of information and democracy. Today there are widespread worries about the harms they can create. In the US, concern about their possible (mis)use to influence electoral outcomes illustrates the point. And in the UK, the *Online Safety Bill* currently before Parliament aims to prohibit and penalise online communication that harms, without restricting harmless online content. Can this be done? And is a focus on harms enough?
+
+## 1. It's not just about harm
+
+Online technologies have indeed made it easier to inflict and spread a great variety of harms.  They can be used to distribute pornography, to incite violence; to promote anorexia, to denigrate others; to defraud and deceive. However, the link between specific online activities and resulting harms is variable. Some online communication that respects relevant ethical and epistemic norms harms others; some does not. Telling the truth benefits in many cases but may cause distress in others; honesty may harm recipients in some cases but be liberating in others. Many types of online content are neither systematically harmful, nor systematically harmless.
+
+This makes legislating to prevent online harms difficult. Circumstances alter cases, and online communication of specific types may harm in one context but not in another. Communication that harms the vulnerable or the immature may be risible and harmless for others. Joking and lying are often harmless, but, if mistakenly taken to be accurate or evidenced, can do serious harm. False claims that are honestly held may harm: witness the claims of anti-vaxxers.
+
+\_\_\_
+
+We need to prevent and limit communication that is inaccurate or false, that slanders, defrauds, or deceives, whether or not it can be shown to harm in each particular case.
+
+\_\_\_
+
+Since circumstances alter the effects of online communication, it is often hard to tell whether online harms will arise and whom they will affect. This suggests that discussions of acceptable and unacceptable communication need to focus not solely on the harmful or harmless *effects* of communication, but also on the *norms and standards* that speech and communication respect or flout, whether or not harm can be predicted in a particular case.
+
+In the digital world, as in the pre-digital world, we need to prevent and limit communication that is inaccurate or false, that slanders, defrauds, or deceives, whether or not it can be shown to harm in each particular case. Similarly, we need to ensure that online communication does not violate privacy or damage reputations, that it aims to be informative and accurate, and not to mislead or slander. Most of this work is done by legislation and regulation that prescribes norms and standards for action, rather than by trying to divide online content into the prospectively harmful and the prospectively harmless.
+
+## 2. The need to legislate
+
+Legislation therefore requires more than prohibition of online harms. Prohibitions are useful where online content is obviously likely to harm. For example, requiring age-appropriate verification in a world where online pornography or online gambling can be marketed to children can evidently help protect them from some harms. But, in other cases, it is hard to tell what will harm or whom it will harm.
+
+In the early days of digital technologies, it was widely believed—or at least asserted—that the expansive connectivity that they offer would have vast benefits, including spreading information and strengthening democracy.  However, digital technologies also made it easier to spread rumours and conspiracies, to spy on others, to destroy reputations, to promote false claims, and to damage democracy. The ramifying connectivity that they offer makes it easier not only to transmit and share information, but to target selected audiences with a spectrum of misleading, and often duplicitous, content that wrongs others, even in cases where it happens not to harm.
+
+It may seem obvious to use legislation and regulation to prohibit harmful digital content and to protect content that does no harm, but this is not always feasible. The illustrations offered typically concentrate on cases where harm is *intended* or *highly likely*—websites that promote fraud or suicide or sexual violence, or communication that organises and spreads hate speech. But the connection between types of communication and resulting harms is far from uniform. Many types of online communication raise problems, and I shall comment briefly on just two widely discussed difficult cases: online communication that breaches privacy and anonymous online communication.
+
+## 3. The difficulties with protecting privacy
+
+Protecting privacy has long been seen as an important norm for communication. Traditionally it was seen as a matter of refraining from interference with a person’s ‘privacy, family, home or correspondence’ (Universal Declaration of Human Rights). However, digital technologies make protecting informational privacy harder. They support the spread and targeting not only of information, but of misinformation and disinformation, and make it easier to obtain, organise, suppress, link, redistribute, and sell data that are linkable to personal information. Possibilities for breaching privacy have mushroomed with the growth of digital technologies.
+
+Privacy requires reasonable assurance that information can reach intended recipients without becoming available to others, let alone becoming public knowledge. Data protection measures have been widely used to support privacy by prohibiting the sharing, reuse, and sale of ‘personal data’ unless the relevant data subject(s) consent. Some breaches of privacy indeed do harm, for example, by supporting blackmail, undermining agreements and negotiations, destroying trust and reputations, and providing leverage for making demands. But others pass unnoticed, or even benefit some.
+
+\_\_\_
+
+Insignificant information about an individual can make her identifiable by those with access to other information, as anyone who reads detective fiction knows.
+
+\_\_\_
+
+It is unfortunately hard to specify *which* data should be seen as personal. A standard approach is to count information as ‘personal’ if it enables the identification of individuals. For example, in the UK, the 1998 Act that incorporated the original EU directive into law characterised personal data as information that makes an individual *identifiable* based on ‘other information’ “held by, or likely to be held by the data controller”. This sets a problematic standard. Even in institutional settings where there is a data controller, that ‘other’ information will vary from case to case, and so will the inferences that can be drawn.  And with the advent of social media, a great deal of information that makes individuals identifiable circulates without moderation by data controllers. Insignificant information about an individual can sometimes make her identifiable by those with access to other information, as anyone who reads detective fiction knows.
+
+To make matters more difficult, digital communication often relies on slender consent requirements, which offer limited protection for privacy. The digital revolution has expanded the ease with which information, including personal information, can spread without genuinely informed agreement by data subjects, by relying on consent procedures that fail to control the spread of personal information. The ‘tick and click’ approach to consent on which much online activity relies may be convenient but sets a very low standard.
+
+\_\_\_
+
+An unregulated online world offers powerful actors a cloak of anonymity under which to hide their action, often at the expense of those whose information is aggregated and deployed.
+
+\_\_\_
+
+## 4. Anonymity and Power
+
+Digital technologies also make it easier to affect others anonymously. Until recently, anonymity was seldom seen as a central ethical consideration. Anonymous publications and benefactions seemed unproblematic, perhaps because they weren’t wholly anonymous. Publishers of books by anonymous authors remained identifiable and so accountable, as did financial institutions used by individuals who made anonymous gifts. Anonymity was seen as ethically important only in distinctive cases: a stock example being that of powerless but intrepid journalists who aim to speak truth to power. Less admirably, anonymity also helps those bent on harming others or committing crimes.
+
+Digital technologies have transformed the range and power of anonymous action. Information, misinformation, and disinformation can be assembled, targeted, or suppressed by powerful actors whom few can identify. Conspiracies can proliferate without their anonymous organisers being identifiable. Data brokers can supply personal data to their customers without being identifiable, and therefore without being accountable. An unregulated online world offers some powerful actors a cloak of anonymity under which to hide their action, often at the expense of those whose information is aggregated and deployed. Digital technologies permit the anonymous organisation, suppression, invention, control, and sale of personal data by agents whom individual data subjects can neither identify nor hold to account.
+
+Measures to limit online harms can, it appears, provide remedies for some of the ethical problems that digital technologies raise, but not for others. Protecting privacy and ensuring that power is not exercised anonymously both require a focus on online wrongs rather than online harms, on action rather than outcome.

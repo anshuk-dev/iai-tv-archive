@@ -1,0 +1,81 @@
+---
+title: "In defence of post-realism"
+subtitle: "Relating language to a boundless world"
+author: "Hilary Lawson"
+date: "Issue 94, 5th March 2021"
+article_id: "1764"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,109 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/realism-part-5.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/in-defence-of-postrealism-auid-1764"
+---
+
+# In defence of post-realism
+
+*Relating language to a boundless world*
+
+**By Hilary Lawson** | *Issue 94, 5th March 2021* | *Read time: approx. 11 mins* | *2,109 words*
+
+![In defence of post-realism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/realism-part-5.webp)
+
+---
+
+*[Realists might claim](https://iai.tv/articles/politics-truth-and-self-reference-auid-1758) that paradoxes of self-reference can be theorized away but the question remains: how can language describe its own relationship to the world? Rather than being true or false, language is a tool to be judged by its usefulness. From holocaust denial to Trump’s election win, the way to counter problematic opinions is not a decree of falsity but by a demonstration of their worthlessness when engaging with the world, writes Hilary Lawson.*
+
+In response to criticisms that I made of realism in my previous article, Timothy Williamson has two primary lines of response. The first is that while the paradoxes of self-reference might not have been solved we have possible strategies. And the second is a counter-challenge to postrealism that if there is no truth there is also no falsity, and that cannot be a viable position. Yet, neither of these addresses the failures of realism, and they misunderstand the force and potential of postrealism.
+
+Let me begin with self-reference. Moving on from his original claims of 'progress' by Tarski and Kripke, Timothy Williamson cites others who have possible strategies to formulate a consistent logic that incorporates self-reference.  The claim is that unlike Tarski they avoid the problem of arbitrarily outlawing self-reference by allowing self-reference but changing the 'principles about truth to not apply in some cases'.  Yet in effect this amounts to the same thing. In fact Tarski's own account could be described in this way since his hierarchy of languages succeeds only by providing an account of truth - namely that no language is allowed to contain its own truth predicate - that at once makes genuine self-reference impossible.  In these instances the definitions of truth are formulated to outlaw what would otherwise be paradoxical self-referential claims.
+
+This will not wash as a solution to the problem of self-reference in the context of realism.  The challenge is not to create a consistent logic that avoids self-referential paradox. This might itself be a valuable goal, and is certainly itself not straightforward, but it is not the issue.  The challenge is to account for how the self-referential paradox - as it applies to a realist account of language - can be avoided.  This cannot be defined away.  Self-referential paradox is at the centre of the attempt to describe the relationship between language and the world.  Namely that for language to describe the relationship between language and the world, language has to stand outside of itself.
+
+Wittgenstein famously closes the Tractatus with the remark that having 'climbed the ladder' it must be thrown away.  This is because his realist account of language concludes with the insight that language cannot refer to metaphysics.  Yet the realist theory itself is an example of metaphysics.
+
+Self-referential paradox is at the centre of the attempt to describe the relationship between language and the world.
+
+Hilary Putnam came to the same conclusion.  Regarded at the time as one of the leading analytic philosophers in the world, he colourfully concluded in 1990, that the project to describe the relationship between language and the world was 'a shambles'.
+
+[[i]](#_edn1) I do not therefore claim originality for the argument that self reference is an unavoidable Achilles heal for the realist project, or for identifying logical flaws in Tarski's attempt to overcome self-referential paradoxes. The case I have put forward is somewhat different to Putnam, and I draw rather different conclusions, but the core of the attack is the same.
+
+What we need to hear from realists is not reassurance that they have the problem under control, or that progress is being made, or that a new publication has a plausible logic. We need to hear why the realist project is not mistaken as Wittgenstein concluded, nor ‘a shambles’ as Putnam maintained when he wrote that 'realism is an impossible attempt to view the world from Nowhere', or what is misguided about the case that I have put forward.
+
+So, I would like to encourage realists out from their bunker to engage in the challenges of the contemporary world. Which brings me to the second line of argument in Timothy Williamson's article: that a postrealist account has to deny falsity as well as truth.
+
+Instead of seeing language as a description of reality, and the meaning of words and sentences in the reference of the terms, postrealism explores alternative accounts of language. The later Wittgenstein and Derrida are postrealists in this sense.  The form of postrealism that I advocate is one based around the process of closure, which is the means by which we are able to hold the openness of the world as something in particular, the means by which identity is realised. This process functions to enable successful intervention in the world. In doing so it does not refer to, or describe some elusive independent reality.
+
+If we hold a line drawing as a rabbit we both perceive it as a rabbit and interpret all of its elements as a rabbit.  Yet we can see it differently, in Wittgenstein's example, as a duck.  There is no practical limit to the number of ways we can hold a line drawing, or the stars, or what we typically take to be reality.  If you doubt this, consider that, if you draw an imaginary line between one star and another, you can create more patterns in a hundred stars than there are particles in the observable universe.  Our ways of holding the world do not describe reality but enable intervention by holding the openness of the world as something in particular. If the intervention is not successful we can try an alternative or refine our account.
+
+[Slavoj Žižek joins Oxford metaphysician Sophie Allen and post-realist philosopher Hilary Lawson to ask why paradox just won't go away.](https://iai.tv/video/a-crack-in-everything "Watch more videos on iaitv")
+
+Our theories and language are not true or false descriptors of reality, which explains why there are so many alternative - and sometimes contradictory - descriptions of ‘the same’ underlying but inaccessible thing.  Instead they function as tools to enable us to achieve our goals. Tools are not true or false.  They are more or less effective.  If we purchase a spade, we don't have a true or false spade, but a more or less effective one for a given purpose.  And so it is with our theories and claims about the world.  They do not refer to ultimate things that lie behind our perceptions or behind the multitude of alternative descriptions that can be offered for any part of the world. Instead they hold the world as if they were things and intervene on that basis.
+
+In one sense I accept Timothy Williamson's argument.  If one abandons the notion of an ultimate objective truth, one is also abandoning the notion of an ultimate objective falsity. Williamson supposes that an abandonment of objective falsity is immediately implausible.  It may at first sight appear so, but it is not.  The misunderstanding is to imagine that the abandonment of a realist truth and falsity has the consequence that the postrealist has no resort when facing claims that seem either trivially wrong, or dangerously problematic.
+
+We are not free to adopt any account of the world we chose, as if there were no constraint to closure.  From birth we are encouraged to adopt the familiar concepts and beliefs of our culture.  Within this network of concepts and beliefs our room for alternatives is highly constrained.  The socially agreed understanding we attach to the terms 'London', 'capital' and 'France' have the consequence that it is sufficiently difficult to realise the claim 'London is the capital of France' that we usually identify it as being simply false.  Just as we would for the claim that the Nazi holocaust did not take place, that Trump won the last US election, or that one plus one is something other than two.
+
+While we operate on a day-to-day level with a complex set of agreed definitions that - for the most part - enable a straightforward determination of truth and falsity within a given context, there are circumstances in which the seemingly definitive claims can be challenged.  We can imagine a speech to French bankers encouraging the overturning of London's dominant financial markets with the claim 'London is the capital of France'.  While one monitor and one keyboard can in some circumstances be seen as one computer, and in this sense one and one can be one not two.
+
+The realist contends that there is only one meaning for 'London', 'capital' and 'France' and so that truth can be definitively determined.  The postrealist argues that, while this can appear the case for the standard use of the terms, a definitive meaning of each of them is not determinable. Their meanings can be indefinitely extended.  London is not just a geographical location or a boundary; it is also a history and an idea.  For some it might be the seat of oppression, for others the seat of democracy.  It has countless meanings and ways the concept - and the identity realised in the closure 'London' - can be held.  We cannot determine these meanings or the claims in which they take part by reference to objective truth and falsity in an external reality that we cannot access.
+
+We are not free to adopt any account of the world we chose, as if there were no constraint to closure.
+
+But what of the more immediately problematic example of holocaust denial or the contemporary political example of Trump's claim that he won the last US election?  Once again an appeal to truth is not going to be helpful in convincing the genuine adherent to either view, nor in the limit is it possible.  The individual involved might simply be lying, pretending to hold a view they do not in fact hold.  In which case a strategy of uncovering their lie is a sufficient strategy. The bigger, and philosophically more significant, challenge is the adherent who wholeheartedly believes the claim.  In such circumstances an assertion of its falsity will cut little ice.  Instead we have to draw their attention to evidence they will accept.  We introduce them to a living survivor.  We take them to the camps.  This still may not be enough since they can challenge the truthfulness of the individual or the veracity of the remains.  We hope that at some point the complexity of the story they have to weave to retain their view becomes too difficult for them to retain.
+
+This may seem an exhausting process for something we wish simply to deny as false.  But claims of truth are merely means of asserting our view, of insisting on our way of holding the world.  As if this is effective!  Instead it entrenches opposing outlooks.  And just as troops on both sides in the First World War were encouraged into battle with sermons asserting that the same god was on their side, so in contemporary political debate opposing sides call on the same truth to encourage their supporters into rightness of their cause.
+
+It is time we abandoned this dangerous game, and recognised that our alternative and different ways of holding the world are not decided by truth and falsity but by the character of the intervention they make possible.  We have to test those alternatives and judge which is valuable and which problematic.  English speaking jury trials operate a similar strategy. A case, is offered by prosecution and defence.  Each is a way of holding the events in question. The court judges whether the defence is plausible.  It does not claim to have identified the truth.
+
+When judging accounts of the world and determining our own, we do so by looking for consistency in the way concepts are applied and drawing attention to flaws.  We also look to see the outcome. In the end, we can but judge the value of the interventions made possible through our closures, and do so recognising the particular and limited character of our account, knowing that there will be others.
+
+So it is that we should struggle to formulate the strongest accounts we can to achieve the interventions we desire.  We should do so not in the belief that they have provided an ultimate account of the universe, but that, on balance and for the time being, they have outcomes which we wish to endorse, or even to fight for.  In doing so, however, we recognise these accounts to be a temporary and limited abode - a means of holding the world that has the appearance of holding fast that which cannot be held at all.
+
+---
+
+[[i](1](#_ednref1) (1) Hilary Putnam , Realism with a Human Face (Harvard University Press 1992), p.51.   See also Chapter 3 of Putnam, Reason, Truth and History (Cambridge University Press, Cambridge 1981).
+
+(2) Hilary Putnam,  Reason, Truth and History   pp17-23.
+
+[[ii(2\_ (2](#_ednref2)

@@ -1,0 +1,85 @@
+---
+title: "Gratitude is the antidote to pessimism"
+subtitle: "Nietzsche, Heidegger, and why existence is a gift"
+author: "Gigla Gonashvili"
+date: "16th January 2026"
+article_id: "3469"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,858 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gratitude4.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/gratitude-is-the-antidote-to-pessimism-auid-3469"
+---
+
+# Gratitude is the antidote to pessimism
+
+*Nietzsche, Heidegger, and why existence is a gift*
+
+**By Gigla Gonashvili** | *16th January 2026* | *Read time: approx. 9 mins* | *1,858 words*
+
+![Gratitude is the antidote to pessimism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gratitude4.webp)
+
+---
+
+*Life can sometimes be painful, and in the face of this, philosophy has often been seen as pessimistic and nihilistic. However, Nietzsche and Heidegger, in the face of life's hardship, often emphasised gratitude as of central importance. Philosopher **Gigla Gonashvili** argues thought itself can be viewed as an act of gratitude, with the shared characteristic between thinking and thanking being a recognition of the unasked-for gift of Being itself.*
+
+Philosophy can include gratitude among its fundamental visions. This is evident in none other than Nietzsche and Heidegger. Thus, it is not only religious or, more generally, mindful practices that teach us the value of gratitude, but also philosophy itself. In fact, we can even bring together the insights from these different fields.
+
+Gratitude expresses a profound relation not only with our fellow beings but also with being itself. The big, so-called metaphysical questions—what is the ground of being? Why is there anything at all? Which comes first, the gaping absence or the fullness of creation?—are also questions about how we are to feel existence itself. And perhaps more than anything, we long to know how to feel about our own being, here and now.
+
+\_\_\_
+
+One should be grateful to Heidegger for bringing to light an important trait common to both thinking and gratefulness—namely, *recognition,* or in other words, the act of adding value to perception.
+
+\_\_\_
+
+Post-war Heidegger, who liked to say “Denken ist Danken” (literally: thinking is thanking), bequeathed to us a profound reflection on the relation between thought and thankfulness. Both words trace back to the same Indo-European root tong/tank, meaning noticing or acknowledging. In this context, Heidegger also recalls another German word derived from the same root, Gedächtnis (memory, commemoration), to tighten even further the connection between thinking and thanking.
+
+Yet in what conceptual sense can thinking be the same as thanking—that is, as gratitude? Heidegger observes that we are usually grateful for what is not our own but given to us. Curiously, however, what is given to us is nothing other than our very own being, our essence (Wesen). This be-ing gives us [something to think about](https://iai.tv/articles/escaping-from-distraction-simon-glendinning-auid-2743), revealing itself as enigmatic and thought-provoking (bedenklich). At the same time, however, [our being points toward an origin that is self-concealing](https://iai.tv/articles/nothing-the-contradiction-at-the-heart-of-being-graham-priest-auid-2675), distancing itself from us. It thus seems that we have not yet truly begun thinking and, by the same token, not yet truly begun thanking.
+
+Despite these complexities, one should be grateful to Heidegger for bringing to light an important trait common to both thinking and gratefulness—namely, recognition, or in other words, the act of adding value to perception. In Descartes’ Meditations, the genius malignus transforms into a benevolent God who, as it turns out, would not wish to deceive the thinker; thus reality is restored and founded anew. Yet one may ask: isn’t this a sleight of hand? Why all these theatrics? Descartes probably had more than one reason for proceeding in this manner, and one of them he states explicitly: clear perception (that is, seeing and believing) is more perfect than doubt (where the object may be lacking in perception). Instead of being dragged into an abyss of doubt, one manages to take a step back and appreciate reality as it gives itself clearly, as full—even if this fullness might appear foolish or unfounded to the doubting gaze. Without such recognition, thought would dissolve. There would be no cogito ergo sum.
+
+Social realities, brought about through human interaction, are indeed complex: they are supported and substantiated by useful symbols and fictions which, despite their immense help in organizing social life, may soon turn out to be hollow and give way to a gaping absence. People begin to speak of crises, of the devaluation of values, of nihilism. When one needs to reflect on such murky matters, Nietzsche is the philosopher for us.
+
+Indeed, Nietzsche is known, among other things, for announcing a tragic piece of news (the death of God himself) and for focusing on less pleasant inner states such as [despair and mean-spiritedness](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801). But at the same time, he is also the philosopher who acknowledges [the fundamentality of gratitude.](https://iai.tv/articles/nietzsche-ignorance-sets-us-free-auid-2445) His insistence that salvation—or, at the very least, the affirmation of life—must be found in this very existence (and not in some afterlife) underscores, in the most urgent way, the intimate relation that is gratitude.
+
+The word Nietzsche uses to express this relation is not only gratitude (Dankbarkeit) but also blessing (Segnen). This theme appears already in the prologue of Zarathustra, where the prophet addresses the sun: “Great Star! What would your happiness be, were it not for those whom you illumine!” And as Zarathustra prepares to leave his solitary life high in the mountains and descend once more among human beings, he asks of it: “Bless the cup that wants to overflow, that the water may flow from it golden and carry everywhere the reflection of your delight!” (translation by Graham Parkes).
+
+\_\_\_
+
+Existence may sometimes appear as a gift one never asked for; but if one wants and asks for something, if one desires something, there will be a solution—a response.
+
+\_\_\_
+
+If in Plato the sun is a symbol of transcendent Goodness beyond being—recognized only once one has emerged from the shadowy cave—Zarathustra’s rather impudent address suggests instead that even the farthest things are affected and swayed by our being. Such affirmation is possible through an immediate recognition, an instantaneous reversal of roles. Already high above, Zarathustra overcomes his solitude: he recognizes the relation immanent in our very being, and thereby perceives a call, an invitation signifying that while we traverse the hardships of existence, we are not alone; and, more than that, we are invited into life. The response to this call is, in essence, thankfulness: a blessing. The seemingly impudent address is, in fact, a blessing toward the sun, and Zarathustra in turn asks to be blessed by the sun as well.
+
+This relation of gratitude further implies the possibility of a [new beginning](iai-academy/courses/info?course=life-meaning-and-morality)—a renewal of our attitude toward ourselves, others, or being itself. For Nietzsche, this renewal occurs primarily through art, which is a life-affirming practice: by means of images or motifs (in music), it generates an affective overflow of resonances. In this way, existence becomes not only bearable but can also be experienced as harmonious, as good, as recognizable. [Art offers us a place to dwell](iai-academy/courses/info?course=heidegger-meets-van-gogh-art-freedom-and-technology); it creates the continuity of a flow in which we can find ourselves again—even in the remote corners of the universe. Last but not least, and perhaps this is Nietzsche’s highest hope, art promises to reveal to us givenness (of our own essence and of a new beginning) that will not feel like indebtedness. Existence may sometimes appear as a gift one never asked for; but if one wants and asks for something, if one desires something, there will be a solution—a response.
+
+\_\_\_
+
+Gratitude is not so much about believing in the good and renouncing the evil (although ethical choices do have to be made in life) as it is about acting from the goodness itself.
+
+\_\_\_
+
+Nevertheless, to turn to more earthly matters: how does all this translate into our everyday lives? The fact is that even though art promises us this very special experience, and even though philosophy too can bring thinking together with thanking, it is difficult to remain in this state of mind. For if we try too hard, the cultivation of gratitude may itself become another pleasure trap; the constant effort to feel grateful and to dwell almost incessantly on the good may even lead to dopamine burnout—especially today, when we are already bombarded with so many excitements.
+
+Furthermore, we do not wish to be duped by a shallow “let’s see things in a positive light.” Existence shows itself in many colors, including dismal grays, and one must be realistic about that. Yet here is the point: we all sense clearly that it makes a great difference whether we are stagnating, regressing, or moving forward, growing. In other words, there is an immediate recognition of goodness. And with a little reflection, we can see that there are indeed things we recognize as good: personal achievements, common goals of humankind, or even existence itself (after all, it is up to us to choose). Such recognition gives us a grip on the situation; it provides coordinates in an otherwise blank space.
+
+Or, to use another metaphor: instead of sliding downwards at high speed (where one may break one’s neck even before hitting rock bottom), we can descend or ascend step by step on a staircase—even if it leads into dark places. As in Rembrandt’s The Philosopher in Meditation, we see a spiral staircase, its steps half-sunken in darkness; yet the interplay of light and shadow creates a sense of groundedness. Such a setting is not foreign to the way we think.
+
+[![23 04 06 Nietzsche ignorance sets us free](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-04-06-Nietzsche-ignorance-sets-us-free.webp)
+
+SUGGESTED READING
+Nietzsche: ignorance sets us free
+By Bernard Reginster](https://iai.tv/articles/nietzsche-ignorance-sets-us-free-auid-2445)
+
+Despite this insistence on recognizing goodness, gratitude is not so much about believing in the good and renouncing the evil (although ethical choices do have to be made in life) as it is about acting from the goodness itself. This can be expressed, for example, through prayers and chants in various religious traditions (e.g., the Christian Eucharist literally means “thanksgiving”), and nowadays it is often Buddhist-influenced meditations that are particularly suited to this. For instance, one can sit for five minutes, focus on any good thing that comes to mind—perhaps the breath flowing freely in the body, a distant murmur, or the memory of a pleasant encounter with a friend—and simply recognize it as good. It is a practice of immediate perception: “Ah, this is good,” and it can further create a space for good things to appear. This kind of meditation is characterized by a certain effortlessness and also by the awareness that one does not need to suppress unpleasant things that may emerge alongside the good.
+
+Beyond the cultivation of gratitude, we also need philosophy and art to open pathways for more profound reflection on gratitude. Humans are particularly adept at envisioning things; we may even succeed in elaborating worldviews. Consequently, we always want to understand our role in the picture, whether large or small. As Heidegger said, our own being concerns us; otherwise, we are troubled by it.
+
+Sometimes, when one needs to come to terms with oneself or simply face the hardships of life, the outside world provides little help. This is why we need to discover inner resources, to remember and recognize ourselves. As the French word for gratitude—reconnaissance— suggests, thankfulness begins with recognizing. Recognition is an especially fruitful concept, as it applies not only to things but also to the people around us, including ourselves.
+
+To conclude, the cultivation of gratitude directs our attention more toward relations rather than objects, and more toward experiences rather than mere knowledge. Furthermore, and this is crucial, it gives us a ground to stand on in times of hardship; indeed, it even allows us to create our own ground, to cultivate our relationships with others and with ourselves. For let’s face it: human life cannot exist without change, voluntary or otherwise. Yet if we choose to adhere to certain practices and to recognize their goodness, we create [paths for moving through life](https://iai.tv/video/finding-transcendence-in-a-secular-world-rupert-sheldrake)—paths for going and returning. Or for taking certain things with us when we decide to leave.

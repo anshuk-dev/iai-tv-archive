@@ -1,0 +1,74 @@
+---
+title: "Can plastic surgery make you more authentic?"
+subtitle: "Women with cosmetic surgery are not deluded victims but autonomous beings."
+author: "Luna Dolezal"
+date: "Issue 60, 14th November 2017"
+article_id: "971"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,603 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/gary-bendig-cosmetic-surgery-luna-dolezal.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/can-plastic-surgery-make-you-more-authentic-auid-971"
+---
+
+# Can plastic surgery make you more authentic?
+
+*Women with cosmetic surgery are not deluded victims but autonomous beings.*
+
+**By Luna Dolezal** | *Issue 60, 14th November 2017* | *Read time: approx. 8 mins* | *1,603 words*
+
+![Can plastic surgery make you more authentic?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/gary-bendig-cosmetic-surgery-luna-dolezal.webp)
+
+---
+
+It is only very recently that elective cosmetic surgery has entered the mainstream as a routine and socially acceptable way to alter appearance. In the 1950s, for example, aesthetic plastic surgery was a largely marginal and unknown medical practice. Just a few decades later, in the present day, it is a recognized medical speciality, not to mention a highly lucrative multi-billion dollar global industry. Although cosmetic surgery is regularly performed on men, it is by and large a female practice. In 2016, for instance, in the United States, ninety-two per cent of surgical and non-surgical cosmetic procedures were performed on women, and only eight per cent on men. (Interestingly, although women are by and large the primary recipients of cosmetic surgery, approximately eight out of every nine cosmetic surgeons are male.) These figures are mirrored precisely in the UK, where women, in 2015, made up about 91% of cosmetic surgery recipients.
+
+It is commonly argued that women who undergo cosmetic surgery are ‘cultural dopes’, ‘misguided and deluded victims’ that have been misled by patriarchal norms that are contrary to their ‘authentic’ or ‘autonomous’ selves. The assumption of a pervasive false consciousness which leads women astray from a more authentic expression of identity and appearance is operational in much of the liberal feminist discourse on the matter. Women’s choices to engage in extreme grooming practices, like cosmetic surgery, are devalued as ‘inauthentic’, driven by hegemonic hetero-normative patriarchal societal pressures, rather than on so-called ‘authentic’ personal preferences. In the context of cosmetic surgery, questions about authenticity versus false consciousness are enormously ambivalent and the aim of this short article is to explore some of these ambivalences. In fact, cosmetic surgery is an arena where the question of whether we can meaningfully disentangle an authentic expression of self and identity, from an expression of self that is mediated and constructed by societal and institutional expectations, comes strikingly to the fore.
+
+\_\_\_
+
+"For some, if not many, women, cosmetic surgery is not about becoming beautiful or exceptional, but about merely ‘passing’."  
+\_\_\_
+
+In contrast to the leading idea that women who undergo cosmetic surgery are ‘cultural dopes’ operating under false consciousness, it is widely reported in the scholarly literature on cosmetic surgery that women often see cosmetic surgery as a means to take control of their bodies and lives, exercising their agency in order to alleviate psychological distress, to return to a more ‘authentic’ experience of themselves. As a result, despite the (obvious) focus on the physical body in cosmetic surgery practices and the promise of ameliorating physical flaws, a common justification by doctors and patients for the medicalneed for cosmetic surgery is not about the physical body, but instead related to the alleviation of psychological distress—significantly, they argue that cosmetic surgery will alleviate shame, anxiety and suffering arising as a result of perceived flaws in one’s body and the perceived threats to one’s social standing that this may incur. In this context, cosmetic surgery is seen as a means to reconcile a disturbed or estranged self with a more ‘authentic’ experience of self.
+
+Hence, it is clear from ample empirical research and anecdotal evidence that, for women, cosmetic surgery is not simply an expression or manifestation of excess vanity, nor merely a symptom of a patriarchally-duped false consciousness. Instead, surgical fixes are sometimes utilized as a means to achieve a ‘normal’ appearance in order to restore an ‘authentic’ experience of the self that is not perpetually dogged by shame and inadequacy. Hence, it seems that for some, if not many, women, cosmetic surgery is not about becoming beautiful or exceptional, but about merely ‘passing’. Sought out in response to body shame that can perhaps range from minor to severe to completely unbearable, these women hope cosmetic surgery will help them become ‘unnoticeable,’ ‘invisible,’ and ‘ordinary’ to use some of the terms employed regularly in research interviews. In these contexts, arguably, cosmetic surgery can be seen as something *beneficial* for the subject where exercising one’s choice to have surgery can improve one’s quality of life, self-esteem and psychological functioning. A return to an *authentic* experience of self, so to speak.
+
+However, cosmetic surgery is undertaken in a realm—namely *medicine*—that is replete with norms, assumptions and power relations that, historically and still contemporaneously, compromise women’s agency, authority and autonomy. Carving out spaces for expressions of authenticity in the realm of medicine is highly questionable as objectification, standardization and normalization are central to its success. In fact, through offering a diagnostic language and a therapeutic narrative to alleviate the shame cycle that many women feel regarding their concerns with appearance—where the advice and attentions of a medical expert legitimates what might otherwise feel like a shameful preoccupation—doctors are in a prime position to carve out the parameters of what might be considered to coincide with an ‘authentic’ sense of self in the first instance. A reassuring doctor can alleviate your shame and distress, recasting what you feel might be mere vanity or narcissism into a serious medical concern. A perceived physical flaw is no longer a shameful secret or a personal failure, but part of a legitimate medical problem.
+
+\_\_\_
+
+"A perceived physical flaw is no longer a shameful secret or a personal failure, but part of a legitimate medical problem."  
+\_\_\_
+
+Diagnostic language is powerful. As critics writing about gender, race, sexual orientation and disability, among other embodied states that carry shame and stigma, have noted, a medical diagnosis can alleviate distress, empowering and enabling an individual or group. As against feeling different, ashamed and alone, belonging to a medically classified group can be a positive and even life-changing experience, yielding a senses of authenticity about one’s identity through the validation of a subjectivity that was previously politically or socially marginalized, invisible and ignored. Not only is one’s shame alleviated, but often the medical model provides avenues and options for treatment and perhaps even a ‘cure.’
+
+However, once these diagnoses or classifications are accepted and perceived as reality, it is difficult to resist the dictates of biomedicine and the normalizing ideology which underpins it. As a result, although doctors are key in alleviating the distress, shame and embarrassment that one might feel about the body, they are also in a prime position to incite it.
+
+There are numerous accounts in feminist literature on cosmetic surgery of doctors who, in consultation, routinely make women ‘see’ that parts of their bodies, for which they had not even considered surgery, are in fact also defective and in need of intervention. This has profound consequences for one’s self-perception and self-esteem. The feminist theorist Susan Bordo cites this example:
+
+ “Writing for *New York* magazine, 28-year-old, 5-foot 6-inch, and 118-pound Lily Burana describes how a series of interviews with plastic surgeons—the majority of whom had recommended rhinoplasty, lip augmentation, implants, liposuction and eyelid work—changed her perception of herself from ‘a hardy young sapling that could do with some pruning … to a gnarled thing that begs to be torn down to the root and rebuilt limb by limb.”[[1]](#_ftn1)
+
+\_\_\_
+
+"There are numerous accounts in feminist literature on cosmetic surgery of doctors who, in consultation, routinely make women ‘see’ that parts of their bodies, for which they had not even considered surgery, are in fact also defective and in need of intervention"  
+\_\_\_
+
+In this manner, cosmetic surgeons can play out the common formula of consumer culture: they cultivate profound anxieties about the body and then present themselves and their services as the only means to eliminate or alleviate the very shame and guilt they have themselves helped to produce.
+
+Arising from the inherent discrepancy in the power relations between doctors and patients, compounded by the highly gendered landscape within which cosmetic surgery practices play out, is an endless ground to invent new defects and, correspondingly, new interventions to correct them, inciting further anxieties in already existing clients while simultaneously broadening its markets to younger women, adolescents, men and diverse ethnic groups.
+
+Hence, what is interesting is that despite numerous testimonials that cosmetic surgery is sought out as a means to authenticity – alleviating psychological distress caused by perceived flaws in appearance, there is ambivalent evidence on the overall positive psychological and social impact of cosmetic surgery, nor any clear evidence on how long any reported positive impacts will last. Evidence suggests that cosmetic surgery may offer a superficial fix targeting a particular instantiation of body shame, while, at the same time, ultimately exacerbating overall body dissatisfaction.
+
+In fact, the argument that cosmetic surgery is psychologically beneficial is extremely problematic and fraught with contradictions. Surgeons are regularly advised not to operate on those who suffer from mental health issues, especially Body Dysmorphia Disorder (BDD), a psychopathology where one’s experience of one’s own body is grossly negative and necessarily ‘inauthentic’—at odds with what, by ‘normal’ standards, would be considered ‘ordinary’ or even ‘attractive’. These individuals are unlikely to be satisfied with the results of their surgeries, nor to experience any relief from their psychological suffering. However, while rejecting those with BDD as potential candidates for surgery, some surgeons simultaneously encourage BDD-like behavior in their ‘healthy’ and ‘suitable’ patients who turn to surgery as a result of dissatisfaction with minor or even imperceptible flaws in otherwise normal appearance. As a more honest surgeon remarks: “Plastic surgery sharpens your eyesight … You get something done, suddenly you’re looking in the mirror every five minutes—at imperfections nobody else can see.”[[2]](#_ftn2) Indeed, a common mantra for women who undergo these sorts of procedures is: “You might not notice it … but *I* do.”[[3]](#_ftn3)
+
+---
+
+[[1]](#_ftnref1) Bordo, "Twenty Years in the Twilight Zone," 28.
+
+[[2]](#_ftnref2) Quoted in: Bordo, "Twenty Years in the Twilight Zone," 26-27.
+
+[[3]](#_ftnref3) Eva Wiseman, "Would Madam Like a Nose Job with Her Sandwich," *The Observer Magazine* 2010, 56. Emphasis added.

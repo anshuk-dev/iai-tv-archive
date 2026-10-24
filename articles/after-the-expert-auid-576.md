@@ -1,0 +1,41 @@
+---
+title: "After the Expert"
+subtitle: "Will mistrust of experts bring democracy or chaos?"
+author: "Edward Mortimer"
+date: "Issue 37, 26th September 2015"
+article_id: "576"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "710 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Experts-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/after-the-expert-auid-576"
+---
+
+# After the Expert
+
+*Will mistrust of experts bring democracy or chaos?*
+
+**By Edward Mortimer** | *Issue 37, 26th September 2015* | *Read time: approx. 4 mins* | *710 words*
+
+![After the Expert](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Experts-1.webp)
+
+---
+
+“It used to be left to us experts to tell ordinary tasters what to think…,” wrote Jancis Robinson, the *Financial Times* wine “expert” of 40 years standing. “But now wine has definitely lost its elitist veneer."
+
+Actually it’s not wine; it’s the public that has changed. Everyone now has instant access to an almost infinite amount of information, and anyone who claims expertise on any subject can almost instantly be shown to be fallible. So experts are no longer respected as they once were, and that may be quite healthy since they are, after all, human beings. But the truth is that, whether you get your information from the *FT* or from the latest app on your smartphone, you are always relying on someone else who has spent more time looking into the subject than you have yourself. And that is all an expert really is.
+
+I remember being told, as a young journalist, that “an expert is a guy who did the story yesterday”. Indeed, that was roughly the attitude on Fleet Street in those days. In 1973, when I was a leader-writer on *The Times*, the editor William Rees-Mogg looked over his spectacles at me and said “Edward, would you do the Middle East?” When I objected that I had never been to the Middle East he replied, “Well, of course you must go.” So I went on a three-week tour, after which indeed I was treated as a “Middle East expert” both inside and outside the paper.
+
+So it’s easy to be cynical about “experts”, and it’s certainly vital to remember that they are human and therefore bound to be fallible. We should not expect them to take political decisions – that is, decisions about priorities, where principles or interests conflict. That is the job of politicians or ultimately, in a democracy, of us, the people. Experts cannot tell us what we want.
+
+But political decisions should be taken, as far as possible, on the basis of accurate information. Experts may be able to tell us *how to get* what we want, or what results a given course of action is most likely to produce. Yes, they do often disagree among themselves, but that is not a reason for ignoring them. We have to decide which of them are more credible, or deserving of trust. We can do that partly by looking at their track record, and partly by noting what they think of each other. If a scientist is elected to the Royal Society, or to a chair in a major university, that means that other scientists think highly of her and her views are worth taking seriously.
+
+Of course the Royal Society and universities are institutions, and those who achieve leadership positions in them may have a disproportionate say in deciding which other experts should be taken seriously. That, presumably, is what is meant by “institutional power”. So we should also keep an eye on these institutions, and make sure they are doing their job of being open to new facts and ready to re-examine their preconceptions. But again, that doesn’t mean we’d be better off without them.
+
+Human knowledge can never be completely objective, because human beings will always interpret data, often unconsciously, in the light of preconceptions. But over time preconceptions are revised in the light of new findings, and experts are at least aware of the latest state of play. They know where there is a consensus, and what facts are still disputed.
+
+So should we be more sceptical? That depends how sceptical we already are. We should not have blind, uncritical faith in any human being or human institution. But we cannot hope to understand all the world’s complexities by our own unaided efforts – there is just too much detail for even the greatest minds, let alone our smaller ones, to master. We have to accept some division of labour, and delegate the mastery of different areas of knowledge to different people. Those are the people we call experts, and without them we would be floundering in a completely incomprehensible world, with no way of deciding what is sensible or what is absurd. There are an awful lot of wines to choose from, and a tip from Jancis about which are worth trying is still jolly useful.

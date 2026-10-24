@@ -1,0 +1,62 @@
+---
+title: "The Weird and the Wonderful"
+subtitle: "In Europe belief in religion declines as science advances. Yet interest in ley lines or solstice rituals increases. Why?"
+author: "Alastair McIntosh"
+date: "Issue 50, 15th May 2016"
+article_id: "669"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,349 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/juan-gatti-ciencias-naturales.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-weird-and-the-wonderful-auid-669"
+---
+
+# The Weird and the Wonderful
+
+*In Europe belief in religion declines as science advances. Yet interest in ley lines or solstice rituals increases. Why?*
+
+**By Alastair McIntosh** | *Issue 50, 15th May 2016* | *Read time: approx. 7 mins* | *1,349 words*
+
+![The Weird and the Wonderful](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/juan-gatti-ciencias-naturales.webp)
+
+---
+
+I’ll tell you how I see religion. Religions are, for the most part, imperfect human-made trellises. Ideally, they provide social support up which the vine of spiritual life can grow. The fruits can then flourish in the sun, and as a Pink Floyd lyric had it, “Love is the shadow that ripens the wine.” This is a life-long journey.
+
+Mind you, some shadow it can be! It is one thing for the vine of life to grow wild along the ground, but then it stays within its own shadows. Up to a point, we can all “do” our own spirituality at that ground level. The only reason why we need religions, is if we decide we want to do it with others, and hopefully, with the support of their experience. Furthermore, if love is the basis of our spirituality, then it’s got to be all about others. That arguably makes religions inevitable.
+
+Why? Because if we’re going to get it together with others about anything, we need to agree on what we’re sharing and with what ground rules. Such as: will we have rituals and ceremonies, or will we (like us Quakers,) just “do it quietly”? And then if (let’s say) we’re going to have rituals and ceremonies, shall we (let’s say) celebrate the ripened fruit of the vine with wine? “This is my body,” said Jesus – the matter of the universe. “This is my blood” – the spiritual wine, that animates the whole shebang. I’m talking about that kind of social expression of things. Is that kind of ritualised experience helpful, or not? Either way, we need to agree if we’re doing things together.
+
+Others might argue that we can bypass all that baggage, and get our spiritual acts together with one another out in the woods. I’m very partial to a bit of paganism. At least, I was back in my misspent youth – until a certain summer’s Solstice party in Ireland, where the high point was that we were all to dance skyclad round the fire. Our hosts hadn’t reckoned on the midges coming out! But seriously, if we’re going to have ceremonies where we re-envision Eden in the woods, what should we or shouldn’t we wear (apart from midge cream), and by the way, is it or is it not OK to lace the brew with mushrooms?
+
+These are very real questions about doing spirituality in a social context. You’ve got to agree on what the score is if people are not to get hurt, or jumped into spaces they had not consented to, and that’s why I think we can’t write religion off entirely, no matter how tempting that might be, especially if we have been subjected to spiritual abuse by – Pink Floyd again – “the cold and religious”.
+
+So much for religion as part of the weird and the wonderful, but all of this is based on the assumption that we might want to have a “spiritual” life. Furthermore, that there’s validity in such a way of understanding what it might mean to become fully a human being.
+
+For me, then, the question of spiritual reality, or otherwise, is fundamental to the question of life. An atheist may take recourse to their reason, but reason in an absence of values, or in an absence of premises to a logical argument, can be a pretty brutal thing, even if Mr Spock managed to be logical in such a nice way. The problem for the atheist is that, logically, on looking up at the sky there ought to be nothing. Instead, there is something. There’s a whole universe out there, including yours faithfully, and including this amazing experience that lies at the root of *all* other experience – *consciousness.* So, we have to do a bit of digging. We have to ask more deeply what it means to be a human being, and while on that question of what anything “means” – what is the meaning that gives meaning to meaning? Does *something* give meaning, or is there nothing, and therefore even the search for meaning, as Sartre would have said so nihilistically, becomes “bad faith”?  
+  
+\_\_\_
+
+"To hold together action in the outer life, you have to be relatively together inwardly. If you’re not, you fall apart under the pressures. "  
+\_\_\_
+
+For me, that’s where values kick back in again. I am not a person whose values rest in blind faith. Faith, for sure, but not blindly so. I am an empiricist. I believe in what I experience in consciousness. Also, in consensual validation from others’ experience. For example, I have never been to Timbuktu, but I’ve known others who have, and my reasoning and my rejection of solipsism (the idea that I’m the only thing that’s real) tells me that it’s sufficient to accept their experience as valid.
+
+I apply the same test to the inner life. What is the spiritual, the raw essence of religious experience? To me, it is the dynamics of the inner life, and specifically, those in a transpersonal context. Transpersonal is the term used in psychology for “across the personal”. It is the category of experience that is concerned with the seeming inner interconnection of all things.
+
+My friend may not have had such an experience, perhaps expressed as a “divine” underpinning of reality, but I have. Others whose evaluations I value have. The literature going back to ancient times – such as the Upanishads, the Tao Te Ching or the Bible and Qur’an – also testify to such categories of conscious or super-conscious experience. It leaves one to ponder that just as Timbuktu might be for real, so might God. There is now a rich scholarly literature around such transpersonal psychology. Starting with William James’ Gifford Lectures, *The Varieties of Religious Experience* of 1901-02, we now have landmark texts like *The Varieties of Anomalous Experience* from the American Psychological Association, or the *Wiley-Blackwell Handbook of Transpersonal Psychology.* Anybody who takes a position that blocks the possibility of spiritual reality should at least be aware of such bodies of research.
+
+At the end of the day, however, you get to the point of having to ask yourself: what do I believe? On what basis am I going to live my life? For some it is the shock of serious illness, or broken heartedness, or bereavement that triggers such deeper questions. For me and my co-author, Matt Carmichael in writing *Spiritual Activism* (Green Books, 2016), it was because the burning issues of life and its meaning were thrown up by our activism for social and environmental change.
+
+Activism can be rewarding and rich with meaning, but it can also be very costly. Sometimes you feel so up against it that the wellsprings of the oil of life run dry. You either burn out, or sell out, or dig deeper into the underlying strata of your life. That can be where you start to discover levels of being that you never previously suspected might be there.
+
+It was when I reached such points in my battles for land reform, environmental protection, and in upholding nonviolence against the pressures of war and other violence that I had to press myself on what beliefs I wished to frame my life.
+
+To hold together action in the outer life, to do so for the long-haul, you have to be relatively together inwardly. If you’re not, you fall apart under the pressures. This becomes a spiritual issue, as many a hard-bitten activist will testify, late at night around the camp fire. It’s about learning that we can draw from hidden sources of strength. In such situations, the spiritual can cease to be hypothetical and become a lived and living reality. “Oh taste and see that God is good,” but first you have to taste. “Knock and the door shall be opened,” but first you have to knock. If you don’t look, you won’t see.
+
+The religious life, and maybe even a modicum of organised religion, can therefore come back into the picture as a part of giving social expression to all these things. Yes, it’s weird, but it can, just sometimes, be wonderful.
+
+**Image credit: Juan Gatti, Ciencias Naturales**

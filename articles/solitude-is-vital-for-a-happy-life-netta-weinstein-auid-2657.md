@@ -1,0 +1,87 @@
+---
+title: "Solitude is vital for a happy life"
+subtitle: "Why we confuse solitude and loneliness"
+author: "Netta Weinstein"
+date: "2nd November 2023"
+article_id: "2657"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,398 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-1-turner-painting.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/solitude-is-vital-for-a-happy-life-netta-weinstein-auid-2657"
+---
+
+# Solitude is vital for a happy life
+
+*Why we confuse solitude and loneliness*
+
+**By Netta Weinstein** | *2nd November 2023* | *Read time: approx. 7 mins* | *1,398 words*
+
+![Solitude is vital for a happy life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-1-turner-painting.webp)
+
+---
+
+*Talk of a loneliness epidemic has pathologized time spent outside of social interactions. In doing so, we have forgotten about the importance and benefits of solitude. Dr Netta Weinstein calls for a new understanding of solitude as different from loneliness, and its importance to health and creativity.*
+
+We tend to pathologize solitude. It’s easy to do, because we often confuse the idea of ‘*solitude’* with that of ‘*loneliness’.* These conflations are not new. English speakers have, in the past, used both words, ‘loneliness’ and ‘solitude’ interchangeably. Still, in many languages around the world there is no word for (positive, or even neutral) ‘solitude’ — just being alone — that doesn’t also mean ‘loneliness’, the feeling that we don’t have enough love or care.
+
+We hear of a “loneliness epidemic” and the connection between social isolation with degenerative diseases. We hear about ‘loners’, ‘hermits’, ‘isolates’, people who have an unusual and often unhealthy relationship with solitude. Our imagery and language are set up to make us fear and distrust solitude. Being alone is supposed to hurt, and never be something desirable. But that conflation between solitude and loneliness is distorting the experience of being alone with ourselves.
+
+Whether or not we avoid it, we are all very familiar with solitude. Nearly all of us experience solitude every day. We might be alone for only 15 minutes in one go, or maybe we’re alone all day. Our [research](https://journals.sagepub.com/doi/abs/10.1177/01461672221115941) suggests that solitude can take many forms. You might find yourself in solitude walking alone in green meadows with nobody around and nothing but your thoughts for company. Or you might be in solitude while sitting on the bus surrounded by strangers, thoughts turned inwards. Solitude can even happen when we’re alone with loved ones, each person in their own personal space, contemplating their own thoughts.
+
+\_\_\_
+
+Curious minds especially love solitude; it’s a playground for open and creative thoughts.
+
+\_\_\_
+
+What do all those forms of chosen solitude have in common? The answer is that when in solitude, regardless of what type, our most important relationship is with ourselves. Instead of talking with others, our conversation is turned inwards, listening to our own thoughts. Freed from attending to what other people are saying to us or how they want us to behave, we can be more attuned to how we, ourselves, feel and think. In our [research](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejsp.2983), we find that curious minds especially love solitude; it’s a playground for open and creative thoughts. In our desire to never feel alone we can forget we can be our own (great) company.
+
+Herein also lies the potential difficulty of solitude. Left with our own thoughts, it’s easy to ruminate about things that have gone wrong and make us unhappy. Given we’re social creatures, we ruminate if we feel isolated or rejected and as a result we feel lonely. We can be good, loving, kind and fun friends to ourselves, but we can also be judgmental, unkind, or disinterested. Imagine friends who are being unkind in this way. They can leave us feeling pretty awful. But talking to a great friend leaves us feeling wonderful. You can think of our relationship with ourselves as a form of friendship – it could be positive or destructive.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-real-reason-for-social-breakdown.webp)
+
+SUGGESTED VIEWING
+The age of independence
+With Barry C. Smith, John Milbank, Deirdre McCloskey, Yassmin Abdel-Magied](https://iai.tv/video/the-age-of-independence)
+
+Whether or not it comes naturally, we can all work on being better friends to ourselves when we’re alone. To do that, researchers suggest, the trick may be to choose your ‘ideal’ forms of solitude. We benefit from solitude when we intentionally and thoughtfully structure this time. The environment matters. [We should feel safe](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=nguyen+solitude&btnG=), comfortable, inspired even. Going out to nature often does the trick, but our favourite couch at home, or maybe even a lively coffee shop, may be our ideal space. Solitude is a fantastic space for doing what we enjoy, so planning for rewarding solitude moments helps to get the most out of this time. This might be decompressing, with the help of our favourite television show, or it might involve building on rewarding but not necessary skills, ones like learning to bake, play an instrument, or garden. An all-time favourite is to take a walk outside, taking the time to notice our surroundings.
+
+\_\_\_
+
+Writers and artists alike — from Hemingway, Mozart, Einstein, and Schopenhauer — have turned to solitude as a mental space to think and construct.
+
+\_\_\_
+
+It's easy to forget about the importance, and potential benefits, of solitude in our daily lives. But when we take the time to craft our “positive solitude”, it can play an important role in building up our well-being. One benefit we have observed in research is that solitude can leave us feeling peaceful and less stressed. When people spend time alone, that time offers an opportunity to recharge. Even brief periods of time alone (about 15 minutes per day) can help people feel less stress, and benefits to stress reduction seem to accumulate with time spent in solitude across multiple days (more precisely, the latter finding is from research that took place across three weeks).
+
+Alongside helping us feel calm and peaceful, solitude may also a great place to be creative and imaginative. Writers and artists alike — from Hemingway, Mozart, Einstein, and Schopenhauer — have turned to solitude as a mental space to think and construct. Time and time again, interview studies with artists (and the rest of us) point to solitude’s power for inspiring creative thought. More research needs to be done to learn about how far the benefits to creativity extend, but these attributions from inspired thinkers, alongside [frequent reports](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5914.00204?casa_token=cJS3w_uBzLoAAAAA:F4V89RYnen7iZ1jkthj5rfGnQC6fbmkp1du8y6OZpgjZzQ7sr0jKxdON706TCUA9HPeKR-bBkbBrwUb_nQ) from participants that they see solitude as a place for creativity, point to an important opportunity solitude offers us: finding our own creative expressions.
+
+[![20 02 13.karen licensed final](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-02-13.karen-licensed-final.webp)
+
+SUGGESTED READING
+Should we treat loneliness with poetry?
+By Karen Simecek](https://iai.tv/articles/should-we-treat-loneliness-with-poetry-auid-1312)
+
+Solitude is also a great place to feel what psychologists call “autonomy satisfied”, that’s jargon that we use to describe the experience of being free to choose what is interesting and valuable to us, be free from pressure, and generally just be ourselves. There’s a lot of research out there that shows that feeling autonomy satisfied is important for a happy, healthy life. Taking the time to get away and be on our own, we can create those moments that are most true to who we are.
+
+But it’s not just autonomy satisfaction that matters. We recently learned that solitude that feels both autonomy satisfaction and also competent – feeling that we’re doing a good job at tasks we care about – helps to achieve a more peaceful mood with less loneliness, even at the end of the day. We don’t always need to feel competent in solitude; sometimes a walk, sleep, or lie-in alone with our thoughts is enough. But when we feel antsy or aimless in solitude, it might be time for trying out a new skill, hone an older one, or even just solve a puzzle. Perhaps even more interestingly, if our social interactions, such as with friends or family, don’t leave us feeling these ways, solitude becomes an even more important context for having these positive experiences. Time alone can protect us from the stress and loneliness of having frustrating or pressuring social environments.
+
+\_\_\_
+
+The joy of embracing solitude is that it’s so easy because we have these opportunities accessible to us.
+
+\_\_\_
+
+Increasingly, researchers believe that solitude and social interactions should exist in balance with one another. That means for most of us, a good life can’t be had just through having great social interactions. We also benefit from great moments of solitude. A balanced life isn’t necessarily defined by a certain number of hours spent alone. Instead, the *quality* of our alone time, and how easily we can seek it, is the most important factor to achieving this sense of balance. Although social media can disrupt pure solitude if we use it to avoid time by ourselves, it can help increase the ease of connection with others and thereby give us more flexibility to find the balance in our lives. This too can be done intentionally to get the most out of our everyday.
+
+[![23 06 07.solving the mental health epidemic starts with trust.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-06-07.solving-the-mental-health-epidemic-starts-with-trust.ata.jpg)
+
+SUGGESTED READING
+Solving the mental health epidemic starts with trust
+By Gordon Marino](https://iai.tv/articles/solving-the-mental-health-epidemic-starts-with-trust-auid-2503)
+
+The joy of embracing solitude is that it’s so easy because we have these opportunities accessible to us. It doesn’t need to be many hours alone, a difficult ask for busy people (just ask working parents!). Even brief moments to recharge can contribute to well-being. By reformulating our relationship with and understanding of solitude (and how it differs from loneliness) we can come to reap its benefits and get more out of our daily lives.

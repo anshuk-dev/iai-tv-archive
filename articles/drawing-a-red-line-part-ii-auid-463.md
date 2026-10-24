@@ -1,0 +1,67 @@
+---
+title: "The Gathering Storm - Part II"
+subtitle: "Martin Jacques argues for China's inevitable rise."
+author: "Martin Jacques"
+date: "Issue 22, 25th October 2014"
+article_id: "463"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,723 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/China.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/drawing-a-red-line-part-ii-auid-463"
+---
+
+# The Gathering Storm - Part II
+
+*Martin Jacques argues for China's inevitable rise.*
+
+**By Martin Jacques** | *Issue 22, 25th October 2014* | *Read time: approx. 9 mins* | *1,723 words*
+
+![The Gathering Storm - Part II](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/China.webp)
+
+---
+
+In Part II of our interrogation into the shifting sands of global politics, Martin Jacques warns that we are witnessing the inevitable decline of Europe and the US, with China rising to become the next global economic powerhouse.  
+  
+ In [Part I](http://iainews.iai.tv/articles/drawing-a-red-line-auid-457), Rana Mitter argued that this is sill very much a story of US dominance, but here, however, Jacques speaks to the IAI about the future of global politics and why we mustn’t use a Western template to think about what China is going to be like. Jacques is a journalist and academic who founded the influential think-tank Demos. His 2009 book, *When China Ruled the World*, has helped shape debate on China’s future role on the world stage.
+
+**China** **has been reluctant to comment on recent events in Russia and the Middle East. It appears to be more concerned with internal affairs than intervening in global ones, so how can it truly be called a superpower? Isn’t it the case that all eyes turn to the US when major events like those in Russia and the Middle East occur?**
+
+I don’t think it is a superpower. I think that China is not really a global power in the way that say, the United States is, because its claim to be a global power is essentially economic. This year China has overtaken the United States as the largest economy in the world, and it’s a huge trader, so it’s becoming a very important exporter of capital. When you go to China, you will never think of the world in the same way again. Every city you go to is looking modern because the economic transformation has been very broadly based. Economically, it is a global power; I don’t think there’s any argument there at all.
+
+But when it comes to politics and having a voice on global issues, China is still very restrained. There are two reasons for that. One is because the country is still in the process of economic take-off. The emergence into broader powers of countries like the States and, before that, Britain, only comes after their economic take-off phase. China has definitely not reached that point yet – most of the population still lives in the countryside.
+
+Secondly, we need to be very wary of using a Western template to think about what China is going to be like. It’s wrong to do that because we’re talking about very different historical and cultural coordinates. There are two interesting things about this: one is that, unlike the West, the Chinese have never really had the same tradition of colonialism and expansionism, or the feeling that because they’ve inherited so much, they’ve got a right to tell everyone what to do. The other thing is that if you’re governing the country which has a fifth of the world’s population, then governance is a totally different challenge. The priority for Chinese rulers has always been order and domestic stability.
+
+**But don’t you think it will need a more global outlook to overtake the US as the most dominant power in the world?**
+
+Over time China will develop a view about the world, its place in the world, and what its interests are, just as Britain did following the industrial revolution.
+
+The precondition for the exercise of broader political, ideological, military, intellectual, ethical power in the world is economic strength, economic capacity and economic power. That is the precondition for it. Only subsequent to that economic development can you really begin to grow into a broader power. I don’t think a nation has to be like the US to become a global power. I don’t think that China will ever ring the world with military bases, for example. Hard power is very important to the United States: it spends half the world’s military expenditure. I don’t think China will be like that.
+
+**A statistic from your book (*When China Rules the World*): “92% of the Chinese believe that they are of one race, the Han Chinese, unlike the other most populous nations such as India, the United States, Brazil and Indonesia, which recognise themselves to be highly multi-racial and multi-cultural****.” Surely this is yet further evidence that Chinese culture is actually very inward looking? Isn’t it the case that a truly global superpower is a multicultural one?**
+
+This is a very interesting feature of China, but it’s a function of its very long history. In comparison with other populous nations, yes, China is exceptional in this sense – it’s totally different from India, for example, which only became a relatively unified country under the British Raj, and then only achieved independence in 1947.
+
+But a superpower does not have to be multicultural. America is, in fact, the exception. The global powers of the future do not have to be like America; it’s wrong to say that China can’t enjoy global influence because the great majority of Chinese citizens think of themselves as Han. When the UK, for example, was a global power – which it clearly isn’t in any serious sense now – the people who lived in Britain were not immigrants, they were almost entirely white. So – apart from the divisions between Scots, Welsh and the English – the heart of the British Empire was also extremely monocultural.
+
+**Human rights abuses and state secrecy in China are alienating for the majority of the Western world – won’t this need to change first if China is to build stronger diplomatic relations with other countries, and gain a similar level of influence to that of the US?**
+
+The West accounts for 15% of the world’s global population, and well under half of global GDP. You can’t look at the world in terms of the West alone. If you want to see how China is regarded, there’s a difference between the West and the rest of the world, the developing world. In the developing world, China is seen in very different ways. Of course, it’s not seen exclusively in unalloyed wonderful terms, but for the developing world, it has two characteristics: one, it is seen as extremely important for their economic development, and Africa over the last ten years, probably the biggest single catalyst for it is its economic relationship with China. It’s seen in some degree as a model. The Chinese don’t think of themselves as a model, but it is seen as a way of achieving extraordinary economic transformation, growth. It is the outstanding example of any of the developing world in terms of economic modernisation. So they have a much more nuanced and of course, positive view of China than of course the West. So why doesn’t the West think in the same way? The biggest single reason is because China’s standard of living, compared to the West. And basically rich countries don’t aspire to be poor countries. While China is well below the development in terms of standard of living of the West, then the West are unlikely to want to be like China. If you come from Britain do you aspire to be like Namibia? Of course you don’t, because you don’t aspire to be poor. And that’s a Western and more human, general mentality.
+
+**Are we not moving towards a multipolar world as opposed to one dominated by China?**
+
+I don’t think we’re moving just from an American-dominated world just to a Chinese-dominated one. I think China will displace the US as the dominant power of the world. There are serious projections that by 2030 the Chinese economy will be twice the size of the American economy. China will be the most important pole in the world, and we’ve got to imagine what the world is going to be like.
+
+In short, we’re witnessing the decline of the West – you can already see the precipitous decline of Europe and the importance of countries like Britain and France. It’s happening much quicker than even I envisaged, because the impact of the financial crisis is huge. The Western economy is still on a life support system of virtually zero interest rates. We’ve entered a new chronic period, and there’s no sign that its going to come to an end.
+
+In the meantime, China’s growth will fall; it won’t carry on at 10%. It will probably go to around 6%. But once the Chinese economy passes the American economy, if the Chinese economy is growing at 5% and the American is growing at 1.5%, China is going to go way ahead. What I expect to happen though is that China will act as the most important example of a developing country transforming itself, by virtue of the size of achievement. But it is only an example, an expression a wider phenomenon, which is that ever since the middle of the twentieth century, probably the most important event was colonial liberation. Prior to the 1950s there were very few nation states in the world, because most the world were colonies. While they were colonies they couldn’t develop economically beyond a point. Now they can.
+
+Over a 200 year period, the Indian and Chinese economy barely grew at all. But now there has been rapid transformation. The age of the dominance of Europe was an age of tyranny, essentially, where the vast majority of the world where colonies of Europe. What’s happened since then is that the rest of the world has started to grow very quickly. In the mid 1970s, the developing world only accounted for about one third of global GDP, and at the turn of the century it accounted for about half. Now it’s over half, and by 2030 it is expected to be two thirds of global GDP. This is the underlying story of global transformation, of which China is the most important expression. Countries like India, China, Brazil, Indonesia and so on, are going to be very important. America will continue to be important, but it is in decline, and Europe’s not going to matter very much. Europe is actually going to occupy the same role as it did for hundreds of years as the Western end of the Eurasian landmass, but not by any means its most successful part. Nothing’s going to reverse that.
+
+**For a very different interpretation of the role of Russia, China and the US in contemporary world politics, read our [interview with Rana Mitter](http://iainews.iai.tv/articles/drawing-a-red-line-auid-457) in Part I of The Gathering Storm.**  
+  
+**Image credit: [Vin Crosbie](https://www.flickr.com/photos/vincrosbie/4712869739/in/photolist-NDpFv-dRP72e-nA5jwF-4to9kT-5TfkQz-dvjqmc-GTpyJ-8bsFYP-8hPm6u-7H1Z2p-94qe68-94qesX-bENhE7-agceS-9m19ba-dRqaHV-jfkxx9-2ney7-cxXXHm-a9iJtU-a6gVb8-8ozmTt-6EpU7A-j1gdS-7asMfM-9msGpe-BTxzk-dvooAs-4LieF5-jKe7xh-gJC8V8-98svyB-7hcvYW-4nNbmC-4rBkrM-4rBjhK-5dxUNK-dyrAz5-afAGi9-99ZTbv-jGCoyA-azE2YN-bFbUYf-9iCxnb-JG4wc-8J6d5J-apGxb-7kSrPb-Gs3Sq-anUYnC)**

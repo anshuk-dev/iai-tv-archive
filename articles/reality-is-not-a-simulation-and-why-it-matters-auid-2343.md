@@ -1,0 +1,83 @@
+---
+title: "Reality is not a simulation and why it matters"
+subtitle: "Simulations all the way down"
+author: "Marcelo Gleiser"
+date: "4th January 2023"
+article_id: "2343"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,314 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reality-is-not-a-simulation-and-why-it-matters.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/reality-is-not-a-simulation-and-why-it-matters-auid-2343"
+---
+
+# Reality is not a simulation and why it matters
+
+*Simulations all the way down*
+
+**By Marcelo Gleiser** | *4th January 2023* | *Read time: approx. 7 mins* | *1,314 words*
+
+![Reality is not a simulation and why it matters](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reality-is-not-a-simulation-and-why-it-matters.webp)
+
+---
+
+*The idea that we are living in a simulation has become commonplace. Elon Musk, for example, thinks it is almost certain we are living in a simulation. But the simulation hypothesis comes up against insurmountable problems, and is, in the end, an excuse for us not to sort out our real moral failings, writes Marcelo Gleiser.*
+
+The matrix of our shared reality is glitching. Given the absurdity of current events, it sometimes feels as if some time traveler from the future or perhaps an alien kid is fooling with the fabric of society, pushing it to the edge of chaos.  Could we really be mere pawns in the hands of some sadistic virtual game player? Unpredictable weather events wreaking havoc across the globe; widespread political polarization stretching democracy to its limits; Putin destroying huge parts of Ukraine while the rest of the world watches, essentially paralyzed, throwing sanctions and weaponry that are clearly not being effective short term; a pandemic that stopped the world dead on its tracks for 2 years, killed over 6.7 million people so far and is still going around, while people essentially are giving up on it. So, if we do live in a simulation, our puppet masters are truly evil creatures. Or perhaps we don’t, and humanity is overdue for a deep reset of its moral standards before it self-combusts in a puff of exploding rage.
+
+[![20 08 07.anandi.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-08-07.anandi.ata.webp)
+
+SUGGESTED READING
+Is this real life, or The Matrix?
+By Anandi Hattiangadi](https://iai.tv/articles/is-this-real-life-or-the-matrix-auid-1613)
+
+To most people trying to make a living, pay bills, or fight an illness, spending time considering that our reality is not the “real thing” but actually a highly sophisticated simulation sounds ridiculous. “I wish smart people would focus on real-world problems instead of this nonsense,” someone close to me recently told me. Despite being a scientist that uses computer simulations on my research, I sympathize with this. It’s way too convenient to blame our current mess on powers beyond our control. In fact, this sort of “not my fault” sounds a lot like the religious “it’s God’s will.” Not our fault, not our responsibility, “they” are doing this to us.
+
+Of course, philosophers who consider such problems do so because they are interesting per se and raise questions about the nature of reality and our perception of it. Their motivation is not to take the blame away from our own doings. They are interested in telling what’s real from what’s not, or whether that’s even possible. Surprisingly, the more you think about the simulation question, the harder it is to answer. For example, what you see of the world before and after 3 pints of beer changes. Some cultures see a tree as a spirit and others as an irrelevant chunk of wood to burn as fuel. Which world is the “real” one?
+
+\_\_\_
+
+Bostrom’s point is that if our species survives the transition to a new, posthuman phase, the “new us” will have unimaginable computational powers, and running realistic simulations will be a given
+
+\_\_\_
+
+The simulation question started with a 2003 paper by Oxford philosopher Nick Bostrom,  [*Are We Living in a Simulation?*](https://www.simulation-argument.com/simulation.pdf) Bostrom, reasoned, compellingly, that given our own proficiency with computers and virtual reality, one of the following propositions must be true:
+
+1) The human species is very likely to go extinct before reaching a “posthuman” stage;
+
+2) Any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof);
+
+3) We are almost certainly living in a computer simulation.
+
+In other words, either we disappear (many cling to this dystopian way to think about our collective future – proposition 1), or our successors run simulations (proposition 3) or don’t (proposition 2). If they do, Bostrom claims, their simulations will likely include the one we call reality today. Bostrom’s point is that if our species survives the transition to a new, posthuman phase, the “new us” will have unimaginable computational powers, and running realistic simulations will be a given. If this is the case, we in the present would be like characters in a super-advanced Sims game, convinced that we have autonomy when, in fact, we are puppets in the hands of the game-players.
+
+[![related-video-image](https://iai.tv/assets/Uploads/L19-resized.webp)
+
+SUGGESTED VIEWING
+Lost in the Matrix
+With Anders Sandberg, Massimo Pigliucci, Sabine Hossenfelder, Güneş Taylor, Anil Seth](https://iai.tv/video/lost-in-the-matrix)
+
+This sounds like a very Calvinist proposition, with God substituted by super-advanced game players. Or maybe we could call them Super Advanced Gaming Entities (S.A.G.E.)? In this case, our fates are in the hands of “posthuman” entities with powers beyond our control. Fortunately, there is a key difference between God and a simulation (at least in this narrow context) since God is presumably infallible, while simulations have glitches, or can have glitches. As do arguments about us living in a simulation.
+
+One glitch in the simulation argument is that there is nothing to stop the simulation at one super-advanced posthuman (or alien) species. It could very well be that our simulators are, for their part, simulated by even more advanced simulators, and those by even more advanced ones, ad infinitum. Which inevitably brings us to an age-old problem in philosophy. Who would be the First simulator? This sounds like the “Turtles all the way down” concept of Anavastha in Indian philosophy, where the world rests on an elephant that rests on a turtle that rests on a turtle that…well, you got this. In the West, it may be interpreted as infinite regression or the problem of the First Cause. (For a history of the “turtles all the way down” concept and its many occurrences and variations see [here](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).) This offers at least some sort of comfort, given that us present humans and the endless chain of evil simulators—are all enslaved by...the First Simulator. Only the First Simulator is truly free, the only one with no preceding cause. Familiar?
+
+\_\_\_
+
+A full-fledged, resource-consuming simulation of an entire universe? Sounds like a colossal waste of time and energy
+
+\_\_\_
+
+Bostrom’s argument relies on the assumption that advanced posthuman intelligences will have an interest in simulating their ancestors (in this case, us). Why would they, exactly? Could we really presume to have any insight into their psychology or motivations? Would they expect to gain some new information about their reality or origin story by looking at their evolutionary past? Being so advanced they would have collected enough knowledge about their past to have little interest in this kind of simulation. Forward-looking will probably be much more interesting to them. They may have virtual reality museums, where they could go and experience the lives and tribulations of their ancestors. Somewhat like us “living” among dinosaurs in a virtual world or playing games that simulate ants. But a full-fledged, resource-consuming simulation of an *entire* universe? Sounds like a colossal waste of time and energy.
+
+[![We can hack our way out of the universe](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/We-can-hack-our-way-out-of-the-universe.webp)
+
+SUGGESTED READING
+Can we hack our way out of the universe?
+By Roman Yampolskiy](https://iai.tv/articles/can-we-hack-our-way-out-of-the-universe-auid-2327)
+
+When dealing with the actions of an unknown intelligence the essential question is their Why. And we have no intuition whatsoever about their intentionality, as we hardly have about ours.
+
+The simulation argument messes with our self-esteem, assuming that we have no free will, that we are just deluded puppets thinking we are autonomous beings, free to make choices. To believe this is to give up our sense of autonomy: after all, if it’s all a big game that we can’t control, why bother? What difference could my actions or sense of purpose make? “Let the world go to hell, as it is now. We can’t change it anyway.” This is the danger with this kind of nihilistic philosophical argument, to turn us into what it’s claiming we are, so that we give up our will to fight for what we believe in and change what must be changed. Let us make sure that we don’t confuse conjectured philosophical arguments with our very real socio-political reality, especially now. We need all the autonomy we can muster to protect our freedom and grow morally to salvage our project of civilization. Killing our own is the lowest kind of savagery we can sink to. This reality is not a simulation but the result of our very real failure to evolve morally as a species.

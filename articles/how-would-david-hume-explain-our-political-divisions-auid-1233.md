@@ -1,0 +1,70 @@
+---
+title: "How Would Hume Explain Our Political Divisions?"
+subtitle: "We are all governed by passions."
+author: "Rachel Cohon"
+date: "Issue 73, 2nd May 2019"
+article_id: "1233"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,790 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/hume-collage.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-would-david-hume-explain-our-political-divisions-auid-1233"
+---
+
+# How Would Hume Explain Our Political Divisions?
+
+*We are all governed by passions.*
+
+**By Rachel Cohon** | *Issue 73, 2nd May 2019* | *Read time: approx. 9 mins* | *1,790 words*
+
+![How Would Hume Explain Our Political Divisions?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/hume-collage.webp)
+
+---
+
+“Reason is, and ought only to be, the slave of the passions, and can never pretend to any other office than to serve and obey them,” Scottish philosopher David Hume famously said in his *Treatise of Human Nature.* He also offered a theory about the way that emotions spread among people, which helps explain the divisiveness of our current politics.
+
+**How Actions are Produced**
+
+According to Hume, all our intentional actions are the immediate product of passions -- or emotions, feelings, or desires, as we would say today. He does not think that any other kind of mental state could, on its own, bring about an intentional action, except if it first generates a passion. Not all the passions can become motives for action, however. Beyond instincts such as hunger and lust, only desire and aversion, hope and fear, joy and grief, or combinations of these, generate action. How? A *feeling* of pleasure or pain, whether physical or psychological, or a *belief* that pleasure or pain may or will come from something, occurs in the mind and causes the passion that brings about action.
+
+Hume famously attacks most moral philosophers, ancient and modern, for claiming that there is conflict between our passions and our reason. He claims to prove that “reason alone can never be a motive to any action of the will,” and that reason, all by itself, “can never oppose passion in the direction of the will.” Hume’s view is not, of course, that reason plays no role in getting us to act; he grants that reason provides information, in particular about means to our ends, which makes a difference to what we do. But reason *alone*, he thinks,cannot move us to act; the impulse must come from emotion or desire or aversion – from passion. Reason can only pursue and obtain knowledge of logical and mathematical relations and of cause and effect; passion then uses this information to chase its goals effectively.
+
+Hume allows that, speaking imprecisely, we often *say* that we are being unreasonable in wanting or feeling something because the passion arises in response to a mistaken judgment or opinion.  I want to eat a certain fruit, for example, because I believe it will be delicious, but in fact it’s bitter, and when I discover this, I may carelessly say that my desire for the fruit was unreasonable.  But strictly speaking, even here it’s not the desire but the judgment that’s unreasonable. No passion goes against reason, not even having “a more ardent affection for… my own acknowledg'd lesser good [than] my greater.” It’s imprudent to want what is worse for me, according to Hume, but it’s not against reason.
+
+\_\_\_
+
+"Reason *alone*cannot move us to act; the impulse must come from emotion or desire or aversion – from passion"
+
+\_\_\_
+
+It follows from these views that reason can’t evaluate the goals people set for themselves.  Only our passions can select our goals, and since reason can’t evaluate our passions, it can’t judge our goals to be irrational. All it can do is discover which means to our chosen ends are most likely to be effective.
+
+If Hume is right about this, would our passion-driven nature explain our current political divisions, in which people are roiled by powerful emotions and don't seem to listen to reason? Actually, no; if Hume is right, reason never selects our goals at any time, whether we adopt them calmly and in response to arguments or we grasp them impulsively and refuse to adjust them in response to arguments pro or con. Reason only calculates how to achieve what our passions are drawn to, and it can do this regardless of what sort of passion is driving us. But we have a great variety of passions that can propel us in different directions. In times when citizens show more willingness to cooperate and bridge political divisions for the common good, Hume would say, we are moved by calmer, more temperate passions, such as the calm preference for our own long-term benefit or feelings of benevolence or compassion for others. When those calm passions predominate, people are drawn to goals of cooperation, peace, and careful planning for a mutually-advantageous future. When people are primarily swayed by anger, resentment, fear, hatred, and other passions that tend to be “violent” (as Hume describes them), they will often adopt goals that inflict suffering on others, and they may not even care that their choices could be harmful to themselves. Such attitudes and actions are no less rational than the others, according to Hume, but they are less ethically defensible.
+
+**How Emotions Spread Among People**
+
+But why is our political discourse currently so dominated by violent rather than calm passions? It is not because we are less reasonable; according to Hume we are as capable of reasoning as we ever were. However, another position Hume holds would provide some explanation for the stubborn division and hostility that we find in our current political climate, namely his theory of the operation of a mental mechanism he calls sympathy.
+
+\_\_\_
+
+"We human beings tend to acquire the beliefs and the emotions of other people when we observe them"
+
+\_\_\_
+
+Hume argued that we human beings tend to acquire the beliefs and the emotions of other people when we observe them and note their body language and facial expressions and hear what they say. This is not mental telepathy; rather, when we are near other people, we can infer from their behavior what they are probably feeling, and because of the resemblance between our own minds and theirs (and all human minds resemble one another to some degree), we associate their thoughts and feelings with ourselves. Since each of us has a very lively awareness of ourselves, in linking the feelings of others with myself I don’t merely recognize what they are feeling but start to feel it myself. For example, if someone is acting very angry in my presence, I don’t just conclude that he is angry but I actually start to feel angry. The same sort of thing happens when someone is cheerful, which is why we enjoy the company of cheerful people: they raise our spirits. I can also come to share other people’s opinions (about science, say, or religion, or politics) by hearing them express them with enthusiasm. Hume calls this process sympathy, by which he means (not feeling sorry for others but) mirroring the attitudes and beliefs of other people. Of course we get many of our beliefs on the basis of evidence and not through sympathy, but we can get some of them by sympathy too.
+
+According to Hume, sympathy – this process of coming to have the emotions and opinions of others – works much more effectively between people who are similar in language, ethnicity, and gender than it does between people who are not alike in these ways. Its operation depends on our recognition of the other person as like ourselves, and the more they are like ourselves, the more strongly we feel their emotions. One result of this, on Hume’s view, is that it can be difficult to enter into the emotions of those of other races or nationalities. Sympathy also works more powerfully between people who are close together in space and time; so we are less likely to feel the same sorrow, anger, joy, or fear as someone very far away from us whose emotions we know only by reading about them, but we easily feel some strong emotion when we observe the person close at hand. Hume recognized that this natural tendency of our minds could lead to bias and insensitivity toward those who differ from ourselves and those far away, and also that it could lead people who started out similar to begin with to end up thinking and feeling alike and failing to be aware of the emotions and beliefs of others who are different.
+
+[![Hannah Arendt](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Hannah-Arendt.webp)
+
+SUGGESTED READING
+Hannah Arendt on why you must break your bubble
+By Siobhan Kattago](https://iai.tv/articles/hannah-arendt-on-why-its-important-to-break-your-bubble-auid-1180)
+People do tend to associate more with those like themselves, and consequently their characteristic emotions and beliefs tend to be reinforced by the process of sympathy. Hume thought that judicious individuals would compensate for the distortions in their emotions and opinions caused by resemblance and proximity. They would do this by using their imaginations to consider the emotions of everyone who was involved in a situation, even those who differed from them or were far away. This might help a lot to balance a person’s perspective regarding political issues, for example. But clearly in all times people have not always done this, and when we associate with those who are like ourselves and sympathetically acquire their violent passions, and when we avoid those who are further away or unlike ourselves and don’t come to share their passions, very deep divisions can arise.
+
+In Hume’s day people who felt strong emotions about political matters could transmit them to others only through private conversation, public speeches, personal letters, and print publications. Reading did enable some readers to come to share the passions of the author via sympathy, of course; but sympathy would be much less effective when the emotion described was remote and not directly observed. Today, however, we have many media that enable spokespeople to communicate violent passions and opinions with great immediacy, just as if they were right in front of us.  We have radio talk shows, television with its 24-hour news cycle, and video and photos on the internet, all presenting emotions vividly to vast numbers of listeners and viewers. And as always, people tend to watch and listen to those like themselves rather than to those different from themselves. Hume’s claim that sympathy is much more effective when we have that up-close perspective helps to explain why the violent emotions communicated to audiences tend to be felt so strongly.
+
+Now remember Hume’s view that it is our emotions and desires that propel us into action. He also says that if you want to influence someone and “push him to any action, ‘twill commonly be better policy to work upon the violent than the calm passions.” So if pundits and public figures want to influence how we vote, their most effective strategy is to churn up our violent passions rather than our calm ones. We tend to stick to information sources from people like ourselves, and we absorb the emotions of those we see and hear. So, Hume would say, the different “factions” in our political debates will become quite riled up and moved to act in opposing ways. And all reason can do is enable us to calculate the effective means to our opposite goals. It can’t reawaken our calm passions of compassion or long-range self-interest. It can’t remind us that life is pleasanter in the long run if we have less political division. We need a passion to do that.

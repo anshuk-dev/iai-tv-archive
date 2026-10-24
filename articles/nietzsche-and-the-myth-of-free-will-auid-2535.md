@@ -1,0 +1,81 @@
+---
+title: "Nietzsche and the myth of free will"
+subtitle: "What your belief about free will says about you"
+author: "Donovan Miyasaki"
+date: "7th July 2023"
+article_id: "2535"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,373 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/DALLE-2023-07-07-15.22.10-Nietzsche-vapour-wave-style-.png"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/nietzsche-and-the-myth-of-free-will-auid-2535"
+---
+
+# Nietzsche and the myth of free will
+
+*What your belief about free will says about you*
+
+**By Donovan Miyasaki** | *7th July 2023* | *Read time: approx. 12 mins* | *2,373 words*
+
+![Nietzsche and the myth of free will](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/DALLE-2023-07-07-15.22.10-Nietzsche-vapour-wave-style-.png)
+
+---
+
+*The idea that free will is an illusion is rife. Everyone from neuroscientists to philosophers, podcasters to mystics, is arguing that the idea we are truly in control of our decisions and actions is nothing more than a persistent illusion. Others are not so sure, the feeling we control our lives cannot be outdone by argument alone – experience is a source of knowledge too. Donovan Miyasaki argues that more important than whether we have free will or not, is why we are asking the question in the first place.*
+
+If we could prove with certainty that human beings possess free will, would that knowledge profoundly affect your life? If you’re already convinced we do have free will, it might make no difference at all. But even if you’re skeptical free will exists, you probably often still act as if it does, carefully deliberating over choices and holding yourself and others accountable for their actions. So, it appears knowledge about free will has little impact on our lives. If the free will debate makes no practical difference, why do we care so much about the answer?
+
+For Nietzsche, that’s the important question: not whether we have free will, but what our attitude toward free will says about us. Why do we sometimes want to believe in it so desperately? Why, at other times, are we so anxious to deny it? For Nietzsche, both our need for and fear of free will are symptoms of a deep discontentment. Our preoccupation with free will betrays an inability to completely embrace our existence and a desire to wish it away or blame it on someone else, to flee the problem of our condition rather than fix it. In contrast, in our best moments he thinks we’re indifferent to free will, achieving an amor fati or “love of fate” that helps us affirm our life and the world in a higher, paradoxically fatalistic kind of freedom: freedom from any need for free will.
+
+We’ll return to this strange idea of a higher, fatalistic form of freedom. But first let’s make sense of Nietzsche’s views about the free will debate. He agrees with most contemporary philosophers that the traditional “libertarian” idea of free will is mistaken. According to the libertarian, I completely cause my own decisions; they’re not necessitated by prior causes such as genetics, physiological history, or environment. For Nietzsche, the libertarian claim that I can cause myself is simply a “self-contradiction,” a “logical abomination” comparable to “pulling yourself by the hair from the swamp of nothingness into existence.” [1]
+
+\_\_\_
+
+But according to Nietzsche’s holistic fatalism, “a person belongs to the whole,” so “to say to an individual: ‘change yourself’ means demanding that everything change, even retroactively.”
+
+\_\_\_
+
+But he also rejects the dominant view among contemporary philosophers, the “compatibilist” idea that we don’t need to completely cause ourselves in order to have free will. For the compatibilist, my will is free if it’s uncoerced, expressing my true personality, beliefs, and desires rather than fleeting feelings or external pressures. A free will flows from who I really am—even if who I really am is the result of prior causes like genetics or environment. So far, Nietzsche has no objection. But most compatibilists go further, arguing we that we should still be held morally responsible—praised and rewarded for good actions, blamed and punished for bad ones. In contrast, Nietzsche insists I can’t be held responsible for actions that come from a personality I have no deep control over: “No one gives people their qualities, not God or society, parents or ancestors, not even people themselves…. Nobody is responsible for people existing in the first place, or for the state or circumstances or environment they are in.” [2]
+
+Does this mean we’re completely unfree, just the passive playthings of external forces? Not at all. Instead, Nietzsche asks us to reject the distinction between “free” and “unfree will,” since both views mistakenly treat individuals as fundamentally separate and independent from the world. In reality, however, we are continuous with our world. Consider the kinds of causes that supposedly make me unfree: my genetics, body, environment, and upbringing. These aren’t things that are external to me; they’re part and parcel of who I am. In Nietzsche’s words, “The fatality of human existence cannot be extricated from the fatality of everything that was and will be…. a person is necessary, a person is a piece of fate, a person belongs to the whole.” [3]
+
+This is Nietzsche’s holistic fatalism: there is only one reality, one world, one causal whole. We are neither completely free nor completely unfree, neither pure cause nor pure effect. True, we are necessary; our personality and choices are fated. But as “pieces of fate” we are also participants in that fate, an inseparable part of the causal whole of all things. We help make the future happen, including the future form of our own selves. This is the real meaning of Nietzsche’s famous slogan “become who you are.” He adds that we never know in advance who we will become, so this slogan doesn’t mean “make yourself anything you’d like to be” or even just “be who you are.” It means that I choose today, but only discover and learn to embrace who I am as my future unfolds. So, becoming who I am is inseparable from accepting my place in the world as it is revealed to me, affirming my world as well as myself in their necessary development.
+
+At our best we are equal to the insight of Nietzsche’s fatalistic holism; we are able to recognize the necessity of the present order of the world and affirm our place in it, even as we try to shape it toward a different future. This is Nietzsche’s higher, seemingly paradoxical idea of freedom that I mentioned earlier, a freedom that does not require belief in either free will or moral responsibility: “a spirit like this who has become free stands in the middle of the world with a cheerful and trusting fatalism in the belief that only the individual is reprehensible, that everything is redeemed and affirmed in the whole—he does not negate anymore.” [4] It’s not freedom from the world, but freedom to be part of the world, liberation from the temptation to separate ourselves from our world as either its victim or master. I am free when my self-understanding is no longer at war with my reality: I recognize what I truly am and must be. I still act with the intention to shape my as yet unknown future, but within the limits of my real nature and abilities rather than against them. When I succeed at this, my will coincides with my deeper personality, expressing my real possibilities for who I might become in the future, rather than wishful fantasies about who I’d rather be.
+
+\_\_\_
+
+Our preoccupation with free will betrays an inability to completely embrace our existence and a desire to wish it away or blame it on someone else, to flee the problem of our condition rather than fix it.
+
+\_\_\_
+
+So, when we worry about free will, imagining ourselves as either captain or cog of fate, either defying the world or under its heel, we become less free in Nietzsche’s higher sense. We lose track of our reality, denying the fatalistic truth of the relationship between ourselves and our world. We pretend we’re not part and parcel of the world, not pieces of fate. Why not? If I don’t want to be who I am fated to be, then the idea of free will offers me two seductive but imaginary escape routes. First, belief in free will allows me to think that I can completely change who I am overnight, through sheer will-power. And if I can exercise that ability at any time, I might as well procrastinate: I can always become the person I’d rather be tomorrow instead of today. Second, I can selectively deny that I have free will whenever freedom is too difficult and inconvenient. When my actions fail—or when I fail to act at all—I can always convince myself that my circumstances were overwhelming and shift the blame for my discontent with myself onto the world.
+
+This gets to the heart of Nietzsche’s diagnosis of our preoccupation with free will. When we cannot love our fate, when we find it unbearable or even despise it, we turn to free will not in order to change our fate but disavow it—above all, to blame it on someone else. If I can’t get better, at least I can get even: “People were considered ‘free’ so that they could be judged and punished—so that they could be guilty.” [5] When we’re dissatisfied with ourselves but despair of the possibility of change, we find compensation in excuse and revenge. So belief in free will isn’t, as we might expect, an optimistic counterpoint to pessimistic free will skepticism. Belief and skepticism about free will are complementary strategies of self-deception, alternating between pretending we can change completely and pretending we can’t change at all. Belief in free will encourages procrastination, since we can always change tomorrow instead of today. Or it leads us to attempt impossible changes, as though we could reinvent ourselves from scratch. When these overambitious attempts fail, we use free will skepticism as an excuse for resignation, giving up on changing ourselves at all. Both belief in free will and skepticism about free will end up supporting the status quo by protecting a passive despair about the possibility of substantially changing ourselves and our world for the better.
+
+According to Nietzsche’s most notorious application of this idea, the oppressed of the Roman Empire created Christian morality as an imaginary revenge against the nobility. He claims that early Christians, seeing no possibility of political revolt, used free will to infect their oppressors with moral guilt and recast their predicament as a freely chosen life of virtuous poverty and humility rather than political defeat: “it facilitated that sublime self-deception whereby the majority of the dying, the weak and the oppressed of every kind could construe weakness itself as freedom, and their particular mode of existence as an accomplishment.” [6]
+
+So, on Nietzsche’s diagnosis, our worry about whether we have free will turns out to be a symptom of our entire moral tradition’s roots in a form of political despair, a discontent so severe that it takes the form of hopelessness, the abandonment of any effective social and political project to shape our future. Our morality was never a sincere attempt to better ourselves and our world. Instead, it’s an attempt to use the myth of free will to shift blame for our unhappiness from the social and political order onto individuals, punishing them for a world they cannot control and diverting our efforts from any real possibility of improvement. Remember that individuals are only small pieces of fate, their solitary moral efforts necessitated by their core characters, in turn produced by their past. The possibility of deep personal change comes only when we collectively work together to change the broader social order of which we’re a part. If our morality seems to fail us, it’s because that’s what we designed it to do: to excuse us rather than change us.
+
+This form of morality is, in turn, the foundation of our approach to social and political change, making politics into another exercise in disguised despair. Our politics is an ineffective moralism. We sort individuals and groups into “good guys” and bad guys,” into those who use the freedom of their will for good and those who use it for evil, then persuade and admonish the bad ones to see the light and reform themselves. And then we wait, hoping that the heroes who have successfully reformed themselves will prevail against the villains who choose not to. But according to Nietzsche’s holistic fatalism, “a person belongs to the whole,” so “to say to an individual: ‘change yourself’ means demanding that everything change, even retroactively.” [7] We can change each other only through collective action, and only by changing the shared world of which we’re a part. To focus on the supposed moral freedom of individuals simply reinforces the fatality of the past that produced them. Both the political heroes we anxiously await to save us and the political villains we blame for their failure are part of the same past script that we endlessly regenerate—every few years, a great new hero thwarted by a great new villain—rather than working together to write a new end to the script.
+
+\_\_\_
+
+Instead, Nietzsche asks us to reject the distinction between “free” and “unfree will,” since both views mistakenly treat individuals as fundamentally separate and independent from the world.
+
+\_\_\_
+
+We’ve seen that Nietzsche’s idea of freedom was paradoxical: a freedom from the worry about whether or not we’re free that coincided with amor fati or the love of fate, the complete embrace of the fated form of myself, including my circumstances and the world that shaped them. We can now add a further paradox: love of fate is not a recipe for complacency but the only attitude that makes real change possible. The myth of free will allowed me to treat myself as fundamentally separate from others and my world, in turn allowing me to shift the blame for my discontent: “I’m not the problem, it’s the world that’s wrong.” But to love my fate is to acknowledge that if the world is wrong, then I’m wrong too, since I’m a part of it. To love my fate is to love that part of me that is discontented, to act effectively from that discontent rather than deny it or blame others for it. To love my fate is also to love the world of which I’m an extricable part, and so to seek to change it through collective rather than isolated action. Paradoxically, to love one’s fate is the only way to change it.
+
+References:
+
+[1] Beyond Good and Evil 21.  
+ [2] Twilight of the Idols, “The Four Great Errors” 8.  
+ [3] Twilight of the Idols, “The Four Great Errors” 8.  
+ [4] Twilight of the Idols, “Skirmishes of an Untimely Man” 49.  
+ [5] Twilight of the Idols, “The Four Great Errors” 7.  
+ [6] The Genealogy of Morality, “First Essay” 13.  
+ [7] Twilight of the Idols, “Morality as Anti-Nature” 6.

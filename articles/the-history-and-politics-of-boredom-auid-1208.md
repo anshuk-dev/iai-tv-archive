@@ -1,0 +1,62 @@
+---
+title: "The History and Politics of Boredom"
+subtitle: "Boredom isn't personal: it's the mark of modernity"
+author: "Elizabeth S. Goodstein"
+date: "Issue 70, 29th January 2019"
+article_id: "1208"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,099 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/guille-alvarez-1197003-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-history-and-politics-of-boredom-auid-1208"
+---
+
+# The History and Politics of Boredom
+
+*Boredom isn't personal: it's the mark of modernity*
+
+**By Elizabeth S. Goodstein** | *Issue 70, 29th January 2019* | *Read time: approx. 5 mins* | *1,099 words*
+
+![The History and Politics of Boredom](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/guille-alvarez-1197003-unsplash.webp)
+
+---
+
+When you’re bored—really bored—it feels like forever. A lived eternity. And so for some people, boredom turns into negative revelation: of the meaninglessness of it all, the senselessness of life itself. But this nihilistic dynamic should not be taken at face value; rather, it requires an investigation of how we got to this feeling. 
+
+We often differentiate such extreme boredom from the everyday sort by translating it into French. But the distinction between ‘ennui’ and ‘boredom’ is hardly compelling. In French, *ennuis* are by no means always existential, and the contrast is tricky since it’s so often been used to tell apart whose boredom really matters. (Children and housewives are bored; ennui is for philosophers and poets.) Moreover, for those who are prone to boredom, it’s often hard to draw the line between such “deep” boredom and the garden variety malaise. Under the right conditions, the everyday discontent can quickly magnify into a full-blown existential crisis. 
+
+It may seem natural to assume boredom is a universal feature of the human condition. On this view, what we call boredom has always been around, at least in the west—that what the Romans called *taedium vitae*, the desert monks *acedia*, Dürer *melancholy*, Baudelaire *ennui* are all the same thing, traveling under different names. 
+
+\_\_\_
+
+"B**oredom is an abstract crisis of desire**—**one at home in a secularised world where attention has become a commodity**"
+
+\_\_\_
+
+But it’s quite misleading to think about boredom in ahistorical terms. The category itself is a relatively recent entrant into a long and complex history of cultural, intellectual, theological, and philosophical reflection. Disregarding the longer genealogy, and conflating boredom with very different modes of human experience, obscures its connections to capitalism and to the industrial-technological remaking of everyday life in the modern world. 
+
+Although its origin remains uncertain, according to the OED, ‘boredom’ in the sense of a “state of being bored; tedium, ennui” first appeared in Dickens (*Bleak House*, 1852). Boredom’s French and German cousins are much older. *Ennui*, probably derived from the Latin *odium* [hatred], has been around at least since the troubadours, while the German ‘*Langeweile*,’ literally, ‘long while,’ made its first documented appearance in 1537. By the late eighteenth century, the meaning of *Langeweile* had expanded beyond the temporal, assimilating the connotations of unfulfilled desire and existential lack associated with the French *ennui*. Since “boredom” synthesises the paradigmatically German sense of painfully extended time and the unfulfilled desire, frustrated longing, and lost meaning connoted by the French *ennui,* I use the English term to refer to the Europe-wide phenomenon. 
+
+In the course of the nineteenth century, as European society modernised, the metaphorics of boredom spread rapidly beyond their literary origins to become a key element in a new, disenchanted language of experience, which marginalised and displaced older, religious and philosophical vocabularies. New ways of understanding and experiencing human being in time were taking hold; everyday life was increasingly dominated by standardised clock time, and cyclical and eschatological frameworks were being eclipsed by a vision of history as rational progress. As urbanisation and industrialisation exploded, experiences of dislocation, loss of meaning, and futility spread among the middle and working classes. By the 1840s, according to Walter Benjamin, “ennui began to be felt on an epidemic scale.” 
+
+Far from being an eternal feature of the human condition, then, boredom is a crisis of meaning and desire within a specific lived context. Construing boredom as an ahistorical feature of the human condition obscures the way the most intimate aspects of human experience have changed over time. 
+
+*[![boredom as stagnation iaitv2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/boredom-as-stagnation-iaitv2.webp)
+
+SUGGESTED READING
+When Boredom Becomes Stagnation: The Importance of Occupying the Mind
+By Kirstine Szifris](https://iai.tv/articles/when-boredom-becomes-stagnation-auid-1170)
+Acedia*, *melancholy*, and *taedium vitae* all framed subjective disaffection in relation to theological and metaphysical concerns; the “epidemic” of boredom in the nineteenth century registered a new, secularised mode of human self-understanding centred on the body. The language of boredom also helped medicalise malaise, which has profoundlyreconfigured the understanding of psychic suffering in modernity. Even as boredom’s abstract emptiness resonated with older theological and philosophical vocabularies, it paved the way for today’s reductive redefinition of even the gravest dislocations of meaning and identity as symptoms of chemical imbalance. 
+
+But the experience of empty, meaningless time in boredom isn’t rooted in our biology. It is the effect of imposing the schematism of clock timeon the lived rhythms of human existence. In his monumental *Philosophy of Money* (1900), German philosopher and sociologist Georg Simmel described the modern subject’s tendency to blaséness in a world where value is increasingly understood in exclusively quantitative terms—a world, as we say, where time is money. In the absence of a theological horizon, human life appears as a series of inherently meaningless, empty moments that must be unified by purposive activity (Kant), a secular ideal of individual existence as a process of incessant change and improvement that corresponds to the Enlightenment understanding of history as progress. 
+
+In boredom, both dimensions of modern temporality come into crisis. In its extreme forms, when the passage of time itself seems to come to a halt and each moment is lived as meaningless eternity or unending, senseless repetition, boredom undermines faith not just in the value of the autonomous projects of the self but in historical progress as such. 
+
+ The distinctive temporality of modern life gives rise, as it were, to a historically specific form of meaninglessness: to what I have called an experience without qualities. Under other regimes of reflection, disturbances of desire and temporality took on radically different theological and philosophical connotations. While *acedia* framed the experience of void in reference to a divine ordering of desire, melancholy in relation to the self’s affective depths, boredom is an abstract crisis of desire—one at home in a secularised world where attention has become a commodity. 
+
+Boredom conceals its own historical specificity, givingrise to the lived conviction that the experience reveals the metaphysical depths of the human condition. In fact, it involves problems of meaning that are by no means abstract or ahistorical, and it is a concrete, serious, pervasive issue today. In air traffic controllers and truck drivers (to take two well-researched cases), chronic boredom impacts attention in ways that pose a overt danger to the public. As automation proceeds, the boredom associated with such excessive, forced attention under monotonous conditions is becoming an issue in ever more arenas. 
+
+But manifestations of boredom less clearly linked to measurable forms of stimulation (or the lack thereof) pose an even greater challenge both theoretically and practically. Boredom is also often philosophical, and its protean capacity to emerge all along the spectrum of desire and satisfaction links it insidiously to the most profound forms of psychic distress—and to questions about temporality, meaning, and desire that cannot simply be medicated away.

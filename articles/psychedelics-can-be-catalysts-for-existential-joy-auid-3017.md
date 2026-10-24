@@ -1,0 +1,340 @@
+---
+title: "Psychedelics and existential insight"
+subtitle: "Nietzsche, Whitehead, and psychedelic philosophy"
+author: "Sam Woolfe"
+date: "6th December 2024"
+article_id: "3017"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "7,510 words"
+read_time: "Read time: approx. 38 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/psychedelics-and-joy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/psychedelics-can-be-catalysts-for-existential-joy-auid-3017"
+---
+
+# Psychedelics and existential insight
+
+*Nietzsche, Whitehead, and psychedelic philosophy*
+
+**By Sam Woolfe** | *6th December 2024* | *Read time: approx. 38 mins* | *7,510 words*
+
+![Psychedelics and existential insight](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/psychedelics-and-joy.webp)
+
+---
+
+*We know psychedelics are being increasingly used to treat mental health conditions. But not enough is made of the effects they can have on healthy people. In this long-read article, Sam Woolfe argues that psychedelics go beyond simply being useful for mental health conditions, and explores some of the existential and philosophical import psychedelics can have. Woolfe argues that humans, and possibly even the universe itself, have an innate desire for increasingly novel experiences.*
+
+In many discussions surrounding psychedelics, there can be a tendency to focus on how these compounds alleviate various ills, instead of what they can positively *add* to people’s lives. This speaks to a more general theme in the psychological field, where there is a preference for trying to resolve the negative and maladaptive aspects of human experience while ignoring or undervaluing the promotion of positive thoughts, feelings, and behaviours. The latter is seen as secondary. This is why the approach of *positive psychology* originally emerged — it aimed to complement (not replace) psychology’s negative bias.
+
+Helping individuals to function well and overcome emotional suffering should, of course, be prioritised, but human drives go well beyond functioning well and simply being *free* from suffering. People also have a strong desire for happiness, joy, inspiration, love, gratitude, resilience, and compassion. Positive psychology is the scientific study of how we can best help people to cultivate these mental states — in a nutshell, how to help people flourish.
+
+**[![20 04 30.peter3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-04-30.peter3.webp)
+
+SUGGESTED READING
+The self unlocked
+By Peter Sjöstedt-H](https://iai.tv/articles/the-self-unlocked-auid-1497)**It is uplifting to see how effective psychedelic therapy is in treating numerous conditions that are often difficult to treat, chronic, severe, and debilitating. [1] However, psychedelics also have the potential to increase the kinds of positive mental states already mentioned. By supplementing a positive psychological approach when discussing the [benefits of psychedelics](https://iai.tv/articles/ricky-williamson-psychedelic-experience-isnt-just-brain-chemistry-auid-2395), we can see that many of these substances are helpful in terms of building strengths and enhancing life satisfaction. This applies both to people who are experiencing emotional distress and to those who are more or less feeling well and not in need of mental health treatment.
+
+\_\_\_
+
+One particular positive state that psychedelics seem to elicit is existential joy.
+
+\_\_\_
+
+One particular positive state that psychedelics seem to elicit is existential joy. This mental state can feel highly pronounced and meaningful during the experience, as well as remain, to some degree, for weeks, months, and years following the experience — perhaps even lasting a lifetime.
+
+This essay will first describe what existential joy is and then elucidate how psychedelics can catalyse or manifest the various aspects of this particular kind of joy. I will draw on the ideas of Irvin Yalom, Martin Buber, and Friedrich Nietzsche with this aim in mind, and then present a concept that I call the will to novelty: the fundamental drive that humans have for the new and the different, which ties into psychedelic states. I will also connect this drive to psychological research and the metaphysics of Alfred North Whitehead, which can be called a *philosophy of creativity*: the view that the creation of novelty is the essential characteristic of the universe.
+
+**What Is Existential Joy?**
+
+Existential joy is joy related to the human condition, similar to how existential depression or existential anxiety involves depressive or anxiety symptoms, respectively, that follow from what Yalom describes as our four ultimate concerns in life: death, freedom, isolation, and meaninglessness. Each of these concerns, individually or in combination, can become a source of what we would call the classic feelings of depression or anxiety. These concerns are often related as well: knowledge of one’s mortality can be linked to feelings of meaninglessness, for instance, since the finality of death can make all our striving and efforts seem futile.
+
+We can struggle with emotional distress due to a sense of fundamental isolation (we cannot bridge the gap between our mind and that of another) or because of our inescapable freedom, described by existentialists like Jean-Paul Sartre (as he put it, “man is condemned to be free.”) [2] Moreover, involved in our essential freedom is always the choice to be true to ourselves or not, with inauthenticity being a source of what Yalom calls *existential guilt*.
+
+\_\_\_
+
+Existential joy, conversely, is not so much related to life events as life itself: it tends to be more of an underlying and longer-lasting joy that flows from a different, clearer, or fuller appreciation of the human condition.
+
+\_\_\_
+
+Ordinary joy, like ordinary sadness and worry, has specific triggers, such as a personal achievement, being in a new relationship, or exploring a new country. Existential joy, conversely, is not so much related to life events as *life itself*: it tends to be more of an underlying and longer-lasting joy that flows from a different, clearer, or fuller appreciation of the human condition. Of course, situations in one’s life can catalyse this feeling since it is in the particularities of day-to-day living that we confront our fundamental concerns.
+
+For example, being reminded of the finality of death can make one’s existence — and that of others — seem incredibly precious (and therefore joy-inducing). There can be a joy in using one’s innate freedom, each day, to be true to oneself. There is joy in the opposite of isolation: the intimate connection that comes with compassion and unconditional love. And lastly, strong feelings of joy can accompany the attainment of personal meaning, whether that be in one’s interpersonal life, work, projects, acts of kindness, or a cause one is dedicated to. One may experience existential joy after grappling with, and overcoming, psychological distress or a crisis state related to one’s ultimate concerns. Alternatively, it may come after dealing with depression or anxiety that is non-existential in nature. It can also arise when one feels mentally well. Whatever the circumstances might be, the very fact of one’s existence and the tapestry of experience this entails can be a source of joy.
+
+**Buber’s Philosophy of Dialogue**
+
+Existential joy is a component of Buber’s philosophy of dialogue (a version of dialogical existentialism). In this form of existentialism, based on dialogue, Buber places primacy on what he terms the ‘I-You’ relationship. This is “an essential act of pure relation”, [3] characterised by mutuality, reciprocity, and directness — and in these moments of connection, one is a whole unique being addressing another whole unique being. Buber contrasts this kind of relation with the (unfortunately) more common type: the ‘I-It’ relationship, which is based on conceptualisation, utilisation, manipulation, and accumulation. ‘What can you do for me?’ would be the sort of attitude one would bring to an I-It relationship.
+
+We can have I-You relationships with many sorts of entities: other human beings, non-human animals, the natural world, and God. When we encounter God in an I-You relationship, we encounter the ‘Eternal You’, which for Buber can never become an It. Moreover, any other I-You relationship — with another person, say — gives us an intimation or glimpse of the Eternal You, so in this way, relation becomes a form of mysticism. For Buber, I-You relationships make life “heavy with meaning”, [4] which when experienced eliminate the question about the meaning of life since it has been discovered. He emphasises this is an ineffable meaning which “we lack any image or formula for”, but it is nonetheless “more certain for you than the sensations of your senses”. [5] I-It relationships, on the other hand, do not provide our lives with meaning; instead, they are sources of alienation. A life concentrated with these latter relationships is one burdened with meaninglessness and oppressiveness.
+
+I-You relationships — in contradistinction to I-It relationships — are our deepest desire and they are what lead to our greatest happiness, joy, and peace. The emptiness of I-It relationships comes from our inability to satisfy what we long for the most. What we need for a truly joyful existence is more desire, just with the right object in mind: the more we say You, the greater our desire for the You becomes, which puts ourselves in a better position to experience joy-inducing relationships.
+
+\_\_\_
+
+What psychedelics do, then, is amplify the deep-seated desire for the opposite — pure and direct connections with others.
+
+\_\_\_
+
+This is relevant to the psychedelic experience because a common theme in these states is connection. [6] The vital importance of one’s relations can be emphasised — in the I-You sense, not the I-It sense. *Meaningful* connection with others and the natural world may be such a common theme because it is so common to feel alienated. What psychedelics do, then, is amplify the deep-seated desire for the opposite — pure and direct connections with others. As ‘non-specific amplifiers’, psychedelics can bring to the surface whatever is latent but unexpressed. If the need for I-You relationships is one such latent feature, ignored and suppressed much to our detriment, these compounds may allow us to recognise and appreciate this great longing.
+
+If psychedelics help to highlight this desire, magnify it, and increase the frequency of I-You connections, this could be one essential reason why people’s sense of meaningfulness and joyfulness is enhanced following psychedelic use. This is relevant in the context of psychedelic-assisted therapy because the relational therapeutic approach — which emphasises how our emotional well-being is dependent on the interpersonal dimension — is not the dominant model that is applied. If Buber’s analysis of the human condition is correct, then failing to integrate the relational approach into psychedelic therapy could make meaningful and sustained change difficult to achieve.
+
+**The Nietzschean Affirmation of Life**
+
+For [Nietzsche](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801), the correct response to the trials, tribulations, and tragedies of life was one of embrace: a yes-saying attitude. This has since become known as *the Nietzschean affirmation of life*, and we can juxtapose it with the [Schopenhauerian](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801) rejection of life: a no-saying to suffering.
+
+\_\_\_
+
+In Ecce Homo (1908), Nietzsche states, “My formula for greatness in men is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it … but love it.”
+
+\_\_\_
+
+Nietzsche championed “Saying yes to life even in its strangest and hardest problems”, as he writes in *Twilight of the Idols* (1889). [7] This attitude was based on his belief that being a yes-sayer — affirming everything in the past, present, and future — encourages health, vitality, strength, and power. In Ecce Homo (1908), he states, “My formula for greatness in men is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it … but love it.” [8]
+
+Nietzsche saw the opposite (saying no to life) — rejection, turning away, resignation — as weak, unhealthy, and unnatural. This disgust towards life was pathological, a kind of sickness, he insisted. Nietzsche, moreover, disdained the outcomes of the Schopenhauerian rejection of life, these being self-denial and pity, which he viewed as central to the Christian ethic — an ethic that degrades the human spirit.
+
+To be fully alive and human, according to Nietzsche, is to fully embrace all that life has to offer, no matter how stinging, harsh, and outrageous these offerings may be. As well as encouraging health, Nietzsche thought you cannot say yes to the pleasant without also affirming the unpleasant: “Have you ever said Yes to one joy? Oh my friends, then you also said Yes to all pain. All things are enchained, entwined, enamored.” [9]
+
+Furthermore, for Nietzsche, suffering is deeply valuable, with our interpretation of it being what provides meaning to our lives. Our pain and hardship test our true worth and shape us into better people. Aligning himself with the ancient Greek attitude towards pain, Nietzsche opined in *Twilight of the Idols*, “In the teachings of the [Greek] mysteries, pain is declared holy; the ‘pangs of the childbearer’ make pain in general holy—all becoming and growth, everything that vouches for the future requires pain.” [10] To achieve psychological growth, health, and resilience, we have to experience and overcome resistance and pain, as we are meant to — and the greatest, most admirable people, Nietzsche argues, are those who can endure the greatest suffering.
+
+The Nietzschean affirmation of life, this saying yes to everything, can sometimes find its expression in the psychedelic experience. This can happen, I believe, in two different ways.
+
+Firstly, in a psychedelic state, one can be overcome by a renewed (or new) zest for life. There is a yes-saying that gets evoked, an inner and jubilant welcoming of the whole tapestry of human experience. In these moments of psychedelic yes-saying, the affirmation is loud, clear, and complete, and any sense of rejection is absent.
+
+The second manner in which yes-saying might occur is in the confrontation with struggle. Psychedelics can present us with moments, sometimes prolonged stages, of mental discomfort and distress. It is normal and habitual to reject these feelings through resistance and the wish to abolish them. Common psychedelic wisdom states that resistance is likely to just prolong that mental suffering or worsen it.
+
+A [Nietzschean approach to difficult psychedelic experiences](https://www.amazon.co.uk/Psychedelic-Nietzsche-Twain-Traherne/dp/B086P9BCM5), however, involves saying yes to them: this means accepting, approving, and even thanking what is happening. When affirmed, difficult experiences become zestful; they can enliven us, viscerally unlocking a reserve of energy and joy. While thinking about the Nietzschean affirmation of life and its application to psychedelics, I was reminded of Rumi’s brilliant poem ‘The Guest House’:
+
+*This being human is a guest house.**Every morning a new arrival.**A joy, a depression, a meanness,**some momentary awareness comes**as an unexpected visitor.**Welcome and entertain them all!**Even if they’re a crowd of sorrows,**who violently sweep your house**empty of its furniture,**still, treat each guest honorably.**He may be clearing you out**for some new delight.**The dark thought, the shame, the malice,**meet them at the door laughing,**and invite them in.* *Be grateful for whoever comes,**because each has been sent**as a guide from beyond. [11]*
+
+This very much fits in with Nietzsche’s conception of sorrow: we should not shy away from it or reject it, because it may elevate us towards a mountain peak of joy.
+
+\_\_\_
+
+Psychedelic experiences are like dramatic plays in which the Nietzschean affirmation of life is put to the test.
+
+\_\_\_
+
+Psychedelic experiences are like dramatic plays in which the Nietzschean affirmation of life is put to the test: difficult feelings we wrestle with in the everyday — such as anxiety and being overwhelmed — may be intensified and placed on the centre stage in an altered state, becoming so loud so as to demand a response. And how do we respond? To put it simply, we can be a yes-sayer or a no-sayer in such moments.
+
+When the yes-saying attitude is adopted and everything uncomfortable is embraced, the whole character of the experience can change; it becomes perfect, in a sense. Nietzsche too makes this point in *The Antichrist* (1895): “*The world is perfect* — thus says the instinct of the most spiritual, the Yes-saying instinct.” [12] This instinct allows enthusiasm to replace anxiety. Nietzsche’s use of the term ‘perfect’ may seem inappropriate, as it can appear to excuse or justify tragedies, injustices, and atrocities in the world. However, it is intended to refer to the recognition that nothing can be separated from anything else — everything fits together; nothing is out of place.
+
+But if one has had the experience of yes-saying during a psychedelic experience and discovered the way it transforms suffering, this is not a lesson that applies only to this experience and no others. These states can be seen as the training ground for the trials and obstacles we will inevitably run up against in everyday life. When you reflect on the zest for life or affirmation of negative experiences felt in a psychedelic state — and remind yourself of the subjective changes that followed — you may come to see that every experience is susceptible to this attitude and the improvement that follows.
+
+Yes-saying is often a common feature of the psychedelic experience, helping to benefit both the experience itself and its long-term effects on an individual’s attitudes. To integrate profound moments of yes-saying under the influence of psychedelics, it might be useful to absorb what Nietzsche has to say about yes-saying and apply this attitude to everything, no matter how painful or ugly the situation may be. Doing so makes the world and all of one’s life take on a kind of beauty that was previously absent. We can also think of yes-saying as an animating force, vivifying a mind that perhaps for far too long has been demoralised.
+
+**The Will to Novelty**
+
+Another way in which psychedelics may intersect with existential concerns is through the generation of novelty. If at least one of our fundamental drives is to experience what is new, then psychedelics can serve this drive — and in turn our depths of satisfaction — through the proliferation of novelty that these substances offer. They lead to states of thinking, perception, and feeling never before experienced. These reserves of novelty can appear unlimited, with new kinds and degrees of experience manifesting with every new traversing of the psychedelic mindscapes.
+
+Philosophers and psychologists throughout history have tried to define the human species by referring to certain basic drives that we all share. Sigmund Freud, for instance, proposed that all people possess a will to pleasure: we instinctually seek out pleasure and avoid pain, in order to satisfy our basic needs. (In his 1920 essay ‘Beyond the Pleasure Principle’, Freud revised his position and argued that humans also have an opposite motivation, *a death drive*: we are driven towards destruction; or as he famously declared, “The aim of all life is death.”) [13]
+
+Nietzsche thought that the main driving force in humans, as in the rest of the cosmos, was the *will to power*. As he put it, “This world is the will to power — and nothing besides!” [14] He believed that deep down we all have our minds set on strength, growth, expansion, advancement, and self-mastery. These are expressions of the will to power, which is the drive to seek and overcome resistance in the world and within ourselves. ‘Power’ is the feeling of overcoming resistance. Both Nietzsche and Freud were influenced by the German philosopher Arthur Schopenhauer, who in his works developed the notion of the *will to live*. This desire for self-preservation is a blind, unconscious force that is present in all living organisms. [15]
+
+In contrast, the psychiatrist Viktor Frankl focused on a motive that seems to be distinctly human. This is the *will to meaning*. He developed his own type of therapy called *logotherapy*, which follows from the assumption that our main motivation for living is our will to find meaning in life. It is tricky to try to define what ‘meaning’ actually is. But we can all denote certain human activities and aspects of our lives as ‘meaningful’, such as being of service to others or overcoming a personal challenge. Frankl posited that,
+
+*We can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering. [16]*
+
+Meaning is what is most significant and fulfilling in our lives. From an objective standpoint, or the point of view of the universe, the action in question may be meaningless (a position known as *cosmic nihilism*). But from the human perspective, alleviating the suffering of another person means something more than the basic fact of doing something so that someone is in less pain than they otherwise would be. *Terrestrial meaning* is possible, even if *cosmic meaning* is not. Meaning, as it is experienced, is like this extra layer of more or less inexpressible significance that comes wrapped up with particular thoughts, actions, people, and events. It seems less clear that other animals lead what could rightly be called ‘meaningful’ lives.
+
+The will to novelty — the desire to seek out what is new and different — may be an additional core drive we have. While the way that we seek novelty may be unique to humans (since we produce new forms — be they cultural or technological — and we amass greater knowledge over time), the basis for our novelty-seeking tendencies appears to be shared by other species.
+
+Animal studies have shown that levels of dopamine increase in the context of novelty. [17] The release of dopamine motivates us to act, [18] rather than being a reward in itself. (Dopamine is not a ‘feel-good chemical’, ‘pleasure chemical’, or ‘reward chemical’, as it is commonly — and mistakenly — called.) [19] Thus, the brain responds to novelty with the release of dopamine, which motivates us to explore in order to find a reward.
+
+The researchers Nico Bunzeck and Emrah Düzel carried out experiments to shed light on how novelty motivates us. [20] Düzel concluded that,
+
+*When we see something new, we see it has a potential for rewarding us in some way. This potential that lies in new things motivates us to explore our environment for rewards. The brain learns that the stimulus, once familiar, has no reward associated with it and so it loses its potential. For this reason, only completely new objects activate the midbrain area and increase our levels of dopamine. [21]*
+
+\_\_\_
+
+Since leaving the African savanna, humans have spent tens of thousands of years venturing into new landscapes all over the world; so it makes evolutionary sense that we would be primed to react positively to novelty.
+
+\_\_\_
+
+A 2013 paper highlights that dopamine activations in the context of exploration “are generated when an animal perceives novel states and … serve the function of increasing the animal’s tendency to explore the environment, thus augmenting the probability that the animal finds rewards”. [22] However, the human penchant for novelty is quite unique. Since leaving the African savanna, humans have spent tens of thousands of years venturing into new landscapes all over the world; so it makes evolutionary sense that we would be primed to react positively to novelty. As the neuroscientist Robert Sapolsky observes in *Behave: The Biology of Humans at Our Best and Worst*, “A high incidence of [the gene] 7R, associated with impulsivity and novelty seeking, is the legacy of humans who made the greatest migrations in human history.” [23]
+
+As the most nomadic species on the planet, we are motivated to seek out new terrain as a potential source of new rewards. We are also unique as a species because we have the capacity to innovate in manifold ways and at an exponential rate. Relative to the rest of the animal kingdom, we seem to possess a special kind of curiosity that perpetually propels us towards novelty. Perhaps, then, we can refer to our species as *Homo philonovitas* (derived from the Greek *philo* for ‘love’ and the Latin *novitas* for ‘freshness’ or ‘novelty’). We are the novelty-loving animal. Our behaviour indicates that we are *experiential omnivores*.
+
+\_\_\_
+
+Individuals who are adventurous and curious enjoy many advantages.
+
+\_\_\_
+
+Individuals who are adventurous and curious enjoy many advantages. But it is, nonetheless, normal to see variations in the novelty seeking personality trait. In the words of the journalist Winifred Gallagher, “Although we’re a neophilic [novelty-loving] species, as individuals we differ in our reactions to novelty, because a population’s survival is enhanced by some adventurers who explore for new resources and worriers who are attuned to the risks involved.” [24] Indeed, there are some people who are neophobic, who have an aversion to novelty and change.
+
+The lecturer and psychedelic writer Terence McKenna often discussed novelty, although he believed that the universe becomes more novel (more complex or advanced) over time. [25] In support of this idea, which was inspired by his psychedelic experiences, he cites “the emergence of more and more complex forms, languages, organisms, technologies, always building on the previously achieved levels of complexity.” [26] In this respect, it would be uncontroversial to say that over the course of time, technologies have certainly become more novel. Our hunger for the new and the innovative — and our ability to make our imagination a reality — have taken us from crude stone tools to artificial intelligence.
+
+\_\_\_
+
+McKenna argued this is a point of infinite novelty (or complexity) and he referred to it as the “concrescence” (a term borrowed from Whitehead), the “strange attractor,” or “the transcendental object at the end of time.”
+
+\_\_\_
+
+We might also have a desire for *ultimate novelty or maximal novelty*: an apogee of novelty that is the final, unfathomable destination of human development. McKenna argued this is a point of infinite novelty (or complexity) and he referred to it as the “concrescence” (a term borrowed from Whitehead), the “strange attractor,” or “the transcendental object at the end of time.” [27] He believed this to be the endpoint of the universe’s natural trajectory towards interconnection, novelty, and complexity. In his view, the universe is being pulled through time towards this attractor.
+
+Yet while the idea of moving towards a state of ultimate, maximal, or infinite novelty is enticing, it is not at all clear that the cosmos is heading in that direction. Because we inhabit a novelty-producing world, it may seem like there is always something unique being formed; so perhaps it is understandable to conclude that this is a universal law. But such a view may be mistaken if the universe is becoming increasingly disorganized over time (although physicists disagree about this). [28] McKenna’s novelty theory may also invite criticism because it presupposes that nature is teleological. The notion that the universe has a goal or purpose is, of course, not unique to McKenna’s theory, but it does require justification. On the other hand, it is possible that the universe is like this in its fundamental nature — this is a metaphysics also proposed by Whitehead, who influenced McKenna’s ideas on novelty.
+
+Whitehead essentially presents a philosophy of creativity or process philosophy, which emphasizes becoming and change over static being. “The ultimate metaphysical principle is the advance from disjunction to conjunction, creating a novel entity other than the entities given in disjunction,” says Whitehead. [29] This ‘creative advance into novelty,’ as he calls it, is the fundamental nature of reality. The philosopher [Peter Sjöstedt-Hughes](https://iai.tv/articles/consciousness-and-higher-spatial-dimensions-auid-2107) explains this idea in his book *[Noumenautics](https://www.amazon.co.uk/Noumenautics-Metaphysics-Psychedelics-Peter-Sjostedt-H/dp/0992808855)* as follows: “For Whitehead, the universe is constantly creating novelty rather than running a determined path. The universe creates a path in its stead; it does not drive along an already created track. It is in this sense more plane than train, more thrust than rail.” [30] Under Whiteheadian metaphysics, “the universe is potentially infinite in its creative capacity,” writes Sjöstedt-Hughes. [31]
+
+\_\_\_
+
+Whitehead describes God as having, like all entities (including us), an aim of achieving “some maximum depth of intensity of feeling” or “depth of satisfaction.”
+
+\_\_\_
+
+Whitehead also includes God in his metaphysics in a way that makes his philosophy *panentheistic*: he believes God and the world to be interrelated but, unlike the pantheist, he makes an ontological distinction between the divine and the non-divine. Pantheism posits, in contrast, that God and the universe are identical. For the panentheist, the universe is in God and God is in the universe, but God is ultimately greater than the universe. In *Process and Reality* (1929), Whitehead describes God as having, like all entities (including us), an aim of achieving “some maximum depth of intensity of feeling” [32] or “depth of satisfaction.” [33] Novelty allows us to achieve this aim. Whitehead also claims that “God is the organ of novelty” [34] and adds, “Apart from the intervention of God, there could be nothing new in the world.” [35] Novelty, therefore, is divine.
+
+While Whitehead himself does not use the term ‘will’ with respect to novelty as I do, novelty is, nonetheless, key to his metaphysics, and so this has implications for our psychology. If everything tends towards novelty, then so do we. I believe that both the urge to have a psychedelic experience and the levels of satisfaction it provides us with can at least partly be explained by the will to novelty. This is an optimistic interpretation of how psychedelic-induced novelty affects our well-being. A more pessimistic angle is also possible. I would now like to consider both of these perspectives, either one of which could be true under Whiteheadian metaphysics. I will begin by examining the pessimistic point of view.
+
+Firstly, the trait of novelty seeking has been tied to impulsivity and attention deficit hyperactivity disorder (ADHD). We should keep in mind, however, that a short attention span is also a sign of natural variability in the gene pool, with its strengths and weaknesses depending on the environmental context, as with any other genetic variation. A 2008 study discovered that an ADHD-associated version of the gene DRD4 is associated with better health in nomadic tribesmen in Kenya, but it can cause malnourishment in their settled cousins. [36] Dan Eisenberg, the lead author of the study, explains,
+
+*The DRD4/7R allele has been linked to greater food and drug cravings, novelty-seeking, and ADHD symptoms.It is possible that in the nomadic setting, a boy with this allele might be able to more effectively defend livestock against raiders or locate food and water sources, but that the same tendencies might not be as beneficial in settled pursuits such as focusing in school, farming or selling goods. [37]*
+
+Indeed, it is no coincidence that people with high levels of novelty seeking are prone to risk-taking and various addictions. [38] Moreover, novelty *itself* may become a kind of addiction. If novelty increases dopamine, as other drugs do, this can motivate us to seek out more novelty. A 2014 study on monkeys found that “dopamine enhances novelty-driven value,” implying that “excessive novelty seeking—characteristic of impulsivity and behavioral addictions—might be caused by increases in dopamine, stemming from less reuptake.” [39] So not only does novelty excite our dopamine neurons, but dopamine may also spur us on to seek out novelty.
+
+Novelty ‘addiction’ may follow the path of other behavioural addictions: being exposed to novelty excites us, encouraging us to seek out more novelty to reanimate that positive feeling. But as with any addiction, we become sensitised to the initial pleasurable feelings triggered by the first exposure; in other words, our tolerance for novelty increases. We desire an even more intense experience, which leads us to seek out a higher degree of novelty. We fall into a *novelty trap* when we are not only dissatisfied with familiarity but with novel situations that do not feel novel enough.
+
+It is easy to fall into a pattern of pursuing one pleasure after another. The *hedonic treadmill* is a metaphor that is often used to explain this behaviour. It refers to the tendency to return to a baseline level of happiness after each positive event, a baseline that encourages us again to seek out a new pleasure — a spike in positive mood. Perhaps novelty seeking can also fit the pattern of the hedonic treadmill. If so, one can be continually exposed to novelty and yet always return to a baseline state (an uncomfortable craving for novelty that only passes once something different and unusual is experienced).
+
+According to the Romanian philosopher Emil Cioran, the tendency to become bored is part of the human condition. In *The Trouble with Being Born* (1973), he claims that non-human animals crave monotony and only want it to continue, whereas we flee from it. Cioran writes,
+
+*A zoologist who observed gorillas in their native habitat was* *amazed by the uniformity of their life and their vast idleness.* *Hours and hours without doing anything. Was boredom unknown* *to them? This is indeed a question raised by a human, a busy ape.* *Far from fleeing monotony, animals crave it, and what they most* *dread is to see it end. For it ends, only to be replaced by fear, the* *cause of all activity. Inaction is divine; yet it is against inaction* *that man has rebelled. Man alone, in nature, is incapable of enduring* *monotony, man alone wants something to happen at all costs —* *something, anything…. Thereby he shows himself unworthy of* *his ancestor: the need for novelty is the characteristic of an*   
+*alienated gorilla. [40]*
+
+Contrary to Whitehead, then, it is not novelty that is divine for Cioran but monotony. Our striving for novelty could be at the heart of much of our discontent. We can think of this analysis as a combination of Whitehead’s metaphysics and Schopenhauer’s pessimism (the latter sees dissatisfaction as an inevitable consequence of our constant striving). By being unable to sit with monotony and reiteration, we are destined to be the restless ape. We are *Homo inquietus* (‘restless human’).
+
+In Schopenhauerian metaphysics, the will is the fundamental level of reality. [41] This metaphysical will is a blind striving that manifests in different forms and degrees, such as physical objects following the laws of motion and gravity, plants growing towards the sunlight, and animals acting on instinct. [42] Everything is, in a sense, alive: all behaviour in the universe is dictated by the blind and futile force of the will. (One could argue that this makes Schopenhauer a panpsychist.) In humans, the will manifests as the will to live — the desire to carry on and further life through procreation. All of our other desires (including our personal goals and desire for romantic love), in Schopenhauer’s worldview, are subsumed under the will to live. [43] Schopenhauer’s pessimism arises from his belief that, as in Buddhism, desire is the root of suffering. Ultimately, desire can never be fully sated, so dissatisfaction is unavoidable. [44]
+
+Incorporating Whiteheadian metaphysics here, we could say that the desire for novelty can never be fully satisfied. We crave something new, we get a brief experience of enjoyment when we find it, and then we are stuck again with this craving. Furthermore, as with other desires, there are innumerable novel things we could experience or obtain, so no matter how much novelty we have in our lives, we know — as finite beings — we will only ever experience a fraction of what is possible. Additionally, since the desire for novelty — like other desires — often goes unfulfilled, we are bound to feel frustrated a lot of the time.
+
+This is just one way of modifying Whitehead’s metaphysics. Adopting the more optimistic angle, I have wondered, too, whether his philosophy of creativity could be combined with Nietzsche’s philosophy, which states that living in accordance with the will (in this case, the will to power) provides us with strength, vitality, and healthfulness. By satisfying the will to novelty and living in harmony with the natural order of the universe (which is, for Whitehead, novelty), we will experience the boon of this harmonious relationship: the ‘intensity of feeling’ and ‘depth of satisfaction’ that Whitehead describes.
+
+With a Nietzschean outlook included, we can say that embracing novelty is also a source of strength and a way of saying ‘yes’ to life. This could be why novelty seeking so often makes us feel more fully alive and human, providing us with joys and memories we cherish, not choices we come to regret. Sjöstedt-Hughes argues that the psychedelic experience can be one way to achieve unique novel states, allowing us to “access the infinite bank of possibility that conditions the advance of creativity in the universe”. [45] He adds, “The common ineffability of these experiences indicate their novelty: words are not created for phenomena that are never considered.” [46] Consequently, seeking out highly novel states, like those occasioned by psychedelics, can be seen as part of the divine or cosmic order, resulting in extraordinary depths of satisfaction and joy. Our yearning for intense or maximal novelty — something that truly shocks our system into a state of awe and reverence — can be satisfied through otherworldly psychedelic experiences, particularly those induced by DMT.
+
+The relationship between novelty and well-being, nevertheless, is a complicated one. “Novelty-seeking is one of the traits that keeps you healthy and happy and fosters personality growth as you age,” says C. Robert Cloninger, the psychiatrist who developed personality tests for measuring this trait. [47] On the other hand, as Gallagher underscores, “Neophilia spurs us to adjust and explore and create technology and art, but at the extreme it can fuel a chronic restlessness and distraction.” [48] The target of one’s neophilia matters. Seeking out shallow entertainment will probably not feel as fulfilling as deeply exploring subjects and experiences that are truly important to you.
+
+Altered states of consciousness are by no means shallow or trivial entries into the new, the different, and the weird. They expose ourselves to untold heights, depths, and variations of novelty that *immediately and profoundly* instil in us joy, fascination, and awe — and they rejuvenate us through the new details and perspectives gained. It is uncertain whether this is because the ultimate purpose of the universe is to create further and greater instantiations of novelty, as McKenna and Whitehead argued. What is more palpable is the notion that we, at the very least, are driven by novelty, and embarking on a psychedelic journey is a unique way to feed this drive.
+
+**Concluding Thoughts on Psychedelics and Existential Joy**
+
+The use of psychedelics, at the right dose and in the right context, can catalyse a spontaneous and profound feeling of existential joy. This might be the very first instance of existential joy in someone’s life or at least the most intense manifestation of this feeling. To reiterate, reflecting on the experience of being human can be a cause for joy. Specifically, this joy can relate to the basic fact of being alive and sentient. This includes having the ability to perceive, feel, think, imagine, create, and connect — in other words, the ability to have experiences and so many varieties of experience.
+
+\_\_\_
+
+Psychedelics can be useful tools that allow you to view the human condition in this more joyous way.
+
+\_\_\_
+
+Psychedelics can be useful tools that allow you to view the human condition in this more joyous way. This can occur for a variety of reasons. Psychedelics can reconnect you with your emotions, [49] such as the existential form of joy. They are perspective shifting, allowing you to see the many sides of the human condition, not just its negative side. And they can quiet or dissolve the ego, the part of you that focuses on thoughts, feelings, and behaviours related to your sense of self (e.g. how you stack up against others and the kind of self-image you want to impress the world with). When the ego is dampened or dissolved, your mind is free from these concerns, and what you are left with is raw existence: the ever-present background of pure awareness. This pure awareness is usually unfelt because the noisy ego tends to be in the foreground, taking up your attention. But if the ego dissipates during a psychedelic experience, you can attend to the subjective quality of existence itself, and this can be enough to make you feel exalted and content. This can be a highly valuable experience, both for people struggling with emotional distress or an existential crisis and those who are not.
+
+Psychedelics are promising catalysts for states like existential joy. This contrasts with many people’s experiences with traditional antidepressants, which often have a general blunting effect, reducing both negative emotions (sometimes very beneficial) and positive emotions (not so desirable). [50] [51]
+
+Psychedelics, on the other hand, can significantly reduce troubling negative emotions while significantly increasing life-affirming positive emotions. This is not to say that anyone feeling empty of positivity should rush into a psychedelic experience. It is crucially important to prepare for the experience by paying attention to ‘set and setting’ (your current mental state and the kind of environment where you will have the experience). But if sensibly approached, a single psychedelic journey could open someone up to positive mental states never before experienced, both in terms of variety and intensity. This not only has the potential to relieve psychological suffering; it can also serve to promote human flourishing.
+
+This piece is an extract from Sam Woolfe’s book *[Altered Perspectives: Critical Essays on Psychedelic Consciousness.](https://www.samwoolfe.com/altered-perspectives)*
+
+**Endnotes**
+
+1. Cavarra, M., Falzone, A., Ramaekers, J.G., Kuypers, K.P.C., and Mento, C. (2022). ‘Psychedelic-Assisted Psychotherapy — A Systematic Review of Associated Psychological Interventions’. Frontiers in Psychology, 13, Article: 887255.
+
+2. Sartre, J.P. (1948). Existentialism is a Humanism. https://homepages.wmich.edu/~baldner/existentialism.pdf
+
+3. Buber, M. (1923). I and Thou, p. 158. Translated by Kaufmann, W. New York: Charles Scribner’s Sons, 1970.
+
+4. Ibid.
+
+5. Ibid., p. 159
+
+6. Watts, R., Kettner, H., Geerts, D., Gandy, S., Kartner, L., Mertens, L., Timmermann, C., Nour, M.N., Kaelen, M., Nutt, D., Carhart-Harris, R., and Roseman, L. (2022). ‘The Watts Connectedness Scale: a new scale for measuring a sense of connectedness to self, others, and world’. Psychopharmacology, 239, pp. 3461–3483.
+
+7. Nietzsche, F. (1889). Twilight of the Idols, p. 91. Translated by Polt, R. Indianapolis/Cambridge: Hackett Publishing Company, 1997. Catalysts for Existential Joy 321
+
+8. Nietzsche, F. (1967). Basic Writings of Nietzsche, p. 714. Edited and translated by Kaufmann, W. New York: Modern Library.
+
+9. Nietzsche, F. (1883). Thus Spoke Zarathustra, p. 263. Edited by Caro, A.D. and Pippin, R.B., and translated by Caro, A.D. Cambridge: Cambridge University Press, 2006.
+
+10. Nietzsche, F. (1889). Twilight of the Idols, p. 90. Translated by Polt, R. Indianapolis/Cambridge: Hackett Publishing Company, 1997.
+
+11. Rumi (2004). Selected Poems, p. 109. Translated by Barks, C. London: Penguin Classics.
+
+12. Nietzsche, F. (1954). The Portable Nietzsche, p. 645. Translated by Kaufmann, W. New York: Viking Press.
+
+13. Freud, S. (1920). ‘Beyond the Pleasure Principle’, p. 32. Translated and edited by Strachey, J. New York: W.W. Norton & Company, 1961.
+
+14. Nietzsche, F. (1901). The Will to Power, p. 550. Translated by Kaufmann, W and Hollingdale, R.J., and edited by Kaufmann, W. New York: Vintage Books, 1968.
+
+15. Schopenhauer, A. (1818). The World as Will and Representation, Vol. 1, p. 355. Translated by Haldane, R.B. and Kemp, J. London: Kegan Paul, Trench, Trübner & Co., 1909.
+
+16. Frankl, V. (1946). Man’s Search for Meaning, p. 115. Massachusetts: Beacon Press.
+
+17. Morrens, J., Aydin, Ç., Rensburg, A.J.B., Rabell, J.E., and Haesler, S. (2022). ‘Cue-Evoked Dopamine Promotes Conditioned Responding during Learning’. Neuron, 106(1), pp. 142–153.
+
+18. Salamone, J.D. and Correa, M. (2012). ‘The Mysterious Motivational Functions of Mesolimbic Dopamine’. Neuron, 76(3), pp. 470–485.
+
+19. Chen, A. (2018). ‘Please stop calling dopamine the ‘pleasurechemical’’. The Verge, 27 May. https://www.theverge.com/2018/3/27/17169446/dopamine-pleasure-chemical-neuroscience-reward-motivation Altered Perspectives 322
+
+20. Cell Press (2006). ‘Pure Novelty Spurs the Brain’, ScienceDaily, 27 August. https://www.sciencedaily.com/releases/2006/08/060826180547.htm
+
+21. UCL News (2006). ‘Novelty aids learning’, UCL News, 2August. https://www.ucl.ac.uk/news/2006/aug/novelty-aids-learning
+
+22. Barto, A., Mirolli, M., and Baldassarre, G. (2013). ‘Novelty or Surprise?’ Frontiers in Psychology, 4, Article 907.
+
+23. Sapolsky, R.M. (2017). The Biology of Humans at Our Best and Worst, p. 281. New York: Penguin Books.
+
+24. Tierney, J. (2012). ‘What’s New? Exuberance for Novelty Has Benefits’, New York Times, 14 February.
+
+25. Horgan, J. (2012). ‘Was Psychedelic Guru Terence McKenna Goofing About 2012 Prophecy?’, Scientific American, 6 June.
+
+26. Hazard, J. (1998). ‘Terence McKenna - Final Earthbound Interview’. YouTube video, uploaded by loadedshaman, 4 October, 2011, 1:03:47. https://www.youtube.com/watch?v=NCaK35DQ4uk
+
+27. McKenna, T. (1991). ‘Alchemical Youth on the Edge of the World’. organism.earth. https://www.organism.earth/library/document/alchemical-youth
+
+28. Azarian, B. (2023). ‘Life Need Not Ever End’, Noema Magazine, 28 February. https://www.noemamag.com/life-need-not-ever-end/
+
+29. Whitehead, A.N. (1929). Process and Reality, p. 21. Edited by Griffin, D.R. and Sherburne, D.W. New York: The Free Press, 1978.
+
+30. Sjöstedt-Hughes, P. (2015). Noumenautics: Metaphysics, Meta-ethics, Psychedelics, p. 34. Falmouth: Psychedelic Press UK.
+
+31. Ibid.
+
+32. Press, H. (1971). ‘Whitehead’s Ethic of Feeling’. Ethics, 81(2), pp. 161–168. Catalysts for Existential Joy 323
+
+33. Whitehead, A.N. (1929). Process and Reality, p. 105. Edited by Griffin, D.R. and Sherburne, D.W. New York: The Free Press, 1978.
+
+34. Ibid., p. 67
+
+35. Ibid., p. 247
+
+36. Eisenberg, D.T.A., Campbell, B., Gray, P.B., Sorenson, M.D. (2008). ‘Dopamine receptor genetic polymorphisms and body composition in undernourished pastoralists: An exploration of nutrition indices among nomadic and recently settled Ariaal men of northern Kenya’. BMC Evolutionary Biology, 8(1), Article: 173.
+
+37. BMC Evolutionary Biology (2008). ‘Is ADHD An Advantage For Nomadic Tribesmen?’, ScienceDaily, 10 June. https://www.sciencedaily.com/releases/2008/06/080609195604.htm
+
+38. Wingo, T., Nesil, T., Choi, J., and Li, M.D. (2016). ‘Novelty-Seeking and Drug Addiction in Humans and Animals: From Behavior to Molecules’. Journal of Neuroimmune Pharmacology, 11(3), pp. 456–470.
+
+39. Costa, V.D., Tran, V.L., Turchi, J., and Averbeck, B.B. (2014). Behavioral Neuroscience, 128(5), pp. 556–566.
+
+40. Cioran, E.M. (1973). The Trouble with Being Born, p. 193. New York: Arcade Publishing, 2002.
+
+41. Schopenhauer, A. (1818). The World as Will and Representation, Vol. 1, p. 157. Translated by Haldane, R.B. and Kemp, J. London: Kegan Paul, Trench, Trübner & Co., 1909.
+
+42. Ibid., p. 182.
+
+43. Schopenhauer, A. (1818). The World as Will and Representation, Vol. 3, pp. 341–344. Translated by Haldane, R.B. and Kemp, J. London: Kegan Paul, Trench, Trübner & Co., 1909.
+
+44. Ibid., Vol. 1, p. 464.
+
+45. Sjöstedt-Hughes, P. (2015). Noumenautics: Metaphysics, Meta-ethics, Psychedelics, p. 52. Falmouth: Psychedelic Press UK. Altered Perspectives 324
+
+46. Ibid.
+
+47. Tierney, J. (2012). ‘What’s New? Exuberance for Novelty Has Benefits’, New York Times, 14 February. https://www.nytimes.com/2012/02/14/science/novelty-seeking-neophilia-can-be-a-predictor-of-well-being.html
+
+48. Ibid.
+
+49. Roseman, L., Demetriou, L., Wall, M.B., Nutt, D.J., and Carhart-Harris, R.L. (2018). ‘Increased amygdala responses to emotional faces after psilocybin for treatment-resistant depression’. Neuropharmacology, 142, pp. 263–269.
+
+50. Price, J., Cole, V., and Goodwin, G.M. (2009). ‘Emotional side effects of selective serotonin reuptake inhibitors: qualitative study’. British Journal of Psychiatry, 195(3), pp.211–217.
+
+51. Langley, C., Armand, S., Luo, Q., Savulich, G., Segerberg, T., Søndergaard, A., Pederson, E.B., Svart, N., Overgaard-Hansen, O., Johansen, A., Borgsted, C., Cardinal, R.N., Robbins, T.W., Stenbæk, D.S., Knudsen, G.M., and Sahakian, B.J. (2023). ‘Chronic escitalopram in healthy volunteers has specific effects on reinforcement sensitivity: a double-blind, placebo-controlled semi-randomised study’. Neuropsychopharmacology, 48, pp. 664–670.

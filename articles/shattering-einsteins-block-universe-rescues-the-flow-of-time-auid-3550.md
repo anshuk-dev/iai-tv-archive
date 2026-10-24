@@ -1,0 +1,79 @@
+---
+title: "New theory of time challenges Einstein's block universe"
+subtitle: "Time fragments into multiple presents"
+author: "Samuele Iaquinto"
+date: "14th April 2026"
+article_id: "3550"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,993 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/shattering-Einsteins-block-universe-rescues-the-flow-of-time.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/shattering-einsteins-block-universe-rescues-the-flow-of-time-auid-3550"
+---
+
+# New theory of time challenges Einstein's block universe
+
+*Time fragments into multiple presents*
+
+**By Samuele Iaquinto** | *14th April 2026* | *Read time: approx. 10 mins* | *1,993 words*
+
+![New theory of time challenges Einstein's block universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/shattering-Einsteins-block-universe-rescues-the-flow-of-time.webp)
+
+---
+
+*Einstein’s theory of relativity appears to drain time of its most familiar feature: its flow. If spacetime is a four-dimensional block, as many physicists argue, then there is no privileged present moment. But over the last two decades, a small group of philosophers has been assembling a radical alternative picture, which aims to save time’s flow. In this article, Italian philosopher and logician **Samuele Iaquinto** introduces Fragmentalism, a view on which spacetime is not a single, coherent whole, but rather a patchwork of incompatible perspectives, or fragments, which disagree about which events are past, present and future. These fragments are not mere appearances of an underlying timeless block. They are fundamental. Time, on this view, can flow, but it must do so in a plurality of ways, each relative to a perspective.*
+
+It is tempting to think of reality as centered on the present moment, the very instant at which you are reading these words. If asked to describe reality as it really is, you would hardly begin by portraying the Roman Empire as a still-living political order. That is *now* just a collection of ruins and records. Reality, it seems, is nothing more than how things are from the privileged standpoint of the present moment.
+
+In contemporary philosophy, this idea is voiced by the *dynamic theory of time*, according to which temporal passage—the continual change in what is present—is an objective, mind-independent feature of the universe. There are several ways of spelling out this idea. One is [presentism](https://plato.stanford.edu/entries/presentism/), which holds that only present entities exist. On this view, the flow of time is a continual process in which present objects come into being and cease to exist. Neither past nor future entities exist. A more permissive dynamic theory is the [growing block view](https://doi.org/10.1007/s11098-016-0714-3), according to which reality comprises not only present entities but also past ones, such as dinosaurs or Julius Caesar. These past entities are just as concrete as we are, even though they are no longer present. On this view, the present is the edge of a four-dimensional block of past events, which grows as new objects continually come into existence. Finally, [the moving spotlight view](https://doi.org/10.1093/acprof:oso/9780198713296.001.0001) extends reality even further by admitting future entities alongside past and present ones, such as the first child to be born in the year 2100. While all moments of time exist, only one is illuminated by the spotlight of the present, which moves along the temporal dimension, lighting up one moment at a time.
+
+\_\_\_
+
+Philosophers have traditionally assumed that if the present is absolute, it must be *unique*: there can be only one privileged temporal perspective, locating the present at a single region of reality. But what if this assumption is mistaken?
+
+\_\_\_
+
+But how does the idea of an *absolute present* fare in the context of modern physics? [Not very well, it would seem](https://iai.tv/articles/the-extraordinary-consequences-of-einsteins-universe-auid-2347). To see why, consider the classic train thought-experiment, often used to illustrate the relativity of simultaneity. An observer stands in the middle of a wagon moving at constant velocity. They hold two lamps, one aimed at a sensor at the back of the wagon and the other at a sensor at the front (see Figure 1).
+
+![Einsteins block universe Image 1](assets/Uploads/Einsteins-block-universe-Image-1.webp)
+
+*Figure 1*
+
+If the observer switches the lamps on simultaneously, the light from each lamp reaches its target at the same time. From the observer’s perspective inside the wagon, the two detection events—call them A (at the rear) and B (at the front)—are simultaneous. Now consider these events from the perspective of an observer standing on the platform as the wagon passes by (Figure 2).
+
+![Einsteins block universe Image 2](assets/Uploads/Einsteins-block-universe-Image-2.webp)
+
+*Figure 2*
+
+From this frame of reference, the wagon is moving forward. When the lamps are switched on, the rear sensor is moving *towards* the light aimed at it, while the front sensor is moving *away* from the light headed in its direction. Since the speed of light is invariant—independent of the motion of its source—the light reaches the rear sensor before it reaches the front one. From the platform observer’s point of view, event A occurs *before* event B. Whether A and B are simultaneous depends on the observer’s state of motion. Simultaneity, far from being absolute, is *relative*.
+
+One might think that one of these perspectives must still be *the* correct one—the perspective that captures the true temporal relations between events. However, relativity leaves no room for such a hierarchy. Both descriptions are equally accurate. There is no privileged frame from which facts about simultaneity are fixed once and for all. And here the problem for the dynamic theory of time comes into sharp focus. If different, equally legitimate perspectives disagree about which events are occurring *now*, how can there be a single, objective present? If [physics itself refuses to single out a privileged temporal standpoint](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607), how can the dynamic theorist continue to insist that reality is fundamentally organized around one?
+
+[![related-video-image](https://iai.tv/assets/Uploads/263-What-Einstein-Got-Wrong-About-Time-HowTheLightGetsIn-Hay-2024-cop2y.webp)
+
+SUGGESTED VIEWING
+What Einstein got wrong about time
+With Avshalom Elitzur](https://iai.tv/video/what-einstein-got-wrong-about-time-avshalom-elitzur)
+
+To balance the books, [some philosophers draw a distinction between a *strong* and a *weak* interpretation of relativity theory](https://academic.oup.com/book/49771/chapter-abstract/422038788?redirectedFrom=fulltext). After all, the argument goes, relativity is a highly sophisticated mathematical framework, and like any such framework it requires philosophical interpretation. On the *strong*—or *metaphysical*—reading, relativity theory is taken to tell us something directly about what exists. Read in this way, the theory implies that there are simply no absolute facts of simultaneity: reality itself does not single out a unique global present. On the *weak*—or *epistemic*—reading, by contrast, relativity theory is officially neutral on questions of ontology. Properly understood, it is a theory about what can be observed, [not about what ultimately exists](https://iai.tv/articles/science-does-not-describe-reality-auid-2724). Due to the nature of the physical laws, no possible experiment could ever reveal which of the many frame-dependent simultaneity relations corresponds to the absolute one—*if* there is such a thing. The strategy behind this move is clear. If one adopts the weak reading, relativity theory no longer stands in direct conflict with the dynamic theory of time. The relativistic prohibition concerns empirical access, not metaphysical reality. This leaves room, at least in principle, for the defender of a dynamic conception of time to maintain that absolute facts of simultaneity do exist, even if they are forever hidden from observation.
+
+While undeniably ingenious, this solution is not the only one. *Fragmentalism*—a novel and highly debated philosophical view—offers a genuinely different way of thinking about time, perspective, and physical reality. [First proposed by Kit Fine in 2005](https://doi.org/10.1093/0199278709.001.0001), fragmentalism takes all the simultaneity relations defined relative to different inertial frames to be *equally absolute*. The view starts from a simple yet radical observation. Philosophers have traditionally assumed that if the present is absolute, it must be *unique*: there can be only one privileged temporal perspective, locating the present at a single region of reality. But what if this assumption is mistaken? What if the present is absolute without being univocal—absolute, yet *multiply realized* across distinct frames of reference?
+
+Return once more to the train thought-experiment. A traditional dynamic theorist would argue that, among the various simultaneity relations involving events A and B, there is a single absolute one. Fragmentalism treats this insistence as a red herring. On the fragmentalist view, a fully adequate dynamic description of reality must include *both* of the following claims: that A and B are absolutely simultaneous, and that—equally absolutely—they are not.
+
+How is this possible? The key idea is that facts do not stand in isolation. Mutually compatible facts naturally cluster together. These clusters form the so-called *fragments* of reality. Each fragment can be understood as a temporal perspective: a maximally coherent way of carving up reality into present, past, and future. Each fragment delivers a coherent account of which events are present and which are not, even though different fragments disagree with one another. For example, no fragment includes both the fact that A and B are simultaneous and the fact that A and B are not. Reality taken as a whole, however, is not exhausted by any single fragment. Instead, it comprises a [plurality of fragments](https://iai.tv/articles/consciousness-reveals-reality-cannot-be-described-auid-3151) whose contents are mutually incompatible.
+
+\_\_\_
+
+Fragmentalism opens the door to a radically different understanding of time: unfolding across a reality fragmented into multiple, equally absolute presents.
+
+\_\_\_
+
+This raises a natural worry about language. If reality is fragmented into mutually incompatible perspectives, how can we meaningfully describe reality at all without falling into contradiction? The literature offers several ways of responding to this worry. My own approach is to distinguish between ordinary discourse and metaphysical theorizing. Ordinary discourse is always embedded within a fragment and concerns which facts *obtain* relative to that perspective. Metaphysical theorizing, by contrast, addresses a different question, namely, which facts *constitute* reality in its entirety. When we ask how reality is constituted from no particular perspective, we are no longer asking which facts obtain, but rather which facts constitute reality as a whole, and this latter question admits of a non-relative, global answer. Of course, this global answer yields a reality composed of mutually incompatible facts—such as the fact that A and B are simultaneous and the fact that they are not. This, however, does not amount to the admission of outright contradictions, such as A and B being *both* simultaneous and not simultaneous. The reason is that no fact can constitute reality unless it obtains relative to at least one fragment, and all fragments are internally coherent. This squares neatly with our experience. We do encounter transitions that would be incoherent if taken together—such as having been standing a few minutes ago and now being seated—but never simultaneously. No one ever experiences me as both sitting and standing at once. In other words, experience never escapes a specific perspective: the internally coherent fragment in which we in fact find ourselves. Experience and the description of reality, however, should be kept distinct. The fact that *experience* is always perspectival—as in ordinary discourse—does not preclude offering a *description* of time in its totality, as in metaphysical theorizing: one that abstracts away from any particular experiential standpoint.
+
+In recent years, fragmentalism has attracted increasing attention, sparking discussion about its applications far beyond the philosophy of time. Among the works I have devoted to developing this framework, I focus here on [*Fragmenting Reality*](https://www.bloomsbury.com/uk/fragmenting-reality-9781350235359/) (Bloomsbury, 2022), co-authored with Giuliano Torrengo. In that book, we argue that fragmentalism enjoys a crucial advantage over other dynamic theories. Unlike its rivals, fragmentalism does not merely take temporal passage as a primitive feature of the universe; it provides an *explanation* for it. By admitting only a single present, located at a single region of reality at once, classical dynamic theories can do little more than postulate an intrinsic dynamism in the nature of the present itself. After all, given their picture, what could they appeal to other than the only moment that is, in fact, present?
+
+Fragmentalism departs from this picture by allowing the present to be *multiply realized* across reality. A few minutes ago, I was drinking a coffee. Now I am writing these words. In a few minutes, I will be walking outside. If fragmentalism is correct, then reality as a whole contains all the facts involved in this description as *absolutely present*, each within its own fragment. This multiplicity of presents is precisely what enables a distinctive account of the flow of time, in terms of temporal “pushes” and “pulls.” Consider the transition from my drinking a coffee to my writing these words. There exists a fragment, which is in the past from my point of view, in which it is absolutely present that I am drinking a coffee and absolutely future that I am writing. Precisely *because* such a fragment exists, reality is pushed away from it, towards a fragment in which writing these words is absolutely present and drinking the coffee is absolutely past. Likewise, the existence of a fragment in which it is absolutely present that I am walking outside and absolutely past that I am writing—which is in the future from my point of view—exerts a pull towards that fragment. While research on this topic continues, fragmentalism opens the door to a radically different understanding of time: unfolding across a reality fragmented into multiple, equally absolute presents.

@@ -1,0 +1,79 @@
+---
+title: "How (and why) to choose your philosophy of life"
+subtitle: "A philosophical guide for living a good life"
+author: "Massimo Pigliucci"
+date: "11th February 2020"
+article_id: "1308"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,150 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-02-11.howtoliveagoodlife.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-and-why-to-choose-your-philosophy-of-life-auid-1308"
+---
+
+# How (and why) to choose your philosophy of life
+
+*A philosophical guide for living a good life*
+
+**By Massimo Pigliucci** | *11th February 2020* | *Read time: approx. 11 mins* | *2,150 words*
+
+![How (and why) to choose your philosophy of life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-02-11.howtoliveagoodlife.ata.webp)
+
+---
+
+*How To Live A Good Life: A Guide To Choosing Your Personal Philosophy, edited by Pigliucci, Cleary and Kaufman, is a new volume collecting together 15 philosophers’ stories of how and why they chose their life philosophies. Here, the editors explain why selecting a life philosophy is an important decision, and how they picked their own.*
+
+Socrates famously said that the unexamined life is not worth living. Clearly, that’s an exaggeration. Nevertheless, some philosophers have argued that if we don’t pay attention to why we live in a certain way rather than any other, we risk “misliving” our only life, getting to the end of it, on our proverbial death bed, and thinking: “shoot, I wasted it!” Or, as Tolstoy’s Ivan Ilych puts it: “Maybe I did not live as I ought to have done… But how could that be, when I did everything properly?”
+
+In order to save you from Ilych’s fate, the three of us have asked 15 philosophers to write about their own life philosophy (or religion). Not just in terms of theory and doctrine, but especially with regard to how they practice it and what kind of impact it has made on their lives. Responses included ancient philosophies from the East (Buddhism, Confucianism, Daoism); ancient philosophies from the West (Aristotelianism, Stoicism, Epicureanism); religious traditions (Hinduism, Judaism, Christianity, Islam, Ethical Culture); and modern philosophies (Existentialism, Pragmatism, Effective Altruism, and Secular Humanism).
+
+But wait a minute: basic research in psychology clearly shows that too many choices have a paralyzing effect, so isn’t this a bit too much of a smorgasbord? To put it even more clearly: how, exactly, does one go about choosing a philosophy of life? By what criteria? How do we avoid “buyer’s regret,” if we make a choice and then are not happy with it? Speaking of happiness: how does it enter into it? Is it really the business of a life philosophy to make us happy? Does the concept of happiness even make sense? Let’s try to put some order upon the matter, and address three specific issues: the nature of a life philosophy; whether happiness is the goal of such a philosophy; and how to go about choosing one.
+
+A philosophy of life is defined as having, at a minimum, two components: a metaphysics and an ethics. A metaphysics is an account of how the world hangs together. An ethics is an account of how we should live in the world.
+
+A philosophy of life is defined as having, at a minimum, two components: a metaphysics and an ethics. A metaphysics is an account of how the world hangs together, so to speak. For instance, the Epicureans thought the world was made of atoms randomly bumping into each other, while the Stoics believed in an orderly, deterministic universe regulated by laws of cause and effect.
+
+An ethics is an account of how we should live in the world. For instance, Buddhists follow the eightfold path: right view (actions have consequences, death is not the end, etc.); right intention (adopting a life that follows the eightfold path); right speech (no lying, no rude speech, etc.); right conduct (refraining from killing sentient beings); right livelihood (making one’s living in an ethical manner); right effort (preventing the arising of unwholesome states); right mindfulness (being mindful of Buddhist teachings); right *samadhi* (practicing meditation).
+
+Often, but not always, life philosophies also include a set of practices, for instance different kinds of meditation in Buddhism (meditation on breadth, loving-kindness meditation), or a combination of cognitive exercises of self-reflection (e.g., philosophical diary) and mild exercises of self-negation (e.g., fasting) in Stoicism. Defined this way, all religions are a kind of philosophy of life, since they include both a metaphysics and an ethics, and often some kind of practice. Christians, for instance, believe that the world was created by a benevolent and omnipotent God who exists outside of space-time (metaphysics); that we should love other people as brothers and sisters, including our enemies (ethics); and that we should meditate on scripture and pray (practice).
+
+The word “happiness” is a slippery one. Do we mean a feeling of elation, such as we may experience when a piece of good news comes our way? Or do we mean a more cognitively mediated broad sense that our life is meaningful and going in the right direction?
+
+Part of what it means to become an adult is to take responsibility for our own choices, forging our individual path through life.
+
+Philosophies of life and religions are most definitely not about the first sense of happiness. Some do speak to the second one, others don’t. For instance, all the Greco-Roman “eudaimonic” schools (eudaimonia is the Greek word often mis-translated as happiness) purport to teach us how to live a meaningful life, the kind of life that Ivan Ilych would not find disappointing once he got to the end of it.
+
+For Epicureans, despite their ill-deserved reputation as the drugs-sex-and-rock’n’roll of philosophy, the goal is to live a life without pain, physical or mental. For Stoics it is to use reason in order to improve the human cosmopolis, that is, society at large. And Buddhists very clearly distance themselves from the whole happiness business (despite the unfortunate title of a Dalai Lama bestseller), since the goal for them is to reduce suffering among all sentient creatures.
+
+In many cases, it turns out, the initial choice is actually made for us at birth. We are born and grow up within a family that has adopted a particular religious (and occasionally non-religious) tradition. That said, part of what it means to become an adult is to take responsibility for our own choices, forging our individual path through life. Let’s briefly examine three case studies, involving the three authors of this article.
+
+Skye stumbled on a philosophy book that changed her life while studying business. Feeling pulled along the standard conveyor hurtling towards marriage and babies, she had been wondering whether that really was the formula for living happily ever after — especially as she was seeing so many miserable and collapsing marriages around her. In an MBA class on boardroom dynamics, a professor started discussing existential philosophy, which emphasized freedom, choice, and responsibility. Skye was intrigued and asked for more. The professor recommended Simone de Beauvoir’s novel, *The Mandarins*.
+
+Skye found that Beauvoir’s characters were dealing with questions similar to those she was facing, in particular, how should we love? Her internalized assumptions about finding “the One” were swiftly dismantled. “There is no timeless formula which guarantees all couples achieving a perfect state of understanding,” Beauvoir wrote, “it is up to the interested parties themselves to decide what sort of agreement they want to reach. They have no a priori rights or duties.” Beauvoir’s ideas about authentic relationships — based on [reciprocal recognition of one another’s freedom](https://iai.tv/articles/what-is-authentic-love-a-view-from-simone-de-beauvoir-auid-918) — sounded like a much better idea than the Disney-style romantic narrative that Skye had been brought up with. While Skye isn’t officially an existentialist (apparently, philosophers shy away from that label, including Beauvoir), she has found that a valuable feature of living a good life is working towards creating authentically meaningful relationships — not only with her significant other, but with friends and family too — based on respect, reciprocity, and generosity.
+
+Beauvoir’s ideas about authentic relationships — based on reciprocal recognition of one another’s freedom — sounded like a much better idea than the Disney-style romantic narrative.
+
+Massimo was actively searching for an answer to the question of how to live a meaningful life as a result of a midlife crisis, and found it, of all places, on social media. His life and career were going swimmingly, until, just when he turned 40, he was hit by a number of setbacks: his father died, his wife divorced him, and he had to move to another city. All in the span of a few months. Luckily, this was also the time in his life when he had gone back to graduate school to study philosophy, so he naturally thought the discipline devoted to the love of wisdom was the most likely to provide an answer to the question of how to move forward.
+
+Massimo quickly realized that such answer — for him — lay somewhere in the ballpark of Greco-Roman virtue ethics. He began with the mandatory starting point, Aristotle, but found him a bit too elitist. After all, he claimed that a eudaimonic life requires not just virtue (i.e., working on one’s character to become a better person), but also a bit of education, health, wealth, and even good looks. Good looks? Oh well.
+
+The next stop was Epicureanism, which Massimo found attractive because of Epicurus’ views on death and the afterlife (there isn’t any, so don’t let the priests scare you with bugaboos), as well as an atomistic metaphysics that foreshadowed modern science. Alas, the above mentioned Epicurean goal of living a life without pain entails doing away with social and political commitments, since they are painful (as anyone who pays the slightest attention to the news is well aware). That was a deal breaker for Massimo.
+
+Finally, one day he was lazily browsing through his Twitter feed when he saw something that said “Help us celebrate Stoic Week!” Stoic Week? What on earth is that? And why would anyone want to celebrate Stoicism? But he remembered that he had read [Marcus Aurelius](https://iai.tv/articles/marcus-aurelius-the-unemotional-stoic-auid-1227)’ Meditations when in college, and even translated Seneca from Latin in high school. He just had not put two and two together before and looked at Stoicism as a kind of life philosophy. So Massimo signed up, started reading about, and practicing, Stoicism, and [the thing hit him immediately as exactly right](https://iai.tv/video/how-to-be-a-stoic-massimo-pigliucci). He was particularly struck by the bluntness and humor of Epictetus, a slave-turned-teacher who was the major influence on Aurelius, the emperor-philosopher. Several years later, Massimo is still practicing, and at least his friends and family seem to think he has made some progress toward becoming a slightly better human being.
+
+Choosing one’s philosophical path through life is the result of a complex intertwining of factors.
+
+Dan’s case is somewhat different.  His sense of meaning and purpose in life was never something over which he felt particularly conflicted or unsure. From an early age, he felt deeply connected to his family and his family’s experience as German and Hungarian Jews who survived the Holocaust; who helped build and then made new lives in the then-brand new state of Israel; and who finally came to make yet another new life in the United States and specifically, the Long Island of the 1950’s. Dan never once doubted that he wanted a family and children of his own, and from the time he decided to become a philosophy professor, he never really wavered from the path of writing, teaching and engaging in both academic and public discourse.
+
+In a sense, Dan has always been an instinctive Aristotelian: he always conceived of his own flourishing and fulfillment in terms of his relationships, whether to his wife, daughter, parents and extended family, Israel, Long Island, the Jewish people, and even his generation (he is a proud and vocal Gen-Xer); his role as a teacher of students; and as a participant in the public discourse of his time and place. He never did — and still doesn’t — conceive of his flourishing as an individual affair or in any way self-sufficient, but as something always in full connection to people, time, and place. He married and started a family of his own. He became an academic. He developed a platform as a public intellectual. And thus, over time, his instinctive, tacit Aristotelianism slowly transformed into what is now a more explicit and active one.
+
+These examples demonstrate that choosing one’s philosophical path through life is the result of a complex intertwining of factors. We can’t help being born into, and influenced by, a particular culture, language, and historical moment. But many of us — at least in areas of the world where literacy and education are at decent levels and one is not facing war, famine, or natural disasters — are also capable of critically reflecting on whatever we inherited from our parents and culture at large, asking ourselves whether the particular philosophy or religion in which we automatically found ourselves is really one that makes sense for us.
+
+The premise of *How to Live a Good Life* is that, in the end, there are several reasonable answers to how to consciously and deliberately live your life. Then again, there are also a number of bad answers to that very question, and taking some time to reflect on it will indeed make it less likely for you to mislive.
+
+*[How To Live A Good Life: A Guide To Choosing Your Personal Philosophy](https://www.penguinrandomhouse.com/books/604070/how-to-live-a-good-life-by-edited-and-with-an-introduction-by-massimo-pigliucci-skye-cleary-daniel-kaufman/) is available now from Penguin Random House*
+
+*If you want to hear from leading thinkers like this debating renowned philosophers, cutting edge scientists, headline-making politicians, and beloved artists, come to [HowTheLightGetsIn Hay 2020](https://howthelightgetsin.org/hay) for four days of debates and talks alongside music, comedy and parties.*

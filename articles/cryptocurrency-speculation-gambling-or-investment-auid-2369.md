@@ -1,0 +1,77 @@
+---
+title: "Crypto: gambling by disguise"
+subtitle: "The paradox of cryptocurrency"
+author: "Paul Delfabbro"
+date: "25th January 2023"
+article_id: "2369"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "2,041 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gambling-article2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/cryptocurrency-speculation-gambling-or-investment-auid-2369"
+---
+
+# Crypto: gambling by disguise
+
+*The paradox of cryptocurrency*
+
+**By Paul Delfabbro** | *25th January 2023* | *Read time: approx. 10 mins* | *2,041 words*
+
+![Crypto: gambling by disguise](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gambling-article2.webp)
+
+---
+
+*There is a paradox for crypto researchers, its touted as the best new investment where you can make 100 times your contribution. And whilst some large firms and investors have entered the market the majority are uninitiated retail investors betting big from their smartphones. But this looks like gambling, argues psychology professor Paul Delfabbro. We need clarification just what people are doing with crypto, are people betting big on the future of the internet or simply gambling in a new form on their phones.*
+
+Whatever your viewpoint, there is no question that cryptocurrency is here to stay and the industry is rapidly growing. In many ways, the activity has become almost a symbol and argument point that sits at the juncture of many current political debates about centralisation; privacy; and the best ways to store and transfer value between individuals. On the hand, for people such as me who work in the field of psychology, cryptocurrency is another risk-taking behaviour which needs to be investigated so we can understand how this technology affects consumers. Part of this involves understanding how to classify it. Is it a form of gambling, speculative trading or a form of investment?
+
+At a broad level, crypto purchasing shares much in common with other forms of speculative trading as well as gambling. People stake something of value usually money on an outcome which is uncertain and this is a key element of gambling. People hope that the price of the coins or tokens will appreciate rapidly and lose money when the tokens go down in price. However, Bitcoin is also an asset which has appreciated considerably in price over the last decade in a systematic way from a few dollars, to a few hundred dollars to as high as $US69,000 in 2021. Even now as I write this article, the price is over $23,000 which is almost eight times higher than its lows in as little as three years ago. It is immediately evident that crypto-currency is something of a paradox. Some elements appear to imply gambling and high-risk speculation; others would point to an appreciating asset class which has massively outperformed gold over the last 15 years. To me, this is what makes this area particularly fascinating, hard to classify, and a topic of continual interest to crypto enthusiasts and researchers. It is therefore perhaps instructive to explain why it potentially could sit in each of these categories, or perhaps at the juncture of all three.
+
+[![20 12 09.Addicted to technology](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/20-12-09.Addicted-to-technology.webp)
+
+SUGGESTED READING
+Addicted to technology
+By Bernadka Dubicka](https://iai.tv/articles/addicted-to-technology-auid-1713)
+
+Let’s start with gambling. For something to be classified as gambling, it is usual for the outcomes to be largely governed by chance. Is this the case with crypto? There is no question that, amidst the crypto mania of 2021 people were throwing large amounts of money into “meme coins” and speculative projects about which they knew little. Meme coins (e.g., Dogecoin) are tokens which usually do not have any fundamental use, but which are marketing based on their catchy name or motif (e.g., often cute animals such as dogs and cats). To the extent that this behaviour is often based on limited research, a high chance of win or loss, it looks like gambling (the price often follows a characteristic “crash and burn” curve).
+
+Little seems to separate this behaviour from putting money on a random unresearched horse in a race. But even here, we need to apply some qualifications and point out some differences from conventional wagering. An important difference is that much of the price action in crypto is driven by social media. Speculative meme tokens are not only “pumped” and “hyped” by social media influencers, but they often have their origins in social media. Indeed, alert meme token “investors” can learn that there is a potential strategy for gaining an edge on other buyers.
+
+Hint and information about the drop of a new token is often introduced on social media platforms such as Discord, Telegram or Reddit*.* So, if one was: (a) a member of these communities or a frequent visitor and (b) alert to see that tokens with larger “communities” probably have a ready market, there are arguably potential strategies which can be used to pick which meme coins to buy early. In this sense, it is probably not possible to say that the crypto market is entirely chance-driven, but it would be true that the majority of people who speculate on meme coins probably do not engage in any research. For them, it is effectively a form of gambling.
+
+\_\_\_
+
+Crypto-currency markets differ from conventional markets is that they run 24 hours per day and on weekends. This encourages people to engage with the activity during times when they probably should be sleeping
+
+\_\_\_
+
+However, if crypto is not always gambling, then it is probably nearly always speculative investment. Crypto prices often move in tandem with speculative stocks and most notably the NASDAQ index, particularly when there is economic uncertainty (e.g., in 2022). Even Bitcoin which has demonstrated its resilience and ability to rise from numerous mainstream media deaths over the last decade, is highly volatile. It can lose 80% or more of its value in bear markets and this means that anyone with a short-time investment horizon can experience deleterious impacts on their financial wellbeing. Other coins and tokens commonly lose 90-99% of their value in bear-markets and the majority either disappear or become worthless.
+
+While experienced swing traders place orders at the rise and fall of prices, scooping out gains based on the analysis of resistance and support levels, candles and lines, the everyday retain investor is probably unprepared for the barrage of information confronting them in this market. Prices move rapidly and unexpectedly; new projects are entering and existing the market all the time; and people are confronted with the over-abundance of choice. Social media is awash with thumbnails from influencers who are encouraging them to buy tokens which are touted to increase by 100X.
+
+Crypto-currency markets differ from conventional markets is that they run 24 hours per day and on weekends. This encourages people to engage with the activity during times when they probably should be sleeping. Those who engage in the activity report spending a lot of time watching the charts and the balance of their portfolios which can fall as much as 40% in a few days, even in a bull-market. In these times, it will be possible to watch many token prices making parabolic rises, so there is a continual awareness of potential missed opportunities. At the same time, crypto holders must confront their own decisions about when to sell when their own token starts to rise rapidly. This situation creates a great deal of psychological tension that builds upon well-known psychological principles relating to people’s anticipated regret following decisions.
+
+[SUGGESTED READING
+Addiction is not just a medical problem
+By Nina Christie](https://iai.tv/articles/addiction-is-not-just-a-medical-problem-auid-2048)
+
+This work shows that people experience more regret for things they do (acts of commission) (e.g., selling) than acts of omission (e.g., failing to buy), but both actions seem to be strongly in force in crypto markets. In effect, this encourages people to jump into tokens which have rising prices or not sell when they are well ahead. An issue of concern is that such biases are known to be present in gambling and even more so in people classified as having problems with gambling; and cryptocurrency appears to be correlated with both variables in studies which we (and others) have undertaken. For this reason, I believe that problems with crypto will be an increasing issue which will be confronting help-services currently designed to help people with gambling problems.
+
+Despite all these qualities, cryptocurrency is nonetheless emerging as an emerging asset class that is being given some attention by serious and large-scale institutional investors. For these people, it is an investment and not just a form of short-term speculation. This serious side to crypto in a way highlights some of the greatest and most interesting paradoxes. Here we have a class of activity that is highly volatile, full of scams and questionable operators, which attracts some of the most impulsive and speculative form of financial activity in any market. However, the movement of these markets over a longer period has proved to be highly predictable. Bitcoin follows a 4-year cycle in which its value appears to increase rapidly after its halving (when the rewards from mining are halved). Those who know this buy in the bear markets in between and then sell when the market rises. Such people must subject themselves to years of poor price action, project collapses, endless negative news (“Bitcoin is dead”) in the mainstream media and quite often the scorn of friends and family.
+
+The great irony is that the very qualities which seem to be absent in the stereotypical depiction of crypto trading (patience, reliance and long-term perspective) appear to be the main strategy for success in these markets. Those who buy Bitcoin when there is only gloom in the market and who sell when the price of Bitcoin is making the news are adopting the strategy of the long-term investor. For these reasons, it could therefore be argued that cypto investing as practised by those who have been successful over many years and who continue to remain in the market are investors and not speculators. Cryptocurrency therefore has the curious distinction of being able to be classified under all three headings. It is always speculative (Bitcoin is always under regulatory attack); often looks like gambling, but it is clearly a long-term investment for many people.
+
+\_\_\_
+
+We have a class of activity that is highly volatile, full of scams and questionable operators, which attracts some of the most impulsive and speculative form of financial activity in any market
+
+\_\_\_
+
+What does this mean? To my mind, the mainstream media does a great disservice to the community in much of what is written about cryptocurrency. Simplistic references to Dutch tulip mania; Rolex-wearing crypto-billionaires; the lack of inherent value of crypto-tokens; the falling price of Bitcoin, fails to capture the complexity and diversity of this emerging asset class. There are many who have done very well in this market and many reasons why it is likely to continue to succeed. However, there is clearly a need to educate and assist the unwary retail investor. Most people who enter this market do so when the price parabolas are getting close to their peak. As a result, even when they see and believe that they are making money, they are more likely than not just exist liquidity for those who are exiting the market. Risks arise because people are not psychologically prepared for the pace and intensity of these markets. There is no time to plan a strategy to get in and then out of the market.
+
+Instead, they become like gamblers placing all of their stake often on a single occasion. If the token goes up rapidly, they experience the early win reinforcement effect of the lucky gambler and this encourages further and often larger stakes. If it goes down, they wait to see if it will rise again even though it can sink to zero. Volatility is often seen as the attractive feature of this market, but it is also greatest challenge to people’s financial decision-making and psychological stamina. It plays on every human emotional and cognitive weakness: people’s greed; their FOMO (fear of missing out); their inability to stop when they are ahead; and, tendency to sell at a loss due to their fear that low prices signal the complete collapse of the asset. On top of this, there is psychological and social risks: the time spent studying the charts, often even in the early hours of the morning; and the often false believe that others (most notably family members and partners) share the same interest in the up and down movement of highly volatile assets.
+
+In my view, there is a clear need for more balanced and informative reporting of this asset class. Some of this should include discussion of longer-term and safer strategies that should be applied to investing, particularly as this asset class grows in popularity. Particular points to emphasise include: understanding of the market cycles; investment strategy; safe storage; the importance of knowledge about the risks and scams; research and fundamentals; and, how to make sense of, and block out, a sea of information that may not always have the best interests of consumers at heart.

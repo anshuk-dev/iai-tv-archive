@@ -1,0 +1,51 @@
+---
+title: "Coronavirus! The Movie"
+subtitle: "Living through a real life drama"
+author: "William Nicholson"
+date: "Issue 87, 26th March 2020"
+article_id: "1389"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,273 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-03-26.nicholsoncoronavirusthemovie.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/coronavirus-the-movie-auid-1389"
+---
+
+# Coronavirus! The Movie
+
+*Living through a real life drama*
+
+**By William Nicholson** | *Issue 87, 26th March 2020* | *Read time: approx. 6 mins* | *1,273 words*
+
+![Coronavirus! The Movie](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-03-26.nicholsoncoronavirusthemovie.ata.webp)
+
+---
+
+Yes, of course there’ll be a Covid-19 movie, as soon as they can find a film crew not in self-isolation, but meantime, how are you enjoying the crisis?
+
+Is it permitted to even ask the question? Our whole world has been turned upside down, you or someone you love may die prematurely, when it’s over we’re all going to be a lot poorer. So how is it you feel more intensely alive than you have done in years?
+
+Because suddenly we’re living in a drama. By which I mean one of those stories we watch on Netflix, or in the cinema. Our life now comes with what we in the screenwriting business call inciting incidents, character arcs, plot beats and climaxes. We track the unfolding story agog, not knowing what tomorrow will bring, and that alone delivers a buzz of excitement to life. Add to that a very real dread as we contemplate the collapse of our safe world, and the stakes get high indeed. We all know how different it is when you’re ‘inside the story’, when you watch a drama about something you’ve personally experienced, divorce, say, or cancer. It connects, and hurts, and if it’s good it’s cathartic. Now we’re all inside the story, and – such a great and terrifying plot device – we don’t know how it’s going to end.
+
+Now we’re all inside the story, and – such a great and terrifying plot device – we don’t know how it’s going to end.
+
+This is a car crash. We’re on the motorway and the crash is on the other side and we’re slowing down to look. Why? Because we think we might see a mangled body, some blood on the tarmac, at the very least a covered stretcher by an ambulance. Our better selves disapprove of this, it smacks of *schadenfreude*. Rubber-necking isn’t cool, and it slows down the traffic. But the truth is, it’s a necessary impulse. We want to touch these rare moments of injury, pain, death, because we need to know what it’s like, we need to imagine in safety the terrors we fear and avoid. There’s superstition here as well, the secret belief that we deserve to suffer, and that this other suffering, beyond the central reservation, is our own punishment transferred to someone else. You can build religions on this story-line. God sends his son to die in agony for our sins. I’ve never quite seen the sense of that plan from God’s point of view, but from our point of view, yes, please let someone else do the suffering while I watch.
+
+[Stanley Fish, Renata Salecl and Sophie Fiennes discuss seductively simple stories](https://iai.tv/video/killer-stories "Watch more videos on iaitv")
+
+I’ve spent a career wrangling story-lines, which may seem an odd way to describe writing stories, until you go through the movie development process. Wrangling it is. As a writer I’m challenged, called upon to justify, improve or cut each story beat, in the interests of maintaining maximum dramatic power. Unsurprisingly I find myself looking on the whole Coronavirus crisis as a story, complete with twists, shocks, and character reveals. But here’s the thing: so does everyone else. We’re all communicating with each other like crazy, exactly as if we were all sitting in front of a gripping television series, sharing our responses and making guesses about what’s going to happen next. I’m in the habit of justifying what I do by saying that story-making is a deep human need. Life has no story, it’s random and unjust, it’s ungraspable and unfathomable. Stories by contrast tell us that there are causes and effects, crime and punishment, good and evil, and most of all, plot. And now, behold! Our daily life has a plot!
+
+People aren’t seduced by clever con men into believing this stuff, they’re gagging for it. They’re panic-buying it.
+
+Consider the conspiracy theorists. They’ve always been among us with their mad whispers that the earth is flat and Armageddon is coming, but since the explosion of the internet they’re everywhere, including in the White House. Don’t dismiss them as gullible fools: look instead at the benefits they get from their wild ideas. They get structure. They get meaning. In a world where they have no power, and their life is demeaning, they want to know why things are as they are, and who’s to blame. Modern culture with its exaltation of the self tells them it’s their own fault, just as it tells them they can be whatever they want to be if only they believe in themselves enough. This is of course a wicked lie, but no one is telling them that, so they feel like shit. They don’t like feeling like shit, so they look for another explanation for what’s going on. It’s the Deep State. It’s Russia. It’s the Jews. They want a story that makes sense of their world, and that gives them enemies. People aren’t seduced by clever con men into believing this stuff, they’re gagging for it. They’re panic-buying it.
+
+But you are a well-educated liberal and above such things. Except perhaps you’ve noticed a tendency over these last strange days to imagine a whole new society emerging from the ashes of the virus. The trains will be nationalised. Local communities will flourish. Neo-liberalism will be consigned to the dustbin of history. The self-aggrandising liars who’ve duped the voters will be exposed as bad leaders, and the grotesque inequality of the billionaire era will give way to a new age of reverse income tax. Who knows? It may happen. But be honest with yourself, this is just another conspiracy theory, though of a different ideological colour. It’s just *your* story.
+
+I believe in the power of stories. First you make it up – that’s the story; then you make it happen – that’s the revolution.
+
+I believe in the power of stories. First you make it up – that’s the story; then you make it happen – that’s the revolution. I want our society to change, and change radically, and for that to happen we need both a new story, and the breakdown of the old story. We’re living through one of those periodic moments when it feels like anything could happen. We’re entering a time of Story Wars. Will the shock of the pandemic lead to a return of the dictators, or to a return of the New Deal? Will we emerge kinder and fairer, or more selfish than ever? As a writer it’s my habit to construct my stories from the ending backwards: I work out where it’s all heading, and then rig the plot so it gets there as convincingly as possible. I have to know the ending in order to know how my characters need to behave to earn that ending. The trouble with the story we’re now living is we don’t know what the ending is going to be, so my method can’t work. But I want to believe that if we get our story out there soon and loud, it has a chance of becoming reality.
+
+I’m told the Chinese have responded to the pandemic with what they call ‘the hammer and the dance’. First you hit it hard, then you back off and allow the panic to disperse in a series of ripples, which gradually fade into nothing. What I like about this is the hammer part. Let’s build a story according to which this crisis reveals how we really want to live – more communally, more equally, more kindly – and strike with our story so hard that everyone gets it, and repeats it, and internalises it. Then comes the dance. Life resumes, but, we hope, in a better and more beautiful form.

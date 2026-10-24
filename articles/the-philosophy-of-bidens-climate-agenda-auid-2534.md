@@ -1,0 +1,73 @@
+---
+title: "The philosophy of Biden's climate agenda"
+subtitle: "The success of Biden's Inflation Reduction Act"
+author: "Friedbert Pflüger"
+date: "6th July 2023"
+article_id: "2534"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,179 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-408890224.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-philosophy-of-bidens-climate-agenda-auid-2534"
+---
+
+# The philosophy of Biden's climate agenda
+
+*The success of Biden's Inflation Reduction Act*
+
+**By Friedbert Pflüger** | *6th July 2023* | *Read time: approx. 6 mins* | *1,179 words*
+
+![The philosophy of Biden's climate agenda](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-408890224.jpg)
+
+---
+
+*The Inflation Reduction Act is the single largest piece of climate legislation in human history. It also employs a different philosophy to prior European attempts at climate policy. This fundamentally different epistemology is primarily responsible for the policy's success while European attempts have languished behind. Dr Friedbert Pflüger writes.*
+
+Climate policy poses an epistemic question. It asks us what we can know about the future—and whether we are in a position to make a judgment about it. How do we govern and regulate businesses given the inherent uncertainties of the energy transition? How can we know which technologies will allow us to effectively and efficiently fight climate change twenty years down the line?
+
+The United States and Europe provide two competing responses to these questions. In comparing America’s Inflation Reduction Act (IRA) with the past two decades of European climate policy, we can gain a better sense of how to meet our future economic and climate goals. Europe’s subsidy approach and the United States’ tax credit approach demonstrate a fundamental disagreement about epistemology, where market knowledge arises, and the limitations of policymakers.
+
+\_\_\_
+
+Given Germany’s former dependence on Russian gas, the importance of supporting a wide variety of energy technologies has never been more apparent.
+
+\_\_\_
+
+ Direct subsidies characterize much of Europe’s climate policy. However, wealthier European nations can doll out massive subsidies while poorer ones can barely fund any substantial climate policy. The EU’s recent relaxation of state aid regulations will only amplify this effect. In doing so, the EU fragments the European single market, which undermines the uniformity prized by green investors in Europe.
+
+To evaluate European climate policies, we ought to look back to the creation of Germany’s Renewable Energy Sources Act (EEG) in 2000. The EEG was a bold, admirable, and visionary idea for the energy transition. Its subsidy provisions kickstarted a worldwide revolution in solar energy. But, when more than €200 billion in subsidies are on the table, we must always ask—could we do better?
+
+The EEG did not fully utilize finance to extend its reach, which limited its leverage and ultimately the scope of the program. Considering the vast extent of the subsidies, the reduction in carbon emissions were a comparative pittance. By relying on subsidies to distribute funds, the EEG had to predict what technologies would be most viable in the distant future. Furthermore, once these decisions were made, they were locked in, limiting maneuverability in the wake of future developments. And in its subsidies, the EEG did not bet on all the right technologies. For instance, it predicted that geothermal energy would be more effective it has been, and it under subsidized offshore wind. It did not predict the extent to which the cost of solar energy would drop over the past two decades. These shortcomings combine to show both the extent and scope of our policies were inadequate. We should strive for ways to incentivize the energy transition without narrowing our potential sources of energy.
+
+Moreover, if we only subsidize a small set of renewable technologies, there can be grave geopolitical consequences. Energy security is a vital element of national security and geopolitical self-sufficiency. Given Germany’s former dependence on Russian gas, the importance of supporting a wide variety of energy technologies has never been more apparent.
+
+Ultimately, ad hoc subsidies do not provide an effective framework for energy policy. This is a lesson Europe should have only had to learn once. Now, with the United States’ Inflation Reduction Act, Europe is having to learn it twice.
+
+\_\_\_
+
+The United States’ approach to state interference is not a naive belief that the market can solve climate change but rather a recognition of the epistemic limitations of policymakers.
+
+\_\_\_
+
+The IRA allows the United States to overtake Europe as the economic leader of the energy transition. The key policy mechanism of the IRA is tax credits. This presents an alternative to the European reliance on subsidies. Unlike subsidies, tax credits do not require a costly, lengthy process of bureaucratic approval, and they do not cost taxpayers any money. Instead, tax credits provide market-based incentives that are more accessible to small and medium businesses.
+
+The IRA gives tax credits to a wide range of technologies, from carbon capture methods to electric vehicle manufacturing. Of particular interest are the tax credits for sustainable eFuels. Pioneers in the production of synthetic fuel are essential to moving away from fossil fuels and achieving climate neutral transportation. Not only do these eFuels utilize pre-existing fossil fuel infrastructure, they allow our cars to operate similarly. We can even potentially modify fossil fuel cars to run on eFuels, thereby limiting emissions in the production of new cars.
+
+Above all else, the IRA’s tax credits reveal a conviction in the emergence of new, renewable technologies—and the improvement of already existing energy sources. In contrast to the European crusade against bridge technologies, the IRA embraces improved, cleaner forms of blue hydrogen and nuclear energy. The energy transition cannot occur overnight, and improvement to legacy energy sources will form a vital component of our efforts to decarbonize.
+
+Already we can see the effect of the IRA on European investment and manufacturing. A wide variety of companies have already decided to move to the United States. For instance, large automobile manufacturers such as BMW and Volkswagen have invested billions in the United States due to the IRA. Major players in the energy industry such as Enel and Linde have ramped up their clean energy production in Texas, where they are joined by promising innovators in the renewables sector such as Tree Energy Solutions.
+
+This migration of European business shows how the IRA merges profitability with serious climate reform. The attractiveness of the American green industry directly ties the success of firms to the mitigation of climate change. In harnessing the market-power of green technology, the United States has already put itself on track to meet its commitments to climate goals by 2030. A statement that is not true of most of Europe at time of writing.
+
+A greener future is only possible if it is an economically viable future as well. The United States’ approach to state interference is not a naive belief that the market can solve climate change but rather a recognition of the epistemic limitations of policymakers. The United States has placed the market’s capacity for generating knowledge at the heart of its climate mitigation, granting policy the flexibility it requires to allocate resources to where they are most efficient.
+
+\_\_\_
+
+Europe’s subsidy approach and the United States’ tax credit approach demonstrate a fundamental disagreement about epistemology, where market knowledge arises, and the limitations of policymakers.
+
+\_\_\_
+
+Rather than betting on a narrow subset of technologies, the IRA embraces a wide array of renewable possibilities. Thus, the IRA should be a sign for Europe to exercise epistemic humility in its climate policy. Rather than using subsidies with an unwavering certainty that we know, in 2023, what is best for the environment in 2043, we might adopt a more open approach—that is, an openness to new technologies, to green innovation, and to a climate transition we do not yet fully understand. Our policy should set the direction of progress, not naively decide its outcome.

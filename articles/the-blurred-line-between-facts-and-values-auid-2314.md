@@ -1,0 +1,75 @@
+---
+title: "The blurred line between facts and values"
+subtitle: "Diagnosing the source of political disagreement"
+author: "Fabienne Peter"
+date: "23rd November 2022"
+article_id: "2314"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,314 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-blurred-line-between-facts-and-values-resized.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-blurred-line-between-facts-and-values-auid-2314"
+---
+
+# The blurred line between facts and values
+
+*Diagnosing the source of political disagreement*
+
+**By Fabienne Peter** | *23rd November 2022* | *Read time: approx. 7 mins* | *1,314 words*
+
+![The blurred line between facts and values](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-blurred-line-between-facts-and-values-resized.webp)
+
+---
+
+*Political arguments often seem to be about disagreements over what the facts are.  But when it comes to politics and even the edges of science, value judgements creep into what is otherwise presented as factual claims. If we are to correctly diagnose the source of political conflict, we must learn to detect when the line between fact and value has been blurred, argues Fabienne Peter.*
+
+Many agree with the recent Just Stop Oil protesters in London that much more needs to be done to mitigate climate change, but of course not everyone does. So what do the two sides disagree about? Is it a disagreement about facts, centring on different interpretations of the evidence relating to climate trends and their effects on our environment? Or is it a disagreement about values, centring on different opinions on how to weigh the burdens of unmitigated climate change to different groups of people and other living beings, or on how to weigh the costs and benefits of climate change policies? Most likely, it’s both. But it’s not always possible to disentangle the fact and value dimensions of political disagreement.
+
+Because facts and values tend to get entangled in our political views, many of our political disagreements are quite muddled. But if we are to correctly diagnose the source of political conflict, as well as when expert advice is guided by ideology, we must learn to detect when values creep into factual claims.
+
+[![culture war 4](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/culture-war-4.webp)
+
+SUGGESTED READING
+The culture war is killing progress
+By Frank Furedi](https://iai.tv/articles/the-culture-war-is-killing-progress-auid-2230)
+
+There are several explanations for the entanglement of facts and values in our political views. A first set of explanations focuses on the value-ladenness of factual statements. Factual statements are rarely value-neutral. Even simple factual statements involve a whole range of social conventions and norms. Consider, for example, the fact that I had my lunch at midday. Understanding what this claim implies involves conventions regarding the interpretation and measuring of time, norms around what a lunch meal might include, etc. Those social conventions and norms smuggle in values, for example, the value of social coordination, or the value of productivity. The relevant value judgments are so embedded in our everyday life that they go unnoticed. They may be innocuous, or widely shared amongst most of the people we interact with, but they have the potential to become a ground of controversy.
+
+\_\_\_
+
+Factual statements are rarely value-neutral. Even simple factual statements involve a whole range of social conventions and norms
+
+\_\_\_
+
+The facts that define our political context, say facts about how infectious diseases spread, or about the causes of poverty, are much more complex. And they are potentially even more value-laden as a result. Such facts tend to be the product of scientific inquiry, for example research in epidemiology or economics. But all scientific inquiry is heavily dependent on conventions and norms governing the process of scientific research. Those social conventions and norms are again channels for values, and those values are baked into the existing body of scientific theories. Scientific facts, as a result, are value-laden. Economic theories, for example, rely heavily on assumptions about rational behaviour, and those assumptions rest on value judgments about the interpretation of rationality and its relation to other values.
+
+Scientific inquiry should, of course, strive for objectivity. But feminist philosophers, in particular, have made us aware that it would be a mistake to think that scientific objectivity means science is values-free (e.g. Longino 1990, 2002; Toole 2022). The choice of which topics to inquire into, as well as how to conduct scientific inquiry, reflect the scientists’ value judgments about what is an interesting or important topic. Norms of scientific inquiry also incorporate value judgments. What counts as robust evidence for a hypothesis, for example? That judgment depends on cognitive values, but it may also depend on (often unacknowledged) background assumptions of the scientists. And those background assumptions depend, inter alia, on their social situation and their values (Haraway 1999).
+
+[![related-video-image](https://iai.tv/assets/Uploads/H22-192-thumbnail.webp)
+
+SUGGESTED VIEWING
+Overcoming tribal division
+With Isabel Hilton, Myriam François, Paul Dolan, Ella Whelan](https://iai.tv/video/overcoming-tribal-division)
+
+The values that shape scientific inquiry, even moral and political values, can be productive (Anderson 1995, 2004). Awareness of the potential threats from climate change may motivate more scientists to investigate this issue. Similarly, feminist research in medicine has enabled a better understanding of previously neglected women’s health issues. Because scientists are human beings with specific social backgrounds and value-orientations, there is potential for unwarranted social bias in scientific inquiry, however. Scientists need not try to advance their moral and political values through their research. But these values may still influence which problems they investigate and which findings they judge as being of political importance. If there is insufficient social diversity in scientific inquiry, then these value judgments may remain unquestioned. And this might mean that the factual statements of experts reflect an unwarranted social bias (e.g. Douglas 2009, Pamuk 2021).
+
+\_\_\_
+
+If the value judgments that are implicitly baked into the experts’ statements are preventing experts from seeing the full picture, then these need to be made explicit and brought to light
+
+\_\_\_
+
+As a result, political disagreements which, on the surface, appear to be about facts, may be driven by disagreements about underlying controversial value judgments. In the recent Flint water crisis, residents had to put on a prolonged political fight before experts took seriously the possibility that the tap water might be contaminated. The privileged social background of the experts was one factor that led them to dismiss this possibility. They continued to maintain that the residents’ claims were unfounded, even though the residents were correct all along. At least some political disagreements about Covid measures also concerned controversial value judgments embedded in the experts’ risk assessments. There were worries that public health experts had placed insufficient weight on values other than health. There were objections from the political left, on the grounds of neglect of economic security, and from the political right, on the grounds of insufficient attention to individual freedom. If the value judgments that are implicitly baked into the experts’ statements are preventing experts from seeing the full picture, then these need to be made explicit and brought to light.
+
+[![equality of power is a lost cause](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/equality-of-power-is-a-lost-cause.webp)
+
+SUGGESTED READING
+Equality of power is a lost cause
+By Richard Stivers](https://iai.tv/articles/equality-of-power-is-a-lost-cause-auid-2233)
+
+A second explanation for the entanglement of facts and values focuses to the context-dependence of many political value judgments. To be sure, there are political disagreements that concern pure value judgments. The recent row over the permissibility of abortion in the US may be a case in point. But many political disagreements tend to concern political problems that involve a mix of factual and evaluative concerns. And there is scope for disagreements on those issues even if there is no disagreement on the main values. In disagreements on Covid restrictions, for example, most people agreed that it would be wrong if millions died from avoidable causes. Yet they disagreed on the justification for those restrictions. An important driver of those disagreements were different assessments of the different risks of getting infected faced by different groups of people, or of the ability of the health system to cope with Covid patients. Some disagreements that on the surface look like disagreements about value – say about the value of freedom – may well be driven by disagreements about how to assess the relevant context. And disagreements about relevant political facts can mask an underlying agreement about values.
+
+Trying to disentangle the facts and value dimensions of political disagreements can be very challenging. But it is crucial for making progress in resolving political disagreements. There must be space to probe the background assumptions of scientific inquiry to avoid unwarranted expert dominance in politics. When factual claims reflect a social bias, insisting on the facts only reinforces our political blinkers. But we must also seek to identify the factual component of political disagreements. Otherwise, we might fail to spot agreements about values masked by disagreements over factual claims. And we shouldn’t reject relevant facts, say facts about climate change, on value grounds only. Especially if a lot is at stake, we need to make sure that we get the facts right and aren’t swayed by wishful thinking.

@@ -1,0 +1,91 @@
+---
+title: "The hidden risks of Neuralink"
+subtitle: "How brain enhancements could backfire"
+author: "Karina Vold"
+date: "16th December 2024"
+article_id: "3026"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,898 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/neuralink-piece.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-hidden-risks-of-neuralink-auid-3026"
+---
+
+# The hidden risks of Neuralink
+
+*How brain enhancements could backfire*
+
+**By Karina Vold** | *16th December 2024* | *Read time: approx. 9 mins* | *1,898 words*
+
+![The hidden risks of Neuralink](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/neuralink-piece.webp)
+
+---
+
+*Brain-computer interfaces from companies like Neuralink and Synchron promise unprecedented cognitive enhancement. But emerging research suggests that boosting specific mental functions may come with hidden costs – improving memory might impair decision-making, while increasing focus could reduce creativity. Aristotle's concept of virtue as balance between extremes shows us that we should beware of these tradeoffs and view optimum cognition as a system, not a superpower.*
+
+Neurotechnology is a major industry these days. The companies Neuralink, Synchron, and BrainGate are racing to develop Brain-Computer Interfaces (BCIs) for medical purposes as well as for everyday consumers, promising the hope of cognitive enhancement. The potential of BCI-driven enhancements are plentiful—from better memory and learning capacities, to increased sensory perception and emotional capacities–but their use also raises challenging new philosophical questions.
+
+For example, if a BCI turns out to be successful at dramatically improving our memory, learning capacities, or mindfulness, should we use it? Philosopher Julian Savulescu has argued that we have a [*moral obligation*](https://colab.ws/articles/10.1016%2Fs1472-6483%2810%2962202-x) to cognitively enhance human beings. Nick Bostrom and Anders Sandberg argue, more descriptively, that we *will* use cognitive enhancements: “[nature knows best](https://global.oup.com/academic/product/human-enhancement-9780199299720?cc=ca&lang=en&)”, they claim, and it is our human nature to try to improve ourselves. [In another piece](https://nickbostrom.com/cognitive.pdf), they further assert that “Most cognitive functions… are intrinsically desirable. Having a good memory or a creative mind is normally valuable in its own right.” But what if there can be too much of a ‘good’ thing? What if we can overfill on some traits? What if there are unforeseen cognitive side-effects to enhancement? Cognitive functions aren't independent variables that can be optimized in isolation—they're part of an interconnected system where changes to one element may have cascading effects on others.
+
+[![related-video-image](https://iai.tv/assets/Uploads/h23-15-iaitv-2.webp)
+
+SUGGESTED VIEWING
+Ancient traits in the modern world
+With Sunetra Gupta, Anders Sandberg, Subrena Smith, Güneş Taylor](https://iai.tv/video/ancient-traits-in-the-modern-world)
+
+Cognitive enhancement, the improvement or amplification of cognitive capacities, can be achieved through a range of means, including pharmaceuticals, genetic modifications, digital technologies, and even social systems, such as education. BCIs, as a kind of a digital ‘neurotechnology’, achieve this through a direct communication pathway between the brain and a computing device. “Direct” in this case means unmediated by the body, language, perception (eye movements), action (electrophysiological activity of the body), or any other form of signaling outside the brain.
+
+Some BCIs are more familiar and commonplace. Electroencephalogram (EEG) records electrical signals in the brain through electrodes, which are placed on the surface of the scalp. Functional Magnetic Resonance Imaging (fMRI) detects changes associated with cerebral blood flow and uses this as a measure of neuronal activity. Other BCIs don’t just read brain activity, but actually influence signals in the brain as well. Transcranial Magnetic Stimulation (TMS), for example, can be used as a measurement tool of cortical excitability, but can also be used to magnetically stimulate small regions of the brain.
+
+[![related-video-image](https://iai.tv/assets/Uploads/The-case-for-conscious-ai.webp)
+
+SUGGESTED VIEWING
+The case for conscious AI
+With Joscha Bach](https://iai.tv/video/the-case-for-conscious-ai)
+
+Another relevant distinction is the level of invasiveness of a device: noninvasive devices, like TMS, operate externally, and produce only a shallow magnetic field and, therefore, can only be used to affect surface regions of the brain; while invasive devices function from within the skull and, therefore, usually require some kind of neurosurgery. By operating under the skull (or ‘intracranially’), invasive techniques, such as electrocorticography (ECoG) and deep brain stimulation (DBS), can get a better signal read and can also stimulate areas deeper within the brain with greater precision and accuracy.
+
+Putting medical treatments aside, the major interest in developing BCIs stems from the belief that we can cognitively enhance ourselves in new and highly precise ways. Almost every core cognitive attribute is being targeted as a candidate for enhancement: memory (working memory, long-term memory, and episodic memory), learning, sensory perceptions, action, attention, self-control, mindfulness, emotion and affect. There are other ways in which cognitive enhancement is being pursued of course, for example, through pharmaceuticals (or ‘smart drugs’) and even through genetic engineering, but BCI-driven cognitive enhancement differs from other kinds of cognitive enhancements in a few key ways. While the effects of most (though not all) pharmaceuticals wear off and even dissipate entirely when the drug is no longer taken, it is unclear whether the effects of BCIs are reversible. The irreversibility of BCI-enhancements makes them more like genetic modifications. Compared to genetics, however, BCIs are more advanced in the degree to which researchers can narrowly target specific cognitive traits. And the bi-directional signalling capacities of BCIs allows for a unique set of enhancements that rely on feedback loops.
+
+\_\_\_
+
+Cognitive enhancement of one narrowly defined trait can occur at the expense of other cognitive functions.
+
+\_\_\_
+
+For the most part the cognitive costs of enhancement have not been studied. But [one 2013 study](https://www.jneurosci.org/content/33/10/4482) found evidence of a tradeoff: transcranial electrical stimulation (TES) to the posterior parietal cortex facilitated numerical learning, whereas automaticity for the learned material was impaired. And in contrast, stimulation to the dorsolateral prefrontal cortex impaired the learning process, whereas automaticity for the learned material was enhanced. Automaticity here just refers to the quick and effortless performance of a task with minimal cognitive effort or conscious intention. Both learning and automaticity are crucial skills in everyday life. This shows how cognitive enhancement of one narrowly defined trait can occur at the expense of other cognitive functions.
+
+Currently, we lack a research program dedicated to studying and understanding the possible cognitive side-effects, or tradeoffs, of these powerful enhancement tools, but suggestive examples are not hard to imagine. While we often think that a better memory is beneficial, forgetting also has a functional role and works to the benefit of other important cognitive functions. Our memory is adaptive partially because we do not retain every single bit of information that comes in. Some information is inevitably irrelevant and therefore forgetting it is beneficial. When it comes to memory, conscious and unconscious decisions must be made as to what to prioritize. This ability to strategically forget less important information may aid in the recall of information we have marked as important.
+
+For example, one [recent study](https://pubmed.ncbi.nlm.nih.gov/35142260/) showed a packing list to participants which rated items based on importance to remember and assigned them a ‘packer’—labelling if the participant or a friend were meant to pack them. It was found that items assigned to the participant and items which were rated as more important (regardless of assignment) were more likely to be remembered. Forgetting likely helps working memory as well. [Another study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3593955/) tasked participants with holding the color of a square in memory for three seconds and then picking said color on a color wheel. In one case participants were shown two squares and then told which to find on the wheel when it appeared. In the other case during the three second interval it was indicated that one square could be ignored. Participants had better recall when they were told to forget one stimulus over the case where both had to be retained.
+
+\_\_\_
+
+Human cognitive flourishing is a delicate balancing act—one that’s been refined through thousands of years of evolution.
+
+\_\_\_
+
+This pattern, in which apparent enhancement of one function may undermine others, may extend across cognitive domains: enhanced focus might dampen creative association-making, faster information processing could reduce valuable incubation time for insights, and heightened pattern recognition might lead to false correlations, for example. In light of the potential challenge of balancing cognitive traits, we can consider some of the moral contours of the prospect of cognitive enhancement, with a premise motivated by Aristotle’s definition of [moral virtue](https://global.oup.com/ukhe/product/aristotle-nicomachean-ethics-9780198752714?cc=gb&lang=en&). Aristotle defines virtue as a disposition to behave in the correct manner, which he argues is always a mean between the two extremes of deficiency and excess, both of which are moral vices. Courage, for example, is a moral virtue that is situated between the two extremes of rashness, which is an excess of courage, and cowardice, which is a deficiency of courage. Just as with moral virtues like courage, Aristotle considers human flourishing to be a delicate balance between two extremes. It’s quite possible that Aristotle is wrong about all this, of course, but consider that human *cognitive* flourishing (that is, having a healthy, or non-pathologized, cognitive life) is a delicate balancing act—one that’s been refined through thousands of years of evolution. If so, then dramatically altering different parts of narrowly defined aspects of one’s cognitive life could foreseeably upset this balance.
+
+\_\_\_
+
+Tinkering with any one part of our cognitive life might throw off the whole balance.
+
+\_\_\_
+
+Enhancing one cognitive trait, or even some subset of cognitive traits, could lead to the diminishment of others, which are equally important for our cognitive flourishing. If we dramatically enhance our long-term memory capacity, for example, this might diminish our capacity to forget, or even to make good decisions—since our deliberative processes could be overwhelmed by the information that we remember. Hyperthymesia is a rare condition in which people are able to remember an abnormally large number of life experiences. We might say that their autobiographical and episodic memory capacities are enhanced relative to the average person. But this syndrome has serious symptoms that come along with it—[hyperthymestics](https://pubmed.ncbi.nlm.nih.gov/16517514/) report spending much of their time thinking and rehashing past events. Their condition reminds us that remembering comes at a cost—it can cause us to obsess over the past, for example—and that there is a [functional role for forgetting](https://journals.sagepub.com/doi/10.1177/0963721411418469?icid=int.sj-full-text.similar-articles.7). What this suggests is that when taken in isolation, enhancements of cognitive traits might sound like good things, especially when we label them “enhancements”, but the overall effect might not be desirable. Instead, tinkering with any one part of our cognitive life might throw off the whole balance.
+
+[![related-video-image](https://iai.tv/assets/Uploads/revolutionising-our-idea-of-the-brain.iaitv-thumbnail.tpu.webp)
+
+SUGGESTED VIEWING
+Revolutionising our idea of the brain
+With Simon Baron-Cohen](https://iai.tv/video/revolutionising-our-idea-of-the-brain)
+
+When it comes to enhancement experiments conducted by researchers it is possible that tradeoffs could occur without the researchers being aware of them. This could be because the researchers are focused only on testing for enhancement, or simply because there are too many variables in cognition for researchers to test for deficits in all areas. [Brem et al. (2014)](https://pubmed.ncbi.nlm.nih.gov/23880500/) propose a net-zero sum framework for understanding cognitive enhancement, that enhancement in one area of cognition may necessitate loss of function in another. They argue that enhancement requires that cognitive resources are redirected, as the brain does not possess infinite processing power. But furthermore, as we’ve argued, some cognitive functions may operate in an adversarial way. These tradeoffs may occur within a specific domain (e.g., memory), or between two different domains (e.g., cognitive control and creativity).
+
+Some would disagree that the human cognitive life is well balanced in the first place. Allen Buchanan, for example, argues that our minds have been crudely refined through evolution and are full of design flaws. But even if we agree that human minds are far from perfect, we are broadly able to identify a “balanced” mind from one with a pathology or medical condition. So the relevant point of disagreement is whether there is more to gain or more to lose by tinkering with what nature has given us. Should we be enhancement-optimists or should we proceed with caution?
+
+Buchanan is squarely optimistic, while we advocate for a more cautionary approach. [Proponents of cognitive enhancement](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1382.021) tend to assume that BCIs, if created properly, will lead to increased well-being individually and greater societal prosperity. But this is speculative. Just as Aristotle saw virtue in the mean rather than the extreme, the path to overall cognitive enhancement lies not in pushing individual functions to their limits but in rebalancing cognitive faculties to optimize overall function. Of course, there is no way to enhance our overall function at once. Hence, we need to careful thinking about what cognitive traits, if any, we really want to prioritize for enhancement.

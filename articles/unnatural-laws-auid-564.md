@@ -1,0 +1,43 @@
+---
+title: "Unnatural Laws"
+subtitle: "Have we really found the secrets of the universe?"
+author: "Nancy Cartwright"
+date: "Issue 36, 14th September 2015"
+article_id: "564"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,028 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/1334534164568.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/unnatural-laws-auid-564"
+---
+
+# Unnatural Laws
+
+*Have we really found the secrets of the universe?*
+
+**By Nancy Cartwright** | *Issue 36, 14th September 2015* | *Read time: approx. 5 mins* | *1,028 words*
+
+![Unnatural Laws](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/1334534164568.webp)
+
+---
+
+From the faceless particles of fundamental physics to marshes, mountains, and rain forests, fleas, walruses and traffic jams, we are all supposed to live in a world governed by eternal, all-encompassing laws, laws discovered by the experiments of physics and encoded in its mathematical equations. This 400-year-old image of the governance of nature is today being undermined by exciting new modes of understanding across the sciences, including physics and biology, as well as, perhaps less surprisingly, in the study of society. There is order visible in the world, and invisible. But if we trust these new ways of understanding, this need not be order by universal law. It can be local, piecemeal, and contextual – much like the world as we encounter it.
+
+We live our everyday lives in a dappled world unlike the world of fundamental particles regimented into kinds, each just like the one beside it, mindlessly marching exactly as has forever been destined. In the everyday world the future is open, little is certain, the unexpected intrudes into the best-laid plans, everything is different from everything else, things change and develop, and different systems built in different ways give rise to different patterns. For centuries this everyday world was at odds with the scientific world governed through-and-through by immutable law. But many of the ways we do science today bring the scientific image into greater harmony with what we see every day: much of modern science understands and manipulates the world without resort to universal laws.
+
+Consider biology, where our knowledge since World War II has made huge leaps forward and with it, our ability to put that knowledge to use. How is this knowledge encoded? A close look at the methodologies employed, especially in evolutionary biology, suggests that rather than good old-fashioned ‘proper laws’, biology offers instead laws that emerge historically, laws that are contingent and laws that admit exceptions. Different kinds of case studies, in molecular biology or neurobiology for instance, suggest not laws that describe regular, inevitable behaviours but rather mechanisms that, functioning properly, in the right places, generate regular behaviour. One such example is the interactions of the structures of non-RNA strands with tRNA molecules and ribosomes to underwrite protein synthesis. All branches of biology – in common with the other sciences – are rife with *ceteris paribus* laws: laws that hold only in special circumstances.
+
+Physics is no exception. Its very virtues get it into trouble. The terminology of physics is tightly controlled, which distinguishes it from disciplines that hardly count as science at all (ones that use terminology like ‘globalisation’ or ‘unconscious desire’ with no rigid criteria for their application). There are rules in physics for how to use language, how, for instance, to ascribe a quantum field or a classical force, rules like F = GMm/**r**2 when two masses a distance r apart interact. In most situations there are a number of factors affecting the outcome that we do not know how to describe using these regimented descriptions, and that just may not be so describable. These are not the kinds of situations where the laws of physics get their best purchase.
+
+Consider the Stanford Gravity Probe Experiment, which put four gyroscopes into space to test the prediction of the general theory of relativity that gyroscopes should precess due to coupling with space-time curvature. The Gravity Probe prediction about its gyroscopes was about as free of condition as any claim in physics about the real world could be. That’s because the experimenters spent a vast amount of time – over twenty years – and exploited a vast amount of knowledge from across physics and engineering. They tried to fix it so that all other causes of precession were missing; hence all the other causes would be, *ipso facto*, describable in the language of physics. Moreover if they had not succeeded and other causes occurred, then any that they couldn’t describe would make precise prediction impossible. If you can’t describe it, you can’t put it into your equations.
+
+It should be no surprise then that the good confirmations of the laws of physics occur in the special situations where we can describe all the causes with proper physics concepts. That is the real content of the *ceteris paribus* clause: This law holds so long as all the factors that affect the behaviours under study can be described by proper physics concepts that have the kind of strict rules for their application that good, rigorous science demands; it holds in such specially structured environments – indeed these are the only environments where we can produce precise predictions. Whether there is (or is not) systematicity outside environments structured like this is speculation, well beyond the kind of rigorous testing that earns physics its kudos. So too is the assumption that all environments are secretly structured in the right way, even if we have not yet discovered it.
+
+Laboratories are structured in the right way, and lasers, batteries and bicycles. So too are a great many naturally-occurring situations. The planetary system is so structured and seems to have little disturbance that cannot be subsumed under proper physics concepts. But most situations do not seem to be structured in the right way. Physics is above all an exact science. Its concepts must be precise, measurable and fit in exact mathematical laws. So they may not even in principle be able to describe every situation. Physics laws are thus *ceteris paribus*, and perhaps irredeemably so.
+
+What then of the notion of eternal, universal law? To fit what happens in modern physics, biology and social science, as philosopher Sandra Mitchell proposes, the old dichotomy ‘law versus non-law’ or what is universal, exceptionless, immutable versus all the rest must give way to a sliding scale along a variety of dimensions. Looking at how the successes of science are produced across the disciplines, it is truths of varying forms with varying degrees of universality and exceptionlessness, describing various degrees and kinds of order that gives the sciences their power to predict and control.
+
+**Adapted from: 'The Dethronement of Laws in Science' by Nancy Cartwright, which appears in *Rethinking Order: After the Laws of Nature,* ed. Nancy Cartwright and Keith Ward, 2016, London: Bloomsbury Press**

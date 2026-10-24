@@ -1,0 +1,46 @@
+---
+title: "Coding the Universe"
+subtitle: "What is information? How does it relate to matter?"
+author: "James Ladyman"
+date: "Issue 35, 15th August 2015"
+article_id: "555"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "796 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/James-Ladyman-35.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/coding-the-universe-auid-555"
+---
+
+# Coding the Universe
+
+*What is information? How does it relate to matter?*
+
+**By James Ladyman** | *Issue 35, 15th August 2015* | *Read time: approx. 4 mins* | *796 words*
+
+![Coding the Universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/James-Ladyman-35.webp)
+
+---
+
+Information theory argues that to be is to be a real pattern. But what is information and how does it relate to matter?
+
+It seems that the kind of materialism defended by the ancient Greek atomists and their successors in early modern natural philosophy is not viable. Atoms are not partless particles, and the particles that compose atoms are excitation modes of fields whose ultimate nature is tied up with questions about extra dimensions and the interpretation of mathematical structures used in physics.
+
+Science has also developed to the extent that it now gives us ontology at many levels. Within the physical sciences we have a rough hierarchy from the solids and fluids of geology through the molecular structure of chemical kinds to the atoms and their orbiting electrons, to the subatomic realm of particles and fundamental forces, to quantum fields, superstrings and beyond.
+
+The biological and behavioural sciences are much more complex but similarly offer us layers of entities from proteins to social groups. What makes all these entities count as physical? We certainly cannot straightforwardly identify them with collections of entities that are described by physics. Their place in the unified scientific account of reality is based on the shared system of units, the conservation of energy, the gravitational, electromagnetic and nuclear forces, and the basic classification of the elements expressed in the periodic table. In science we have integration and not always reduction.
+
+However, there remains an asymmetric relationship between physics and the special sciences, and all special science objects are such that their behaviour is consistent with physics and can be understood without violations of basic physical laws. The objects of the special sciences and all the objects in current physics exist only at particular restricted scales of space and time. For example, there are no tables at the atomic scale of distance, nor at the geological scale of time, and there are no atoms at the scale of quarks nor at the cosmological scale of time.
+
+The kinds of entities that are posited at the sub-atomic scale are exotic in the extreme, but more importantly we have no reason to believe that there is a fundamental level consisting of the one true set of ultimate individual objects. If we remain agnostic about whether the latter exists we have no reason to regard scale-relative emergent domains as less real because everything we know about is like that.
+
+What then does it mean to say that all these things exist? In *Every Thing Must Go*, we developed an idea due to Daniel Dennett that to be is to be a real pattern. When we are doing microphysics we do not have to keep track of everyday physical objects because doing so would be of no predictive or explanatory value. The scales of distance, time and energy make tables irrelevant. However, anybody faced with the task of keeping track of material objects in everyday circumstances would be very foolish to insist on thinking in terms of table parts other than coasters, drawers, legs and tabletops. To describe a room without mentioning the furniture and only speaking of atoms would be to miss out on the fact that there are correlations in the positions of some of the atoms that result from them all being part of, say, a table. In that sense the table is a pattern in the information about its parts more than it is a particular set of material particles (for any particular particles can be left out and the table is left unchanged), and it is certainly not a single extended piece of matter.
+
+What all genuine entities have in common is that they are real patterns in the phenomena that emerge at their characteristic length and time scales, in the sense that any attempt to describe the world at that scale that did not refer to them would contain redundant information and miss out on simple causal and statements and laws that predict and explain the phenomena. The distinctive ontologies of the sciences arise because we live in a universe that is rich enough to have various emergent regimes of (partial) order.
+
+However, it is important to remember that for that virtual world to exist, somewhere there is a physical machine subject to the laws of thermodynamics. Our brains can only function at a very specific range temperature, and computers have to be powered somehow. Yet, it may be less misleading to say the world is made of mathematics or information that is made of matter because fundamental physics describes particles and fields that are nothing like the way matter appears and is conceived by us. The scientific image of the world is one from which mathematical representation is ineliminable. This applies no less to the special sciences as to physics.  
+  
+  
+**Image credit:** [**NASA Goddard Space Flight Center**](https://www.flickr.com/photos/gsfc/)

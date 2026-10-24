@@ -1,0 +1,89 @@
+---
+title: "The Planck Scale isn't the limit physicists think it is"
+subtitle: "Does quantum gravity break down at the Planck Scale?"
+author: "Caspar A. Jacobs"
+date: "11th June 2025"
+article_id: "3188"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,347 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Planck-Scale-isnt-the-limit-physicists-think-it-is.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-planck-scale-isnt-the-limit-physicists-think-it-is-auid-3188"
+---
+
+# The Planck Scale isn't the limit physicists think it is
+
+*Does quantum gravity break down at the Planck Scale?*
+
+**By Caspar A. Jacobs** | *11th June 2025* | *Read time: approx. 12 mins* | *2,347 words*
+
+![The Planck Scale isn't the limit physicists think it is](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Planck-Scale-isnt-the-limit-physicists-think-it-is.webp)
+
+---
+
+*Science's current best theory of reality, low-energy quantum gravity, takes the form of an effective field theory – one that is only valid up until a certain limit. Physics takes it as gospel that this breakdown occurs at the Planck Scale, but as theoretical philosopher Caspar A. Jacobs argues this is a mistake. Many have assumed that not only the same methods that took us from general relativity to low-energy quantum gravity will also take us to a grander theory, but also that this grander theory will cut up reality in ultimate units of the Planck constant. Unfortunately, given that this breakdown and the Planck scale lie far outside of our range of observable energies, we cannot say where our theories fail to match an unknown reality.*
+
+It is well-known that our two most fundamental theories in physics—quantum field theory and general relativity—are irreconcilable. It is perhaps less well-known that this is not the case in every circumstance. For [systems with small energies](https://www.sciencedirect.com/science/article/abs/pii/S0039368122000620) it is possible to combine quantum field theory and general relativity into a theory of “low-energy quantum gravity.” This theory has real-world applications in astrophysics and cosmology. This is not yet a theory of everything, however, because at *large* energy scales this theory breaks down. When we try to use the low-energy theory at these scales, [its predictions tend to unphysical infinities.](https://iai.tv/articles/is-mathematical-rigour-key-for-scientific-certainty-auid-2884) It is therefore more accurate to think of this as a theory of everything-at-relatively-small-energy-scales. The question is: at what energy scale does this theory start to diverge from reality?
+
+\_\_\_
+
+We cannot precisely predict when our theory fails to match a currently unobservable reality, because these predictions rely on assumptions about what that reality is like.
+
+\_\_\_
+
+The standard answer is that breakdown happens at the *Planck scale*: energies of around 1019 GeV. For comparison, [the maximum energies achieved at CERN](https://iai.tv/video/smashing-particles-at-the-energy-frontier) are of the order of 104 GeV. To put that in perspective, the ratio between those energies is larger than that of the size a single atom to the planet Jupiter! There is currently no possible experiment that can empirically access those scales. In an encyclopedia article, [Weinstein and Rickles (2024)](https://plato.stanford.edu/entries/quantum-gravity/) write that it is “almost Gospel” that our current best theories break down at the Planck scale. But what is so special about the Planck scale? It turns out that the “Gospel” is a mere heuristic. We cannot precisely predict when our theory fails to match a currently unobservable reality, because these predictions rely on assumptions about what that reality is like.
+
+[![related-video-image](https://iai.tv/assets/Uploads/AdobeStock-807038729.webp)
+
+SUGGESTED VIEWING
+The future of particle physics
+With Harry Cliff](https://iai.tv/video/the-future-of-particle-physics-harry-cliff)
+
+To understand why, we need to understand the Planck scale. This is a set of units first defined by Max Planck in 1899. Generally, the units we use to measure quantities like length or mass are quite arbitrary. There are practical reasons to use the kilometer or the mile, but Nature does not care which one you choose. Planck wasn’t happy with this arbitrariness and developed a universal system of units. The trick was to look at the constants of nature, in particular *G* (the gravitational constant), *c* (the speed of light), and *h* (Planck’s own quantum constant). These constants are measured differently, from m/s for the speed of light to kg-1⋅m3⋅s-2 for the gravitational constant. But Planck realized that there is only one way to combine those constants in such a way that the result is measured in units of length:
+
+![Planck scale formula2](assets/Uploads/_resampled/ResizedImageWzM1NiwzNV0/Planck-scale-formula2.webp)
+
+Planck’s suggestion was to take this as a “natural” unit of length. The same works for time and mass, and from those one can define a unique Planck unit of energy. Contrary to our meters and miles, the Planck units are “independent of special bodies or substances, necessarily retaining their meaning for all times and for all civilizations, including extraterrestrial and non-human ones” ([Planck 1914](https://gutenberg.org/files/40030/40030-pdf.pdf#section*.835)).
+
+Planck introduced his scale before the discoveries of either quantum field theory or general relativity. Why then, would his scale have any relevance for the attempt to reconcile those theories? The standard answer is simple—too simple, in fact. Firstly, it is (often only implicitly) assumed that we can *predict* the scale at which low-energy quantum gravity breaks down from within the theory itself. Secondly, it is assumed that this prediction could only involve the fundamental constants of low-energy quantum gravity: *h*, *G* and *c*. It is then concluded that the scale at which this theory breaks down must be the Planck scale. But this argument is shaky: the premises are false, and the conclusion doesn’t follow from them.
+
+Firstly, there is no reason to think that a theory *will* predict its own demise. Newtonian mechanics becomes inaccurate when objects move fast compared to light, yet the theory itself contains no indication that this will happen. Secondly, there is no reason to think that such a prediction would only involve the constants *h*, *G* and *c.* For our current theories feature many more constants, from the mass of the proton to the cosmological constant. It is possible to use those to define other scales, some of which are much larger than the Planck scale and some of which are much smaller. Finally, even if we restrict ourselves to the trio *h*, *G* and *c*, there is no guarantee that we arrive at the Planck scale. This is because it is not quite true that there are *unique* combinations of those constants with dimensions of length, time and mass. It is always possible to multiply the Planck units by an arbitrary dimensionless constant to obtain a different unit. In principle, this would allow you to define any unit whatsoever as a function of *h*, *G* and *c*. For example, you could define a unit of length equal to , or 0.15. It may seem arbitrary to multiply the Planck units by any number other than 1. The doctrine of “naturalness” indeed holds that every dimensionless constant we find in physics is approximately 1. But this doctrine is highly controversial—closer to apocrypha than to Gospel. Why would it be any more likely for 1 to occur in the laws of physics than 231?
+
+\_\_\_
+
+Contrary to a theory such as Newtonian mechanics, which was intended as a fundamental theory that holds at all scales, effective theories are from the outset treated as mere approximations
+
+\_\_\_
+
+There is a better argument for breakdown at the Planck scale, but it is not the one that is typically found in textbooks and articles; nor is it without loopholes. Unlike the appeal to “naturalness,” however, this argument actually teaches us something about the assumptions that underlie the claim that low-energy quantum gravity breaks down at the Planck scale.
+
+The argument is based on treating quantum gravity as an [*effective field theory*](https://iai.tv/articles/how-the-higgs-discovery-broke-particle-physics-auid-2910). Contrary to [a theory such as Newtonian mechanics](https://iai.tv/articles/what-newton-really-meant-daniel-hoek-auid-2579), which was intended as a fundamental theory that holds at all scales, effective theories are from the outset treated as mere approximations that are valid at energies small compared to the theory’s “characteristic” energy scale. The first effective field theory was Fermi’s theory of beta decay, which was empirically successful at relatively small energies of around 10 MeV but predicted nonsensical infinites at higher energies. We now know that this was because Fermi’s theory does not incorporate the W boson, which has mass of about 80 GeV. But that does not mean that Fermi’s theory is completely mistaken. Rather, we can see Fermi’s theory as an approximation to the electroweak theory, which does incorporate the W boson, that is only valid at those small energies where the W boson does not play a significant role. While the electroweak theory does better than Fermi’s theory, it, too, is considered an effective theory. The entire Standard Model of particle physics is believed to break down at some high energy scale. This is not a bug; it’s a feature: at different energy scales, different interactions are relevant and so different theories are useful.
+
+If we treat quantum gravity as an effective field theory, then it will, as Anthony Zee puts it, “[announce [its] own eventual failure and hence [its] domains of validity](https://www.scirp.org/reference/referencespapers?referenceid=2176066).” Since effective field theories are only effective up to a certain scale, we can read off the theory itself when it breaks down: “the nonrenormalizability of quantum gravity tells us that at the Planck energy scale new physics must appear. […] Einstein's theory is now crying out.”
+
+It is a somewhat subtle task to track down where exactly the Planck scale comes in. In effective field theories, it is standard to encode the entire dynamical laws in one function called an “action.” This function assigns an action, measured in Joule-seconds, to any possible evolution of the universe. The so-called “Einstein-Hilbert action,” which encodes the dynamics of GR, only contains *c* and *G—*but not *h*. How, then, are physicists such as Zee able to conclude from this action that new physics must appear at the Planck scale, in which *h* does play a crucial role? Some physicists seem to multiply by *h* simply because they see it as the nearest constant with the right dimensions lying around. However, this juggling with constants amounts to another version of the simple dimensional argument that was dismissed above.
+
+\_\_\_
+
+Generally, it is sound scientific practice to repeat previously successful technique. But it is an educated guess, and not a prediction, that the same technique will work again.
+
+\_\_\_
+
+It may seem obvious that *h* must occur in any theory of *quantum* gravity. There is indeed a standard process to turn the classical Einstein-Hilbert action into a quantum theory: formulate the so-called “path integral,” in which the Einstein-Hilbert action is necessarily divided by a constant with the same dimensions. Such a constant functions as a unit of action. In other quantum theories, this constant is just our familiar *h*. In some sense, that is just what *h* is for: a minimal measure of action. If we were to simply apply the same process to general relativity, we would obtain the sought-after combination of the constants *c, G*, and *h*. Generally, it is sound scientific practice to repeat previously successful technique. But it is an educated guess, and not a prediction, that the same technique will work again. The uncertainty seems even larger at the empirically inaccessible energies of quantum gravity. To illustrate this, note that we could have chosen another unit of action than *h*. If this new constant is not extremely far off from *h* (farther, that is, than the difference between the size of an atom and the size of Jupiter), the predictions of quantum gravity considered as an effective theory remain indistinguishable at the low scales that we can access. Yet the breakdown scale would radically differ.
+
+The physicist has one final trick up their sleeves: in a theory of quantum gravity we don’t just want to consider the dynamical behavior of gravity on its own, but also describe its interactions with matter. We already know from quantum theory that *h* is the relevant constant as far as matter is concerned. When we turn general relativity into a quantum theory, then, shouldn’t we use the same constant? This would justify the choice of *h*.
+
+In my opinion, this is the strongest argument in support of the Gospel. It certainly seems sensible to re-use the same constant that we already know and love. Notice, however, that even if this argument works, it is a significant departure from the claims about the Planck scale that one usually finds. For it is usually claimed that gravity *by itself* indicates the demise of physics at the Planck scale. What the above shows, however, is that this is only true *when we couple gravity to matter.* Given that we live in a universe in which matter exists (indeed, *we* are made of matter!), any complete theory of quantum gravity would have to take it into account. It is nevertheless important to realize that gravity by itself that does not lead to a Planck-scale breakdown.
+
+\_\_\_
+
+. But the assumption of action-universality is in effect a bet on how the future of physics will turn out: whether the same tools that we have used in the past will remain effective in the future.
+
+\_\_\_
+
+Moreover, the above argument does rely on a significant assumption, namely that the constant of action is the same one, *h*, for every interaction we find in nature. Physically, this would mean that every interaction, from gravity to electromagnetism, is measured by the same standard. It would mean that the minimum amount of action is the same for every fundamental force. If that is true, we have reason to apply the standard procedures to quantize a theory to general relativity, which means that *h* will naturally pop up. If the assumption is false, however, we would have to find a different method of quantization, and there is no prior reason to suspect that any such novel method would involve the very same constant. At the moment, this assumption—which I call *action-universality*—is untestable, because the energy scales at which our current theories would break down if the assumption were true are experimentally inaccessible. Perhaps that is why it has received no scholarly discussion so far. But the assumption of action-universality is in effect a bet on how the future of physics will turn out: whether the same tools that we have used in the past will remain effective in the future.
+
+Far from a straightforward prediction of physics, then, the breakdown of our theories at the Planck scale relies even in the best case on a heuristic assumption. This does not mean belief in this so-called “Gospel” is unjustified; it does mean it is surrounded with uncertainty. I, for one, would not be surprised if physicists failed to find any new physics at the Planck scale—or if they found it well before then! But the exact energy scale at which effective theories break down is ultimately of less interest than the assumptions that underlie physicists’ faith in their own claims about quantum gravity. The newly uncovered principle of action-universality deserves more scrutiny. If the principle were to fail, it may not even be possible to fully reconcile quantum field theory with general relativity within one unified framework. Although that possibility is equally speculative as a Planck-scale breakdown itself at this point.

@@ -1,0 +1,72 @@
+---
+title: "Can There Be Belief Without Language?"
+subtitle: "Language is powerful, but it can't create thoughts"
+author: "Kristin Andrews"
+date: "8th January 2019"
+article_id: "1199"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,332 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/jack-cain-351543-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/can-there-be-belief-without-language-auid-1199"
+---
+
+# Can There Be Belief Without Language?
+
+*Language is powerful, but it can't create thoughts*
+
+**By Kristin Andrews** | *8th January 2019* | *Read time: approx. 7 mins* | *1,332 words*
+
+![Can There Be Belief Without Language?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/jack-cain-351543-unsplash.webp)
+
+---
+
+We can wonder about what others are thinking or feeling without ever hearing them say a word. 
+
+My toddler holds an empty ice cream cone, looking despondently at a melting ball of goo on the ground. It is obvious that she is sad she lost her treat. An orangutan brushes his head with a leaf, then hands the leaf to a human caregiver. For anyone familiar with the orangutan sanctuary in Indonesian Borneo, it is clear the orangutan wants his head cleaned. An extraterrestrial spaceship is observed approaching Earth. Humanity hopes their intentions are peaceful. 
+
+The ideas we have about young children's, animals' or aliens’ feelings and intentions suggest that it is possible to be a thinker without being a speaker. But some philosophers have denied it, arguing that only language users can believe anything. Understanding this view requires a little unpacking about what language and belief are.   
+
+My daughter doesn’t yet use language. The orangutan, like all nonhuman animals, doesn’t have a natural language system. The aliens might not have anything like a human language; suppose they share a joint mind and communicate with one another the way subsystems of our body do. These beings can communicate, but they don’t use language—that human method of communication that has *grammatical structure* allowing us to create sentences, *logical structure* allowing us to make inferences from sets of sentences to new sentences, and which permits these sentences to have *truth value*.
+
+\_\_\_
+
+"Language is powerful, but not so powerful that it creates thoughts out of nothing"
+
+\_\_\_
+
+Beliefs are often described as mental representations that have *propositional structure*, which means they can be characterised in terms of sentences. They permit *rational inference* such that we can use sets of beliefs about the world to infer new things about the world, and have *truth value* such that our beliefs are either true or not.
+
+Given the parallel structure between belief and language, perhaps it shouldn’t be surprising that some people think that it is impossible to have belief without language. Language and belief both appear to have sentential structure that allows us to think things like: *All dogs are mammals*, *Fido is a dog*, and from those two thoughts conclude that *Fido is a mammal*. From these sorts of observations, we develop hypotheses. Maybe we think in language! Maybe language is required to have a thought at all. Maybe it is linguistic structure that allows us to solve problems and construct generalisations. After all, language is like magic, permitting the creation of an infinite number of new thoughts with its finite set of tools. 
+
+It’s not a bad hypothesis, but it doesn’t hold up to scrutiny. Language is powerful, but not so powerful that it creates thoughts out of nothing. Language can be used to create new concepts which allow us to think new thoughts, so with language we can create beliefs that we never had before. An alternative hypothesis is that without something to think about in the first place, there would be nothing to talk about. Thoughts drive language.
+
+According to the alternative hypothesis, language is a tool for communicating thoughts. If the function of language is to communicate what we think, we have another explanation for the parallel structure between belief and language:  *belief is required for language*, but language is not required for belief. 
+
+\_\_\_
+
+"Belief is required for language, but language is not required for belief"
+
+\_\_\_
+
+Plausibly, the first job of language was to communicate humans’ original beliefs. Before humans used language, they had to figure out how to make stone tools, track and kill animals, and process the carcasses for eating. We can use language to characterise the beliefs of early humans—they lunged their spears into the bush because they thought an antelope was hiding there. It’s easy for us to use language to characterise our own and others’ beliefs if human languages evolved to capture what humans were already thinking. The parallel between belief and language exists because the structure of belief constrained the evolution of language. Without having some beliefs worth communicating, there would have been no pressure for humans to ever evolve linguistic aptitude.
+
+ The two hypotheses make different predictions about the conceptual connection between belief and language. If language is required for belief, then they should be conceptually intertwined, and there should be no evidence of belief that doesn’t also serve as evidence for language. However, when we understand belief as having the function of thinking and language as having the function of communicating, we can make sense of evidence for belief that does not provide evidence for language. Because prelinguistic child behaviour, animal behaviour, or hypothetical alien behaviour provokes questions about what these individuals are thinking. It is sometimes natural for us to ask what a non-language-user thinks. In contrast, we are never inclined to wonder whether a language user is a thinker.
+
+Language is one mark of being a believer, but there are others, such as technology. A spaceship that can travel from another solar system to visit Earth demonstrates technological sophistication and a facility with truth and rational inferences about the way the world works. We can’t help but see the spaceship as the product of intelligent action, which makes us wonder about the aliens’ reasons: *Why are they visiting us?* *Are their intentions peaceful, or do they intend to colonise our planet? Do they think we are worth getting to know, or bugs to be exterminated?* 
+
+[![cat](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/cat.webp)
+
+SUGGESTED READING
+Can Cats Read Minds?
+By Ali Boyle](https://iai.tv/articles/can-cats-read-minds-auid-1145)
+ Nonlinguistic communication is another marker of belief. Ape gestures, such as “scratch here”—indicated by a big loud scratch to self—and “climb me” —indicated by a raised arm—are expressions of desires. When a bonobo raises her arm, and then puts her arm down once her social partner climbs on her, researchers say she is ‘apparently satisfied’. The apparently satisfactory outcome signifies that the bonobo believes the world now fits her desire.
+
+Scientists accept animal belief as the best explanation for animals’ facilities with communication and cultural technologies. Animals including birds, rodents, and primates communicate using vocal calls that refer to objects in the environment. Vervet monkeys have different alarm calls for eagle, snake, and leopard. Suricate alarm calls indicate predator type as well as urgency. Chimpanzee calls indicate the location and relative quantity of a newly discovered food source. These calls are thought to be under conscious control, since they are modulated based on relevant features, such as whether or not there is an audience to receive the message.  Here it seems we have a case of thought and communication but not language.
+
+Many animal species have technologies as part of their culture—differences between communities within a species that are not attributable to genetic or environmental features but that are learned socially. Scientists have found evidence of culture in whales and dolphins, great apes and monkeys, as well as in birds, rats and even bumblebees. For example, chimpanzees at Bossou in Guinea crack nuts by placing them on a stone anvil, stabilising the anvil with a stone or wood wedge, and using a stone hammer to crack the nuts. A community of chimpanzees in Loango National Park, Gabon use a set of five different tools in order to access honey from underground bee nests. Each tool needs to be used in the correct order to successfully access the food. Young chimpanzees learn their cultural technologies by carefully observing what the experts do.
+
+Those who think that language is necessary for thought have to reject the scientists’ appeal to animal belief to explain their ability to communicate and use technology. But they can’t deny the conceptual priority of belief over language. At best, the skeptics offer an argument from ignorance that goes like this: “since I cannot imagine of how else an individual could think without language, language must be necessary for belief”. One’s imaginative limitations shouldn’t be taken as evidence that animals don’t have beliefs. Our difficulty in understanding thought without language should be viewed as an opportunity to investigate further. The aliens are already here; I wonder what—and how—they are thinking! On this task, philosophers and scientists should unite.

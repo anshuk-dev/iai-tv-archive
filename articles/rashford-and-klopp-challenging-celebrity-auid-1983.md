@@ -1,0 +1,59 @@
+---
+title: "The dangers of celebrity"
+subtitle: "Ideas should be more important than personality"
+author: "Tom Mole"
+date: "24th November 2021"
+article_id: "1983"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,236 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rashford-and-Klopp.and.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rashford-and-klopp-challenging-celebrity-auid-1983"
+---
+
+# The dangers of celebrity
+
+*Ideas should be more important than personality*
+
+**By Tom Mole** | *24th November 2021* | *Read time: approx. 6 mins* | *1,236 words*
+
+![The dangers of celebrity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rashford-and-Klopp.and.webp)
+
+---
+
+*Marcus Rashford’s activism did the impossible – it gave footballers a good name. So too, football manager Jürgen Klopp declined to comment on topics outside of his specialisation and stated, “it’s not important what famous people say”. Celebrity culture, on the whole though, is more rampant than ever. We are still a distance away from the ideal of ideas winning out instead of people, writes Tom Mole.*
+
+Amid the constant chatter of celebrity opinions circulating in all available media at all hours of day and night, it was a refreshing moment.  On 5 March 2020, Jurgen Klopp, the famed manager of Liverpool football club, was asked – along with every other celebrity who faced a journalist’s microphone or notebook that week – what he thought about the novel coronavirus that was then sweeping the world, and the government’s plans to ban public gatherings, including football matches.  ‘Look,’ Klopp said in his characteristically accented English, ‘what I don’t like in life is that [on] a very serious thing, a football manager’s opinion is important’.  Perhaps, he suggested, this was a time to listen to the experts.  ‘It’s not important what famous people say’.[1]
+
+Perhaps, he suggested, this was a time to listen to the experts. ‘It’s not important what famous people say.’
+
+He’d put his finger on a feature of our current celebrity culture that would seem strange if it hadn’t become so familiar.  Celebrated individuals from all fields of endeavour are routinely asked for their views on all kinds of things – and they are rarely shy about giving them.  A model recommends some Christmas present ideas, a musician gives his opinion on cancel culture, a comedian weighs in on foreign policy, a football manager is asked about epidemiology.  Everyone’s entitled to their opinion, I suppose, but some people’s opinions get amplified more than others.  Celebrities’ views are sought out and reported or broadcast, while experts find it hard to make their voices heard over the noise.
+
+Celebrities’ views are sought out and reported or broadcast, while experts find it hard to make their voices heard over the noise.
+
+As the pandemic unfolded, another strange feature of our celebrity culture came into view.  Celebrities turned into experts and experts turned into celebrities.  Overnight, donnish epidemiologists became household names, subject to media discussion not only for their scientific opinions but also for their personal style.  Jonathan Van Tam’s rococo similes, the regularly changing art in Devi Sridhar’s Zoom background, and the visits Neil Ferguson’s partner made to his home all became matters of public interest.  Celebrity culture exerts its own distorting pull on public discourse, turning even unwilling participants into celebrities.
+
+This might all seem like a new phenomenon, a product of our media-saturated, opinion-drenched, Instagram-addicted age.  But celebrity has its own history.  Historians have found it hard to agree on when our modern culture of celebrity first appeared.  Was it tied to television, film, or newspapers?  Did it start with actors, writers, courtesans, or politicians?  Is there a decisive break between modern celebrity and earlier cultures of fame?  And why, exactly, are some of these people famous anyway?
+
+I think modern celebrity took shape at the end of the eighteenth century.
+
+I think modern celebrity took shape at the end of the eighteenth century.  At that time, the total amount of printed matter in circulation grew exponentially, leaving people feeling swamped.  Every year, more new books were published, until it was impossible to keep up.  And the number of new publications appearing anonymously dropped significantly, creating a sense of personality overload.  More books, more names.  Celebrity culture emerged to address these problems by branding the identity of certain individuals in an effort to help them rise to the top of the sea of new publications.
+
+But, although print was crucial, it wasn’t just about print.  Different versions of celebrity took shape in different areas of culture.  Theatrical stars, sporting champions, noted orators, celebrated courtesans and literary lions all jostled for attention.  As soon as celebrity culture took hold in one area of life it began to colonise others, including long-established sources of public recognition such as politics, the aristocracy, the military, and even royalty.  As a result, celebrities emerged as a distinctive kind of people: celebrity boxers had more in common with celebrity artists than either of them had with less celebrated figures in their own fields.
+
+As new media emerged during the nineteenth century and into the twentieth, celebrity culture quickly adapted to them.  It metastasised in order to thrive in radio, film, television and social media, creating new flavours of celebrity, from film stars and television personalities to today’s influencers.  In the process, it played a huge part in shaping how the media ecology developed.  There was nothing inherent in the technology of film to guarantee the emergence of the film star.  But cinema adopted the star system from the theatre, where it was already well established, and adapted it to the new medium.
+
+The idea was that individuals from different social backgrounds could come together in public and discuss issues in a free, open and rational fashion. In eighteenth-century coffee houses, for example, the best arguments were supposed to win the day, no matter who made them.
+
+The emergence of celebrity was arguably the last nail in the coffin of that eighteenth-century ideal that we’ve come to know as the public sphere.  The idea was that individuals from different social backgrounds could come together in public and discuss issues in a free, open and rational fashion.  In eighteenth-century coffee houses, for example, the best arguments were supposed to win the day, no matter who made them. Ideas were supposed to be everything, and personality nothing.  While some individual celebrities might support this ideal, the culture of celebrity as a whole is radically opposed to it.  Celebrity is all about personality – or rather the mediated simulacrum of it.  In the world of celebrity, it always matters who’s doing the talking.
+
+The public sphere was always more of an aspiration than a reality, but eighteenth-century commentators shared a progressive optimism that polite, rational discussion would prosper over time.  They couldn’t have been more wrong.  Some of the internet’s early boosters touted it as a kind of global coffee shop, a vast network for the free exchange of ideas.  But we all know it’s turned into something very different.  If the internet has democratised the culture of celebrity to some extent, making it possible for anyone to become Insta-famous, it has also speeded up the turnover of celebrities, who now rise to prominence and fall into obscurity again in an ever-accelerating churn.  Fifteen minutes of fame?  More like five.  Meanwhile, the goal of a society in which ideas win out seems more distant than ever.
+
+But perhaps it’s a mistake to feel too grumpy about all this.  What about John Boyega, speaking up for the Black Lives Matter movement?  What about Emma Watson insisting that men need to be feminists too?  What about Marcus Rashford forcing the UK Government to feed the country’s poorest children during the school holidays?  They are all activist celebrities who are determined to use the platform they’ve been given to produce positive change.  So, while the culture of celebrity disproportionately amplifies the opinions of a few people, it also allows for ‘celebrity citizenship’ – a form of activism that takes place outside the often-dysfunctional structures of established politics, but can also shift attitudes, raise consciousness and even change policy, as Rashford’s example shows.
+
+---
+
+[1] <https://youtu.be/DkIZZCbxngQ>

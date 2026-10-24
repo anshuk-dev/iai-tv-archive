@@ -1,0 +1,95 @@
+---
+title: "The dark ideology of self-help"
+subtitle: "Religious asceticism and self-punishment"
+author: "Alexis Papazoglou"
+date: "29th August 2023"
+article_id: "2588"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,725 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/plungsmall.jpeg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-dark-ideology-of-self-help-alexis-papazoglou-auid-2588"
+---
+
+# The dark ideology of self-help
+
+*Religious asceticism and self-punishment*
+
+**By Alexis Papazoglou** | *29th August 2023* | *Read time: approx. 9 mins* | *1,725 words*
+
+![The dark ideology of self-help](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/plungsmall.jpeg)
+
+---
+
+*Early morning wake-up, cold showers, fasting, abstention from alcohol, pornography and other dopamine triggering stimuli. This isn’t a religious rule book, it’s the latest self-help mantra from neuroscience gurus like Andrew Huberman and followed by celebrities like Joe Rogan. But the similarities between the two types of ascetic practice should worry us, writes Alexis Papazoglou.*
+
+If you haven’t tried out intermittent fasting, you probably know someone who has. The 16/8 approach (fast for 16 hours, eat for 8) has gained significant popularity as an approach to weight loss, burning fat, focus improvement, and all-round health hack. Even I’m giving it a shot at the moment, despite my reservations about the ideology animating it.
+
+The origins of fasting practices can be found in religion. Most religions include some form of fasting, with Buddhism and Islam being ones that explicitly include intermittent fasting – the restriction of eating and even drinking for several hours a day. In its more ascetic versions, Christianity also included the practice of going with no food for days. There is a kind of charitable interpretation of these practices which sees them as anecdotal wisdom being incorporated within religions as a way to help people comply. Scientific research seems to back claims about the various benefits of fasting, including fat loss, cell regeneration, reduced inflammation, increase in energy, and at the extreme end of the spectrum, increased longevity. If fasting makes you live a healthier and longer life, it’s no surprise that religions wanted to incorporate it into their practice. But such an interpretation ignores the ideological and spiritual meaning of these practices.
+
+\_\_\_
+
+Contemporary, secular, ascetic practices are presented as part of a new, well-researched, science-driven, way to “hack” our bodies.
+
+\_\_\_
+
+Within a religious context, fasting is a spiritual practice – it reflects most religions’ distain for the material, the bodily, and at the same time an elevation of the mental and immaterial. In the case of Christianity there is the added element of the original sin, the idea that humans are fallen, imperfect, morally corrupt beings, and ascetic practice, the limiting of earthly pleasures, is a way to make up for that. Religious fasting, then, is deeply ideological, far from serving merely practical goals of promoting health and well-being. The meaning of the fasting lies in the practice itself – a symbol of the perceived poverty and corrupt nature of the material, and by contrast, the power of the spiritual. Nietzsche called this the ascetic ideal.
+
+On the face of it, contemporary fasting and other ascetic-like practices such as abstaining from alcohol, having cold showers, restricting dopamine-increasing activities like masturbation, eating sugar etc. are nothing like that. Contemporary, secular, ascetic practices are presented as part of a new, well-researched, science-driven, way to “hack” our bodies. Ascetic practices are put forward as purely instrumental, practical, and non-ideological - merely a good set of tools for reaching one’s goals, be it losing weight, athletic achievement or mental focus. But things are not that straightforward. Below the surface remains an ideology that sees us as broken and corrupt beings that need fixing.
+
+\_\_\_
+
+A criticism from the left has noted the fact that self-help ideology is excessively individualistic. It places the burden of our problems on the individual, rather than looking for their more systemic, structural roots.
+
+\_\_\_
+
+Andrew Huberman is a leading voice in this new form of science-informed self-help. A Stanford neuroscientist, he brings insights from his field and applies them to some of the everyday problems of contemporary life. Modernity might have solved things like food scarcity and given us technology that has transformed human communication, but those very advances have now come back to bite us. Many in the developed world struggle with obesity, given the many delicious, highly calorific foods that are readily available to us. We are also increasingly losing our ability to focus for long periods of time and regulate our emotional response to an ever-increasing number of stimuli. Social media and our smart phones are largely to blame for the latter.
+
+By revealing the evolutionary forces that have shaped our brains and neurocircuits to be fine-tuned machines under certain environmental conditions, Huberman rages against the bad habits of modernity that make our brains sluggish, our bodies unfit, and our minds unhappy. While sometimes the recipe offered seems benign enough - make sure you get enough sleep, eat healthy food, exercise regularly, drink enough water - it often veers into sketchy territory: take ice cold showers, or better baths; never drink any alcohol; stay away from social media; breath in this particular way; don't indulge in sexual pleasure, especially if it doesn’t involve others; go without food for several hours a day, and occasionally for a whole day. This list begins to look suspiciously similar to the imperatives of many world religions. It is a set of ascetic practices, the denial of pleasure and the leaning into pain, or at the very least discomfort, as somehow virtuous. Nietzsche warned us about the life-denying qualities of the ascetic ideal, and it’s time we revisit his reasons for concern.
+
+Some more recent critiques of the ideology behind the self-help movement echo some of Nietzsche’s concerns. A criticism from the left has noted the fact that self-help ideology is excessively individualistic. It places the burden of our problems on the individual, rather than looking for their more systemic, structural roots. For example, obesity becomes a problem of individual will power, rather than a regulatory issue to do with the amount of and quality of processed foods available in the market, or an issue to do with poverty. Distraction and lack of focus becomes a problem of addiction to our phones, rather than a problem created by the attention-stealing practices of social media companies. This makes for a conservative politics that sees any change that needs to take place at the level of each individual, rather than at a collective, political level. Religion largely shares this conservative outlook, but there’s a deeper connection here between contemporary self-help ideology and the ideology that animates religious forms of ascetic practice. They both see the individual, not the world, as essentially corrupt.
+
+\_\_\_
+
+If the self is always seen as imperfect, and imperfection is seen as a bad thing, self-improvement becomes an end in itself, not just a means of achieving some specific goal.
+
+\_\_\_
+
+Religion, especially in its Christian version, sees the world created in perfection by God, but the individual as fallen and in need of redemption. Self-help ideology shares this world-view – the individual always falls short of perfection and is always in need of improvement. If the self is always seen as imperfect, and imperfection is seen as a bad thing, self-improvement becomes an end in itself, not just a means of achieving some specific goal. For example, the need to lose weight is not just motivated by health reasons, or even aesthetic reasons, but because being overweight is a sign of our imperfection.
+
+In principle, Nietzsche thinks there’s nothing wrong with abstaining from sex, or alcohol, or even certain foods if those restrictions serve particular, practical goals. If you’re running a marathon, it’s probably not a good idea to get drunk the night before. Nietzsche also seemed to think that if you’re an artist, abstention from sex is a good way to increase your creativity. What concerned Nietzsche was the promotion of ascetic restraint as something valuable in itself, and the dark underlying moral meaning that lied behind that.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/23-08-31-144-Surplus-happiness.yt-thumbnail.tpu.jpg)
+
+SUGGESTED VIEWING
+Surplus happiness
+With Slavoj Žižek](https://iai.tv/video/surplus-happiness)**
+
+Human life involves a lot of suffering, Nietzsche thought. This was one of the lessons he kept from a philosopher he admired earlier in his life, Arthur Schopenhauer, who in turn had sourced this grim philosophical outlook from Buddhism.
+
+Instead of handing out advice about how to overcome suffering, Nietzsche recognised that humans can in fact sustain a lot of suffering, as long as they can attribute some meaning to it. The role of religious leaders – the ascetic priests, as Nietzsche calls them – is to do exactly that, give meaning to the suffering of humans. But rather than focussing on, say, the political and social structures responsible for much of human suffering over the centuries, the priests did something truly terrible, according to Nietzsche, they gave human suffering an unsavoury meaning: It’s all our own fault.
+
+\_\_\_
+
+The ascetic ideal then becomes a form of self-punishment: self-inflicted pain in an attempt to alleviate and give meaning to our suffering.
+
+\_\_\_
+
+In the third section of his book *On the Genealogy of Morality* entitled ‘The Meaning of the Ascetic Ideal’ Nietzsche writes the following:
+
+*“I am suffering: for this someone must be to blame’ – thus every diseased sheep thinks. But his shepherd, the ascetic priest, says to him: ‘That’s right, my sheep! Someone must be to blame for it: but you yourself are this someone, you alone are to blame for it – you alone are to blame for yourself!”*
+
+The ascetic ideal then becomes a form of self-punishment: self-inflicted pain in an attempt to alleviate and give meaning to our suffering. If our desires are to blame for our suffering, then we need to deny our desires. If our body is to blame for our suffering, then we need to renounce our body and its needs. And forget about pleasure, you don’t deserve it and it will only lead to more suffering in the end. It’s this poisonous form of self-denial that Nietzsche warns us about.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/resized-jason-leung-60j0UB-Z-Yk-unsplash.webp)
+
+SUGGESTED VIEWING
+How to find and make sense of happiness
+With Paul Dolan](https://iai.tv/video/how-to-find-and-make-sense-of-happiness-paul-dolan)**
+
+Is that to say that all the neuro-self-help that Huberman is disseminating is useless and to be avoided? Not necessarily. After all, even Nietzsche recognised that, given specific goals, ascetic practices can be helpful. I am already seeing some positive results from my rather mild intermittent fasting in the past two months. Furthermore, when it comes to addictive behaviours like smoking, alcoholism, or even social media overuse, it’s great having new scientific insights into how our brains work, why it can feel so difficult to give up these behaviours, and how we might “hack” our brains to our desired results. In fact, neuroscience can help us avoid reductive and moralistic tales about people’s addictive behaviours that dismiss them as the product of weak will and corrupt character.
+
+But beware of the all-consuming self-help ideology that sees all our imperfections as our fault, and as things to be overcome by some form of self-denial. Evolution didn’t just design our brains and bodies to be perfect, efficient machines - it also designed them to enjoy life’s pleasures.

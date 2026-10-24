@@ -1,0 +1,92 @@
+---
+title: "We are overcounting cancer cases by vast amounts"
+subtitle: "Screening creates cancers, and it’s not clear that it “saves lives”"
+author: "H. Gilbert Welch"
+date: "15th July 2025"
+article_id: "3257"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,601 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-overdiagnosis-crisis-part-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/50-of-some-cancers-diagnosed-by-screening-are-better-left-untreated-auid-3257"
+---
+
+# We are overcounting cancer cases by vast amounts
+
+*Screening creates cancers, and it’s not clear that it “saves lives”*
+
+**By H. Gilbert Welch** | *15th July 2025* | *Read time: approx. 8 mins* | *1,601 words*
+
+![We are overcounting cancer cases by vast amounts](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-overdiagnosis-crisis-part-1.webp)
+
+---
+
+**This is the first in a series of three articles for the IAI by Dr Welch on screening. Read part 2, "[Cancer screening harms more people than it saves is available](http://iai.tv/articles/cancer-screening-harms-more-people-than-it-saves-auid-3264)"  and part 3, "[You can’t test your way to health](http://iai.tv/articles/you-cant-test-your-way-to-health-auid-3271)".**
+
+*We’re vastly overcounting cancer cases. In 2020, President Joe Biden urged Americans to get cancer screenings, backing a $43-billion-a-year screening effort. But Dr H. Gilbert Welch, a leading physician and health policy researcher, argues that such well-meaning campaigns are creating more problems than they solve. Up to 90% of thyroid cancers diagnosed due to screening would never have caused any harm if left untreated; and overdiagnosis of breast, skin and prostate cancers is also rife. This fools us into thinking that we’re curing more people due to screening. In reality, we’re treating patients who were never truly sick and calling it a success.*
+
+[![related-video-image](https://iai.tv/assets/Uploads/255.Diagnosis-Dilusion-copy.webp)
+
+SUGGESTED VIEWING
+The diagnosis delusion
+With Gina Rippon, Alastair Santhouse, Karsten Juhl Jørgensen, Claudia Canavan](https://iai.tv/video/the-diagnosis-delusion)
+
+At the dawn of the new millennium, South Korean doctors began offering neck ultrasounds as a low-cost add-on ($30–$50) to a government cancer screening program. A decade later, [the annual number of diagnosed thyroid cancers had increased 15-fold](https://www.nejm.org/doi/full/10.1056/NEJMp1409841)—transforming it into the most commonly diagnosed cancer in Korea, surpassing breast, colon, and lung cancer. Yet despite this surge in diagnoses, the death rate from thyroid cancer remained essentially unchanged. What does that tell me? Massive [overdiagnosis](https://en.wikipedia.org/wiki/Overdiagnosis). That is, people who don’t have clinically significant thyroid cancer (and who never will) are nonetheless being diagnosed with thyroid cancer.
+
+![Thyroid cancer incidence and mortality in South Korea 1993 2011](assets/Uploads/_resampled/ResizedImageWzYwMCwzNTBd/Thyroid-cancer-incidence-and-mortality-in-South-Korea-1993-2011.webp)
+
+Thyroid cancer incidence and mortality in South Korea, 1993–2011  
+ (data from Korean Central Cancer Registry and Statistics Korea)
+
+It’s tempting to think that the graph shows that Korean doctors are becoming very good at treating thyroid cancer—but that would prompt the question: where are all these new cancers coming from? Ultrasounds don’t cause thyroid cancer; they cause preexisting thyroid cancers to be found. The thyroid is full of cellular abnormalities that meet pathologic criteria for cancer—[a third of adults could be said to have thyroid cancer](https://pubmed.ncbi.nlm.nih.gov/2408737/). But the vast majority will never experience symptoms of thyroid cancer, much less die from it. So what is really happening is this: screening is unearthing cancers that are not destined to cause problems.
+
+[![related-video-image](https://iai.tv/assets/Uploads/59.why-most-published-wisdom-is-wrong-2.webp)
+
+SUGGESTED VIEWING
+Why most published research findings are false
+With John Ioannidis](https://iai.tv/video/why-most-published-research-findings-are-false-john-ioannidis)
+
+For decades I’ve been studying the unintended harms of screening—the effort to detect disease in people who have no symptoms of it. Doctors screen for a lot of things—aortic aneurysms, diabetes, heart disease, depression and dementia—and overdiagnosis can be a problem for each. But it’s cancer screening that has been [promoted most aggressively](https://crucialcatch.cancer.org/), and so I have particularly focused on [cancer overdiagnosis](https://academic.oup.com/jnci/article/102/9/605/894608). At first the idea was seen as heretical, but now even the International Agency for Research on Cancer (IARC) recognizes there is a [worldwide epidemic](https://www.nejm.org/doi/10.1056/NEJMp1604412) of thyroid cancer overdiagnosis. Whenever we doctors look hard for early forms of cancer, we tend to find more than we expect. We don’t know which individuals are overdiagnosed, but we can see the excess diagnoses in population data (like the graph above).
+
+\_\_\_
+
+No one wants to go through the rigors of cancer treatment—surgery, radiation and chemotherapy—as well as the fear that cancer diagnosis brings for a cancer that was never destined to bother them.
+
+\_\_\_
+
+To understand the problem, it’s important to understand how variable cancers are. It’s not simply that breast and lung cancers are different, for example: there is also variability within both breast and lung cancers. It’s a barnyard pen of cancers—birds, rabbits and turtles—and the goal of screening is to catch them early, before they escape the barnyard and spread throughout the body. But the birds have already escaped: they are the fastest growing and most aggressive cancers, cancers that have already spread by the time they are detectable. Screening can’t help with the birds; the question is whether treatment can (and increasingly it can). The rabbits are more slowly progressing cancers, and they can be caught early (whether catching them early helps people live longer or live better will be discussed in the next article in this series). And then there are the turtles: there’s no need catch them, because they’re not going anywhere, whether they’re caught or not.
+
+Screening is brilliant at finding turtles. Finding them leads to overdiagnosis—the diagnosis of a “cancer” not destined to cause problems. Doctors cannot reliably distinguish between rabbits and turtles in individual cases, so we tend to treat them all. But no one wants to go through the rigors of cancer treatment—surgery, radiation and chemotherapy—as well as the fear that cancer diagnosis brings for a cancer that was never destined to bother them.
+
+Cancer overdiagnosis is by no means confined to the thyroid. Among commonly screened cancers, only colorectal cancer is seldom overdiagnosed. Melanoma, the most feared form of skin cancer, is subject to [rampant overdiagnosis](https://www.nejm.org/doi/10.1056/NEJMsb2019760) in the United States. Urologists have long recognized the problem in prostate cancer screening and now include the harms of overdiagnosis and overtreatment in their [early detection guidelines](https://www.auanet.org/guidelines-and-quality/guidelines/prostate-cancer-early-detection-guideline). There used to be a debate about whether breast cancer overdiagnosis was even possible—now the debate has moved on to [how often it occurs](https://pubmed.ncbi.nlm.nih.gov/26756737/). Even the most common cause of cancer death worldwide—lung cancer—can be overdiagnosed, particularly in [never-smokers](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2788296). In fact, it was in the context of lung cancer screening that I was first introduced to the [term](https://academic.oup.com/jnci/article-abstract/92/16/1280/2905911?redirectedFrom=fulltext&login=false).
+
+\_\_\_
+
+The IARC (the World Health Organization’s International Agency for Research on Cancer) estimates “overdiagnosis in women accounts for 90% of thyroid-cancer cases in South Korea; 70 to 80% in the United States, Italy, France, and Australia; and 50% in Japan.
+
+\_\_\_
+
+Turtles come in two flavors. The first are cancers that are growing, but growing so slowly that people die from other causes before the tumor causes symptoms. That’s the problem with prostate cancer screening in older men; everyone agrees screening doesn’t make sense for those with [life expectancy of less than ten years](https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/acs-recommendations.html) (and the same applies to cancer screening in general). The second are cancers that are not growing or are even regressing.
+
+Wait, what? Some cancers regress without treatment? While this is exceedingly rare in cancers large enough to cause symptoms, it is more common in the small cancers detected by screening. Careful observations of small thyroid cancers in [Japan](https://www.sciencedirect.com/science/article/pii/S0039606018306482) and the [US](https://pmc.ncbi.nlm.nih.gov/articles/PMC5710258/figure/ooi170043f2/) reveal that some get smaller with time. The most likely explanation is that the patient’s immune system is recognizing and reducing the size of the tumor. Melanoma, in particular, is known to be an immune responsive cancer. And while breast cancer regression was first suggested by [epidemiological studies](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/773446) two decades ago, now we know about the [molecular mechanism](https://www.science.org/doi/10.1126/science.adh8697?url_ver=Z39.88-2003&rfr_id=ori): immunoediting sculpts tumors and helps determine which survive and which will likely be destroyed by the patient’s immune system.
+
+Understandably, people want to know exactly how common overdiagnosis is. But there is no single right answer. Part of the difficulty is that it is hard to quantify something that is not directly observable: [different methods](https://pubmed.ncbi.nlm.nih.gov/25569206/) produce different results. But the bigger challenge is that the amount of overdiagnosis is dependent on who is screened (it’s more common in older individuals), how frequently they are screened (it’s more common in annual than biennial screening), and how intensively they are screened (it’s more common following [breast MRI screening](https://www.nejm.org/doi/full/10.1056/NEJMc1917231) than mammography).
+
+OK. But my editor still wants numbers. The [IARC (the World Health Organization’s International Agency for Research on Cancer) estimates](https://www.nejm.org/doi/10.1056/NEJMp1604412) “overdiagnosis in women accounts for 90% of thyroid-cancer cases in South Korea; 70 to 80% in the United States, Italy, France, and Australia; and 50% in Japan, the Nordic countries, and England and Scotland.” Their estimates are somewhat lower in men, but you get the picture: the thyroid is full of turtles. Over half of melanoma diagnosed in the [US](https://jamanetwork.com/journals/jamadermatology/fullarticle/2789995) and [Australia](https://web.archive.org/web/20240122233109id_/https:/ebm.bmj.com/content/ebmed/early/2024/01/18/bmjebm-2023-112460.full.pdf) have been estimated to be overdiagnosed. [One quarter to one half of all prostate cancers detected by PSA testing are overdiagnosed](https://pubmed.ncbi.nlm.nih.gov/19276453/)—that is, people with cancers not destined to cause problems are nonetheless diagnosed with and usually treated for cancer.
+
+[![related-video-image](https://iai.tv/assets/Uploads/life-death-and-specialisation.webp)
+
+SUGGESTED VIEWING
+Is specialisation killing us?
+With Caitjan Gainty, Nick Lane, David Healy, Mark Salter](https://iai.tv/video/life-death-and-specialisation)
+
+Estimates of breast cancer overdiagnosis are all over the map. [Some researchers](https://pmc.ncbi.nlm.nih.gov/articles/PMC9359467/) have estimated that 15% of breast cancers detected by biennial mammography in American women aged 50–74 are overdiagnosed. But most American women undergo screening annually and [three quarters](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2768709) continue to be screened as they age. [Other researchers](https://pmc.ncbi.nlm.nih.gov/articles/PMC10623662/) estimate 31% of breast cancers in women age 70–74 are overdiagnosed, 47% in women aged 75–84 and 54% in women aged 85 and older. And [I have argued](https://www.nejm.org/doi/full/10.1056/NEJMoa1206809) that about a third of all breast cancers in the US are overdiagnosed, which would imply that nearly half of screen-detected cancers represent overdiagnosis.
+
+While the precise figures can be debated, there is no debate that cancer overdiagnosis wreaks havoc on how we judge the value of screening. The more overdiagnosis, the more beneficial screening appears—and the more popular it becomes. Overdiagnosis creates more cancer “survivors”: individuals with screen-detected cancer who (understandably) believe they owe their life to screening. So screening creates more and more survivor stories, which fuel media coverage, which in turn promotes more screening. And while overdiagnosed patients don’t die from their cancer, they do inflate cancer survival statistics.
+
+Question: Which cancers have the highest five-year survival rates in the US? [Answer:](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2025/2025-cancer-facts-and-figures-acs.pdf) thyroid, melanoma, prostate and breast—the very cancers most likely to be overdiagnosed. Meanwhile, a website promoting medical tourism advertised Korea as the place be treated for thyroid cancer—touting “[the highest thyroid cancer survival rate in the world](https://web.archive.org/web/20140111161714/http:/www.koreakoreakorea.com/package/thyroid-cancer/).”
+
+Don’t give screening credit for curing turtles. Overdiagnosis is a harm, not a benefit, of screening. The bottom line is, as I’ll argue in the next two articles in this series, most kinds of screening do us more harm than good. Resources now spent on screening would be better used improving treatment for symptomatic patients or, more broadly, tackling the social determinants of health.

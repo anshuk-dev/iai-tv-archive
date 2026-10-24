@@ -1,0 +1,46 @@
+---
+title: "Is Modernity Biodegradable?"
+subtitle: "Future archaeologists will need radiation suits."
+author: "Fazlun Khalid"
+date: "6th April 2014"
+article_id: "343"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "560 words"
+read_time: "Read time: approx. 3 mins"
+header_image: ""
+unpaywall_method: "body HTML container"
+source_url: "https://iai.tv/articles/is-modernity-biodegradable-auid-343"
+---
+
+# Is Modernity Biodegradable?
+
+*Future archaeologists will need radiation suits.*
+
+**By Fazlun Khalid** | *6th April 2014* | *Read time: approx. 3 mins* | *560 words*
+
+---
+
+The American biologist Edward Wilson once said that the human species is an "environmental abnormality". We rationalise the destruction of the planet as if we live somewhere else. And, we are now told (in a 2013 paper presented to the Royal Society) that we may be seeing the end of this civilisation if we don’t change our ways and change them soon. Yet we continue to behave like those poor souls on the Titanic who couldn’t stop dancing even after their ship had hit an iceberg.
+
+It does not seem to have entered our consciousness that if the planet suffers, we suffer, and that we have nowhere else to go. We have lost sight of ourselves as being a part of nature,  that destroying the natural world means destroying ourselves. By alienating ourselves from nature we have reduced it, and by extension ourselves, to an exploitable resource. In the Islamic tradition, we are required to submit ourselves to the divine presence, not dominate the natural world to serve our consumerist appetites.
+
+So, industry will continue to expand; banks will continue to lend the money they create out of nothing; "under-developed" countries will strive to emulate the rampant Chinese and Indian economic models; developed nations, particularly in the West, will continue to covet the world's resources, even if it comes to waging war for them. The current financial crisis has brought to light the fact that money doesn’t exist. It is artificially created. This explosion of artificial wealth provides the illusion of economic dynamism but, in reality, it is parasitic. Endless credit (perpetual debt) devours finite resources. If kept up, this would eventually result in the Earth looking like the surface of the Moon, as it already does in some places.
+
+Pursuit of progress and prosperity, it seems, are based on creating discontent. Consumers are seduced to vie with each other for ownership of the latest gadgetry, the media are exploited as an instrument of manipulation, while television and advertising hoardings constantly make people feel inadequate, their lives incomplete. People who lived in the pre-modern era, before we believed that nature existed merely to be plundered, were basically no different from us. They had the same positive and negative human attributes, but the results of human profligacy were contained by the natural order of things which transcended technological and political sophistication and even religious disposition.
+
+Until quite recently, the human race functioned unconsciously within natural, unwritten boundaries. There was an intuitive disposition to live within the natural state, though this was achieved by a conscious recognition of the existence of a superior force: the divine. This was an existential reality, neither idyllic nor utopian. Modernity has severed our connections with the divine and reconnected us with our basest appetites.
+
+Excess in the natural order was contained because it was biodegradable. When old civilisations, however benevolent, opulent, profligate, greedy, or brutal died, the forests simply grew over them or the sands covered their traces. They left no pollutants, poisons or nuclear waste. By contrast, assuming we survive as a species, archaeologists excavating our present, rampant civilisation will have to wear radiation suits to protect themselves.
+
+The Qur’an says:
+
+*Corruption has appeared in both land and sea  
+ Because of what people's own hands have brought about  
+ So that they may taste something of what they have done  
+ So that hopefully they will turn back*
+
+*(30:40)*
+
+Perhaps it's time we turn back, too.

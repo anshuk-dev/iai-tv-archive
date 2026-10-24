@@ -1,0 +1,64 @@
+---
+title: "The family's threat to justice"
+subtitle: "Inheritance, private education and bedtime stories"
+author: "Adam Swift"
+date: "12th January 2022"
+article_id: "2023"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "1,222 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Family-justice-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-familys-threat-to-justice-auid-2023"
+---
+
+# The family's threat to justice
+
+*Inheritance, private education and bedtime stories*
+
+**By Adam Swift** | *12th January 2022* | *Read time: approx. 6 mins* | *1,222 words*
+
+![The family's threat to justice](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Family-justice-min.webp)
+
+---
+
+*From as early as Plato’s Republic, philosophers have pointed out that family relations pose a threat to justice. Today those concerns have mostly to do with equality: Some parents are able to offer their children advantages such as a private education, social connections, and a handsome inheritance, therefore contributing to the propagation of inequality across generations. These advantages however also come in other softer, forms such as the reading of bedtime stories, or the instilling of a passion for learning. It would seem, therefore, that our concern for justice and equality can lead us to endorse Plato’s solution: the abolition of the family altogether. We would be wrong to do so, however, argues Adam Swift.*
+
+The family presents a deep challenge to any theory of social justice. The evidence on social (im)mobility shows that children born into different families face unequal prospects. But few deny that we have a right to family life, which includes the rights of parents to do things to, with and for their children that tend to reproduce inequality across generations. Even those who would happily ban inheritance or elite private schools do not object to parents’ reading their children bedtime stories. So, is there a way to draw a line between the legitimate and illegitimate mechanisms by which parents confer advantages on their children? [1]
+
+It’s widely accepted that parents owe their children a duty of care. They must, if they can, ensure that their children’s interests are adequately met – that they are adequately fed, sheltered, kept safe from harm, and so on. That alone will tend to produce unfair inequalities of opportunity. But, separate from what they *must* do, morally speaking, for their children, is the issue of what they *may* do for them. Inequalities of resources (both economic and cultural), and differences in the motivation to use those resources to benefit those children, mean that giving parents the freedom to further their children’s interests will generate further injustice. In what ways may parents treat their children as special, beyond what is required of them by their duty of care, without exceeding the bounds of permissible or legitimate partiality?
+
+In what ways may parents treat their children as special, beyond what is required of them by their duty of care, without exceeding the bounds of permissible or legitimate partiality?
+
+My strategy for answering that question is straightforward. We start by getting clear on why it would be a bad move to abolish the family altogether. Some philosophers – such as Plato – have proposed that radical suggestion. The best way to show that they are wrong is to explain what is valuable about familial relationships. What distinctive contribution do parent-child relationships make to our wellbeing? The first step is to the identify the valuable things  - call them “familial relationship goods” – that explain why we should accept, and indeed welcome, the family as a social institution, despite the conflict with equality and fairness.
+
+The main reason why it’s a good idea that children are raised in families is that parent-child relationships serve children’s developmental interests. For human beings’ lives to go well, they need to develop physical, cognitive, moral and emotional capacities that, psychologists suggest, are best developed through close, loving, intimate and authoritative relationships with a few adults. (Note that these adults need not have any biological connection to the child, they need not be a heterosexual couple, there need not be two of them. So “family values”, on my approach, has almost none of its conventional content.) Adults also benefit in a distinctive and important way from having that kind of relationship with a child; their interest is essentially in playing the fiduciary role, in providing the child with the kind of relationship that it needs to prosper.
+
+The main reason why it’s a good idea that children are raised in families is that parent-child relationships serve children’s developmental interests.
+
+Given this account of familial relationship goods, we then ask: What do parents need to be free to do, to with and for their children in order for familial relationships to make their distinctive contribution? We want to leave room for parents and children to enjoy the goods that the family distinctively makes possible. But we don’t want to give them more room than that. Our commitment to fairness means that we should limit parents to those interactions genuinely demanded by a concern for “family values”.
+
+Here are some mechanisms by which relatively advantaged parents are currently allowed to transmit their advantage to their children:
+
+* inheritance/bequest
+* elite schooling/private tuition
+* access to social networks
+* parenting styles
+* values transmission/ambition formation
+* reading bedtime stories
+
+As one reads down the list one progresses from more impersonal or ‘external’ mechanisms, such as leaving money or other property to children, or investing in their education, to more informal and intimate mechanisms, the paradigm case here being parental reading of bedtime stories.
+
+Our commitment to fairness means that we should limit parents to those interactions genuinely demanded by a concern for “family values”.
+
+Bedtime stories are a paradigm case of a protected activity because the parent is providing the kind of relationship the child needs: he is intimately sharing physical space with his child; sharing the content of a story selected either by her or by him with her; providing the background for future discussions; preparing her for her bedtime and, if she is young enough, calming her; re-enforcing the mutual sense of identification one with another. He is giving her exclusive attention in a space designated for that exclusive attention at a particularly important time of her day. For familial relationships to work their magic, there must be ample space for parents to engage in activities with their children that involve this kind of thing. Bequeathing one’s child property, by contrast, or sending her to an elite private school, does not qualify. Thinking about why children should be raised in families, rather than in (possibly more egalitarian) state-run quasi-orphanages, we are *not* tempted to answer: “Because human beings have a vital interest in being able to bequeath property to their children, or to receive it from their parents”. *That’s* not why the family beats the quasi-orphanage.
+
+One caveat about this approach to the question needs highlighting. I’ve been offering a criterion for thinking about what kind of thing we could *in principle* prevent parents collectively from doing for their children for the sake of social justice and without violating parents’ rights.
+
+In *actual*, non-ideal, circumstances, the decisions facing individual parents may be different. It could be, for example, that parents are in situations where they need to send their children to a private school to give them a fair chance, or to discharge their duty of care. [2] For most poor parents, or members of ethnic minorities, or parents of children with disabilities, whose children suffer from various biases in education systems and labour markets, bequeathing money, or buying private tuition or private schooling, may not conflict with social justice at all. Rather than seeking competitive advantage for their children, they could be simply providing some of the opportunities that their children would have enjoyed in a more just society.
+
+[1] I am summarising views developed at much greater length in Harry Brighouse and Adam Swift *Family Values: The Ethics of Parent-Child Relationships* (Princeton University Press, 2014).
+
+[2] See Adam Swift, *How Not To Be A Hypocrite: School Choice for the Morally Perplexed Parent* (Routledge 2003)

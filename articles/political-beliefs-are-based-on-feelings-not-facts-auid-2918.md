@@ -1,0 +1,97 @@
+---
+title: "Political beliefs are based on feelings, not facts"
+subtitle: "Towards a practical politics"
+author: "Nina Lyon"
+date: "14th August 2024"
+article_id: "2918"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,862 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Political-beliefs-are-based-on-feelings-not-facts.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/political-beliefs-are-based-on-feelings-not-facts-auid-2918"
+---
+
+# Political beliefs are based on feelings, not facts
+
+*Towards a practical politics*
+
+**By Nina Lyon** | *14th August 2024* | *Read time: approx. 9 mins* | *1,862 words*
+
+![Political beliefs are based on feelings, not facts](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Political-beliefs-are-based-on-feelings-not-facts.webp)
+
+---
+
+*Our politics are more heated than ever before, and fed by our belief that we’re right while others are wrong. William James shows us that our beliefs aren’t a rational appraisal of the facts, but influenced by our emotional temperament. We shouldn’t rely on ideology to decide what is true, but look at what works in practice instead.*
+
+There are times and places when multiple beliefs and ideologies compete for our attention. We’re in one of them today – scroll the internet, and much of the noisiest and most engaging content is political. Elon Musk’s recent [interview](https://twitter.com/realDonaldTrump/status/1823430600872878321) with Trump gained [95 million views](https://www.thewrap.com/elon-musk-trump-interview-on-x-total-views/), while political movements across the world, from left to right and from uprisings in [Bangladesh](https://apnews.com/article/bangladesh-student-protests-sheikh-hasina-25fe38b620fc9529ef25733aa9c2bfce) and [Kenya](https://www.bbc.com/news/articles/cdx69d41y2zo) to [riots and counter-protests](https://www.reuters.com/world/uk/british-police-brace-anti-muslim-riots-counter-protests-2024-08-07/) in the UK, find new adherents online.
+
+The late-nineteenth-century United States was its own melting pot, with an influx of immigrants seeking economic opportunities, religious freedom, and political refuge. Waves of new Americans brought diverse languages, ways of life and religions to cities and small towns across the county. As a result of this, new Americans adopted new religions.The religions they had left behind in their countries of origin weren’t just making metaphysical claims – they were social and political institutions that governed states and regions. In their place, new and diverse beliefs flourished, allowing more personalised versions of the religious experience.
+
+As a result of this, it wasn’t uncommon for new Americans to adopt new religions.The religions Americans had left behind in their countries of origin weren’t just making metaphysical claims – they were social and political institutions that governed states and regions. In their place, new and diverse beliefs flourished, allowing more personalised versions of the religious experience.
+
+\_\_\_
+
+James also observed that temperament tended to impact the religious experience, and that people seemed to adopt religious viewpoints that confirmed their emotional hunches about the world
+
+\_\_\_
+
+The philosopher and psychologist William James examined this phenomenon in a series of lectures that became [*The Varieties of Religious Experience*](https://csrs.nd.edu/assets/59930/williams_1902.pdf).James believed that religious experiences were the primary source of religious belief. These experiences might involve feelings of awe, a sense of unity with the divine, or moments of profound insight, and often left a profound impact on the individual, leading them to embrace particular beliefs.
+
+James also observed that temperament tended to impact the religious experience, and that people seemed to adopt religious viewpoints that confirmed their emotional hunches about the world. James identified two temperamental extremes, [the “sick soul” and the “healthy-minded”,](https://www.philosophicalsociety.com/HTML/TheHealthy-MindedAndSickSoul.html) which were characterised respectively by being very high and very low in what the [Big Five](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model of personality traits would now call [neuroticism](https://en.wikipedia.org/wiki/Neuroticism).
+
+[![related-video-image](https://iai.tv/assets/Uploads/H22-192-thumbnail.webp)
+
+SUGGESTED VIEWING
+Overcoming tribal division
+With Isabel Hilton, Myriam François, Paul Dolan, Ella Whelan](https://iai.tv/video/overcoming-tribal-division)
+
+If you’re high in trait neuroticism – someone who experiences a lot of negative emotions – you’re more likely to see evil everywhere, and Puritanism might make sense of that. For James, the original Protestant sick soul was Martin Luther, whose overwhelming experience of guilt and fear of damnation led him to seek salvation in faith alone. On the other hand, if you were the sort of infuriatingly upbeat low-neuroticism type whose experience of the world consisted solely of beauty and love, you might end up as a Quaker, or take a universal view of God as immanent in everything like pantheistically inclined poet Walt Whitman.
+
+Both these extremes carried their own personal, social and theological downsides. The sick soul’s acute awareness of pervasive suffering made it harder to believe in goodness and in a benevolent God, fostering a tendency to doomerism. The healthy-minded, by contrast, risked becoming complacent in uncritically believing in the inevitability of progress and denying the existence of evil. Each offered its own insights and its own risks; for James, the pragmatic solution lay in navigating a path between the two in the form of [meliorism](https://en.wikipedia.org/wiki/Meliorism), the belief that the world could be improved, at least a little, with hope and hard work.
+
+\_\_\_
+
+For sociologist Émile Durkheim, a religion was characterised by sacred elements, a shared moral community, a system of beliefs and practices and the creation of social order. Politics can do this too
+
+\_\_\_
+
+Meliorism solved the religious problem of good and evil with an essentially political project. And today, as religious belief declines across the West, we’ve embraced politics with a greater moral zeal than ever before. For sociologist [Émile Durkheim](https://iep.utm.edu/emile-durkheim/), a religion was characterised by sacred elements, a shared moral community, a system of beliefs and practices and the creation of social order. Politics can do this too.
+
+Political ideologies provide a system of beliefs about how society should be organized, similar to how religions offer explanations about the world and how individuals should live. Ideologies and institutions often create their own forms of the sacred. For example, symbols such as the red MAGA hat, the Progress Pride flag or the Black Lives Matter fist, foundational documents like Mao’s Red Book or the US Constitution, and leaders such as Donald Trump or Jeremy Corbyn, can be treated with a reverence that mirrors religious veneration. The [collective effervescence](https://en.wikipedia.org/wiki/Collective_effervescence) of being at a march or protest can carry the same intense revelatory feeling as a religious experience.
+
+Political affiliations also bring people together into cohesive groups or communities with shared belief and values similar to religious congregations – such as Momentum in the UK, the DSA in the US, or green campaigning groups like Extinction Rebellion or Just Stop Oil. And, like religion, political systems play a crucial role in creating and maintaining social order and cohesion. In the UK, following 2001 race riots [New Labour](https://www.tandfonline.com/doi/abs/10.1080/13621025.2010.534938) developed a new conception of British values to be disseminated in school citizenship lessons that replaced previous accounts of moral order with one based on progressive principles. The Conservatives amended these to their own version of British values when they came into power a decade later.
+
+[![Wittgenstein and polarisation3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Wittgenstein-and-polarisation3.webp)
+
+SUGGESTED READING
+Wittgenstein and how to debate your enemy
+By Drew Douglas Johnson](https://iai.tv/articles/wittgenstein-and-how-to-debate-your-enemy-drew-douglas-johnson-auid-2829)
+
+If politics has replaced conventional religion in harnessing our moral impulses and shaping our social norms, there is a significant difference in the nature of the claims made by political and religious beliefs. As James identified, the foundation of religious belief often lay in immediacy and emotional intensity of individual religious experiences, which superseded intellectual arguments. In a secular society, however, we view our political beliefs as grounded in rationality and facts – if we feel strongly about those beliefs, it is because our emotions are downstream from an intellectually determined state of righteousness.
+
+But are they? Research shows that there are measurable differences in political affiliation by Big Five personality traits. [Liberals tend to be higher in Openness to Experience, which measures interest in ideas, arts and novelty, and lower in Conscientiousness, which measures valuing rules, order and attention to detail, than conservatives](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/personality-and-political-attitudes-relationships-across-issue-domains-and-political-contexts/DB05EBD054E13BD436CF910B5D7A268D). Several studies have also found liberals to be [higher in Neuroticism](https://www.taylorfrancis.com/books/mono/10.4324/9780203112137/predisposed-john-alford-kevin-smith-john-hibbing).
+
+In the UK, the [British Election Study](https://www.britishelectionstudy.com/) found that self-reported mental health problems vary according to voting preference, with 20-25% of Conservative voters, 25-30% of Liberal Democrat voters, 35-40% of Labour voters and 40% of Green voters reporting mental health issues in an apparent correlation from right to left in terms of political ideology. US adolescents struggling with anxiety and low mood are more likely to hold [left-liberal political beliefs](https://www.sciencedirect.com/science/article/pii/S2666560321000438). Moderate to severe depression correlates with [belief in conspiracy theories](https://www.ipr.northwestern.edu/news/2023/the-political-consequences-of-poor-mental-health.html). Left-liberal beliefs may more make sense for people who experience the world as oppressive or unjust, or who want to try new ways of doing things; conservative beliefs may make more sense for people who are sceptical of new ideas or who have a strong preference for order.
+
+If nineteenth-century meaning-seekers chose worldviews to fit their priors, we may be doing something similar today. Just as the mobilisation of Americans to new places and a multiplicity of new ideas unmoored them from previous religious traditions, the internet and social media has allowed us to access new political ideas beyond the familial and geographical restrictions of our home communities. We can find the ideas that make sense, personally, to us.
+
+\_\_\_
+
+Religious beliefs make a claim to truth that can be totalising in its demands and today’s political beliefs can often operate the same way, arguing that they alone are the valid route to better society.
+
+\_\_\_
+
+But when we feel instinctively that our personal approach is correct, we feel the urge to share it. Religious beliefs make a claim to truth that can be totalising in its demands and today’s political beliefs can often operate the same way, arguing that they alone are the valid route to better society. With multiple competing claims to being the one single truth, how do you determine the value of one belief over another? James’s pragmatism offered a solution to this: the truth of religious beliefs could be determined by looking at the “fruits” those beliefs bore for the believer in practice.
+
+In *The Varieties of Religious Experience*, James points out that while religious experiences are deeply authoritative for the individuals who have them, this authority is inherently personal and subjective.  Insights derived from religious experiences are not universal truths that should be imposed on others. The value of a religious experience doesn’t lie in its claim to objective truth, but instead in its practical effects on the individual.
+
+If people who hold particular ideology tend to show pro-social behaviour, perhaps by giving time or money to their local communities or charities, that might help us determine whether that ideology has value. If they have many happy relationships; if they are resilient and cope well when life throws hardship at them; if they report feeling contented in the world – any of these could indicate that their beliefs might be doing something right.
+
+For example, a person who experiences high levels of distress in their daily life and feels alienated in a home community which has seen economic and demographic changes may be drawn to belief systems that explain that distress. But different belief systems can frame that distress in different ways that will make different recommendations for dealing with it.
+
+One account of that distress might view it as the result of mass immigration in which minorities have crowded out his fellow natives, and see the solution in getting rid of those minorities. Another might view it as an artefact of loneliness due to social atomisation and argue that this is best addressed by getting involved in social institutions like community projects or food banks. The first account might lead to further resentment or even violent protest; the second might lead to more social engagement for the individual and their neighbours.
+
+If there’s evidence to suggest that we are more likely to be drawn to politics that fit our emotional landscape, this doesn’t have to be deterministic. We still have the choice to continue to sign up to them or move on based on the effects they have on our lives. Ideologies don’t just exist to validate our feelings – they orient our beliefs and behaviours. When we opt into a political belief system, we do so because we hope that following that system will provide better material outcomes for ourselves and others. We can accept that certain political ideologies intuitively attract us while remaining mindful of the fruits they bear – after all, the observable change we want to see is the whole point of holding them.

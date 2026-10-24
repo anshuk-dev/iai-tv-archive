@@ -1,0 +1,75 @@
+---
+title: "Does ‘Mental Illness’ Exist?"
+subtitle: "The Problem with Psychiatric Diagnosis"
+author: "Lucy Johnstone"
+date: "Issue 83, 3rd December 2019"
+article_id: "1280"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,671 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Does-mental-illness-exist.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/does-mental-illness-exist-auid-1280"
+---
+
+# Does ‘Mental Illness’ Exist?
+
+*The Problem with Psychiatric Diagnosis*
+
+**By Lucy Johnstone** | *Issue 83, 3rd December 2019* | *Read time: approx. 8 mins* | *1,671 words*
+
+![Does ‘Mental Illness’ Exist?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Does-mental-illness-exist.webp)
+
+---
+
+*Does ‘mental illness’ exist? I have taken as my title one of my least favourite questions. Although often posed to critics of psychiatric practice like myself, it actually makes very little sense. In unpicking it, I hope to show that we have better ways forward than the current, largely unchallenged understandings of emotional distress which do not reflect reality – either in terms of the evidence, or in terms of people’s lives.*
+
+The question really needs re-phrasing in two parts. If we framed the first part as ‘Do people really experience extreme forms of distress such as suicidal despair, hearing hostile voices, crippling anxiety and mood swings?’ then of course the answer is yes. As a clinical psychologist who has worked in the field of mental health for over three decades, and as a human being who is not immune from distress myself, I know this very well. But my answer to the implied second part ‘Are these experience best understood as “mental illnesses”?’ is a definite no. The *concept* of ‘mental illness’ obviously exists, as do the concepts of witches, ghosts and God – but the idea that the very real experiences subsumed under this term are best explained as medical disorders does not have, and has never had, any evidence to support it.
+
+The concept of ‘mental illness’ obviously exists, as do the concepts of witches, ghosts and God – but the idea that the very real experiences subsumed under this term are best explained as medical disorders has never had any evidence to support it.
+
+This is likely to come as a surprise to most members of the general public. We can approach the debate by asking whether the psychiatric labels that are applied to people are proper scientific categories. Any science – in this case medicine - needs to be able to demonstrate that it is based on a reliable and valid classification system, in order to develop testable hypotheses and hence the general laws that constitute a body of scientific knowledge. There is no issue of greater importance or greater controversy in mental health, since if this cannot be established, the whole model breaks down and all psychiatry’s other functions – indicating treatment, research and so on - will be fundamentally undermined. In the words of Peter Breggin, psychiatry would then become ‘something that is very hard to justify or defend – a medical specialty that does not treat medical illnesses.’
+
+*‘*Reliability’ describes the likelihood that when faced with the same patient and an agreed list of criteria, clinicians will come up with the same diagnosis. In relation to psychiatric diagnosis, reliability is extremely low – which is one of the reasons why people typically collect a whole list of labels in their journey through the mental health system. But an even more important issue is the *validity* of such categories. There are different meanings of validity, but essentially it is about whether the categories actually describe something in the real world. Are there, for example, established patterns of chemical imbalances, genetic flaws or other bodily malfunctions which correspond to these labels, and are causally linked to the ‘symptoms’, as we would expect if we were diagnosing pneumonia, or kidney failure, or breast cancer?
+
+So-called ‘symptoms’ are not examples of bodily dysfunction, but a ragbag of social judgements about people’s thoughts, feelings and behaviour.
+
+Despite decades of research, and despite what you may have read in the media, none has ever been identified. Instead, we are offered a series of circular explanations. If we ask ‘Why does this person have mood swings/hear hostile voices?’ the answer is ‘Because they have ‘schizophrenia/bipolar disorder’. And if we then ask how we know they have ‘schizophrenia’ or ‘bipolar disorder’, the answer is: ‘Because they hear hostile voices/have mood swings.’ There is no exit from this circle via a blood test, scan or other investigation which might confirm or disconfirm this diagnosis. To take a parallel from Biblical times, people used to be convinced that disturbing behaviour could be explained by the presence of evil spirits. This might have been a reliable judgement – everyone in the community might have endorsed it. But was it valid? Nowadays, we do not think so. Today, however, we are convinced that extreme distress is a sign of, in effect, possession by entities such as ‘schizophrenia’ or ‘personality disorder’.
+
+A further problem is that the so-called ‘symptoms’ are not examples of bodily dysfunction, such as pain, rashes and so on, but consist of a ragbag of social judgements about people’s thoughts, feelings and behaviour. For example, someone – usually a woman – diagnosed with ‘borderline personality disorder’ has been assessed as displaying ‘inappropriate, intense anger’ and ‘a pattern of unstable personal relationships.’ But we know that women who are so labelled very often have a history of abuse, which may make their so-called ‘symptoms’ entirely understandable.
+
+Similarly, there is growing evidence that the hostile voices said to be a symptom of ‘schizophrenia’ may reflect earlier unprocessed traumas, such as bullying or domestic violence. And at the less severe end of the spectrum, the desperation and hopelessness that might be diagnosed as ‘depression’ is known to occur more often in personal and social contexts that give people very good reasons to be miserable.  These histories are routinely obscured and unaddressed within a system that re-interprets them as evidence of medical illness or disorder.
+
+In essence, then, a diagnosis turns ‘people with problems’ into ‘patients with illnesses’. Reactions to receiving a diagnosis vary, and some people say that it offered welcome relief from guilt and isolation. For others, though, it constitutes the first step in a lifelong career as psychiatric patient, with everything that is implied – long-term use of psychiatric drugs, stigma, and social exclusion. Some have vividly described the profound disjunction in their sense of identity as this new version of reality is imposed on them:  ‘I walked into (the psychiatrist’s office) as Don and walked out a schizophrenic … I remember feeling afraid, demoralised, evil.’
+
+Psychiatric diagnosis turns 'people with problems' into 'patients with illnesses'.
+
+How, then, do we proceed, if we want to accept the reality of people’s distress and yet dispute the validity of the medical explanations that are offered? This model has taken hold so strongly that it can seem bizarre to question it. And yet we have a mountain of research to confirm that all kinds of social and relationship adversities massively increase the likelihood of experiencing all varieties of mental distress. This includes poverty, unemployment, emotional neglect, physical and sexual abuse, domestic violence, bullying, and so on, as well as more subtle difficulties such as feeling criticised, undermined, invalidated and excluded.
+
+At a wider level it has been demonstrated beyond dispute that we all suffer from living in societies that are unjust and economically unequal – ‘If Britain became as equal as the four most equal societies [...] mental illness might be more than halved’ (Wilkinson & Pickett). Similarly, psychologists have described how whole societies may be affected by so-called ‘austerity ailments’ of humiliation and shame; fear and distrust; instability and insecurity; isolation and loneliness; and feeling trapped and powerless.
+
+This perspective does not give us the neat explanations or the hope of simple cures that are offered by a diagnosis and a corresponding pill. It implies that we need very different solutions, at every level from individual to societal. One possible starting point is the core skill of all clinical psychologists, known as ‘formulation’ (Johnstone & Dallos). This is the process of making sense of a person's difficulties in the context of their relationships, social circumstances, life events, and the sense that they have made of them. The professional contributes their clinical experience and their knowledge of the evidence—for example, about the impact of trauma. The client or service user brings their personal experience and the sense they have made of it.
+
+The end result is a personal narrative or hypothesis called a formulation. Unlike the diagnoses which formulation replaces, this is not about making an expert judgment. It is a shared, evolving, collaborative process which also includes the person's strengths, and which suggests the best route towards recovery. Formulation sits well within the increasingly influential ‘trauma-informed approach’, an evidence-based model which powerfully demonstrates the impact of the adversities described above, and offers potential ways forward at individual, organisational and societal levels.
+
+Firstly, however, we must, as individuals and as a society, inform ourselves about the limitations and indeed damage of the largely unquestioned diagnostic approach. In the words of my book ‘A straight-talking introduction to psychiatric diagnosis’ (2014):
+
+*‘**If the authors of the diagnostic manuals are admitting that psychiatric diagnoses are not supported by evidence, then no one should be forced to accept them. If many mental health workers are openly questioning diagnosis and saying we need a different and better system, then service users and carers should be allowed to do so too. This book is about choice. It is about giving people the information to make up their own minds, and exploring alternatives for those who wish to do so.’*
+
+As the eminent psychologist Dorothy Rowe put it, ‘In the final analysis, power is the right to have your definition of reality prevail over all other people’s definition of reality’ (Rowe). The good news is that some people, offered alternative sources of information, have been able to undo the definitions that were imposed on them and make different choices. This is true of many former psychiatric patients who are now prominent activists and campaigners. It also needs to be true of all of us, as individuals and as a society.
+
+**Further reading:**
+
+Breggin, P. (1993) *Toxic Psychiatry.* London: Harper Collins.
+
+Johnstone, L, & Dallos, R (eds) (2013). *Formulation in Psychology and Psychotherapy: making sense of people**’s problems.* London: Routledge
+
+Johnstone, L (2014). *A Straight-Talking Introduction to Psychiatric Diagnosis*. Ross-on-Wye: PCCS Books.
+
+Barham, P & Hayward, R (1995) *Relocating Madness: From the mental patient* *to the person*. London, Free Association Press.
+
+Rowe, D. (1995) in Introduction, Masson, J. *Against Therapy*. London: Fontana
+
+Wilkinson, R., & Pickett, K. (2010). *The Spirit Level: Why equality is better for everyone.* London: Penguin.

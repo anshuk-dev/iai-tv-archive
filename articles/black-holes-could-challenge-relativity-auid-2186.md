@@ -1,0 +1,87 @@
+---
+title: "Black holes could challenge Relativity"
+subtitle: "Einstein, Black Holes and the Fate of Relativity"
+author: "Lydia Patton"
+date: "18th July 2022"
+article_id: "2186"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,978 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Bblack-holes.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/black-holes-could-challenge-relativity-auid-2186"
+---
+
+# Black holes could challenge Relativity
+
+*Einstein, Black Holes and the Fate of Relativity*
+
+**By Lydia Patton** | *18th July 2022* | *Read time: approx. 10 mins* | *1,978 words*
+
+![Black holes could challenge Relativity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Bblack-holes.webp)
+
+---
+
+*Einstein’s General Relativity is a theory of grand scales, requiring correspondingly grand scale experiments to test it. Black holes, whose existence is predicted by General Relativity, are a great laboratory for such experiments. So far, these new experiments, including the recent visualization of the black hole at the center of our galaxy by the Event Horizon Telescope, seem to confirm the theory. For some, this means the truth of Relativity is increasingly beyond doubt. But at the same time, these experiments open up new ways of challenging, and potentially falsifying Einstein’s theory. That is how Einstein himself wanted thing to be. For him, scientific theories were not meant to be collections of true claims to be confirmed by experiments, but heuristic devices open to being discarded the moment they stopped working, argues Lydia Patton.*
+
+Many philosophers of science cite confirmation by experimental evidence as a crucial virtue of theories. Confirmation may mean that, when the theory makes predictions, experiments provide cases of phenomena that behave as the theory predicts. Or, it may mean that experimental evidence raises confidence in our belief in a claim. The philosopher Karl Popper was skeptical about the preeminence of theory confirmation. If all scientists do is look for confirmation of their prior beliefs, they are not engaging in true science, which always seeks to confront theories with the possibility that they could be false. Thus, Popper emphasized the relationship between evidence and *falsification*. Experiments can be formulated so that they test a theory rigorously, showing ways that it could be false. Popper argued that the possibility of falsification distinguishes scientific theories from non-science.
+
+\_\_\_
+
+Each potential experimental confirmation of general relativity could provide hints toward new directions for the theory, or even - in the extreme case - refutation of it.
+
+\_\_\_
+
+The recent discoveries of experimental black hole astrophysics embody the complex relationship between confirmation and falsification of theories in practice. These discoveries are spectacular confirmation of Albert Einstein’s predictions regarding black holes and gravitational waves a century ago. Simultaneously, these new experiments have more potential than any projects have for a century to find reasons to extend and revise the theory of general relativity.  The new black hole science is an excellent case of a fundamental fact: experimental confirmations of a theory often indicate new ways for the theory to be confronted with evidence, which could provide new ways for the theory to break down.
+
+This fact was known and welcome to Albert Einstein, who argued that the theory of relativity should always be open to further inquiry, even saying that its theoretical claims should never be shielded from empirical refutation. Einstein’s care in securing the experimental basis for his theory when he formulated it is a crucial reason why the theory of general relativity (often simply called GR) has remained one of the most empirically well-supported contemporary theories in physics. Paradoxically, the fact that Einstein’s theory is so well adapted to empirical investigation is also the reason that each step forward in experimental GR carries with it the promise of unexpected results. Each potential experimental confirmation of general relativity could provide hints toward new directions for the theory, or even - in the extreme case - refutation of it. 
+
+Philosophers and scientists have competing analyses of the relationship between theory and evidence. Some argue that theories can be elaborated independently of observation (or experiment) to a degree. They argue that, while specific claims must be backed up by empirical evidence, theoretical frameworks can be elaborated using concepts and ideas that are not derived from experience. These are the defenders of the ‘a priori’ aspect of science. Empiricists, in contrast, argue that all scientific claims and theories must be traced back to observation (or, at least, empirical evidence). While he generously appreciated the contributions of apriorist philosophers, Einstein was a lifelong staunch empiricist. [1] He went so far as to, in effect, build the possibility of empirical refutation into the fundamental claims of his theory. One of his most famous papers promises “a Heuristic Point of View about the Creation and Conversion of Light”.
+
+\_\_\_
+
+Einstein himself saw theories, not as collections of truths, but as heuristic tools for investigating reality.
+
+\_\_\_
+
+Generations of philosophers have debated whether general relativity is truly an entirely empirical theory, or whether it embodies abstract theoretical claims about spacetime, matter, and motion. [2] The debate is not merely academic. If general relativity employs a core of abstract geometry or pure kinematics (analysis of motion) that floats free of empirical refutation, then one might argue that the core is immune to revision when the theory is confronted with experimental data. [3] General relativity could be considered a true theory in this way. Another way to establish its truth is if key claims of the theory are so well confirmed by experiment that refuting them would be highly unlikely.
+
+To many philosophers, the highest praise for a theory is for it to be true. A popular notion of a ‘true’ theory is one established so well by evidence that it’s entrenched for all time, secure from the possibility of counterargument. Whether it is established a priori or empirically, truth is often considered to be the main virtue of theories. From a historical perspective, however, it is perplexing that so many want to defend the truth of general relativity. Einstein himself saw theories, not as collections of truths, but as heuristic tools for investigating reality.
+
+Einstein’s approach allows for a different way to understand the relationship between theories and the world. One way is to try for a static, unmoving relationship between scientific claims and their confirmation by experiment. Ideally, using this strategy, we establish those claims beyond the possibility of refutation, proving their truth. That is very far from Einstein’s own approach. Instead, he argued that the basic claims and laws of a theory are ‘heuristic’ devices for investigating reality. There is never a stage at which they are immune from the possibility of revision, or even of being refuted entirely.
+
+We might conclude that Einstein’s approach makes truth difficult - even impossible - to reach. That seems like a detriment of his view. But there is another way to look at it. The laws, claims, and relations of a theory are not like individual nuggets of gold. Scientists don’t build up a hoard of truths like a dragon in a lair. Instead, a scientific theory is more like a vehicle - like a boat, a train, or the Starship Enterprise. On a train, you don’t head to one station and then rest there, secure in the knowledge that you’ve reached that station. Instead, you move on to new stations, because that is the point of travel.
+
+Most theories are constructed to explain an existing domain of facts, and can be used freely within that domain. A theory that is well constructed and built on solid evidence will support scientific reasoning in its original domain, just as if a train is properly built and well maintained, it will allow you to go anywhere on its route. But an outstanding scientific theory can do more - it can be more like a starship than a train. A starship can travel to unknown destinations. It is built according to secure engineering principles, and will hold together to make the trip. However, you may find challenging conditions when you arrive that may force you to make repairs to the ship. The philosopher of science Otto Neurath knew this well, comparing the search for knowledge to a voyage on a ship at sea that’s constantly undergoing repairs.
+
+General relativity was first formulated near the beginning of the twentieth century, explaining gravity as the curvature of spacetime. Experimental results consistently agreed with the predictions of GR, making it one of the most empirically successful theories of the twentieth century. [4] But the ability to test many of the predictions of general relativity came very slowly, and only with immense effort on the part of generations of scientists.
+
+Einstein predicted gravitational waves in 1916, as is well known. But it was only toward the middle of that century, prominently at a conference in Chapel Hill in 1957, that scientists began to formulate specific physical approaches to the idea that black holes radiate mass-energy in the form of gravitational waves. [5] In order to test this hypothesis, instruments had to be built that could detect coherent signals from merging black holes. Just as crucially, frameworks for data analysis had to be built, that could determine the properties of merging black hole systems by analyzing those signals.
+
+Famously, the scientists associated with the LIGO Scientific Collaboration and the Event Horizon Telescope were able to meet these challenges. On the 14th of September 2015, the LIGO Scientific Collaboration detected signals coming from two black holes merging with each other. On April 10th, 2019, the Event Horizon Telescope released an image of a massive black hole in the center of the galaxy Messier 87.
+
+\_\_\_
+
+Each new discovery involves the possibility that a signal or image will be detected that is inconsistent with general relativity.
+
+\_\_\_
+
+The new frameworks that made these achievements possible go well beyond the initial experimental basis of general relativity. In fact, they involve using the theoretical framework of general relativity to build detectors and to analyze the data from them. Without GR, LIGO’s interferometers would never have been built, and the signals they detected would never have been interpreted as gravitational waves in spacetime. [6] The Event Horizon Telescope analyzes and interprets data from radio telescopes across the globe - and this analysis and interpretation involves GR many times along the way.
+
+In this way, general relativity is used as a platform to gather new experimental evidence in its favor. At the same time, GR is being put to the test, just as Einstein wanted it to be. Each new discovery involves the possibility that a signal or image will be detected that is inconsistent with GR. It’s unlikely to be overthrown completely - general relativity is very well supported by the evidence. But the scientific interest of these new experimental programs certainly isn’t limited to confirming what scientists already know. The new instruments and experiments were built to extend the reach of general relativity, to find out how much the theory agrees with the data, and to build a stronger platform for future research.
+
+It’s entirely possible, then, for general relativity to be true - in the sense that scientists retain it as a well-supported theory - and also to be revised in practice, as we learn more about the phenomena the theory describes. Einstein taught that theories are not just static collections of claims, but heuristic frameworks for investigation. The philosophers of science who focus on science in practice are ready to learn what these new results, and the heuristic approach, can teach us.
+
+[1] The prolific work of Don Howard on Einstein as a philosopher of science is warmly recommended. The historian Richard Staley illuminates Einstein’s incorporation of empirical investigation and thought experiments into the development of his theories. His *Einstein’s Generation* is a history of the material and technical cultures surrounding Einstein’s theories of relativity, and the relationship between Einstein and his colleagues and contemporaries. Jimena Canales’s *The Physicist and The Philosopher* details the debate between Einstein and Henri Bergson over science, time, and the role of philosophy.
+
+[2] Michael Friedman’s *Foundations of Spacetime Theories* is a classic text defending the latter claim.
+
+[3] Dennis Lehmkuhl’s paper “Why Einstein Did Not Believe that General Relativity Geometrizes Gravity” is an intriguing read in this connection.
+
+[4] Daniel Kennefick’s *No Shadow of a Doubt* details one such experimental project, Eddington’s eclipse expedition.
+
+[5] Discussions of the 1957 Chapel Hill conference with Dennis Lehmkuhl, Daniel Kennefick, Juliusz Doboszewski, and others have been invaluable, and the proceedings of that conference are recommended to understand this part of the history.
+
+[6] The work of the philosopher Jamee Elder analyzes this fact to excellent effect. See Elder’s “On the ‘Direct Detection’ of Gravitational Waves”.

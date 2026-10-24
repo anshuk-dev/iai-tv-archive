@@ -1,0 +1,128 @@
+---
+title: "To defeat populism, the left must focus on work"
+subtitle: "Liberalism needs socialism"
+author: "Matt McManus"
+date: "1st May 2025"
+article_id: "3158"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "3,543 words"
+read_time: "Read time: approx. 18 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/To-defeat-populism-the-left-must-focus-on-work.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/to-defeat-populism-the-left-must-focus-on-work-auid-3158"
+---
+
+# To defeat populism, the left must focus on work
+
+*Liberalism needs socialism*
+
+**By Matt McManus** | *1st May 2025* | *Read time: approx. 18 mins* | *3,543 words*
+
+![To defeat populism, the left must focus on work](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/To-defeat-populism-the-left-must-focus-on-work.webp)
+
+---
+
+*The left in America has been almost silent following their defeat to Donald Trump in the US election. While the left in the UK has been pragmatist, lacking a clear vision. In this interview, Matt McManus argues that liberal socialism should be the new guiding vision of the left. Liberal norms such as the rights of the individual and modern liberal institutions should all be maintained. But the workplace, which currently functions as an autocratic space carved out in societies that elsewhere challenge autocracy, must be re-imagined. Ordinary people, ordinary workers, must be protected from the ills of capitalism.*
+
+**Harry Carlisle: To open, what is liberal socialism?**
+
+Matt McManus: Well, liberal socialism, as portrayed in my book, is a tradition that can be dated back to the 19th century, although it has antecedents in the 18th century and it consists of this drive to extend liberal principles about self-governance and equality into the economy beyond just limiting them to the state. Canonical liberal socialists include everyone from John Stuart Mills through to people like [Chantal Mouffe](https://en.wikipedia.org/wiki/Chantal_Mouffe) and [Carlo Rosselli](https://en.wikipedia.org/wiki/Carlo_Rosselli). All of them essentially argued that there's something extremely odd about insisting that it's important for people to be treated like equals and to do what they wish. But the minute you enter into the workforce, all of that kind of high-falutin rhetoric just disappears, and you enter into a region that looks a lot like the autocratic systems evolved.
+[![related-video-image](https://iai.tv/assets/Uploads/the-rise-of-the-new-right-with-david-aaronovitch-3.webp)
+
+SUGGESTED VIEWING
+The rise of the new right
+With David Aaronovitch](https://iai.tv/video/the-rise-of-the-new-right)
+
+**You would normally imagine these two doctrines as incompatible, particularly on the individual as the root of liberalism, and socialism being more communitarian. What do you think of that perception of an inherent gulf between them?**
+
+This distinction between collectivism and individualism, or associating socialism with collectivism and liberalism with individualism, is very much a product of the 20th century and the Cold War. Sam Moyn makes this point very effectively in his book [*Liberalism Against Itself*](https://blogs.lse.ac.uk/lsereviewofbooks/2024/04/15/book-review-liberalism-against-itself-cold-war-intellectuals-and-the-making-of-our-times-samuel-moyn/), where he stresses how a lot of these ideas about what liberals stand for and what socialists stand for were framed during the Cold War period by anti-Communists who identified as liberals. I'm not dismissing them, but this meant that they tended to have a very dualistic approach to both the history of liberalism and socialism and what the two doctrines meant. Now, there are, without a doubt, species of liberalism that are committed to what I call, in the book a kind of possessive individualism. And what possessive individualism holds is basically that society consists of individuals. Think back to, you know, [Margaret Thatcher's dictum](https://www.theguardian.com/politics/2013/apr/08/margaret-thatcher-quotes), that there is no such thing as society, merely individuals and families. And aligned with this kind of anthropological vision is a normative vision that, following up on Margaret Thatcher's point, individuals must look after themselves.
+
+\_\_\_
+
+This kind of possessive, individualist strain of liberalism was by no means exhaustive of the liberal tradition as a whole.
+
+\_\_\_
+
+The moral vision is that we should understand society as a competitive site where there are constraints on what people can do to one another, established by the state and by law. For instance, you can't kill one another or seize each other's property. But beyond that, we compete for scarce goods and resources, and the incentives this establishes will help produce economic growth that ultimately will be to the benefit of most people. And some people who are a little bit more stringent on this would say, even if it's not to the benefit of many people in the long run, nonetheless, the people who outcompete others should be allowed to keep whatever it is that they've earned because they deserve it. They merit it through talent, hard work, effort, drive or the contributions they've made. Many other liberal thinkers can be kind of aligned with this outlook. Proto liberal thinkers like Hobbes and Locke, for example. But really, it really starts to crystallize in the thinking of people like Jeremy Bentham, who associated with the kind of utilitarian ethic that in the market, each person pursues their happiness and potentially increases happiness for everyone else because of the incentive structures that are established. But what I point out in [the book](https://www.taylorfrancis.com/books/mono/10.4324/9781032647258/political-theory-liberal-socialism-matthew-mcmanus) is that this kind of possessive, individualist strain of liberalism was by no means exhaustive of the liberal tradition as a whole.
+
+[![related-video-image](https://iai.tv/assets/)
+
+SUGGESTED VIEWING
+The not so classical liberal
+With Deirdre McCloskey](https://iai.tv/video/the-not-so-classical-liberal-deirdre-mccloskey)
+
+Many liberals, going back to Thomas Paine, Mary Wollstonecraft, Adam Smith, let alone John Stuart Mill, followed the Aristotelian dictum that we’re intrinsically social animals. It is very much the case, of course, that oftentimes we do look after our interests first and foremost, but we're also very concerned with what other people think about us, and what we're happiest when we enter into communities that secure our flourishing. And these liberals always insisted that what we need to do is create the social circumstances where individuals will be able to cooperate to better secure the conditions for their mutual flourishing. And it's out of this kind of outlook that you see a lot of the liberal socialist dispositions emerge.
+
+\_\_\_
+
+Without a doubt, the kind of ethics demanded by liberalism or modernity is extremely demanding... but a demanding ethics is not necessarily a deficient ethics.
+
+\_\_\_
+
+**Rather than the direction of Liberal Socialism, modern politics seems to be defined by an authoritarian populism, one in which vaguely left-leaning economics is paired with conservative positions on culture. Why do you think this has been the dominant rejection of mainstream liberalism over the liberal socialism you describe?**
+
+Well, there are a lot of reasons for this. One of the most basic is that there's always this propensity to think in tribalistic terms. And what you see a lot of right populists argue is that we are going to express a degree of solidarity in our approach to the economy, for instance, by tending to the needs of blue collar workers in a way that liberal economics hasn't for a long time, but we're only going to be interested in the concerns of blue collar workers who belong to our nation, our state, our Volk or our race. And that's in many ways, deeply inconsistent with the way that a lot of liberals tend to think about things. Liberals have never denied the importance of state, membership, citizenship, et cetera, and for pragmatic and moral reasons, have also stressed that the primary duties of state officials are, of course, towards citizens.
+
+\_\_\_
+
+To use, to paraphrase the philosopher Drake, you know, going to worry about me give a fuck about you.
+
+\_\_\_
+
+But there's a universalistic quality to liberalism that runs up against this instinct towards tribalistic othering. This is very nicely expressed by Roger Scruton, the great conservative thinker, in his book [*The Meaning of Conservatism,*](https://link.springer.com/book/10.1007/978-1-349-17640-3) where he said that one of the key problems with liberalism is precisely this universalistic dimension to its ethical thinking. Since it regards all people as equal, it tends to think that we have duties towards everyone equally, regardless of whether they're British, French, Algerian, Syrian, et cetera. And that always pushes liberals to want to expand the horizon of our moral concerns beyond those who belong to our nation or our people or whatever it happens to be. And I happen to think that there are a lot of things that are extremely appealing precisely about this dimension to liberalism. I follow [Charles Taylor](https://www.mcgill.ca/philosophy/people/emeritus-faculty/taylor), who's a Canadian philosopher and social democrat. You could describe him as something like a liberal socialist, albeit with a few more communitarian qualities. He says, without a doubt, the kind of ethics demanded by liberalism or modernity is extremely demanding. We have to regard everyone as an equal. But a demanding ethics is not necessarily a deficient ethics; if anything, what's characteristic about liberal ethics is precisely that it is, to use his kind of terminology, a higher or more advanced than this kind of tribalistic instinct. And the ironic thing is, a lot of conservatives will talk about how we need to be more spiritually attuned, or we're losing our sense of what's morally right and wrong. And Taylor's rebuttal to that is, well, actually, there's something extremely easy and extremely almost lazy about just saying we're going to look after our own and everyone else, we don't worry about them. Right? To use, to paraphrase the philosopher Drake, you know, going to worry about me give a fuck about you. That's the way it'd be all and end all things.
+
+Taylor points out that, if you want a project that is extremely demanding, difficult, but also inspiring, the notion of creating a society where we generally do treat everyone equally and are respectful of their dignity, regardless of where they come from, that is so hard to think through that we haven't ever been able to design or create or establish a society that is fully able to respect an ethic that is that demanding. But Taylor points out that that's no reason to keep trying to get better at approximating that ideal.
+
+\_\_\_
+
+Center left parties have won elections with this approach, but nothing is inspiring or principled about it that enables people to think that they are participating in a bigger project.
+
+\_\_\_
+
+**The criticisms of mainstream liberals you describe tie into the lack of vision that some say about the left, particularly here in the UK and the top of the Democratic Party in the States. So, is liberal socialism a unifying vision, as you see it? It's the combination of these essentially warring political factions behind some form of universal idea that we can then use to make a platform that people care about and get people to vote for. Is that the goal?**
+
+Yeah. So there are two things I'll say about that. One is, if you look at centre-left parties, the way that they've kind of approached electoral politics, certainly since I was born, they've essentially said that the way to win elections is you break the electorate into different constituent groups. You find out the kind of groups that are leaning towards supporting you and might be convinced to support you, and then everyone gets a few little goodies here and there. Nothing too excessive, of course. And then you hope that that will be enough to kind of stitch together your coalition. Center left parties have won elections with this approach, but nothing is inspiring or principled about it that enables people to think that they are participating in a bigger project to try to make society and the world a better place, let alone improve things for themselves and their children. You shouldn't be surprised that when right populist come along with a much more exciting, dynamic, big picture kind of politics that many people rush quite rapidly to embrace them, especially again when they will can sit there with some plausibility and say, *Actually all those liberal politicians, they're elitist, globalist, cosmopolitans. They don't care very much about you.* They're just trying to give you a couple of goodies every electoral season to buy you off. That said, you should support us, and we'll look after people who look like us, right?
+
+Aligned with that, I point out that there's an awful lot of empirical evidence that suggests one of the reasons why people are so angry at liberals is that they think that liberals don't care about ordinary people. Just to cite three studies so [Matthew Goodwin](https://www.researchgate.net/publication/307085899_The_2016_Referendum_Brexit_and_the_Left_Behind_An_Aggregate-level_Analysis_of_the_Result) in the UK pointed out that one of the biggest indicators of supporting Brexit and politicians like Boris Johnson was this sense that ruling elites were removed, indifferent to ordinary people, and more concerned with people elsewhere in the world than in the United Kingdom, and also this perception that ordinary Brits had very little say in how their country was managed, right, that their opinions didn't account for anything.
+
+\_\_\_
+
+Ordinary Americans do have very little say in how they're governed.
+
+\_\_\_
+
+Then, looking to the United States, Martin Gilens echoes in a book called [Affluence and Influence](https://press.princeton.edu/books/paperback/9780691162423/affluence-and-influence?srsltid=AfmBOorL3eL2VuxTrktb2FEnVABJTa9KpbyaGtdpIWobtnuc0oSA5_wG), pointed out that these perceptions are not just perceptions. They're grounded in reality. Ordinary Americans do have very little say in how they're governed. Where he builds upon Goodwin is in saying there are some Americans who have an awful lot of influence, and that is predominantly extremely wealthy Americans. He points out that if you are lower or middle income, you have almost no say on the policies or laws passed by American politicians, and that's true regardless of which party is in power. But if you're affluent, the likelihood that you're going to see your influences, your interests, reflected in the law, increases extremely rapidly.
+
+And then in 2020, Thomas Piketty released his book, [Capital and Ideology](https://en.wikipedia.org/wiki/Capital_and_Ideology) that confirmed all these theses. People perceive liberals to be out of touch and indifferent. Feel that they don't have any say in their local politics, and they're right to feel that, because it's true. As it turns out, ordinary people are quite smart and detect that they don't count for very much in our politics. And I think that to get people to come back on board with a liberal project, something like liberal socialism, that does take the concerns of ordinary people seriously and does empower them to have a say and how they are governed, is the right way forward. Indeed, I think what's characteristic about the liberal socialist tradition is its insistence that ordinary people have more of a say, not just when it comes to political institutions, but how their work life is organised through things like supporting co-ops, worker democracy, unionisation, that kind of thing.
+
+\_\_\_
+
+They were all committed to this idea that the market provides freedom, but provides freedom for the best among us.
+
+\_\_\_
+
+**Building on the more socialist parts of liberal socialism, one of the things that came to mind is a common socialist critique of liberals is that when push comes to shove, they'll side with the far right over the left. So I think you saw this in Nazi Germany most explicitly, but perhaps also with Donald Trump in the States. The liberal commitment to free market capitalism means that, if there's a crisis, and Liberals have to choose either way, they seem to tend to go in the direction of the far right. So why do you think that under this liberal socialist approach, would liberals join with socialists rather than side with the far right?**
+
+That's a great question, and unpacking it comprehensively would require an enormous amount of time. So I'm just going to focus on the present era. [Quinn Slobodian](https://en.wikipedia.org/wiki/Quinn_Slobodian) has released a very good book recently that touches on just this issue, called [Hayek’s Bastards](https://www.penguin.co.uk/books/472194/hayeks-bastards-by-slobodian-quinn/9780241774984). In Hayek’s bastards what he talks about is what's sometimes called the neoliberal to far-right or a libertarian to far-right pipeline, because he points out, there seems to be something very odd about presenting yourself or presenting your ideology as committed to a small state, economic growth, personal liberty, et cetera, and then all of a sudden, buying into the programs advanced by authoritarian populists or the far right neo-fascistic movements. But what he points out actually, is that if you look at the world view that a lot of libertarians and neoliberals embraced, and it brings up people like [Herman Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe) or [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) or [Ayn Rand](https://aynrand.org/), they were all committed to this idea that the market provides freedom, but provides freedom for the best among us, so they're able to rise to the top and accumulate a lot of wealth, and then you use this wealth to advance great projects that are beneficial to all of us.
+
+The arguments of many of these libertarians and neoliberals were that these people should have an enormous amount of agency, but any kind of efforts to intrude on their agency, even if that means reducing the freedom of other people, particularly working-class people, are acceptable. Just to give a good example that led von Mises had nice things to say about [fascist parties](https://mises.org/friday-philosophy/mises-and-fascism) and the 1920s because he said they've done a great job in crushing democratic, communist, socialist and workers’ movements in Italy, even if von Mises qualified that by saying after fascism, we should transition to a more liberal society, since Fascism is kind of an emergency stop gap that we don't need anymore.
+
+\_\_\_
+
+Peter Thiel, along with Elon Musk, one of the founders of PayPal, wrote an influential essay, The Education of a Libertarian, in which he said the Obama election taught him that libertarianism is incompatible with democracy.
+
+\_\_\_
+
+Or Ayn Rand, of course, who had enormous amounts of reservations about democracy. Sometimes she was a little bit more for it if she thought they were going to support right-wing governments in the 1940s, for example. But you know, she could just as quickly say the reality is that most people want to intrude on the affairs of the creator class. That's only because they're resentful second-handers, and the true elite should go on strike and prevent any kind of interference with their actions. Peter Thiel, along with Elon Musk, one of the founders of PayPal, wrote an influential essay, [The Education of a Libertarian](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/), in which he said the Obama election taught him that libertarianism is incompatible with democracy. That too many women have been enfranchised, and women tend to be more empathetic and therefore support policies that help he poorest, which undermines libertarianism. Theil is now offering a lot of support for people like [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin), who's called for an American monarchy, or JD Vance, who's been very interested in post liberal thought and has called for an original populist elite to take over.
+
+Slobodian’s point is that this demonstrates how, at least a kind of liberalism, self-described, is not all that committed to liberal principles of representative democracy, freedom for all, particularly the working classes. What they're committed to is capitalism and a kind of market aristocracy being able to emerge that's not going to have any kind of limitations on what it wants to do. And if that means infringing on the rights of ordinary people, then so be it. One of the points of my book is to say, without a doubt, there are many species of liberalism, particularly neoliberalism and right-wing libertarianism, but this currently dominant version of liberalism is by no means reflective of the liberal tradition as a whole.
+
+**So I guess to save the left, we have to save liberalism first,**
+
+I would say yes. And I mean, look, this is, I've been talking a lot about liberals right now. This is where maybe I'll speak a little bit more to the left. So I spent a lot of time in left circles, Marxist circles, you name it. There's a lot to learn from the writings of Karl Marx. It's a very rich tradition, but I think a lot of leftists are instinctively wary to anything that identifies with liberalism, since they see that as, at best, an endorsement of a kind of moderate politics, or at worst, as you say, kind of a crypto right wing attitude that's just not willing to acknowledge it as such. But one of the reasons I decided to write this book is whenever I talked to my fellow leftists and I asked them, ‘*Do you not believe in freedom of expression, freedom of speech, freedom of sorry, freedom of religion, freedom of assembly*’ etc, they would say, ‘*Well, of course, we believe in all those things, right?*’ If anything, the major problem they have is we're not exactly confident that liberals will go to town for them, right? Certainly not when the chips are down, if they have a choice between supporting capitalism or supporting the liberal freedoms of basic people.
+
+And my point is to say if you believe in all these basic liberal principles about the importance of free speech, the importance of assembly, the importance of religious toleration, there's no reason not to make explicit those commitments by saying that there are a lot of things about liberalism that are very much worth preserving and worth carrying on into the future, and you don't need to take my word for it. Karl Marx made exactly that point where he said, there's this kind of millenarian socialist attitude that holds that with the transition to a bourgeois society, everything will be changed, right? Well, in year one, it was the way the Jacobins sometimes wanted to. And Marx says that it is extremely unhistorical and undialectical, not to mention anti-materialist. You're never going to have a society that just completely sheds all of its old features.
+
+He says, any new socialist society that you create is going to be stamped by many features of bourgeois rights, including liberal institutions, liberal rights, etc. And he said, you know, that's probably going to be the case for a very long while for any realistic socialist society. And that's okay, because a lot of features of liberalism are, without a doubt, an improvement on the old aristocracy and will be carried forward historically. It's only on a very long horizon of history that maybe one day we can do without things like bourgeois rights and institutions, because there'll be such a super abundance of goods. Then everyone can describe on their banners, from each according to his ability, to each according to his needs, and the state will wither away.

@@ -1,0 +1,61 @@
+---
+title: "Who is to blame for migrant deaths?"
+subtitle: "They are no accident"
+author: "Kieran Oberman"
+date: "3rd December 2021"
+article_id: "1988"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,300 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/refugees-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/who-is-to-blame-for-migrant-deaths-auid-1988"
+---
+
+# Who is to blame for migrant deaths?
+
+*They are no accident*
+
+**By Kieran Oberman** | *3rd December 2021* | *Read time: approx. 7 mins* | *1,300 words*
+
+![Who is to blame for migrant deaths?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/refugees-min.webp)
+
+---
+
+*When migrants die in their effort to cross the policed borders of a country, governments tend to blame the smugglers that enabled them. Others might blame the migrants themselves for taking extremely high risks. But the real moral responsibility lies with the governments, argues Kieran Oberman.*
+
+On Wednesday 24 November 2021, 27 migrants died trying to cross the Channel from France the UK. Most were Iranian Kurds. Among the group was one pregnant woman and three children. It was the worst disaster in the Channel to date. Around the world, such tragedies are all too common. On the US-Mexico border, migrants often collapse from heat and exhaustion. In the Mediterranean region, drownings are so common that it has become the world’s deadliest frontier. In the last 5 years alone, over 10,000 migrants have drowned trying to reach Europe’s southern coast.
+
+Who is to blame for such tragedies? Governments tend to blame the smugglers that transport migrants across borders. Others might blame migrants themselves – after all, they choose to make journeys they know are risky. Another possible answer is that no one is to blame. Seas and deserts are just dangerous places. The migrants who perish are victims of the elements, nothing more. In fact, all these answers are wrong. Ultimately, when migrants die at borders, it is governments who are to blame.
+
+Consider the case of the Channel. Here, the thought that migrant deaths are natural deaths is a non-starter. The Channel is an extremely safe sea to cross. On a ferry or Eurostar, you are guaranteed a secure ride. It is also cheap. Any migrant who has paid their way as far as Dunkirk will be able to stump up the cash for a passenger ticket. So why are migrants dying in the Channel? Because they are not travelling by Eurostar. They are travelling in small, crowded dinghies - not a safe way to cross.
+
+The reason smugglers exist is because there is a demand for their services, and that demand is created by border enforcement.
+
+What about smugglers? The UK government is adamant that they are to blame. Commenting on the recent tragedy, UK Prime Minister, Boris Johnson claimed that smugglers are “literally getting away with murder”. Indeed, sometimes the government goes as far as to frame its tough stance on border enforcement as justified by the need to stamp out smuggling.
+
+When smugglers overload boats or take other shortcuts, they are certainly at fault. But the reason smugglers exist is because there is a demand for their services, and that demand is created by border enforcement. If migrants were permitted to travel using conventional transport, there would be no smugglers. In this context, justifying border enforcement as an anti-smuggling measure gets things exactly the wrong way round. It would be like trying to justify alcohol prohibition as means to stop bootleggers.
+
+In any case, when it comes to Channel crossings, it’s not even clear to what extent smugglers are actually involved. The government’s own National Crime Agency admitted that migrants often engage in “self-facilitation”, clubbing together to buy the boats themselves.
+
+The government claims that migrants crossing the Channel are taking needless risks, and we often blame people who engage in needless risk taking.
+
+What then of migrants? Are they at fault? Blaming migrants for their own deaths is something even the UK government avoids doing explicitly, but follow the government’s logic, and that is where you might end up. The government claims that migrants crossing the Channel are taking needless risks. We often blame people who engage in needless risk taking. If a trespasser decides it would be fun to leap over your garden wall and breaks her leg in doing so, the trespasser is responsible for the harm she suffers.
+
+One might think this analogy fails because, unlike the trespasser, many migrants do not make a free choice. They are forced to migrate. Here things get tricky. It is true that many migrants are forced to leave their country of origin. They are fleeing persecution, war, poverty or some other serious threat. But migrants crossing the Channel, as the UK government is keen to point out, are not leaving their country of origin. They are leaving France. France is a safe and prosperous country. So why can’t they stay there?
+
+Some migrants may have especially good reasons for not staying in France. Others not. But ultimately the question of whether Channel crossings are forced migration is beside the point. For the real problem with the trespasser analogy is not that migrants are forced to migrate, it is that they have a right to do so.
+
+It’s helpful here to distinguish legal from moral rights. Legally, only a narrow category of people have a right to protection in the UK: those who are fleeing persecution and have already entered the UK. Morally, this makes no sense. If a migrant has a right to protection once they enter, why not before? The system we currently have – that requires the government to protect people who have arrived but permits it to prevent people arriving in the first place – is plain illogical. And why only those fleeing persecution? People flee their home countries for many reasons including war, poverty, famine, and ill health. There is no good moral reason to only protect the persecuted.
+
+Legally, only a narrow category of people have a right to protection in the UK: those who are fleeing persecution and have already entered the UK. Morally, this makes no sense.
+
+It might be said that the UK cannot be expected to admit everyone in need. It could not admit every refugee let alone those fleeing war, poverty, famine and all the other causes of displacement. This is true. Immigration brings benefits, but there are also costs. Were a country to go on admitting indefinately, those costs would build up. At some point, the costs would be such that they would go beyond what a country can be expected to bear for the sake of protecting outsiders. There are limits to humanitarian obligations. The question we need to ask is, has the UK and other prosperous countries met those limits?
+
+I think the answer is clearly “no”. The UK government likes to talk up its resettlement and foreign aid programs when challenged over its exclusion of migrants, but the truth is the UK is doing miserably on both fronts. In the last year, the UK resettled just 1,171 people. Oxford University’s Migration Observatory ranks the UK 7th in terms of absolute numbers of people it grants protection compared to EU states and 19th once adjusted for population size. The government has a similarly poor record when it comes to foreign aid, having recently violated its own manifesto commitment by slashing the aid budget from 0.7% of GNI to 0.5%.
+
+As a safe and prosperous country, the UK has a duty to help many more people in need than it currently does. It need not admit everyone. Indeed, often it is better to provide foreign assistance instead. But either way, it must do more. As long as it fails to fulfil its duty, it has no right to use force against vulnerable migrants trying to enter. It cannot just tell people to stay in France because it is not only France that has humanitarian obligations. The UK does as well.
+
+So, who is responsible for migrant deaths? Ultimately, governments are. It is because of UK government policy that unauthorised migrants cannot simply board a ferry or a Eurostar. It is because of UK government policy, that they resort to unsafe transport instead. As long as the government fails in its duties to protect people in need, it has no right to ban them from crossing the Channel safely. When migrants die as a result, the government is to blame. For the government to point its finger elsewhere is pure hypocrisy.

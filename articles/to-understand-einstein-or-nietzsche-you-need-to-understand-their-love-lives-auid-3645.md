@@ -1,0 +1,79 @@
+---
+title: "To understand Einstein or Nietzsche, you need to understand their love lives"
+subtitle: "The heartbreak driving the great thinkers"
+author: "Adrián Gordaliza Vega"
+date: "31st July 2026"
+article_id: "3645"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,417 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/article-template-copy6.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/to-understand-einstein-or-nietzsche-you-need-to-understand-their-love-lives-auid-3645"
+---
+
+# To understand Einstein or Nietzsche, you need to understand their love lives
+
+*The heartbreak driving the great thinkers*
+
+**By Adrián Gordaliza Vega** | *31st July 2026* | *Read time: approx. 7 mins* | *1,417 words*
+
+![To understand Einstein or Nietzsche, you need to understand their love lives](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/article-template-copy6.webp)
+
+---
+
+*We tend to think that great philosophy emerges from pure reason, not love or heartbreak. And for a large part of 20th-century philosophy, from analytic philosophy to Roland Barthes’ declaration that the author is dead, an author’s biography was seen as merely a distraction. But philosopher **Adrián Gordaliza Vega**, author of* In Love and Pain*, argues that, in fact, an author’s biography is crucial to understanding their work, and their love life is especially important. From Heidegger to Nietzsche to Einstein, he shows how the ideas of great thinkers were influenced by their romantic relationships.*
+
+When confronted with a text or a work of art, we must address the following issue: How does an author’s own biography affect the interpretation of their work? And to refine it even further, does their romantic life—with its lights and shadows—truly influence their output?
+
+Let me illustrate this with an example: Martin Heidegger retained his Nazi Party membership card until the end of the Second World War. He was an admirer of Hitler and, as rector of the University of Freiburg, made decisions that harmed some of his Jewish colleagues. However, at the same time, he maintained an extramarital relationship with a young Jewish student—none other than Hannah Arendt.
+
+[![related-video-image](https://iai.tv/assets/Uploads/love-is-more-than-magic-3.webp)
+
+SUGGESTED VIEWING
+Love is more than magic
+With Alain de Botton](https://iai.tv/video/love-is-more-than-magic)
+
+Faced with this paradox, can we dismiss the evenings they spent discussing philosophy in the dim light of her room? Or the letters laden with love and ontology that they wrote to each other? Finally, would it not also be foolish to ignore the influence that this romance would have on Arendt’s future work? There was a philosophical dialogue between them throughout their lives—something that did not particularly thrill Elfride, Heidegger’s anti-Semitic wife.
+
+\_\_\_
+
+A large part of 20th-century philosophy has tended to ignore, or even despise, this intrusion of biography into theory.
+
+\_\_\_
+
+Arendt inherited from her teacher—and lover— the critique of Western metaphysics for having forgotten Being and focused on beings—in other words, we have ignored the very existence of our lives and concentrated on things. However, she gave a less abstract character to this critique. Arendt believed that human action has been reduced to mere production, and in this way we have distanced ourselves from the “common world”—another Heideggerian concept—which ultimately gave rise to totalitarianisms and the “banality of evil.” Through their many conversations and letters, [Martin Heidegger](https://iai.tv/articles/wittgenstein-heidegger-and-the-language-of-silence-auid-3361) also modulated his abstract philosophy to ground it in the political present of his time, and [Hannah Arendt](https://iai.tv/articles/hannah-arendt-on-why-its-important-to-break-your-bubble-auid-1180) had a great influence in this regard.
+
+A large part of 20th-century philosophy has tended to ignore, or even despise, this intrusion of biography into theory. On one hand, analytic philosophy has sought the meaning of a work within public linguistic or literary conventions. This means that an author’s intentions and circumstances lack relevance. The Russian formalist school, and the American New Criticism, state that an author's work is an autonomous and closed object that should be studied independently. An author’s biography is merely a distraction. Their intention was to turn the analysis of texts, and of works of art in general, into an autonomous and scientific discipline. Once created, the work detaches itself from its author in the same way that a geometric theorem becomes independent of its “discoverer.”
+
+Neither structuralist nor postmodern philosophy has looked kindly upon this interference of private or emotional life in the search for a work’s meaning. The author is dead, declared Roland Barthes (1915–1980). What does the [author’s intention](https://iai.tv/articles/the-death-of-the-unreliable-narrator-auid-2694) matter to us as readers? We are free to give new meanings to a work or text. Meaning is blurred; it is deferred ([Derrida’s différance](https://iai.tv/articles/derrida-vs-searle-the-obscure-object-of-language-auid-2593)) because a final, univocal meaning is never reached. The sense of a text is constructed, and the author’s intention—conscious or unconscious—is just one of infinite possibilities. Hermeneutic philosophy seems more balanced on this point, affirming that to understand an author, one must know the historical and cultural context. Biography is one more element for a potential interpreter to take into account.
+
+\_\_\_
+
+Biography is the “radical reality” from which one creates.
+
+\_\_\_
+
+Within a similar perspective is the Spanish philosopher Ortega y Gasset (1883–1955), for whom a person’s biography and work are two sides of the same coin. To know an author’s life is to know their work, and vice versa. Biography is the “radical reality” from which one creates. He sought to rehabilitate the figure of the creator—artist, philosopher, or writer—as a flesh-and-blood being. For Ortega y Gasset, a text is always a human endeavor and therefore biography reveals much of the intentions that the author had when writing it. This is how the most famous quote attributed to this author is understood: “I am myself and my circumstance”. He called this theory “ratiovitalism.” What Ortega y Gasset could not foresee, making the debate even more interesting, is the emergence of artificial intelligence and [large language models](https://iai.tv/articles/llms-show-language-does-not-describe-reality-auid-3578) where the authorship of a text does not necessarily trace back to a human being.
+
+Just as it is impossible to separate Christianity from the biography of Jesus Christ, a philosopher should be studied as if their life and their work were one and the same thing. In my book [*In Love & Pain: Exploring the turbulent romantic lives of great thinkers*](https://www.amazon.co.uk/Love-Pain-Exploring-Turbulent-Romantic/dp/1066766002/ref=sr_1_1?crid=22L1SZ13PI1S9&dib=eyJ2IjoiMSJ9.I2QuRQVjQerkqB2wXpQb-QYw11aCgslbcT3Tzuwl6LDGziylYws3MLB_AFlGSniv.jhoP8r66yO1Ek8IlM94jasifmTTOjkM6i9DkVom8ZCc&dib_tag=se&keywords=Gordaliza+Vega+In+Love&qid=1784901137&sprefix=gordaliza+vega+in+love%2Caps%2C506&sr=8-1), I have attempted to combine life and work by emphasizing the romantic lives of thinkers such as Nietzsche, Wittgenstein, Camus, and Einstein, among others.
+
+\_\_\_
+
+The politics of the future may be splintered by disagreement over such topics as how to manage our environing background and how to permit or restrict the entry of new objects into the political sphere.
+
+\_\_\_
+
+It could be rightly argued that the theory of relativity was unaffected by the sweetness or cruelty of Albert Einstein (1879–1955) toward his first wife, the long-suffering Mileva Marić (1875–1948), but the fact that both studied together at the same university and that she initially helped him with the calculations may have accelerated or altered the course of his subsequent work. Some Einstein biographers believe that Mileva Marić played a decisive role in the development of the theories her husband published in the so-called annus mirabilis of 1905. Based on correspondence written by Einstein himself, they claim that his wife can be considered a co-author of some of those theories. The truth is that this has not been conclusively proven, and the general consensus is more conservative on this point. What is beyond any doubt is that Mileva Marić was instrumental with her calculations in the successful performance of the future Nobel Prize laureate in physics.
+
+In other cases, the influence of romantic failures is much more obvious in an author’s work. When Nietzsche (1844–1900)—rejected for the third time and abandoned by his best friends Paul Rée and Lou von Salomé—hardened his tone against women, he began to voice misogynistic comments that were not previously present. Furthermore, passages in his later books frequently refer to deceptions, betrayals, and persecutors, where one can easily discern echoes of his personal experiences. It is in this way that we can interpret quotes such as: “Are you going to deal with women? Don’t forget the whip.”
+
+![Layer 31 copy](assets/Uploads/Layer-31-copy.webp)
+
+*Figure 1: Friedrich Nietzsche (right), Paul Rée (centre) and Lou von Salomé (left) holding a whip.*
+
+And how can we ignore the case of [Søren Kierkegaard](https://iai.tv/articles/kierkegaard-against-the-herd-auid-1826) (1813–1855), whose work is a constant justification of his decision to abandon his fiancée, Regine Olsen (1822–1904), and the pain he caused by canceling the wedding? Kierkegaard felt that marriage was fine, a stage of ethical commitment to another human being. At least, it was much better than a life seeking fleeting pleasures and love affairs that led to nothing—something he called the “aesthetic stage.” However, he had received a much greater call to commitment that came from God himself. He could not ignore it, just as Abraham could not ignore the divine command of Yahweh to sacrifice his son Isaac. Kierkegaard had no children to offer, but he did have a young and beautiful fiancée to give up. His works Either/Or and Fear and Trembling are clear testimony to this vital circumstance.
+
+For my part, after closely studying the biographies of these and other authors included in the book, I am convinced that the context from which a text emerges—a philosophical work, for instance—is fundamentally significant. Historical circumstances are essential to understanding the genesis of a work, but often, so too is the life of its author. If we accept that biographical context has something to say, we must admit that romantic life—with all its loves and heartbreaks—can play a relevant role in the interpretation of that work. And if the reader remains unconvinced, let them read these stories and judge for themselves.

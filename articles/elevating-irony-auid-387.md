@@ -1,0 +1,101 @@
+---
+title: "High Irony"
+subtitle: "Can 'high irony' rescue the novel from its demise?"
+author: "Joanna Kavenna"
+date: "16th July 2014"
+article_id: "387"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,521 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/KITTEH-TREE.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/elevating-irony-auid-387"
+---
+
+# High Irony
+
+*Can 'high irony' rescue the novel from its demise?*
+
+**By Joanna Kavenna** | *16th July 2014* | *Read time: approx. 13 mins* | *2,521 words*
+
+![High Irony](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/KITTEH-TREE.webp)
+
+---
+
+Winner of the Orange First Novel prize for *Inglorious*, Joanna Kavenna's other works include *The Ice Museum.* Her journalism has appeared in the *London Review of Books*, the *Guardian*, and the *New York Times*.
+
+Here she tells Vassili Christodoulou about the problem of differentiating between reality and unreality in works of fiction, and how high irony can save writers and readers from the tyranny of reality.
+
+**In your talk on** [**IAI TV**](http://iainews.iai.tv/video/a-field-guide-to-reality)**, you describe the novel as “a field guide to reality”. You give a very clear definition of a field guide, but what do you mean by reality?**
+
+Well precisely! What a crucial fundamental question. In a way, my enterprise, my entire point in the conversation you’re referring to, is to question the confident use of terms like realistic and unrealistic and the value-laden ways that they are used – positively in the way of realistic and pejoratively in the way of unrealistic: i.e. the characters were realistic versus the characters were unrealistic.
+
+And my point was that this entire debate is premised on the wonderfully un-interrogated assumption that anyone knows what the hell reality is anyway. Because if you’re making a reference to a reality, and you’re saying that others are either in line with this reference or not, then there’s a suggestion that someone knows what that reality is. So the crucial question is: Who is defining reality, and on what basis? If you use these terms in an un-interrogated way, you’re capitulating before the contest. You’re accepting something that you have neither fathomed nor questioned, and neither have the people who promulgate it.
+
+**Why do you think ‘realistic’ became the highest plaudit that can be bestowed upon a work of fiction?**
+
+It’s very odd. I mean it’s not everybody. It’s the arguments or assumptions of certain sorts of taste-makers, you might say. Obviously in sci-fi, which I love, that’s not remotely the game. The game there is not to be convincing, which is another epithet used as positively in certain fields. But I think that within a rather solid, establishment notion of the novel – (and even the term “The Novel” is quite because whose novel is it, and how are we defining it and so on?) – but within that kind of establishment parade of opinion, I think there’s a troublingly dominant notion that the best novel, the finest work is a portrait of a materialist world view.
+
+So, you’re going back to the nineteenth century where people suddenly believe they can fathom and demarcate the parameters of the material world, and the novel is regarded as the associated art form of this endeavour. So I think there’s this kind of lumpen received notion that the material view of things is the most solid and determined, and thereby the realistic novel is in line with that. But I mean that’s kind of crazy cultural nostalgia, and that really needs to be jettisoned, I think.
+
+**Do you think that the novelists who are perpetuating this myth are engaging in a form of science envy?**
+
+Well that’s interesting, because of course one is lambasting in the abstract, who am I talking about, but if I am to jettison this accusation in deliberately vague terms then, OK, yes, I think there is. If we’re talking about a generalised consensus, what can be seen as weird and what will not be seen as weird within the mainstream media, within the scene of supposedly serious intelligent debate, I think that there is a huge deference to science: within science, within funding, within structure of hieratic hierarchies.
+
+There is this notion that science is the ultimate view, that we’re all orienting ourselves with that in mind, and people who critique that or stray from that – for example you have Rupert Sheldrake at your events – are seen as bizarre and heretical and dubious. I don’t think it should be remotely that demarcated because again there is the question of who is surveying it all from a position of absolute authority? Who knows for certain? And I think intelligent and ambitious scientists don’t do that. They know precisely how weird it is, and you get people like Martin Rees coming out with glorious esoteric bedlam, which I think is great.
+
+**Another side of that is that fiction makers might be ashamed of fiction-making, or even ashamed of the imagination.**
+
+Yes, and I think that’s a huge huge problem, and I was trying to say that in the talk. I mentioned Karl Ove Knausgaard’s book, *My Struggle*, which is a big six volume novel. I think it's wonderful because he is looking at reality from his own distinct vantage point and that’s all he’s trying to do. But the debate around that novel shows some of the problems, where the novel was received as more interesting because of its purported autobiographical and then supposedly empirically correct content; the fact that the novel could refer itself to so-called real life, and thereby was bolstered by it.
+
+Geoff Dyer has written a lot about it; there’s this kind of new wave of novels that say making up characters is a bit dodgy and suspicious, and we must endlessly reference everything to the empirical truths of real life. It’s utterly bizarre to me that people are trying to demarcate these meaningless binaries: real life versus the imagination. I don’t see any difference between those two things.
+
+**Why do you think imaginative forms of fiction receive such critical derision when there’s so clearly a commercial demand for it? And I don’t think this is limited to literature; fantastical cinema is hugely popular at the moment.**
+
+You mean why do things that are evidently fantastic do so well and yet get contempt? It’s odd. If you think of the great hits of recent eras, if we must, take *Harry Potter.* Again, there was a kind of “well, because it’s for children, it’s ok” attitude. Obviously I’m not a great fan of Harry Potter, I think it’s a distillation of lots of other things I loved and it inducts people into Hollywood violence and so on, but everyone was avid for that utterly fictitious, evidently fantastical world. And it shows that people positively love riotous fantasy but in order for it to get out it has to be leavened, by being referred to as ‘children’s’ literature.
+
+We are all imaginary and fantastical, at various levels. And yet we are dragged all the time into supposed reality, into so-called normality and these rigid social structures of what you can do, what you can say, what you can think, and I think that even happens in the imagination. It happens when you walk down the street, it happens as you do your job: it’s just an endless imposition of these fairly arbitrary, supposedly absolute, dogmas of correct behaviour, correct thought, that affects all of us. So it’s really not just the case of the plaintive little novelist. I think it’s there in everything we do; there’s this amazing weight of expected behaviour and being that’s imposed on us.
+
+**Presumably the novelist doesn’t think that he or she is presenting us with an objective absolute, or deliberately conditioning us to conform to particular patterns of social behaviour.**
+
+That’s the interesting thing about the novel, because the novelist is the absolutist in her own novel, or his own novel. She or he is saying this is the reality as I see it. But then there’s that wonderful further nuance that of course it’s unreal. So in a way that is the great get-out clause of even the most monomaniacal novelists. They never, ever say that what they are writing is the final, absolute truth, because it’s always presented as fiction.
+
+So I think, as I was trying to say in the talk, that means that in terms of creation and in terms of expression, the minute you say that this is an imaginary form then it can no longer be entirely dogmatic. No one else has to accept it unless they enjoy it, unless they get something from it, and thus with the novel you escape from a lot of that concerted enforcement of reality that we struggle against all the time in ordinary life. Of course a government doesn’t confess to its fictions, unless it’s forced to. A media that is being used by a political arm in order to present certain pictures of reality doesn’t do that; they’re pretending to us that they are presenting the absolute truth. So novels are doing the complete opposite to most expression within society: they are not real, made-up, they are fiction not fact.
+
+**Do you think anyone really believes that “they are the absolute truth”?**
+
+Well, I don’t know. I can’t imagine how you could. But I suspect some people do. We are encouraged to believe that there are these supposed truths and that people allegedly above us in the pecking order know what is right and wrong, and that we mustn’t try and work it out for themselves. I think you can see that as the prevailing process of every major belief system from what we have in written text. I think that people are always told that there’s something going on that’s too big for them, that they can’t fathom.
+
+And I think you get these priesthoods – secular and religious - imposing themselves between this supposed reality and the people who allegedly can’t grasp it without help. There’s an awful lot of that going on in science at the moment, so scientists are feted as the interpreters of what we can’t see ourselves. But I think it happens, too, in art. You get these esoteric artists saying, “you can’t understand the true revelations of being and *we* get it.” I think all of that is all equally irritating. Nobody knows what the hell is going on, and if people claim they do know what’s going on, well, we’re into that ancient adage about the old wise man knowing he’s a fool and so on. If people are claiming to you that they know everything about everything then back away and retreat as fast as you can! Certainly don’t bow down to them.
+
+**Is there something of that attitude present in the various novelists – Will Self being a recent example – who periodically proclaim the death of the serious novel or serious fiction?**
+
+I’m not sure actually; I have a lot of sympathy for Will Self. I know his use of language is bizarrely controversial, but I love the fact that he uses preposterously baroque terms that he dredges from some ancient depth of his consciousness. But yes, I have also thought about the question you raised about should we worry about art that doesn’t have an audience? Which is the debate that’s going on at the moment.
+
+If the high-falutin’ modernist novel doesn’t have an audience any more, does it matter? I think that art of the kind that has always moved me has always had a very negligible audience, or a very accidental audience, or if it did get an audience it was by the most unlikely alchemical collision of the intention of the artist with the desires of a general audience.
+
+Obviously it’s a real bore if you don’t make any money from art. It’s a real nightmare and I really sympathise with everyone who struggles in that respect, but in the actual creation of art I don’t see how commercial popularity can be a factor. How are you going to second guess about who is going to like it? Where would you start?
+
+And equally you don't start with a complaint about the audience when you’re making art, and I’m sure Will Self doesn’t sit down and go “Rats! I’ve got to write another wretched novel and no one’s going to understand it”. He obviously writes from his passion and his desire to write the thing and get it out.
+
+**I also wanted to ask you about “high irony” which you identify as a form or style which offers an alternative to the tyranny of the real. Tell me a little bit more about that.**
+
+High irony is where you joke the most about the things you care the most about. I’d noticed it in my own reading - as a general tone that I kept finding in the most strangely diverse authors. I think it’s the wink at the reader that says: “I know it’s ridiculous to be writing a novel, it’s the most preposterous endeavour, and why am I even doing it, in our shabby civilization, when it’s just a declining form that nonetheless I love”. And I think that’s the perpetual nod of all of that literature I was talking about in my talk.
+
+In China you get people like Chan Koonchung writing it, then you get Roberto Bolaño, Enrique Vala-Matas, Deborah Levy. I think it’s an acknowledgement of the ludicrousness of everything – of life and of art - but unlike with the existentialists where the ludicrousness is depressing, I think with these novelists it’s played for antic black humour. So you don’t even bother to expound your angst; you’re even playing with your own angst, the ludicrousness of your own angst the whole time. So I think its sort of a post-apocalyptic tone essentially; the great apocalypse has occurred – and you're just in this weird aftermath trying to get by as best you can.
+
+**How does high irony differ from the postmodern metafiction of the seventies and eighties?**
+
+It’s more in touch with its own ludicrousness. There was a great innovation within art, the great innovation of modernism and then you had the further nostalgic-chaotic remit of postmodernity. The rejection of meaning within postmodernism was an endeavour that ironically believed in itself.
+
+That’s why you get the kind of irony that Hilary Lawson points out in his reading of Derrida: if all is pointless and everything you say will be immediately countermanded then why say anything at all? But still, that’s the sort of crazily serious pursuit of postmodernism. Whereas high irony doesn’t even care about generality, or general belief. It is concerned with the intrinsic revelations of a distinct individual: their warped perceptions of the world around them. And so that kind of writing has absolutely no further meaning than the expression of a peculiar vantage point in a work of art, in a work of literature.
+
+**Are you a high ironist?**
+
+Yes, I think that’s the only thing left to most writers, to me anyway. I think these rather po-faced iterations about the purpose of art are obliterated by high irony because you can reiterate as much as you like, but the whole thing's wonderfully absurd and tragically defeated before it begins. So, I think it’s that sense that everything you do has a total ludicrousness to it and yet you do it anyway. But unlike Camus, or Sartre, you don’t even care. Because to care about ludicrousness is still to feel a sense of pique about the fact that things are ludicrous.
+
+I feel like I never expected things to be anything other than totally ludicrous and if someone explained to me that everything was really logical and OK really then I would run a mile.
+
+**Image credit: [Heine Christiansen](https://www.flickr.com/photos/cagedigit/12792713455/in/photolist-kus126-4EbjFp-a86Y1B-mtpnMH-86xPQ9-imKNUn-4LmbQK-f3T6Dj-cAmX87-eaoekY-38xVR-7ct5UB-eYrJ4-71UJKc-9eZs2J-a89Rhf-2FuyA-bt2XMV-4XEumj-wP599-4veMZd-bt2Y4v-s2YvQ-bt2WUc-6rKHJA-m7simD-kt3fo-9iwfhi-mHEQug-6krNiX-j6SS1w-eXdi5G-5dD3TR-bdULut-fP1hze-3A6tM-bAnQqq-4DMAh-aQvY9t-4S81zA-kxdxa7-zKX4T-cntxrY-6s5evb-nBMUu-nBMQV-61isYi-nufBjU-7avMPG-MN2Pc)**

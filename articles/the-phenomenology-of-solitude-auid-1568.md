@@ -1,0 +1,118 @@
+---
+title: "The phenomenology of solitude"
+subtitle: "Husserl, Heidegger and our social nature"
+author: "Dermot Moran"
+date: "Issue 89, 25th June 2020"
+article_id: "1568"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "3,120 words"
+read_time: "Read time: approx. 16 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-26.moran.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-phenomenology-of-solitude-auid-1568"
+---
+
+# The phenomenology of solitude
+
+*Husserl, Heidegger and our social nature*
+
+**By Dermot Moran** | *Issue 89, 25th June 2020* | *Read time: approx. 16 mins* | *3,120 words*
+
+![The phenomenology of solitude](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-26.moran.ata.webp)
+
+---
+
+*Throughout the history of philosophy there has been a tension between the valuable introspection afforded by solitude and the intrinsic need to understand ourselves in relation to others. In the phenomenological tradition of Edmund Husserl and Martin Heidegger we find a vivid picture of man as a being meditatively alone but fundamentally social.*
+
+It is often thought that philosophers favor living alone, in isolation, devoting themselves to quiet contemplation. There is the standard image of the guru or sadhu living in a cave. And this really happens. A young British woman, Tenzin Palmo (formerly Diana Perry), converted to Buddhism in her teenage years, travelled to India to study at the age of 20, and then lived for some 12 years on her own in a tiny cave in the high Himalayas in Northern India. She lived alone in great hardship, but claimed she was never lonely – “not for one minute” (MacKenzie 1999, 87). Living alone in such isolation is an almost impossible ideal; and, indeed, she depended on others for regular deliveries of food and other necessities.
+
+The Christian monastic system offers further examples of these extreme retreats. Skellig Michael rock off the West Coast of Ireland (made famous recently as a location in *Star Wars: The Last Jedi*) contains the stone huts of an early monastic settlement where monks lived in great deprivation and hardship in the eighth and ninth centuries CE, observing very strict, severe rules.
+
+To philosophize is to be in dialogue with others, even if one is in search of oneself, as Socrates says.
+
+The classical Greek philosophical tradition also has examples of such isolation. For example, Diogenes of Cinope, the Cynic (c.404-323 BC), lived rough, spurning all comforts, and sometimes sleeping in a large storage jar or urn (*pithos*). He left no writings but is commemorated in Diogenes Laertius’ *Lives of Eminent Philosophers*. He was critical of Plato and often disrupted his seminars.
+
+In fact, however, the main Greek philosophical tradition was more urbane and cosmopolitan, centered around Athens. Socrates was a city dweller, frequenting the marketplace (*agora*), surely the busiest spot in Athens. Socrates wanted to live and discourse with others, but in order to learn about himself. In Plato’s dialogue *Phaedrus*, Socrates and Phaedrus are going for a walk outside of the walls of the city and Socrates says to Phaedrus: “I am a lover of knowledge, and the men who dwell in the city are my teachers, and not the trees or the country. Though I do indeed believe that you have found a spell with which to draw me out of the city into the country, like a hungry cow before whom a bough or a bunch of fruit is waved. For only hold up before me in like manner a book, and you may lead me all round Attica, and over the wide world” (*Phaedrus* 230d-e). Generally speaking Socrates, Plato and Aristotle emphasized that human beings were *political* animals; humans flourish in the *polis*, in the well-organized political community. To philosophize is to be in dialogue with others, even if one is in search of oneself, as Socrates says.
+
+[![HTLGIPhilosopherheader5](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/HTLGIPhilosopherheader5.webp)
+
+SUGGESTED READING
+Leading philosophers at HowTheLightGetsIn Global
+By](https://iai.tv/articles/the-iais-online-festival-returns-auid-1574)
+ The twentieth-century hermeneutic philosopher, Hans-Georg Gadamer (1900-2002), who loved to both walk and talk, frequently made the point that the idea of going for a solitary walk is very much a European Romantic idea from the eighteenth and nineteenth centuries. It would have been almost inconceivable to those living in antiquity or in the Middle Ages to go for a solitary walk just to gain access to one’s thoughts, as Socrates’ remarks indicate.
+
+To illustrate the Medieval and Renaissance disinterest in being alone with nature, it is interesting to consider that Petrarch (in his letter to Dionigi da Borgo San Sepulcro, translated in Cassirer 1948) recounts his climb of Mont Ventoux, in Southern France, accompanied by his brother, but, after appreciating the view of nature from the summit, he sits down to read St. Augustine’s *Confessions* and finds a passage where Augustine, in *Confessions*, Book Ten. Ch. 8 para. 15, says humans admire mountains, the seas and the stars – earthly things –  but don’t see the value of the vastly richer inner world of the mind. The climb to the summit, for Petrarch, is really a Christian Neoplatonic allegory for the ascent to the inner mind, away from the external sense.
+
+[Kate Williams, Simon Glendinning and Ed Stafford ask if we're more alive when we're alone.](https://iai.tv/ "Watch more videos on iaitv")
+
+The European Romantics (including Lord Byron and William Wordsworth) developed a new idea of being alone in nature communing with oneself as a way of becoming authentic. Retreating into rural isolation away from humanity becomes a trope that will continue into the twentieth century with the hippie and ‘back to nature’ movements of the sixties. One goes into isolation in order to be “far from the madding crowd's ignoble strife” (Thomas Gray, ‘Elegy Written in a Country Graveyard’, 1751). Jean-Jacques Rousseau was one of the first to promote solitude as the natural state of human existence, in his unfinished *Reveries of the Solitary Walker* (Rousseau 1782), composed shortly before his death in 1778, recording his thoughts as he did 10 walks around Paris. Similarly, Henry David Thoreau felt the need to shun society to live in his cabin for two years (1845-1847) in Walden, a day’s journey from Boston. He writes: “I have, as it were, my own sun and moon and stars, and a little world all to myself.” Thoreau, incidentally, quotes Thomas Gray’s elegy, “left the world to darkness and to me.” For Thoreau, and indeed, for all scholars, being alone is a necessary part of one’s vocation. Thoreau writes:
+
+I never found the companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will. Solitude is not measured by the miles of space that intervene between a man and his fellows. The really diligent student in one of the crowded hives of Cambridge College is as solitary as a dervish in the desert. (Thoreau 2004, 135)
+
+Following a similar desire for solitude away from bustling civilization, Martin Heidegger constructed his own hut on the slopes of the Black Forest hills in Todtnauberg, outside Freiburg. But, in this remote hut, he read Aristotle’s *Metaphysics* and the works of Wilhelm Dilthey (according to Hans-Georg Gadamer, who visited him there in 1923), and wrote his classic *Being and Time* (1927/1962). For the phenomenological tradition of Husserl and Heidegger, a key ‘existential’ characteristic of human existence (*Dasein*) is that human beings are also Being-with (*Mitsein*). The everyday, public, cultural world of oneself-among-others is a ‘primary phenomenon’, for Heidegger. Our individual lives are saturated with our connections with others, linked through shared social practices.
+
+For Heidegger, there is no isolated ego, human existence is *a priori* oriented to others.
+
+In *Being and Time*, Heidegger discusses *Mitsein* (literally ‘being-with’, which, in normal German, simply means ‘togetherness’ or ‘companionship’). Heidegger gives the term the particular philosophical inflection: human existence is always already structurally related to others (even when one is alone and others are actually absent). For Heidegger, there is no isolated ego (“a bare subject without a world never ‘is’ proximally, nor is it ever given,” Heidegger 1962, 152), human existence is *a priori* oriented to others. As he puts it, ‘being-with’ (*Mitsein*) is co-original with ‘being-oneself’ or ‘being a self’ (*Selbstsein*). *Mitsein* is an existential constituent of being-in-the-world. One is never an isolated self. Being a self means being in a community. Even in solitude one hears the voice of the other, the absent friend, the dead mother, and so on. One visits oneself and others in memories of past times.
+
+Human existence has the character of ‘being-with’ even if there are no others in one’s immediate vicinity. I walk by a field that shows itself as having been tilled by someone; the boat is owned by an acquaintance. Others are encountered in the ‘ready-to-hand’ world of equipment, e.g. a door handle is there ‘for everyone’. Humans are essentially other-oriented and communal, entangled in one another’s project and environments. The general other is encountered everywhere: Someone parked a car over there; they are digging up the street, that designer of that dress is very good: ‘the environing world [*Umwelt*] … is not only mine, but also that of others’ (*History of the Concept of Time*, p. 237; GA 20 326–27).
+
+Other phenomenologists also emphasize human collectivity even in isolation. Max Scheler writes, in his classic *Formalism in Ethics* (1916/1973), that even Robinson Crusoe was never completely alone; he brought with him into solitude all the language, ideas, skills, clothing, of his seventeenth-century world. Scheler writes:
+
+An imaginary Robinson Crusoe еndowed with cognitive-theoretica1 faculties would also со-ехрeriеnсе his being а member of а social unit in his experiencing the lack of fulfillment of acts of act-types constituting а person iп general. (Scheler 1973, 521)
+
+In the *Nature of Sympathy* (1923/1954), Scheler clarifies further:
+
+Robinson Crusoe would never think: ‘There is no community and I belong to none : I am alone in the world’. He would not only possess the notion and idea of community, but would also think: ‘I know that there is a community, and that I belong to one (or several such); but I am unacquainted with the individuals comprising them, and with the empirical groups of such individuals which constitute the community as it actually exists.’ (Scheler, 1954, 234)
+
+Humans are intrinsically social even if there are no ‘others’ in my immediate community. Indeed, solitude can only ever be an artificial state. One needs extraordinary discipline – to maintain silence, to lose physical contact with other human beings. Indeed, unless it is explicitly chosen as a methodological way to gain access to oneself, solitary confinement is a punishment – a torture for human beings. Part of the key to coping with living in solitude is structured routine and tremendous mental discipline.
+
+The meditating ‘I’ makes our everyday familiarity with ourselves unfamiliar to the point that I have to suspend all my knowledge of what an ego is. This is a supreme kind of solitude.
+
+Edmund Husserl in fact thought that practicing his method of bracketing and suspension – the phenomenological *epoché* – was precisely a way to break with this being-with-others in the natural attitude. Husserl thought of the practice of philosophy as requiring a unique kind of philosophical solitude that breaks with the natural attitude. He writes in the *Crisis of European Sciences* (1936) about the very special status of the meditating ego operating under the *epoché*:
+
+In this solitude I am not a single individual who has somehow willfully cut himself off from the society of mankind, perhaps even for theoretical reasons, or who is cut off by accident, as in a shipwreck, but who nevertheless knows that he still belongs to that society. I am not an ego, who still has his you, his we, his total community of co-subjects in natural validity. All of humankind, and the whole distinction and ordering of the personal pronouns, has become a phenomenon within my epoché; and so has the privilege of I-the man among other men. The “I” that I attain in the epoché, which would be the same as the “ego” within a critical reinterpretation and correction of the Cartesian conception, is actually called “I” only by equivocation—though it is an essential equivocation since, when I name it in reflection, I can say nothing other than: it is I who practice the epoché, I who interrogate, as phenomenon, the world which is now valid for me according to its being and being-such, with all its human beings, of whom I am so fully conscious; it is I who stand above all natural existence that has meaning for me, who am the ego-pole of this transcendental life, in which, at first, the world has meaning for me purely as world … (Husserl 1970, 184)
+
+The meditating ‘I’ makes our everyday familiarity with ourselves unfamiliar to the point that I have to suspend all my knowledge of what an ego is. This is a supreme kind of solitude, attainable only through special methodological reflection.
+
+Our circumspective concern decides what is closest. One’s spectacles do not seem nearer to us than the computer screen.
+
+Much more often, however, phenomenologists (including Max Scheler, Adolf Reinach, Edith Stein, Gerda Walther, Herbert Marcuse, Alfred Schutz, Aron Gurwitsch, Karl Löwith, among many others) ­ some stimulated by the writings of Karl Marx and Max Weber ­  turned their attention to the *a priori* structures of social existence and the constitution of the social world. For instance, Karl Löwith’s Habilitation thesis, written under Heidegger in 1928, was entitled *Das Individuum in* *der Rolle des Mitmenschen* ([The Individual in the Role of Fellow Human Being], Löwith 1969). Similarly, the Austrian social phenomenologist Alfred Schutz (who had read Husserl independently) offered a detailed exposition of the world of everyday life in his *Der sinnhaften Aufbau der sozialen Welt* (1932; translated as The Phenomenology of the Social World, Schutz, 1967). Schutz distinguishes four dimensions of the life-world, namely: ‘the world of contemporaries’ (*Mitwelt --* Schutz’s own translation), and ‘the world of predecessors’ (*Vorwelt*), ‘the surrounding world’ (*Umwelt*), and ‘the world of our successors’ (*Folgewelt*). For Schutz, ‘die *Mitwelt*’, the ‘world of our contemporaries’, can be primarily impersonal and anonymous and Schutz distinguishes it from the world we have through ‘face to face encounters’. We belong with others, before we can separate ourselves as individuals.
+
+For Heidegger, in *Being and Time*, we can be with ourselves in the community in different ways, that he named ‘authentic’ (*eigentlich*) and ‘inauthentic’ (*uneigentlich*). In the public domain (*die Öffentlichkeit*, ‘publicity’, or ‘public sphere’, Heidegger 1962, 165) we are aware of others in all kinds of ways, some closer and some more distant. But there is an implicit leveling down, averaging out, and distantiation (*Entfernung*) involved in this ‘publicness’ (e.g. seats on planes are designed to accommodate average size humans). This social world of others is often anonymously given and is experienced in terms of ‘the one’ or ‘they-self’ (Heidegger’s *das Man*). In this experience, I am less myself as I am just ‘anyone’, part of the anonymous, collective ‘they’ (as in ‘I hear *they* are going to ban smoking in private cars’). Further, *das Man* is, for Heidegger, a modality of *Mitsein*, it is a way of being myself among others. We all belong to the *same* shared world that occupies us and engages our solicitude. Heidegger correctly points out that purely personal authentic ‘owned’ acts are what they are precisely against a background of anonymous acts where one does what one (‘the one’, ‘anyone’, *das Man*) does along with others.
+
+Isolation is a discipline that has to be learned. It has its place, but its place is within the larger environment of the ‘world-with-others’. This is surely the lesson of phenomenology.
+
+Meditation on human solitude and co-existence with others leads a consideration of the peculiar nature of ‘nearness’ (*Nähe*) and ‘distance’ (*Distanz*) with respect to others. These concepts are being profoundly altered in our modern technological worlds. Heidegger and others (e.g. Marshall McLuhan) point out how technology (roads, railways, ships, planes, radio) in one sense brings things nearer. We indeed live in a “global village” (McLuhan 1962). Heidegger makes the point that just because human existence is ‘in’ the world, that does not mean it has a neutral way of occupying space and time. Things are experienced as near or distant. The voice on the radio is *in the room with us* but it could be reporting on a disaster thousands of miles away. The far is brought near, in one sense, but it is not necessarily closer. Indeed, for Heidegger, it is the essence of human existence to overcome or domesticate the distant in that way (Heidegger, 1962,139). Heidegger emphasizes, as we now know from the new media, this kind of ‘nearness’ (*Nähe*) or ‘proximity' brings with it a peculiar kind of distance. Our Facebook ‘friends’ are not necessarily real friends. For Heidegger, the radio has brought us closer but perhaps also emphasized gaps between us. Heidegger in *Being and* *Time* discusses this characteristic of both making-near and distancing (*Entfernung*) as something most complex - relating to the temporality and spatiality of Dasein. Human beings both distantiate (‘make strange’) and domesticate: “In Dasein there is an essential tendency towards closeness” (Heidegger, 1962, 140). Our circumspective concern decides what is closest. One’s spectacles do not seem nearer to us than the computer screen.
+
+In the current pandemic, everyone has suffered social restrictions and ‘social distancing’. Philosophers had in the past perhaps too readily assumed that normal everyday life was rather boring and not morally significant, but now we see everyday life harbors and nourishes the most important values we have – values of comradeship, family, social participation, and so on. We long for a time when we can meet face-to-face, when we can embrace each other. We long to see our children playing together in the playground. Our future response must be to protect our everyday human environment, our capacity to bodily interact with each other, and to be able to feel each other’s emotional responses directly and not just mediated through technology. Arising from this crisis, I think there will be renewed interest in the philosophy of embodiment, empathy, intersubjectivity and the life-world, all themes of the phenomenological and existential movements. Isolation is a discipline that has to be learned. It has its place, but its place is within the larger environment of the ‘world-with-others’. This is surely the lesson of phenomenology.
+
+---
+
+**References**
+
+Cassirer, Ernst et al. Ed. 1948. *Renaissance Philosophy of Man.* Chicago: U. of Chicago Press.
+
+Diogenes Laertius. 1965/1966. *Lives of Eminent Philosophers.* 2 Vols. Trans. R. D. Hicks. London/Cambridge, MA: William Heinemann Ltd./Harvard University Press, 1965-66.
+
+Heidegger, Martin. 1962. *Being and Time*. [1927]. Trans. John Macquarrie and Edward Robinson. New York: Harper & Row.
+
+Husserl, Edmund. 1970. *The Crisis of European Sciences and Transcendental Philosophy*. [1936]. Trans. David Carr. Evanston: Northwestern University Press.
+
+Löwith, Karl. 1969. *Das Individuum in* *der Rolle des Mitmenschen.* [1928]. Darmstadt: Wissenschaftliche Buchgesellschaft.
+
+Mackenzie, Vicki. 1999. *Cave in the Snow*, *a Western Woman's Quest for Enlightenment.* London: Bloomsbury.
+
+McLuhan, Marshall. 1962. *The Gutenberg Galaxy. The Making of Typographic Man.* Toronto: University of Toronto Press.
+
+Rousseau, Jean-Jacques 1782. *Reveries of the Solitary Walker*. London: Penguin Books, 1979.
+
+Scheler, Max, 1973. *Formalism in Ethics and Non-Formal Ethics of Values*. [1916]. Trans. Manfred S. Frings and Roger L. Funk. Evanston, IL: Northwestern University Press.
+
+Scheler, Max, 1954. *The Nature of Sympathy*. [1923]. Trans. Peter Heath, Hamden. London: Routledge & Kegan Press.
+
+Schutz, Alfred. 1967. *The Phenomenology of the Social World*. Trans. G. Walsh and F. Lehnert. Evanston: Northwestern University Press.
+
+Thoreau, Henry David. 2004. *Walden*, 150th Anniversary Edition. With an Introduction by John Updike. Princeton: Princeton University Press.

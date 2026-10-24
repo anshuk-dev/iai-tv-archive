@@ -1,0 +1,89 @@
+---
+title: "The impossible quest for ultimate reality"
+subtitle: "Philosophy and the limits of reason"
+author: "Alexis Papazoglou"
+date: "5th October 2023"
+article_id: "2618"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,492 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-Fragments-and-reality-write-up.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-impossible-quest-for-ultimate-reality-auid-2618"
+---
+
+# The impossible quest for ultimate reality
+
+*Philosophy and the limits of reason*
+
+**By Alexis Papazoglou** | *5th October 2023* | *Read time: approx. 7 mins* | *1,492 words*
+
+![The impossible quest for ultimate reality](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-Fragments-and-reality-write-up.webp)
+
+---
+
+*If common sense tells us one thing, science another, and rational reflection, philosophy, disagrees with both, what are we to do? If reason leads us to believe that all of reality is one great whole, with no parts, can we accept its conclusion?  Michael Della Rocca, Tim Maudlin and Kathleen Higgins test the limits of philosophy at HowTheLightGetsIn.*
+
+“I will teach you differences.” Ludwig Wittgenstein, Philosophical Investigations
+
+What if someone told you that the world you see around you isn’t real? That the commotion and the change, the multiplicity of people and nations, breaking news and TikTok videos were all an illusion because, ultimately, change itself is not real and everything is one? You’d likely think the person relaying this story had a mystical experience of some kind, induced by a heroic dose of a potent psychedelic drug. But back in Ancient Greece, a philosopher called Parmenides argued that this is simply the rational conclusion of careful thought.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-08-18-the-reality-beyond-spacetime-Donald-Hoffman.youtube-thumbnail.tpu.jpg)
+
+SUGGESTED VIEWING
+The reality beyond spacetime
+With Donald Hoffman](https://iai.tv/video/the-reality-beyond-spacetime)
+
+This way of philosophizing, using reason alone to reach conclusions about the ultimate nature of reality, was all the rage during the 16th and 17th centuries in Europe. Indeed Spinoza, one of the main representatives of what we have come to call the rationalist movement in modern philosophy, came to a similar conclusion with Parmenides: reality is one, undifferentiated whole.
+
+\_\_\_
+
+What happens when common sense and science contradict each other? Or when our scientific theories themselves lead to paradoxes? Can philosophy help us out? Or does reason itself lead us into a dead end?
+
+\_\_\_
+
+Most philosophers today have little time for all this; empiricism, the other major stream of modern philosophy, represented by the likes of Locke and Hume, won out. Contemporary empiricism often goes hand in hand with scientism – the belief that science is our best guide to truth, and that if we were to philosophize about the ultimate features of reality, we better start there. On top of that, influential contemporary philosophers like Tim Williamson see common sense as something we ought to test crazy-sounding philosophical ideas against. Parmenides and Spinoza clearly fail that test, as do many other great philosophers. But what happens when common sense and science contradict each other? Or when our scientific theories themselves lead to paradoxes? Can philosophy help us out? Or does reason itself lead us into a dead end?
+
+This past September, at HowTheLightGetsIn festival in London, philosophers Michael Della Rocca, Tim Maudlin and Kathleen Higgins reanimated the debate between empiricism and rationalism, and argued over the question of who gets to tell us what reality is really like: science, philosophy, or common sense? Della Rocca is a dedicated believer in philosophy’s duty to follow where reason takes us. Philosophy is all about trying to make sense of things by offering rational explanations. It might be dismissed as a new-age cliché these days, but the motto “everything happens for a reason” is really a philosophical principle, the Principle of Sufficient Reason, and Della Rocca is a fan. He also thinks, like Parmenides and Spinoza, that reason, our guide to logical thinking, leads to the conclusion that the world is one, undifferentiated whole. The way we usually can tell things apart is by referencing the relations between things: my laptop is on top of my desk, I am older than my son, the wine from last night tasted better than the one from the night before. Della Rocca however thinks these relations, what allows us to differentiate between things, are not real. If relations aren’t real, distinctions aren’t real, so all that is left is one great unity.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-01-11-in-conversation-dawkins-freeman.thumbnail.tpu.webp)
+
+SUGGESTED VIEWING
+Dawkins on the crisis of rationality
+With Richard Dawkins, David Freeman](https://iai.tv/video/dawkins-on-the-crisis-of-rationality)
+
+Maudlin first played the card of common sense. The idea that all of reality is one undifferentiated whole, that distinctions and parts and change are all illusions, is just self-evidently false. He waved his hands around to prove his point, resembling G.E. Moore’s famous attempt to refute scepticism about the external world by exclaiming “Here is one hand, and here is another hand.” It can seem compelling – “obviously change is real, look at this bit of change right here!” – but at the same time it feels like a cheap shot. Parmenides, Spinoza, and Della Rocca clearly never said that change doesn’t *appear* to be real, of course it does. The point is that if you dig a little deeper, that appearance turns out to be illusory, like the stick that seems to bend when submerged into water.
+
+\_\_\_
+
+Common sense and its intuitions should have no place when doing philosophy. Rather, philosophy should go where reason takes us.
+
+\_\_\_
+
+Higgins took a softer, more measured approach. She agreed that holism, the idea that all of reality is indeed somehow interconnected, is compelling. Indeed, the very concept of one reality already contains the idea that we are all part of one and the same thing. But she made clear that this whole is not, like Della Rocca believes, undifferentiated. There are important, life-saving distinctions to be made: there is food that nourishes, and food that’s poisonous. Higgins referenced the Buddhist philosopher Nagarjuna, pointing out that he believed in the “two truths doctrine”; it may be that ultimate reality is one, but in everyday life, you have to be able to make distinctions, even if they don’t track any fundamental features of the world.
+
+Della Rocca showed a degree of sympathy with Higgins’ approach. He himself, of course, goes about drawing distinctions all the time, that’s how he’s able to navigate the world. Even the very use of language, as the host Jack Symes pointed out, requires differentiation: sentences have parts that relate to each other in specific ways to create meaning. But he had little time for Maudlin’s appeal to common sense. Common sense and its intuitions should have no place when doing philosophy. Rather, philosophy should go where reason takes us. But even if we agree with Della Rocca, it does seem that reason itself tells us that his position – that relations are not real, that parts don’t exist, and that reality is one undifferentiated whole – is in fact self-refuting. Surely there’s no coming back from that.
+
+\_\_\_
+
+Quantum mechanics, our most successful scientific theory, also seems to point, according to some physicists and philosophers of science, to the idea that all of reality is one undifferentiated whole: a quantum wavefunction.
+
+\_\_\_
+
+To be fair to Maudlin, he also rejected the use of common sense as a guide to any fundamental truths about the nature of reality. He thought science, in particular physics which is interested in questions about foundations, does a much better job at that. Our everyday concepts can be rough and ready, vague – science sharpens them, makes them more fine-tuned. Interestingly, quantum mechanics, our most successful scientific theory, also seems to point, according to some physicists and philosophers of science, to the idea that [all of reality is one undifferentiated whole: a quantum wavefunction](https://iai.tv/articles/reality-is-just-a-quantum-wave-function-auid-2024).
+
+Even Maudlin admitted that physics alone is not enough to give us a consistent *metaphysics*: a complete picture of the fundamental ontology and principles governing reality. After all, physics doesn’t tell us anything about living beings. Philosophy is still needed to unpack what the metaphysics of our best physics is, and then see how that fits together with our other commitments about reality.
+
+But then, we’re back to the problem Della Rocca faces: philosophy – reasons - runs into its own problems. For him, the main issue seems to be that reason, like a child asking endless why questions, is always demanding further explanations. That can lead to a vicious infinite regress in which, ultimately, nothing is explained, or to a vicious circle in which our explanations are circular, with no final grounding. For Della Rocca that leads him somewhere rather surprising: scepticism, anti-realism and ultimately, pragmatism.
+
+[![related-video-image](https://iai.tv/assets/Uploads/IAI-TV-THUMBNAIL.webp)
+
+SUGGESTED VIEWING
+Reality, models, and mayhem
+With Bjørn Ekeberg, Sunetra Gupta, Michael Shermer, Mark Salter](https://iai.tv/video/reality-models-and-mayhem)
+
+If reason seems unable to give us a satisfactory, final answer, we should suspend judgement about the big metaphysical questions, like Sextus Empiricus. And if reason itself is unsuited to telling us what the world is really like at the deepest level, we should also give up on realist metaphysics altogether. That leaves us with a kind of pragmatist attitude: reason, language, thought, they don’t represent the world out there. Rather, these are tools that help us navigate it. Language and concepts are what allow us to differentiate between things, to draw distinctions, and those are crucial when it comes to navigating the world.
+
+This is not far from what Higgins suggested at the very start of the debate. We may think we have grasped some ultimate truth – that everything is one, that the true is the whole, that all existence is interconnected – but that deeper truth, enticing as it may be, beautiful in its simplicity, even ethically appealing, perhaps even scientifically grounded as Maudlin admitted, is ultimately ungraspable. When we try to articulate it, our language fails, our reason fails, and the clash with our experience is so great that the thought dissolves as soon as it is formulated. Common sense certainly has its limits, science also, but so does philosophy.

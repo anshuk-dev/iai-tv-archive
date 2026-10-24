@@ -1,0 +1,71 @@
+---
+title: "The myth of human exceptionalism"
+subtitle: "Technologists will not find solutions to our animal condition"
+author: "Melanie Challenger"
+date: "Issue 96, 26th May 2021"
+article_id: "1812"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,585 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-animal-that-i-am.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-animal-that-i-am-auid-1812"
+---
+
+# The myth of human exceptionalism
+
+*Technologists will not find solutions to our animal condition*
+
+**By Melanie Challenger** | *Issue 96, 26th May 2021* | *Read time: approx. 8 mins* | *1,585 words*
+
+![The myth of human exceptionalism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-animal-that-i-am.webp)
+
+---
+
+*Th**roughout recorded history, humans have tried to make sense of why we seem so different to other animals. But we’ve rarely been able to follow that enquiry without pursuing a dangerous kind of self-aggrandisement, argues Melanie Challenger*
+
+“All is vanity,” is one of those quotes that most of us know without necessarily recognising its provenance. Is it Shakespeare? The title of a novel? Actually, it comes from the Bible, specifically from Ecclesiastes verses 3:19. In contrast to the lazy idea of the Bible as an extended riff on human exceptionalism, these lines offer a starker vision of the human condition.
+
+“For that which befalleth the sons of men,” runs the King James translation, “befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.”
+
+In other words, humans are animals that will one day meet the same fate as all living creatures. We are organic stuff that breeds, bleeds, and dies. What’s more, despite all the skills and technologies that seem to have lifted us free of nature, in the end, we must decay and return to the Earth with the rest of the biotic community. All else, as they say, is vanity. No wonder we’ve spent much of recorded history trying to deny we’re animals.
+
+According to rabbinical tradition, King Solomon was the author of Ecclesiastes. Solomon reigned over Israel around two and a half thousand years ago. By most accounts, he was fabulously wealthy and powerful. He also had some 700 wives. One can only wonder at how he balanced the emotional ledger.
+
+Solomon was the Jeff Bezos or Elon Musk of his day in terms of riches. But that’s where the similarities end. For Solomon, wealth and platform provoked humility. His writings question whether any human, no matter what they gain, can truly rise above our physical reality.
+
+The truth is that many of our wealthiest technologists are determined to both control and commercialise what it is to be human. But what they capitalise on is our fear of being animal.
+
+But today’s billionaires leverage their gross earnings in pursuit of a final showdown with nature. Tech-futurists, or whatever you want to call their particular type of eschatology, seek technological solutions to our animal condition. They are latter-day salvation seekers. And they are pursuing three main routes to an ultimate freedom from the Earth: engineering our biology to live longer and maybe even forever; engineering our escape elsewhere in the solar system; and, if all else fails, abandoning our organic being altogether and becoming some kind of mind-data equivalent of the cloud.
+
+This isn’t just science fiction. In 2020, Elon Musk showcased rockets that he hopes will be used for space colonization and also his ‘Neuralink’ brain-machine interface, modelled by a pig called Gertrude. [‘Neuralink’](https://www.bbc.co.uk/news/av/world-us-canada-53958427) is a brain chip that Musk promotes as an insurance policy against a dodgy superintelligent form of AI and also as a method of connection with machines in order to control and enhance aspects of human cognition.
+
+Jeff Bezos, along with PayPal’s Peter Thiel, has invested in companies such as [Unity Biotechnology](https://unitybiotechnology.com/), whose broad aims are to extend the healthy span of an average human life. Or at least that’s the clean version. The truth is that many of our wealthiest technologists are determined to both control and commercialise what it is to be human. But what they capitalise on is our fear of being animal.
+
+In my book, [How to Be Animal: A new history of what it means to be human](https://canongate.co.uk/books/2587-how-to-be-animal-a-new-history-of-what-it-means-to-be-human/), I pick through the psychological maelstrom of a widespread and longstanding struggle with our animal condition. For thousands of years, we’ve pondered what kind of being we are and what might give our lives both meaning and purpose. On the face of it, we seem like other animals, and yet we weep at the tragedy of a stranger, even another animal, and can split the atom and craft a sonnet.
+
+The most common response to this peculiarity is to celebrate our exception. But ideas about what makes us exceptional often mingle with our desire for solutions to what troubles us about an organic life.
+
+[Dan Ariely, Paul Bloom, and Patty Kostkova debate if humans are truly rational animals.](https://iai.tv/video/the-rational-animal "Watch more videos on iaitv")
+
+Consider the fact that we must die. Rather than accept that human lives are fleeting and mortal, we have diverse rituals and spiritual beliefs that reassure us with the promise of a sweet afterlife. The medieval thinker Augustine, for example, asked: “All men born of the flesh, are they not also worms?” But he argued we can survive the death of our bodies because humans are “rational creatures”. Our minds and our souls blend somehow into a kind of human essence – the most important and most durable part of us.
+
+By the time we arrive at the Enlightenment and many of the fundamental tenets of our modern world like dignity, human rights, and personhood, the idea of our soulful mind is all but certain. Our minds and gifts of reason and morality not only separate us from other animals but justify what we can do in the world. In our legal and social structures, our minds allow us to enter the circle of justice as our souls once promised us heaven.
+
+But it follows from this that the physical, animal parts of us that we share with other species are somehow less important or significant. And it is this illusion that fires the technological futurists of today. If our bodies don’t really matter, they can be engineered to suit our purposes and tolerated only until we can secure a longer, even immortal life for our minds. Perhaps our earthly, physical lives can be replaced by a synthetic, controlled version elsewhere in the cosmos. Perhaps, indeed, we can drift about the cosmos as a kind of mind-vapour, untethered to body or planet.
+
+There are many things wrong with this view. A primary problem is that it ignores the ways our affective states – our feelings and experiences of reality – depend on physical flourishing. Our infants, for instance, require consistent, loving touch to thrive. We learn better and faster through gesture than we do from machines. Our bodies love plenty of water, healthy food, and fresh air. There seems no good reason to believe there’s any real life for our mind without the act of living. Perhaps we might simulate these needs and their associated sensations. But then that is a different offer. Not the survival of reality but the trading of reality for survival.
+
+What’s more, an engineered reality is one we will have far less control over than the one gifted us by natural selection. We often fear biological determinism. We forget that economic forces have their own ways of determining how freely we act. Who really wants to sign up for a one-way ticket to Mars, if Elon Musk owns the air you breathe and the metal in your body?
+
+Our bodies love plenty of water, healthy food, and fresh air. There seems no good reason to believe there’s any real life for our mind without the act of living.
+
+The environmental trials we face at present can feel insurmountable. There are loud calls for a paradigm shift in the way we view human life and our place in nature. Both climate change and the biodiversity crisis are the consequences of the first and second industrial revolutions, along with the dominant economic systems and the values underpinning them.
+
+1972 saw the publication of The Limits to Growth, a report commissioned by the Club of Rome in response to population and economic development in a world of finite resources. Its stark warnings unleashed a determined effort among some of our powerful to find ways of evading the environmental and industrial consequences of unchecked progress. For some, its pessimism was an assault on the very idea of being human. For others, it was a timely reminder that limits are baked into our world and the human animal can no more escape them than any other life on Earth. It is still a controversial publication, even forty years later. What so appalled some of its loudest critics was that it threatened to undermine the idea of human exceptionalism. Neither humans nor human societies looked likely to endure, even with all our nous and skill.
+
+Today, opinions vary hugely on the future of humanity. But a consensus is slowly forming that the environmental crises are unignorable. Many of our technologists are motivated to mastermind fixes for the mess we’re in without recognising that the primary destructiveness of industrial processes lay in their refusal to accept limitation. But the ultimate impediment to a better path is the refusal to accept the limits of the human condition. In trying to work around our physical reality by industrialising our biology, our global elite will likely only defer the payment of an as yet unforeseen price much as we, as the descendants of the first industrialists, now face.
+
+Whether we like it or not, we are still reckoning with those same questions that Solomon pondered all those years ago. How do we find meaning inside the known limits of a physical, organic, earthly existence? Up to now, we have reassured ourselves with stories of exception. Whether by our minds or our souls, we can escape the ending we fear. And those stories have often determined how we act. But if we want to act differently for the future, we must confront the possibility that Solomon was right. All else is vanity.

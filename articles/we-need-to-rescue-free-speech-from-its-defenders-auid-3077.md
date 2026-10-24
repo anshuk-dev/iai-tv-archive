@@ -1,0 +1,89 @@
+---
+title: "We need to rescue free speech from its defenders"
+subtitle: "Everything we get wrong about free speech"
+author: "Peter Ives"
+date: "11th February 2025"
+article_id: "3077"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,969 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/12.02.25-free-speech-thumbnail-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-need-to-rescue-free-speech-from-its-defenders-auid-3077"
+---
+
+# We need to rescue free speech from its defenders
+
+*Everything we get wrong about free speech*
+
+**By Peter Ives** | *11th February 2025* | *Read time: approx. 10 mins* | *1,969 words*
+
+![We need to rescue free speech from its defenders](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/12.02.25-free-speech-thumbnail-copy.webp)
+
+---
+
+*Arguing over 'free speech' has become a political weapon used by both sides. Each side claims the other is engaging in censorship. While nobody is really sure what the 'free speech' they are fighting for, or against, actually amounts to. But is the problem with free speech itself — or the way we use 'free speech' as a catch-all phrase in many several, very different, situations? From university protests to the courtroom, the battle over what free speech is, and how far we ought to go to protect it, is messy and muddled. Professor Peter Ives argues that free speech isn’t a single principle but a tangled web of competing ideals. Only by untangling this web can we move beyond slogans and reclaim meaningful debate.*
+
+The battle ground of free speech may seem hopelessly weaponized and merely about cynical manipulation. Part of the reason for this is that we ask one concept to do too much work. What we need is a clear disambiguation of the diverse goals and principles that are conflated into the single concept of the freedom of expression.
+
+With Trump 2.0 looming large, the news is full of warnings that the so-called [free speech President](http://www.theguardian.com/commentisfree/2024/nov/14/trump-free-speech) will actually be very detrimental to free speech. He has threatened news outlets for broadcasting stories he doesn’t like and Google for returning search results he does not find sufficiently flattering. Likewise, Elon Musk – having bought Twitter and since transforming it into X – has declared his advocacy of free speech while routinely silencing users he dislikes. He has even allegedly [adjusted the algorithm](http://slate.com/news-and-politics/2024/11/elon-musk-donald-trump-free-speech-bro.html) to boost right-wing positions he favors and buries those he doesn’t. Now he will play a prominent role in Trump’s administration, at least as long as their bromance lasts.
+
+\_\_\_
+
+In our politically divisive environment, we need to understand these contradictions in order to distinguish good-faith claims around free speech from hypocrisy.
+
+\_\_\_
+
+At the same time, the failed Democratic presidential campaign included Tim Walz’s false claim that the US First Amendment does not protect hate speech, when it most certainly does. During the campaign, news media was filled with [stories that a Democrat win](http://www.washingtonexaminer.com/opinion/3148191/kamala-harris-corrupts-meaning-freedom/) would also [spell doom for free speech](http://reason.com/2024/10/09/neither-harris-nor-trump-is-a-friend-of-free-speech/). It may seem that free speech lost all connection to principle, confirming Stanley Fish’s contention that it is not a principle but rather just a ‘prize in the political wars’ to be fought over in endless polarized squabbles. When we wield free speech as a single idea, we may be talking about a number of different conceptions of it. This helps explain why different parties with very different politics will argue for free speech rights in apparently contradictory contexts. In our politically divisive environment, we need to understand these contradictions in order to distinguish good-faith claims around free speech from hypocrisy.
+
+In order to understand how these different ideas of free speech are deployed, it is helpful to look at a recent example. After a decade of the right and mainstream advocating absolutist approaches to free expression on university campuses, last spring and summer pro-Palestinian protest encampments were summarily shut down, often with the use of police violence. In North America, prompted by protests that “cancelled” white-supremacist, misogynist and far right speakers on university campuses, in 2014 the University of Chicago’s President convened a committee to write what became known as the Chicago Principles, boiler plate free expression policy accepted by over a hundred prominent US universities, forced on universities in two Canadian provinces, and influential world-wide. This statement stipulates ‘civility and mutual respect can never be used as a justification for closing off discussion of ideas, however offensive or disagreeable those ideas may be to some members of our community.’
+
+It presents the common line that the only appropriate response to expression you don’t like or find threatening is either to respond with better arguments or to be tolerant of others’ ideas because ‘sticks and stones may break my bones but words will never hurt me.’
+
+\_\_\_
+
+Where most of these critics conclude that free speech is thus hollow, or an “empty signifier.” I take a different tack, arguing that the problem is that we are asking free speech to do too much work.
+
+\_\_\_
+
+Yet somehow the discomfort of some Jewish students with the uttering of “from the river to the sea” or “intifada” was deemed to have crossed a line that the Chicago Principles argued should never exist. That many of these protestors were actually Jewish students is an irony that reveals the underlying issue of Zionism is more likely to have motivated those both for and against the protests, rather than antisemitism per se. Nonetheless, in many cases the police were called in using technical grounds that public university campuses are actually private property, or protests were somehow disruptive or had lasted too long. [Commentators](http://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/) have argued that the tables have now turned and the right is back to its older position of opposing free expression and it is the progressive left that has re-found its commitment to free expression.
+
+ All this chaos and controversy is an indication that we need to be rethinking the concept of free expression. At least that is the premise of my new book, [Rethinking Free Speech](https://fernwoodpublishing.ca/book/rethinking-free-speech). I accept, along with many of the progressive critics of free speech absolutism, that it has often been used as a mask or cover for unfettered racism, white supremacy, antisemitism, misogyny, transphobia, and hate generally. However, where most of these critics conclude that free speech is thus hollow, or an “empty signifier.” I take a different tack, arguing that the problem is that we are asking free speech to do too much work.
+
+[![online free speech](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/online-free-speech.webp)
+
+SUGGESTED READING
+Moderating Twitter's moderators
+By Peter Godfrey-Smith](https://iai.tv/articles/moderating-twitter-moderators-auid-2122)
+
+It has too many meanings. It is “overdetermined”. At times, it invokes legal provisions like the First Amendment or the Canadian Charter of Rights and Freedoms that restrict governments from infringing on their subjects’ expression; at others it is directed at public opinion, “cancel culture,” or social media algorithms and content moderation. It is often conflated with academic freedom, reducing it to ‘free speech on campus.’ Disentangling these different meanings will not lead to any simplistic consensus on free speech. Still, it can, or so I hope, enable us to have more meaningful conversations about free expression and its limits and application in different contexts.
+
+Many scholars and activists agree that there are three common answers to the question of why free speech is important. One, it helps us better attain the truth as John Stuart Mill famously argued in On Liberty (1859). This position is understandably often combined with US Supreme Court Justice, Oliver Wendell Holmes’ metaphor of the “marketplace of ideas,” although, as I argue in the book, Mill as an economist would have probably been horrified by the analogy of the exchange of ideas with the exchange of goods on a market. Nevertheless, both capture the idea that the clash of ideas, the struggle between differing perspectives, and competition are crucial not only to distinguish between truth and error but more importantly to enliven the truth, to make it more meaningful and significant.
+
+Two, free expression is important because we need it for democracy, specifically democracy as self-government where those ruled participate in determining the laws through public discussion. This argument was made most powerfully in relation to the absolute nature of the US First Amendment by Alexander Meiklejohn. Born in England in 1872, Meiklejohn moved to the US as a child, becoming an educator, President of Amherst College, and philosopher of free speech and democracy. Unlike Mill, for whom free expression was an important liberal bulwark against the “tyranny of the majority” –too much democracy – for Meiklejohn, an individual’s right to what he called “talkativeness” is a relative right protected in the US by the 5th and 14th Amendments with the concept of “due process.” But the First Amendment, Meiklejohn insisted, is absolute, with no exceptions including during wartime or crisis, in protecting the freedom of speech about matters of public interest.
+
+\_\_\_
+
+Baker explicitly rejects JS Mill’s “harm principle” whereby the government or public opinion can legitimately silence expression that clearly hurts others.
+
+\_\_\_
+
+The third reason why free expression is so important, the position that seems to have the greatest resonance with a presumption that it is self-evident that we should be able to express ourselves, is a position explained by [C. Edwin Baker](http://www.law.upenn.edu/live/news/1824-penn-law-professor-c-edwin-baker-a-leading). For him, there is something central to being human that demands we can express ourselves. He argues that for individuals to be autonomous, to be responsible for their own values, they must be allowed to express themselves, no matter how hurtful to others those expressions are. Baker explicitly rejects JS Mill’s “harm principle” whereby the government or public opinion can legitimately silence expression that clearly hurts others.
+
+My work explores each of these positions and a few others including those of Immanuel Kant and Voltaire. More than focusing on the strengths and weaknesses of each, I demonstrate how they enlighten different conceptions of free expression that have different scopes and different implications. Where Mill is consistent in not distinguishing government censorship from public opinion in suppressing expression, this is a key distinction for Baker. Where Meiklejohn provides details of what is required for public discussion making, Mill and Baker focus solely on individual expression. Contra to how most scholars, activists, and many legal experts proceed, I demonstrate how these differing positions are often in contradiction. If the main goal of free expression is a search for the truth, in many contexts most accept some constraints whether it is rules of evidence in a courtroom, or in university settings pursuing knowledge production and dissemination may be better understood through academic freedom including requirements of following disciplinary procedures.  Such restrictions would be inappropriate when considering government infringement on citizens’ expressions. For universities to allow their professors to be dishonest and knowingly lie to students or colleagues would undermine the core purpose of the university, whereas governments should only consider whether given speech is harmful to others. Arguments that self-expression is paramount will necessarily lead to deeper discussions of what it is to be human and how expression may or may not be central to our lives in various contexts.
+
+Rethinking Free Speech shows how such discrepancies within the way free expression is used sets the terrain for why it is so easily weaponized. So many who claim a principled concept of free speech – to be tolerant of ideas especially those that you detest the most – are shouting in the wind not solely because others are unprincipled or hypocritical (although there is of course a good degree of that) but also because free speech does not reference a single principle.
+
+[![dogwhistles and free speech](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/dogwhistles-and-free-speech.webp)
+
+SUGGESTED READING
+Politics and the evolution of the dogwhistle
+By Jennifer Saul](https://iai.tv/articles/politics-and-the-evolution-of-the-dogwhistle-auid-2869)
+
+Back in 1982, the legal scholar [Frederick Schauer](http://archive.org/details/freespeechphilos0000scha) described debates over free speech as “a weak assembly of platitudes.” Rethinking Free Speech untangles some of the key slogans such as falsely yelling fire in a crowded theatre, the marketplace of ideas, and that when dubious ideas are expressed ‘the remedy to be applied is more speech, not enforced silence.’ With free speech currently straining beneath the variety of concepts it has to carry, multiple paradoxes emerge.
+
+Some of these include the line between speech and action is both central, but problematic, to understanding a specific line demarcating acceptable from unacceptable speech. When we conflate academic freedom as a facet of free speech, we potentially weaken both. We need to address that while university campuses have consistently been a key site of free speech conflict, the legal differences between the US and Canada need to be better understood. This includes a critique of the Chicago Principles that do not even mention academic freedom. And unless we are to firmly demystify the connection between social media companies, free speech and threats to our politics, our freedoms will be forever at risk.
+
+This essay is based upon Peter Ives' new book [Rethinking Free Speech](https://fernwoodpublishing.ca/book/rethinking-free-speech) on sale with Fernwood Press now.

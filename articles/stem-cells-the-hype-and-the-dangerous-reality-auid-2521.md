@@ -1,0 +1,73 @@
+---
+title: "Stem cells: the hype and the dangerous reality"
+subtitle: "Why stem cells are overhyped"
+author: "Jeanne Loring"
+date: "26th June 2023"
+article_id: "2521"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,587 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/63d44713a930ee51916600e4-embryonic-stem-cell-2-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/stem-cells-the-hype-and-the-dangerous-reality-auid-2521"
+---
+
+# Stem cells: the hype and the dangerous reality
+
+*Why stem cells are overhyped*
+
+**By Jeanne Loring** | *26th June 2023* | *Read time: approx. 8 mins* | *1,587 words*
+
+![Stem cells: the hype and the dangerous reality](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/63d44713a930ee51916600e4-embryonic-stem-cell-2-copy.webp)
+
+---
+
+*A breakthrough in stem cell research is announced every few months. While “breakthrough” is an appealing headline, all but a few have been about incremental research progress and far too many have been pure hype: Human cloning! Genetically engineered babies!  Human embryos made from stem cells! have been some of the headlines. In this article, Jeanne Loring, previously called a “stem cell evangelist”, tackles the bad science journalism on stem cells, and the dangers of dodgy stem cell clinics on the rise.*
+
+There have been genuine breakthroughs in human stem cell research. The greatest was in 2007, when a young Japanese scientist named Shinya Yamanaka published a scientific paper that showed that skin cells from a person could be “reprogrammed” to become pluripotent stem cells. To say that these cells are remarkable is an understatement. The word “pluripotent” has Latin roots that mean “many powers”. We each have experienced pluripotency in our lives, far back in our youth when each of us was a 5 day-old embryo, not yet implanted into our mother’s uterus. As embryo development continued, these cells almost immediately starting giving rise to every cell in our bodies, all of our brain cells and blood cells and even the sperm or eggs that generate new embryos. But when we are born, we have lost all vestiges of pluripotency.
+
+This brief period of pluripotency was recaptured, in culture dishes twenty years ago when the first human pluripotent stem cells were isolated from 5 day-old embryos discarded from in vitro fertilization clinics. Called “human embryonic stem cells” (hESCs), they are immortal and all powerful; they continue to divide and grow forever, and never get old. And, they retain the ability to become a huge range of cell types in a culture dish, by scientists mimicking the complex molecular signaling that occurs in developing embryos.
+
+hESCs were remarkable, but also controversial; for non-scientists, they evoked images of aborted fetuses and fears of scientists playing God. In the early 2000s the ethical debates about hESCs were furious. There were vivid imaginations of scientists murdering babies, of aborted fetuses. There were also fervent supporters, notably celebrities like Michael J. Fox and Christopher Reed, who amplified the hope that hESCs would soon cure disorders that had no treatment. Much of what was said then has not happened; but after twenty years of research and development, hESC-derived pancreatic islet cells are finally being tested in clinical trials to restore the function of the pancreas in people with serious Type 1 diabetes.
+
+\_\_\_
+
+Scientists and journalists share the credit and the blame for this, as they do in every headline-grabbing scientific discovery.
+
+\_\_\_
+
+Dr. Yamanaka’s breakthrough changed the tone almost immediately. Reprogramming meant that no embryos needed to be involved in making pluripotent stem cells. There was a sigh of relief from stem cell researchers because they no longer needed to be afraid of speaking to non-scientists about their work. It had a leveling effect:  induced pluripotent stem cells (iPSCs) could be made from anyone. That meant that everyone could have pluripotent stem cells again.
+
+**[![lifes uncertainty principle](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/lifes-uncertainty-principle.webp)
+
+SUGGESTED READING
+Biology's uncertainty principle
+By Melinda Bonnie Fagan](https://iai.tv/articles/biology-uncertainty-principle-auid-2170)**
+
+And yet, the stem cell hype continues. Scientists and journalists share the credit and the blame for this, as they do in every headline-grabbing scientific discovery. The journalists seize on the drama of discovering something new; the scientists fail to explain the nuances and limitations of their discoveries. Both are vying for attention. Editors carry responsibility as well, by insisting on sensational headlines for less than sensational reports on progress in stem cell research.
+
+It may be now obvious that I’m on the scientist side of the science/press balance.  I have a reputation for being outspoken about science; I’ve been called a “stem cell evangelist”, and “the godmother of stem cells”. I have a long history in this field; I developed human embryonic stem cell lines in the early 2000s, and I’ve made use of iPSC technology to design a way to treat Parkinson’s disease by replacing the dying dopamine neurons in the brain with a person’s own iPSC-derived dopamine neurons.  I’ve been interviewed many times and sometimes have been guilty of not checking to be sure that a reporter fully understands the science. I’ve been quoted in hyped reports, usually trying to convey a realistic view of the “breakthrough” and I don’t always succeed in managing people’s expectations. I often critique reporters’ stories, complimenting them when they get it right, and, as gently as I can, explaining the science that they misunderstood. I believe that anyone can think like a scientist if they just have the information that they need.
+
+Here are some of the most egregious examples of stem cell hype, each with a variable amount of truth behind the headlines. The worse, most consistent exploiters of stem cells as a brand are the self-described stem cell clinics that have sprung up wherever desperate people fall for false advertising.
+
+\_\_\_
+
+The lawsuits often are initiated by people who are harmed; one example is the blinding of three women in Florida who sought stem cell therapy for age-related vision loss.
+
+\_\_\_
+
+Quack stem cell clinics have proliferated in parallel with the advances in legitimate stem cell therapeutic developments over the last 20 years. Now more than 2000 locations in the US offer what they call stem cell therapies for any disease or disorder imaginable. The FDA explicitly warns against these clinics, calling them “bad actors” that are not approved by the regulatory agency.  But the stem cell hype in the press has misled the vulnerable public into believing that the FDA is the enemy, not the charlatans. The directors of these businesses lack specific medical training, and many have no medical training at all, only the experience of a seminar explaining how to establish and market a stem cell clinic. Marketing is fierce, ranging from patient testimonials to misleading postings of stories about legitimate advances in stem cell therapies on their websites.  Worst of all is their use of the U.S. government’s clinical trials registry, clinicaltrials.gov.  A notice on the registry’s webpage warns that the listings are not vetted and are posted without verification. But the dot-gov label lends unintended confidence. At a cost per treatment ranging from $5000 to $15,000, and multiple treatments recommended, victims mortgage their houses and borrow money to get treatments that are ultimately worthless. Efforts to curtail these businesses has rarely worked.  Individual scientists and research organizations that have been critical of specific clinics often receive threatening letters from the company’s lawyers.  The FDA has managed to have some of the worst offenders closed down, but an another unexpected hero in this story is the press.  Newspaper columns and negative stories have encouraged patient lawsuits that can ultimately be successful in driving a clinic to bankruptcy. The lawsuits often are initiated by people who are harmed; one example is the blinding of three women in Florida who sought stem cell therapy for age-related vision loss. There have been deaths and permanent disabilities caused by these clinics. The only reasonable solution is to convince the public to avoid all stem cell clinics, but that will take marketing skills that exceed those of the shysters.
+
+\_\_\_
+
+The lurid headlines about stem cell discoveries are still coming in waves: genetically modified babies in China, human stem cells made into aggregates called organoids that promise to end the shortage of donor hearts and kidneys and livers.
+
+\_\_\_
+
+One of the most headline-grabbing stories that was proved to be false was the famous fraud perpetrated by the South Korean researcher Hwang Woo-suk in 2004 and 2005. Hwang claimed that he had cloned humans, replacing nucleus of an donated egg with the nucleus of another cell, then generating hESC lines from those modified eggs. The purpose of producing cloned hESC lines was to use them for personalized therapies to replace cells lost to degenerative disease. Hwang became an instant superstar in Korea and was a source of national pride. But when it was discovered that he had faked the results of his experiments and had violated ethical mores, stem cell researchers worldwide lost the trust of the public. Hwang’s publications were retracted, ironically, just two years before Shinya Yamanaka developed iPSCs, which are the real dreamed-of personalized pluripotent stem cells that are currently being tested in clinical trials.
+
+The lurid headlines about stem cell discoveries are still coming in waves: genetically modified babies in China, human stem cells made into aggregates called organoids that promise to end the shortage of donor hearts and kidneys and livers, and the recent headline on CNN: “Scientists report creation of first human synthetic model embryos”. Each of these announcements are inevitably followed by the disappointing expert commentary explaining that it wasn’t really as great as it appeared.  Embryos were genetically modified and the babies were born, but the science was sketchy and ethical oversight overlooked; the scientist, *He Jiankui*, was jailed for violation of ethical standards, and it is not known what will become of the babies. Organoids are made by turning pluripotent stem cells into the cell types found in specific organs. They are useful for studying human disease and testing drugs, but they are tiny and incomplete, not at all like organs that can be used as transplants. The “human synthetic model embryos” were not only not the first work of its kind but they also did not resemble human embryos.
+
+Motivation by scientists –taking risks for funding, fame, awards; news reporters: science doesn’t sell newspapers or get clicks unless it has drama. Both: they need to communicate with each other. Solution? Real stem cell breakthroughs- they’re coming and they will not need to be hyped.

@@ -1,0 +1,91 @@
+---
+title: "The politics of time"
+subtitle: "Gaining control in the age of uncertainty"
+author: "Guy Standing"
+date: "9th November 2023"
+article_id: "2664"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "1,588 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-cutclock-zoomed.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-politics-of-time-guy-standing-auid-2664"
+---
+
+# The politics of time
+
+*Gaining control in the age of uncertainty*
+
+**By Guy Standing** | *9th November 2023* | *Read time: approx. 8 mins* | *1,588 words*
+
+![The politics of time](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/TN-cutclock-zoomed.webp)
+
+---
+
+*Time is our most precious asset, but it is increasingly the reserve of the privileged few. Arguing that the dichotomy of “work” and “leisure” no longer applies in the modern age, Guy Standing proposes a new progressive politics of time, seeking to move beyond regulations on labour hours and to combat the rise of the panoptican state.*
+
+Too often, politicians, commentators and social scientists divide time into a dualism of ‘work’ and ‘leisure’, with work defined as what is done for an income, in ‘jobs’, while leisure is whatever time exists outside of this. So, if weekly hours in a job go down, leisure is automatically presumed to go up. This presumption is wrong. It ignores all the unpaid work that people choose to do, such as care for their children or elderly relatives, or work in the community. More importantly, it ignores the unpaid work that people are obliged to do, by employers or by the state, that is driving the growing inequality of time.
+
+In discussing this inequality, it is useful to recall that the ancient Greeks divided time into not two but five types of activity – labour, work, recreation, leisure (*schole*)and idleness (*aergia*). *Schole* involved education and public participation in the *polis*, that is, political activity. This was separated from recreation, such as exercise and entertainment. *Aergia* was regarded by Aristotle as a vital use of time, encompassing contemplation. This was later captured by Cato’s aphorism, ‘Never is a man more active than when he is doing nothing.’
+
+The ancient Greeks also distinguished between ‘work’ and ‘labour’. Citizens did not do labour. The production of goods and most services was left to slaves, and to labourers and artisans as their means of gaining subsistence. However, citizens did do ‘work’ that included care for family members, study and education, military training, and creative activities. Labour, as is clear from its [etymological roots](https://www.theguardian.com/commentisfree/2013/jan/14/language-labouring-reveals-tortured-roots1), was seen as onerous, deforming the body and mind. And those doing labour were considered to lack the time to educate themselves on political affairs, so were denied citizenship and the rights that went with it.
+
+\_\_\_
+
+The late twentieth century saw the emergence of a tertiary time regime. Instead of blocks of time and fixed workplaces, boundaries between all types of activity began to blur.
+
+\_\_\_
+
+Armed with this framework of time uses, and abstracting from the specific hierarchical and patriarchal nature of ancient Greek society, we can trace history through three overlapping time regimes. The agrarian time regime, which lasted into the Middle Ages, was the age of ‘commoning’, when the working classes struggled to pursue subsistence in the commons and avoid labour for a feudal lord. This way of life was legitimised by the Charter of the Forest, the most subversive constitutional document in history, sealed alongside Magna Carta in 1217, which upheld commoners’ rights against the monarch’s unlawful enclosure of the commons.
+
+However, the rising capitalist class wished to force more people to do more labour for employers and landlords. Besides curtailing commoners’ access through subsequent enclosures of land, water and other resources, they resorted to coercion, culminating in the Vagabondage Acts of the mid-sixteenth century. Any poor person found not doing labour was branded with a V for a first offence and hanged for a second.
+
+[![mac](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/mac.jpg)
+
+SUGGESTED READING
+Liberalism's fatal flaw
+By Stuart Gray](https://iai.tv/articles/auid-2597-auid-2597)
+
+In the eighteenth century, an industrial time regime began to take shape. Time was defined in blocks – rising in the morning at a certain time, going to a factory, mill or farm for a certain number of hours, going home to rest, and living through a few years of schooling, if any, followed by a block of years in full-time labour and possibly a brief ‘retirement’. It was regimented by the clock, with women, men and children dragooned into labour. The politics of time was a struggle by the working class to limit labour hours, which was moderately successful, and avoid having to do regular labour, which was not.
+
+By the end of the nineteenth century, the bourgeoisie had turned the ancient Greek concept of leisure as time for political activity on its head. In Thorstein Veblen’s famous book of 1899, *The Theory of the Leisure Class*, leisure meant conspicuous consumption, mainly by wives who were expected to do no labour or work of any kind. Meanwhile, a struggle on the political left in Britain and elsewhere in Europe ended in the defeat of those, like William Morris, who wanted people freed from labour to do self-chosen work and commoning, and the ascendancy of the stern social democrats and communists, who wanted everybody to be doing labour, in jobs. This evolved into the doctrine of Full Employment or, in the Soviet Union, the rule that ‘he that does not labour does not eat’.
+
+However, the late twentieth century saw the emergence of a tertiary time regime. Instead of blocks of time and fixed workplaces, boundaries between all types of activity began to blur. One result is that most people have less real leisure than conventional labour statistics based on measured labour hours suggest.
+
+\_\_\_
+
+We need a politics of time that would enable more people to have time to do work that gives them satisfaction and to participate in real leisure, in the ancient Greek sense, rather than just snatch moments of relief.
+
+\_\_\_
+
+Huge, mainly class-based inequalities are built into this contemporary time regime. Obviously, theplutocracy and super-rich have most control of their own time (and that of others). Below them in the class spectrum is the salariat, those with secure employment and the perks that go with it. Statistically, in contrast to the situation under industrial time, so-called white-collar employees put in the longest weekly hours on their job. But this is mitigated by three important perks.
+
+They have opportunities for extensive ‘[empty labour](https://www.cambridge.org/core/books/abs/empty-labor/empty-labor/AF4A9C7AE38E10761700E08412FBCACA)’ – paid labour time they can use for non-labour activities such as online shopping. They may also enjoy ‘bleisure’, activities blending on-the-job recreation with nominal labour, as in bonding retreats. And they can often do training and retraining in their labour time, at no cost to themselves.
+
+All those perks are denied to the shrinking proletariat, those with stable ‘blue-collar’ jobs. But the worst time deprivation is faced by the precariat– today’s mass class, consisting of millions experiencing multiple forms of insecurity, including unstable labour. Not only do they have no time perks, they must also use a lot of time searching for short-term jobs, trying to upgrade or maintain skills, and waiting around, at the ready.
+
+[![23 06 05.nietzsches case for equalityata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-06-05.nietzsches-case-for-equalityata.webp)
+
+SUGGESTED READING
+Nietzsche's unwitting case for equality
+By Donovan Miyasaki](https://iai.tv/articles/nietzsches-unwitting-case-for-equality-auid-2491)
+
+The precariat suffers most from the pandemic of ‘presenteeism’, staying in workplaces even when sick, for fear of losing pay or the job, and because they do not have sick pay or entitlement to sick leave. Similarly, they may not take a holiday break, even if entitled to one.
+
+And they must do much ‘work-for-the-state’. If they want meagre state benefits, they must complete lengthy complex forms online, report to Job Centres at regular intervals and be on time or face sanctions. They must spend 35 hours a week searching for jobs and prove they have done so. And they must constantly update personal resumés that testify to their failure.  In addition, they may have to spend time queuing at food banks or seeking other forms of charity. These are all unwanted but obligatory uses of the precariat’s time.
+
+We need a politics of time that would enable more people to have time to do work that gives them satisfaction and to participate in real leisure, in the ancient Greek sense, rather than just snatch moments of relief. A progressive politics of time would also combat two frightening trends – the spread of the ‘panopticon state’ and ‘[banopticon state](https://www.schirn.de/en/magazine/context/why_revolution_is_no_longer_possible_today/)’. The first arises from ever more intrusive electronic surveillance to monitor labour activity, especially now that many more people are working from home or off the workplace. The second reflects an increasingly punitive state which effectively ‘bans’ the poor from mainstream society, even taking away desperately needed benefits for minor infractions of ever stricter rules and prohibitions, such as [being late for an appointment](https://cpag.org.uk/sites/default/files/files/22-05%20Sanctions%20Stats%20Briefing%20-%20D.Webster.docx).
+
+\_\_\_
+
+This is a politics of time that goes way beyond regulations on labour hours, working conditions and campaigns for a four-day labour week.
+
+\_\_\_
+
+There needs to be a strategy around ‘time rights’ that recognises the value of people’s time and the time cost of unwanted obligatory activity. These should include a ‘right to disconnect’ from electronic contact outside contracted hours, as in Belgium, France, Italy, Portugal and Spain. More fundamentally, work-for-the-state should be reduced, by scrapping the current punitive welfare system and moving towards a basic income as a right of citizenship. And public services, like private ones, should compensate people if a benefit or service to which they are entitled is not delivered within a specified time.
+
+We also need to revive commoning, freeing up time for more of us to spend in shared activities with a common purpose, such as work in the community, care for the environment, and work in community gardens, to mention just a few. Very importantly, we need to free up time for participation in deliberative democracy, through public meetings and citizens’ assemblies, that the ancient Greeks regarded as the purpose of leisure and an essential feature of a healthy democratic system that is today sorely lacking.
+
+This is a politics of time that goes way beyond regulations on labour hours, working conditions and campaigns for a four-day labour week. It is about time outside labour as much as inside it. And it is about respecting the value of time and gaining time freedom for everyone in society, not just a privileged minority.

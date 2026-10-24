@@ -1,0 +1,130 @@
+---
+title: "Art, Philosophy and Saving the World"
+subtitle: "An interview with Hans Ulrich Obrist."
+author: "David Maclean"
+date: "22nd September 2017"
+article_id: "886"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "2,438 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/HUOArticle.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/art-philosophy-and-globalisation-an-interview-with-hans-ulrich-obrist-auid-886"
+---
+
+# Art, Philosophy and Saving the World
+
+*An interview with Hans Ulrich Obrist.*
+
+**By David Maclean** | *22nd September 2017* | *Read time: approx. 12 mins* | *2,438 words*
+
+![Art, Philosophy and Saving the World](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/HUOArticle.webp)
+
+---
+
+*Dubbed the 'curator who never sleeps', Hans Ulrich Obrist is artistic director of the Serpentine Galleries in London and perhaps the most powerful figure in the art world *— topping ArtReview's Power 100 list in 2016.**
+
+*Obrist organised his first art exhibition at the age of 23 from his kitchen. Ever since, he has acted as a catalyst in creating bridges between different forms of art, movements and audiences. An example of his interdisciplinary approach is The* *Interview Project* - *an “endless conversation” started in 1996 that includes over 2400 hours of interviews with leading cultural figures of our time.*
+
+*This conversation took place ahead of the Serpentine Galleries' 12th annual festival **—** the [**Guest, Ghost, Host: Machine****!** Marathon](http://www.serpentinegalleries.org/exhibitions-events/guest-ghost-host-machine-marathon "Serpentine Galleries' Marathon 2017") ***—*** which will bring together artists, scientists, activists, engineers, poets, sociologists, philosophers, filmmakers, writers, anthropologists, theologians and musicians to consider the advent of ‘artificial intelligence’, consciousness, interspecies cooperation, machines, trans-humanism and non-linear time.*
+
+*—David Maclean*
+
+---
+
+**DM: What came first for you – philosophy or art?**
+
+**HUO:** It probably won’t come as a surprise to say that it was art which came first. I was around 12 or 13-years-old when I first encountered the long figures and sculptures of Giacometti, and a few years later I began to have my first meetings with artists, starting with the duo Fischli/Weiss and moving on to Gerhard Richter and many others. So I would say that everything began with my first encounters with art back in Zurich and my trips to the other great museums in Switzerland.
+
+I had this methodology in my art research – I went out to find mentors in different fields and spend time interviewing them and learning from their praxis. After trying my hand at it with artists, I started to do the same with architects and musicians during my teens before extending outwards into literature, philosophy and science. I was very fortunate, really, in that I would be able to just ring up Hans-Georg Gadamer – a German philosopher who was almost 100 years old – and then record and publish the interviews. So philosophy was perhaps always there, but found an outlet much later on.
+
+**DM: Do you recall what your first philosophical epiphany was? Or rather the idea that captured your imagination.**
+
+Well, I clearly remember my first art epiphany as I was in the studio of Fischli/Weiss in 1987 when they filmed *The Way Things Go* with that seemingly endless chain reaction.
+
+In terms of my thinking, a similar chain reaction got triggered in my life when I became concerned with the dilemma of whether it is possible to truly know anything and at the same time to prove it *was* possible since it had been a question that I had been grappling with since my childhood. I think these ideas that had sort of been percolating then took a more practical shape when I interviewed French philosopher Paul Ricœur and Gadamer, who were the first two philosophers that I spent a good deal of time with.
+
+\_\_\_
+
+"Glissant has the key to resisting globalisation, because he basically proposes the concept of *mondialité* — the global dialogue starting from local differences rather than erasing them."  
+\_\_\_
+
+**DM: In your book *Ways of Curating* you write that you begin each day by reading the philosopher** **Édouard Glissant****. What was it that initially drew you to his work – particularly his notion of** ***mondialité*****?**
+
+The thing with Glissant started a few years later when I was in my late twenties and living in Paris. I was introduced to him by my friend Agnes B, the French fashion designer, who had actually known him since the 1960s when she herself was an adolescent. By then we were in the ‘90s and of course globalization had very much started to affect the art world and it seemed to me that we were bound in a conundrum where, on the one hand, we wanted to enhance global dialogue but at the same time there were all the pitfalls of homogenization that globalization brought with it that had a detrimental effect on the world of culture.
+
+And so what I wanted was to find a philosopher who could provide, on the one hand, a toolbox for enhancing global dialogue, and on the other, a framework for resisting its more destructive elements. I think that at this present moment there is so much to remind us of the international debates swirling around cosmopolitanism at the beginning of the 20th century.
+
+We find ourselves not in the first stage of globalization but rather in the third or fourth wave. But this is certainly one of the most extreme and violent phases – I felt like this in the 90s and that has only increased ever since.
+
+I certainly believe that these homogenizing forces are leading to extinction through environmental degradation, the disappearance of cultural phenomena. If you talk about climate change then people will never wake up, but if you talk about extinction — and the extinction of cultural phenomena such as handwriting… This is why I’ve devoted my personal Instagram to celebrating handwriting.
+
+Yet at the same time to refuse these forces is to risk returning to the dangerous forms of neolocalism and neonationalism that we see playing out right now. These are all reactions to globalization which are themselves dangerous and lead to a lack of tolerance and inclusivity.
+
+And so Glissant has the key, because he basically proposes the concept of *mondialité* — the global dialogue starting from local differences rather than erasing them.
+
+He was born in Martinique in 1928 and that figures heavily in his philosophical ideas. The islands of Martinique are surrounded by many other islands and Glissant shows us that his identity as a Martiniquais can only become richer through the exchange with these other islands. Rather than losing his unique identity through this creolization or hybridization with the other islands, he would have it enhanced by the experience.
+
+**DM: Do you recall this encounter having an immediate transformative effect upon your work?**
+
+When I first met Glissant and I started to read from his work every day, my exhibitions began to try to make a contribution to the project of *mondialité* - particularly ‘Do It’ and ‘Laboritorium’ or my recent Instagram projects, which are very much encouraging a global dialogue aimed at tolerance and solidarity.
+
+I’m working as part of a larger project to find a different form of globalism which strongly rejects these new localisms and nationalisms appearing everywhere, not just in the West but also with Narendra Modi in India or Xi Jinping in China.
+
+I grew up as a student in the ‘80s and ‘90s with a lot of artists telling me that Foucault and Deleuze were their intellectual touchstones and I always thought that if you really want to think about the 21st century then you should also be looking at thinkers from the nonwestern world too.
+
+*Mondialité* ultimately endeavors to do justice to the world’s diversity, forming an antithesis to continental thought which makes claim to absoluteness and tries to thrust its worldview upon other countries. And this is something that a lot of exhibitions do: you just tour it throughout the world and throw it at different venues in a way that negates the identity of the place and the people subjected to it.
+
+Glissant’s activities encompassed not only philosophical works, but also pragmatic activity. As a member of the French Resistance he spoke out in favour of Martinique’s independence from France. He was very close friends with Frantz Fanon.
+
+Then in 1967 he went on to found Institut Martiniquais d'Études and aimed to build a museum in his home country to preserve and celebrate the diversity of the Americas. His wish was to span the period from the Maya to the present day in order to create an encyclopaedia of the American arts. It’s all very fascinating to me, particularly because it went unrealized, and this is why I’m working on an exhibition in Brussels where we basically celebrate Glissant’s idea and try to migrate these ideas from the theoretical realm into reality.
+
+I’ve thought a lot about this idea of philosophy almost being in exile, particularly since it’s also something my friend Daniel Birnbaum, director at Stockholm’s Moderna Musseet, has frequently remarked upon. He originally studied to become a philosopher, particularly focusing on Husserl, but then became a museum director and he said there’s a lot of philosophy in the 21st century that finds itself in such practical activity and migrates into the production of reality.
+
+\_\_\_
+
+"I really think that the world needs more translations of Glissant as I honestly believe that it would help to avoid wars and many other detestable things."  
+\_\_\_
+
+**DM: On that point of philosophy being in exile, do you think that the discipline has become too entrenched – I’m thinking here with particular reference to the conservative French philosopher Renaud Camus who expresses a very anxious worldview that runs counter to this idea of *mondialité*, and instead stresses a fear of replacement or obsolescence.**
+
+Well, I *profoundl*y disagree with Renaud Camus and I think he should certainly read Glissant. But I don’t think that we find ourselves in a position where we’re trying to coax philosophy to come out of its ivory tower – that would be far too negative for me. Instead, I’m much more positive and believe that we need to build contact zones for all the disciplines at work in the 21st century.
+
+And that’s what the Serpentine’s Marathon events do, which see philosophers, artists, architects, scientists brought together around a particular theme each year. By way of example, we did the Memory marathon in close collaboration with the late historian Eric Hobsbawm and invited writers and mathematicians such as Marcus du Sautoy, poets Dennis Cooper, French artist Dominique Gonzales-Foerster and the late John Berger in order to illuminate the theme from as many vantage points as possible.
+
+I think all disciplines are at risk of being in silos and I see it as an integral part of my work to break down these silos. That’s why we do shows like Utopia Station at the Venice Biennale, where Glissant’s philosophy was a key tool when Molly Nesbit, Rirkrit Tiravanija and I curated the show — which, I should add, is going to be reactivated out of current political necessity.
+
+We had many conversations on the theme of utopia with Glissant. He criticized classical utopias such as Plato’s *Republic* or Thomas More’s *Utopia* for being conceived as static systems, rather than something more radical such as a utopia built upon continuous dialogue. We also drew a good deal of inspiration from the German philosopher Ernst Bloch who defined utopia as something that’s missing.
+
+So it’s interesting that Glissant describes utopia in his novel *Sartorious* through the story of the Batoutos people. They get their identity not through their own genealogy but from being in constant exchange with others. I think that’s a very interesting definition of utopia, as one of exchange, and he also likens it to a state of ‘trembling’ because it transcends established systems of thought to traverse the unknown. To quote Glissant, “trembling is not uncertainty, and it is not fear…. ‘Trembling’ thought […] - every utopia passes through this kind of thought - is first of all the instinctive feeling that we must reject all categories of fixed thought and all categories of imperial thought.”
+
+It’s that notion of resistance and antipathy towards static, fixed thought and imperial ways of thinking that I think makes him so relevant for the 21st century.
+
+That is what I try to achieve with exhibitions — to show utopia is an achievable reality. I imagine that I’m a broken record on this point, but I really think that the world needs more translations of Glissant as I honestly believe that it would help to avoid wars and many other detestable things. He’s still criminally under-translated.
+
+\_\_\_
+
+"I see it as my own personal mission to create points of dialogue with philosophers, artists and different practitioners and to offer them as a service to the world. I want my work to be useful."  
+\_\_\_
+
+**DM: The idea of this trembling, as you describe it, naturally brings us to mind the Danish existentialist** **Søren Kierkegaard****. Thinking of curation more broadly, I’m reminded of his aphorism that “anxiety is the dizziness of freedom” – in a saturated world of more and more stuff, how does the curator work to break through the noise?**
+
+I was very inspired by Sergei Pavlovich Diaghilev, the founder of the Ballet Russe, and how he brought together all those great figures like Jean Cocteau, Pablo Picasso and other luminaries from across the various disciplines. For a while I wanted to first go into ballet to try and emulate this. I tried to find a format, or perhaps I should say a medium, that would allow me to bring together all these fields to create a forum for all the world’s cultures and imaginations to meet and hear one another.
+
+For my own part, I don’t think it’s helpful to think of the modern world as one of saturation as your question suggests, but instead I would consider it as a sort of receptacle wherein we can add the contributions of philosophers, architects, musicians, physicists, etc.
+
+Art and exhibitions are in a sense a rehearsal – unlike an opera or a movie where there’s a set duration and the script remains the same on each viewing, etc. In an exhibition, by contrast, the audience stays for as long as they wish and there is far more scope to combine seemingly disparate elements into a more fluid kind of structure where things can emerge and unexpected situations can arise.
+
+So rather than operating from the idea of saturation, I feel that there is a distinct *lack* of such platforms. And that is a terrible thing – it’s also precisely one of the things that keeps me going each day, to create more points of connection from when I wake up in the morning to when I go to sleep. And then it begins again.
+
+**DM: So you feel as though the goal of the modern curator is to address this lack?**
+
+Absolutely! There are very few places where all of the world’s cultures can meet as Glissant imagined. I see it as my own personal mission to create such points through dialogue with philosophers, artists and different practitioners and to offer them as a service to the world. I want my work to be useful. And this kind of utopian space may not exist yet, but it’s something that the world sorely needs.
+
+---
+
+The Serpentine Galleries' Guest, Ghost, Host: Machine! Marathon will take place on 7 October at City Hall, London. For tickets and more information, [visit their website](http://www.serpentinegalleries.org/exhibitions-events/guest-ghost-host-machine-marathon "GUEST, GHOST, HOST: MACHINE! 2017 Tickets").
+
+Image: Hans Ulrich Obrist by Youssef Nabil. Republished with permission.

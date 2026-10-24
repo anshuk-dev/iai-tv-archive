@@ -1,0 +1,78 @@
+---
+title: "Prayer for Atheists"
+subtitle: "Prayer helps even if you don't believe in God"
+author: "William Irwin"
+date: "10th December 2018"
+article_id: "1181"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,329 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/kyle-johnson-417625-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/prayer-for-atheists-auid-1181"
+---
+
+# Prayer for Atheists
+
+*Prayer helps even if you don't believe in God*
+
+**By William Irwin** | *10th December 2018* | *Read time: approx. 7 mins* | *1,329 words*
+
+![Prayer for Atheists](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/kyle-johnson-417625-unsplash.webp)
+
+---
+
+Legend has it that the physicist Niels Bohr had a horseshoe hanging above his door. A colleague asked him why, to which he responded, “it’s for luck.” The colleague then asked him if he believed in luck. Bohr reassured him that as a scientist he did not believe in luck. Puzzled, the colleague asked again why Bohr had the horseshoe hanging above his door. Bohr responded, “I’m told that you don’t have to believe in order for it to work.” 
+
+Bohr may not have realised it, but the same is true of prayer. We are not talking about being agnostic. The agnostic’s prayer is like watering an apparently dead plant. The plant probably will not respond, but it seems worth a try. For the atheist, such as myself, there is no great chance that God is listening or will respond, but that does not matter. One does not need to believe in God for prayer to work. 
+
+Despite being an atheist, Sam Harris has unapologetically spent time meditating with and learning from Hindus and Buddhists. This makes sense because you do not need to subscribe to any particular religion or believe in any God to meditate. Though Harris does not realise it, the same is true of prayer. It is possible to be a praying atheist, a “pray-theist” if you like. In fact, Tibetan Buddhism offers a prayer for the “four immeasurables”—loving kindness, compassion, sympathetic joy, and equanimity—that some atheists may find appealing:
+
+* May all beings have happiness and the cause of happiness.
+* May they be free of suffering and the cause of suffering.
+* May they never be disassociated from the supreme happiness which is without suffering.
+* May they remain in the boundless equanimity, free from both attachment to close ones and rejection of others.
+
+Notice that no deity is invoked or petitioned. The prayer takes the form of a wish that all beings will be well. The intention is to promote the development of loving kindness, compassion, sympathetic joy, and equanimity in oneself by wishing the same for all beings.
+
+Despite the example of the Tibetan prayer, people often describe prayer as speaking to God. We do not need to think that someone is listening to speak to them, however. We do not even have to think that they exist. Many people talk to their deceased spouses. Some may think that their spouses can hear them in the afterlife. But others just find it helpful to talk to their deceased spouses even though they do not think their spouses hear them. What, though, could be the value in speaking to someone who cannot hear you because they do not exist?
+
+\_\_\_
+
+"Prayer for the atheist can be like singing in the car or in the shower. No one is listening, and that is just fine."
+
+\_\_\_
+
+Consider the value of writing a letter to a deceased parent. The parent certainly will not read it, but the letter may be beneficial to the writer as a way of clarifying and expressing emotions such as loss, regret, anger, or forgiveness. Prayer can likewise be a vehicle of expression.
+
+Some people may express themselves in discussion with friends and family; others in making art or listening to music. For some, writing in a journal is all the expression they need. Prayer, though, has a performative dimension that makes it effective and appropriate for expressing thoughts and feelings. So, prayer for the atheist can be like singing in the car or in the shower. No one is listening, and that is just fine. 
+
+Prayer does not need to be addressed to anyone. If this troubles you, though, there are some atheist options. The words can be addressed to “God” in scare quotes, or to the universe, or to nature. St. Paul describes a Greek altar dedicated to the “unknown god.” The Greeks were apparently covering their bases with whatever god or gods they had missed or dismissed. For the atheist, it can make sense to address “the non-existent god” in prayer. God is thus conceived as a kind of invisible friend, but there is no delusion as to his actual existence. It is just a matter of making sense of a dialogue without a partner.
+
+****[![To gift or not to gift A philosophers dilemma](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/To-gift-or-not-to-gift-A-philosophers-dilemma.webp)
+
+SUGGESTED READING
+To gift or not to gift? A philosopher's dilemma
+By Skye C. Cleary](https://iai.tv/articles/to-gift-or-not-to-gift-a-philosophers-christmas-dilemma-auid-1003)****For the atheist, such as myself, proper humility can be a difficult virtue to cultivate. Without a God, it is easy to lose proper perspective and a sense of my small place in the world. Worse, lack of humility may become arrogance and produce an inflated sense of control, setting me up for disappointment to which I may react with anger and frustration. 
+
+My experience is that humility and gratitude are linked; I gain humility by expressing gratitude. Without God, the atheist might not know to whom gratitude should be expressed. Of course there are people in our lives to whom and for whom we are grateful, both for their presence and for the things they do and give. But the believer may have an easier time thanking God for other things like health, safety, and life itself. As an atheist, I find it helpful to write a daily list of things and people for whom I am grateful. For some atheists this may suffice, but cognitively calculating my good fortune is not enough for me. My gratitude requires affective expression. Again, the gratitude can be expressed to “God,” the universe, or to no one in particular. 
+
+**Prayer as Petition**
+
+Prayer as an expression of humility and gratitude may sound all right, but many people think of prayer as sacrifice and petition. 
+
+Prayer is “*do ut des*”—I give so that you will give. I humble myself by getting on my knees and praising you, and in turn you give me what I ask for. Implicit in this contract is the threat that if God does not come through, then neither will I next time. 
+
+Yet, as the song goes, “Nothing fails like prayer.” Atheists will quote studies showing that prayer does nothing to heal the sick; patients who are prayed for do no better than those who are not prayed for. Believers will respond that God refuses to be tested in such ways. Believers will say that God answers all prayers. It is just that sometimes the answer is no, or not yet, or “I love you too much to give you that.” God works in mysterious and unseen ways. Only he knows why he grants some petitions and not others. The very nature of this response makes it impossible to falsify or disprove. It may be correct, but it offers no reason for the atheist to take it seriously. 
+
+On the face of it, petitioning God in prayer makes no sense even for the believer. Why would an all-knowing God need to be coaxed into doing something good for someone he loves? He would not, so there must be another rationale. An all-good, all-loving, and all-powerful God would not require petitionary prayer for his own sake, but only for the sake of the person. The person needs to ask, but God does not actually need to be asked.
+
+But petitionary prayer can benefit a person as an expression of longing, hope, or desire. Singing about hopes or desires does nothing directly to bring them about, but singing can still be valuable as an expression of hopes and desires. So too with prayer. Prayer can be a kind of poetry of the heart, something that atheists need not deny themselves. An atheist can express a wish or articulate a plan in prayer as a way of envisioning a positive outcome and thereby increasing its likelihood through suitable actions. As songs can inspire us, so too can prayers.
+
+Prayer does not change the world for me, but it can change me for the world. So, instead of seeing prayer as an unfortunate relic from a religious past, atheists can practice it as a ritual in which one pauses to gain proper perspective, humility, and gratitude. Only good can result from that. 
+
+---
+
+This essay is adapted from *God Is a Question, Not an Answer: Finding Common Ground in Our Uncertainty*.

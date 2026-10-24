@@ -1,0 +1,74 @@
+---
+title: "Spotting the Killers On Our Streets"
+subtitle: "How do you know when you’re facing a murderer?"
+author: "Chris Carter"
+date: "Issue 57, 31st July 2017"
+article_id: "854"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "938 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/killerstreetredux.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/spotting-the-killers-on-our-streets-auid-854"
+---
+
+# Spotting the Killers On Our Streets
+
+*How do you know when you’re facing a murderer?*
+
+**By Chris Carter** | *Issue 57, 31st July 2017* | *Read time: approx. 5 mins* | *938 words*
+
+![Spotting the Killers On Our Streets](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/killerstreetredux.webp)
+
+---
+
+‘I can’t believe it was him.’
+
+‘He seemed like such a normal person.’
+
+‘Everyone on this street liked him so much.’
+
+‘He was always so polite and nice to everyone.’
+
+Those were just some of the comments made by friends and neighbors of infamous serial killers such as Jeffrey Dahmer, Ted Bundy, John Wayne Gacy, and Dennis Rader (the BTK Killer). And the reasons behind such remarks are simple.
+
+Psychopaths, viewed by many psychiatrists as “society’s most dangerous individuals”, don’t act or look crazy. They’re not mentally ill. They don’t suffer seizures, blackouts, or lose track of reality due to their condition. In fact, they’re not only masters at appearing normal to everyone around them, they’re also experts at gaining people’s trust.
+
+Now allow me explain why that is.
+
+A Psychopath’s main characteristic is what psychologists call “severe emotional detachment”, or SED for short. SED is one of the hardest “mental abnormalities” to diagnose - harder than schizophrenia, bipolar disorder, psychosis and even borderline personality disorder, but what does SED really mean?
+
+In layman’s terms, “severe emotional detachment” simply means an inability to experience feelings such as love, sympathy, pity, affection, compassion, mercy, empathy, remorse, guilt and so on. Psychopaths literally do not feel emotions towards other human beings, but here’s the thing – they act like they do. So why would someone, totally lacking on sentiment, go to great lengths to mask that condition?
+
+The answer to that question is also quite simple.
+
+Psychopaths do know right from wrong. They don’t have a warped concept of reality and they don’t live in a fantasy world inside their heads. Quite the opposite, actually. Psychopaths tend to be very grounded people. They realize that not feeling any emotions whatsoever towards other human beings would one - be considered wrong by society, and two – bring unwanted attention to them. With that knowledge, they do what comes naturally to them - they fake their emotions so not to be cast aside by everyone around them.
+
+The truth is that psychopaths are pathological liars, who love to con and manipulate others. The scary part of that truth is that they are usually very good at it and to catch them on one of those lies is a monstrous task.
+
+\_\_\_
+
+"Psychopaths can be understanding, friendly, helpful, sympathetic...whatever the situation calls for, and their acting will be Oscar worthy."  
+\_\_\_
+
+During my time as a criminal behavior psychologist in the USA, I interviewed hundreds of killers, many of them serial. Rarely did any of them seem out of the ordinary in any way. On the contrary, I interviewed killers who were as charming, funny and charismatic as a chat show host. Some looked so scared and fragile, one would be forgiven for wanting to give them a hug and tell them that everything would be okay. A few of them looked like kind grandfathers, who you wouldn’t think twice about sitting down and having a cup of tea with. As scary as it sounds, the biggest common trait I found linking almost every psychopath I interviewed in my career, was the fact that they all looked and behaved as ordinarily as most people you would encounter in your everyday life. They can be funny when they need to be. They can be understanding, friendly, helpful, sympathetic... whatever the situation calls for, and their acting will be Oscar worthy.
+
+With all that said, I would like to add that though in the USA psychopaths make up thirty-five percent of violent offenders in prison, most psychopaths are not criminals. They will go through life pretending that they care and that they do not have a complete lack of emotions towards their fellow human beings, but that isn’t a crime.
+
+It’s estimated that between one and two percent of the world’s adult population are psychopaths. That means that in the UK alone there would be over one million of them walking the streets. They could be your neighbor, the shopkeeper at your local corner shop, your teacher, the community worker that visits your house once a month, your mate down the pub, your boss, or even your spouse. They hold regular jobs and take part in regular everyday activities just like you and I. Most of them are able to hold down steady relationships and even get married without ever feeling any emotions towards their partners or kids.
+
+“How can that be?” you ask.
+
+Simple again - they fake it, and because psychopaths don’t act or look any different from the person you see in the mirror everyday, identifying them by looks alone, or even through regular extensive conversations is almost impossible. An American group of criminal and forensics psychologists, instructed by the FBI, have developed a few tests, mainly diagnostic checklists, designed to measure key personality characteristics that could revealpsychopathic trades, but even then there can be no guarantees because the tests are beatable.
+
+An X-ray will show a physician the exact location of a fracture, or a tumor, or a variety of other ailments, allowing them to prescribe the correct treatment, but unfortunately the same isn’t true when it comes to mental illnesses. No doctor can look at an MRI scan of someone’s brain and say – “Oh yes, I can see this person’s got schizophrenia, or bipolar disorder, or psychopathy” for that matter. Sadly, diagnosing mental illnesses is an extremely difficult process, one with a very high risk of misdiagnosis.
+
+So, going back to the original question - how do you know when you’re face to face with a psychopathic serial killer?
+
+Well...
+
+You don’t.
+
+The ugly truth is that you may be sitting next to one right now, you may be dating one, you may even be married to one, and you would never know.

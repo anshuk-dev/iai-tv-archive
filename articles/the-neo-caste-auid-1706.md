@@ -1,0 +1,71 @@
+---
+title: "The neo-caste system"
+subtitle: "Does an ancient system persist in Modern India?"
+author: "Ashwini Deshpande"
+date: "Issue 93, 2nd December 2020"
+article_id: "1706"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,475 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-48489060.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-neo-caste-auid-1706"
+---
+
+# The neo-caste system
+
+*Does an ancient system persist in Modern India?*
+
+**By Ashwini Deshpande** | *Issue 93, 2nd December 2020* | *Read time: approx. 7 mins* | *1,475 words*
+
+![The neo-caste system](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AdobeStock-48489060.webp)
+
+---
+
+*Many Indians believe that the caste system no longer operates in India. It has been illegal for decades and new, progressive ideas about life-chances and employment have taken over. But a close examination of the data tells a different story. Caste is alive in India but it has taken a new form argues Ashwini Desphpande.*
+
+The year was 1936. Mohandas Karamchand Gandhi and Bhimrao Ambedkar, two titans of the Indian nationalist movement and leaders of the Congress Party were engaged in a debate over the nature of the caste system. Gandhi wrote: “The law of varna teaches us that we have each one of us to earn our bread by following the ancestral calling.’ Ambedkar wrote a sharp rejoinder and asked: “Must a man follow his ancestral calling even if it does not suit his capacities, even when it has ceased to be profitable? Must a man live by his ancestral calling even if he finds it immoral…[it] is not only an impossible and impractical ideal, but it is also a morally indefensible ideal.”
+
+Ambedkar’s main point described the reality behind the caste system, that it was a “system based on the principle of each according to his birth”, not an ordinary division of labour based on abilities or merit. Those who were born into the untouchable castes were condemned to a life of stigma, discrimination, oppression and humiliation. Ambedkar was to deliver a speech to the Jat Pat Todak Mandal (Society for the annihilation of caste) titled “Annihilation of Caste”, which remained undelivered, but went on to become a definitive statement on why the caste system could not be reformed but had to be destroyed altogether. The practice of the case system has been illegal in India since 1947, but the reality is that caste simply has a new grammar.
+
+Caste Annihilated? No, it has a new grammar
+
+Since 1991, India has seen a rapid rise in new opportunities due to globalization and liberalization, but upper castes have benefitted disproportionately through these. The lower ranked castes are often deficient in basic skills needed to take advantage of new opportunities. India has seen a steady expansion of educational opportunity through the decades. Thus, access to higher education has expanded, but translation into occupational mobility has not been straightforward due to the presence of labour market discrimination. Thus, the reality behind the caste system is that caste continues to mediate economic outcomes and continues to assert its presence in society and politics.
+
+ Ambedkar described the reality behind the caste system, that it was a “system based on the principle of each according to his birth”, not an ordinary division of labour based on abilities or merit.
+
+Contemporary Caste Disparities: Merit and Modernism
+
+There is a wealth of evidence on the long-standing disparities in material outcomes by broad caste groups: education, occupation, consumption expenditure, wages, asset ownership etc. Many believe that these disparities are either largely rural or a hangover of discrimination in the past. There is a strong and pervasive belief that caste discrimination is absent from contemporary urban formal sector India.
+
+The debate about the degree of persistence of the caste system centres around the relationship between caste and occupation, because the caste system assigned specific occupations to castes.
+
+Thus, the debate is about change, i.e. in the degree of (dis)association between caste and occupation, as this will measure of how much the caste system has changed. In order to analyse this, we need to ask the following questions. Who, i.e. which castes, does the traditional caste-based occupations now? Are modern occupations, i.e. those that do not have a caste counterpart, allocated purely on ability? In other words, as the range of occupations in contemporary India far exceed the occupations in the caste system, has the reshuffling of the deck been total?  Or does the overlap between caste and status or between caste and privilege persist?
+
+It turns out that traditional occupations have not broken caste boundaries. The spectrum of modern occupations is not caste based: caste is not legally recognized, except in the arena of compensatory affirmative action. All Indians are free to choose their occupation of choice. However, the higher ranked castes are concentrated at the top of the occupational spectrum and the lower-ranked castes are concentrated at the bottom.
+
+[Shashi Tharoor considers whether India will hold on to secular liberalism.](https://iai.tv/video/the-future-of-india-shashi-tharoor "Watch more videos on iaitv")
+
+People’s beliefs about how earnings or status corresponds to caste are not necessarily informed by evidence. Going back to the 1936 debate, we find that Gandhi believed the earnings gap between castes to not be significant. “…I do not find a great disparity between earnings of different tradesmen, including Brahmins…”. The empirical reality reveals a significant earnings gaps, which has widened over time among the top half of wage earners.
+
+Labour markets in the formal sector, which predominantly contain the modern occupations, reveal several features of not being meritocratic. There are hereditary “reservations” in business houses, i.e. being born into a business family guarantees the top spots. Hiring practices in the private sector reveal the pernicious role of networks, informal and personalized recruitment, such that “who you know” is often more important than “what you know”. Employers find this convenient and efficient, as it minimizes recruitment costs, ensures commitment and loyalty, minimizes transaction costs of disciplining workers and handling disputes and grievances. This leads to a situation of narrowness at the top, where top positions not representative of underlying social composition.
+
+Research has shown that employers, including MNCs use the language of merit. However, managers are blind to the unequal playing field which produces “merit”. Their commitment to merit is voiced alongside convictions that merit is distributed by caste and region. This results in a process where qualities of individuals are replaced by stereotypes that at best, will make it harder for a highly qualified job applicant to gain recognition for his/her skills and accomplishments.
+
+Shedding Caste?
+
+Many Indians proclaim that they are casteless but is it equally easy for different caste groups to shed their caste? It is far easier for those born into the privileged castes to shed caste than those who continue to bear the stigma of untouchability, even though, as above. the practice has been declared illegal since Indian independence in 1947. Of Brahmins, who are at the ‘top’ of the caste system, Ambedkar wrote “almost every Brahmin has transgressed the rule of caste. The number of Brahmins who sell shoes is far greater than those who practice priesthood. Not only have the Brahmins given up their ancestral calling of priesthood for trading, but they have entered trades prohibited to them by the shastras.”
+
+It is far easier for those born into the privileged castes to shed caste than those who continue to bear the stigma of untouchability
+
+Dalits, the ‘untouchables,’ have also tried to do transcend their low status, one of the instances being the important initiatives towards Dalit Entrepreneurship. This resulted in the formation of Dalit Indian Chamber of Commerce and Industry (DICCI).  The objective is to turn towards entrepreneurial activities to escape labour market discrimination. The belief is that this will foster “Dalit Capitalism”, which will help Dalits to “be job givers, not job seekers”. Eventually, this will help Dalits rise to the top of the social pyramid and end the caste system.
+
+Can Dalit Capitalism help Dalits escape labour market discrimination? The implicit assumptions in this argument are that self-employment activity would be concentrated at the top end. Also, discriminatory tendencies would be missing from other markets critical to the success of entrepreneurial activities. Both these arguments are contentious.  There is now an emerging group of Dalit millionaires who could be “job givers”, but most Dalit businesses occupy a very different place in the production chain, viz., bottom-of-the-ladder, low productivity survival activities.
+
+The Future of Caste in India – will it wither away?
+
+The newly independent India in 1947 was a nation dreaming big. As the first Prime Minister Jawaharlal Nehru reminded the world, India had a made a “tryst with destiny” and was ready to emerge as force to reckon with on the world stage. Underlying this optimism was the hope that Indian would be unshackled from the stranglehold of antiquated ideas. As its economy modernised, India was expected to emerge as a casteless society; with caste-based affirmative action seen as a temporary step to achieve a level playing field. Caste has turned out to be highly tenacious, reinventing itself with time, which has not only made the extension of remedial policies necessary, but also the annihilation of caste almost Herculean. The belief that the caste system has ended or remains a benign cultural artefact is widespread, when, in fact, it continues to be hierarchical, oppressive and discriminatory. It has morphed to suit the contemporary milieu.
+
+Unless India is enveloped by a strong anti-caste, egalitarian social movement, caste will continue to impact individual lives, very similar to divisions such as race that continue to define the socio-economic profiles of the Western advanced industrialised nations.[[ad1](#_msocom_1)

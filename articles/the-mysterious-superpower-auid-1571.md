@@ -1,0 +1,57 @@
+---
+title: "The mysterious superpower"
+subtitle: "China must reveal itself"
+author: "Kerry Brown"
+date: "29th June 2020"
+article_id: "1571"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,396 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-29.brown.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-mysterious-superpower-auid-1571"
+---
+
+# The mysterious superpower
+
+*China must reveal itself*
+
+**By Kerry Brown** | *29th June 2020* | *Read time: approx. 7 mins* | *1,396 words*
+
+![The mysterious superpower](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-29.brown.ata.webp)
+
+---
+
+*China's efforts to implement a policy of cultural influence on the world stage stretch back almost a century. But the Covid-19 crisis has highlighted two major flaws in the rising superpower's strategy: the global population's relative ignorance about China, and China's trouble communicating with the world beyond its borders.*
+
+In the early part of the 20th century, Chinese leader Chiang Kai-shek favoured the power of cultural attraction over physical force in forging relations with China’s Central Asian neighbours. He chose the poetic language of `the way of the prince’ (wangdao) as opposed to `the way of the hegemon’ (badao).
+
+While the regime on the Chinese mainland changed after civil war and revolution in 1949 to the Communists, the dislike of hegemony did not evaporate. This remained one of the core accusations when Chinese leaders tried to differentiate themselves from the US or, as they fell out with them, the Soviet Union. They were not deployers of military power, they believed. They contested the approach of the colonisers. The armies that China placed their faith in were ones sent out to change people’s thinking and hearts, even if they failed to succeed. Their own long history of strategic thinking had shown that there was one very beneficial thing about alliances with friends who thought the same way as them – they cost far less money to police and control. Not the least problem with enemies was the amount of time and resources it took to guard against them.
+
+Capitalism with Chinese characteristics – that it so say, under one Party political rule – is, as of today, viable.
+
+In the 1980s, for the US, and Europe, and many others, their engagement philosophy with China still under communist rule was that its attempts to embrace capitalism in the realm of economics would eventually lead to changes in the political area too. With a predetermined certainty, one day China would become like the democratic world. That made emotions towards China a little more positive, despite the constant dislike of its adherence to a one party system.
+
+We are now in the era of post-engagement. Things, needless to say, did not quite work out as was expected. Under Xi Jinping, China’s key leader since 2012, the rebuttal of western norms for governance has been unambiguous. In fact, in 2020, things have become far worse. China’s great experiment to use capitalism has, despite all the convictions of others, so far proved that one can have a vast, and very productive economy, and yet have an authoritarian rule of law and government structure. Capitalism with Chinese characteristics – that it so say, under one Party political rule – is, as of today, viable. This does not mean it won’t become messy someday soon – but the predictions of this sort of collapse have so far not come to pass.
+
+[Julian Baggini, Vivienne Shue and Jamie Whyte join Isable Hilton to discuss China's growing cultural influence](https://iai.tv/video/the-future-of-thought "Watch more videos on iaitv")
+
+Does that mean therefore that the world is now moving into an era of Chinese cultural dominance as Chiang Kai-shek predicted? After all, as a military power, China is much speculated about and its moves and motives much commented on. But despite skirmishes in the region around its borders, in the South and East China sea, and with India recently, the striking thing is how inactive China has been – except, perhaps, in the less tangible world of cyberspace. The vast and new Chinese military is so far as much for show as anything. The country has had no major combat experience for decades. This complicates the claims that it is a bellicose power. Its bellicosity at the moment is in its language more than its actions. It has nothing like the international reach of the US military might, or its alliance system. Nor does it look like it is doing much to try to accelerate activity here. The Djibouti naval centre in east Africa set up in 2015 was regarded by many at the time of a sign of things to come. But so far, it remains the only significant asset that China has abroad.
+
+It looks like China puts far more into the extension of its cultural power. It has been thinking for over a decade about soft power, doing things like hosting the 2008 Olympics, and then trying to set up an extensive network of Confucius Institutes across the world, mostly in universities, which many accused of undertaking not just cultural put politically motivated work.  China has sunk a lot of resources not only into cultural promotion activity, but also into the language of cultural power.
+
+China puts far more into the extension of its cultural power. It has been thinking for over a decade about soft power.
+
+There are two great issues with the attempts to use cultural power we can see in the way China behaves today There are two key issues with efforts to wield cultural power evident in China’s current behaviour.Both have emerged more sharply, though they existed long before, as a result of the COVID19 crisis. The first is more an issue for the world outside. The second is one for China.
+
+For Europe, the US, and indeed most of the rest of the world in this era of global China, there are a lot of different challenges depending on where one stands. China from Washington looks different than from in Sydney. Even so, the one commonality is that knowledge levels about Chinese culture, history and mindsets is relatively lacking. For the broad mass of populations, China is a very new thing, and there is little real notion of what its pasts might have been like, nor, for that matter, much understanding of its current situation, beyond that it is a communist country, and it is problematic. A lot of information about the US or Europe is available via their cultural output, without having to look too hard. China is a new kind of entity for many. The practical issue has been not so much that people dislike China. It is more that they have very little easily available information about the country in the first place.
+
+The second issue, relating more to China, only antagonises this lack of knowledge. This is simply that a lot of China’s ways of speaking, and the ends that it wants from these, do not fit easily in the norms and expectations of the new, vast group of people throughout the world, who are suddenly alert to China, and starting to think about the place. The Olympics of 2008 was a soft run for the problems we are seeing now. COVID19 has suddenly put China at the forefront and shown major issues with its communication strategy. It is often defensive; it seems to run external communication campaigns more for its own domestic audience; it doesn’t seem to know much about the people it is trying to speak to, either assuming they are more knowledgeable than they are, or that they simply will never be able to properly understand China’s complexity and uniqueness.  We would not say that, in 2020, China is running a successful cultural influence campaign.
+
+We would not say that, in 2020, China is running a successful cultural influence campaign.
+
+China’s challenges in its search for cultural power are issues not just for it, but the wider world. As we stand today, its own inability to really speak effectively for itself is compounded by a world where many people are getting information and ideas about China from places where there is already a strong presumption against it. This is the world’s most immense example of `lost in translation.’
+
+We have to remember, as we stand in this vexed place, two very important things.  The first is that with a fifth of global GDP and a fifth of humanity, China is not going to go away. It needs to be part of the global family. And secondly, that while the world cannot do much about the way China speaks to them, they can do something about the knowledge levels they have and the way they can be better and more discriminating listeners. Not all that China says should be condemned. And not all of it comes from one place or one speaker. We need, outside of China, to know more, and think more, before we leap in too easily with assumptions about what China is. About that, at least, we can do something – and we should.

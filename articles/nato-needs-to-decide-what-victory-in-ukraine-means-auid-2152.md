@@ -1,0 +1,78 @@
+---
+title: "What victory in Ukraine looks like"
+subtitle: "NATO can't focus on both Russia and China"
+author: "Hew Strachan"
+date: "13th June 2022"
+article_id: "2152"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,878 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ukraine-tank.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/nato-needs-to-decide-what-victory-in-ukraine-means-auid-2152"
+---
+
+# What victory in Ukraine looks like
+
+*NATO can't focus on both Russia and China*
+
+**By Hew Strachan** | *13th June 2022* | *Read time: approx. 9 mins* | *1,878 words*
+
+![What victory in Ukraine looks like](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ukraine-tank.webp)
+
+---
+
+*NATO was proclaimed brain-dead only three years ago by France’s President. Now it seems resurrected. Key member states like the USA and Britain have rallied around Ukraine, arming its resistance against Russia. Finland and Sweden are on course to join the alliance, creating a NATO boarder with Russia. Putin meanwhile has retreated from his original ambitions in Ukraine. It might seem like the West is winning. This thinking is dangerously close to wishful thinking. The contingencies of war and Russia’s willingness to keep the military conflict going mean nothing is decided yet. With China on its mind and resources that won’t stretch between two oceans, NATO needs to decide what a satisfactory victory in Ukraine would amount to before some of its thirty members grow tired, writes Hew Strachan.*
+
+NATO has staged a remarkable recovery since Russia invaded Ukraine on 24 February 2022. In 2014 it effectively condoned Russian aggression. In 2016 the United States elected a President who regarded its European members as free-loaders, dependent on American security. In 2019 the President of France described NATO as brain dead. In 2021 it was missing in action as Kabul fell. Unsurprisingly, Putin was not deterred by the threat of western sanctions in 2022. When they came, the sanctions failed twice over, neither preventing Russia’s offensive nor halting it once it was under way.
+
+\_\_\_
+
+War, more than any other form of political activity, exists in the realm of contingency. Hopes and aspirations must be tempered by reality
+
+\_\_\_
+
+[![Russia vs the West](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Russia-vs-the-West.webp)
+
+SUGGESTED READING
+Only neutrality can solve the geopolitical deadlock
+By Alexander Korolev](https://iai.tv/articles/only-neutrality-can-save-the-geopolitical-deadlock-auid-2140)
+Today the situation seems much rosier. Germany, the latent European hegemon within the alliance, has added 100 billion euros to its defence budget. Finland and Sweden, militarily resilient and strong-minded states, have broken their long-standing ambivalence and applied to join. Member states have come together to equip Ukraine’s armed forces and to welcome its refugees.  NATO’s confidence has grown as the weeks have passed. Some members have abandoned their fear that the war might escalate if they were too open in their support. Britain and the United States no longer worry whether the weapons they provide have offensive as well as defensive capabilities. Putin has done little in response. He has rattled his nuclear sabre but done nothing to give effect to his rhetoric. Instead he has scaled back his invasion, matching its ambition to the limitations of his armed forces. The result is not manoeuvre on multiple fronts but tactical battle of attrition in Donbas. NATO’s resurgence and Putin’s retreat can give the impression that this war will end with Russia defeated and victory for Ukraine and NATO. But the danger of wishful thinking is lurking in the background. Ukraine has sustained significant losses, and Russia is unlikely to back down from the conflict empty-handed. NATO needs to decide what a victory against Russia would actually amount to.
+
+**Perceptions and realities of the war**
+
+There are those who are already claiming that Russia has lost the war. It has forfeited trust and was condemned by a majority of the United Nations General Assembly. Its armed forces have reached their limits in terms of manpower and equipment, and the sanctions will take an increasing toll. If Russia abandons its ‘special military operation’ in favour of general mobilisation for war, it may face domestic opposition.  These optimists anticipate Putin’s fall and the emergence of a chastened Russia which will finally accept its post-1991 borders, so delivering victory not only for Ukraine but also for NATO.
+
+All this may come to pass, but war, more than any other form of political activity, exists in the realm of contingency. Hopes and aspirations must be tempered by reality.  As President Zelenskiy himself has admitted, Russia now occupies one fifth of Ukraine. The country has lost 45 percent of its GNP. Russia holds the resources and industrial cities of the east; it has cut off the country’s ability to trade through the Black Sea; and it has prevented the cultivation of much of what was the world’s (as well as Tsarist Russia’s) breadbasket. The weapons which the west provides (however generously) arrive late, in too limited numbers, and follow the events on the battlefield more than they anticipate them. They do not compensate for lack of training or provide sufficient enablers to match the demands of modern, high-intensity warfare, from protected vehicles to medical supplies, from training to logistics. As ever, in such circumstances, wishful thinkers prioritise morale and the will to win as key elements in the outcome.  Ukraine has both but they are not independent of material conditions and mounting casualties. The longer the war goes on, and the more destructive it becomes, the more that mutuality will be tested.
+
+So what is NATO’s plan? Does it even have one? Can it, as a multilateral alliance of sovereign democratic states which is not formally at war, ever have one?  It is not enough to ask how it would like this war to end.  It has also to ask how it gets there.
+
+**NATO’s tough decisions ahead**
+
+NATO is a defensive alliance within the rules-based international order. Its role in the Russo-Ukrainian war is both defensive and legitimate. It is bolstering a country which has been attacked in defiance of the UN Charter’s prohibition of wars of aggression. However, NATO argues that it is not formally at war, because it has not committed troops to the fight. From President Biden downwards, NATO leaders have stressed that, while backing one party to the conflict over the other, they seek to avoid its escalation. Indeed, by supplying arms to Ukraine and so depleting their own arsenals, they may be less prepared for actual hostilities than they were before February 2022.
+
+\_\_\_
+
+Two-thirds of the world’s states may have condemned the Russian invasion but half its population– given that the other third included China and India – is either supporting Russia or hedging its bets
+
+\_\_\_
+
+Predictably – and not totally unreasonably – that is not how Russia sees the situation. It interprets this as a war against the west, not just against Ukraine. Nor is it entirely alone in that view. Two-thirds of the world’s states may have condemned the Russian invasion but half its population– given that the other third included China and India – is either supporting Russia or hedging its bets.  The west, led by the United States, has led too many interventionist wars since the end of the Cold War, and especially since 9/11, to be clothed with the sanctity of high moral principle which it adopted on 24 February.  The shadows of Iraq, Afghanistan and Libya hang heavy. For many states, therefore, the war in Ukraine is a European problem being played out in global terms. For NATO that tension comes in three forms.
+
+The first, and possibly most important in the long term, is its effect on the United States’ relationship with China.  Before February, the Biden administration, like those of Obama and Trump, prioritised Asia and the Pacific over Europe and the Atlantic. Initially Washington refused to allow Ukraine to deflect it from that course. Now, reports of a revised National Security Strategy suggest that the United States might seek to rebalance its obligations between both hemispheres. But a partial pivot back to the Atlantic won’t resolve the original problem: the rise of China and the relative decline of China.
+
+Washington’s long-running answer to this dilemma, that it should persuade its allies to do more, goes to the heart of the second problem. Although NATO was formed to defend Europe, it will address the systemic challenge of China at its summit at the end of June. Some of its members are already aspiring to do so. In March 2021 Britain dubbed its Integrated Review ‘Global Britain in a Competitive Age’, which announced its ‘tilt’ to the Indo-Pacific, and in September it committed itself to a three-way alliance with the US and Australia. France, wounded by its sudden exclusion from the AUKUS pact, could still point to its existing colonial obligations in the south Pacific. However, if the US lacks the resources to be militarily effective across both oceans, how can its economically weaker allies be so? Russia’s invasion of Ukraine has exacerbated the dilemma. Britain has just independently and unilaterally guaranteed the security of Finland, so taking on the defence of an 800-mile long frontier with Russia. New members will increase NATO’s capabilities but will also add to its commitments. The Joint Expeditionary Force, led by the UK and focused on Scandinavia and the Baltic, has strengthened NATO’s northern flank, so confirming its robustness as a regional alliance, but it does so at the expense of its global ambitions.
+
+That northern flank is – thirdly - just one region within a single continent. NATO’s southern flank looks much more porous and problematic. It may be even more consequential. Although NATO is not in a hot war with Russia, it is fighting an economic war, not least in Putin’s eyes, and it is one which he has weaponised in response to the west’s sanctions. While Sweden’s and Finland’s accession will make the Baltic a NATO lake, the Black Sea is contested. Russia’s blockade of Ukraine’s ports has closed off its grain exports, inflated global food prices and deepened a humanitarian crisis in Africa and the Middle East. The results are both local – especially for Turkey, a NATO member with control of the Dardanelles but opposed to Swedish and Finnish membership – and global, with famine threatening further waves of migration to Europe and a revival of global terrorism.
+
+\_\_\_
+
+Wartime policy has to embrace uncertainty and to live with risk. That is a hard ask of an alliance of thirty members
+
+\_\_\_
+
+So far NATO has remained remarkably united in the face of these challenges but the longer the war lasts the more that unity lives on borrowed time. If it is doing so well in this war, it now needs to ask itself what winning it might look like. On 24 February, the answer to that question seemed straightforward: the successful defence of Ukraine and the restoration of its pre-invasion frontiers. At that stage compromise seemed conceivable. Now it does not. Macron’s call for talks has gone unanswered and Scholz’s equivocation has faced domestic as well as Ukrainian criticism. While Paris and Berlin speak of restraint, the aims of others grow. In London the Foreign and Defence Secretaries, inspired by Ukraine’s resistance, have called for a return to Ukraine’s pre-2014 borders. Polling suggests that most Ukrainians now want that too.
+
+War, as it deepens, shapes policy, not vice versa. Zelenskiy has been more cautious than others in his pronouncements on war aims. Given Crimea’s geographical distance from the current front line and its post-2014 consolidation with Russia, its recovery through military means could require more years of fighting and dying. Ukraine’s president, struggling to hold what he still has, is focused on the task at hand. It is NATO that must look wider. It may not be Ukraine’s formal ally but it has become its de facto sponsor. Its responsibility is to use its distance from the fighting to address the second and third order consequences of events whose ultimate outcomes remain unknown. If war is the realm of contingency, there can be no guarantee of delivery. Wartime policy has to embrace uncertainty and to live with risk. That is a hard ask of an alliance of thirty members.

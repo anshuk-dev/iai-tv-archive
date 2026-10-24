@@ -1,0 +1,43 @@
+---
+title: "Who Shaves the Barber?"
+subtitle: "Is mathematics shakier than we realised?"
+author: "Peter Cameron"
+date: "9th February 2014"
+article_id: "318"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "457 words"
+read_time: "Read time: approx. 2 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/This-article-has-no-name.webp"
+unpaywall_method: "body HTML container"
+source_url: "https://iai.tv/articles/who-shaves-the-barber-auid-318"
+---
+
+# Who Shaves the Barber?
+
+*Is mathematics shakier than we realised?*
+
+**By Peter Cameron** | *9th February 2014* | *Read time: approx. 2 mins* | *457 words*
+
+![Who Shaves the Barber?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/This-article-has-no-name.webp)
+
+---
+
+In the second half of the nineteenth century, logic awoke from a sleep of two millennia: people realised that Aristotle, with his syllogisms, had yet to have the last word on the subject. Powerful and flexible systems were developed by the English mathematician George Boole as well as by the German logician Gottlob Frege. Soon, however, logic found itself entangled in self-reference (a statement which refers to itself or its own referent). Curiously, the self-reference debate was contemporary with the discovery of quantum theory, and Austrian logician Kurt Gödel's theorem of incompleteness was proved at about the same time as the uncertainty principle, with similar effects.
+
+One of the first thinkers to point to self-reference, while Frege's work was in press, was the British philosopher Bertrand Russell. One form of his paradox refers to a village where the barber shaves precisely those people who do not shave themselves. Who shaves the barber? In particular, does the barber shave himself?
+
+If he does, then he is one of the people shaved by the barber, and so doesn't shave himself, a contradiction. But on the opposite assumption, we fall into the same trap.
+
+Russell’s question has the same structure as the simpler version of self-reference often set forth: "this statement is false". We cannot maintain consistently that this statement is either true or false, since each implies the opposite.
+
+In passing, note, too, that the more innocent-looking statement "this statement is true" has problems of its own. You can consistently maintain that it is true; but you can also consistently maintain that it is false. So you can't prove it either way.
+
+These are more than curious puzzles; they strike at the foundations of logic on which mathematics is built, and of course mathematics is essential for science. As a result, many people (Russell and Whitehead, Zermelo, Fraenkel, and others) attacked the problem. In the view of most mathematicians, they built a satisfactory system in which Russell's and similar paradoxes could be avoided.
+
+Then along came Kurt Gödel, with the statement: "this statement cannot be proved". Here the problem is deeper. If this statement is true, then it can't be proved, and our logical system is incomplete. But if it is false, then it can be proved, and our system is inconsistent (it can prove a false statement).
+
+The real thrust of Gödel's work was that he could express his statement as a proposition of ordinary arithmetic. To some, this meant that the ship of mathematics had been holed below the waterline. It is a problem that mathematicians and theoreticians of mathematics have been grappling with ever since.
+
+*Peter Cameron is Emeritus Professor of Mathematics at Queen Mary, University of London, whose research interests lie in permutation groups and the structures on which they can act.*

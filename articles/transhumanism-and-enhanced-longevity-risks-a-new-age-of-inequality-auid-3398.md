@@ -1,0 +1,135 @@
+---
+title: "Transhumanism and enhanced longevity risks a new age of inequality"
+subtitle: "A new civilisational frontier"
+author: "Nayef Al-Rodhan"
+date: "23rd October 2025"
+article_id: "3398"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "2,682 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Transhumanism-and-enhanced-longevity-risks-a-new-age-of-inequality.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/transhumanism-and-enhanced-longevity-risks-a-new-age-of-inequality-auid-3398"
+---
+
+# Transhumanism and enhanced longevity risks a new age of inequality
+
+*A new civilisational frontier*
+
+**By Nayef Al-Rodhan** | *23rd October 2025* | *Read time: approx. 13 mins* | *2,682 words*
+
+![Transhumanism and enhanced longevity risks a new age of inequality](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Transhumanism-and-enhanced-longevity-risks-a-new-age-of-inequality.webp)
+
+---
+
+*Future technologies could change what it means to be human. A life lived without the prospect of death is an unimaginably different life. The changes will be vast, and they will not only affect individuals; they will change geopolitics. Nayef Al-Rodhan argues we must prepare for the transhumanist age of longevity and the possible elimination of death to prevent a new era of inequality from coming into being.*
+
+Can we truly outpace our genetic inheritance? Is it possible to rewrite the biological script that governs ageing or genetic capacity? How will the possibility of radical longevity reshape our societies and the frameworks of global governance? And how might the pursuit of a longer life and [transhumanist interventions](https://blog.apaonline.org/2019/02/19/neurophilosophy-and-transhumanism/?utm_source=chatgpt.com) – enhancing cognition, physiology, or emotional regulation – further blur the boundary of what it means to be human?
+
+The pursuit of longevity and human enhancement is not only a scientific ambition but also an expression of [deep-seated human drives](https://www.sustainablehistory.com/emotional-emoral-egoism). Among our most enduring motivations is the desire for [permanency](http://blog.apaonline.org/2019/04/04/a-neuro-philosophy-of-human-nature-emotional-amoral-egoism-and-the-five-motivators-of-humankind/): to survive, to leave a legacy, and to transcend the limits of time. From ancient myths of immortality to today’s laboratories, this impulse has been a constant in human history. What differs now is the means: no longer symbolic or mythical, but grounded in advances in genetics, neuroscience, and artificial intelligence. In this sense, transhumanism and longevity research embody the modern form of humanity’s timeless quest to outlast its biological constraints.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Thumbnail-resized4.webp)
+
+SUGGESTED VIEWING
+Forging the transhumanist future
+With Anders Sandberg](https://iai.tv/video/forging-the-transhumanist-future)
+
+Today, the convergence of genomic editing, regenerative medicine, artificial intelligence, and synthetic biology suggests that anti-ageing remedies may soon progress from speculative fiction to scientific reality. In parallel, t[ranshumanist visions of neurobiological enhancements](https://www.e-ir.info/2018/04/24/the-sustainable-history-thesis-a-guide-for-regulating-trans-and-post-humanism/) or even merging humans with machines, enhancing cognition, or genetically modifying our species have introduced new ethical and political dilemmas.
+
+A new ecosystem of scientists, entrepreneurs, and venture capitalists is already at work. Their ambition is not modest: to double or even triple the human lifespan within the next century. While such visions may sound radical, history reminds us that they are not without precedent. At the dawn of the 20th century, average global life expectancy was scarcely above 30 years. A hundred years later, it has more than doubled, largely thanks to [advances in sanitation, vaccines, antibiotics, and modern medicine.](https://www.newyorker.com/magazine/2025/08/11/how-to-live-forever-and-get-rich-doing-it) What was once improbable has become routine. The difference now is scale and intent: we are not simply adding years of survival, but potentially engineering a qualitative transformation of human existence itself. Longevity science is thus best seen as one pillar of a broader transhumanist trajectory, where human biology is not only sustained but actively reimagined.
+
+\_\_\_
+
+Yet ageing is not a single, uniform process.
+
+\_\_\_
+
+This frontier, however, is not simply biological. It is philosophical, ethical, and geopolitical. Science may soon grant us longer, healthier lives, while neurotechnologies and biotechnologies promise to enhance human cognition and physical capacities. The real test, however, is whether our governance, moral reasoning, and global institutions can evolve quickly enough to meet these unprecedented transformations. Without adequate foresight, radical longevity and human enhancement could destabilise societies, [deepen inequalities, and unsettle the fragile fabric of human dignity](https://www.themontrealreview.com/Articles/Symbiotic_Realism.php). However, with the right planning they could foster a new era of flourishing, allowing us to rethink our social contracts and extend the horizon of human wellbeing and harmonious co-existence.
+
+The civilisational stakes are therefore profound. We should welcome scientific progress that extends and improves life, and that responsibly explores the boundaries of cognitive and physical transhumanist enhancement. But we must also anticipate and govern both the known and potentially unknown consequences before they overtake us.
+
+**Biology and Scientific Breakthroughs**
+
+Human life expectancy has already experienced one revolution. In 1900, infectious diseases such as pneumonia, tuberculosis, and diarrhoeal illnesses were the leading causes of death. The advent of antibiotics, vaccines, and modern public health nearly doubled our lifespans within a century. Today, death overwhelmingly arises from age-related conditions: heart disease, stroke, neurodegenerative illnesses such as Alzheimer’s and even certain cancers, some of which are increasingly linked to inadequate cellular and DNA repair mechanisms as consequences of ageing.
+
+Yet ageing is not a single, uniform process. Biologists have identified hallmarks of ageing including telomere shortening, [mitochondrial dysfunction](https://www.scientificamerican.com/custom-media/google-cloud/is-human-aging-reversible/), cellular senescence, genomic instability, and stem cell exhaustion, among others. Addressing one mechanism often leaves another unchecked. In biology, almost nothing is unconditionally beneficial or harmful; the body walks a precarious balance between decay and excess. More revealing are the exceptional species whose longevity far outstrips our own. The [Greenland shark](https://www.scientificamerican.com/article/near-blind-shark-is-world-s-longest-lived-vertebrate1/?utm_source=chatgpt.com), for example, is believed to live for four centuries or more, making it the longest-lived vertebrate known; while some species of tortoises surpass a century. These animals share a common trait: robust DNA repair mechanisms. Understanding how such species resist the accumulation of genetic damage may hold the key to extending human life.
+
+\_\_\_
+
+This would risk creating a trans/post-human stratification of society, with power, opportunity, and dignity distributed along lines of economic access to enhancement technologies in peace and war.
+
+\_\_\_
+
+The scientific toolkit for intervening in ageing is expanding rapidly. [Gene editing technologies such as CRISPR](https://www.nature.com/articles/s41392-023-01309-7?utm_source=chatgpt.com) allow for precise interventions in DNA. Senolytic drugs seek to clear out dysfunctional cells that accumulate with age. Nanomedicine promises to repair tissues at the molecular level. And regenerative medicine, through stem cell therapies and organ replacement, hints at the possibility of rejuvenating rather than merely sustaining life. The r[ecent synergies between artificial intelligence, machine learning](https://www.nature.com/articles/d41586-021-02037-0), and breakthroughs in protein folding (such as [AlphaFold3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/?utm_source=chatgpt.com), which can predict the 3D structure of proteins and was central to the 2024 Nobel Prizes) are revolutionising precise and efficacious protein, enzyme, and drug discovery. By enabling targeted interventions in cellular and genomic dysfunction, and offering potential cures for currently intractable diseases, these advances are likely to bring us closer to cellular longevity and beyond.
+
+At the same time, breakthroughs in [brain–computer interfaces](https://blog.apaonline.org/2020/06/01/a-neurophilosophy-of-governance-of-artificial-intelligence-and-brain-computer-interface/), neuroprosthetics, and cognitive enhancement suggest that transhumanist interventions may converge with longevity science, combining life extension with qualitative improvements in the human experience. But scientific promise alone cannot determine our future. The biological breakthroughs must be embedded within a [larger conversation about their meaning and their consequence](https://www.sustainablehistory.com/the-nayef-alrodhan-manifesto)s.
+
+**Transhumanism as the Next Civilisational Threshold**
+
+If longevity research aims to extend the natural arc of human life, transhumanism goes further: it aspires to transcend the very limits of human biology. Where anti-ageing science seeks to repair and rejuvenate, transhumanism seeks to enhance, augment and, in some cases, fundamentally redesign the human condition.
+
+At its core, transhumanism is the belief that technologies such as artificial intelligence, neuroprosthetics, genetic engineering, nanomedicine, and brain–computer interfaces can amplify human capabilities beyond their natural limits. It envisions a future in which memory, cognition, and emotional regulation may be technologically optimised; where resilience to disease and trauma is (re-)engineered rather than merely hoped for.
+
+The civilisational implications are immense. If some humans become “enhanced” through neuro/bio-technological or genetic interventions while others remain unmodified, [new hierarchies could emerge](https://blog.apaonline.org/2024/10/08/the-philosophy-and-neurochemistry-of-hierarchical-power-a-transdisciplinary-analysis/): between the biologically “baseline” and the biotechnologically “augmented.” This would risk creating a trans/post-human stratification of society, with power, opportunity, and dignity distributed along lines of economic access to enhancement technologies in peace and war. In geopolitical terms, such a divide could prove more destabilising than any resource conflict or ideological rift we have previously known.
+
+Transhumanism represents not simply a biomedical or technological advance, but a threshold transformation of what it means to be human. Like artificial intelligence or space exploration and colonisation, it belongs to the small category of developments capable of redefining the future of humanity and civilisation itself. The question, therefore, is not only what transhumanism makes possible, but what kind of civilisational futures we choose to build with it and at what cost.
+
+**The Geopolitics of Immortality: How Will Longevity And Transhumanist Enhancement Reshape Power, Security, Equity and Human Dignity?**
+
+Life extension is not only a biological endeavour, it is also a geopolitical revolution in waiting. Just as the advent of nuclear weapons reshaped global power hierarchies, so too could radical longevity create new divisions between those with access to decades of additional life and those without. When transhumanist enhancements are added to this equation, the gap between bio/technologically advanced societies and those without access could become a civilisational chasm.
+
+[Demographics](https://www.ft.com/content/95480867-9ae2-4100-a56c-c69eb8c36254?utm_source=chatgpt.com), already a key driver of geopolitics, would shift dramatically. Nations able to extend the healthy and enhanced lives of their populations could maintain larger pools of more capable leaders, soldiers, scientists, and innovators. Longevity could become a new instrument of power projection. Conversely, societies left behind could suffer from destabilising inequalities, both within and across borders. The integration of superhuman cognitive and physical enhancement into geopolitical, economic, security, and military structures (think augmented soldiers or cognitively enhanced executives/analysts) would further raise profound ethical and strategic balancing and trust dilemmas. Moreover, the very [definition of security would evolve.](https://www.e-ir.info/2025/09/07/unlocking-human-capacity-for-equitable-peace-in-an-anarchic-and-hierarchical-world/) If human life is radically extended or enhanced, “human security” would encompass not only protection from violence or poverty, but equitable access to technologies that prevent premature ageing and expand human potential.
+
+This brings the issue directly into the domain of my [Meta-Geopolitics framework](https://blog.apaonline.org/2025/04/17/on-grand-strategy-a-transdisciplinary-analysis-of-its-interplay-with-human-nature-national-security-and-strategic-culture/), which argues that peace and stability rest on multiple dimensions: governance, equity, health, environment, and scientific innovation among them. Without addressing these pillars, longevity and transhumanist enhancement could become a new source of conflict.
+
+Just as nuclear power created new strategic hierarchies, so too could longevity and [enhancement technologies establish a divide between an extended elite and a vulnerable majority](https://www.oxfordpublicphilosophy.com/blog/ethics-in-the-age-of-ai-why-transdisciplinary-thinkers-are-key-to-balancing-responsibility-profitability-safety-and-securitynbsp). If combined with cognitive and physical augmentation, the disparities may be even more destabilising. In this sense, radical life extension must be seen not only as a biomedical challenge, but as a matter of [global equity and governance](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1429868/full).
+
+**Emotional Amoral Egoism in the Age of Longevity**
+
+Extending life will not fundamentally alter human nature, but human enhancement may. Our neurochemical drivers (what I have elsewhere called [Emotional Amoral Egoism)](https://www.globalpolicyjournal.com/blog/17/04/2018/emotional-amoral-egoism-and-its-implications-understanding-conflicts) will persist. Humans are guided by [five core motivators, the Neuro-P5](https://blog.apaonline.org/2019/04/04/a-neuro-philosophy-of-human-nature-emotional-amoral-egoism-and-the-five-motivators-of-humankind/): power, pride, profit, pleasure, and permanency. These forces are neither inherently good nor bad; they are evolutionary predispositions. But in the context of radical longevity, they may take on amplified forms. The same applies to transhumanist enhancements, which could magnify human ambition and competition rather than neutralise them. In this sense, the transhumanist future is not necessarily one of greater wisdom or empathy, but one where the stakes of our flaws are heightened.
+
+Consider permanency: the deep human desire for longevity and a lasting legacy. Life extension technologies might intensify this impulse, with individuals seeking to extend not only their years but their influence. Power and profit could become more deeply entrenched as older elites hold onto authority for longer, potentially stifling generational renewal. Pleasure-seeking, meanwhile, might drive consumerist or hedonistic uses of longevity technology, creating new forms of inequality in lifestyle and access. Enhancement technologies could similarly entrench privilege, allowing elites not only to live longer but to think faster, feel differently, or act with augmented strength.
+
+\_\_\_
+
+Would a life without death be recognisably human, or would it constitute a new unsettling brave new world of post-human existence?
+
+\_\_\_
+
+Transhumanism carries emancipatory potential. If governed wisely, it could reduce suffering, increase happiness and sustainable gratifications, expand opportunity, and empower individuals to pursue creative and intellectual horizons far beyond today’s limits. For example, brain-computer interfaces may restore communication to those with paralysis, or genetic interventions could eliminate hereditary disease. These possibilities underscore [the need for anticipatory governance](https://researchoutreach.org/blog/transdisciplinary-philosophy-interview-with-nayef-al-rodhan-2/) that embeds [dignity, justice, and inclusivity](https://capx.co/measuring-chaos-why-the-world-needs-a-dignity-index) into the design and deployment of enhancement technologies. But the dangers are also clear. Unless governance frameworks evolve to channel these impulses constructively, longer life and enhanced existence could magnify existing social fractures. Emotional Amoral Egoism reminds us that biology cannot be separated from politics, and that extending life, or re-engineering it, does not necessarily mean transcending human flaws.
+
+**Civilisational Frontier Risks**
+
+Longevity science and transhumanism constitute a new civilisational frontier. Unlike past thresholds these new changes do not merely alter our environment or our tools; they alter us. They reshape the very substrate of human existence: our biology, cognition, psychology, capacities, equity, self-worth (dignity) and our mortality. This is why I have argued for the concept of [Civilisational Frontier Risks](https://www.weforum.org/stories/2020/12/3-disruptive-frontier-risks-that-could-strike-by-2040/): developments so transformative that they can r[edefine what it means to be human](https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12595), with consequences that ripple across every aspect of life. Artificial intelligence, cyber-capacities and vulnerabilities, space colonisation, and now radical longevity and human enhancement fall within this category.
+
+These frontiers carry extraordinary promise. They also carry existential and cascading risks. Mismanaged, they could fragment humanity into castes of enhanced and unenhanced, privileged and excluded, in doing so accentuating an already hierarchical global order. Managed wisely, they could usher in a new era of human dignity, cooperation, and flourishing. The difference will depend not only on the pace of scientific progress, but on the foresight of our political, ethical, and institutional imagination.
+
+**Longevity, Transhumanism, and Space**
+
+The quest for longevity is not only inward-looking. It intersects with humanity’s outward ambitions. As private companies and state agencies prepare for a new age of space exploration, the prospect of longer-lived and potentially enhanced humans becomes directly relevant. Extended lifespans would allow astronauts to undertake multi-generational journeys, while transhumanist enhancements could be critical for survival and living in deep space. These enhancements could include fluid dynamics calibrations, chromosomal protection and repair, neuronal and muscular growth, resistance to radiation as well as cognitive and neuropsychological resilience under isolation.
+
+[Space colonisation](https://engelsbergideas.com/essays/lunar-resources/) has long been framed as a hedge against planetary catastrophe, a way of ensuring human survival beyond Earth. Yet if humanity reaches the stars divided into castes of the enhanced and the unenhanced, the [seeds of conflict may travel with us](https://www.globalpolicyjournal.com/blog/03/06/2025/why-we-must-prevent-militarisation-outer-space-how-reconcile-national-interests). The governance challenges of Earth would thus be projected onto the cosmos. A [civilisational vision for space](https://iai.tv/articles/the-new-space-age-needs-a-new-politics-auid-3009?_auid=2020) must therefore integrate questions of longevity and human enhancement from the outset, ensuring that the next great frontier is not one of inequality, but of shared and dignified human endeavour.
+
+**The Ethics of Life Extension and Human Enhancement: Introducing Dignity-Based Frameworks**
+
+The ethics of radical longevity and transhumanism cannot be an afterthought. At stake are questions of justice, equality, dignity, and meaning. Who will have access to these technologies? How will they reshape our understanding of the life cycle, of family, of intergenerational obligation?
+
+If only the wealthy can afford life extension or enhancement, we risk entrenching privilege into biology itself. Inequalities of class and opportunity would be amplified into inequalities of lifespan, cognition, and even physical capacity. Conversely, if longevity and enhancement technologies are distributed equitably and responsibly, they could become instruments of justice, reducing suffering and expanding opportunity and wellbeing across all humanity.
+
+\_\_\_
+
+Our task, therefore, is to prepare.
+
+\_\_\_
+
+Philosophically, life extension and enhancement raise profound questions about the human condition. Is finitude essential to meaning? Does mortality give urgency to life, or does it constrain human flourishing? Would a life without death be recognisably human, or would it constitute a new unsettling brave new world of post-human existence? These are not merely abstract questions. They will increasingly confront policymakers, ethicists, and citizens as science advances. Here, again, Emotional Amoral Egoism provides a cautionary lens. Longer life and enhanced capacities will not automatically create wiser, more virtuous humans. Without [governance rooted in dignity and foresight](https://www.themontrealreview.com/Articles/The_Demise_and_Durability_of_Political_and_Societal_Frameworks.php), they may deepen societal fractures. But if guided wisely, they could allow us to align our biological potential with our moral aspirations.
+
+**Towards a New Human Horizon**
+
+Longevity science and transhumanism are not simply about more years or stronger minds and bodies. They are about redefining what it means to be human. They represent a new civilisational frontier, carrying both extraordinary promise and profound risk.
+
+The biological revolution underway could allow us to repair, rejuvenate, enhance and extend human life. The transhumanist revolution could allow us to augment our minds and bodies, [pushing the boundaries of human potential](https://blog.apaonline.org/2023/02/20/navigating-living-philosophy-an-unconventional-journey-my-ode-to-transdisciplinary-philosophy/). But without ethical foresight and global governance, these frontiers risk entrenching inequality, amplifying human flaws, and destabilising the fragile fabric of our civilisation.
+
+Our task, therefore, is to prepare. To govern not only the pace of scientific progress, but its distribution, its meaning, and its consequences. To ensure that longer life and enhanced existence are not privileges for the few, but possibilities for the many. To recognise that the next chapter of human history will be written not only in the laboratory, but in our moral and political imagination. The frontier is approaching. The question is whether we will cross it wisely.

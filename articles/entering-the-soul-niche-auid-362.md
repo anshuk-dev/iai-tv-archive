@@ -1,0 +1,51 @@
+---
+title: "Entering the Soul Niche"
+subtitle: "Why is the soul of such long-lasting importance?"
+author: "Nicholas Humphrey"
+date: "3rd May 2014"
+article_id: "362"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "712 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Emotional-Intelligence.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/entering-the-soul-niche-auid-362"
+---
+
+# Entering the Soul Niche
+
+*Why is the soul of such long-lasting importance?*
+
+**By Nicholas Humphrey** | *3rd May 2014* | *Read time: approx. 4 mins* | *712 words*
+
+![Entering the Soul Niche](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Emotional-Intelligence.webp)
+
+---
+
+Nicholas Humphrey is a theoretical psychologist whose books include Soul Dust. His study of primate psychology led him to a radical new theory of human consciousness.   
+  
+ We spoke to him about why the concept of the soul is one of such longevity, and importance.
+
+**The term ‘soul’ carries a lot of religious baggage. Why is it important to revisit this concept?**Sure, the term ‘soul’ carries a lot of *human* – not necessarily religious – baggage. But that’s precisely why we need to treat the concept seriously, rather than abjure it. Thanks to the peculiarities of consciousness, human beings have evolved to be *spiritual* beings. This began to happen perhaps 200,000 years ago, long before institutional religions got a foothold. Religions, just in the last 10,000 years, have found fertile ground in human spirituality and become parasitic on it. Today, religions tend to constrain humans’ native spirituality rather than enhance it. But the idea of the soul is bigger than religions pretend. **What’s the difference between consciousness and the soul?**
+
+Consciousness and the soul belong to different ontological categories. Consciousness is a given fact of experience. The soul is a psychological construct built on that experience, but not identical to it.
+
+**You have suggested [in your IAI talk](https://iai.tv/video/the-mind-s-eye) that the idea of souls is added into us neither by God nor by natural selection, but by human culture. How does culture do this in practice?**
+
+The idea of the soul is indeed a *cultural* elaboration. It has arisen through a long history of our ancestors discussing and theorising about the wonderful characteristics of their conscious experience. The ideas that have survived this cultural mill have been those that have tended to help people lead more successful lives. The idea of the soul is no exception: it has come to pervade all known human cultures because it works.   
+  
+**Why should we hang on to the concept of the soul in a scientific age?**  
+  
+ It’s not up to scientists to choose which concepts to hang on to. The job of science is first to explore and then to explain what concepts are in current use. If science can show that the concept of the soul is an illusion, this is an important discovery. But it has absolutely no bearing on whether human beings ought – morally, ethically – to believe in it. Science doesn’t deal in oughts.
+
+**Why does the idea of the soul help people lead more successful lives?**
+
+Let’s step back a bit to consider the basic phenomenon of consciousness. Consciousness evolved as a biologically adaptive trait. So*,* if we want to discover how being conscious contributes to biological survival we need to look at the lives of conscious creatures in their natural environment. For humans that means especially the world of other people. When we survey the human social scene, I think the evidence is clear: the chief benefit of being conscious lies in the way it changes our psychological profile – that’s to say, our sense of who and what we are.   
+  
+But, for humans it doesn’t end there, in fact it only just begins. By placing each one of us at the *centre of a mystery*, consciousness encourages us to think of ourselves asspiritual beings, and of the world outside as an enchanted place. It means humans have discovered a new ecological niche in which to flourish – the "soul niche" – where the idea of the soul feeds our self-worth, our joy in life, our fear of death, and, especially, our respect for the other soulful beings we live alongside. To a hard-headed Darwinian these may sound like somewhat nebulous effects. But fuzzy clouds can and do produce life saving rains!
+
+**If the idea of the soul has been so important, would it be a dangerous cultural step to think of ourselves as solely material beings?**
+
+Yes, if soul-denying materialism ever truly became the dominant philosophy, I think it would be a major set-back. But I don’t think there’s any danger it will happen. Fortunately every newborn human child, starting over, discovers the magical properties of consciousness first-hand. This means that even if a materialist explanation such as mine should ever become the philosophy they’re taught in school, it’s going to come too late to undermine the emotional pull of first-person experience and the attractions of the folk-notions of spirituality that are so deeply rooted in our language and cultural institutions. Belief in the soul has a lot further to run.

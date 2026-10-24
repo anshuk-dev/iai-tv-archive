@@ -1,0 +1,73 @@
+---
+title: "Rewriting the history of the Universe"
+subtitle: "The James Webb Space Telescope: a new age for astronomy"
+author: "Emma Curtis Lake"
+date: "25th January 2022"
+article_id: "2034"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,488 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/nubula2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rewriting-the-history-of-the-universe-auid-2034"
+---
+
+# Rewriting the history of the Universe
+
+*The James Webb Space Telescope: a new age for astronomy*
+
+**By Emma Curtis Lake** | *25th January 2022* | *Read time: approx. 7 mins* | *1,488 words*
+
+![Rewriting the history of the Universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/nubula2.webp)
+
+---
+
+*The James Webb space telescope has reached its final destination in space. The successor to the Hubble space telescope, it will peer through space to a past era of the universe that we have yet to observe. The light reaching the Webb will have travelled for more than thirteen billion years, bringing with it evidence from the birth of the very first stars, black holes and galaxies. What we will discover might rewrite the history of the Universe as we know it, writes Emma Curtis Lake.*
+
+The James Webb telescope is the largest one ever to be launched into space. 25 years in the making, thousands of people have contributed to a project that has produced a telescope larger than its launch vehicle, heralding a new era for space missions.
+
+Webb will be able to peer through the dust-enshrouded clouds that surround a star’s birth, thus being able to see new stars; it will be able to analyse the light coming from the atmospheres of other planets; it will view galaxies as they developed over time; and, last but not least, the Webb telescope will probe the early stages of our Universe, a time so deep in the past that its predecessor, the Hubble telescope, wasn’t able to reach.  It can do all of these things because Webb can detect light with wavelengths much longer than our eyes can see, in the infrared side of the spectrum. We can't be sure of what Webb will reveal, but it has the potential to rewrite the early parts of the history of the Universe.
+
+# Looking into the past
+
+But how can we probe the early universe, the past, with a telescope?  It relies on the simple, but not obvious fact: light travels at a finite speed.  It takes approximately 7 minutes for light to travel from the sun to the Earth which means that we see the sun as it was 7 minutes ago.  Light takes just over 4.2 years to travel from our closest neighbouring star.  The distances in space start to get literally astronomical pretty quickly, but peering into the distant depths of the Universe also enables us to peek into its past.  Thanks to Edwin Hubble, we’ve known for nearly 100 years that the further away something is, the faster it’s moving away from us as the Universe expands.  That does something else to the light.  It stretches it out, shifting visible light to longer wavelengths: red-shifting it.  By measuring the amount the light has shifted by (the redshift), we have a measurement of its distance.
+
+\_\_\_
+
+We’ve known for nearly 100 years that the further away something is, the faster it’s moving away from us as the Universe expands.  That does something else to the light.  It stretches it out, shifting visible light to longer wavelengths: red-shifting it.
+
+\_\_\_
+
+Like its namesake, the Hubble space telescope has done a great job peering into the depths of space.  It has spent hundreds of hours staring at blank patches of sky, sending back images that when stacked together reveal tens of thousands of galaxies.  I remember the first time I saw the [Hubble Ultra Deep Field](https://esahubble.org/images/heic0611b/), looking at it and realising that each tiny distinct blob was a new galaxy. Yet to cover the entire sky you would need to repeat this image 26 million times over. The scale is mind-blowing.  A program in 2012 that re-visited this field pushed further, finding galaxies as they were 600 million years after the Big Bang.  The highest redshift, or most distant, confirmed galaxy to date sits in a different patch of sky, also captures at by [Hubble](https://en.wikipedia.org/wiki/GN-z11).
+
+Hubble was so good at finding galaxies from that epoch of the Universe because it hovered above the Earth’s atmosphere which blocks a lot of the light, meaning terrestrial telescopes can’t detect it.  But astronomers have pushed Hubble to its limits.  That’s why astronomers the world over have been excitedly anticipating the Webb.
+
+With Webb we can unveil the earliest period of the Universe, just out of Hubble’s reach.  A period of the Universe when we expect the first stars and galaxies to be forming.  The light from these objects is red-shifted out of Hubble’s view so the telescope needs to be more sensitive and see to longer wavelengths.  Pushing to longer wavelengths requires a bigger mirror to see the same level of detail.  This has been the barrier but Webb has smashed it with its huge, 6.5m diameter mirror, folded up to fit into the Ariane 5, its launch vessel, on its voyage into space.
+
+\_\_\_
+
+With Webb we can unveil the earliest period of the universe, just out of Hubble’s reach. A period of the Universe when we expect the first stars and galaxies to be forming.
+
+\_\_\_
+
+# In search of the first stars and black holes
+
+What do we hope to see? After the Big Bang there was radiation leftover (which we now detect as the so-called cosmic microwave background), dark matter (whatever that turns out to be), dark energy (even more enigmatic than dark matter), neutral Hydrogen, neutral Helium and smatterings of Lithium and Beryllium. That’s it. There were no stars, no galaxies, and the radiation from the big bang was rapidly losing energy as the Universe expanded, red-shifting out of visible wavelengths within 3 million years, marking the beginning of the dark ages.  The whole Universe went dark, and there wouldn’t be light again until the first stars were born.  Part of Webb’s job will be to look for these first stars, the first starts of the Universe. It will also be looking for even more exotic things, like black holes.  So far only theorised, these so-called *direct collapse* black holes form when huge, dense clouds of gas collapse without fusing Hydrogen and making stars. If detected, by searching for the effects of their collapse on the surrounding gas, one of the mysteries of how galaxies grow their super-massive black holes will be solved.
+
+But Webb’s impact goes further than just seeing the earliest ancestors of our own Sun. We will also gain a first glimpse at the distribution of all matter (including dark matter) in the Universe, as the first stars formed in the densest regions.  By measuring the cosmic microwave background we can get a snapshot of the distribution of matter around 400,000 years after the Big Bang. But we want to trace the *evolution* of this structure to learn about the dark components of the Universe – dark matter and dark energy.
+
+One of the most surprising things we might find are fully formed galaxies in the early Universe that look much older than we expect.  Reconciling that with the current age estimates derived from the cosmic microwave background, putting the Universe at 13.8 billion years old, will be a challenge.
+
+\_\_\_
+
+We have a basic plot for the early Universe, but our protagonists are poorly characterised. By peering into the dark ages, Webb has the potential to force a re-write of that story.
+
+\_\_\_
+
+To understand the full scope of how Webb might change our understanding of the Universe, here’s an analogy I like to give:  Imagine a (friendly) alien interested in studying humans.  Hubble’s view of early galaxies is like giving this alien the chance to view humans for the very first time by putting them down in a primary school playground.  That first view of humans gives so much information but after a while they may ask ‘are they all so short? are they all this energetic? are these typical humans?’. Webb’s view of galaxies in the early Universe is the equivalent of putting this alien down in the middle of a bustling metropolis and allowing them to see a diverse population of humans of all ages. So it’s not just finding the first galaxies, but understanding what galaxies are really like at the earliest epochs. Hubble has peered back to within 400 million years of the big bang but hasn’t necessarily seen everything.
+
+We don’t know yet what Webb will see.  The scientist in me always wants to caution at this point that the Webb could potentially just reveal a city full of children, what Hubble has already told us typical galaxies are like.  But we can’t know that yet, and there are hints from other telescopes that it might not be the case.
+
+Sometimes when I give talks to the public, I tell a story of the Universe; from the Big Bang, through the dark ages, the first stars and galaxies, all the way to the present day.  We think we’ve built up quite a good understanding, and the questions that drive us are more about fleshing out the parts of the story we haven’t fully got a handle on yet.  We have a basic plot for the early Universe, but our protagonists are poorly characterised.  By peering into the dark ages, Webb has the potential to force a re-write of that story. I don’t know if it will lead to that, but I do hope it throw up some surprises along the way.

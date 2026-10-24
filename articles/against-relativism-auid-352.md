@@ -1,0 +1,39 @@
+---
+title: "Against Relativism"
+subtitle: "Don't kill relativism - draw its teeth."
+author: "Simon Blackburn"
+date: "19th April 2014"
+article_id: "352"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "828 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/relativism.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/against-relativism-auid-352"
+---
+
+# Against Relativism
+
+*Don't kill relativism - draw its teeth.*
+
+**By Simon Blackburn** | *19th April 2014* | *Read time: approx. 4 mins* | *828 words*
+
+![Against Relativism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/relativism.webp)
+
+---
+
+Every philosopher knows of the “freshman relativist”, quick to assert, dogmatically even, that it all depends how you look at it; if they think that then it must be true for them; when in Rome…; and at the end of the line, just “wha’ever”. You do not have to own a signed photograph of Michael Gove to loathe and fear this cynical or sceptical character.
+
+Yet for a long time the “postmodernist” climate nurtured the relativist frame of mind. Hidden dark forces mould and skew our beliefs and even our perceptions, let alone our values and tastes. We are each the creation of a particular history and culture, class and gender. There is no reason to expect uniformity, or convergence towards it. Multiplicity and diversity rule, and a good thing too. We should no longer entertain imperial ambitions, blithely supposing that just one ethic, or ideology, or way of life is the right one for everybody, and still less that we have the right to impose it on everybody.
+
+The relativist frame of mind was not new in the late twentieth century. It was the target of some of Plato’s most impressive writings. Indeed Socrates’s celebrated rebuttal, the so-called “peritrope” has been a standard weapon in any anti-relativist armoury. The idea is to get the relativist to assert his position, claiming, for instance, that what seems true (or false) to anyone therefore is true (or false) for them. We then reply that this claim seems false to us, hence by its own lights it *is* false for us, and thus we refute it. Although Plato shows Socrates’s opponents being dumbfounded by this turning of the tables, it is hard to believe that such a quick victory ever won many converts.
+
+A better tack is not to try to kill relativism, but to draw its teeth. Relativism thrives when people do not have to shoulder the burden of actually coming to a conclusion. When it is vital to do so, relativism disappears. Before effecting a turn on my bicycle I need to know whether there is traffic bearing down. If I can see and hear that there is, the thought that it might be true for someone else that there is none simply gains no purchase on me: it could only mean that they are probably deaf or blind. I may, of course, be cautious about coming to a judgement, but caution and willingness to listen to countervailing evidence or countervailing voices is not the same thing as relativism. After the bus thunders past, vindicating my judgement that there was traffic coming, I am not likely to entertain the thought that it would have been true for someone else that there was none.
+
+Perhaps nobody sustains relativism when it comes to empirical, perceptual issues like the onset of traffic, nor when it comes to the inshore waters of science, where opinion has settled into determinate interpretations of the world.  People who hold that the world is around six thousand years old are simply wrong. But on ethical and political issues there is less prospect of convergence, and when opinions do converge, there is less prospect of seeing that convergence as explained by the truth. Everyone holds that slavery is wrong, but that may be more due to hydrocarbons now doing the world’s work than due to our improved humanity. Or, as the relativist will be quick to suggest, if there has been an improvement in our humanity (which, I hold, there has), that itself may be due to the fortunate abundance of alternative ways of getting the work done.  But the right response to that is simply to admit that there may be an element of luck or happenstance in our becoming as nice as we are. There is no reason to be less glad of it because of that, although there may be reason to be less judgemental about those who lived in other circumstances.
+
+On political and ethical issues we must also take up the burden of judgement. It is true that we may not be interested in whether, for example, we should stay in the European Union, and then we can afford to rest with “wha’ever”, or stay content with the thought that some say yes, and others say no. Perhaps this is the fortunate situation of the freshman, when it comes to a great many issues. But for others it is no longer playtime, and things must be decided and we have to be counted. Even freshmen find themselves passionately on one side or another when the issue touches them.
+
+The art, then, is to know when alternative voices need to be taken into account as we make up our minds, and when they can be regretted and discounted. That too requires experience and judgement. Even if we prefer to let our experts or our holy texts do our thinking for us, that too is an ethical response to the world, and in danger of being a very bad one indeed.

@@ -1,0 +1,99 @@
+---
+title: "Camus and the absurdity of freedom"
+subtitle: "Choice vs Control"
+author: "Harry Carlisle"
+date: "12th October 2023"
+article_id: "2629"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,085 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-39.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/camus-and-the-absurdity-of-freedom-auid-2629"
+---
+
+# Camus and the absurdity of freedom
+
+*Choice vs Control*
+
+**By Harry Carlisle** | *12th October 2023* | *Read time: approx. 10 mins* | *2,085 words*
+
+![Camus and the absurdity of freedom](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Untitled-39.webp)
+
+---
+
+*Control lurks behind the rhetoric of freedom, but how might an explicit acknowledgement look like in practice? In this interview, Uriel Aublof explores how the politics of Margaret Thatcher and Benjamin Netanyahu disguised liberty as control, and why Albert Camus’ emphasis on choice over control could change our politics for the better.*
+
+**Harry Carlisle:** Your recent paper ‘Cosmic Political Theory’ describes a universe overcome with dread. If we’re concerned with fear and the human condition, another thinker that came to mind was Camus and his ‘Absurd’. Was this an idea you also had when writing the piece? Is cosmological thinking ultimately an extension of the Myth of Sisyphus?
+
+**Uriel Aublof:** If you go back to Camus', Myth of Sisyphus. He was also, in some very important ways, trying to undermine the concept of hope. And I think for me, the imaginative way of trying to bring about hope to the cosmos was to consider the possibility that maybe our choices influence life on a cosmic scale. Can you help us better understand perhaps the key biggest mystery that we had building the universe, that of dark energy and dark matter? If organisms actually affect that? Then in some ways, we have resolved Camus' absurd because that is the main thrust of the argument in the Myth of Sisyphus. We are searching for meaning in a meaningless universe. And the meaninglessness of the universe is inherent. It's a fact. We should just accept it. And this piece is trying to challenge that in a way of, well, maybe not entirely. So maybe there are bigger connections here than we typically dare to imagine.
+
+\_\_\_
+
+Try to imagine how powerful the absence of choice is. Think about Margaret Thatcher. There is no alternative, TINA right? That was the key catchword. There is an alternative. And it's so powerful.
+
+\_\_\_
+
+**Harry Carlisle:** The very act of seeking meaning creates meaning. But at the moment of realization that you can impact the world like that would be quite terrifying, especially for someone with an overabundance of power.
+
+**Uriel Aublof:** Right, Exactly. Try to imagine how powerful the absence of choice is. Think about Margaret Thatcher. There is no alternative, TINA right? That was the key catchword. There is an alternative. And it's so powerful. This is mighty because if there is no alternative, there is no choice. Well, you just go about doing what you're expected to do, what your politicians leaders are telling you to do and feel good about yourself because it's natural. If you realize you have a choice and on such a scale. This is basically taking our fear of freedom, our angst to the outermost limit. What do we do? We just let it go and pretend we never heard it. Or do we dare to make choices? Even braver one that we're so far.
+
+It is normal to fear the unknown, but what the article is trying to do is encourage us to understand that the alternative is also quite scary. To in some ways re-appropriate your freedom. And again, freedom in the sense of choice, not liberty, but freedom.
+
+**Harry Carlisle:** Like a Positive liberty? Freedom as being supported to achieve things?
+
+**Uriel Aublof:** No, actually. I think that's beyond the distinction between positive and negative. There should be a distinction between liberty and freedom that we typically used interchangeably, but I think they are very important. I don't think that causes much of the malaise that impacts us personally and politically. If you go back to Isaiah Berlin’s text, he's basically telling us, there are two key questions when it comes to liberty and freedom, which he uses interchangeably. Positive liberty is who is the master, Negative liberty is what am I a master over? I am basically asking who is in control and control over what? You can combine it. Who controls what? These are the questions of politics. This is a question of liberty.
+
+\_\_\_
+
+Liberty and control seem to be almost diametrically opposed. But no. Liberty is about who controls what. And what we call liberalism is often enough the prescription “you don't control me”.
+
+\_\_\_
+
+There is a lot of discussion about the distinction between the two, which is more important, etc. But what I think we often miss is that both of them are about control. And that is almost counterintuitive. Liberty and control seem to be almost diametrically opposed. But no. Liberty is about who controls what. And what we call liberalism is often enough the prescription “you don't control me”. And there is that complimentary aspect of “I control things”, which I think is all already there. If you think about the abortion debate in the US, they depict it as pro-choice. Effectively, I think it's pro control. It's brought control of the woman in that respect over her own body. It's basically saying, “you don't control me”. I control my own body. And Liberty, I think, is always the result of some sort of negotiation. We negotiate liberty, we negotiate who controls what in politics. Who controls what and who should control what? Freedom is different because freedom is about choice. Freedom is about the negotiations that go about in your own mind. Not between me and you. It's about you deciding whether you delude yourself that you have no choice. Would you go with Margaret Thatcher or with your local priest or rabbi telling you it's all God's will? Or as a human being, you're telling yourself, no, I always have a choice about something. Right, I'm not omnipotent. But you always have a choice. And I think that our political life is certainly so much underlined by liberty and too little driven by freedom. So much about who controls what. It's always about cultivating a sense of choice, of responsibility. This is alluded to in the distinction between existential and existentialist politics: *existential* is about life and death, but *existentialist* is about trying to tap into the humanity and freedom of the heart.
+
+[![related-video-image](https://iai.tv/assets/Uploads/future-of-freedom-resized.webp)
+
+SUGGESTED VIEWING
+The future of freedom
+With Julian Baggini, Peter Godfrey-Smith, Sarah Garfinkel, Alex O'Connor](https://iai.tv/video/the-future-of-freedom)
+
+**Harry Carlisle:** So liberty is the politicization of freedom. Do you think this is inherent? That politics can only interact with freedom through control, or can we go beyond control?
+
+**Uriel Aublof:** You know, one of the simplest ways to go about it is to think of Lenin. Imagine no possession. No possession because possession obviously is a form of control of movement. Go back to Jean Jacques Rousseau in that story, that human civilization basically started with the first person looking at the piece of land and saying, ‘this is mine’ and enough stupid people believed it. Now there is nothing uniquely human in seeking control. Animals display it all the time, especially social animals.
+
+This is the sort of position we have in the law. We are social animals and we are territorial animals too. But the thing is, and this is very interesting, and it also in some ways completes the circle going back to what we said about dealing with the question “Is that all there is?” And my argument is that it is no. Biology is not distant when it comes to human beings. We often say, almost offhandedly, that humans are social animals. When was the last time that you saw any social, non-human animal, retreat into solitude to be apart from all the others? Just in order to reflect about the meaning of life or what they should do next or whatever. So yes, humans are social animals, but they are not just social animals. And humans are territorial animals, but they are not just territorial. We may have this biological push towards territorial and social control.  And this is not necessarily a bad thing, but this is not the be all and end all.
+
+The point I'm trying to emphasize is that in some way, this is a failure of our imagination. Which Lenin failed at as well. He urges us to imagine no possession, but doesn't really outline any sort of such universe where there is no possession.
+
+\_\_\_
+
+Who controls what? So even between communism, socialism and capitalism, that is the debate. Who controls what?
+
+\_\_\_
+
+**Harry Carlisle:** Yes, it's like that sort of a quote isn't. It's easier to imagine the end of the world, than it is to imagine serious social reform.
+
+**Uriel Aublof: I**t goes even beyond capitalism, because all the or at least many of our economic ideologies and systems and capitalism is just one of them. They have some foundations of control of power. And they keep on debating who controls what. Well, these are the big debates that you have for eons of human civilizations. Who controls what? So even between communism, socialism and capitalism, that is the debate. Who controls what? This, in some way, is the challenge. Did we imagine going beyond control? Or at least dramatically tame that question to steer the wheel towards freedom rather than liberty?
+
+**Harry Carlisle:** What do you think that would look like practically? Take your native Israel, for example. What do you think if Benjamin Netanyahu woke up this morning and he understood the world without control, and in turn drew up some policies? What sort of thing do you reckon he might try and do?
+
+**Uriel Aublof:** We're really into the realm of utopia. I don't see Benjamin doing anything like that. But it can lead to some very peculiar possible trajectories. I'll tell you one thing that may exemplify how terrifying this could be. Choice over control would go to Camus' inaugurating question about suicide. In this world where freedom is at the heart, suicide is not a mark of the mental illness, it would be a key mark of humanity. Not in terms of necessarily practicing suicide or contemplating suicide but people would be urged to consider the option of suicide. And that would possibly be combined with political life.
+
+Cornell is the leading Ivy League University in the rate of suicide. What they've done as a result is constructing wide nets below the bridges so you wouldn't be able to commit suicide by jumping. Of course, after jumping onto the net, you will be able to crawl off the net and jump again. The suicides stopped, as far as I know, after they installed those nets. But you may wonder, if you were so up to committing suicide, why wouldn’t you find some other means?
+
+Attempting suicide and being prevented from doing so will make you think again. A freedom-led politics could involve all citizens being given a painless suicide pill upon coming of age. This pill would be encased in several overlapping layers that you'll have to choose again and again to open one week after the next. I think I outlined seven weeks for that. In order to finally make a decision to take the pill. The obtaining of this device would grant you rights to partake in elections. Once you do take the device, life will become a choice. Perhaps the most fundamental choice about you personally that you can make. You will have to live with the ongoing questions of what's worth living or. And ask yourself at the day of a political election, how does that translate into your political life? Do you feel right now that your public spirit, that your political life, is meeting up that challenge of continuing or not.
+
+[![related-video-image](https://iai.tv/assets/Uploads/camus-vs-kafkav3.webp)
+
+SUGGESTED VIEWING
+Kafka vs Camus
+With Emma Sulkowicz, Andrea Elliott, Janne Teller, Paul Muldoon](https://iai.tv/video/kafka-vs-camus)
+
+Much of what we've seen in the UK and Brexit included, of course, is the result of all of this. The liberty politics of who controls what people want. Many people are saying the Brexit referendum was a huge mistake. See the implications? I'm saying, no, that was wonderful. That was wonderful because you allow the people to make the choice themselves.
+
+This is what we need in Israel, too, because both the pro-democracy and what I would call the anti-democracy camps, both of them are engaging in who controls what. When I suggested the referendum in Israel, about the judicial overrule, that proposal was immediately rejected by both camps. So both camps are speaking in the name of the people while, actually not wanting to listen, to relinquish control. And this is not just politicians. For some people, the ability to transfer blame to politicians is a useful displacement of responsibility. So they could say, “well, this is not us, this is them, they did it.”
+
+\*This interview is based on an article in the *Journal of Political Theory* titled ‘Cosmic Political Theory’ in which the human representative Clarice argues with the alien Advena about opening up to the cosmos, risk, fear and the nature of the universe.

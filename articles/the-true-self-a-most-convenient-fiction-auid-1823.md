@@ -1,0 +1,65 @@
+---
+title: "The true self: a most convenient fiction"
+subtitle: "Good to believe in, even if not real"
+author: "Rebecca Schlegel"
+date: "Issue 96, 22nd June 2021"
+article_id: "1823"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,440 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-06-22.The-true-self.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-true-self-a-most-convenient-fiction-auid-1823"
+---
+
+# The true self: a most convenient fiction
+
+*Good to believe in, even if not real*
+
+**By Rebecca Schlegel** | *Issue 96, 22nd June 2021* | *Read time: approx. 7 mins* | *1,440 words*
+
+![The true self: a most convenient fiction](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-06-22.The-true-self.webp)
+
+---
+
+*There is no evidence of its existence. Yet the idea of the true self – who you really are deep down – is everywhere in our popular culture: in music, literature, films, and the entire self-help industry. But even if our journeys of self-discovery set out to find something that doesn’t exist, and even if there’s no such thing as “becoming who we really are”, believing we have a true self helps us make sense of the world, find our lives more meaningful, and act more morally, argue Rebecca Schlegel and Joshua Hicks.*
+
+There are plenty of reasons to be skeptical of the existence of a true self (at least as most people imagine it). When people think about their true selves, they tend to imagine a stable homunculus-like entity that exists within them that doesn’t change across situations or over time. This homunculus-like entity is perceived to be our essence – the thing that endows a person with their traits, skills, and interests.  Yet, academic psychologists have demonstrated time and time again that people’s answers to the question “who am I?” are culturally informed, contingent upon their current situations, and change over one’s lifespan. Further, even the most advanced brain measurement techniques have yet to illuminate any signs of a homunculus residing within us. All of these findings call into question whether any such entity is really plausible.
+
+Of course, evidence from the psychological sciences often bears little weight on most people’s lay beliefs about personhood. Indeed, there is something incredibly intuitive and hard to shake about the prospect of having a true self. For example, imagine how you might feel after finding out that a close friend is converting to the other side of the political spectrum. It is not uncommon in these types of situations to wonder which version of our friend is the “real” one? Has this conversion brought your friend’s behavior more in line with their true self or is something pulling them away from who they really are? Is your friend’s true self the one who agrees with you or the one who disagrees with you? We often have similar questions about our own lives. Behaving in a way we think is immoral or making a big change in our lives can make people feel like Alice did after eating a piece of magic cake and start to wonder “Who in the world am I?”
+
+If the idea of a true self occupies our minds, is it problematic that it might not actually exist?
+
+Through our 15 years of research on the topic, we have found that these lay intuitions about the true self play a profound role in people’s lives. The idea that it’s important to know and follow one’s true self is ubiquitous in music, literature, films, and in everyday conversations we have with others and in our own heads. One popular appeal of many self-help books and motivational speakers is that they often claim to help people find themselves and become who they really are. Even the appeal of absurd personality tests and quizzes found on the internet is undergirded by a sense that there may be a “real” you just waiting to be discovered -- Am I Professor Dumbledore or Lord Voldemort? Moreover, how many times have readers been given and received advice to “just be yourself?” Clearly, many people believe that the true self exists and discovering, knowing, and following it is somehow connected to living *the good life*. Indeed, our work has shown that most people either agree or strongly agree that  “following your true self is likely to lead to personally satisfying decisions”.
+
+If the idea of a true self occupies our minds, is it problematic that it might not actually exist? Through our work, we have concluded that it doesn’t matter that the true self might be more of an illusion than a literal entity because the belief in the true self, itself, might serve a special function in our lives.  Specifically, we have found that, similar to beliefs about God and free will, believing that true-selves exist, helps us make sense of the world and provides valuable feedback about the rightness and righteousness of our behavior.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Thumbnail.webp)
+
+SUGGESTED VIEWING
+The different places of the self
+With Chakravarthi Ram-Prasad](https://iai.tv/video/the-different-places-of-the-self)
+
+**Making Sense of the World**
+
+As many philosophers and psychologists have noted, modern life has provided many of us with the freedom to make a large variety of decisions about our lives. Compared to other points in history, we have more freedom than ever to decide what we believe, what is important to us, who to spend our time with, and what to do with our lives. This freedom presents a potential problem: with so many options, how can we ever know if we are making the “right choice.” How do we know that our choices are correct when other people seem happy making alternative choices? By believing that each person has a unique essence that makes them who they are, we are essentially adopting the viewpoint that each person has their own unique path to traverse. What is correct to me, may not be the right thing to you. And that’s OK. We can share the belief that what is important is following our true selves, while arriving at different answers to these questions. On this view, the fact that you don’t find the same things meaningful that I do doesn’t mean I’m wrong. It means we have different “essences” that have led us to unique answers to life’s big questions, but we are both approaching the question in the “right way”.
+
+Of course, people do not always strictly adhere to this worldview. A quick scroll through twitter makes it clear that people also sometimes want others to see the world the same way they do. But at least the beliefs surrounding true selves helps create some room for people to accept differences in opinion.
+
+Our research supports the idea that feeling like you know and follow your true self really does lead to the perception of more satisfying decisions and a greater sense that your life is meaningful.
+
+**Finding Our Lives Meaningful**
+
+Our research supports the idea that feeling like you know and follow your true self really does lead to the perception of more satisfying decisions and a greater sense that your life is meaningful. For instance, people who report being in touch with their true-self often report feeling more satisfied with major life decision, such as their decision to attend a specific university. They also report that their lives are imbued with meaning and purpose more generally.
+
+Perhaps knowing one’s true-self really does lead to “better” decisions and the feeling of meaning in life. Alternatively, this relationship might also exist simply because saying you followed your true self  is a more satisfying narrative about why you did something than most other alternatives. When we believe we made a choice to follow our true selves, the narrative is one that suggests we made the decision the “right” way. Consider someone asking you why you chose your current career, saying you were following your true self feels a lot better than saying you did it for the money or because it was easy. True self narratives are also remarkably flexible, if your true self values an easy job because it allows you to pursue other passions, this feels very different than doing something just because it is easy.
+
+Regardless, of the mechanism, there is good reason to think that the advice to “just be yourself” is good advice. Feeling authentic is associated with a host of positive outcomes. In this way, the true self’s ability to help us find meaning in a world that can feel overwhelming seems very useful.
+
+**Behaving Morally**
+
+Emerging evidence suggests that the belief in the true self may even help us do the right thing in many situations as well. We have shown, for instance, that people feel less in touch with their true selves after committing a moral transgression, and are more likely to report needing extra money to commit an immoral act (e.g., harming an animal) if asked to make the decision by following their true-self as opposed to some other decision making strategy (e.g., rational thinking). These data speak to the common lay belief that our sense of right and wrong is embedded in the true-self and that consulting this compass may have prosocial benefits.
+
+While science may never be able to definitively prove that true selves do or do not exist, we think there is little doubt that belief in a true self is playing an important role in our lives. In many ways the conclusions are the same regardless of whether true selves are real in any “objective” sense.

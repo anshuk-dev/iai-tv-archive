@@ -1,0 +1,73 @@
+---
+title: "Orwell, Huxley and the path to truth"
+subtitle: "How fiction can help us to understand reality"
+author: "Emrah Atasoy"
+date: "1st March 2023"
+article_id: "2406"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "1,463 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-01-Orwell-and-Huxley.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/orwell-huxley-and-the-path-to-truth-auid-2406"
+---
+
+# Orwell, Huxley and the path to truth
+
+*How fiction can help us to understand reality*
+
+**By Emrah Atasoy** | *1st March 2023* | *Read time: approx. 7 mins* | *1,463 words*
+
+![Orwell, Huxley and the path to truth](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-01-Orwell-and-Huxley.dc.webp)
+
+---
+
+*From a global conflict to a growingly dishonest political culture to the rise of Big Pharma; it’s fair to say that we live in troubling times. But for George Orwell and Aldous Huxley, these issues were foreseeable. In this article, Dr Emrah Atasoy compares the seminal works of Orwell’s 1984 and Huxley’s Brave New World, and explores how we can use fiction as a guide to help identify and overcome the issues within reality.*
+
+In a world heavily stricken by disaster and tragedy, we may of late find ourselves asking whether we live in a utopia or dystopia. With the COVID-19 pandemic, the ensuing global inflation, rampant consumerism, the war between Ukraine and Russia, post-truth politics, global migration, refugee, and humanitarian crises in the aftermath of various troubles in various countries such as Syria, Afghanistan, and Rwanda, rigid explicit or implicit social stratification, the looming ecological collapse, Anthropocentrism, and the recent deadly earthquakes in Türkiye and Syria, the world of today often appears closer to a dystopia than a utopia.
+
+This begs the question of whether dystopia exists only in the fictional imagined realm; that is, whether or not alternative world systems and societal orders portrayed in dystopian narratives are based on mere fiction rather than life itself. My answer would be both, depending on which side you are looking at, as the pendulum is constantly swinging. Our experiential reality under the influence of today’s world conjuncture across the globe has once more made us grasp the power of literature and speculative narratives that are massively inspired by the societies in which they are produced, acting as cautionary and inspirational works. In this post-pandemic and post-Anthropocentric world, it has now become almost impossible to talk about utopia and dystopia as two opposites, a binary opposition, because they have an intricate and entangled relationship with each other, which has revealed the drastic necessity of renouncing dualistic thinking, that is, the obsession with interpreting everything around us in dichotomies, as black or white. That is to say, there is probably always a utopian aspect to a dystopian narrative or a dystopian aspect to a utopian narrative for some parties.
+
+[![23 02 07 Whats wrong with sex.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-02-07-Whats-wrong-with-sex.dc.webp)
+
+SUGGESTED READING
+Sex, art and technology
+By Abraham Olivier](https://iai.tv/articles/whats-wrong-with-sex-abraham-olivier-auid-2381)
+
+In this transitionary period, Aldous Huxley’s *Brave New World* (1932) and George Orwell’s *Nineteen Eighty-Four* (1949) come to mind whenever the word dystopia is spoken of as the two pioneering cult texts. These classic dystopias seem to depict completely different world orders; however, the rulers’ ultimate motivation in these respective novels remains the same: to circumvent possible dissent and uprising against their repressive regimes and to have total conformity and submission, in order to maintain absolute power and govern in line with their interests accordingly, even though their means are disparate. Through the allowance and constant promotion of promiscuity, soma, and consumerism in a joyful and escapist manner, Huxley’s hedonist dystopia *Brave New World* creates temporary illusionary pleasures and happiness in a hedonistic sense. Through numerous means such as promoting freedom of sexuality, the use of the drug soma, and happiness (“The world’s stable now. People are happy; they get what they want and they never want what they can’t get. They’re well off; they’re safe . . . they’re so conditioned that they practically can’t help behaving as they ought to behave” (*Brave New World* 193-94), people are kept in a drugged and passive state.
+
+Through the division of society into a strict caste system consisting of five categories: Alphas, Betas, Gammas, Deltas, and Epsilons, and conditioning these groups into various ingrained roles, social mobility and human capability are restricted and prevented. In addition, predestination and cloning are practiced, and there is insistence on perpetual consumerism through the state motto “Ending is better than mending” (*Brave New World* 42); this social conditioning is compounded through the destruction of familial bonds and the prevention of emotional bonds, and through direct psychological conditioning in the form of hypnopaedia (sleep-teaching) or Neo-Pavlovian conditioning to deter children from books. Through all of the above measures, individuality is suppressed (which is contested through John the Savage’s metaphorical and geographical journey), manipulative social engineering is enforced, and absolute power is maintained under the guise of a free “utopian” society.
+
+\_\_\_
+
+Huxley’s narrative seems to envision and capture today’s world more powerfully, as his vision is more in tune with the challenging problems today. A global consumerist culture is prevalent, the impact of social class stratification in many cultures is strongly felt…. and a massive emphasis on pleasure, hedonism, and mere happiness rather than the culture of questioning and critical thinking could be observed in many societies of today’s world
+
+\_\_\_
+
+Orwell’s cult text *Nineteen Eighty-Four*, on the other hand, portrays a totalitarian and completely pessimistic world order run by the autocratic ruling Party in Oceania by means of a restrictive ideology. Orwellian dystopia pictures sheer state repression and the relentless practice of ideological state apparatuses in an Althusserian sense. Numerous repressive means are used to maintain absolute power. Constant surveillance, through telescreens and helicopters, promoting spying and espionage, and censorship of speech and writing, is used to scare people into submission, and the introduction of the new language Newspeak helps destroy all the words that may be related to possible uprising and prevent even the thought of resistance (“In the end we shall make thought-crime literally impossible, because there will be no words in which to express it” (*Nineteen Eighty-Four* 83-84).
+
+Big Brother creates a cult of the leader, in which thought-crime is used to prevent critical thinking and questioning, and hate weeks are organised to make citizens hate enemies of Oceania such as Emmanuel Goldstein, and by extension increase loyalty to Big Brother and the Party. Banning sexual activity (which Winston violates through his sexual activity with Julia) aims to prevent the development of emotional bonds, and the violation of this results in “rewiring” this love towards Big Brother in the Ministry of Love, through torture (best exemplified through the protagonist Winston Smith’s journey of *rehabilitation* and *renormalisation* in Room 101, which teaches him to love Big Brother again, and that 2+2=5). Furthermore, fabrication and distortion of historical reality through the Ministry of Truth, where Winston is working, edit reality itself to paint Big Brother and its society in a positive light. Thus, there is constant oppression of almost any type of freedom (“War is Peace. Freedom is Slavery. Ignorance is Strength” (*Nineteen Eighty-Four* 164), no room for the cultivation and blooming of individuality is allowed, collective identity forged by the ruling party is endorsed, and absolute power is controlled (“We control life, Winston, at all levels . . . We create human nature . . . Humanity is the Party” (*Nineteen Eighty-Four* 405-6) and maintained via such a “dystopian” society.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-01-19-L22-34-The-dream-of-progress.thmbnl.webp)
+
+SUGGESTED VIEWING
+The dream of progress
+With Jess Wade, Kenneth Cukier, Nolen Gertz, Caitjan Gainty](https://iai.tv/video/the-dream-of-progress)
+
+Comparing and contrasting Huxleyan dystopia and Orwellian dystopia in the last instance, various pivotal questions emerge: Which projection resembles the reality we experience today? Which speculation best represents our society today? I believe that both authors predicted the future and today’s world correctly in their respective ways. Orwellian projection through sheer suppression can be observed in various parts of the world, as representation rather than truth itself may become more important and powerful due to the manipulative discourse and rhetoric of the ruling powers, and implanting absolute fear, rather than freedom, is the triggering force of various governing bodies. In different parts of the world, a society of fear, or surveillance society, (in a positive or negative sense contingent upon the objective) has been created through constant watching via social media, populism, demagogy, and propaganda.
+
+As Orwell’s vision may partly be limited to various parts of the world**,** Huxley’s narrative seems to envision and capture today’s world more powerfully, as his vision is more in tune with the challenging problems today. A global consumerist culture is prevalent, the impact of social class stratification in many cultures is strongly felt, especially in the process of the COVID-19 pandemic (the completely disparate experiences of the pandemic by the rich and the poor), and a massive emphasis on pleasure, hedonism, and mere happiness rather than the culture of questioning and critical thinking could be observed in many societies of today’s world.
+
+Both Huxleyan and Orwellian visions act as strong cautionary narratives in different ways, warning us against challenging systemic societal problems, the potential repercussions of sheer ignorance, oppressive systems, and encroachments on freedom. Yet, in the midst of such dark dystopian visions, the quest for hope and light becomes even more requisite, a matter of life and death.
+
+**Works Cited**
+
+Huxley, Aldous. *Brave New World*. London: Vintage, 2004.
+
+Orwell, George. *Nineteen Eighty-Four*. İstanbul: Pergamino, 2017.
+
+**Note**
+
+EUTOPIA-SIF Marie Skłodowska-Curie COFUND Fellow, English and Comparative Literary Studies & Institute of Advanced Study, University of Warwick, UK. E-mail: [Emrah.Atasoy@warwick.ac.uk](mailto:Emrah.Atasoy@warwick.ac.uk). This research was supported by the EUTOPIA Science and Innovation Fellowship Programme and funded by the European Union Horizon 2020 programme under the Marie Skłodowska-Curie grant agreement No 945380

@@ -1,0 +1,67 @@
+---
+title: "Machine Life"
+subtitle: "Living things are remarkable, agential, morally-important machines"
+author: "None"
+date: "3rd February 2023"
+article_id: "2375"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,689 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Machine-Life-3.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/machine-life-auid-2375"
+---
+
+# Machine Life
+
+*Living things are remarkable, agential, morally-important machines*
+
+**By None** | *3rd February 2023* | *Read time: approx. 8 mins* | *1,689 words*
+
+![Machine Life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Machine-Life-3.dc.webp)
+
+---
+
+*One of the most useful metaphors for driving scientific and engineering progress has been that of the “machine.”  But* *in light of our increased understanding of biology, evolution, intelligence, and engineering we must re-examine the life-as-machine metaphor with fair, up-to-date definitions. Such a process is allowing us to see that living things are in fact remarkable, agential, morally-important machines, writes Michael Levin.*
+
+The difference between living beings and machines was once apparent. Machines came from a factory and were designed by the real creatives - humans (or in the case of simple machines, such as levers, by crows), who understood exactly how they work. They were boring and predictable – they did the same thing over and over again, they did not adapt to new challenges, and they showed no evidence of having preferences or an inner perspective. Thus, we felt on safe moral ground to do whatever we wanted with them – disassemble them for example. Living beings were the exact opposite in every way. They were created, with great competency but no comprehension, by other living things. On a longer time scale, they appeared as a result of a blind search process (evolution), from an originally abiotic state, becoming infinitely clever in their handling of their environment and of novel challenges and opportunities.
+
+[![21 07 29.Nature machine](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-07-29.Nature-machine.webp)
+
+SUGGESTED READING
+Nature is a jazz band, not a machine
+By Jeremy Lent](https://iai.tv/articles/nature-is-a-jazz-band-not-a-machine-auid-1850)
+
+These traditional definitions go on to specify that, unlike machines, living things display clear agency – they have preferences, they are easy to reward and punish, they learn from their experience, and at least some of them are able to make statements that convincingly speak of an inner perspective and a deep spiritual nature beyond the “mere mechanisms” of our brains and bodies. As a result, they garner empathy and moral status. Sadly, the recognition of biological, agential status has never conferred fully effective protection to all - there have been many historical lapses of ethical treatment of human beings, to say nothing of other mammals, due to exaggeration of inconsequential details as bases on which to form in-groups and out-groups with respect to various moral protections. While humans have failed to act consistently and ethically on agential properties, the definitions of these categories (living being vs. machine) seemed, for a long time, to pick out clearly distinct categories. But those familiar criteria for ‘living beings’ vs. ‘machines’ will not survive the next couple of decades.
+
+That traditional dichotomous view, still held by many modern thinkers, fundamentally mirrors the Garden of Eden story, which focused on the difference between discrete categories: humans, and everything else. The persistence of this thinking is manifest in the magical category which we supposedly violate when charged with anthropomorphism. Darwin began to break down that binary distinction by giving us a 1-dimensional continuum, on which all of life is connected. But the upheaval that is coming, due to our increased understanding of biology, evolution, intelligence, and engineering, will make the Darwinian revolution seem like child’s play. To be sure, wiping out categorical differences, or the realization that evolution and protoplasm have no monopoly on creating minds, is a modern idea. Physician and philosopher Julien Offray de La Mettrie, in a remarkably prescient (given the examples he had available to him at the time) vision, laid out these ideas when he published “Man, a Machine” over 270 years ago. Since then, science fiction authors have consistently led the front on this issue. Now science and technology have begun to catch up, forcing us to confront the idea that we really do not know what kinds of substrates can underlie “true” cognition, sentience, or any of the other interesting properties that define functional relationships and ethical status. Even Cartesian Dualism can adapt to this realization – who says that an immaterial soul might not be happily connected to a robotic embodiment?
+
+\_\_\_
+
+Very soon, it will be impossible to know how to relate to a new being using the old criteria because it will not be anywhere on the familiar tree of life that we have used to establish our relationships
+
+\_\_\_
+
+Taking the lessons of developmental biology and evolution seriously requires that we embrace the continuity thesis. Each of us made the journey from physics to mind: we were once quiescent oocytes, tiny specks of passive chemicals. Eventually we become complex beings with metacognitive capacities (and perhaps beliefs about being “more than just a machine”). But in human development, as in evolution, there is *no* place for a bright red line - no discrete step at which, boom – pure physics becomes ‘true cognition’, gradually. Whatever we think that true preferences, pain, pleasure, decision-making, etc. are, we have to walk backwards to ask whether paramecia have a primitive version of them. If not, then we are back to the search for a sharp discontinuity, which is as fruitless as the medieval paradox of what really came first, the chicken or the egg. If yes, then we’re firmly in the land of machines with feelings and thoughts, because the molecular reactions that make up a unicellular organism and its functionality is a (very special) kind of machine.
+
+The gradual, slow metamorphosis that gives rise to cognitive beings requires that we stop thinking in binary, discrete, sharp categories and focus instead on defining a spectrum along which cognition can scale, from the miniscule capabilities of minimal cybernetic systems to simple computational networks and eventually, the most advanced rational agents. We need to define the transitions that *appear to us*, as active observers, as distinct classes of agency and intelligence in the systems with which we interact. More than anything, we need to formulate theories of the scaling of cognition. We are *all* collective intelligences – not just the termite colonies and bird flocks, but all of us – made of parts, some of which used to be independent organisms themselves (cells), and which have many competencies, preferences, and behavioral repertoires. Many of the questions we need to answer about this multi-scalar cognitive continuum are at the interface of philosophy, science, and interventional engineering: How does a collective of neurons develop a unified first-person perspective? How many Selves can fit inside the 3.5 lb neural structure that is the human brain? How does a swarm of embryonic cells pursue collective goals in navigating morphospace (e.g., creating and repairing a salamander limb)? How many “embryos” (and what is one counting, anyway?) can form in a single embryonic blastoderm? What are the most effective policies for recognizing, modulating, and communicating with agents across the spectrum of cognition – in the context of rewiring, programming, training, or convincing systems that range from simple robotics to regenerative medicine to social groups? Turing, with his interest not only in intelligence, but also in chemical morphogenesis, understood the profound questions that these diverse fields of science have in common.
+
+[![All knowing machines are a fantasy](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/All-knowing-machines-are-a-fantasy.webp)
+
+SUGGESTED READING
+All-knowing machines are a fantasy
+By Emily M. Bender](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
+
+The coming paradigm shift is way more than just the realization that any standard human (the subject of much philosophy and policy) is just an arbitrary point on a smooth continuum on the developmental scale (which starts with a single cell), and on the evolutionary scale (flanked by a series of ancestral forms which challenge us to pinpoint a specific breeding pair of organisms where human mental qualities “began”). It’s much worse.  The future includes cyborgs, hybrots, chimeras, bioengineered constructs, software AI’s, and many more - possibly even exobiological agents. Any of these can implement a smooth continuum between an agent that is 99% machine plus some on-board human brain cells, and one that is 99% human with a bit of tech integrated into their brain. Advances in already existing methods show clearly that every point (including 50-50) along this continuum can exist, torpedoing any naïve hope that a sharp distinction between life and machine can be maintained. And, because of the interoperability of life, every combination of evolved material, designed material, and software is a possible being that immediately crushes familiar, binary categories. Recent advances in morphogenic engineering, biorobotics, AI, and artificial life are going to give rise to an astronomically large space of possible beings in which all of Darwin’s “Endless Forms Most Beautiful” are but a tiny speck.
+
+Many agents in our future environment will have been made by some indivisible mix of evolutionary design principles, rational engineering, and behavior-shaping of the inherent competencies of agential materials like cells. Very soon, it will be impossible to know how to relate to a new being using the old criteria because it will not be *anywhere* on the familiar tree of life that we have used to establish our relationships. Good; it’s about time we dump “what do you look like” and “where did you come from” as viable categories for knowing how to relate to another being.
+
+\_\_\_
+
+Those familiar criteria for ‘living beings’ vs. ‘machines’ will not survive the next couple of decades
+
+\_\_\_
+
+The future lies in discovering useful categories for recognizing, predicting, manipulating, creating, and relating to truly diverse intelligences, regardless of their embodiment or origin story.  The field of cybernetics taught us, decades ago, that machines can have goals – no magic needed. That field, and recent work in developmental biophysics, basal cognition, and artificial life are obliterating categories that were never real to begin with – merely convenient. The binary machine/living being and human/other categories thrived in a world of limited imagination and technological capability. It’s time to grow beyond that, towards an exciting future in which old categories give way to a mature science reflecting the scaling of the cognitive capacity spectrum. The science of the next century will not ask *whether* a machine has sentience, but what kind and how much – what tools, from a soldering iron to psychotherapy and many in between, are the optimal interface with this system. Abandoning the myopic attachment to protoplasm and evolution as unique paths to true minds that matter, will allow us to establish the powerful technology that takes advantage of inherent cellular intelligence for regenerative medicine, and multiscale competency architectures for transformative robotics and AI. With even greater importance and urgency, we can begin the journey to establishing a new system of ethics that is inclusive of truly diverse minds and is based on an understanding of the existential struggle that we all share.

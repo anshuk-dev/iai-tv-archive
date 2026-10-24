@@ -1,0 +1,103 @@
+---
+title: "We are the Disaster"
+subtitle: "Simon Ings on sci-fi and augmented apocalypse."
+author: "Simon Ings"
+date: "29th July 2014"
+article_id: "391"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,323 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/JG-Ballard-is-rad.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/we-are-the-disaster-auid-391"
+---
+
+# We are the Disaster
+
+*Simon Ings on sci-fi and augmented apocalypse.*
+
+**By Simon Ings** | *29th July 2014* | *Read time: approx. 12 mins* | *2,323 words*
+
+![We are the Disaster](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/JG-Ballard-is-rad.webp)
+
+---
+
+Simon Ings is a novelist, science writer and editor of *Arc*, *New Scientist's* magazine about the future. His latest novel, *Wolves*, explores an imagined future world where Augmented Reality reigns.
+
+Here, he speaks to Vassili Christodoulou about science fiction, J.G. Ballard, and whether Google Glass will ever really take off.
+
+***Wolves*** **is identified as a tribute to Ballard. What do you consider his influence on you as a writer and contemporary literature and science fiction as a whole?**
+
+It's much more an homage to John Wyndham than to Ballard. Wyndham lived near my home town and the house where my protagonist dispenses the body of his mother is actually the house where Wyndham lived. So there’s a bit of self-indulgent forelock tugging there. Obviously no writer of my generation or the generation previously is going to be without influence from Ballard, but I think what’s especially interesting is where Ballard is drawing *his* influences from, largely Joseph Conrad. That form of delivery, that very calm, almost hypnogogically lucid, form of delivery is something we’ve inherited with our mother’s milk if you like.
+
+Ballard harnessed a particular British tradition of fantasy with an interest in apocalyptic adventure narratives derived from the American tradition, and then played a very clever game by saying that things which were already happening in the real world were now happening to middle-class white people. This is a perfectly legitimate thing to do and is salutary, as well as entertaining, for the middle-class white people who read his books.
+
+**Presumably because it’s not** ***actually*** **happening to them in quite the way he imagines? For example: we rarely see blocks of luxury flats descend into civil war in the real world.**
+
+Sure, but had you been in Mozambique during the civil war in the 1970s, you'd have found a city where blocks of flats still stood, but with all the wood – including floorboards – taken out and used to cook food on the balconies of tower blocks. It all exists within a world of metonym and metaphor.
+
+**Your protagonist is called Conrad – were you, like Ballard, referring back to Joseph Conrad?**
+
+That happened quite late actually. I needed to strip out all the identifying marks, or at least as many cultural markers as I could, from the book in order to make it work. One problem with writing about a real emerging technology – there’s virtually nothing in that book that isn’t real in some form or other – is that it dates faster than your average unrefrigerated yoghurt. In order to maintain the realism and not have the book become out-of-date as I was writing it, I found myself needing to remove the cultural specificity.
+
+I delivered a draft and then realised, even as I pressed the send button, that all my names were English, irremediably English, and that they had no pan-European quality to them whatsoever. All the names were changed at the last minute, so changing my main character's name to Conrad was a happy Freudian slip – a last-minute Freudian act that I'm now quite chuffed about, and which I'm sure Jimmy Ballard would appreciate.
+
+**One of the more subversive qualities of Ballard’s fiction is the sense of psychic fulfilment that his characters feel as the cataclysm unfolds around them. In** ***Wolves*** **the protagonist’s best friend writes apocalyptic fiction and seems to be a tribute to the Ballardian hero, whereas the hero Conrad is more conservative: more Wyndham-esque, if you will. Was this a conscious dichotomy?**
+
+The character who wishes to write about, and indeed succeeds in writing post-apocalyptic narratives with heroic elements, is based on a friend of mine who wrote like that when he was 14 – as a lot of us did – and then continued to think how to build a redoubt against the coming apocalypse for several years after.
+
+I’m really interested – and this is where the Ballard influence kicks in fairly clearly – in the way in which all our civilisations are at heart completely mad. They have to be, in a way, because they’re taking a very big world and turning it into some sort of anthropocentric or anthropophilic game. In effect, the reason that we don’t all dash out and commit terrible crimes and steal from each other is because we’d rather play the game. Most of us would rather play a game than ignore civilisation entirely and run off into the wild.
+
+This is what science fiction feeds on at all times. Because when it tries to posit the future, what it’s really doing is saying: if this present moment went on forever, so that the cracks started to show, what would it be like? And the answer to the question is that it would be a nightmare. Any present moment taken beyond its natural life, any present moment preserved over time, becomes increasingly nightmarish. You see this in any kind of totalitarian state where the state uses its resources to preserve the present moment forever as much as possible.
+
+I mean, there’s a reason why tyrants generally – and this is amazing, I found this out in a book recently – tyrants almost never have mirrors over their bathroom sinks: what they have is a portrait of themselves at a younger age. This has been true of Hitler, it was true of Napoleon, it was true of Saddam Hussein. It's absolutely fantastic, this idea of freezing time in order to preserve your vision of how you’re going make the world work.
+
+I think what Ballard spotted, and what a lot of us have been playing with and exploiting since, is this idea that the disaster itself is already under way. This is Wyndham’s nightmare actually. Before Ballard said it, Wyndham said “we are the disaster” – the idea that it's only our politics or our culture that makes it seem that we are in some kind of operational status, but actually the disaster is going on all around us.
+
+Apocalyptic narratives, adventure stories and post-apocalyptic narratives are basically lies; they’re comforting lies because they say the disaster is over there, implying that you can so something about it. “It's coming, but it's not here yet” is a way of preventing the future, when the truth is we're already in the future, we're already the disaster.
+
+That’s why – to be indulgent for a minute – my favourite bit of *Wolves* is the line saying, “how can it be the disaster, it's got pudding.” You’re looking at the menu and going “yeah, it's disaster”, but it's not how you normally think of disaster because there are menus with puddings on them. And I think this was my deliberate extreme domestication of Ballard, because his heroes have been deprived of a politic if you like, of a *polis*, of community. Their anthropocentric reading of the world is increasingly personal, increasingly neurotic, increasingly Freudian, increasingly fantastic and more and more obviously crazy. Whether it's the madness of a character who is seen to be deranged, or the madness of an environment which is clearly fantastical, but which you believe for the purpose of the novel, despite an awareness that Ballard is playing a deep, metaphorical game.
+
+This is something that a writer who had a big influence on me, M. John Harrison, is very good on. He’s very good on the politics of the game, mainly because he’s been playing it for ages. He gets this out of Wyndham Lewis, the fact that politics is insane, that the very act of politics is insane, but a necessary insanity. It’s a necessary game you play so that you stay within the tribe and don’t disappear into the greater world because you simply wouldn’t survive there.
+
+**In** ***Wolves*** **the apocalypse looks like it's about to happen three quarters of the way through and then never really does. So it’s almost like you’ve looked Ballard in the eye and turned back towards Harrison instead?**
+
+Well the thing is you’ll never know whether the disaster has happened or not, because you only see the domestic lives of the characters. The only glimpse of the wider picture is a false one – which is the one of the reasons commercial post-apocalyptic fiction is doing very nicely at cinemas near you. The hints at collapse actually increase throughout the book, but you’re never entirely sure what to believe because it doesn't look like a typical collapse.
+
+I mean, you can still get to the room downtown, but when you get there you find that there isn’t any copper in the wiring because it's been nicked. You drop in little hints like that and gather them up, so that they build into something. But the reader will probably only pick them up on the second reading because they're too busy with the personal on the first go.
+
+I think that’s what I tried to bring to this, that just as your personal life means that you don’t always recycle your garbage at the end of the week – you know, the “everyone wants to save the world, but no one wants to do the washing up” idea. The personal life is always going to count more than the political. I can remember what I was doing when the Berlin wall came down, but what I was doing was more important to me, to my history, than the fact that the Berlin wall came down.
+
+**The public perception of augmented reality is very much the Google Glass model – none of us really know what else it’s for. But, as you mention, there are real companies looking to delete swathes of the world from our perception. When you were thinking about the technological schemes of the book, how important was it to you to extrapolate what you saw as real-world trends plausibly, given that science fiction writers so often run wild?**
+
+What interested me primarily about augmented reality (AR) was the huge gap between the hype and the reality. While there’s always a gap between the hype and the reality in technology, the interesting thing about AR is that it's got a huge problem at its heart yet to be solved, and that is that you’ve got to put the damn glasses on for it to work.
+
+I wrote a book about eyesight some years ago for Bloomsbury and what was interesting then was that the first guy to get an artificial retina – they’re still being developed and the really good ones are still in the early stages, so this was quite a primitive effort – the first thing he did was to jack into his television so he could read Ceefax to look for the investment pages so he could trade on his stocks and shares. Prior to the operation, he could navigate the New York subway, but he couldn’t read the stocks and shares. It interested me that it was only in this extreme case, an extraordinary operation conducted on someone who had been blind, that there was a reason to put the glasses on.
+
+**At the end of the novel one of the characters considers having eye surgery to experience augmented reality all the time, and there are also hints of technology that can directly interfere with your mind via magnetism.**
+
+That’s already been done!
+
+**I was going to ask if that was satirical!**
+
+In dealing with such a young technology, without dropping brand names in so as to date it, I was in a good position to start playing with some of the weirder nightmares associated with this technology. Once I'd embarked upon the book, I was very careful not to have too many conversations with people I'd been working with in these little start-up companies, because I didn’t want the next big idea to interfere with what I was doing.
+
+And of course the big idea that does change the game is Google Glass, because it's not about presenting information to you; it's about gathering information about you and selling it back to you as a product. In a way I’m very glad I didn’t get into the politics of Google Glass until I finished the book, because I wanted the book to be about eyes – it’s the novel I wanted to write since I wrote the eye book.
+
+**Do you think Google Glass will become commercially popular? The most common criticism of Glass is that it looks so uncool that no one will ever want to wear it.**
+
+That is a huge problem
+
+**Maybe if Jonathan Ive had designed it?**
+
+I think it’ll find its market – whether it's going to be a huge market, I don’t know. .
+
+**Would you say your attitude to augmented reality in the long run is a muted one? You expect it to have a small impact on the way we do things, but ultimately just become one tool among all of our tools, not a world-changer.**
+
+I honestly think that the gamification might just be enough, oddly, because it has so little immediate practical use, because it’s getting in your face and in your way. There are some people who love to have technology get between them and the world – we know these people and we tend to avoid them if possible, but they will always be there. There will always be people who shove Glass in front of their face from day one, that’s just part of the bell curve of human nature. I think for the rest of us we’re looking for some kind of utility.
+
+But maybe augmented reality is the most fantastic gaming platform in the world. It may be that, if we’re canny about it and we’re not tripping over our own feet, AR may just work as the most fantastic gaming medium we’ve come across. It could be the thing after video games, it could be gigantic. I think it’s a lot more playful than people give it credit for – I think it's much more of a play medium than a utility.
+
+**Image credit: [kaometet](https://www.flickr.com/photos/kaometet/12220989796/in/photolist-jBVLuC-7TkvB3-aR2M2H-8UuuXn-muoPKH-8BF4uu-89u7SQ-8EoxNH-99pRRQ-7ZST69-n59Ssa-8ERBCd-4HaDoL-8MAjhE-8MAjRu-8HKfHd-8Mxekg-6Rrgkh-8HKbJB-dNXz2t-mf26kC-meZfw8-aCJTPr-7c4Wx6-bxFoVw-7NjCrv-7NoB5h-7NoAUN-7NoB3q-7NjCct-7NoB6u-7NoB7y-7NoB1W-9KLPnV-9KPx8W-9KLJ5R-scqN1-8JoLzm-8HKg3S-bL5GnZ-brsLpY-6SwAdg-5R3keK-8HGKoV-7qkkn3-8HGKyv-6ctakn-651B97-4PwU8j-7NoB4j)**

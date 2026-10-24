@@ -1,0 +1,117 @@
+---
+title: "The ideas that will transform the world in 2026"
+subtitle: "Seven leading thinkers on the prospects for the year ahead"
+author: "IAI Editorial"
+date: "28th December 2025"
+article_id: "3449"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,706 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/New-Year-article.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-ideas-that-will-transform-the-world-in-2026-auid-3449"
+---
+
+# The ideas that will transform the world in 2026
+
+*Seven leading thinkers on the prospects for the year ahead*
+
+**By IAI Editorial** | *28th December 2025* | *Read time: approx. 9 mins* | *1,706 words*
+
+![The ideas that will transform the world in 2026](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/New-Year-article.webp)
+
+---
+
+*What will matter philosophically in 2026 is not a single grand theory, but the ideas people are already using to make sense of a world under strain. As political authority weakens, technologies accelerate faster than our capacity to govern them, and scientific power shifts from explanation to intervention, familiar frameworks for knowledge, meaning and responsibility are beginning to fail.*  
+  
+*In this IAI News feature, a series of short reflections from across philosophy, science, politics and culture set out what their authors see as the most important ideas shaping the year ahead. Contributors **Minna Salami**, **Cory Doctorow**, **Guy Standing**, **Paul Davies**, **Sophie Scott-Brown**, **Ivette** **Fuentes**,* and ***Nolen Gertz** offer concise provocations rather than extended arguments.*  
+  
+*Many of these contributors will be joining us at HowTheLightGetsIn Hay, 22–25 May, where they will build on these ideas in live debates and discussions, testing them against opposing views and current events. These pieces offer a first glimpse of the questions that will be explored in depth at the festival, as thinkers come together to argue over how we should understand, challenge and reshape the world ahead.*
+
+\_\_\_
+
+**Cory Doctorow**
+
+Activist, writer and journalist; special advisor to the Electronic Frontier Foundation; co-founder of the Open Rights Group; Visiting Professor of Computer Science at the Open University.
+
+\_\_\_
+
+Trump's rapid, unscheduled mid-air disassembly of the global system of trade has opened up an important policy space; whereas before, every American trading partner was obliged to have laws that banned their own tech sector from disenshittifying America's defective tech exports (say, by modifying printers to take generic ink, or modifying phones and consoles to use generic app stores, or modifying apps to block spying), now, everything is up for grabs. For the entire 21st century, the US Trade Rep has used the threat of tariffs to keep every American trading partner in line. Now that the tariffs are here, everything is up for grabs. After all, if someone tells you that they'll burn down your house unless you do their bidding, and then they burn your house down anyway, you don't have to keep following their orders! We are on the verge of a post-American internet, and every country in the world has it within their power to become a disenshittification nation.
+
+\_\_\_
+
+**Ivette Fuentes**
+
+Professor of Quantum Physics at the University of Southampton and Emmy Noether Fellow at the University of Oxford.
+
+\_\_\_
+
+During the last century, quantum theory was thought to apply only to the microscopic world of atoms and electrons, while general relativity was believed to govern phenomena at solar-system scales and beyond. Cutting-edge experiments are now showing that this small–large scale division is not fundamental. On the one hand, long-range quantum experiments using satellites can distribute quantum states of light and entanglement across thousands of kilometers, gradually revealing the influence of relativity on quantum states. On the other hand, tabletop experiments using high-precision atomic quantum clocks, achieving accuracies beyond 10⁻¹⁸, can now demonstrate relativistic effects at millimeter scales, showing that Earth’s space-time is curved even at scales where we once believed only quantum physics was observable. By 2026, I anticipate that new theories unifying quantum physics and general relativity will emerge, driven and guided by experiments and opening new ways to understand the nature of reality. Until now, grand unification theories have been largely mathematical and have often lacked direct contact with observable effects. This progress will not only advance fundamental physics but also help clarify the metaphysical foundations of physical reality by shedding light on the nature of mass, space, and time. Perhaps the puzzle will not be fully resolved until the relationship between the physical world and the mind is better understood. As more colleagues take the mind–matter question seriously, I foresee a gradual shift away from strict reductionism toward a more holistic understanding of the universe.
+
+\_\_\_
+
+**Minna Salami**
+
+Feminist theorist and writer; author of *Sensuous Knowledge: A Black Feminist Approach for Everyone* and *Can Feminism Be African?: A Most Paradoxical Question*; Senior Fellow at The New Institute.
+
+\_\_\_
+
+I think the big idea we need to confront in 2026 is bad knowing. I don’t mean a lack of information, or a crisis of truth, but a crisis in knowing itself: how we decide what counts as knowledge in the first place. Many of the major challenges we face globally, politically, technologically, and socially are consequences of distorted ways of knowing. We elevate mechanistic rationality to a pinnacle, outsource judgement to data, instrumentalize emotion, and treat experiential, embodied, and transrational forms of knowing as either irrational or irrelevant. The result is that we’re very informed, yet increasingly unable to understand what’s happening. In 2026, it becomes unavoidable to learn how to know in more kaleidoscopic ways.
+
+\_\_\_
+
+**Nolen Gertz**
+
+Professor of Philosophy at the University of Twente; author of *Nihilism and Technology* and *The Philosophy of War and Exile.*
+
+\_\_\_
+
+In the face of the ever-worsening climate change crisis, the continued rise of rightwing authoritarianism, and the increasingly frequent experiences of AI simply making everything it touches worse and worse, I think the most important philosophical idea of 2026 will be the question of how to find anything meaningful with which to orient our lives. Those who are privileged enough to do so are able for the most part to just keep going about their days as if the world wasn’t on fire. But even those who can ignore what’s going on and so maintain their daily rituals, habits, and routines do not necessarily find meaning rather than monotony. And if meaningfulness comes from having a community, from having a background of shared experiences, ideas, and beliefs, then no amount of privilege will protect you from feeling the loss of meaning in the world.
+
+There will of course be those who celebrate this loss of meaning, seeing it as a sign that people are finally waking up to how meaningless so much of life once was. Yet if there’s nothing to replace what is now found to be meaningless, if there is nothing new to fill this void, then such celebrations will be short-lived.
+
+\_\_\_
+
+**Guy Standing**
+
+Labour economist and political theorist; Professorial Research Associate at SOAS University of London; co-founder of the Basic Income Earth Network; author of *The Precariat*.
+
+\_\_\_
+
+Successive governments have failed to understand the precariat, today's mass working class. They have not shown empathy with those in it, let alone devised policies to respond to their needs and aspirations. While inequalities and insecurities have festered, and while the government has promised security to finance and foreign investors, the precariat has experienced rising anxiety, mental ill-health, alienation, anomie and anger.
+
+In that context, and with the disruption of AI, the need for a basic income as an anchor of a new income distribution system will become clearer, aided by results from the Welsh Government's pilot and from 100+ experiments elsewhere.
+
+Moving towards an unconditional basic income, paid regardless of work status, would not only enhance security, distributive justice and freedom. It would reward and encourage all forms of work, not just labour, and as such be an ecological policy. While no panacea, it would be a ‘social vaccine’, bolstering resilience among the precariat and others.
+
+Now, faced by Trump's neo-fascism and rising support for the far right in Britain and elsewhere, it has also become a political imperative. Insecure people make bad citizens, secure people show empathy and reject the politics of hate. It is time to act.
+
+\_\_\_
+
+**Paul Davies**
+
+Physicist and cosmologist; Regents’ Professor at Arizona State University; author of *Quantum 2.0: The Weird Physics Driving a New Revolution in Technology*, *What’s Eating the Universe?* and other books on physics and cosmology.
+
+\_\_\_
+
+I’ve worked on quantum mechanics my entire career, but it now seems clear to me that we are on the cusp of a quantum 2.0, a transformation that may prove even more significant than the original quantum revolution of a hundred years ago. That first revolution changed how we understand the world. This one will change how we engineer it. Quantum 2.0 “promises to be even more transformative, not just in understanding how the world works, but in the commercialisation of the quantum products which will flow from it.”
+
+What’s new is that we can now manipulate individual particles, sculpt their quantum states to order very precisely, and encode information in those quantum states. When those systems evolve, they process information in ways that are exponentially more powerful than conventional computers. That is why quantum computing attracts so much attention.
+
+But I think the real near-term impact lies elsewhere. Quantum sensing is already commercially very, very important. The extreme fragility of quantum states, once seen as a problem, becomes a resource. Because quantum systems are so sensitive, they allow us to detect tiny disturbances in gravity, magnetic fields, time, and motion with unprecedented precision.
+
+Quantum 2.0 is therefore not just progress. It is reality engineering: the moment when the deepest features of quantum physics become the central technological force shaping the future.
+
+\_\_\_
+
+**Sophie Scott-Brown**
+
+Philosopher and intellectual historian based at the Institute of Intellectual History, University of St. Andrews; author of *The Radical Fifties: Activist Politics in Cold War Britain*.
+
+\_\_\_
+
+In 2026 we must ask ourselves if democracy is an idea worth saving. If the answer is yes, then we must then ask what kind of democracy we want. It is clearer than ever that the periodic election of representatives is inadequate. It does not even supply enough of the illusion of people power to satisfy us as the swelling tide of populism attests. Moreover, it is out of step with how power works in the world today.
+
+The nation state contends with many other actors on the political stage, most of whom operate outside the kind of accountability that even nominal representation provides. To be worth anything at all, democracy must flow away from the centre and out to the people it belongs to: us. It needs to be in the workplace or else what stake will we have in how AI is used? It needs to be in schools or we will be forced to watch helplessly while our young people and their teachers are crushed under the pressure of a punitive system that equips no one for the reality to come. It needs to be in the home so that no man need feel diminished by female power, no woman intimidated by male power, and no person ashamed to express who they are and they want to be.

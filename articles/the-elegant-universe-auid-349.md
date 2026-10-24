@@ -1,0 +1,61 @@
+---
+title: "The Elegant Universe"
+subtitle: "Elegant solutions to science's biggest questions."
+author: "Julian Barbour"
+date: "19th April 2014"
+article_id: "349"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,056 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Elegant.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-elegant-universe-auid-349"
+---
+
+# The Elegant Universe
+
+*Elegant solutions to science's biggest questions.*
+
+**By Julian Barbour** | *19th April 2014* | *Read time: approx. 5 mins* | *1,056 words*
+
+![The Elegant Universe](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Elegant.webp)
+
+---
+
+Julian Barbour is a British physicist with research interests in quantum gravity and the history of science. He rose to public prominence on the back of his 1999 book, *The End of Time*, which proposed the idea of timeless physics: the controversial view that time, as we perceive it, does not exist as anything other than an illusion. Since then, he has also written *The Discovery of Dynamics* and *Absolute or Relative Motion?*We spoke to him about the structure of space, time as an illusion, and the possibility of finding an elegant description of the universe we live in.
+
+**Newton and Leibniz had conflicting ideas about the structure of space. How did they differ, and which of the two proved to be more successful in describing the universe?**
+
+Newton thought that space is like a huge block of unchanging and invisible ice with each point like every other. He felt he needed such a concept to make sense of his first law of motion, according to which a body left to itself will move forever in a straight line (the law of inertia). Leibniz did not like the invisibility of space: you could imagine moving the whole universe in some direction, but nothing visible would be changed. He therefore argued that only the distances between objects have reality.
+
+However, he never formulated laws that would determine how the distances should change, and for two centuries Newton appeared to be the victor in the debate. However, Newton's laws were not confirmed relative to space but relative to the distant stars, as Mach pointed out, arguing that they must explain why Newton's law of inertia works so well through some as yet unknown mechanism.
+
+Einstein tried very hard to implement this idea in his general theory of relativity which definitely shows that, as regards the nature of space, Leibniz was much closer to the truth than Newton, and will definitely be vindicated if observations show that the universe is spatially closed in the way that the surface of the Earth is in two dimensions. However, much of the most basic structure of Newtonian dynamics is still valid, so in that respect he was much closer to the truth than Leibniz.
+
+**How does the way space is structured inform the way that you argue we should think about motion?**
+
+Einstein showed that space need not have a fixed structure but can change from place to place in accordance with a definite law, which is remarkably simple and beautiful. His law is formulated in terms of four-dimensional space-time, and his law says how it is curved at every point.
+
+In the work of my collaborators and myself, we study how the shape of three-dimensional space changes. We call this Shape Dynamics. It is much closer to the way Leibniz and Mach thought. It leads to a radically different way of describing gravity but one that still essentially agrees with the actual predictions of Einstein's theory. This different formulation could cast light on the nature of the Big Bang. It also suggests an explanation for why time always seems to flow in one direction. The real test will come if and when a quantum theory of gravity has been created. We suspect that it will be easier to create it on the basis of Shape Dynamics than using Einstein's General Relativity.
+
+**In your book *The End of Time* you argue that time is an illusion. How did the need for a quantum theory of gravity impact this?**
+
+Both Leibniz and Mach argued that time as such does not exist. It is not like a pre-existing line on which one can place different instants in which the Universe has particular shapes formed by the things that coexist in a given instant. Instead, Leibniz said, "time is the succession of coexisting things".
+
+In my way of putting it, there is just a succession of shapes of the Universe and no pre-existing 'amount of time' between them. Mach, for his part, said: "It is utterly impossible to measure the changes of things by time. Quite the contrary, time is an abstraction at which we arrive by means of the changes of things." The most direct application of these ideas in a context in which one tries to describe the whole universe in quantum-mechanical terms, which nearly all physicists think is essential, leads to an equation in which time does not appear at all. Nothing seems to happen.
+
+In my book I tried to explain this in simple terms and explain how it could be that we nevertheless experience change very vividly. When my book was published, I had only just started to work on Shape Dynamics. This has lead to some modification in my ideas and has, I hope, led me closer to the truth.
+
+**Experiment is arguably the master of theory in science. What cosmological observation would you most like to see?**
+
+Unambiguous evidence that the universe closes up on itself in three-dimensional space as the surface of the Earth does in two dimensions. I am then almost certain that Shape Dynamics would be the right way to describe the universe.
+
+**And how would this then inform the way we understand the universe?**
+
+There is a huge difference between a spatially closed universe and an infinite one. Indeed, the difference is literally infinite. In many ways a closed universe is an attractive concept because, in Einstein's words, "the series of causes of mechanical phenomena is closed". More ambitiously, it is the necessary condition for us to be able to hope for a complete self-contained description of the Universe. That is obviously an attractive possibility.
+
+**We’re delighted that you’re set to join us again for this year’s [HowTheLightGetsIn](http://howthelightgetsin.iai.tv/2014-programme/event-tickets/all-sessions/) festival in May. One of the two debates that you’re participating in is called “The Elegant Universe” - whilst we’re not looking to give away too many spoilers, how do you see the idea of elegance and simplicity in building our understanding of reality?**
+
+Elegance is a bit hard to define. I suspect it is something one can recognise when it is there. It is certainly much easier to say when something is not elegant. Simplicity is easier to grasp and in some cases can be cleanly defined, which I will talk about at HowTheLightGetsIn. One thing I am sure of: intuition is tremendously important. My suspicion is that intuition is necessarily created in the unconscious and emerges as something that is simple.

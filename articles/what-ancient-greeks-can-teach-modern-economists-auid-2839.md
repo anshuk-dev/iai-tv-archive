@@ -1,0 +1,77 @@
+---
+title: "What ancient Greeks can teach modern economists"
+subtitle: "Economics needs Eudaimonia"
+author: "Etienne Helmer"
+date: "13th May 2024"
+article_id: "2839"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,521 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/24-05-13.what-ancient-greeks-can-teach-modern-economists.ata.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/what-ancient-greeks-can-teach-modern-economists-auid-2839"
+---
+
+# What ancient Greeks can teach modern economists
+
+*Economics needs Eudaimonia*
+
+**By Etienne Helmer** | *13th May 2024* | *Read time: approx. 8 mins* | *1,521 words*
+
+![What ancient Greeks can teach modern economists](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/24-05-13.what-ancient-greeks-can-teach-modern-economists.ata.jpg)
+
+---
+
+*Our current economics is derided as the dismal science, but for the Ancient Greeks it was integral to achieving the good life. Etienne Helmer argues our contemporary vision of economics divorces wealth creation from its broader social and ethical consequences. Inspired by the Ancient Greeks, we should form an economy disinterested in extreme material wealth and with greater focus upon individual development, engagement in civil society, and care for the natural world.*   
+  
+ Within the current economic framework, we know what is part of the economy and what isn’t. Inflation, unemployment, and growth are the concern of the economist, while purpose, citizenship, and social cohesion are political concerns. We are also prone to believe that things have always been like this. But a look at how the economy has been conceived in history can illuminate our understanding of what the economy could be. The world's submission to the logic of pure profitability and the destruction it engenders are not inevitable: another economy is possible because it is thinkable and has already existed.   
+  
+
+[![related-video-image](https://iai.tv/assets/Uploads/24-02-22.Angus-Deaton-solo.gfw-copy.webp)
+
+SUGGESTED VIEWING
+The challenge to optimism
+With Angus Deaton, Gillian Tett](https://iai.tv/video/the-challenge-to-optimism)
+  
+  
+ As a matter of fact, the distinction mentioned above between what we believe to be economic and what is not, is by no means necessary, and previous societies, particularly the ancient Greeks, could help shed light on what we should consider the economy. For instance, Marshall Sahlins showed in Stone Age Economics (1972) that affluence was in fact utterly distinct from material wealth as we see it today. Indeed, a hallmark of affluence was living a life of leisure, far removed from the Silicon Valley ‘grind’ culture we see today. With the status quo often being conflated with what is ‘natural’, if we are to imagine a more expansive view of the economy it is useful to look to the past. The ancient Greeks understood the economy as interconnected with other social concerns, and viewed the creation of wealth in its broader ethical context. Taking this view allows us to think about the values and outcomes we want in our political sphere, and how the economy can serve us in attaining them.    
+  
+While it is true that breaking free of our thinking and economizing like an ancient Greek is far from easy, the ancient Greek thinkers – mostly philosophers and poets – are usually deemed to be disinterested in economic topics. Instead, they are said to be exclusively concerned with political issues, concepts, and debates. Following the Weberian typification of the ancient and medieval man as a homo politicus, as opposed to the modern man as a homo economicus, some important 20th century historians and philosophers, such as M.I. Finley and H. Arendt for instance, have promoted this anti-modern and rigid vision of ancient Greek society as one where the material economic sphere – work, agriculture, technics, weaving and trade – is supposedly kept in a theoretical shadow, because it is in the hands of mostly invisible social categories such as the slaves, the women, and the foreigners, in comparison to the male citizen in the limelight. This class-based society allowed the ‘citizen’ class to operate largely independently of economic concerns and therefore focus on developing civilian virtue.   
+  
+ In the last four decades however, historians, archaeologists, anthropologists and, more recently, philosophers, have challenged this compartmentalized vision of ancient Greek society. Through the in-depth study of textual and material sources, they have been able to reveal the deep and sophisticated interest the Greeks had in economic matters, both in practical and theoretical terms. Among the many publications in this area, it is worth mentioning the book of the historian Alain Bresson, The Making of the Ancient Greek Economy (2015). In this text that focuses on the Greek economy between the last century of the Archaic Age and the closing of the Hellenistic period, he shows the pivotal role that complex market organizations of economic practice and phenomena had on the ancient society.
+
+\_\_\_
+
+Another economy is possible because it is thinkable and has already existed.  
+\_\_\_
+
+On a more theoretical side, Josiah Ober’s recent book The Greek and the rational: The discovery of practical reason (2022) hypothesizes that in the economic field, the Greeks used an “instrumental rationality”, capable of making strategic choices among feasible options in different practical fields in the field of economics in particular. So much so that some go as far as saying that the Greeks already put into practice the kind of rationality typical of contemporary game theory, designed to maximizing one’s utility.   
+  
+ These refreshing approaches have paved the way for new perspectives and methods on the study of ancient Greek economy and economics. But while we may say the Greeks had a conception of modern economic thought, what did the economic sphere look like to them? In other words, evidencing such a similarity between them and us does not entail that they viewed, and understood, the economic sphere in the same terms as we currently do, and even less that their “economics” was similar to modern economics – actually, nothing could be further from the truth!   
+  
+ As the historian and anthropologist Karl Polanyi has shown, far from being an autonomous social sphere, economic practices and thought in ancient Greece were “embedded” in the rest of the other social practices and notions. While it is undeniable that all social fields are somewhat embedded within one another, this directs us to a crucial point. Contrary to contemporary society, the economic sphere did not confer greater legitimacy than other spheres of social life.   
+  
+ As I intend to show in my book Oikonomia: Ancient Greek Philosophers on the Meaning of Economic Life (University of Chicago Press, 2024), this means that although wealth was important to the ancient Greek thinkers, it was inseparable from considerations on how it was acquired and used in so far that it be always respectful of shared social justice-oriented norms and values, as well as respectful of the “environment” or the harmony of the whole cosmos. While in modern economics, how one acquires their wealth is immaterial from a market perspective, it is vitally important if your economics is grounded in social progress.
+
+[![related-video-image](https://iai.tv/assets/Uploads/24-03-13-a-prelude-to-fuedalism4.webp)
+
+SUGGESTED VIEWING
+Yanis Varoufakis | Interview
+With Yanis Varoufakis](https://iai.tv/video/yanis-varoufakis-interview)
+
+Despite marked differences between their respective philosophical stances, philosophers like Plato, Xenophon, Aristotle, Epicurus, and the Cynics, all reflect on the balance between the need to satisfy our basic, even superfluous needs, and the concern to maintain a peaceful, harmonious social environment and individual happiness. This may be defined in terms of virtue and justice (Aristotle and Plato), stable pleasure (Epicurus) or independence and self-sufficiency (the Cynics). For instance, in the Republic and the Laws, Plato proposes to subordinate the material and economic expansion of the city or society to its political or civic unity, which he considers a much more valuable strength than collective wealth and economic power. For this reason, he suggests forbidding a key contemporary economic tool – the interest-bearing loan – as it contributes to impoverishing people and widening inequalities, while diminishing the relationship of trust between them. And for sake of justice, he establishes limits of wealth from 1 to 4 for the citizens: this is telling  when we learn that the CEO of Stellantis earned in 2023-2024 more than 518 times as much as the average employee of €70,404.   
+  
+ Xenophon, in his Economics, a work on household management and agriculture, explains that the practice of agriculture should always be careful of the unique value of the earth – he calls it “divine” – which remains the ultimate source from where we get our nourishment. Within the cultural frame and words of his time, this inspiring work calls our attention to how economic practices should always be careful of the environment, and never compromise the long-term availability of common and vulnerable resources for short-term private profit.
+
+\_\_\_
+
+Contrary to contemporary society, the Greek economic sphere did not confer greater legitimacy than other spheres of social life.  
+\_\_\_
+
+As these examples show, these thinkers also see in economic practices an opportunity to develop a form of practical wisdom. In other words, they invite us to shape economic practices in accordance with fundamental values and norms aiming at the flourishing of individuals and societies. For instance, Xenophon proposes to frame economic practices within an ethics of care, care of people and the earth altogether, and Plato suggests organizing market transactions so that they be the place of individual face-to-face relationships marked by justice and mutual trust. However, as these philosophers acknowledge, given the violent context of their own societies, such innovations are impossible without deep political, ethical, and social changes.   
+  
+ A strong historical gap separates us from the Greeks. We are at a moment when huge injustices between the wealthiest and the poorest, an almost irreversible environmental crisis raised by unbridled exploitation of natural resources, and widespread political and social conflicts perpetuate the dominant idea that economic practices are aimed at wealth for itself. This forms clear and systemic evidence of the devastation provoked by the recent stages of capitalism.   
+  
+ Looking at these ancient Greek philosophers on economic phenomena and practices could transform dominant views and help us think afresh about how economics could inform knowledge and what the economic sphere could be.

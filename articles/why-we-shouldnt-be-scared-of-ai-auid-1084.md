@@ -1,0 +1,121 @@
+---
+title: "Why We Shouldn't Be Scared of AI"
+subtitle: "AI is a continuity of human intelligence."
+author: "John Collins"
+date: "Issue 69, 11th May 2018"
+article_id: "1084"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,303 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/franck-v-517860-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-we-shouldnt-be-scared-of-ai-auid-1084"
+---
+
+# Why We Shouldn't Be Scared of AI
+
+*AI is a continuity of human intelligence.*
+
+**By John Collins** | *Issue 69, 11th May 2018* | *Read time: approx. 7 mins* | *1,303 words*
+
+![Why We Shouldn't Be Scared of AI](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/franck-v-517860-unsplash.webp)
+
+---
+
+We don’t know what human intelligence is, so how can we even consider what artificial intelligence is?
+
+We talk of AI as if it’s something new to the 21st Century, that’s going to end all humanity, over which we have no control, but which will control us instead. As if it’s a sole all-encompassing actor in our digital age.
+
+But is it really? The majority of people have no idea of what AI is, despite the fact that it’s been around us for many years and that, in fact, it’s something that we can master. We can choose how AI is created, curated and governed, and what it uses as its source of data and information.
+
+An example of AI in action that is around us every day is chatbots. They are, simply put, computer programmes built to have a conversation – either spoken or written - with people. How do they do this? Are these programmes so ‘intelligent’ that they give such human-sounding responses that we can’t tell if we’re talking to a human or not? No. It’s not AI alone that the chatbot relies on. Here’s an explanation.
+
+**Bots Require Our Feedback**
+
+In 1984, the series The Transformers told the story of two opposing factions of transforming alien robots engaged in a battle with the fate of Earth in the balance. The show was so popular that it was re-released and extended as a TV series and then films in a series, the most recent in 2018.
+
+Why is this relevant to AI? One of the characters in the new series – Bumblebee – loses the power of speech and has to resort to pre-recorded responses. How does Bumblebee select the appropriate response?
+
+He scours radio, TV, films, the internet, selects or ‘mines’ appropriate responses to choose from based on the sequence of words he‘s just heard and wants to respond to. He frequently makes mistakes, often giving entirely inappropriate (and comical) responses.
+
+\_\_\_
+
+"Human speech is relatively recent, but the process of using predictions and feed-forward mechanisms (which is input from the system to inform future response) – is an essential part of our animal nature."
+
+\_\_\_
+
+He mines all available responses and chooses what he believes (can a robot believe?), using data science – statistics, crudely put – to produce insights into language and human communication.
+
+But this alone is not enough. Bumblebee needs to be able to make predictions of the most appropriate response; for this he needs to learn patterns – and quickly – if he isn’t to cause distress, misinterpretation or mayhem.
+
+This is machine learning in action – often confused with AI. It’s how chatbots work. Bumblebee uses his system to (statistically) select from a huge pool of data using data science.
+
+Machine learning involves data science and statistics to produce predictions. Bumblebee uses predictions to select the ‘most appropriate’ response.
+
+The statistical outcome is better and the prediction more precise when the data and information pool is large enough. How large is large enough? Statistical analysis tells us.
+
+Bumblebee creates his predictions through feedback (feedback is information about reactions to an input) but he needs other senses to observe other interactions occurring at the same time. This is akin to figuring-out a game by watching the game being played and understanding the rules without being told them in the first place. And doing it very, very quickly.
+
+How does this relate to how we, humans, do it? For example, human speech is relatively recent, but the process of using predictions and feed-forward mechanisms (which is input from the system to inform future response) – where we use learning to feed information into new learning – is an essential part of our animal nature.
+
+\_\_\_
+
+"Machine learning needs new data input continuously. It needs to be told when the response is wrong."
+
+\_\_\_
+
+All complex movement – especially speaking – including walking, running, grabbing, playing an instrument or, as I am now, typing on a keyboard (the list goes on) relies on feed-forward mechanisms. We need to be able to predict how our actions will play out in order to act appropriately for a particular circumstance, in a particular environment, to a particular question, challenge or stimulus.
+
+The feedback is essential because it enables and refines the predictive mechanisms. We also need to continuously measure and mine data and information, in real time, using feedback mechanisms to optimise what we’re doing as we’re doing it. For example, if we’re carrying a cup of tea and it’s sloshing back-and-forth over the sides of the cup we need to learn and adjust, responding to our senses to stop this happening.
+
+So how does Bumblebee learn if he gets no feedback? How can a machine learn with no feedback? How can it improve its response in the face of no answer? How can a chatbot improve without being chatted to?
+
+Machine learning needs new data input continuously. It needs to be told when the response is wrong. So, it’s either us supplying this information, or the machine needs to acquire it for itself, selecting from the information pool using a statistical approach.
+
+Responding to stimulus doesn’t require learning; making predictions does.
+
+So, what do we mean by ‘Intelligence’? What do we mean by ‘Artificial Intelligence’?
+
+Machine learning – at high speed – helps optimise the process of mining and assimilating data. But that’s only one form of intelligence.
+
+**Is Artificial Intelligence Actual Intelligence?**
+
+When you’re learning to do something new, you start by being slow. As you improve, you can get faster and more accurate or precise. But there’s always a trade-off between speed and precision. Machines can overcome that tension.
+
+They can be programmed to learn, and make informed decisions. Machines can be given ‘Artificial Intelligence’.
+
+But is intelligence simply a dynamic linear system of feedback and feed forwards to create new action or decision from past learning?
+
+**The Limits of AI: Statistics**
+
+We see large variance in decision-making ability in artificial intelligence systems. In people, data and information availability is not always a hindrance to decision-making ability; it is, however, a distinct disadvantage in AI systems.
+
+Imagine the scenario where Bumblebee only had the film ‘Casablanca’ to choose his responses from – perhaps every answer would be ‘Play it, Sam’, as the only human character in The Transformers films is Sam Witwicky. That wouldn't work well for anyone.
+
+So, is this intelligence? And is it an artificial form of intelligence? We don’t actually know what intelligence is in its entirety and haven’t yet found an adequate description or definition of intelligence to date – it’s a great debate that will go on and on until the end of intelligent life.
+
+\_\_\_
+
+"Imagine the scenario where Bumblebee only had the film ‘Casablanca’ to choose his responses from – perhaps every answer would be ‘Play it, Sam’, as the only human character in The Transformers films is Sam Witwicky."
+
+\_\_\_
+
+We understand ‘intelligence’ and ‘intelligent’ as a descriptor of something positive. We rarely – if ever – use ‘intelligence’ or ‘intelligent’ on their own in a pejorative way, though we do assess and have scales of human intelligence (much debated, perhaps divisive). This is a highly emotive subject area.
+
+Ultimately, Artificial Intelligence is dependent on two underpinning systems: data science (statistics) and machine learning. Both need to be fed with copious amounts of data and information to work effectively. And they require careful design to work.
+
+Human intelligence has three components: emotion, knowledge and creativity. And we can work very effectively with any of these independently or collectively.
+
+AI can bring human enhancement if we enhance AI through our interaction with it.  With thoughtful, ethical and careful governance, we can harness its tremendous operating speed to produce outcomes that will benefit us all.
+
+Perhaps we should call this human-enhanced AI ‘Alive Intelligence’ rather than ‘Artificial Intelligence’? That would reflect the continuity between human and artificial intelligence a lot better.
+
+*If the human brain were so simple  
+That we could understand it,  
+We would be so simple  
+That we couldn’t.*
+
+*Emerson M. Pugh \*  
+\* Author’s note: Quote from my father around 1938*

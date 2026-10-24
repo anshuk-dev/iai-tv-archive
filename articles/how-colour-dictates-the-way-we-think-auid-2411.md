@@ -1,0 +1,81 @@
+---
+title: "How colour dictates the way we think"
+subtitle: "An interview with art historian and BAFTA nominated broadcaster Dr James Fox"
+author: "James Fox"
+date: "9th March 2023"
+article_id: "2411"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "1,569 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-09-Colour-dictates-the-way-we-think.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-colour-dictates-the-way-we-think-auid-2411"
+---
+
+# How colour dictates the way we think
+
+*An interview with art historian and BAFTA nominated broadcaster Dr James Fox*
+
+**By James Fox** | *9th March 2023* | *Read time: approx. 8 mins* | *1,569 words*
+
+![How colour dictates the way we think](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-03-09-Colour-dictates-the-way-we-think.dc.webp)
+
+---
+
+*The topic of colour gives rise to numerous philosophical, aesthetic and psychological questions. In this interview with leading art historian and BAFTA nominated broadcaster, Dr James Fox, we explore the fascinating story of colour, and the profound impact it holds in shaping our thoughts, feelings and actions.*
+
+For those able to experience it, colour is inescapable. It surrounds us relentlessly from morning until night, birth until death. It can please us, sadden us, calm us and inspire us. But whilst it continues to be a source of fascination, many mysteries surrounding the nature of colour still remain. Perhaps no man has mined deeper into these varied issues than BAFTA nominated broadcaster, art historian and author of ‘*The World According to Colour: A Cultural History*’, Dr James Fox. We sat down recently to unpack the multiple meanings of colour.
+
+[![Daft Punk and Metaphysics](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Daft-Punk-and-Metaphysics.webp)
+
+SUGGESTED READING
+Daft Punk and Metaphysics
+By James Tartaglia](https://iai.tv/articles/daft-punk-and-metaphysics-auid-2341)
+
+I begin by asking Fox perhaps the most basic, fundamental question; What is colour? He responds by alluding to the curious complexity of this issue. Whilst all around us, it’s very hard to boil it down to a specific definition. He regales the story of Justice Potter Stewart, who in the 1960s was asked to decipher whether a Louis Malle film should be deemed to be pornographic in nature. Stewart famously claimed he could not define pornography but asserted *‘I know when I see it’*. For Fox, however, it was Cezanne who had it right: ‘Colour is the place where our brains and the universe meet’. Like Cezanne, Fox places a strong emphasis on this interactive quality between self and world; the process by which our brains interpret the signals our eyes receive.
+
+But beyond this long view on the nature of colour, how should we understand the value of colour to our everyday lives? After all, many of us tend to go about our days without paying particularly close attention to the colours which furnish the world around us.
+
+**Colour as a Language**
+
+Fox is keen to underscore the importance of colour, arguing that it plays a fundamental part in our human experience and the way we understand reality. He claims that colour has served as an enormously important language and symbol that humans have been using since the beginning. Since the dawn of homo sapiens 300,000 years ago to the present day, colour has remained a constant bearer of symbolic meaning. Red, for instance, has always carried meaning, these days used often to indicate danger, whilst green is a colour which indicates approval. Yet beneath the obvious connotations lie a deeper, subconscious, psychological element. ‘Colour is constantly used to manipulate the way we behave, the way we feel, the way we think’, Fox asserts. ‘It’s a tactic used by governments, brand consultants, fashion designers, advertising agencies and beyond’. He highlights that blue is often supposed to inspire trust, and hence used by numerous financial services companies, whilst red and yellow have been found to stimulate appetite, and as a result end up being used by countless food outlets and manufacturers.
+
+\_\_\_
+
+Great artists are always using colour in interesting ways- stretching its meaning, stretching its capabilities, changing its symbolic potential and using it in ways that their predecessors could never have imagined
+
+\_\_\_
+
+Viewing colour as akin to a language is an intriguing idea, and it’s worth pondering how colour compares to our model of verbal communication. Whilst language is an artificial construct designed to help us navigate the world, colour appears even more fundamental than this. There’s something appealingly natural about colour, in contrast to language, which is a human artifact. Colour simply occurs, and even babies have an innate reaction to it. Language on the other hand has to be learned, and developed. This line of thought prompts more questions: Does colour possess an inherent meaning, beyond human convention and cultural context? Fox argues that in fact most of the connotations associated with particular colours are culturally specific in terms of both time period and special context. A salient example of this, he argues, is that (despite efforts to overcome such stereotypes) the archetypal colours for boys and girls are viewed as blue and pink respectively. Yet 100 years ago, it was boys that dressed in pink, whereas girls dressed in blue. This kind of observation extends to different cultural contexts. In Asia, white is the colour of death, whereas in the West, black holds this association. Despite all this, Fox hints that some deeper and more fundamental meanings carried by colour could, in fact, lie beyond cultural and historical context. He noted that there does seem to be certain associations with colour which are ubiquitous; white and purity, being a prime example of this. There remains, therefore, a layer of mystery surrounding colour which renders it ripe for the anthropologists, psychologists and philosophers of the future to explore.
+
+**The Artist’s Toolbox**
+
+But given Fox’s expertise as an acclaimed art historian, I thought it only natural to extend this discussion beyond a general account of colour, and press him on why colour has been such a source of fascination for the artistic community. Fox immediately points out that colour is one of the few tools at an artist’s disposal. It is one of the central outlets of creativity, and the finest artists of both today and yesteryear have used colour to invoke an extraordinary range of responses from the viewer. Even in the upper Palaeolithic era, artists were going to extraordinary lengths to mine red ochre, or produce black charcoal, despite the fact that producing fires during this period was intensely difficult. And whilst colour has always been utilised to convey meaning, later on colour was used with the purpose of conveying beauty; Matisse, for example, used colour in a very decorative manner with a purpose to please.
+
+[![Distraction flow and the creative mind.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Distraction-flow-and-the-creative-mind.dc.webp)
+
+SUGGESTED READING
+Distraction, flow and the creative mind
+By Tom Cochrane](https://iai.tv/articles/distraction-flow-and-the-creative-mind-auid-2376)
+
+But what about colour in our times? Has the purpose of colour changed for the artists of today? Fox stresses that today, colour serves a multiplicity of purposes in fine art; whether it be Anish Kapoor, who uses powerful blacks, reds, and blues, Olafor Elliason, who uses yellow to overpower people and simulate light, or James Turrell who ‘uses colour to dematerialise and provide a quasi-sacred experiences’. And this will continue to evolve, according to Fox: ‘Great artists are always using colour in interesting ways- stretching its meaning, stretching its capabilities, changing its symbolic potential and using it in ways that their predecessors could never have imagined.’
+
+But beyond the aesthetic wonder that lies within colour, there is a wide and varied philosophical tradition; colour has a wonderful ability to touch on almost every side of philosophy, dealing with philosophy of perception, the mind-body relation, aesthetics, language, metaphysics and the philosophy of science.
+
+**A Philosophical Puzzle**
+
+There is, however, one overriding fundamental philosophical question which stands above the rest; Is colour real? That is to say, is colour an objective property of things in the world? Or is it, as Galileo and many philosophers of perception have believed, solely a property of subjective experience. Does colour only exist in our heads? Fox carefully weighs up both of these positions, claiming neither sit without merit. The objectivists, he concedes, have lots of evidence to support their argument. There does exist specific objective wavelengths of light which are connected to particular colours; they interact in the objective world with molecular structures of objects; crucially, these processes exist independently of us. However, where the objectivist claim begins to crumble is when we realise that not all of us are seeing the exact same colours; we aren’t all seeing the same green from the same grass. So whilst the mechanisms for colour exist outside of us (the wavelengths, surfaces etc) it is our brain which converts these wavelengths to the sensation of colour. Without this perceptual apparatus, there is no colour in the world, just vibrations of electromagnetic waves. Ultimately, Fox aligns himself most closely to the subjectivist view. Colour is something we project from our brains onto the outside world. Our brains are responsible for projecting the green onto the grass, the red onto the roses.
+
+\_\_\_
+
+We are the makers of colour; part of that process, and that’s exciting
+
+\_\_\_
+
+Yet if colour isn’t really real, I put to Fox, this could surely leave us feeling somewhat empty; knowing that colour is but a mirage in our minds, rather than something which objectively exists? Yet for Fox, this is what makes colour so fascinating. The fact that colour is a unique product of our individual perception gives it a ‘fluidity, slipperiness, majesty, unpredictability’ that renders colour far more exciting than if it were something that resided in the object. ‘We are the makers of colour; part of that process, and that’s exciting’, he concludes.
+
+**Towards the Future**
+
+A great deal of progress been made in understanding colour over recent decades and centuries, Fox submits. ‘We now possess a much greater understanding of the behaviour of light, the interaction between light and materials and the way that our perceptions work. We can now also synthesise and manufacture colour’. But what of the future? To this, Fox claims that the major stumbling block to understanding colour is that we are yet to fully understand what happens inside the brain. This moment, ‘when signals are sent to the primary visual cortex; where all the electrical energy is converted into the colours which we see, remains a profoundly mysterious process’. For Fox, this is the ‘next frontier’ for understanding colour, and a puzzle which will continue to occupy neuroscientists for years to come.

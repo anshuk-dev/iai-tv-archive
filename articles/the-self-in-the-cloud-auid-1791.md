@@ -1,0 +1,57 @@
+---
+title: "The self in the cloud"
+subtitle: "Our identity is made up of both the inside and the outside"
+author: "Charlie Huenemann"
+date: "Issue 96, 14th April 2021"
+article_id: "1791"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,505 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Self-in-the-Cloud.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-self-in-the-cloud-auid-1791"
+---
+
+# The self in the cloud
+
+*Our identity is made up of both the inside and the outside*
+
+**By Charlie Huenemann** | *Issue 96, 14th April 2021* | *Read time: approx. 8 mins* | *1,505 words*
+
+![The self in the cloud](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-Self-in-the-Cloud.webp)
+
+---
+
+*Our identity is not just about our internal memories, beliefs, hopes and fears. We are made up equally of our environment, of things outside ourselves – for example, by how we react to people and places. With this in mind, the dream of uploading ourselves to the cloud has a fatal flaw. We can upload our inner selves to the cloud, but we are nothing without the outside world in which we live and the people in it, writes Charlie Huenemann.*
+
+We will turn to the possibility of uploading our ethereal souls to supercomputers in just a moment, but first let’s talk about keys and locks. A key is an ingenious little device with a handle (or bow) and a blade with some particular series of cuts in it. One could provide a very precise mathematical description of those cuts, and one might wish to do so because that specific series of cuts — exactly those, in that sequence — is what makes a key *that particular key* and no other. For this reason, we might well suppose that the shape of the key is the essence of the key, so that one need not look beyond the key itself to find its essence.
+
+But this isn’t quite right. For there is a reason each key has the shape it has, and that reason has to do with some specific lock. That lock has some complementary configuration (often involving some number of little pegs of various lengths) which will allow a cylinder to turn only if the key, with its corresponding shape, is inserted into the keyhole. That is why each key has the shape it has: because of its relationship to some lock. If the lock is lost, the key’s shape doesn’t really matter anymore. It might as well have a different shape, for it is now just a decorative piece of metal, perhaps to be hung on a necklace or glued onto a piece of art. What was essential to it is no longer essential, for its relationship to other things in the world has been altered. It is not its intrinsic shape, but its *relation* to other things – or the lack of such relations – that determines what the essence of a particular key is.
+
+Just as keys have the shapes they have because of the locks they fit, people have the selves they have because of the lives they fit.
+
+Okay, now to selves and consciousness. Many scientists and philosophers have taken an approach to selves that resembles the first approach we took to keys. What is essential to a self is internal to that self: our memories, our beliefs, our attitudes and desires and hopes and fears, and so on. These are the cuts in our blade, and for each person the cuts are here or there, deeper or shallower, and it is these differences that make us so different from one another. Some scientists and philosophers hope that they will find some kind of explanatory correlation between the cuts of our blades and the configurations of our neurons, believing that there must be a clear connection between the two. Other scientists and philosophers (well, mainly philosophers) believe no such connection can be found, because we are dealing with very different sorts of shapes: shapes of the subjective or semantic or meaningful sort, as opposed to shapes of the more geometrical sort. These philosophers will argue that even if we were to know the full architecture of some particular brain, we still could not possibly know whether it was the brain of a cobbler or a prince. The only way to know whose brain it is would be to *be* it, somehow. Then we would know it “from the inside”— an inside we can never see with our eyes, no matter how acute our vision.
+
+But these scientists and philosophers are forgetting about locks. Just as keys have the shapes they have because of the locks they fit, people have the selves they have because of the lives they fit. My memories and beliefs are shaped by what I have experienced, but they are also tuned to the people I ordinarily meet, what I take to be their expectations of me, and networks of obligations and responsibilities I negotiate on a daily basis. My attitudes, desires, hopes, and fears are quite fluid, adapting to my circumstances and the attitudes of others around me. I am the particular self I am because of my on-going, changing relationships to people around me, as well as to the culture, economics, and politics of my time and place.
+
+Indeed, this is where the key-and-lock analogy breaks down, for keys and locks are relatively stable over time. Lives are rivers in constant change and flow. We fit into them because we are able to shape-shift as the circumstances of life require. A better picture would be of a lock undergoing continuous change, reflected in a corresponding and continuous change in the shape of the key; but at that point one wonders why we would want to employ the key-and-lock analogy in the first place. Still, it’s handy, so let’s go with it.
+
+[Simon Blackburn, Colin Blakemore, Mary Midgley set out in search of the self.](https://iai.tv/video/in-search-of-the-self "Watch more videos on iaitv")
+
+Just as a key’s shape loses its meaningfulness when its lock is taken away, a human self unravels when its life is taken away. In a powerful and insightful [essay](https://aeon.co/essays/why-solitary-confinement-degrades-us-all), Lisa Guenther explores the effects of solitary confinement on a human being and establishes that without a social world to plug into, a human being undergoes a torturous loss of self; even one’s sense of reality becomes unhinged when there is no one else around to confirm it or push back against it. As Guenther writes, “our ‘here’ is intertwined with their ‘there’”, and who we are is intertwined with who they are. That is to say, more simply, that the key loses its shape when there is no corresponding lock.
+
+We are not islands, as John Dunne wrote:
+
+No man is an island entire of itself; every manis a piece of the continent, a part of the main;if a clod be washed away by the sea, Europeis the less, as well as if a promontory were, aswell as any manner of thy friends or of thineown were; any man's death diminishes me,because I am involved in mankind.And therefore never send to know for whomthe bell tolls; it tolls for thee.
+
+“Any man’s death diminishes me”: and not just out of deeply sympathetic sorrow or because of our common plight, but because of the fact that my being consists in his, in part; his seeing me lends me something that can be seen. As Descartes should have said, *cogitamus, ergo sumus*: “We think, therefore we are”.
+
+A neural net, installed on whatever substrate, will not capture a self unless that neural net is giving and taking in a larger network of neural nets.
+
+We might use this insight to understand what we look for as we try to expose instances of deception. If I suspect Alice or Bob to be imposters, I may well ask them things only Alice or Bob would know; but as we know from watching spy movies, imposters will excel at recounting such trivia. What will be more telling, and nearly impossible for any imposter to achieve, are the ways in which Alice and Bob should interact with us, and how they should reply to our jokes or respond to our stories. The distinctive ways in which Alice and Bob should change in response to our changes is what will tell us whether we really have Alice and Bob, or some imposters. What is telling is the way they fit into our lives, and how we fit into theirs. Alice and Bob will have to be absolute wizards at picking locks, if they are to succeed.
+
+Now I fear that this is going to make being uploaded into the cloud a decidedly difficult affair, and not merely because of difficulties in coding. Ordinarily, the strategy is that moving a self into the cloud should be “only” a matter of figuring out the program that governs the behavior of one’s neural net, and reinstalling that program on some other machine’s components. It is philosophically the same as having a key copied, even though the blade may have something like 100 billion cuts. But without the corresponding lock, the key will be lost. A neural net, installed on whatever substrate, will not capture a self unless that neural net is giving and taking in a larger network of neural nets, a virtual archipelago of selves defining their boundaries through incessant bickering and chattering negotiations. No angel without its choir, as it were.
+
+We cannot go anywhere alone, it turns out, and this will include any trips to the cloud. To paraphrase the songwriting wit Tom Lehrer, *we must all go together when we go*; or at the very least we must travel with enough companions to allow for decent conversation. For if there is no we, there will be no me.

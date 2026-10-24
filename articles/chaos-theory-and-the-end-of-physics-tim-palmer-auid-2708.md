@@ -1,0 +1,101 @@
+---
+title: "Chaos theory and the end of physics"
+subtitle: "How disorder could unify our theories"
+author: "Tim Palmer"
+date: "8th January 2024"
+article_id: "2708"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,022 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-08-01-chaos-theory-tn2.2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/chaos-theory-and-the-end-of-physics-tim-palmer-auid-2708"
+---
+
+# Chaos theory and the end of physics
+
+*How disorder could unify our theories*
+
+**By Tim Palmer** | *8th January 2024* | *Read time: approx. 10 mins* | *2,022 words*
+
+![Chaos theory and the end of physics](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-08-01-chaos-theory-tn2.2.webp)
+
+---
+
+*When we look at scientific progress, especially in physics, it can seem like all the great discoveries lie behind us. Since the revolutions of Einstein's theory of relativity and quantum mechanics, physicists have been struggling to find a way to make them fit together with little to no success. Tim Palmer argues that the answer to this stalemate lies in chaos theory.*
+
+Revisiting a book by John Horgan, science communicator and theoretical physicist Sabine Hossenfelder recently asked on her YouTube channel whether [we are facing the end of science](https://www.youtube.com/watch?v=KW4yBSV4U38).  It might seem like a rhetorical question - it's not possible for science to really end - but she concludes that we are in dire need of some new paradigms in physics, and seemingly unable to arrive at them. We are yet to solve the deep ongoing mysteries of the dark universe and still haven't convincingly synthesised quantum and gravitational physics. She suggests that ideas from chaos theory might hold some of the answers, and therefore the ability to rejuvenate science. I think she's right.
+
+Many physicists – perhaps most - might think this is surely a silly idea. After all, chaotic systems are describable by elementary classical Newtonian dynamics. The phenomenon of chaos can be illustrated by taking the simplest of dynamical systems, the pendulum, and simply adding a second pivot into its swinging arm. The motion of the tip of the pendulum arm is hard to predict, being sensitive to its exact starting conditions – the hallmark of chaos. Fascinating yes, but surely, if we have learned anything over the last 100 years it is this: we are not going to make progress in fundamental physics by going back to elementary classical dynamics.
+
+![Tim Palmer and two colleagues marvel at the chaotic complexity of a pendulum whe](assets/Uploads/_resampled/ResizedImageWzYwMCwzOTZd/tim-and-the-gang-playing-with-pendulums.jpg)
+
+*Tim Palmer and two colleagues marvel at the chaotic complexity of a pendulum where the arm has two pivots instead of the usual one.*
+
+Well, I’m going to explain why I believe that Hossenfelder’s conjecture about the role of chaos theory in providing new paradigms in fundamental physics is correct.
+
+The key idea is to think not about the Newtonian equations that generate chaos, but rather the fractal geometry that is an emergent property of these equations. Even though Newton would have easily understood the nature of the nonlinear equations that generate this geometry – the equations are after all typically expressed using the calculus that he discovered – the geometry that these equations generate would have been utterly alien to the Euclidean geometry that Newton was trained in and was completely familiar with. As I will discuss, in a very precise sense fractal geometry is not classical.
+
+\_\_\_
+
+The real-number system that all physicists are completely familiar with, is well suited to analyse Euclidean geometries – like that of the sphere. However, it is an inappropriate number system for analysing fractal geometry.
+
+\_\_\_
+
+Although he is best known for coining the phrase “the butterfly effect”, the discovery that fractal geometry is an emergent property of the classical equations of chaos was, in my view, MIT meteorologist Ed Lorenz’s most important contribution to science. You simply start from any initial condition you like and run the equations on a computer for a long time. You then discard the initial transient phase of the computer solution and plot the trajectories of the solution in the 3-dimensional state space of the equations. Hey presto, a strange geometry emerges, embedded in this 3-space. Lorenz agonised about the nature of this geometry for a long time. He knew from the equations that the geometry could be neither zero, one, two nor three dimensional. That left only one possibility, it had to have a fractional dimension. That is to say, using the word Benoit Mandelbrot, one of the pioneers of such geometry, coined, it was a fractal. It’s not easy to see this fractal geometry in practice, and to be precise you have to let the computer run for an infinite time before the exact fractal geometry emerges. Indeed, it was only in 1999 that Lorenz’s geometry was proved mathematically to be fractal – almost  [40 years after its discovery](https://www.nature.com/articles/35023206).
+
+![The Lorenz attractor, a fractal geometry embedded in the three-dimensional state](assets/Uploads/_resampled/ResizedImageWzgwMCw2MDBd/lorenz-attractor.png)
+
+*The Lorenz attractor, a fractal geometry embedded in the three-dimensional state space of the Lorenz equations. It is not easy to see the fractal structure of the attractor and it was only proven in 1999 that it really exists.*
+
+In 1993 the computer scientist Simant Dube proved a remarkable result. He showed, using the fractal attractors of dynamical systems like the Lorenz system, that one can construct a fractal based geometric model of computation which is as powerful as any computer you can imagine. Put more precisely, one can construct a fractal-based model of computation which can solve any problem that Alan Turing’s original universal computer can solve. But Turing devised his universal computer to show that certain mathematical problems are computationally undecidable. For example, with his idealised computer he was able to show that Hilbert’s famous Decision Problem – to find a computational procedure which will decide on the truth of any well-posed mathematical problem – was undecidable. Dube showed that Hilbert’s problem, like other computationally undecidable problems, could be expressed in terms of the geometry of the fractal attractors of dynamical systems. Hence these geometric properties are similarly undecidable. For example, is it possible to decide when a line intersects the fractal? No, it is not. This notion of undecidability arose from the work of Kurt Gödel and Alan Turing in the 1930s, and post-dates quantum theory. Hence these emergent properties of chaotic systems should similarly be thought of as post-classical.
+
+There is another fascinating link between fractal geometry and modern mathematics. The real-number system that all physicists are completely familiar with, is well suited to analyse Euclidean geometries – like that of the sphere. However, it is an inappropriate number system for analysing fractal geometry. Instead, such fractals are much better described by a different type of number system, the so-called p-adic numbers first discovered by German mathematician Kurt Hensel. Here p typically describes a prime number. For the Lorenz attractor p=2. Now it turns out that much of modern number theory is based on properties of p-adic numbers: Andrew Wiles’ proof of Fermat’s Last Theorem made essential use of p-adic numbers.
+
+The point I am trying to make is that the  emergent geometry of fractal attractors links the classical mathematics of Newton, with modern the post-classical mathematics of Gödel, Turing and Wiles. Could these fractal attractors say anything interesting about the sort of post-classical physics that Sabine believes we should start focussing on to make progress in the deep problems of fundamental physics? I believe strongly the answer is yes.
+
+The holy grail of fundamental physics is clearly the synthesis of quantum and gravitational physics. This is sometimes called “quantum gravity”. But the phrase quantum gravity is short for “a quantum theory of gravity” and this implies a theory that arises from the application of quantum field theory to some classical model of gravity. This approach has worked well for the electromagnetic, weak and strongly nuclear forces. Why not gravity too?
+
+\_\_\_
+
+Because gravity is so different to the other forces, some physicists are beginning to take seriously the possibility that gravity is not a quantum field, it is a classical field.
+
+\_\_\_
+
+Indeed, both front-runners for a theory of quantum gravity – string theory and loop quantum gravity – are fundamentally based on this approach of quantising gravity. But on the other hand, gravity is different to the other forces. For example, according to general relativity theory, gravity is not a force at all, it is a manifestation of the curvature of space-time. And general relativity is built on the Principle of Equivalence, which explains why in Newtonian gravity, gravitational and inertial masses are equal. But this means that gravitational mass is always attractive, there are no positive and negative gravitational charges, as there are electric charges. Anti-particles gravitate in exactly the same way as particles, as [has recently been shown experimentally](https://www.nature.com/articles/s41586-023-06527-1).
+
+Because gravity is so different to the other forces, some physicists are beginning to take seriously the possibility that gravity is not a quantum field, it is a classical field. For example, University of London physicist Jonathan Oppenheim has recently proposed that, when coupled to gravity, we should think of gravity [as a classical stochastic field](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics). And Nobel Laureate Roger Penrose has proposed that we should be [“gravitising the quantum”](https://link.springer.com/article/10.1007/s10701-013-9770-0), arguing that gravity plays a key role in collapsing the quantum wavefunction.
+
+[![Wave Function](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Wave-Function.webp)
+
+SUGGESTED READING
+Reality is just a quantum wave function
+By Alyssa Ney](https://iai.tv/articles/reality-is-just-a-quantum-wave-function-auid-2024)
+
+Personally, I am strong agreement with these proposals (and indeed wrote a paper a few years ago entitled “[A gravitational theory of the quantum”](https://arxiv.org/abs/1709.00329#:~:text=The%20synthesis%20of%20quantum%20and,during%20non%2Ddecoherent%20unitary%20evolution.) to deliberately contrast with the more conventional quantum theory of gravity). However, if we are to move in this direction, we have to understand one of the most profound mysteries of quantum physics, the experimental violation of Bell’s inequality. In 2022, three experimental physicists won the Nobel Physics Prize for showing conclusively that Bell’s inequality was violated.
+
+The reason for writing this is that the violation of Bell’s inequality appears to imply that [quantum physics is not locally real](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/). Realism is the notion that the moon is there when no-one looks at it, and locality is the notion that quantum information cannot travel instantaneously from one place to another. And yet our best theory of gravity, Einstein’s theory of general relativity, is both realistic and local. We have to get to grips with this seeming inconsistency between quantum and gravitational physics if we are to ever unify them.
+
+Fortunately, there is a third way to explain the experimental violation of Bell’s inequality. It is related to a violation of what is called the Measurement Independent assumption in hidden-variable theories of quantum physics. A hidden-variable theory of quantum physics is by definition realistic: measurement outcomes being determined by the values of hidden variables (which are hidden to us humans but contain information about quantum particle properties) and measurement settings. Measurement Independence assumes that in a quantum experiment, the measurement settings can be varied independently of the hidden variables, and hence can be varied keeping the hidden-variables fixed.
+
+\_\_\_
+
+That is to say, chaos theory may provide us with a realistic local non-computable geometric theory of quantum and gravitational physics which is completely consistent with the experimental violation of Bell’s inequality.
+
+\_\_\_
+
+Some of the early ideas where Measurement Independence was violated were implausible, relying on some grotesque conspiracy between the particles and the experimenters’ choices. However, it doesn’t have to be like this. Some years ago, I proposed a model of quantum physics based on the idea that the whole universe is a dynamic chaotic system evolving precisely on a fractal attractor in cosmological state space. The gaps in the fractal attractor define hypothetical states of the universe which are inconsistent with the laws of physics. The idea is that if we try to vary measurement settings in a Bell experiment keeping hidden variables fixed, then we end up with a state in a fractal gap. With this we can explain how Bell’s inequality is violated without having to abandon either realism or locality, and without having to invoke [grotesque conspiracies](https://arxiv.org/abs/2308.11262#:~:text=A%20non%2Dconspiratorial%20locally%2Dcausal,discretisation%20of%20complex%20Hilbert%20Space.).
+
+One hint that this idea is not completely crazy is that for many years Nobel Laureate Roger Penrose has argued that the theory which synthesises quantum and gravitational physics will have non-computable elements. The problem of determining whether a point in state space lies on the fractal or in a fractal gap is undecidable. That is to say, chaos theory may provide us with a realistic local non-computable geometric theory of quantum and gravitational physics which is completely consistent with the experimental violation of Bell’s inequality.
+
+[![Quantum Mechanics and uncertainty](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Quantum-Mechanics-and-uncertainty.webp)
+
+SUGGESTED READING
+Chaos theory eliminates quantum uncertainty
+By Tim Palmer](https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263)
+
+On the one hand, the chaotic nature of this geometry is consistent with Oppenheimer’s stochastic model of gravity. On the other hand, by being based on deterministic fractal geometry, we can reconcile the violation of Bell’s inequality with realistic local dynamics.
+
+In short, I think Sabine Hossenfelder’s suggestion about the future of fundamental physics being closely allied to advances in our understanding of the theory of chaos to be entirely plausible. Will this also solve the problem of dark matter and dark energy? To paraphrase the famous 17th Century mathematician mentioned above: yes, I do believe so, but the word limit for this article is too short to prove it.

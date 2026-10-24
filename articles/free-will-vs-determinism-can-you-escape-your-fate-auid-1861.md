@@ -1,0 +1,101 @@
+---
+title: "Free will vs determinism: Can you escape fate?"
+subtitle: "Diving into the modern free will debate"
+author: "Meghan Griffith"
+date: "13th August 2021"
+article_id: "1861"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,755 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-13.Free-will-vs-determinism.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/free-will-vs-determinism-can-you-escape-your-fate-auid-1861"
+---
+
+# Free will vs determinism: Can you escape fate?
+
+*Diving into the modern free will debate*
+
+**By Meghan Griffith** | *13th August 2021* | *Read time: approx. 9 mins* | *1,755 words*
+
+![Free will vs determinism: Can you escape fate?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-13.Free-will-vs-determinism.webp)
+
+---
+
+*Most of us feel as though we can freely choose our actions. But what if this feeling of free choice is an illusion? From neuroscientists to spiritualists to philosophers, many are now arguing that the feeling of free will is a fantasy. Is your life following a set, fixed path? Are you merely a puppet on strings? Or can you decide your own fate? We cannot ignore the problem of free will any longer, writes Meghan Griffith.*
+
+Are we free, or are we determined? When someone asks this, I assume they mean that *either* we are free *or* we are determined. Not both. Not neither. But is this the right question? Is determinism really a threat to free will? Is it the only threat? A less controversial question might be “are we ever free, or aren’t we?”
+
+But before getting to what’s controversial about the original question, let us spend some time considering why it’s so often asked and why each side has some pull.
+
+Why freedom versus determinism? Philosophers characterize determinism as the idea that the past and the laws of nature dictate exactly how everything will go from that point forward. If determinism is true, *everything* is determined. Since we are beings in the physical world, our own brain states and behavior will be determined too. If determinism is true, what I choose to type next seems to be an inevitable result of the laws of nature plus every event (from the beginning of time) leading up to my moment of choice. There seem to be some strong intuitions for thinking determinism and free will cannot go together.
+
+Suppose I convince you right now that determinism is true. Would I be able to convince you that you’ve never actually done what you wanted?
+
+Now let’s look at why someone might think we are determined. First, it is hard to understand how to explain (or control) anything without thinking it has a cause, and the universe does appear to operate according to physical laws. It is also hard to see how or why we would not be subject to laws of nature and the events leading up to whatever we do. Even if I try to act capriciously just to prove my freedom (like Dostoevsky’s Underground Man) doesn’t *this* choice require some sort of preceding cause (why did I choose to be unpredictable right then?). Maybe all behavior results from an inevitable chain. Even if physicists were to decide once and for all that the universe is not entirely deterministic (maybe due to unpredictability at the quantum level), this may not secure the kind of “wiggle room” we need. Maybe the patterns of human behavior are such that for all intents and purposes, we might as well be determined.
+
+But setting determinism aside for now, let’s turn to reasons why someone might think we are (at least sometimes) free. Free will concerns whether we sufficiently direct our own behavior. Are we in control? It certainly seems so. We can think about what to do, decide, then move our bodies. We can resist temptations and modify our environments in line with our goals. We can evaluate our motives and make changes. It is difficult, if not impossible, to explain human behavior and human experience without countenancing such abilities. But even if we have these abilities, are they sufficient for (or constitutive of) free will? If not, then knowing that we have these abilities will not give us the answer we seek.
+
+Now we have some reasons for believing we’re determined and some reasons for believing we’re free. In terms of our original question we might wonder: Which is it? Determinism or free will?
+
+But now it’s time to consider why this question might not be the right one. In the first place, many philosophers argue that determinism does *not* rule out free will. So it would be possible to be both determined *and* free. In the second place, some philosophers argue that determinism is not the only threat to free will, so that even if determinism is false, we might still not be free. Where does this leave us? It seems that now we have all sorts of possibilities. Maybe we are free and determined. Or maybe we are neither free nor determined. Maybe we are one and not the other.How, then, should we go about figuring this out? At the risk of sounding like a philosophical caricature, I will follow the lead of many others and suggest reflecting on the many possible things we might mean by ‘free will’.
+
+There are plenty of options, a few of which I will mention here. Maybe by ‘free will’ we mean being able to do what we want without hindrance. Notice that determinism does not appear to conflict with this meaning. Suppose I convince you right now that determinism is true. Would I be able to convince you that you’ve never actually done what you wanted? Of course not. Maybe determinism means that you were determined *to want* to do whatever it is that you’ve done—but no matter. You still *did* what you *wanted* to do.
+
+Or suppose you think, as many contemporary philosophers do, that the kind of free will we have in mind is a capacity to respond properly to the reasons the world provides. If I’m psychologically compelled or if my behavior bypasses my own reasoning, then I lack freedom. But when I’m appropriately responding to my own reasons (e.g., doing something because I think it is what I have good reason to do), I am free. Determinism does not rule out the ability to respond to reasons. Even if I’m determined to act on these reasons, I can still be acting in a way that is responsive to them.
+
+Or, as some psychologists and philosophers think, maybe free will involves the ability to reflect on ourselves and control ourselves in ways that maybe other animals cannot. We are free because we can rise above basic impulses to evaluate our own motives and regulate ourselves. Being determined to control and evaluate ourselves doesn’t mean we aren’t in fact doing these things.
+
+Being determined to control and evaluate ourselves doesn’t mean we aren’t in fact doing these things.
+
+On the other hand, maybe we think free will is about the ability to do otherwise. In that case, maybe determinism matters after all. How can I do otherwise if my choice or action has been determined by a causal chain beginning long before my birth? There are many philosophers who argue that determinism rules out this ability. Or maybe we think that free will is about being the proper *source* of the action. Some philosophers argue that determinism rules out source-hood. After all, if determinism is true, the causal chain leading to my action doesn’t start with me.
+
+But surely whether we have free will isn’t just about definitions, is it? It’s about reality. Do we *really* have free will, or don’t we? Throwing definitions or concepts around seems like cheating. After all, I can define free will however I like. I can say it’s ‘the ability to do *anything* I desire whenever I desire’ and then say we don’t have it since I can’t fly like Superman, go back in time, or eat an ice cream sundae immediately even though I’m out of ice cream. Or I could define it as some sort of weak ability to move my body and then declare that we have it nearly all the time.
+
+But here’s the deal. When we ask “are we free?” we aren’t just asking whether we are X, where X is whatever we feel like saying it is. There is something we genuinely want to know—something we are genuinely concerned about. What is this? Why are we asking? What do we usually mean and why do we care? The idea is to think long and hard about our real target and go from there.
+
+So will we ever know for sure that we have (or don’t have) free will? Again, an answer can’t rely entirely on fact-finding or scientific confirmation because the answer depends in part on what we think free will is (or requires), or on what we care about. Thus, it is unlikely that we will “solve” the problem of free will in the sense that we come to agree on our real target. There’s always more to consider and think about. But in my view, philosophy isn’t about “solving” problems. As Richard Taylor suggests, there’s a difference between knowledge and wisdom, or between confirming facts and increasing understanding.
+
+[[1]](#_ftn1) In my view, philosophy is about engendering new ways of looking at and thinking about things, about using philosophical thought to analyze and understand the implications of the latest scientific developments. It’s about helping us to puzzle through what matters and why. In these ways, our understanding of free will continues to grow, even if a “solution” continues to elude us.
+
+**References:**
+
+Baumeister, Roy, “Do You Really Have Free Will?” *Slate* (2013), www.slate.com/technology/2013/09/free-will-debate-what-does-free-will-mean-and-how-did-it-evolve.html.
+
+Berofsky, Bernard, “Classical Compatibilism”, in Kevin Timpe, Meghan Griffith, and Neil Levy (eds), *The Routledge Companion to Free Will* (New York: Routledge, 2017), 41-51
+
+Caruso, Gregg. "Skepticism About Moral Responsibility", in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*(Spring 2018 Edition), plato.stanford.edu/archives/spr2018/entries/skepticism-moral-responsibility/.
+
+Dostoevsky, Fyodor. *Notes from Underground.* Trans. Richard Pevear and Larissa Volokhonsky. New York: Vintage Classics, 1993.
+
+Fischer, John Martin. *My Way: Essays on Moral Responsibility*. (New York: Oxford, 2006).
+
+Frankfurt, Harry, “Alternate Possibilities and Moral Responsibility”, *Journal of Philosophy*, 66 (1969): 829–39
+
+Frankfurt, Harry. “Freedom of the Will and the Concept of a Person.” *The Journal of Philosophy,* Vol. 68, No. 1 (Jan. 14, 1971), pp. 5-20
+
+Griffith, Meghan. *Free Will: The Basics.* (New York: Routledge, 2013).
+
+McKenna, Michael, “Reasons-Responsive Theories of Freedom”, in Kevin Timpe, Meghan Griffith, and Neil Levy (eds), *The Routledge Companion to Free Will* (New York: Routledge, 2017), 27-40.
+
+Mele, Alfred R. *Effective Intentions: The Power of Conscious Will* (Oxford: Oxford University Press, 2009)
+
+Nahmias, Eddy, “Is Neuroscience the Death of Free Will?”, *New York Times*, The Opinion Pages, [www.opinionator.blogs.nytimes.com/2011/11/13/is-neuroscience-the-death-of-free-will](http://www.opinionator.blogs.nytimes.com/2011/11/13/is-neuroscience-the-death-of-free-will).
+
+Pereboom, Derk, *Free Will, Agency, and Meaning in Life* (New York: Oxford University Press, 2014).
+
+Rée, Paul. “Determinism and the Illusion of Moral Responsibility” in *Introduction to Philosophy, Revised Edition,* Fred Feldman, ed. (New York: McGraw-Hill, 1994).
+
+Steward, Helen. “Action as Downward Causation”. [*Royal Institute of Philosophy Supplement*](https://philpapers.org/asearch.pl?pub=991) 80:195-215 (2017).
+
+Taylor, Richard. *Metaphysics*, 4th edition (Englewood Cliffs, NJ: Prentice Hall, 1991).
+
+Van Inwagen, Peter. *An Essay on Free Will* (Oxford: Clarendon Press, 1983).
+
+Kadri Vihvelin, “Dispositional Compatibilism,” in Kevin Timpe, Meghan Griffith, and Neil Levy (eds), *The Routledge Companion to Free Will* (New York: Routledge, 2017): 52-61.
+
+---
+
+[[1]](#_ftnref1) See Taylor pp. 6-8. See also Griffith where I discuss Taylor’s idea.

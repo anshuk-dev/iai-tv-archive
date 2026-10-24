@@ -1,0 +1,114 @@
+---
+title: "What is this thing called pseudoscience?"
+subtitle: "How to tell science from bunk"
+author: "Massimo Pigliucci"
+date: "21st October 2021"
+article_id: "1945"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "1,950 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/pseudoscience-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/there-is-no-such-thing-as-pseudoscience-auid-1945"
+---
+
+# What is this thing called pseudoscience?
+
+*How to tell science from bunk*
+
+**By Massimo Pigliucci** | *21st October 2021* | *Read time: approx. 10 mins* | *1,950 words*
+
+![What is this thing called pseudoscience?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/pseudoscience-min.webp)
+
+---
+
+*We might think that telling the difference between science and pseudoscience is easy: science is based on empirical evidence, pseudoscience is not. But things are a lot more complicated than that. Coming up with a definition of either science or pseudoscience turns out to be incredibly hard. Instead of looking at the content of the theories to tell whether they count as science, an alternative is to focus on the people putting them forward, the care with which they approach their claims, and their character, writes Massimo Pigliucci.*
+
+What’s so difficult about separating sound science from pseudoscience? Let’s give it a try. Fundamental physics is, clearly, science. Homeopathy is, just as clearly, pseudoscience. Why? Well, because the first one is based on empirically well-established theories that make precise and reliable predictions about how the world works, while the second one is founded on notions that contradict basic chemistry and biology and has been demonstrated over and over not to work. Case closed, right?
+
+Not so fast. Take one particular area of fundamental physics: string theory. There has been increasing controversy over the past several years about whether it is, in fact, sound science [1,2]. After all, string theory began to be articulated in the late 1960s. To this day, more than half a century later, it has not been able to provide a single empirically testable prediction. And a growing number of scientists are beginning to think that the theory, with its “landscape” of 10^500 possible solutions, is in fact impossible to test in principle. Does that make it a pseudoscience? Not quite.
+
+On the other hand, consider a classic example of pseudoscience: parapsychology. Although I am personally satisfied with the conclusion that there is insufficient evidence to think that telepathy, telekinesis, and clairvoyance are real phenomena, until recently such possibilities have been studied by professional scientists in well-respected universities [3]. They could have succeeded — a reminder that it always pays to keep an open mind about controversial topics (Though not as open, as astronomer Carl Sagan put it, that your brain falls off.) While the possibility of evidence for telepathy, or telekinesis, or clairvoyance was still open, it would have been premature to dismiss parapsychology as pseudoscience. But once the evidence is in, to insist that those phenomena are real pushes the field further and further into pseudoscientific territory.
+
+In the Charmides, a Platonic dialogue, Socrates inquires into how we can differentiate between medicine and quackery, and concludes that it takes medical-level expertise to do so.
+
+**The demarcation problem**
+
+The demarcation problem— the difficulty of finding criteria that distinguish science from pseudoscience — has a long history in the western tradition. In the *Charmides*, a Platonic dialogue, Socrates inquires into how we can differentiate between medicine and quackery, and concludes that it takes medical-level expertise to do so. But of course, very few people have the time and resources to become doctors, physicists, biologists, psychologists, and so forth, in order to arrive at an informed assessment of the soundness of any given claim.
+
+Karl Popper, one of the most influential philosophers of science of the 20th century, thought he had the answer: falsificationism. He reckoned that for a statement or theory to be considered scientific it ought to be possible, in principle, to show that it is false, if in fact it is false. For instance, Einstein’s General Theory of Relativity is scientific because it makes precise predictions that could potentially be falsified, by way of observation or experiment. Freudian psychoanalysis, by contrast, according to Popper, is pseudoscience because there is no conceivable human behavior that Freudians could not somehow reconcile with the vague statements of their theory.
+
+Neat, right? A bit too neat, as it turns out. Some theories that many people consider scientific, such as the notion of parallel universes, are not falsifiable, even in principle [4]. And some pseudosciences, like homeopathy, can be — and have been — falsified. Yet, their proponents keep acting as if nothing happened. The current consensus among philosophers of science, therefore, seems to be that there is no straightforward answer to the demarcation problem, and that a main reason for this is that both science and pseudoscience are inherently fuzzy cluster concepts: they are defined by a cluster of criteria which however are individually neither necessary nor sufficient to include or exclude all individual instances of the concept.
+
+The current consensus among philosophers of science, therefore, seems to be that there is no straightforward answer to the demarcation problem.
+
+**Science and pseudoscience as cluster-concepts**
+
+A familiar example of a cluster concept is that of “game.” Try to define precisely what a game is. It’s harder than you think. For every criterion you come up with, like “it’s done for fun,” or “it’s a rule-based competition,” or whatever, you will always find both activities that are pretty clearly not games and yet seem to satisfy many of the criteria, or that are games and yet fail several of the relevant criteria. For instance, sex can be done for fun, and it can be competitive, but it’s not a game, by most people’s understanding. Contrariwise, solitaire is a game, but it’s not a competition. And so on.
+
+Does that mean that we don’t know what a game is? Of course not. We can point to certain activities and say “that’s a game,” point to other activities and say “that’s not a game,” and then suspend judgment for yet more activities that seem to straddle the dividing line (e.g., war games). This way of thinking can be traced to the mid-20th century philosopher Ludwig Wittgenstein [5], who in fact used precisely the example of games to demonstrate that not all concepts have clear-cutdefinitions.
+
+There is no such thing as “science,” but rather a family of more or less related activities.
+
+In the case of the demarcation problem, science and pseudoscience are both cluster concepts. There is no such thing as “science,” but rather a family of more or less related activities, some of which lay emphasis on experiments (e.g., physics, chemistry), others on observations (e.g., astronomy, paleontology), others on a mix of the two (e.g., evolutionary biology). Indeed, if we use the word “science” not in the restricted English meaning, but as the German *wissenschaft*, or the Latin *scientia*, then history and philosophy, among other humanities, are also sciences.
+
+Similarly, there is no such thing as “pseudoscience,” but yet another family of related claims that are doubtful or nonsensical. Parapsychology is (allegedly) experimental, while ufology is (allegedly) observational. And conspiracy theories share a lot of the characteristics of pseudosciences, but are usually not classified as such.
+
+**Pseudoscience as bullshit**
+
+So, is there anything that might unify the sciences and distinguish them from pseudosciences? Did we miss something here, perhaps misled by the search for a small set of demarcating criteria like the one initiated by Popper? Possibly. One recent author, Victor Moberger [6], has suggested that what all pseudoscience has in common is bullshit. I mean this not in the colloquial sense of the term, but in the technical one famously introduced by philosopher Harry Frankfurt [7].
+
+Frankfurt distinguishes between the liar and the bullshitter. A liar has to know, more or less, what is true, or he wouldn’t be able to lie effectively. The bullshitter, by contrast, simply doesn’t care enough about the truth and uses whatever is instrumental to advance his objective, which may be simply to “win” an argument on social media, to preserve a cherished religious or political belief, or to keep hold of a country despite having lost a legitimate election.
+
+The bullshitter is therefore what might be described as a bad epistemic agent, culpable of epistemic malpractice. He may not even be aware of what he is doing because, again, his objective is not actually to uncover the truth, but to push a particular agenda or worldview.
+
+Nobody is perfect, and we all get occasionally sloppy with our thinking, even professional scientists. But the bullshitter is a systematic offender, and that’s why he likely falls for — and then vehemently defends — pseudoscientific notions.
+
+To some extent, of course, we all engage in bad epistemic practices from time to time. Nobody is perfect, and we all get occasionally sloppy with our thinking, even professional scientists. But the bullshitter is a systematic offender, and that’s why he likely falls for — and then vehemently defends — pseudoscientific notions.
+
+Sindhuja Bhakthavatsalam and Weimin Sun [8] give us a related angle from which to consider the science-pseudoscience demarcation: virtue epistemology. Virtue ethics, which in the western tradition goes back to Socrates, Aristotle, and the Stoics, shifts the emphasis from the basic question: “is X right or wrong?” to “is agent Y acting virtuously or viciously in attempting to do X?”
+
+For instance, if I say that a given vaccine for covid-19 is safe, I may be right or wrong. It’s an empirical question. But did I do my homework before making that statement, in which case I am behaving as a virtuous epistemic agent, or am I bullshitting because I have an agenda that transcends the truth or falsity of the specific claim? In the latter case I am acting as a vicious epistemic agent, whether I realize it or not.
+
+Shifting our focus to virtue epistemology, and therefore from the claims to the character of the agents who make those claims, suggests that we shouldn’t spend too much time “debunking,” because people with bad epistemic practices aren’t going to be convinced by facts. Nor is it, however, a good idea to start yelling “bullshitter!” to anyone we disagree with, as basic psychology shows that people don’t respond well to insults.
+
+Shifting our focus to virtue epistemology, and therefore from the claims to the character of the agents who make those claims, suggests that we shouldn’t spend too much time “debunking,” because people with bad epistemic practices aren’t going to be convinced by facts.
+
+**How not to bullshit**
+
+What then? We should work to create an environment that produces more virtuous epistemic agents (and therefore less bullshit). This raises the intriguing possibility of refocusing our educational approach to teach not just the facts of science, or even logical fallacies and cognitive biases, but how to set higher standards for ourselves so that we become virtuous rather than vicious agents.
+
+In the meantime, how about starting at home? The next time you engage someone, in person or especially on social media, ask yourself the following questions:
+
+* Did I carefully consider the other person’s arguments without dismissing them out of hand?
+* Did I interpret what they said in a charitable way before mounting a response?
+* Did I seriously entertain the possibility that I may be wrong? Or am I too blinded by my own preconceptions?
+* Am I an expert on this matter? If not, did I consult experts, or did I just conjure my own unfounded opinion?
+* Did I check the reliability of my sources, or just google whatever was convenient to throw at my interlocutor?
+* After having done my research, do I actually know what I’m talking about, or am I simply repeating someone else’s opinion?
+
+After all, as Aristotle said: “Piety requires us to honor truth above our friends” [9]
+
+\_\_\_\_\_
+
+**Notes**
+
+[1] Baggott, J. (2014) Farewell to Reality: How Modern Physics Has Betrayed the Search for Scientific Truth. Pegasus Books.
+
+[2] Hossenfelder, S. (2020) Lost in Math: How Beauty Leads Physics Astray. Basic Books.
+
+[3] Odling-Smee, L. (2007) The lab that asked the wrong questions. Nature 446:10.
+
+[4] Hossenfelder, S. (2019) Why the multiverse is religion, not science. <https://backreaction.blogspot.com/2019/07/why-multiverse-is-religion-not-science.html>.
+
+[5] Wittgenstein, L. (1958) Philosophical Investigations. Blackwell.
+
+[6] Moberger, V. (2020) Bullshit, pseudoscience and pseudophilosophy. Theoria 86(5):595-611.
+
+[7] Frankfurt, H. (2005) On Bullshit. Princeton University Press.
+
+[8] Bhakthavatsalam, S. and Sun, W. (2021) A Virtue epistemological approach to the demarcation problem. Implications for teaching about Feng Shui in science education. Science & Education, 29 August, <https://doi.org/10.1007/s11191-021-00256-5>.
+
+[9] Aristotle, Nicomachean Ethics, book I.

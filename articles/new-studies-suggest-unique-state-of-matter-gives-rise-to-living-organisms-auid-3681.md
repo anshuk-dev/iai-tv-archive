@@ -1,0 +1,79 @@
+---
+title: "New studies suggest unique state of matter gives rise to living organisms"
+subtitle: "Organisms are processes, not things"
+author: "Addy Pross"
+date: "21st September 2026"
+article_id: "3681"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "1,437 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/new-studies-suggest-unique-state-of-matter-gives-rise-to-living-organisms.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/new-studies-suggest-unique-state-of-matter-gives-rise-to-living-organisms-auid-3681"
+---
+
+# New studies suggest unique state of matter gives rise to living organisms
+
+*Organisms are processes, not things*
+
+**By Addy Pross** | *21st September 2026* | *Read time: approx. 7 mins* | *1,437 words*
+
+![New studies suggest unique state of matter gives rise to living organisms](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/new-studies-suggest-unique-state-of-matter-gives-rise-to-living-organisms.webp)
+
+---
+
+*How can inert, passive matter give rise to life, with all its agency and purpose? Chemist **Addy Pross** has spent 25 years on this mystery, culminating in a landmark book, Life’s* Chemical Secret: The Origin of Purpose and Mind*. Now, he says, fresh evidence backs up his theory of how matter comes to life. We know matter can be stable when collected into an object which settles into a low-energy, resting state, like a rock at the bottom of a hill. But matter can also have a different sort of stability, as part of a process which persists through constant exchanges of material with its surroundings, like a flowing river. Life, Pross thinks, emerges from such states of constant interaction. Indeed, he argues here, new experiments suggest that as these interactions grow more complex, matter behaves in ways that look increasingly purposeful.*
+
+For four centuries, science has been based on the fundamental assumption that nature is, at its core, indifferent. Rocks, rivers, stars—they are all without desires and intentions. From atoms and molecules up, matter is nothing more than physical systems obeying physical laws. As French biologist Jacques Monod famously put it in his classic 1970 work *Chance and Necessity*: nature is objective.That idea encapsulated the essence of the modern scientific revolution, as forged by the landmark thinking of Galileo, Descartes, Newton and others. And thanks to Darwin’s theory of evolution, biology seemed to also fit into that physicalist framework, at least at first.
+
+Yet, with regard to life, one difficulty has refused to go away. Living things [express characteristics that are inconsistent with that physical/mechanistic view](https://iai.tv/articles/organisms-are-musicians-not-machines-auid-3436): purpose, desire, intentionality, subjectivity are all undeniable aspects of reality. But how can such characteristics fit in with that mechanistic view? [The riddle of how subjective systems were able to emerge from an objective universe](https://iai.tv/video/darwin-vs-consciousness) remained troublingly unresolved.
+
+But, as I will now describe, [an answer may be within reach](https://mitpress.mit.edu/9780262054836/lifes-chemical-secret/), and it lies in the recent discovery that a certain category of matter can be actively creative in ways that the classical picture overlooked.
+
+**The overlooked state of matter**
+
+We are all familiar with the three classical states of matter—solid, liquid, gas—with their distinctly different physical properties. A crystal of ice, a drop of water, and a puff of steam are all composed of the same H2O molecules, but their different arrangements give rise to those different properties.
+
+But what has not been appreciated till recently is that there exists a fundamentally different material arrangement of matter, one defined not by equilibrium structures, but by non-equilibrium dynamic processes, one that was only identified relatively recently. It is within that dynamic domain that matter’s subjective and [creative potential](https://iai.tv/articles/consciousness-is-the-only-truly-creative-thing-in-the-universe-auid-3581) can be unearthed.
+
+[![related-video-image](https://iai.tv/assets/Uploads/the-origin-of-life.webp)
+
+SUGGESTED VIEWING
+The origin of life
+With Güneş Taylor, Addy Pross, Kate Adamala, Chrisantha Fernando](https://iai.tv/video/the-origin-of-life)
+
+Though the likely existence of dynamic states of matter was suggested several decades ago, it was only more recently that [Dutch chemists confirmed their physical existence experimentally](https://doi.org/10.1002/anie.201409198). They created a hydrogel, a network of molecules swollen with water, but one that was unusual in that it could not simply be synthesized and left to sit. Though the hydrogel structure was based on one of the most basic reactions in organic chemistry, esterification (the reaction of a carboxylic acid with an alcohol to yield an ester), its structure was dynamic and dependent on the hydrogel product being continually assembled and disassembled. As long as the chemical reagents driving those formation and degradation reactions were supplied, the hydrogel’s structure was maintained. However, if that supply ceased, the hydrogel structure simply collapsed. The hydrogel's existence, in short, was not matter in a traditional equilibrium state, but the result of an [ongoing *dynamic* *process*](https://iai.tv/video/organisms-are-processes-not-things-with-wahida-khandker).
+
+To better understand the dynamic nature of the hydrogel’s structure, think of a water fountain. The form of a water fountain does not derive from a fixed arrangement of water molecules. It is a pattern maintained by water in motion, water being continually supplied through the action of a pump. If the energy source for the pump is interrupted, the fountain’s physical form collapses. The fountain’s existence is inseparable from the process that established it. Think of the hydrogel’s dynamic nature as a chemical analogue of that physical water fountain.
+
+This dynamic aspect is the defining characteristic of what I have termed [Dynamic Kinetic Stability](https://doi.org/10.1007/978-3-642-27833-4_5612-1), or DKS, a stability kind obtained through the establishment of a process that can be maintained over time. Matter in the DKS state is in a condition of perpetual chemical or physical turnover, yet able to persist in that dynamic state.
+
+**Adaptation as an emergent property**
+
+What makes matter in the DKS state remarkable is not merely its persistence, but what that persistence implies. When the chemical conditions responsible for hydrogel formation were slightly modified, say, by changing the rate of supply of the hydrogel’s molecular components, the hydrogel did not collapse—it adapted, shifting from a firmer to a more pliable consistency, for example, in a manner that tended to preserve its existence. The hydrogel’s properties changed to accommodate the new conditions, just as the jet of water in a water fountain might tilt through the action of a breeze. In similar fashion, the hydrogel changed its properties in a manner that preserved its continued existence under the new conditions.
+
+\_\_\_
+
+Subjectivity, the capacity for an inner perspective, is not an anomaly that appears mysteriously in an otherwise objective universe. Rather, it is a property that emerges naturally and inevitably from matter.
+
+\_\_\_
+
+Needless to say, the hydrogel did not consciously decide to adapt. But it did adapt. The hydrogel modified its structure in order to persist. That response followed directly from the logic of the dynamic kinetic state as one that inherently tends to resist any change that undermines its existence. Adaptation is not imposed upon it from the outside—it falls out as a direct consequence of its dynamic state. By contrast, traditional matter in the thermodynamic state, when perturbed, is directed “down-hill” in accord with [the all-encompassing Second Law of Thermodynamics](https://iai.tv/articles/without-entropy-there-would-be-no-life-auid-2947).
+
+**From matter to agency**
+
+The answer to [why living things exist](https://iai.tv/video/the-origin-of-life) now begins to appear. If DKS systems that are able to self-replicate—to make copies of themselves—somehow emerge, then the logic of natural selection comes into play. More stable variants will drive less stable ones into extinction. Thus, for purely physical reasons, such systems will become progressively better at persisting. The Darwinian ratchet will have begun to operate.
+
+But notice where this process leads us. A system that seeks to maintain its dynamic state by all available means is a system that acts *on its own behalf*. It acquires, processes, and deploys information about its environment in ways that serve its persistence. It is no longer a passive object responding blindly to external forces—it has become [an *agent*](https://iai.tv/articles/life-agency-and-the-evolution-of-free-will-kevin-mitchell-auid-2718). In fact, DKS systems can be loosely characterized as “purposeful,” with that purposeful character becoming increasingly evident with increasing DKS complexity. Thus, though we would not classify water fountains and dynamic hydrogels as purposeful, the study of the simplest forms of life, bacteria, highly complex in chemical terms, already reveals unambiguous purposeful behavior. And, of course, such behavior reaches ever more explicit levels in multicell animals.
+
+**The emergence of subjectivity**
+
+Which brings us back to Monod and his postulate of objectivity.
+
+Monod was right in considering the objectivity principle fundamental to scientific understanding. But the realization that matter expressing dynamic kinetic stability can take on agential character reveals that objectivity may not be the whole story. An objective system is one that simply is what it is—it has no stake in its own continuation, no perspective, no agenda. By contrast, an agent is a system for which its own persistence takes on value. For an agent, the world is divided into what promotes its continuation, and what threatens it. Agential systems express autonomy.
+
+It would be too strong to claim that a dynamic hydrogel [is conscious](iai-academy/courses/info?course=the-role-of-consciousness-in-evolution), or that the first self-replicating molecules were self-aware. But the argument suggests that subjectivity, the capacity for an inner perspective, is not an anomaly that appears mysteriously in an otherwise objective universe. Rather, it is a property that emerges naturally and inevitably from matter in the DKS state. The more complex and capable the agent, the richer and more elaborate that inner dimension becomes, reaching dramatic expression in the manner we humans experience it.
+
+But it then follows that nature is not categorically objective as Monod thought. Objective matter can, under the right physical conditions, give rise to agential matter, and agential matter is inherently subjective. Thus, for certain material forms at least, the physical and mental worlds merge. The question of how meaning can arise in a world without meaning may find its answer not in a retreat from science but in a deeper appreciation of what [matter, in all its possible physical states](https://iai.tv/articles/a-new-theory-of-matter-may-help-explain-life-lee-cronin-auid-2656), is capable of becoming.

@@ -1,0 +1,79 @@
+---
+title: "How we can predict fashion"
+subtitle: "Vibe Shifts and Artificial Intelligence"
+author: "Stefano Marino"
+date: "22nd April 2022"
+article_id: "2112"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,627 words"
+read_time: "Read time: approx. 8 mins"
+header_image: ""
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-we-can-predict-fashion-auid-2112"
+---
+
+# How we can predict fashion
+
+*Vibe Shifts and Artificial Intelligence*
+
+**By Stefano Marino** | *22nd April 2022* | *Read time: approx. 8 mins* | *1,627 words*
+
+---
+
+*Apparently a “vibe shift” is about to take place. Both fashion and culture attitudes are about to change, as they always eventually do.  The question is, how do we know when it’s about to happen – can we really predict fashion changes and cultural shifts? Stefano Marino and Gustavo Marfia argue that AI might soon be able to help us do exactly that. But used the wrong way, AI may also stifle creativity.*
+
+A recent article published on the journal *The Cut* claims in a quite emphatic way that “[A Vibe Shift Is Coming](https://www.thecut.com/2022/02/a-vibe-shift-is-coming.html)”, and then thought-provokingly and almost dramatically asks: “Will any of us survive it?”. The article defines a *vibe shift* as “the catchy but sort of too-cool term”, coined by a trend-forecasting consultancy called 8Ball, that is used to express “a relatively simple idea: In the culture, sometimes things change, and a once-dominant social wavelength starts to feel dated”.
+
+After describing in a careful but also funny way three recent vibe shifts, the author hints at a stimulating idea: namely, “the prediction that we [are] on the cusp of a new vibe shift”. What is stimulating in this claim, not only for people interested in fashion but also for academic researchers and University professors of Philosophy and Computer Science (like us), is summarized by the simple word “prediction”. Ever since the ancient Greeks, Western thinkers have always been interested in the investigation of the essence of things (the answer to the traditional philosophical question: “What is X?”) and in the search for the causes, the reasons and the principles that underlie certain changes, not only for the sake of pure knowledge, but also for the need to predict, and prepare for, changes in both the natural and the social world.
+
+Although fashion had been almost (though *not* entirely) ignored by philosophers in previous centuries, in recent times several important philosophical contributions have enriched the broad, complex and ramified field of contemporary Fashion Studies. In investigating fashion from a philosophical point of view, philosophers have typically attempted to find an answer (1) to the question “what is fashion?”, and (2) to the no less relevant question as to whether there is or not something like a principle that guides the occurrence, development and diffusion of fashion changes. In other words, can fashion changes be predicted? And if so, can they be predicted only through our human understanding or also by using the instruments offered today by artificial intelligence?
+
+\_\_\_
+
+## While the thesis that it’s not entirely possible to predict how fashion trends will develop is one we are sympathetic to, we must also point out that recent achievements in the field of Artificial Intelligence present a challenge to that thesis.
+
+\_\_\_
+
+In his *Fashion: A Philosophy*, the Norwegian philosopher Lars F. Svendsen wrote:
+
+*“Formerly there was a much greater consensus among designers and a more centralized model, unlike today’s more decentralized and differentiated fashion production. […] The notion that there is only one norm for fashion has broken down. Instead, there are a number of smaller fashion centres and norms. It is precisely this dispersal that has prompted a demand for agencies prepared to predict how trends will develop. […] It is probably fairly futile to attempt to find an ‘algorithm’ for changes in fashion, with regard to both clothing and other phenomena, even though quite a few such attempts have been made”.*
+
+While the thesis that it is not entirely possible to predict how fashion trends will develop – just like human being’s free will and actions are *never* entirely predictable – is one we are sympathetic to, at the same time we must also point out that many of the recent achievements in the field of Artificial Intelligence (AI) present a challenge to that thesis.
+
+The recent developments in AI, when applied to visual content such as photos and videos, has led to finding many opportunities and applications in the fashion field. A 2021 survey paper by Cheng et al. identified four application areas of AI paradigms to fashion: synthesis (related to the automatic creation of a garment), recommendation (suggesting a garment based on an event, a location, or a desirable match with other clothing), detection (concerned with individuating and segmenting garments within digital visual content), and analysis (learning and predicting styles). In each of these applications, the authors indicated four areas explicitly connected to an idea of prediction:, fashion compatibility, outfit matching, hairstyle suggestion, and outfit popularity prediction- , all terms deeply entangled with the word concept of “prediction”.
+
+\_\_\_
+
+## Checking automatically whether two items may visually fit well together implies knowing how they would appear and be welcomed by others – it’s a form of prediction.
+
+\_\_\_
+
+Checking automatically whether two items may visually fit well together implies knowing how they would appear and be welcomed by others. Fashion brands would love to have this, as they could create new products and have an AI say how popular they may become and what their sales could be. Sounds like discovering our future by asking a wizard, but no wizard is there, only AI algorithms processing data. But where do the data come from?
+
+Think of social media as representing an incredible and unseen window from which it is possible to peak through. Every day people from all over the world report information about themselves, including how they dress. May we find the seed of a new vibe shift hidden in one of those profiles? Probably yes. The next trendsetter may be hidden in a social media profile that is not necessarily characterized by millions of followers but rich in taste, love for innovation, and dare. But how will we (or AI) identify that account as a trendsetter? Can we find that profile using AI algorithms? This is very difficult to achieve at an early stage, when a new style, that eventually will become a trend, is born. AI is often great at finding patterns of things that happen frequently, but less able to identify rare events. We have no widely accepted way to measure today how creative something is using an algorithm, at least in a meaningful way for fashion. Nevertheless, fashion companies are not refraining from using such data, as highlighted by d’Aura: “The fashion business has changed in the past few years. … Fashion brands are increasingly paying attention to their customer’s desires and needs, rather than venturing in proposing new items and possibly suggesting new desires to their clients.”
+
+\_\_\_
+
+## Fashion often innovates and creates novelty, whereas AI can so far provide us with suggestions that are based on an observation of small portions of the past.
+
+\_\_\_
+
+Such attention of fashion brands witnesses their attention to understanding their customers’ needs. The question now is whether such an approach will have a negative effect on the diffusion of designers’ inventions and creativity in general. It depends. Fashion often innovates and creates novelty, whereas AI can so far provide us with suggestions that are based on an observation of small portions of the past. As long as digital technologies are used for what they really are, tools that can help explore all the possible ramifications of an idea but not produce an idea per se, it is possible to employ them as systems that can boost the creativity of a professional fashion designer. They can help collect, segment and recognize from unimaginable quantities of visual data distinct fashion styles, synthesizing all of such know-how in concise and informative ways. In essence, they can speed up the creative process, helping individuate, gather and collect multiple inspirational sources. However, no AI today, and for the foreseeable future, can implement the knowledge of professional fashion designers who need to be proficient in an extensive and multifaceted set of skills, from design to history, from materials science to philosophy. At least, today, no AI can master at once all of these subjects and there is no guarantee that even doing so it could be capable of creative thinking.
+
+Now, turning back to where we started from, Monahan’s prediction that we are on the cusp of a new vibe shift, we can’t really say, not being trend experts. We suspect that the setting of a new vibe is something that AI could be good at, as such algorithms are particularly talented in detecting when things start  behaving differently than before. They could also be trained to predict when a vibe shift could plausibly occur, it all depends on the quantity and quality of the data that is fed to them.
+
+We want to leave our readers with a different kind of prediction for the future, though: a paradigm shift is percolating deep in the fashion industry. Unlike the vibe shifts individuated by Monash which are an effect and not a cause, AI will affect how fashion designers work and apply creativity to their creations. How this paradigm shift will influence trends, is difficult to say. Where will the main drivers of fashion and style be? Are we going to witness a further exasperation of the algorithmic life Amoore and Poitukh talk about? May we expect to be experiencing algorithmic fashion styles as well? We want to be daring and leave our guess: the role of fashion designers will not change as much. While they will enjoy the use of many more technological gadgets in their work, the test field for future vibe shifts, which will there also occur more frequently than in the real world, will be the metaverse.
+
+**References**
+
+Amoore, L. and V. Poitukh. *Algorithmic life*. Taylor & Francis, 2015.
+
+Cheng, W.-H., S. Song, C.-Y. Chen, S. Chusnul Hidayati and J. Liu. “Fashion meets computer vision: A survey.” *ACM Computing Surveys (CSUR)* 54, n. 4 (2021): 1-41.
+
+d’Aura, G. “Shifting Paradigms Impact of Technology on the diffusion of trends.” *ZoneModa Journal* 10, n. 2 (2020): 119-129.
+
+Matteucci, G. and S. Marino (eds.). *Philosophical Perspectives on Fashion*. Bloomsbury, 2017.
+
+Svendsen, L.F. *Fashion: A Philosophy*. Reaktion Books, 2006

@@ -1,0 +1,67 @@
+---
+title: "Have we detected dark energy?"
+subtitle: "A new study suggests this might be so"
+author: "Sunny Vagnozzi"
+date: "11th October 2021"
+article_id: "1930"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,783 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/dark-energy-resized.and.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/have-we-detected-dark-energy-auid-1930"
+---
+
+# Have we detected dark energy?
+
+*A new study suggests this might be so*
+
+**By Sunny Vagnozzi** | *11th October 2021* | *Read time: approx. 9 mins* | *1,783 words*
+
+![Have we detected dark energy?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/dark-energy-resized.and.webp)
+
+---
+
+*Its existence was first speculated to explain the rate at which the universe is expanding. Dark energy, together with dark matter, makes 95% of the universe - yet we have little idea of what it is. According to one theory, dark energy is a particle, linked to a fifth fundamental force, a theory that was yet to be supported by experimental evidence. However, a new study led by researchers at the University of Cambridge and* *Frascati National Laboratories**suggests that an experiment originally designed to detect dark matter might have in fact detected dark energy. If further supported by other experiments, this finding will hail a new era in our understanding of what the universe is made of, illuminating what lies beyond the standard model of particle physics, and giving us an insight into what the universe’s fate might ultimately be, writes Sunny Vagnozzi, a Cambridge researcher and co-author of this new study.*
+
+Most of the Universe out there is dark. The stuff we know and love from everyday life - the tables we eat on, the air we breathe - only accounts for 5% of the stuff the universe is made of. The remaining 95% is made out of two mysterious components – 25% dark matter, and 70% dark energy. We can’t see them, but we can infer their existence through their gravitational pull or repulsion - on their surroundings, and, as it happens, on the Universe as a whole.
+
+Both on the theoretical front and the experimental front, our understanding of dark energy is significantly lagging behind that of dark matter.  Dark energy - whose existence was first speculated in 1998 to explain the rate of acceleration of the expansion of the universe - is particularly hard to detect.  But a new study and recent experimental results suggest we might be on the precipice of a scientific breakthrough. If dark energy is indeed a particle linked to a fifth fundamental force, as one theory suggests, we believe we have detected it. If more experimental evidence supports this hypothesis, we are on the verge of a scientific breakthrough that will overthrow physics as we currently know it.
+
+**What are dark matter and dark energy?**
+
+Besides both being invisible, dark energy and dark matter don't have much in common. Simplifying a bit, the gravitational effect of dark matter is attractive, whereas that of dark energy is...well, you guessed it, repulsive! On the largest scales, dark matter acts as a sort of “glue” holding the Universe and its largest structures - galaxies, clusters, superclusters etc. - together. The effects of dark matter have been known since the 1920s, although it wasn’t until the 1970s, thanks to the pioneering work by Vera Rubin, that the existence of dark matter became widely accepted. Since then, many researchers have been trying to understand what dark matter is in fact made of. While a definitive understanding is lacking, many plausible models exist on the market, positing that dark matter is one or more new particles.
+
+Another proposal for what dark energy could be includes the idea that it’s the effect of a new particle, linked to a fifth fundamental force.
+
+Dark energy, on the hand, is accountable for driving the ever-accelerating expansion of the Universe. Its existence was postulated much later, in 1998, to explain the observation of distant exploding stars known as Supernovae. It is the repulsive effect of dark energy, or more precisely its negative pressure, which pulls the Universe apart and causes its expansion to accelerate. Although our theoretical understanding of dark energy is still in its early stages, the simplest account of what dark energy is ascribes its effects to the energy density of vacuum, but that theory fails to account for the amount of dark energy in the universe by a staggering 120 orders of magnitude. Another proposal for what dark energy could be includes the idea that it’s the effect of a new particle, linked to a fifth fundamental force. A fifth force is anything other than the four fundamental forces of nature: electromagnetism, gravity, the strong force, and the weak force. It is this hypothesis of dark energy being a particle that our study seems to support.
+
+**The quest for detecting dark energy and dark matter**
+
+There is a vast experimental program devoted to searching for dark matter through its *non-gravitational* signatures: in other words, searching for its interactions with visible matter other than via gravity. One particular class of searches is *direct detection*, where one looks for signs of dark matter recoiling off visible matter. These usually employ large detectors placed underground in such a way as to reduce as much as possible the background coming from recoils caused by something which isn't dark matter.
+
+If confirmed, this could mean we have directly detected dark matter and possibly dark energy, a huge discovery that might usher a new era for physics beyond the current standard model of particle physics.
+
+One such direct detection experiment is XENON1T, operating deep below Gran Sasso in the Apenine mountains of Italy, which uses liquid xenon, a chemical element, as a target to search for the signatures of dark matter recoils. In June 2020, the collaboration reported 53 excess events over the 232 expected events due to the background. If confirmed, this could mean we have directly detected dark matter and possibly dark energy, a huge discovery that might usher a new era for physics beyond the current standard model of particle physics.
+
+Going back to dark energy, the vast majority of attempts to detect it have focused on its gravitational effects. Can we learn more about dark energy by trying to search for its non-gravitational signatures, if any? This leads to an immediate obstacle. If dark energy is due to a new particle which interacts with visible matter, this needs to be extremely light in order to be responsible for the acceleration of the Universe. This implies that dark energy, in the form of a particle, would mediate a potential fifth force only over extremely long ranges. We know that, at least on local scales, Einstein's theory of gravity works remarkably well, and there is absolutely no sign of a fifth force there. So any fifth force due to dark energy must be hidden or suppressed on local scales, and only detectable at extremely large scales.
+
+That's where screening mechanisms come in. These are classes of mechanisms which can dynamically weaken the strength of dark energy’s fifth force under certain conditions. One well-known example is the so-called “chameleon mechanism”, which works in such a way that dark energy’s fifth force can naturally hide in dense environments such as the local Universe, just as a chameleon adapts itself to hide in its surroundings. So the question is whether we can search for non-gravitational signatures of screened - hidden - dark energy, in existing laboratories devoted to searching for dark matter instead.
+
+The answer is yes, as shown in a recent study led by scientists at the University of Cambridge, including myself, and Luca Visinelli at Frascati National Laboratories, alongside their colleagues Philippe Brax, Anne-Christine Davis, and Jeremy Sakstein. The team showed that it is possible to produce these chameleon dark energy particles in the Sun, in a region of strong magnetic fields. These particles can then travel to Earth and interact with visible matter in underground laboratories which would normally be devoted to the direct detection of dark matter.
+
+Intriguingly, these recoils would be just in the right energy range where the Italy-based experiment observed their excess, and the study showed that these results could in principle be explained by this type of chameleon-screened dark energy. In other words, as the result of a new particle which is extremely light on cosmological scales and drives the expansion of the universe, but becomes heavy on local scales so as to hide its fifth force.
+
+As always in science, this is a hypothesis which requires further confirmation, particularly since extraordinary claims call for extraordinary evidence. Further confirmation should come from two sides. Firstly, we need to confirm that the measurements of Italy’s experiment were genuine, and not the result of a fluke. For this, fortunately, we probably won't need to wait long. Several other similar experiments are in line to collect results which will either confirm or disprove the observations. If the original signal was genuine and really due to dark energy, then one would expect to see a similar signal again, but at a much higher strength. Next, one would also expect complementary signatures in non-terrestrial observations, such as cosmology. Observing cross-matched terrestrial and cosmological signatures could be a strong indication that, perhaps, the Italy-based XENON1T experiment really did achieve the first direct detection of dark energy.
+
+**The significance of detecting dark energy**
+
+What could all of this imply for how we understand dark energy, and more generally the fate of the universe? Firstly, if one looks beyond the specifics of this experiment, what this study is really telling us is that there are (quoting Shakespeare) more ways in heaven and (especially) Earth to search for dark energy, than are dreamt of by scientists. Several experiments meant to search for dark matter can be re-purposed to search for dark energy, at zero extra cost: the classic killing two birds with one stone, only these aren't just any two birds, but 95% of what the Universe is made of! Managing to convincingly directly detect dark energy could be particularly important in terms of narrowing down the possible fate of our Universe, which crucially depends on what dark energy is and how it behaves.
+
+If confirmed, the possibility that we have directly detected dark energy could be the first clear indication of a breakdown of General Relativity on the largest observable scales. Such a breakdown may be the cause for cosmic acceleration. This possibility would have far-reaching implications for physics as a whole.
+
+Moreover, models with chameleon screening naturally appear in the context of theories of modified gravity. If confirmed, the possibility that we have directly detected dark energy could be the first clear indication of a breakdown of General Relativity on the largest observable scales. Such a breakdown may be the cause for cosmic acceleration.This possibility would have far-reaching implications for physics as a whole.
+
+Optimistically, we might convincingly directly detect dark energy within the next decade. However, even if XENON1T's signal ends up being disproved, or the underlying dark energy model ruled out by other means (which happens not infrequently to theorists' models), the importance of this new study still lies in its proposing new, off-the beaten track ways to search for dark energy, and its potential to stimulate novel ideas in the quest towards understanding what dark energy is. That might well end up being the study’s most important legacy.

@@ -1,0 +1,91 @@
+---
+title: "The delusion behind upgrading humanity or ending it"
+subtitle: "The techno-optimists who want to delete humanity"
+author: "Michael Hauskeller"
+date: "13th June 2025"
+article_id: "3195"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,890 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-techno-optimists-who-want-to-delete-humanity.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-delusion-behind-upgrading-humanity-or-ending-it-auid-3195"
+---
+
+# The delusion behind upgrading humanity or ending it
+
+*The techno-optimists who want to delete humanity*
+
+**By Michael Hauskeller** | *13th June 2025* | *Read time: approx. 9 mins* | *1,890 words*
+
+![The delusion behind upgrading humanity or ending it](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/The-techno-optimists-who-want-to-delete-humanity.webp)
+
+---
+
+*Some believe we can and should extend life indefinitely through technology. Others that this is a hopeless enterprise, and human suffering means we should not have children. Both are based on a delusion, argues Michael Hauskeller. Suffering and setbacks are parts of life of which we want a healthy dose, not the complete elimination. Both ideologies have reached such pessimistic conclusions about human nature not because they are hard-headed realists, Hauskeller argues, but because they don’t understand it.*
+
+Transhumanism and antinatalism are two separate contemporary movements with seemingly very different agendas. Transhumanists want to radically enhance human nature to improve human lives, while antinatalists want people to stop reproducing and having babies. However, they both share the same basic conviction that life as it is now is not good enough to be truly worth living. While the cure they propose might differ, the diagnosis and underlying worldview are strikingly similar: Both respond in their own way to what they see as the horrors of our current existence. But are they right to see it that way, and should we follow their lead?
+
+**The horrors of existence**
+
+It can hardly be denied that horrible things happen in the world all the time. Humanity is plagued by terrible diseases, by famine and droughts, by floods, earthquakes, and tsunamis, and, if that were not enough, we are not shy about making our own fair contribution by inflicting various harms and [a generous amount of suffering](http://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801) on one another. Even though for many of us life is pretty good much of the time, for many more life is very bad indeed. Think of the war in Ukraine or what is happening in Gaza right now, which is just the tip of the iceberg of an immense amount of suffering that is caused by us. There is mass migration, people trying to escape from hunger, war, oppression, and terrible living conditions, while others, instead of trying to help them, do everything they can to keep them out.
+
+\_\_\_
+
+Transhumanists want to make the limits disappear that prevent us from getting everything we want and need. They would like to change the world by changing what we are.
+
+\_\_\_
+
+But the misery is not just happening elsewhere. I read in the news this morning that one in three children in the North of England lives in poverty. One in three. But even for those of us who are fortunate enough to live in relative comfort and security, life is at best a mixed bag. We suffer from illness and loss, from fear and anxiety, from powerlessness and the inevitability of death. And let’s not forget all the many small annoyances and disappointments, thwarted ambitions and petty jealousies that also play their part in making us feel bad about ourselves and our lives. As Leonard Cohen once said in one of his songs: “There’s torture and there’s killing, there’s all my bad reviews.”
+
+**The current approach: Alleviation**
+
+Yet how do we deal with all those evils in our life? Not individually, on a day-to-day basis, but as a society with a view to the future? So far, we have mostly focused on *alleviating* our troubles. We have tried to make things incrementally better by finding cures for the worst diseases, enabling people to stay healthy for longer, protecting ourselves against natural disasters, offering various kinds of support, and making efforts to find peaceful solutions to conflict. We have also tried to develop and safeguard juster distribution systems, and fight racism, sexism, and other prejudices and biases through compulsory online learning modules and the restructuring of university curricula around EDI concerns. We have done all this to get a grip on things and make life less troublesome for people.
+
+[![related-video-image](https://iai.tv/assets/Uploads/morality-and-prejudice.webp)
+
+SUGGESTED VIEWING
+Morality and prejudice
+With Tommy J. Curry, Michael Huemer, Melis Erdur, Barry C. Smith](https://iai.tv/video/morality-and-prejudice)
+
+But how is that working out? Not too well. Some deadly diseases have been more or less eradicated, but they have been replaced by others that are just as deadly. Six years ago, many of us wouldn’t have believed that a life-threatening virus might quickly spread across the globe, directly affecting everyone’s life. A year later the world was shutting down because of Covid, and the next pandemic might be just around the corner. Politically and ethically, we haven’t made much progress either. 33 years ago, [Francis Fukuyama](http://iai.tv/video/francis-fukuyama-on-why-he-was-surprised-by-trumps-foreign-policy) declared that history had reached its end with the final victory of liberal democracy. And where are we now? Back to a totalitarian future spearheaded by dim-witted racists and misogynists who are tapping into a rich reservoir of discontent to tear things apart, with the blessing of the people.
+
+\_\_\_
+
+Meanwhile, antinatalists agree with transhumanists that the world is a horrible place, but they don’t think that it will ever not be, no matter what we do and how much we may change.
+
+\_\_\_
+
+Perhaps, then, it is time for a more radical solution. Perhaps instead of trying in vain to, bit by bit, create stable structures that allow people to thrive and gain some limited protection from the horrors of existence, we should either use our scientific and technological know-how to reinvent humans completely and make ourselves less dependent on our environment, or, alternatively, turn our back on it and end human existence once and for all. [Transhumanists](http://iai.tv/video/forging-the-transhumanist-future) prefer the first solution, [antinatalists](https://iep.utm.edu/anti-natalism/) the second.
+
+**Transhumanism**
+
+Transhumanists want to make the limits disappear that prevent us from getting everything we want and need. They would like to change the world by changing what we are. This is because life is intolerable largely due to the way we are constructed. Life could be a lot better, they argue, if *we* were better than we currently are. What we therefore need to save the world is a comprehensive transformation of our nature as the kind of beings that we are. Transhumanists advocate human self-design, the elimination of all suffering, an expansion of human autonomy, radical life extension, virtual immortality, and the complete defeat of human nature. This is not just an option we have. It is a historical and moral mission. Since life is bad—for all of us, because we are all human—it is our being human itself that is the problem.
+
+\_\_\_
+
+Both transhumanism and antinatalism advocate a version of what C.S. Lewis, more than eighty years ago, called the “abolition of man.” Together they present us with a stark choice: either we cease being human or we cease being altogether.
+
+\_\_\_
+
+[Human enhancement](https://plato.stanford.edu/entries/enhancement/), then, is necessary to make life good and truly worth living. Enhancement does not go beyond therapy. Rather, enhancement *is* therapy: an urgently needed cure for the disease that is being human. And if that requires becoming less human, or more than human, or at any rate other than human, so be it. As the transhumanist Max More put it: “We will not limit our physical, intellectual, or emotional capacities by remaining purely biological organisms. While we pursue mastery of our own biochemistry, we will increasingly integrate our advancing technologies into our selves.”
+
+**Antinatalism**
+
+Meanwhile, antinatalists agree with transhumanists that the world is a horrible place, but they don’t think that it will ever *not* be, no matter what we do and how much we may change. We should stop bringing new people into the world because life is bad and will continue to be bad due to the fact that, however much we may improve, we will still fall woefully short of perfection. Thus, the most prominent defender of antinatalism, David Benatar, bemoans the fact that our knowledge and our lifespan will always be limited, no matter how much we know or how long we live. Because any knowledge falls short of omniscience, and any lifespan falls short of eternity, whatever we achieve, it will never be good enough:“The sad truth, however, is that, on the spectrum from no knowledge and no understanding to omniscience, even the cleverest, best educated humans are much closer to the unfortunate end of the spectrum. There are billions more things we do not know or understand than we do know and understand. If knowledge really is a good thing and we have so little of it, our lives are not going very well in this regard.” The same reasoning applies to human longevity: “Even the longest human lives are fleeting. If we think that longevity is a good thing then a life of a thousand years (in full vigor) would be much better than a life of eighty or ninety years (especially where the last few decades are years of decline and decrepitude). Ninety is much closer to one than it is to a thousand. It is even more distant from two or three or more thousand. If, all things being equal, longer lives are better than shorter ones, human lives do not fare well at all.”
+
+\_\_\_
+
+We only despair because we want to live and want to enjoy life the way we know it can be enjoyed.
+
+\_\_\_
+
+**The abolition of man**
+
+Both transhumanism and antinatalism advocate a version of what C.S. Lewis, more than eighty years ago, called the “abolition of man.” Together they present us with a stark choice: either we cease being human or we cease being altogether. There is no other option if we want to escape from the horrors of existence. But by framing our available choices in such a defeatist way, transhumanists and antinatalists distort the nature of the obstacles we face when we wish to make life worth living both for ourselves and others. They also misunderstand what most people really want. We may, on occasion, despair of life and wish we had never existed, but this is not generally the case. We only despair because we want to live and want to enjoy life the way we know it *can* be enjoyed. We don’t normally aspire to know everything or to live forever, and what is more, we don’t need to for a good life. We largely accept the limits of our power, and the limits of our nature—and rightly so, because those limits make us who we are.
+
+It is true that we want to live a good life, and if we have a social consciousness, we want other people to live a good life too. But our idea of a good life is very much determined by the kind of life that is currently possible for us to have. It is a good life for beings such as us. We also accept that [no life is without suffering](http://iai.tv/articles/paul-bloom-the-pleasure-of-suffering-auid-2208); we just want less of it. We accept that we have to die eventually, but we want to live, if possible, a full natural lifespan, and do so while being healthy enough to do the things we want to do. And when we die, we want to do so peacefully and not alone. We want to have a measure of control over our lives, but we don’t normally want to control everything. We want some power, but we don’t want total power. Nor do we need it.
+
+Our limitations are not the problem. Within those limitations, and despite those limitations, most of us find our life, by and large and all things considered, worth living. That is why we shouldn’t give up on humanity just yet. The goal of providing everyone with what they need to live a good life is no doubt hard to achieve, but it is within our human reach. Life can be pretty horrible, but it doesn’t have to be. Perhaps we just need to try a little harder to make it work.

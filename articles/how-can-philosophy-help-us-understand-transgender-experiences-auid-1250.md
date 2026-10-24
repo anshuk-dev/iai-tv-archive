@@ -1,0 +1,61 @@
+---
+title: "How Can Philosophy Help Us Understand Transgender Experiences?"
+subtitle: "We ask thinkers to explore sex, gender and sexuality"
+author: "IAI Editorial"
+date: "26th July 2019"
+article_id: "1250"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "902 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/can-philosophy-help-us-understand-the-transgender-experiences.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-can-philosophy-help-us-understand-transgender-experiences-auid-1250"
+---
+
+# How Can Philosophy Help Us Understand Transgender Experiences?
+
+*We ask thinkers to explore sex, gender and sexuality*
+
+**By IAI Editorial** | *26th July 2019* | *Read time: approx. 5 mins* | *902 words*
+
+![How Can Philosophy Help Us Understand Transgender Experiences?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/can-philosophy-help-us-understand-the-transgender-experiences.webp)
+
+---
+
+**Earlier this year we put the question "How can philosophy help us understand transgender experiences?" to a range of thinkers. You can find some of the answers we have received below. We will be seeking to add to this collection of initial responses in the near future and hope that it will provide a thought provoking set of answers to the complex [and important] question we posed.****When theorising about transgender experiences, questions of subjectivity and objectivity, of power, ideology, and authority, frequently get raised. Perhaps the greatest disputes have surrounded the relation between transgender identity and the legal consequences of feeling like one belongs to a different gender than assigned at birth. Just how much the tools of philosophy and theory can help express diverse experiences of being alive is what we've asked a range of thinkers who have written on the subject.**
+
+*A previous version of this article included a different introductory paragraph, as well as answers from Robin Dembroff, Rebecca Kukla and Susan Stryker. They have since retracted their contributions. You can find a public statement explaining the reasons for their retraction [here](https://iai.tv/articles/retraction-statement-by-robin-dembroff-rebecca-kukla-and-susan-stryker-auid-1256). A response to this retraction from Holly Lawford-Smith can be found [here](https://iai.tv/articles/gender-identity-vs-gender-norms-auid-1258). We are in the process of seeking out contributions from a broad range of perspectives.*
+
+\_\_\_
+
+Kathleen Stock
+
+\_\_\_
+
+*Kathleen Stock, Professor of Philosophy, University of Sussex.  She has published on aesthetics, fiction, imagination, and sexual objectification.*
+
+Philosophy can ask: what is a transgender identity? More generally, it can ask what “identity”is, and interrogate the central role that the notion now plays in contemporary politics. On one interpretation, one’s identity is wholly subjective: it’s whatever you believe you are, right now, where your beliefs guarantee success – if you now believe that you are such-and-such, then being such-and-such is your identity, and there’s no way you can be wrong about that. Sometimes we hear that identities include, not just being trans or not, but also having a sexual orientation: being gay, or heterosexual, or bisexual. But if, for instance, “subjectively believing you are heterosexual” is equivalent to “actually being heterosexual”, then this presumably means you are automatically heterosexual as long as you feel that term applies to you. And this looks wrong. Aren’t there independent, non-subjective conditions to be fulfilled, to count as *being a* *heterosexual*? You have to be genuinely attracted to the opposite sex, for one. Lots of people believe they’re straight but aren’t. Self-deception is possible. So possession of a heterosexual identity, in an interesting sense, seems to require more than just subjective belief. If that’s right, then we should think harder about making a transgender identity *only* a matter of what one subjectively feels is true about oneself right now.
+
+\_\_\_
+
+Julie Bindel
+
+\_\_\_
+
+*Julie Bindel is a British writer, radical feminist, and co-founder of the law-reform group Justice for Women, which since 1991 has helped women who have been prosecuted for killing violent male partners.*
+
+Philosophy can change the way we understand both the social imposition of gender identity, because gender is nothing more and nothing less than a social construction based on sex stereotypes. By thinking philosophically about what it means to be a woman, or a man, we can differentiate between biological sex, and the rules imposed upon women and girls, in order to render us socially, sexually, socially and politically insubordinate to men.
+
+Being a woman is not an abstract, philosophical concept though. Under patriarchy, our position is rooted in material reality. But women are not subordinated by our biology, but rather by the meaning imposed on our biology under patriarchy. It is patriarchy that decided women are defined by our biology, and not women ourselves. Part of our oppression is being denied reproductive rights. Any female is required to live under male dominance and adhere to gender rules of femininity - in other words - subordination. If being a woman in this society was merely a philosophical idea, we could rid the world of male dominance quickly and easily.
+
+\_\_\_
+
+Holly Lawford-Smith
+
+\_\_\_
+
+*Holly Lawford-Smith is a political philosopher at the University of Melbourne, interested in radical and gender critical feminism, and their perspective on questions about sex, gender, and gender identity; and the ethical and political questions arising from proposed legal changes to trans people’s and women’s rights.*
+
+One thing philosophers are good at is digging down into the details of a claim, working out whether it’s coherent and consistent, and clarifying what’s really being said so that people who are arguing about it can avoid talking past each other. One claim being advanced by a small segment of the population at present is that everyone has a *gender identity*. This claim does several things. First, it displaces alternative understandings of gender, e.g. gender as *harmful stereotypes,* shifting focus from how someone is treated by others in the world to how a person feels about themself. Second, it imposes a form of self-understanding on a large number of people. People who do not experience dissonance in living as men or women are told they are ‘cisgender’, that they identify with their manhood or womanhood. This claim is unfalsifiable: there’s no way to tell the difference between a person who has a gender identity that isn’t dissonant for them, and a person who doesn’t have a gender identity. Many feminists inspired by the second-wave insist that they are in the latter category. Philosophers can help us understand what a gender identity might be, and whether it’s a fitting characteristic to replace sex in law.

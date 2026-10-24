@@ -1,0 +1,67 @@
+---
+title: "The Ecstasy of the Hyperreal in the Age of Trump"
+subtitle: "A Baudrillardian view on the war for attention."
+author: "Douglas Kellner"
+date: "Issue 67, 26th June 2018"
+article_id: "1102"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,382 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/stephen-mayes-560286-unsplash-trump-hyperreal.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/were-all-schizophrenic-and-ecstatic-in-the-age-of-trump-auid-1102"
+---
+
+# The Ecstasy of the Hyperreal in the Age of Trump
+
+*A Baudrillardian view on the war for attention.*
+
+**By Douglas Kellner** | *Issue 67, 26th June 2018* | *Read time: approx. 7 mins* | *1,382 words*
+
+![The Ecstasy of the Hyperreal in the Age of Trump](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/stephen-mayes-560286-unsplash-trump-hyperreal.webp)
+
+---
+
+In French theorist Jean Baudrillard’s postmodern world, individuals flee from the ‘desert of the real’ for the ecstasies of hyperreality and the new realm of computer, media, and technological experience. In this universe, subjectivities are fragmented and lost, and a new terrain of experience appears, which for Baudrillard renders previous social theories and politics obsolete and irrelevant. Tracing the vicissitudes of the subject in contemporary society, Baudrillard claims that contemporary subjects are no longer afflicted with modern pathologies like hysteria or paranoia, but exist in “a state of terror which is characteristic of the schizophrenic, an over-proximity of all things, a foul promiscuity of all things which beleaguer and penetrate him, meeting with no resistance, and no halo, no aura, not even the aura of his own body protects him. In spite of himself the schizophrenic is open to everything and lives in the most extreme confusion”. For Baudrillard, the “ecstasy of communication” means that the subject is in close proximity to instantaneous images and information, in an overexposed and transparent world. The subject “becomes a pure screen, a pure absorption and resorption surface of the influence networks”.
+
+Baudrillard's 1983 book *Fatal Strategies* presents a bizarre metaphysical scenario concerning the triumph of objects over subjects within the ‘obscene’ proliferation of an object world so completely out of control that it surpasses all attempts to understand, conceptualise, and control it. His scenario concerns the proliferation and growing supremacy of objects over subjects and the eventual triumph of the object. In a discussion of ‘ecstasy and inertia’, Baudrillard argues that objects and events in contemporary society are continually surpassing themselves, growing and expanding in power. The ‘ecstasy’ of objects is their expansion to the *N*th degree, to the superlative; ecstasy as going outside of or beyond oneself; the beautiful as more beautiful than beautiful in fashion, the real more real than the real in television, sex more sexual than sex in pornography. Ecstasy is thus the form of obscenity (fully explicit, hiding nothing) and of the hyperreality described by Baudrillard earlier taken to a higher level, redoubled and intensified. His vision of contemporary society exhibits a careening of growth and excrescence (*croissance et excroissance*), expanding and excreting ever more goods, services, information, messages, or demands – surpassing all rational ends and boundaries in a spiral of uncontrolled growth and replication.
+
+Baudrillard's world is fully realised in Donald Trump’s America where the President reveals his every thought, aggression, and inanity in his daily Twitter feeds and ecstatic media performances where he lets it all hang out, revealing his hatreds, insecurities, and mendacities, often abstracted from the consensual reality of the mainstream media which has documented thousands of flat-out lies, absurdities, outrages, and outrageousness. The *Access Hollywood* tape, spun over and over in the ecstasy of the media, obscenely presented The Real Donald Trump, a vulgar sexual predator whose Star creds allowed him to do what he wanted with women, “grab ‘em by the pussy.”
+
+\_\_\_
+
+"We ****exist in 'a state of terror which is characteristic of the schizophrenic, an over-proximity of all things'****"
+
+\_\_\_
+
+This tape, itself an exhibit of the ecstasy of communication in the hypermedia age, was dominating the news cycle before the 2016 election when WikiLeaks dumped its hacking of the Democratic National Committee (DNC) and Hillary Clinton’s campaign manager John Podesta’s leaked emails. The omnipresent hypermedia went into surrealistic overdrive. Hence, the damning footage of Trump was quickly lost in the next hyperreal flow of the mediascape and, despite scores of women revealing explicit details of Trump’s crude forms of sexual predatory behavior, his lurch into the Presidency was not derailed.
+
+Yet women launched a full assault on the Patriarchy the day after Trump’s inauguration at the Women’s March in Washington, one of the largest demonstrations in history. Soon, revelations of other patriarchs’ sexual harassment and assault came out on an epic scale, from Harvey Weinstein, the King of Hollywood, to lesser lights in film, television and politics. Soon obscene details of sexual vulgarity, crudity, and assault circulated throughout the media world and, like a sliced salami, the Patriarchy started going down in a paroxysm of cuts and sound-bytes.
+
+Baudrillard’s ecstasy of communication reveled in minute details of offenders running amok, forced to resign or hide one-by-one. The #MeToo movement hashtagged its way into and through the mediascape. Porn star Stormy Daniels and her tenacious lawyer Michael Avinatti continue to reveal obscenities about Trump and his entourage. The raiding of the office of Trump’s lawyer Michael Cohen in April of 2018, followed by revelations of the millions of dollars that flowed into Cohen’s account to gain access to Trump by major corporations, some with Russian oligarch connections, and to pay off women who had suffered the agonies of Trump and his cronies’ predations, has continued to mushroom through the daily media cycles, as the Patriarchy is losing its luster and the Phallocracy continues under assault.
+
+We have arguably been living in Baudrillard’s ecstasy of communication, open to everything and living in the most extreme confusion, since the heyday of Baudrillard’s popularity in the 1980s. But with the explosion of the new media and social networking, revelations of the most intimate details of life – of celebrities, politicians, and ordinary people - have intensified. At the same time, advanced high tech societies have polarized and fragmented into a veritable media circus of pro and anti-Trump sites, supporters of #MeToo vs anti-feminist voices. Meanwhile, racist, Islamophobic, alt-right and other fringe groups have come into mainstream cyber and media culture.
+
+\_\_\_
+
+"****The subject 'becomes a pure screen, a pure absorption and resorption surface of the influence networks.'****"
+
+\_\_\_
+
+Tendencies described by Baudrillard have accelerated since his death in 2007. Trump’s omnipresent media persona, his followers and critics have intensified the media noise, perverse explosions of aggression and hatred on Twitter. The ‘obscene’ exposure of celebrities and politicians by themselves or their critics abounds, and blends with the social network promotion by individuals who revel in sharing the most intimate or shocking aspects of their personal lives.
+
+Some believe that Trump’s use of social media is a distraction from the real story: a right-wing, Republican-led attack on the basic institutions of US democracy. But the situation is worse. The Trump attack on truth, alternative facts and fake news – defined by him and his minions as anything critical of himself — is eroding the heart of democratic discourse, civility, and the norms of democratic life.
+
+The attack on media, truth, and critical discourse by the Trump administration erode the distinctions between the real and the hyperreal described by Baudrillard. Those who live in a Trumpian world, circumscribed by Trump’s twitter feed, Fox News, and supported by alt-right and conservative websites and social media, live in a Hyperreal Trumpscape impervious to rational argument, critique, or alternative facts. In this neo-Orwellian world, Trump is Big Father, and his propaganda apparatus is an often-conflicted and changing personnel who define war and peace, facts and fake news, and attempt to drown competing discourses in Trumpspeak, creating a new hyperreal political scene.
+
+\_\_\_
+
+"****Never before has there been as intense a battle for the truth, the real, the norms of democratic culture, and other beacons of the Good Life, that have long been eroding and under assault**.**"
+
+\_\_\_
+
+Of course, there is a vigorous anti-Trump Resistance, honorable media attempting to separate the true from the false, or at least provide more factual accounts of what is actually taking place and where it is leading us. And there are groups fiercely undertaking their own struggles like #MeToo, the Dreamers, the environmentalists, and an array of progressivist groups, as well as individuals attempting to navigate through the contentious cacophony of conflicting voices. Never before has there been as intense a battle for the truth, the real, the norms of democratic culture, and other beacons of the Good Life, that have long been eroding and under assault.
+
+It is, of course, impossible to predict where this will lead, but never before has the ecstasy of communication unveiled so many revelations of so much piggery, and never has the obscenity of the Patriarchy revealed so many agonies and ecstasies. Never has there been such contestation of the President and the Patriarchs in so many realms and with such intensity, and it appears, as with so many times before, that those who live by media sooner or later go down and disappear in the media.

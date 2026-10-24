@@ -1,0 +1,63 @@
+---
+title: "Iran’s internal conflicts made war inevitable"
+subtitle: "The enigma of Iran unravelled"
+author: "Arshin Adib-Moghaddam"
+date: "6th August 2026"
+article_id: "3649"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,630 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/irans-internal-conflicts-made-war-inevitable.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/irans-internal-conflicts-made-war-inevitable-auid-3649"
+---
+
+# Iran’s internal conflicts made war inevitable
+
+*The enigma of Iran unravelled*
+
+**By Arshin Adib-Moghaddam** | *6th August 2026* | *Read time: approx. 8 mins* | *1,630 words*
+
+![Iran’s internal conflicts made war inevitable](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/irans-internal-conflicts-made-war-inevitable.webp)
+
+---
+
+*The war on Iran has dragged on far longer than the US administration originally promised, while regime change remains elusive. SOAS political theorist **Arshin Adib-Moghaddam** argues that to understand this war, we must look inside the Islamic Republic itself — at the factional struggles, the entrenched deep state, and the security-military establishment that has repeatedly answered its people's demands for reform with repression. From the student protests of 1999 to the Women, Life, Freedom movement, this internal machinery hollowed out the very legitimacy that might have shielded Iran from attack.*
+
+First things first: The Trump and Netanyahu administrations have failed miserably in their aggression against Iran. Their war will be recorded in history as one of the biggest strategic blunders in contemporary international relations. As a consequence, all of us are reeling from the economic effects. Innocent lives are lost on a daily basis, and only very few Western politicians, first and foremost Pedro Sanchez of Spain, have spoken out against the Iran war. If we are to cite one reason for the strategic blunders, it must be the sheer arrogance of the Trump and Netanyahu administrations, mixed with an anti-scientific attitude that favours ideology over knowledge. Reading the critical scholarship on foreign countries, a pattern emerges: we have advocated humbly in the corridors of power for years, only to witness policy disaster after disaster due to institutionalized ignorance.
+
+Yet, there is another angle to this tragedy which explains why we are at war: The protection of the nation is the ultimate task of any state. Instead of maneuvering Iran safely through the anarchy of the world order by preventing internal upheaval, the Iranian state itself recurrently targeted its own people. Manufacturing consent through violence is not the same as true legitimacy. Bruised and battered, Iranians have been caught up in this violent cycle for reform at least since the revolution of 1979. The deep state in Iran—the hardliners embedded in the security and military organs and their right-wing theocratic allies—has never really resolved this struggle to the satisfaction of Iran’s incredibly potent civil society. Instead of actively accommodating the requests for human dignity, social emancipation and democratic accountability, the Iranian deep state has repeatedly resorted to violence and suppression. It has also adhered to an ideological differentiation between “good Iranians” and the “bad ones.” This claustrophobic [us-versus-them doctrine](https://iai.tv/articles/iran-is-the-enemy-the-west-created-auid-3149) has splintered Iranian society. Ultimately, crushing movements for reform has been self-defeating, as it eroded the power base of the Iranian state itself, making this illegal war more possible. Any state that is not carried by the overwhelming legitimacy of its people will confront recurrent domestic upheaval and external meddling.
+
+The hardliners nestled in the Iranian deep state now position themselves as the heroic defenders of Iran. But the truth is that they have been part of the legitimacy dilemma that made it possible for Israel and the United States to attack Iran in the name of regime change in the first place. If the deep state in the Islamic Republic had allowed for reforms a long time ago, this war would not have happened. “Regime change” can only legitimate an illegal war like this one when the target country suffers from a legitimacy dilemma in the first place. The inability of the Iranian deep state to reform decisively even after 47 years since the revolution is not simply indicative of “bad governance.” It is a major analytical factor explaining why Iranians can be killed by foreigners right now.
+
+\_\_\_
+
+The meaning of Iran is so vast that it can never be fully captured by one narrative, much less by ideological platitudes rooted in constant confrontation and an endemic, almost cosmic battle for “justice.”
+
+\_\_\_
+
+There were plenty of opportunities to create this broad-based legitimacy as a prophylaxis for external aggression by predatory states. The student demonstrations of 1999 during the reformist Khatami administration (1997-2005) are a case in point. The protests started as a response to the government’s closure of a reformist newspaper, Salaam. They quickly turned into a wave of student demonstrations, centred around Iran’s elite Tehran University. Instead of listening to this crucial sector of society, the deep state sent its vigilante forces and hardline thugs into the university dormitories to suppress the protests. The result was more upheavals and [more violence by the state](https://iai.tv/articles/what-the-left-gets-wrong-about-iran-auid-3480).
+
+A decade later in 2009, the Iranian deep state chose to further erode the legitimacy of the Islamic Republic by splintering society. The so-called Green Movement arose in response to the disputed presidential election of the hardline president Mahmoud Ahmadinejad against the reformist candidate Mir-Hossein Mousavi. Tens of thousands of Iranians demonstrated in every major city of the country. Under the auspices of the late Ayatollah Khamenei, the Iranian security forces crushed the reform movement both on the streets and as a viable political alternative at the ballot box.
+
+The Women, Life, Freedom movement in 2022, whose mantra was coined after a famous Iranian-Kurdish freedom slogan, was yet another missed opportunity to listen to the Iranian nation and to prevent the erosion of state legitimacy. Once again, the deep state in Iran responded with brutal violence. The (in)security forces killed and maimed in the name of a flawed loyalty to a cause, rather than a commitment to safeguard the security of all Iranians. Then, in 2025, this lack of legitimacy was so advanced that the peaceful demonstrations of Iranians for social emancipation and political reform could be hijacked by external agitators, turning the upheaval into yet another tragic bloodbath. This was the tipping point that shifted the dynamic to the current war. Once again, the Iranian state had failed to generate consent through dialogue.
+
+Today, the paradoxes are staggering. President Pezeshkian’s reformist administration has had its ability to implement structural reforms eclipsed by the deep state. Figures such as parliamentary speaker Mohammad Bagher Ghalibaf — who has never been elected to any office by the people, despite running for the presidency on several occasions — are elevated into privileged positions not by the choice of the people, but by the preferences of the system — and by the opportunities this war affords to men with military biographies like his. Rather than relying on public approval, Ghalibaf has maintained his political relevance by embedding himself within the authoritarian state apparatus, leveraging his background as a former Islamic Revolutionary Guard Corps commander to spearhead critical foreign policy engagements. In this way, Ghalibaf exemplifies the conflict between a discourse of defiance and a calculating state pragmatism. While Ghalibaf employs the language of positive diplomacy to navigate international sanctions, his underlying allegiance to the military-theocratic complex at the heart of the deep state ensures that his diplomatic outreach remains fundamentally coercive, prioritizing elite regime survival and strategic deterrence over genuine democratic accountability or systemic internal reform. Ironically, this tragic war has handed such figures new cohesion in the name of national security, relegating structural reform to a luxury Iranians can no longer afford under foreign aggression.
+
+Certainly, President Pezeshkian's reformist efforts are not a naive illusion of absolute change, but a reflection of the Iranian state's mosaic architecture, in which a pragmatic executive navigates structural constraints through strategic restraint and careful geopolitical manoeuvring. Hardening in the face of conflict and factional changes dissolve the simplistic reform-versus-hardliner binary into a continuous struggle for power and survival, which ultimately resolves not through a clean victory of one faction, but via the continuous, institutionalized adaptation of a resilient system balancing popular pressures with sovereign permanence.
+
+Yes, the military-industrial complex of any state benefits from war. Iran is no exception to that rule.  Yes, Donald Trump and Benjamin Netanyahu have [launched an illegal war](https://iai.tv/video/glenn-greenwald-trumps-iran-attacks-are-business-as-usual-for-washington), and the conduct is brutal and deplorable. Yes, the war will not bring about so-called “regime change.” Yes, the time of [US-engineered coups d’état](https://iai.tv/articles/the-real-reason-the-us-attacked-iran-auid-3549) where someone like Reza Pahlavi, the son of the last shah of Iran, could be installed is over.  His followers should also remember that Iran's dynastic history is far deeper and more scattered than the short-lived Pahlavi experiment; sovereignty in Iran has never belonged to a single family, and its monarchic traditions stretch back to antiquity.
+
+[![the real reason the US attacked Iran VERSION 2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/the-real-reason-the-US-attacked-Iran-VERSION-2.webp)
+
+SUGGESTED READING
+The real reason the US attacked Iran
+By Nader Hashemi](https://iai.tv/articles/the-real-reason-the-us-attacked-iran-auid-3549)
+
+And yes, on occasions the Iranian state did yield to the demands of Iranian civil society as the pluralistic momentum conceptualised above repeatedly provoked changes. But in decisive moments, the Islamic Republic eroded its legitimacy by relying on one ideological definition of Iran that many, if not most Iranians simply can’t identify with. The meaning of Iran is so vast that it can never be fully captured by one narrative, much less by ideological platitudes rooted in constant confrontation and an endemic, almost cosmic battle for “justice.”
+
+In the end, national security by definition starts with the nation. Because of their unwillingness to listen to the demands of Iranians, the hardliners in Iran managed to maximize rather than minimize the distance between the Islamic Republic and the Iranian people. The vile, active support of some Iranians cheering the bombing of their country is not lost to anyone. But it is a perverse manifestation of that failure to organize the Iranian nation, including the Iranian diaspora, behind the state.
+
+In Greek myth, written with close reference to the grandiosity of the Persian kings, *hubris*, the extreme blinding pride where a person believes they are above human limits, common laws, or accountability, is always followed by *nemesis*, some sort of divine retribution or a sharp, inevitable fall that cuts the arrogant down to size. As scholars and intellectuals, we know that the more we know, the more we realize we don’t know. This quest for more knowledge is what compels us to grow and to appreciate nuance. The ruling political classes in Iran and the Western world would be well advised to listen to the demands of the people, lest their hubris deliver yet another tragedy, in Iran and elsewhere in our world.

@@ -1,0 +1,103 @@
+---
+title: "Slavoj Žižek reveals his one rule for life"
+subtitle: "Quantum physics, happiness, and feminism"
+author: "Slavoj Žižek"
+date: "18th May 2026"
+article_id: "3577"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,959 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/slavoj-zizek-reveals-his-one-rule-for-life.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/slavoj-zizek-reveals-his-one-rule-for-life-auid-3577"
+---
+
+# Slavoj Žižek reveals his one rule for life
+
+*Quantum physics, happiness, and feminism*
+
+**By Slavoj Žižek** | *18th May 2026* | *Read time: approx. 10 mins* | *1,959 words*
+
+![Slavoj Žižek reveals his one rule for life](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/slavoj-zizek-reveals-his-one-rule-for-life.webp)
+
+---
+
+*In this interview, one of the world's most famous living philosophers, **Slavoj Žižek**, argues that philosophy should move away from abstract ideas and focus on what effects ideas have in practice. He also discusses his issues with cancel culture and the #MeToo movement, explains how quantum physics teaches us that history is not predetermined, and reveals [his one rule for life](https://iai.tv/video/slavoj-zizek-on-the-madness-of-reality).*
+
+*See Slavoj Žižek debate [The Mystery of the Self and Body](https://howthelightgetsin.org/festivals/hay/big-ideas-2/debates-2/debates) at our [HowTheLightGetsIn Festival](https://howthelightgetsin.org/festivals/hay) this coming May 22nd-25th, alongside hundreds of other debates, talks, with comedy and music. Find out more [here](https://howthelightgetsin.org/festivals/hay).*
+
+**In an age where science and psychology have such a prominent position in society, how should we think about the role of philosophy today?**
+
+I always repeat, I don't think philosophy can provide big answers. As a philosopher, my point is not some divine Platonic ideas, but a very practical orientation. Okay, you are saying this—what does it mean in practice?
+
+This is especially the case with regard to feminism, here things may get me into trouble. I can say honestly, despite all my bad jokes, I’m totally pro-feminist. But I always suspect that with what we vaguely identify as “woke” or “cancel culture” and so on, there is something upper-middle-class in it. The secret targets are ordinary people. For example, in the United States, in a typical discourse at the university, of course their secret target is: “But, you know, Hispanics, how they treat women…”
+
+I always like to use this example. What I didn't like about [#MeToo](https://iai.tv/video/how-we-came-to-metoo)—and many women accept my argument joyfully—is this: for me, the tragedy is not if you are a rising movie star and the producer tells you “go to bed with me, otherwise you don't get the role.” Okay, it can hurt your career. But it isn't the true horror.
+
+Imagine you are a woman, you are in your early 30s. From a male chauvinist standpoint you are, I’m sorry to say this, losing your attraction (it’s not my personal opinion, I prefer older women, in the dirty sense). You have a husband who doesn’t hate you, but who more and more ignores you. And then, of course, it’s this silent agreement—you have to do a lot of jobs at home, and you don’t love him, and he doesn’t love you. But since he earns more money and you have two children, what hope is there for you? You cannot leave your children. This is the true horror for me. You know, this everyday consternation.
+
+\_\_\_
+
+We live in an open situation. It’s up to us. History is not pre-determined.
+
+\_\_\_
+
+That's why, although they were fascist and I don't like Peronists in Argentina, Evita Peron did one wonderful thing. In 1950, it was the first country in the world to do this, she introduced a law that when women have their period, if they are employed, they get two days free.
+
+You know, for me, [ideology](https://iai.tv/video/mearshimer-and-the-death-of-ideology) is not something abstract: “Are you she, they or what?” It’s these daily material practices where there is true subordination. And here we philosophers should enter, I think.
+
+And my mega example is, and this is where I, up to a point, agree with Yanis Varoufakis: these agencies, the new feudal agencies like Uber and so on, claim: “We don't exploit anyone. If you are an Uber driver, you own your means of production. We just bring together the two sides—people who want what you are offering, and you.” What's so ingenious here is the ideology that even an Uber driver is a small capitalist, we are all small capitalists. And here they misuse terribly the term “freedom.” You are free, you can stay off work when you want. So you are given false freedom. At the same time—I like this—you don’t perceive the company as your competitor, but other drivers! So it’s as if there is a struggle among workers themselves. This is the most ingenious invention of today’s capitalism. It's more brutal: uncertainty, exploitation, but in the form of freedom.
+
+**We've talked about the role of philosophy in politics, but I want to talk a little bit about the role of philosophy in science. You've recently taken part in panels with people like [Roger Penrose](https://iai.tv/video/quantum-and-the-unknowable-universe), Sean Carroll, and more recently, Carlo Rovelli. What have you learned from those debates?**
+
+Quite a lot. Up to a point. Many scientists, I don't criticize them for what they're doing, but for how often they adopt the worst vulgar philosophy.
+
+I try to remain a materialist, but I think that to really account for human subjectivity, you cannot do it within the framework of [this old notion of materialism](https://iai.tv/video/the-stuff-of-the-universe), which is a very primitive one—empty space and small balls of matter flying there. Here, I think quantum physics does it.
+
+And most importantly, I think that if you apply the basic model—I simplify to the utmost—of quantum mechanics, which is this idea of superposition of states and then collapse, contingent collapse, and attach with this with the notion of hologram, which means at every moment, after we have a collapse, other alternatives don't simply disappear, but they are retroactively constructed as part of a new narrative. This idea of changing the past, not magically—what happened happened—this is what we should apply today to history. With all my respect for Marx, where I’m critical of Marx, is that there is still very strongly present a kind of progressive evolution or teleology. You know—basically history is moving towards socialism, communism, whatever you say.
+
+[![related-video-image](https://iai.tv/assets/Uploads/quantum-and-the-unknowable-universe.webp)
+
+SUGGESTED VIEWING
+Quantum and the unknowable universe
+With Slavoj Žižek, Roger Penrose, Sabine Hossenfelder, Güneş Taylor](https://iai.tv/video/quantum-and-the-unknowable-universe)
+
+And it’s not even enough to take what Rosa Luxemburg said: the future will be socialism or barbarism. No, Stalin proves that it can be both at the same time! We are today precisely in a situation of superposition. It’s an open situation. Maybe a new barbarism will prevail where there will be islands of relative safety. So I think that we cannot rely on any higher historical necessity. We live in an open situation. It’s up to us. History is not pre-determined.
+
+**You're talking about the predetermination of history. In 1989, you said the ideology of progress is the greatest obstacle to truly progressing, and more recently, you wrote a series of essays called *Against Progress*. What’s the problem that you have with progress?**
+
+At a couple of levels: first, I think progress is not a global notion. I’m not saying these narratives are wrong. I’m saying that they are always constructed retroactively. When one orientation wins, it rewrites history.
+
+And since I’m still a shitty male chauvinist romantic, my favorite example here is love. It’s a little bit like love, you know. You walk on the street, you slip on a banana, a lady helps you. Oh! Maybe it’s the love of your life. And then, of course, you retroactively reconstruct it, everything was predestined, all my life I was waiting to meet you. Yes! You should say this once it happens. And that’s for me, also, the deepest aspect of Hegelian dialectics. It’s not that everything is necessary. It’s that in a complex situation, when one tendency wins, it *establishes* itself as necessary. Necessity is always a contingent category. What, in a certain situation, prevails as a necessity is contingent.
+
+[![Zizek quantum realism 5](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Zizek-quantum-realism-5.webp)
+
+SUGGESTED READING
+Slavoj Žižek on quantum history and the end of the past
+By Slavoj Žižek](https://iai.tv/articles/slavoj-zizek-on-quantum-history-and-the-end-of-the-past-auid-3437)
+
+Going back to your question about progress, we should be obsessed by this: always raise the question, who paid the price of the progress?
+
+This brings me back to artificial intelligence. It’s a mega great thing, I’m not saying it’s necessarily a catastrophe, but look at what is already happening.
+
+Do you know that all around the world they are measuring IQ and according to all data, until 2010, the average IQ was slightly going up. After 2010, we are getting more and more stupid. Why? Here is the danger that I see. You know the joke? Everybody knows it. What would ideal sex be today? It would be a lady, we have a date, we say yes, we will do it. But what happens? You come with your plastic electric dildo, I come with the plastic vagina. And what we do is we sit down, you put your dildo into my vagina, we reconnect them and they are buzzing. And we can say, wonderful, the machine is doing sex, we can now have a nice chat, drink tea.
+
+Isn’t this the same as what we’re doing today? It’s horrible what is happening in academia. You have all these free access journals, but you know how they function? Already some people suspect the majority of texts are written by ChatGPT. Then, many of these journals fake reviewers, they use ChatGPT to review the text. And then the so-called readers, quite a lot of them, use ChatGPT to read the review and give you a one-page summary or whatever. So only the machines are working—we are out.
+
+**And to move on to something slightly different. You are well known for using humor, as you have done in this interview. What is the role of humor in philosophy?**
+
+My humor is getting darker and darker! First, I will tell you that all philosophers are usually quite good at humor. I know some specialists who read all of [Martin Heidegger](https://iai.tv/articles/hegel-vs-heidegger-can-we-uncover-reality-auid-3001). He is the only guy who, not just in his books but in his letters, you do not find even one humorous remark. The only one that I found is after Heidegger met Jacques Lacan. And you know how he characterized Lacan? “This is a psychiatrist who himself obviously needs a psychiatrist!”
+
+We live in such a crazy world. So that we don’t go crazy, let’s use dark humor. Dark humor in the sense of crazy reversals, which is part of our reality today.
+
+**My final question: with the rise of the self-optimization and self-improvement industry, you yourself have written dozens of books, hundreds of articles and attend hundreds of events. Do you have a daily routine for productivity?**
+
+First I must tell you: I have one rule, it’s very traditional. I don't think you should posit happiness as your direct goal.
+
+There is a Norwegian theorist of action, [Jon Elster](https://polisci.columbia.edu/content/jon-elster)—he hates me, but he is intelligent. He developed a wonderful theory of states which are necessarily a byproduct. For example, if I want to act with dignity, it should be shown in how I act. If I say, “Don’t you see I have dignity?” it's ridiculous. And so I think happiness is something like that. If you strive directly for happiness, you ruin it.
+
+And I try to follow it. I am a total workaholic, so if you ask me (this is almost tragic, but it’s literally true): “Are there moments when I feel somewhere close to happiness?” Yes. When I finish a book which I think—I may be wrong—is good. Then I have to make a plan, some basic notes, on what the next book will be. And at that point I can say, for a week or two, let’s go off and do something totally crazy. With my son, we went to the Burj Al Arab hotel in Dubai, I was in Singapore in the most expensive hotel, just for a couple of days. This is as much as I tolerate.
+
+Unfortunately, that’s my big problem. I’m getting old and tired. And I am absolutely a Protestant—you know, we have a joke. My idea is that both in Catholicism and Protestantism, everything is permitted. You can rape, whatever you want. Just in Catholicism, you should confess it at the end of the week. In Protestantism, you should feel a little bit guilty! What I want to say is that I am absolutely Protestant in the sense that I literally cannot fall asleep if the day was lost and I didn’t do some work. By work for me, of course, I mean reading and writing. I need at minimum one hour and a half. If not, then in an atheist way, I think if God comes, what will I tell him? My existence is not justified.

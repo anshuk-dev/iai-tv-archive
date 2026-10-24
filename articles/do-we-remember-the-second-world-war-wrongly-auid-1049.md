@@ -1,0 +1,107 @@
+---
+title: "Laughing and Crying About the Second World War"
+subtitle: "Remembering the war in Russia, Germany and Britain should involve reflecting on the groups that are demonized today"
+author: "Catherine Brown"
+date: "Issue 64, 19th March 2018"
+article_id: "1049"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,110 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/immortal.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/do-we-remember-the-second-world-war-wrongly-auid-1049"
+---
+
+# Laughing and Crying About the Second World War
+
+*Remembering the war in Russia, Germany and Britain should involve reflecting on the groups that are demonized today*
+
+**By Catherine Brown** | *Issue 64, 19th March 2018* | *Read time: approx. 11 mins* | *2,110 words*
+
+![Laughing and Crying About the Second World War](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/immortal.webp)
+
+---
+
+My existence represents peace. I am born of a post-war Anglo-German union, my elder uncles having fought on both sides. My German grandfather served first in France and then in the East. After the war, perhaps by conscious or unconscious compensation, my uncle worked with the Russian-German refugees in his small Rhineland town. His learning of Russian later encouraged my own, and his godson, who lives in the closed city of Seversk which is attached to Tomsk, visits me regularly in London. How all so inconceivable in 1945.
+
+As I write, we are living through the last phase of live memories of killing, injuring, and being injured.
+
+**Britain**
+
+The Second World War is less commemorated in Britain than the First, not just despite but because of the fact that the First is less a source of celebration. The First World War’s large, prominent and ubiquitous public monuments both acknowledge the large loss of life and try to justify it, whilst the Second World War is often a stonemason’s addition covering fewer lives, and with less to justify. Certainly, the latter war is a repository of pride – but not such pride and joy that has produced a day, a ceremony, or a single major monument.
+
+**Second World War in East v West Germany**
+
+East Germans, defined by the Soviets as victims of Nazism, were allowed to mourn the catastrophe that the Second World War had been to them, even as they were required to mourn, memorialise and compensate their Soviet victims.
+
+In West Germany by contrast, *Vergangenheitsbewältigung* (coming to terms with the past) was conducted in such a way as to prohibit self-pity and inhibit mourning. Monuments to the fallen were few and awkward, as though unsure how and whether to express themselves in relation to the huge, acknowledged guilt. The memorial sites that were made out of former concentration camp sites from the 1960s onwards diverged according to the polities of their location; those in the West remembered, especially, Jewish victims and German guilt; those in the East emphasised Communist victims of many nations, and Fascist guilt.
+
+**Second World War in Russia**
+
+In Russia there was no overshadowing greater war, as in Britain, and no post-war occupations by foreign powers, as in both parts of Germany.
+
+Such guilt and grief as was felt with regard to the Soviet treatment of its own citizens in this period was substantially anaesthetized by the German invasion. It justified Stalin and Communism in the minds of the people that they were not, and that they resisted, *Gitler* and *fashizm*.
+
+The statistics speak loudly and pertinently: 0.4% of British, 9% of Germans, and 20% of Soviets, died in the course of the war. Little wonder, then, that it is Russia that has the commemoration day: Victory on 9th May. It alone calls the war the Great Fatherland War, echoing Britain’s Great War, and stressing the male (*otechestvo*) rather than the female (*rodina*) national personification, as though acknowledging that it was largely men who died. Russia alone has recently increased the level of its commemoration, since 2015 inflecting the celebrations of 9th May with mourning in the form of the Immortal Regiment marches of people carrying photos of relatives who died. Encouraged by the government at a time of increased national defensiveness – as perceived by the Russians following NATO’s Eastward expansion *[or Russian aggression – as perceived by Ukrainians and Westerners following Russia’s annexation of Crimea - ed. note]* in order to foster a sense of national unity and remembrance of the disastrous effects of invasion, the development also coincides with the last years in which survivors can participate. Such days of remembrance will themselves be days that people will remember.
+
+**How Germans and Russians remember each other**
+
+If such differences are understandable in relation to the countries’ varied experiences, less so are those between their attitudes to each other.
+
+German feelings are predictably mixed between guilt, and resentment at the manner of their Soviet occupation. But the ongoing English Germanophobia, emergent in the form of jejune mockery and abuse whenever the English and German teams play each other at football, is viewed with little comprehension in Germany or Russia. The contrast with Russia, indeed, is striking. It is as though the sheer scale of their losses prohibit hatred, because such hatred would make life unlivable. Soviet ideology also played a part, by defining the German people as the victims of an ideology and a Führer; on February 23rd 1942 Stalin said: ‘It would be ludicrous to identify Hitler’s clique with the German people, with the German state. The experience of history indicates that Hitlers come and go, but the German people and the German state remain’. Such thinking joins with centuries of close cultural and economic relations prior to the war, and decades of shared experience of Communism after it, in effacing the hatred that might otherwise be engendered by four genocidal years.
+
+Such a broad-brush overview should not efface the controversies that have flourished in each of these countries about the memory of the war. In Britain and Germany, historians’ debates have centred on the agency of Hitler and, more broadly, the exceptionalism or comparability of Nazi guilt.
+
+\_\_\_
+
+"The film Anonyma is generous in its sympathies for all – the raped German women, the wary, exhausted and traumatised Soviet soldiers bewildered at the wealth of the country that had chosen to invade their own, the idealistically Hitlerian youths."
+
+\_\_\_
+
+In Russia the debate has centred on Stalin. It is widely acknowledged that the War saved him, and possibly Soviet Communism, from revolution. It is fiercely debated to what extent Stalin was responsible for the Soviet victory, or imperilled it, and whether and how far any credit he bears for the victory may be weighed against his crimes against his own people. In Britain and Germany, too, Stalin has been a source of debate between left and right over his equivalence or otherwise to Hitler (journalist Peter Hitchens asked, in response to the 2017 film *The Death of Stalin*, ‘whether anyone would think the final days of Hitler, the other great European mass-killer, torturer and tyrant, would make a good comedy, with Goebbels, Himmler and the rest of the Nazi elite played for laughs’).
+
+During the 1990s in Russia, Stalin became the focus of patriotic nostalgia for some of those who were suffering most at the time, even whilst testimony to his crimes was encouraged by NGOs such as Memorial, and an increasingly-powerful Orthodox Church. He is now a focus of admiration particularly amongst Communists (by far the largest opposition party), the elderly, and Georgians. Those Stalin monuments that have been restored in the post-Soviet period, and the very few that have been built new, are predominantly local initiatives on the part of elderly people, or else are in Georgia. Stalin’s image in Russian society as a whole, however, remains tensely in the balance.
+
+**World War Two in Cinematography**
+
+A further clue as to how the war is remembered in these countries may be found in its representation on screen. In Britain, two features are striking. One is the presence of gentle, self-deprecating and farcical humour, as for example in *Dad’s Army* (1968-77), *‘Allo‘Allo!* (1982-92), and *Hope and Glory* (1987).
+
+Germany has produced *Anonyma* (2008), based on the real diary of a German woman who lived through the fall of Berlin to the Red Army. In the mode of a mainstream action film*,* it was notably made with the collaboration and approval of Russian as well as German veterans, and is generous in its sympathies for all – the raped German women, the wary, exhausted and traumatised Soviet soldiers bewildered at the wealth of the country that had chosen to invade their own, the perforce passive elderly German men, the idealistically Hitlerian youths. In its generous, iridescent sympathy and collaborative production (it was filmed partly in Poland), it is a model of pacific and supra-national remembering.
+
+Russia, unlike both Britain and Germany, had its period of triumphalist film-making under Stalin, represented in *The Fall of Berlin* and *The Battle of Stalingrad* (both 1949), neither of which however under-represents the Soviet losses, as is also true of the recent war epic *Stalingrad* (2013). The hugely-popular 1972 television series *Seventeen Moments of Spring* is in another mode. Representing a Russian undercover agent posing as a SS-Standartenführer in Berlin, this Russian response to the James Bond phenomenon almost inverts Bond’s character: Maxim Isaev is modest, ascetic, completely faithful to his absent wife, patient, merciful, and quietly brave. He likes the German people, and believes that he is helping them by undermining Nazism. His character gave an idealistic motivation to children, such as the young Vladimir Putin, to join the KGB, just as Bond may have pulled in his share of MI6 recruits.
+
+**Beyond Cinema**
+
+Films are the tip of the iceberg of memories of the war, which is more deeply, subconsciously, remembered in those features of culture which are its lasting products. In Britain, victory in the war and consequent permanent membership of the UN Security Council, combined with a collapse in international power, has produced a schizophrenic subordinate affiliation to the United States, nostalgia, and a dream of restored influence, expressed most recently in much of the pro-Brexit sentiment. Memories of the moment that Britain stood ‘alone’ against Germany in Europe embolden the ambition to again operate outside of the European Union, particularly since that body is dominated by Germany.
+
+In Germany the war is remembered in an ongoing anti-militarism and a distrust of nationalism, tempered on the one hand by *Ostalgie* (nostalgia for East Germany) and on the other by an old/new Cold War Russophobia (the latter is however not as strong as in Britain, for reasons that have nothing to do with the war).
+
+The theorist of nationalism Michael Billig proposed that ‘national remembering also involves national forgetting’, for example of national guilt. In West and unified Germany the same dynamic has operated the other way round - that national remembering has entailed national self-forgetfulness. But as time passes, this is decreasingly the case. The German joy at winning the 2014 football World Cup was in part a self-reflexive joy at the very permissibility, into which the country is growing, of feeling and expressing pride in itself.
+
+In Russia, and even more so Belorussia, the war is remembered in a conservatism that is the counterpart of horror at wartime chaos. It has created a fear of encirclement and desire for a buffer zone between itself and its enemies.
+
+\_\_\_
+
+"We have no right to visit a site such as Dachau if we do not spend our time there thinking about which groups are demonized today, how we are swayed by propaganda, and how we are made to support wars."
+
+\_\_\_
+
+This fear has in recent decades been goaded to a pitch by the Eastward expansion – contrary to explicit promises - of NATO and anti-ballistic weapons systems to Russia’s and Belorussia’s very borders. The fear of invasion is remembered too in the ongoing institution of military service, and the fact that many children, of both sexes, are taught how to shoot.
+
+On the other hand, the war’s heavy losses of men produced a competitive display of beauty amongst unmarried women which contradicted pre-war Communist feminism, and which – boosted in the 1990s by the post-Soviet collapse of employment amongst women, and their subsequent reliance on male income – has still not quite gone away.
+
+The tolerance extended to Germans in relation to the war has, of late, not been so fully extended to Ukrainian collaborators, who were heavily implicated in the Holocaust, and whose leaders (particularly Stepan Bandera) are venerated by such contemporary Ukrianian government-affiliated groups as the Azov Battalion. That is, events since the 2014 Maidan protests have inflamed certain memories of the war in Russia.
+
+The trajectory, then, is not one of the continual fading of the war’s influence.
+
+**Remembering in the Future**
+
+But thinking further into the future, the most obvious markers of the war will, I predict, ossify and retreat.
+
+Ultimately, of course, what happens to the memory of the Second World War will depend on whether, how and when there is a Third. That is, on whether we are able to take sufficient warning and wisdom from memorial sites such as Dachau and Khatyn, on how inter-group hatreds may emerge and turn violent, in order to avoid such an apocalypse.
+
+We have no right to visit a site such as Dachau if we do not spend our time there thinking about which groups are demonized today, how we are swayed by propaganda, and how we are made to support wars. That, I would suggest, is how the Second World War should be remembered.
+
+*Picture: Vladimir Putin among Immortal marchers on Victory Day 2017 carrying the photographs of their family members who died in the Second World War*

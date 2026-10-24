@@ -1,0 +1,79 @@
+---
+title: "Humour is no joke"
+subtitle: "It may be funny, but it's not OK"
+author: "Zoe Walker"
+date: "15th February 2022"
+article_id: "2051"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,793 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/COMEDY.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/humour-is-no-joke-auid-2051"
+---
+
+# Humour is no joke
+
+*It may be funny, but it's not OK*
+
+**By Zoe Walker** | *15th February 2022* | *Read time: approx. 9 mins* | *1,793 words*
+
+![Humour is no joke](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/COMEDY.webp)
+
+---
+
+*Comedians Jimmy Carr and Dave Chappelle have been getting into trouble lately over their Netflix shows. Critics say their incendiary jokes don’t even count as comedy, or that only racists, misogynists and homophobes would laugh at them. But neither of those claims are true or capture what’s wrong with jokes that make light of other people’s suffering, argues Zoe Walker.*
+
+In recent months, a couple of Netflix’s comedy specials have given rise to a great deal of controversy and backlash. In October last year, the release of Dave Chappelle’s latest Netflix special *The Closer* prompted a walkout from Netflix employees protesting its mockery of trans people, as well as drawing criticism that it was misogynistic, homophobic and anti-Semitic. And now Jimmy Carr has sparked widespread outrage for a joke in his Netflix special *His Dark Material*, in which he suggests that the genocide of Roma and Sinti people by the Nazis was one of ‘the positives’ of the Holocaust.
+
+But what exactly is it that these comedians are doing that is so objectionable? I think that some attempts to capture what it is – their jokes aren’t funny, they only appeal to deeply immoral people – get it wrong. Rather, it is the uncritical use of others’ pain for our pleasure, and making light of something that is already not taken as seriously as it should, which justifies the outrage.
+
+## But is it comedy?
+
+One way that people sometimes criticise this sort of comedy is to argue that it fails on its own terms – they argue that it is unfunny, or even, as UK culture secretary Nadine Dorries said of Carr’s joke, that it is not actually comedy at all. The philosopher Berys Gaut takes a version of this line about immoral comedy (though not the full Dorries view), claiming that jokes are less funny to the extent that they are immoral. If this were right, it would be a particularly powerful sort of criticism, as it would speak to even the edgiest and most nihilistic of comedians – they may not care about being moral, but they certainly care about being funny.
+
+\_\_\_
+
+Against the view that this sort of content is not comedy, we can point to the fact that Carr’s joke, for example, has a clear set-up and punchline.
+
+\_\_\_
+
+However, I think that unfortunately, the case against this sort of edgy comedy is not so easy to make as this. Against the view that this sort of content is not comedy, we can point to the fact that Carr’s joke, for example, has a clear set-up and punchline, making us think that he is invoking our sympathies for Roma and Sinti people and the fact that their plight is never talked about, and then subverting our expectations with the punchline that ‘no one ever wants to talk about the positives’. Shocking one’s audience with an expectation-defying taboo may not be a particularly original or sophisticated trick, but it is undeniably a form of comedy.
+
+And as for the funniness of the comedy, in both specials, the audience greets the offending jokes with uproarious laughter. Not all laughter stems from genuine amusement, of course, and perhaps some people laughing at these jokes are laughing from nervousness or discomfort. But given that both Carr and Chappelle have been doing the same sort of comedy for many years and have retained a large and loyal fanbase, it is clear that there are a lot of people who are genuinely amused by their comedy.
+
+Perhaps we could try to defend Berys Gaut’s view by arguing that there is a distinction between *subjective* funniness – what people find funny, and *objective* funniness – what is actually funny. After all, people do sometimes respond to others’ amusement, or even their own amusement, by saying “that wasn’t funny”, indicating that we think there’s more to funniness than whether people are subjectively amused. We could then argue that Carr and Chappelle’s comedy is not *objectively* funny, because it is immoral, even though some people may *subjectively* find it funny.
+
+However, the idea that there might be more to humour than people’s subjective amusement doesn’t hold up to scrutiny. First, we should notice that people don’t insist things *were* funny when no one found them amusing. This should make us suspicious about whether “that wasn’t funny” is really registering a gap between subjective and objective amusement, rather than just acting as an admonishment because amusement was inappropriate for some other reason i.e. because it was hurtful or offensive. Moreover, it’s not clear what the criteria for funniness would be, if not actually amusing people. We could certainly offer a standard of funniness that has morality built into it, whereby jokes need, among other things, to be moral in order to be funny, but then we are assuming what we set out to prove, and seem to be talking now about a different sort of funniness from our ordinary concept. And not being funny according to this sort of measure is hardly going to bother Carr and Chappelle, for whom being subjectively funny makes a whole lot of objective money.
+
+\_\_\_
+
+Is it really true that we can only be amused by jokes that we morally agree with?
+
+\_\_\_
+
+## Laughing at racist jokes doesn't make you racist
+
+A more directly moral line of attack against this sort of edgy comedy is to point to the perspective that is required in order to understand it. Carr’s punchline only makes sense from the perspective that the deaths of thousands of Roma and Sinti people is a positive thing – a deeply racist perspective. Therefore, one might argue that the joke can only be enjoyed by racist people, and moreover, that telling the joke is thus itself an act of racism. Something like this view is held by the philosopher Ronald de Sousa, who thinks that the difference between understanding a joke like this and finding it funny lies in sharing its attitudes.
+
+I think this line of criticism gets closer to the problem with jokes like Carr’s, but it still doesn’t get the details quite right. For **i**s it really true that we can only be amused by jokes that we morally agree with?I am definitely a feminist, in this sense of having very firmly-held feminist beliefs, but I have been amused by sexist jokes before on occasion, though I very much wish I hadn’t.
+
+My view is that it is possible to merely ‘try on’ a perspective just for the sake of engaging with a joke, so enjoying a joke that employs an immoral perspective doesn’t necessarily reveal anything about your beliefs (or the beliefs of the comedian). Nonetheless, there is something revealing about the ease with which we can try on these perspectives. Jimmy Carr’s audience may not share the racist perspective of the joke, but they were instantly and effortlessly able to do the mental work of trying that perspective on in order to understand it. Occasionally, we can work out the perspective that makes a joke work without ever having come across it before. But more typically, I think that people can so quickly and easily understand racist or sexist or homophobic jokes because those attitudes are so familiar to them. The perspectives are in our heads already, just at the edges of conscious thought, put there by our frequent exposure to such views in the society around us.
+
+Jokes like this tend to give us a feeling of complicity – when we get the joke, and especially when we find it funny, we feel we have somehow been made complicit in an immoral act. And I think this feeling is appropriate: we understand the joke because of immoral frameworks we already have in our heads – there is something bad in us that makes that click of comprehension possible. What’s more, I think it should give us pause that we can so easily slip into the mind of a racist or sexist or homophobe, even if we don’t have the racist or sexist or homophobic beliefs to go along with it. After all, a great deal of our behaviour stems not from carefully reasoned decisions based on our explicit beliefs, but from unthinking reactions based on our implicit attitudes.
+
+\_\_\_
+
+A defender of the edgy comedian might claim that there is something important about making us laugh at immoral jokes, and thus exposing our personal and societal implicit biases.
+
+\_\_\_
+
+## Don’t make me laugh at that!
+
+What, then, does all of this mean for the teller of jokes like these? A defender of the edgy comedian might claim that there is something important about making us laugh at immoral jokes, and thus exposing our personal and societal implicit biases**.** And I think it is true that great comedy can do this – draw us in and then pull the carpet out from under our feet, making us question our assumptions and willingness to try on a damaging perspective for the sake of a laugh. The brilliance of Hannah Gadsby’s Netflix special *Nanette* is that it does exactly this: Gadsby gets her audience to laugh about the homophobia she has experienced, and then confronts them with the grim reality of it, leaving them to squirm as she refuses to break the tension and relieve them with more comedy.
+
+But jokes like Jimmy Carr’s are not of that sort. At no point does Carr invite his audience to question why they are, or whether they should be, laughing at a joke about the Holocaust. Nor does he offer any kind of subversion or critique of the abhorrent racist view that he makes use of, or force his audience to confront the abject horror of the event that has just been used as a tool for their pleasure. He does say, after telling the joke, that it is supposed to be educational, because most people only know that six million Jewish people were killed during the Holocaust, and they don’t know about the other groups who were targeted by the Nazis. But truly understanding a tragedy like the Holocaust isn’t just a matter of getting to know the facts and figures; it also involves understanding *what it was like*, where this requires an emotional engagement, an empathetic appreciation of the experiences of those involved. Introducing the topic with a joke not only omits this emotional aspect to learning, but actively obstructs empathy, making it very hard to feel the full force of the facts.
+
+Comedy is of course a vital tool for coping with difficult experiences, and the plausible deniability of jokes makes them an essential way of critiquing the powerful. But joking at the expense of the marginalised about topics whose seriousness is already vastly underappreciated, in order to bring pleasure to people who are unaffected and make a huge amount of money, is no noble endeavour, and no laughing matter.

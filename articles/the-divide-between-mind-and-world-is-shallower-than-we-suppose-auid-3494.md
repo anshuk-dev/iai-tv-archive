@@ -1,0 +1,85 @@
+---
+title: "Reality is not beyond our rational reach"
+subtitle: "We have underestimated rationality’s power"
+author: "Danielle Macbeth"
+date: "12th February 2026"
+article_id: "3494"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,973 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/divide-between-mind-and-world.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-divide-between-mind-and-world-is-shallower-than-we-suppose-auid-3494"
+---
+
+# Reality is not beyond our rational reach
+
+*We have underestimated rationality’s power*
+
+**By Danielle Macbeth** | *12th February 2026* | *Read time: approx. 10 mins* | *1,973 words*
+
+![Reality is not beyond our rational reach](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/divide-between-mind-and-world.webp)
+
+---
+
+*From Kant to Derrida, philosophers have argued that we are prisoners of our own subjectivity, forever cut off from reality as it is in itself. But philosopher **Danielle Macbeth** argues that this skepticism arises from a fundamental misunderstanding of reality, which sees it as a meaningless, disenchanted realm, with meaning located purely in our minds. Instead, she argues, the world outside our heads comes, in the course of our inquiries, to be revealed to be rich with meaning and significance that our rational minds can literally hook onto and grasp in thought—and thereby come to know.*
+
+We are, so it seems, directly aware of things in the world, other people and various sorts of events and objects. But do we really *know* such things? *Can* we know them? Knowing is, after all, an achievement: it is of things as they are as contrasted with how I, we, or anyone takes them to be. But even when (so we think) we know things as they are, how we are thinking about those things is ineluctably shaped by our biology, culture, language, and history. We would think differently if we had a different sort of body and different sense organs; we would think differently were we living not here and now but in, say, ancient Greece or ancient China.
+
+\_\_\_
+
+Our problem is to understand how reality as it is can set the standard of truth for us limited, embodied knowers.
+
+\_\_\_
+
+Knowledge thus seems to require that we have what is often described as [the view from nowhere](https://global.oup.com/academic/product/the-view-from-nowhere-9780195056440?cc=us&lang=en&) undistorted by the contingencies of our lives; but our view, and so our knowledge, is inevitably from here, where we are, shaped by just those contingencies. The [realist](https://iai.tv/articles/in-defence-of-realism-auid-1747) emphasizes the requirement: knowing is a matter of how things are, not merely of how they seem to us. The [idealist](the-return-of-idealism-with-the-essentia-foundation) focuses instead on the limitation: what is known is constitutively perspectival, *our* view of things. Do we need somehow to transcend our limited, perspectival view if we are to know, as the realist seems to suggest? The idealist sees that this is incoherent: we cannot get outside our ways of seeing and thinking. So, the idealist concludes, knowledge cannot require that we do. And yet, knowledge does seem to require precisely that. It is things as they are, however they are taken to be, that provides the standard of the truth of our claims, just as the realist notes. This is our aporia: we both must and cannot escape our limited perspective if we are to have knowledge. In [*Realizing Reason: A Narrative of Truth and Knowing*](https://global.oup.com/academic/product/realizing-reason-9780198704751) (Oxford University Press, 2014), I aim to resolve the difficulty by charting the course of the emergence of knowers as they find themselves in an inherently knowable and fully objective world.
+
+Our problem is to understand how reality as it is can set the standard of truth for us limited, embodied knowers. To resolve it we need to ask a subtly different question, the question of how reality can *come to be*, for us, significant as the locus of the truth of our claims to knowledge. We begin with the thought that the first seeds of such significance emerge with biologically evolved living beings.
+
+[![22 01 21 Kant Hegel.and](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/22-01-21-Kant-Hegel.and.webp)
+
+SUGGESTED READING
+The return of metaphysics: Hegel vs Kant
+By Robert Pippin](https://iai.tv/articles/the-return-of-metaphysics-hegel-vs-kant-auid-2032)
+
+To be alive is to be an instance of a biologically evolved form of life. Crucially, neither instances nor the forms of life they instantiate are independently intelligible: because the instances are as they have in fact emerged, the form of life is as it is, and conversely, because the life form is as it is, instances are intelligible as the living beings they are. Given how things have evolved, the form of life sets a norm for the instances.
+
+Suppose, for example, that you are looking at a bird and ask: why does this bird have wings so shaped? Assuming that the bird is a normal instance of its kind, the right response is that the bird is, say, an eagle, and eagles need such wings to do the things that eagles do, to live as eagles live. If, on the other hand, the bird’s wings are deformed, we cannot appeal to the form of life in response to the question why they are as they are—except to determine that they are indeed misshapen.
+
+Here, an essentially different sort of response is called for, one that provides a causal explanation for the state of the bird’s wings in terms of, say, a genetic abnormality or trauma. In cases of normal development, no explanation is needed beyond a trivial rehearsal of the agent’s power as the sort of living being it is. In abnormal cases, only a causal account can explain why things are as they are. Whereas inanimate things simply behave as the laws of physics describe, animate beings (while inevitably obeying the laws of matter) can flourish or fail to flourish because they have the significance of being instances of life forms. Living beings are at once wholly material beings and distinctive as being instances of evolved forms of life.
+
+\_\_\_
+
+We are rational, which is to say, constitutively self-aware and self-critical, and so distinctively free.
+
+\_\_\_
+
+Notice further that it is not only the body of the living being and its doings that have the significances characteristic of life and its processes. Things in the environment similarly have such biological significances. Water, for example, has the significance of being nourishing for a plant. Relative to a different life form, water might instead be poisonous or have no meaning or significance at all. This is, furthermore, intelligible independent of any values or significances we find or fail to find in things. Living beings are not designed as artifacts are; they are not constructed by arranging matter so that, in behaving in accordance with the laws of nature, the system behaves in ways one intends. As essentially late fruits of evolutionary processes, what living beings do is expressive not of any designer’s purpose but of their own natures. Their life processes are their own.
+
+We human beings, thinkers and knowers, are not only living, as plants and animals are, but are distinctively social beings acculturated into a shared and socially evolved form of life. We grow into sociocultural forms of life through our learning to be and to do as *we* are and do. And this is natural to us (see [Tomasello](https://www.hup.harvard.edu/books/9780674005822)). Although one trains other animals by arranging things so that in acting in accordance with their own biological imperatives the animals will do as one intends, human children need not be trained but only given exemplars of the sociocultural form of life to imitate. Becoming one of us requires not training by others but learning to become one of us through spontaneously training oneself to be as we are and do as we do.
+
+We are essentially social beings, social not merely in our behaviour (as other primates are social) but in having a rich and socially evolved cultural form of life that is realized in and through our native, biologically based disposition to imitate. But we are also something more. We are rational, which is to say, constitutively self-aware and self-critical, and so distinctively free. Here, it is human language that is the difference that makes the difference. In learning the sort of structurally complex and socially evolved medium of communication and communion that is human language, we come to know ourselves as aware of things.
+
+[![related-video-image](https://iai.tv/assets/Uploads/raphael-schaller-88040-unsplash.webp)
+
+SUGGESTED VIEWING
+Limits of language
+With Stanley Fish, Hilary Lawson, Genia Schönbaumsfeld, Joanna Kavenna](https://iai.tv/video/limits-of-language)
+
+Our body language provides a good model for thinking about this. As is well known, in childhood we learn how to behave in relation to others, for example, how and when to look at or touch another. We also know that this is quite culturally specific. But until very recently we knew nothing about these subtle and complex, learned and culturally specific behaviours in relation to others—despite the fact that we were engaging in them throughout our lives. We were engaged in learned, culturally specific behaviours that involve quite acute sensorimotor skills and (learned) emotional responses, conscious and intelligent behaviours, all without having the least idea that we were so behaving. We were perceiving and acting in ways that were manifestly conscious, but we were not yet conscious of our perceptions and actions. We were perceiving and acting, thinking and feeling as an animal might, without any awareness that we were.
+
+With (verbal) language, itself at first nothing more than another socially evolved mode of perceiving and acting, we come to hear ourselves speak with others about things in our shared environment. In coming to self-consciousness through hearing ourselves speak, we come to know how things seem to us to be. And having come to know how things seem to us to be, we can ask whether things are as they seem. Reality as it is comes in this way to be, and to have the significance of being the standard of the truth of our claims, which is by the same token our becoming critically reflective, rational.
+
+\_\_\_
+
+The capacity to know things in reality as they are and the capacity to be known of things as they are arise together, neither intelligible without the other.
+
+\_\_\_
+
+Meaning emerges with life and pervades not only the living being with its characteristic behaviours and abilities but also the environment of such a being. Things that are otherwise without significance come to matter as, say, nourishing or damaging. But not all living beings are in the world in the same way. Animals have, for instance, sensory awareness of things, where this is by the same token for things to have sensory properties. As animals acquire, through familiar evolutionary processes, the eyes to see the sensory properties of things, so, and by the same token, things acquire a face, a manifest perceptible presence by which to be seen. Essentially social animals likewise have perceptual awareness of things, not, now, only as they are biologically significant but also as they are socially significant. Rational animals are similarly aware of things—with one crucial difference. Because rational animals are self-aware and thereby critically reflective, socially significant things in the environment can show up as loci of what is true.  As the capacity to see, say, ripe red berries and the capacity of berries to show up as ripe and red arise together with the emergence of the relevant forms of life, so the capacity to know things in reality as they are and the capacity to be known of things as they are arise together, neither intelligible without the other.
+
+As we might expect, our everyday knowledge of things as we first become aware of them is shot through with the contingencies of our biology, history, language, and culture. If we are to know things not only as they are in the constitutively shared world of our everyday lives but also as they are independent of the contingencies of our lives, we need to learn to think in essentially new ways. And so we do. Although our self-conscious awareness of things is inevitably mediated by language, language—because it is socially rather than biologically evolved—can be transformed, slowly but surely, as reason sees fit.
+
+In *Realizing Reason*, I trace this development of a distinctively mathematical language stripped of the sensory and cultural, non-mathematical significances that at first attach to it. (Circles, for example, have a characteristic look and social significance, but what, as we learn, matters mathematically is the equation *x*2 + *y*2 = *r*2—and even this is not the last word on what circles are, mathematically speaking.) As an essentially late fruit of processes of biological, social, and intellectual evolution, mathematical language at once realizes reason, pure reason as a power of knowing, and reveals reality as it is, at once in view for us and fully objective. It is in just this way that we go between the horns of realism and idealism, that we achieve, from here, the view from nowhere. It is how we know—and know that we know.

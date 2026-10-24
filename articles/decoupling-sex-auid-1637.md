@@ -1,0 +1,53 @@
+---
+title: "Decoupling sex"
+subtitle: "The real importance of sex"
+author: "Olivia Fane"
+date: "15th September 2020"
+article_id: "1637"
+channel: "Arts & Culture"
+themes: "Relationships & Sexuality"
+tags: "None"
+word_count: "953 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-09-16.fane.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/decoupling-sex-auid-1637"
+---
+
+# Decoupling sex
+
+*The real importance of sex*
+
+**By Olivia Fane** | *15th September 2020* | *Read time: approx. 5 mins* | *953 words*
+
+![Decoupling sex](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-09-16.fane.ata.webp)
+
+---
+
+*We all know that sex is vital for a good relationship, and that a good relationship fosters a positive sex life. But is this a mistake? Sex objectifies, while the intimacy of a long lasting relationship can be fundamentally unattractive. It's about time we relearned was love really means, writes Olivia Fane.*
+
+For a hundred years now we have been fed the myth that our ‘sexuality’ is important. Nowadays we use the word with a certain reverence, but on Sunday afternoon, the 20th September, I am going to suggest to you that sex is neither deep, spiritual, nor even particularly interesting.
+
+I am totally aware of the power of sex. The sex drive is certainly real, sometimes overwhelming real. The experience of first having sex with a person you totally desire and who seems, at least, to totally desire you, is surely one of the sweetest we human beings can experience. But have you noticed? That total delight diminishes with time. Supposedly, there is a drug called oxytocin released during the female orgasm which is supposed to bond you, which would mean those happy couples couldn’t help but stay together, and the sex would go on getting better and better. But if oxytocin had been made in a pharmaceutical lab, we would sue the manufacturers for mis-representation. The sex goes off. And why does it go off?
+
+I am totally aware of the power of sex. The sex drive is certainly real, sometimes overwhelming real.
+
+In fact, there are a lot of people who can tell you the answer to this, and actually I agree with all of them. Domestic intimacy is a turn-off. Knowing someone too well just isn’t arousing. In Marie Stope’s best -selling sex manual, published just after the First World War, she suggests that living apart is the best recipe for a great sex life. Failing that, separate bedrooms are a must, and failing that, hang a great big curtain between you, right down the centre of your bed. Another imperative is to keep your figure, hair, complexion in perfect order. Another, to take separate holidays. Your husband must never ever see you in the bathroom, except lying in the bath, when female bodies tend to look quite fetching.
+
+In modern times, Alain de Botton is also right when he tells us in his You-Tube video that intimacy destroys sexual desire. He mentions with approval a website called ‘Postyourpartner.com’ where you post a sexy photo of your beloved for everyone else to see. This has the delicious effect of making you see your partner with fresh eyes, as a lovely thing to behold, rather than as the woman who is forever complaining about her boss/children/life or backache. And the man who completely understands how to have a fantastic sex-life is a gay man called Dan Savage. He began with a column in a US newspaper called appropriately Savage Love advising heterosexual couples how to have better sex the gay way, and now has a following of hundreds of thousands of people who all want better sex lives. Forget the small talk, he suggests, go straight to the point. What are you into? What kind of sex is going to send you to the moon and back? And when one reader complains that she sacked her lover when she discovered that he didn’t massage her feet out of concern for the long hours she worked in a shop, but because he confessed to being a foot fetishist, Dan ridicules her. In sex, he told her, it’s your feet which matter, nothing else.
+
+So this is my point. Sex objectifies. Not only do we seek objects to satisfy our sexual needs, but we turn ourselves into objects too: decorating them, masking them, hiding all blemishes. Being aware of someone’s authentic, interior life is seriously unsexy. You just don’t want to know that they’re lonely or miss their mother who’s recently died, absolutely not!
+
+In fact, ‘sexuality’ turns out to be little more than consumerism. What kind of body/sexual practice is going to really turn me on? The aim of sexuality? Pleasure. And pleasure is something which happens in your head only. The idea that pleasure is in any way shared is a pipe-dream: you have no idea who or what your partner is thinking of when you have sex, you have no idea, even, if your partner is faking her orgasm – one third of us do, you know.
+
+The biggest lie of all is that sex has anything to do with love. Or at least the ‘love’ it is most akin to, is the sort of love you have for your beautiful new car.
+
+The biggest lie of all is that sex has anything to do with love. Or at least the ‘love’ it is most akin to, is the sort of love you have for your beautiful new car. There’s a movement afoot to make marriages 5-year contracts rather than something that lasts a lifetime. That makes complete logical sense when love is coupled with sexual desire. Things needs replacing – when your car breaks down, you go shopping, and when women grow old, well, you’ll need a new model, won’t you?
+
+The ancient Greeks, who gave us the word ‘eros’, rather frowned upon erotic love. It was something you had for your social inferiors, be they boys, prostitutes or slaves. If you wanted to tell your wife you loved her, you would use the word ‘philia’ meaning affection, friendship. It’s about time we relearned what love is really about.
+
+Olivia Fane is the author of Why Sex Doesn’t Matter (Mensch publishing, £20 hardback)
+
+*Join Olivia to discuss why sex doesn't matter live at [HowTheLightGetsIn Global](https://howthelightgetsin.org/global), the IAI's virtual festival taking place between Sept 19th-20th. [Click here for tickets and info.](https://howthelightgetsin.org/events/evening-philosophy-with-olivia-fane-6051)*
+
+---

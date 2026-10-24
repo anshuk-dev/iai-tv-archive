@@ -1,0 +1,83 @@
+---
+title: "Post-realism"
+subtitle: "Approaching an unknown world"
+author: "Hilary Lawson"
+date: "Issue 94, 16th February 2021"
+article_id: "1755"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,338 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/realism-part-3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/post-realism-auid-1755"
+---
+
+# Post-realism
+
+*Approaching an unknown world*
+
+**By Hilary Lawson** | *Issue 94, 16th February 2021* | *Read time: approx. 12 mins* | *2,338 words*
+
+![Post-realism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/realism-part-3.webp)
+
+---
+
+*While philosophers such as [Timothy Williamson](https://iai.tv/articles/in-defence-of-realism-auid-1747) reassert realism as the solution to our post-truth age, the key problem of self-reference, the open-ended nature of reality and realism’s blunt approach to disagreement mean that it cannot be the future of philosophy. Post-realism, without abandoning empiricism and rationalism, makes sense of our relationship to an unknown world and provides a way forward to a more inclusive and effective means to intervene, writes Hilary Lawson.*
+
+Timothy Williamson's defence of realism is to be commended for its rhetorical punch, but the flaws in the realism project are deeper than he supposes.
+
+At the conclusion of his article Timothy Williamson makes the political argument that realism is needed to stand up to the falsehoods and the tyrannies of power.  Citing recent events in the US Presidential election, he makes the case that anti-realist philosophers are at least in part responsible for this toxic outcome.  As if the trusty sword of truth is the way to down dictators and confront the misapprehensions of the mob.
+
+It is a fine idea, but a few moments of reflection uncover its illusions.  The proponents of political outlooks, be they leaders or followers, elite intellectuals or salt of the earth labourers, tend to be convinced of the truth of their outlook.  Commentators alike, whether writing for the New York Times or Fox News, the Telegraph or the Guardian, are typically assured of the correctness of their view.  Encouraging belief in a single objective truth seems as likely to lead to ever more conflict than to an outbreak of reasoned conversation.  The sword of truth is as likely to lead to crusading wars between those who have an unswerving belief in their own rightness, as it is to lead to a utopian democracy of the good and well meaning.
+
+The core of the issue regarding realism is not to be found in jousting over the political impact of realism but in the deep philosophical problem of self-reference, as [Isabelle Thomas-Fogiel proposed in her original article](https://iai.tv/articles/the-death-of-realism-auid-1746) to which Timothy Williamson was responding.  It is this central flaw that undermines realism and the associated project of describing the relationship between language and the world.
+
+Encouraging belief in a single objective truth seems as likely to lead to ever more conflict than to an outbreak of reasoned conversation.
+
+Paradoxes of self-reference can seem to many to be technical logical arguments of little real significance.  Instead they are found at the centre of many philosophical systems.  They confounded Russell in his attempt to provide an account of mathematics.  Self-reference also made a mockery of positivist definitions of truth. Most significantly (to the question of realism) however, they led Wittgenstein to abandon his attempt in the Tractatus to formulate a realist framework and to conclude that any account of the relationship between language and the world must fail.  It is not a conclusion that has been effectively countered.
+
+I have been a critic of realism ever since I was a student of Wittgenstein at Oxford with the translator of the Tractatus, BF McGuiness.  Like many analytic philosophers McGuiness was primarily interested in Wittgenstein's theory as a potential basis for a viable account of the relationship between language and the world and he saw the central sections of the Tractatus, three to five, as primary. Instead it seemed to me then - and it seems to me now - that the concluding sections of the Tractatus are the ones that really bite, for these are the ones that identify the self-referential paradox in the very attempt to create a realist theory.  As a result I came to think that self-reference was the primary concern of contemporary philosophy and my first philosophical book 'Reflexivity' made this case.
+
+As time has passed the puzzle for me has become why realists are so attached to their metaphysics and why it gains relatively little critical attention.  At first, I thought of this as a failure to address the logic of the matter. Timothy Williamson steps back from saying that the problems of self-reference and, in particular, the liar paradoxes have been solved, but he nevertheless references Tarski and Kripke as having made progress.  We can agree that the paradoxes have not been solved.  If they had I would not have struggled to formulate a viable non-realist metaphysics for most of my career.  But it is not clear what progress can be said to have been made with a logical puzzle when it has not been solved.  The lack of a solution is not progress.  It is failure.
+
+Self-reference is the central flaw that undermines realism and the associated project of describing the relationship between language and the world.
+
+For those with a technical interest in logic I have elsewhere laid out the flaws in Russell and Tarski's attempts to overcome the paradoxes of self-reference (1). The essence of the argument is that these attempts to overcome self-referential paradoxes rely on arbitrarily outlawing such self-reference. This is no solution at all since the self-reference is found at the cornerstone of realism.  In making this case, I am in good company. Wittgenstein himself aside, the renowned analytic philosopher Hilary Putnam made a similar case concluding, 'Realism is an impossible attempt to view the world from Nowhere', making the self-referential argument that 'elements of what we call 'language' or 'mind' penetrate so deeply into what we call 'reality' that the very project of representing ourselves as being 'mappers' of something 'language independent' is fatally compromised from the very start (2).[[](#_edn2)
+
+Bland assurances that paradoxes of self-reference can be brushed aside are for those readers who do not engage in the detail of the logic.  If it can be demonstrated that realism does not fall to the problem of self-reference the project of gradually uncovering the truth through painstaking piecemeal advance can be retained.  The case for non-realism is not driven by a desire to escape from the constraints of realism or a desire for a metaphysics that allows for mystical alternatives.  It is simply the consequence of the failure of the realist project to describe the relationship between language and the world and the implied incoherence of any potential realist theory.
+
+After a career making such a case, I now appreciate that an appeal to logic is unlikely to shake those with a deep attachment to realism.  After all, Wittgenstein's conclusions in the Tractatus have been largely ignored for the last century.  So what is the underlying reason that realists are so attached to their outlook, and how have they come to dominate so widely in English-speaking philosophy departments?
+
+[Hilary Lawson, Donald Hoffman and Maria Baghramian embark on a radical rethink of reality.](https://iai.tv/video/the-reality-illusion "Watch more videos on iaitv")
+
+One plausible explanation is that it is imagined either that there is no alternative, or that the alternative is so pernicious that it should not be countenanced. Without the trusty sword of truth, it is feared that the edifice of western knowledge will collapse and let in the hoards and vandals.  After all, as Williamson points out, we have only to witness the outpourings of Mr Trump.
+
+But this is a misunderstanding.  The abandonment of realism does not entail a chaos of equal alternatives or a world where we can simply imagine what we wish.   We can give up our attachment to the notion of an independent reality which is already divided into things and characteristics without giving up on the two primary motors of the enlightenment, the methodologies of empiricism and rationalism.  The strangeness of current times is that there are many who wish to challenge empiricist or rationalist strategies when it is convenient to do so, while at the same time wanting to retain objective truth.  This is a particularly pernicious combination, which needs persistent challenge.
+
+Where I find myself agreeing with Timothy Williamson is when he says, 'We must be willing to conceive of reality in [an] open-ended unspecific way'.  Indeed, my account of non-realism, or preferably ‘post-realism’, is to define that which is independent of us as 'openness'.  Since openness in this sense is independent of us, some might claim that I am a realist after all.  Openness however does not deliver for realists the determinant of truth they desire.  If the independent other is open, as Williamson appears to endorse, it is also not capable of being described.  In the same way that, for Kant, the noumenal world cannot be known, and, for the later Wittgenstein, language cannot give an account of the relationship between language and the world.
+
+Through perception, thought and language, we close the openness of the world.
+
+What is needed is a theory of how we are able to make sense of the world and intervene in it with the precision and remarkable capacity that we have, without relying on a pre-given reality of things that are waiting to be uncovered.  While this might seem an unpromising starting point, I have sought to demonstrate in my account of the process of closure that we can do precisely this. Instead of seeing ourselves as describing an independent pre-given reality - which we can never actually identify - we will make more progress by conceiving of ourselves as holding the openness of the world as something in particular.
+
+This holding of openness as something particular is achieved through the process of closure.  Through perception, thought and language, we close the openness of the world.  It is a process which we can analyse and empirically examine and so build an account which can be empirically tested.  Unlike the realist straw man version of non-realism, there are constraints on the way we choose to close openness, but these are found in our ability to successfully intervene rather than in some notion of correspondence to a reality that can never be verified.  Moreover, it is an account which can in principle be applied to AI, and in this respect, offers a philosophical theory that can be refined through its application to computer learning.
+
+The framework of knowledge is not at risk by a move to a non-realist approach.  Appeals to truth did not sustain the enlightenment or science.  They have been sustained by the methodology of empiricism and rationalism.  Empiricism is not an uncovering of the 'facts', it is an encouragement to look at the world to test your account.  The way you see the world will be dependent on your theoretical frame, and on the combined effect of the closures you have realised, but that does not invalidate looking and learning from the process.  Empiricism does not therefore depend on irreducible nuggets of facts, but instead on an honest engagement with the effectiveness of one's own account of the world.
+
+It is not a successful strategy to counter those with whom we profoundly disagree to simply assert that what they say is not true.  Recent US politics is surely evidence of this.  Instead we have to point to the weakness of an outlook with which we disagree and the dangers of holding such a view by identifying its consequences.  An appeal to truth is no short cut.  If we want a more collaborative, more engaged culture, one that is open to alternative perspectives and outlooks, we need to give up the fantasy that there is a single objective account that might be held by an individual or a group.
+
+The way you see the world will be dependent on the combined effect of the closures you have realised, but that does not invalidate looking and learning from the process.
+
+I don't doubt that a realist perspective has had value in encouraging the pursuit of a complete answer, and in motivating researchers and scientists with the notion that they are, once and for all, grasping the very character of the universe.  But these strengths have to be balanced against the creation of opposition and conflict, threats to fresh and new ways of holding the world, and a bias towards dominant power structures and conventions. Far from the sword of truth bringing an end to conflict and advancing a progressive society, the fervent attachment to there being one truth has been the source of deep and long lasting conflict that has led to the bloodiest of confrontations.  It is also an impediment to exploring new outlooks and new potential.  Post-realism, in contrast, encourages new theories and ways of seeing.  Though these need to be constrained by a single-minded focus on following through the consequences of a given framework and by applying rigorous rational and empirical principles to examine and test the concepts employed.
+
+Post-realism offers a solution to a highly dangerous world of competing perspectives where everyone supposes that they are right.   Namely, we give up believing we are right and the belief that there is a right to be found.  Some ways of holding the world prove to be remarkably effective and others can cause untold distress.  It is our joint task to examine and explore the perspectives available and identify their strengths and weaknesses.  The future of philosophy is not the pursuit of the one answer.  There is no single definition of a term. No point of view that will be sustained in all circumstances.  We have not found it in the last few thousand years and few can imagine that it is about to be uncovered.  Instead the future of philosophy is to be found in the exploration of alternative frameworks in search of solutions to the many problems that we face.
+
+Philosophers should challenge current theories that are left unexamined because they are familiar and commonplace. They should identify weaknesses in these outlooks, including their own, while at the same time striving to build new accounts of the world to address these flaws and to formulate precise theories that can be applied and tested. The solutions will not be definitive or final.  They will not be objectively true.  They will not be descriptions of openness.  But, as systems of closure, they will enable us to intervene to valuable effect, and just perhaps help us make a better world.
+
+---
+
+[[i]](#_ednref1) (1) Hilary Lawson, Closure, London & New York,  Routledge 2001    pp xxxiv- xxxvii
+
+[2. 2. (2(](#_ednref2)(2) Hilary Putnam,  Realism with a Human Face, Harvard University Press 1992   p 11-18

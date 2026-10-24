@@ -1,0 +1,55 @@
+---
+title: "Rita Levi Montalcini: the Nobel Prize-winning scientist with a lab in her bedroom"
+subtitle: "On International Women’s Day, we celebrate the female scientist who made essential discoveries for the understanding of Alzheimer’s, despite being persecuted as a Jew under Mussolini."
+author: "Paula Erizanu"
+date: "8th March 2018"
+article_id: "1046"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "801 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rita-Levi-Montalcini-European-Pressphoto-Agency-Fabio-Campana.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/rita-levi-montalcini-the-nobel-prize-winning-scientist-with-a-lab-in-her-bedroom-auid-1046"
+---
+
+# Rita Levi Montalcini: the Nobel Prize-winning scientist with a lab in her bedroom
+
+*On International Women’s Day, we celebrate the female scientist who made essential discoveries for the understanding of Alzheimer’s, despite being persecuted as a Jew under Mussolini.*
+
+**By Paula Erizanu** | *8th March 2018* | *Read time: approx. 4 mins* | *801 words*
+
+![Rita Levi Montalcini: the Nobel Prize-winning scientist with a lab in her bedroom](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rita-Levi-Montalcini-European-Pressphoto-Agency-Fabio-Campana.webp)
+
+---
+
+“At 100, I have a mind that is superior – thanks to experience – than when I was 20”, neuroscientist Rita Levi-Montalcini famously said in an interview, two years before her death in 2012. A researcher in her native Italy, Belgium and the US, Italian senator, UN ambassador and philanthropist, the first woman to be elected in the Pontifical Academy of Science, President of the Multiple Sclerosis Association in Italy, Levi-Montalcini seems to have never stopped.
+
+Born in 1909 to a wealthy Jewish family in Turin, Italy, Levi-Montalcini was expected to lead a comfortable life as a housewife.
+
+“At twenty, I realised that I could not possibly adjust to a feminine role as conceived by my father, and asked his permission to engage in a professional career”, Levi-Montalcini declared in her Nobel Prize acceptance speech. “In eight months I filled my gaps in Latin, Greek and mathematics.”
+
+Seven years later, Levi-Montalcini graduated from medical school in Turin with summa cum laude in Medicine and Surgery. She then went on to study neurology and psychiatry. Levi-Montalcini was still trying to figure out whether to become a doctor or a researcher when Mussolini issued the Manifesto per la Difesa della Razza, which barred academic and professional careers to non-Arian Italians.
+
+Levi-Montalcini fled to Brussels, where she worked as a guest researcher of a neurological institute. She returned back to her family in Turin in spring 1940, right before Germany invaded Belgium, and Hitler allied with Mussolini.
+
+“The two alternatives left then to us were either to emigrate to the United States, or to pursue some activity that needed neither support nor connection with the outside Aryan world where we lived. My family chose this second alternative. I then decided to build a small research unit at home and installed it in my bedroom.”
+
+This is when Levi-Montalcini first started researching chick embryos, which helped her discover the nerve growth factor and modern neurobiology. She had read a 1934 article by German embryologist Viktor Hamburger - who later invited her to do research at St Louis, in the US - about the effects of limb extirpation in chick embryos. She worked on it with anatomist Giuseppe Levi, who became her first and only assistant. While hiding in a house just outside Turin, Levi-Montalcini convinced the neighbouring farmers to give her eggs for her (non-existing) children, which she used for research.
+
+But the war unraveled and Levi-Montalcini had to flee to Florence, where she lived underground. After the liberation of Florence in 1944, she volunteered for the Allied Forces as a doctor until the end of the war.
+
+In 1945, Levi-Montalcini was hired back as a professor at the University of Turin.
+
+Two years later, Hamburger invited Levi-Montalcini to do research in St Louis. Initially, Levi-Montalcini thought she would only spend 12 months in America. But she stayed there for 30 years, albeit dividing her time between St Louis and Rome, where she set up a second laboratory, and directed the Research Centre of Neurobiology from 1961 until 1969.
+
+It is at St Louis that Levi-Montalcini made her groundbreaking discoveries, showing in 1952 that when mice tumours got transplanted to chick embryos, they caused the potent growth of the chick embryo nervous system. The outgrowth did not require direct contact between the tumour and the chick embryo, so Levi-Montalcini concluded that the tumour released a nerve growth-promoting factor which impacted only certain types of nerves. The nerve growth factor is crucial to understanding developmental malformations, degenerative changes in senile dementia, delayed wound healing and tumours, and this is why Levi-Montalcini, and her collaborator Stanley Cohen, got awarded the Nobel Prize for Medicine in 1986.
+
+After receiving the Nobel Prize, Levi-Montalcini and her sister set up a foundation providing mentorship and career advice to teenagers. She also got involved with the Multiple Sclerosis Association, as its President. “I can do things that are very, very important, which I would never have been able to do if I did not receive [the Nobel Prize]. It has given me the possibility of helping a lot of people.”
+
+As she returned to Italy to be with her family, Levi-Montalcini was made senator for life in 2001. She pursued a centre-left agenda, supporting Romano Prodi’s government.
+
+Levi-Montalcini never married or had children. "I never had any hesitation or regrets in this sense," she said in a 2006 interview. "My life has been enriched by excellent human relations, work and interests. I have never felt lonely."
+
+Moreover, commenting on her refusal to get married despite having received the education of an all-girls school that aimed to make her no more and no less than a good housewife, she said that this“annoyed me so much that I decided to never do as my mother did. And it was a very good decision—at that time, I could never have done anything in particular if I had married.”

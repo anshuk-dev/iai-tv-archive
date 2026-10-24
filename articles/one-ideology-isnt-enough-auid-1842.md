@@ -1,0 +1,69 @@
+---
+title: "One ideology isn't enough"
+subtitle: "Interpreting the world in the time of Covid"
+author: "Alexis Papazoglou"
+date: "20th July 2021"
+article_id: "1842"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,668 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-20.Alexis-article.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/one-ideology-isnt-enough-auid-1842"
+---
+
+# One ideology isn't enough
+
+*Interpreting the world in the time of Covid*
+
+**By Alexis Papazoglou** | *20th July 2021* | *Read time: approx. 8 mins* | *1,668 words*
+
+![One ideology isn't enough](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-20.Alexis-article.webp)
+
+---
+
+*We all lament the ideological biases we see in governments and people. Yet ideology is the inescapable perspective through which we interpret the world. But not all perspectives are equal, and the more you can occupy and test out, the better, writes Alexis Papazoglou.*
+
+“The government’s actions are guided by ideology” is often said in a tone indicating this is an objection. The implicit meaning being “ideology is a bad guide”, so that once ideology is detected as informing a government’s actions, that’s seen as a knockdown argument. The government is acting ideologically, therefore wrongly.  This type of complaint became particularly fashionable since the start of the Covid-pandemic. The reassurances of governments around the world that they were “following the science” were met with the rebuttal that it was in fact political ideology that they were led by. Baffled by its decision to end all legal restrictions to do with Covid-19 in England, some are again accusing the U.K. government of being ideological, following the libertarian instincts of prime minister Boris Johnson, while disregarding the science.
+
+This diagnosis is to a large extent accurate – the way governments around the world have dealt with the pandemic has indeed been ideological, that is, guided by each ruling party’s perspective on the world: its values, beliefs and biases. This was also true of how individuals reacted to the pandemic. In the United States, Republicans were less likely to wear facemasks and practice social distancing than Democrats were. The problem is, this diagnosis would only count as an objection if an alternative was possible. But that’s not the case. There is no such thing as a non-ideological view onto the world, a way to simply “follow the science” or be guided by “just the facts”. Instead of simply pointing out cases where governments or people are being driven by ideology, thinking our work as critics is done, we should be focusing on what function ideology plays in each case, and be weary of the limits of our own.
+
+For Nietzsche our perspective on the world is far from universal, instead each human being sees the world in ways shaped by their biography, psychology, values, beliefs and biases.
+
+**The views from somewhere**
+
+The realisation that western philosophy was plagued by the idea that Knowledge and Truth were connected to the idea of God and the way the world is from his perspective is usually attributed to Nietzsche. What Nietzsche thought followed from the fact that European culture had by the 19th century killed God continues to be a matter of dispute.  But what Nietzsche certainly *did* think was that we had to reconcile ourselves with the fact that there could only ever be a perspectival view on the world.  By drawing an analogy with sight – we can only ever see things from a particular perspective, our position in space and time relative to the object in question – Nietzsche wanted us to realise that this was the case with everything: “There is only a perspectival seeing, a perspectival knowing”. “The view from nowhere” a phrase coined more than a century later by Thomas Nagel, is not available.
+
+One of course could argue that Kant had already “been there, done that” in his Critique of Pure Reason, where he argued that our knowledge of the world is conditioned by our human perceptive: our universal categories of thought and the fact that we could only experience the world in space and time, even though the world “in itself”, as he argued, wasn’t spatiotemporal. But what Nietzsche argued for was rather different. For Nietzsche our perspective on the world is far from universal, instead each human being sees the world in ways shaped by their biography, psychology, values, beliefs and biases.
+
+Ideology, then, can be understood in this Nietzschean way. It’s the collection of those things relevant to politics that shape our view of things. What is more, ideology is inescapable – there is no non-ideological view on political events, just like there is no non-perspectival view on the world. One of the reasons why this position might come as a surprise is that “ideology” is usually used to denote the two main political ideologies of the 20th century: Left and Right. When people describe themselves as “non-ideological” they usually mean they’re neither on the left nor the right, but somewhere in the middle of the political spectrum. But being neither on the left nor the right doesn’t make you ideologically neutral, it makes you a centrist, and centrism is an ideology of its own.  Being in the centre still means espousing values and holding beliefs about how the worlds should be. So even those who claim they aren’t ideological still are, even if in ways they aren’t aware of.
+
+[Joseph J Ellis, Christ Hirst, and Natalie Bennett ask how much we should trust our readers.](https://iai.tv/video/leadership-hypocrisy-and-power "Watch more videos on iaitv")
+
+**The myth of following the science and being guided by the facts**
+
+The U.K. government’s motto “we’re following the science”, embraced early on it the pandemic, was a way for it to try and absolve itself of the responsibility of whatever was going to follow from its decisions. It was trying, in other words, to signal that its decisions were non-ideological: the scientists presented the facts, and the government simply acted on them.
+
+But as I and others [pointed out at the time](https://www.thephilosopher1923.org/papazoglou), there is no such thing as “following the science”. Science by itself can’t tell a politician or anyone else what to do in a certain situation. All it can do is offer someone humanity’s best guesses of what would happen if they did or didn’t do something. Whether that outcome is desirable, or tolerable, or absolutely unacceptable can only be decided by consulting one’s ethical and political values: one’s ideology. It wasn’t science that made governments around the world impose lockdowns; it was the political judgement, shared by many governments, that the breakdown of hospital care and the preventable death of hundreds of thousands of people was unacceptable, even if that came at a great cost to the economy. It was a political decision, not a scientific one.
+
+**Ideology, what is it good for?**
+
+In a [recent conversation](https://newsphilosopher.buzzsprout.com/1577503/8853338-personal-responsibility-in-a-pandemic-the-political-philosophy-podcast) I had with Toby Buckle, host of [The Political Philosophy Podcast](https://www.politicalphilosophypodcast.com/), about the U.K. government’s lifting of pandemic-related restrictions, Buckle diagnosed the policy as ideological, but stopped short of criticising it on that reason alone. “We need ideologies to help us make sense of the world” he said. “Ideologies after all aren’t simply set doctrines or lists of policy commitments. They are interpretive mechanisms, lenses through which we see the world that help us pick out important parts of the problem that we should focus on.”
+
+I find that point very sensible. Without ideology, our interpretative lens, the world would be impossible to make sense of. We would be faced by anoverwhelmingamount of information, but with no starting point a no framework with which to give meaning to that information. Ideology is a tool that we all carry with us, offering us a quick and fast way to interpreting events in the world. Just like the image of a bubble chamber makes little sense to someone without a particle physics background, the world would make little sense to someone without an ideological orientation. Each ideology enables us to see aspects of the world that are hidden or invisible to those without it. Just like a leftist is more attuned to recognise instances of, say, social injustice, a conservative is more sensitive in their detection of state overreach.
+
+Without ideology, our interpretative lens, the world would be impossible to make sense of.
+
+**Not all ideologies are equal**
+
+This is not at all to say that ideologies don’t come with their set of problems, or that they’re all equally good guides to the world. As much as ideology can help us interpret the world, ideological biases can also blind us. Having a single filter through which one sees reality is bound to distort some aspects of it more than others, and we need to guard ourselves against that.
+
+So how do we know whether our ideology is fit for purpose? One way is to test an ideology in practice, against the world. Does acting in accordance with an ideology seem to produce the results we wanted or predicted? Going back to the U.K. government’s decision to lift all Covid-related restrictions, the question isn’t so much whether that decision was ideological (it was), but what effects it will end up producing. Will it bring about the results the U.K. government and its scientific advisors are aiming for? If not, then critics can lament the government, not for being ideological per se, but for being guided by an ideology that is unsuited to dealing with the pandemic.
+
+Another way to test ideologies is to ask what their general function is? That is not only to interrogate specific instances of its application, but to look at its overall purpose. Who does it serve? What kind of people seem to espouse it, and why? Who tends to benefit from looking at the world through its lens? Depending on the answers, we might choose to embrace or reject an ideology.
+
+But whatever ideology one espouses it will inevitably have blind spots and limitations. Just as no visual perspective on an object can capture it fully, so no political perspective can fully grasp political events. That doesn’t have to mean we are doomed to live within the limits of our ideological outlooks. Towards the end of his 1887 Genealogy of Morality, Nietzsche suggests that the more perspectives on the world we can entertain, the better our grasp of it will be: “The more eyes, different eyes, we know how to bring to bear on one and the same matter, that much more complete will our “concept” of this matter, our “objectivity” be.”
+
+Just because there is no neutral “view from nowhere” that we can aspire to, doesn’t mean we can rest content with our own view alone. If we do so, others will have a point when they call us “ideological”.

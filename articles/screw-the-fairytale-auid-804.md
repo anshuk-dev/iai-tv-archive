@@ -1,0 +1,62 @@
+---
+title: "Screw the Fairytale"
+subtitle: "Are white weddings past their sell-by date?"
+author: "Helen Croydon"
+date: "16th March 2017"
+article_id: "804"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,480 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Croydon-1-New.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/screw-the-fairytale-auid-804"
+---
+
+# Screw the Fairytale
+
+*Are white weddings past their sell-by date?*
+
+**By Helen Croydon** | *16th March 2017* | *Read time: approx. 7 mins* | *1,480 words*
+
+![Screw the Fairytale](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Croydon-1-New.webp)
+
+---
+
+When [I say to people](https://iai.tv/video/screw-the-fairytale) that I don’t fancy marriage and kids, they look shocked, as if they have not imagined life any other way. Sometimes they make an aphorism about growing old with cats. Some get concerned that I may be lonely when I reach 70. Now, I don’t want to sound myopic, but I’m 37! Going on a hunt to find a permanent partner now to ward off a hypothetical state of loneliness several decades from now seems as shrewd as taking out a life insurance policy.  
+    
+ Besides, I hardly imagine that septuagenarians will have a problem with loneliness in the 2050s. The way technology is going we’ll have all manner of sophisticated social networking apps, location-mapping us wherever we go, linking us to niche social groups that share our interests.  
+  
+ It’s not that I’m against a relationship. Falling in love is one of the greatest human highs there is. But it’s not one of my life goals, as it is for so many. In our modern world, where we champion independence, seek convenience and strive for autonomy, it seems a bit anachronistic to me to put so much emphasis on finding The One.  
+  
+ Yet any single man or woman above 30 is presumed to be looking for that special person to ‘settle down’ with. The phrase itself reveals a lot about how society views single people. Are we all ‘unsettled’ until we meet a life partner? Everyone wants to try to help single people meet a potential partner. People say things like, “She’s had such a terrible year, I do hope she meets someone.” As if meeting someone is the magical panacea to contentment. That’s some expectation a would-be partner to live up to. Or, they say, “He’s met someone now and he’s very happy.” As if there’s nothing else to say. Life mission accomplished – he’s got a partner now so what could possibly go wrong?  
+  
+ Sometimes I feel like a community project. Friends, colleagues, family all have a single friend who they think might, just might, be the answer to my dreams. Occasionally I go wild and go on a date. Whenever I relay my feedback – “He was ok but there wasn’t really a spark.” – they look at me in disbelief. “But you could *get* to like him,” they insist, as if finding a partner is so imperative that any choice about the matter is a frivolous luxury.   
+    
+ I rather like being single. There are wonderful things about being in a relationship. I’ve tried them a few times. I even lasted three years once. I enjoy the physical affection, intimate friendship, someone knowing the narrative arc of my daily life and always having someone to spend a Sunday with. But overall, the things I gain from a relationship are not worth the things I lose. My energy, sense of ambition, enthusiasm to start new projects, my friendships, my sleep, my fitness and my sense of individualism all thrive when I’m flying solo. Not to mention the wardrobe space.  
+  
+ For my book *Screw The Fairytale*, I set about investigating the alternatives to our fairytale narrative of love. Surely there must be another way to express meaningful love without it being about all about joint friends, joint holidays, joint wash loads and weekend IKEA trips? It didn’t take me long to find that I am not alone in my reluctance to give up independence. Marriage rates are the lowest ever. In the 1950s married couples represented 85 per cent of all UK households. In 2012, it was 67 per cent.   
+    
+ The reason is simple. Relationships are no longer a necessity, as they have been throughout history. It is now perfectly possible and socially acceptable to live alone. That’s why many of us do! Nearly three and a half Britons over 45 in fact – a 50 per cent increase since the 1990s. 100 years ago this wasn’t possible. Before domestic conveniences like electricity, heating and Tesco home deliveries, life was too labour-intense. You didn’t just have to make your own bread, you had to grind the flour to make it with.
+
+\_\_\_
+
+"Marriage or romantic commitment should be viewed as a complement to our lives – nice if it adds something, no need for the hassle if it doesn’t."  
+\_\_\_  
+  
+ Even starting a family is less of an incentive to couple up. There are currently two-million lone parents in the UK, a rise of half a million since 1996. I don’t want children, which may explain why I’m so insouciant about finding a permanent partner. But even if I did mysteriously develop a maternal urge, I wouldn’t necessarily have to put up with a big, snoring, odd-sock-dropping male presence in my life as my grandmother would have had to.   
+  
+ As part of my research I befriended women who’d chosen to have children alone, through sperm donors. Their overriding sentiment was that although they would have liked to find a man to do it with, they wanted a child more than they wanted a man. One said: “I can find a relationship at any time of life but I can only have a child now. It’s hard being a single mother but in some ways it’s easier because I have control.” Even aspiring fathers don’t need to give up bachelorhood to be dads. The rise of so-called co-parenting websites has enabled them to find a platonic partner, donate sperm and take an active role in the resulting child’s upbringing.  
+  
+ Many commentators lament the demise of commitment. But it is hardly surprising that we find the idea of ‘forever’ so daunting. Today, most young people live away from home – at college, with friends, working professionally – before contemplating marriage. They have grown used to personal freedoms. Stanford sociologist Michael Rosenfeld identified this as a new stage of young adult life, which only emerged in the 1960s. He called it the ‘Age of Independence’ and put it at the root of many social changes including a delay in marriage. This isn’t to say that fast-paced living has no room for love, but perhaps we need to relax our ideals on what it should deliver.  
+  
+ Actually, this ambitious idea that our life-long partner should be our soul mate is new anyway. For thousands of years, in nearly all cultures, marriage was for securing beneficial in-laws, increasing the family labour force, bettering political ties and securing trade deals. Affairs of the heart were conducted discretely outside of marriage. Amongst the aristocracy, adultery was considered the highest form of love. If married couples happened to be in love, it was unacceptable to place each other above family, business or God. Christian theologians of the middle ages referred to spousal love as idolatry – the sin of valuing something more than God. State officials scolded wives who used affectionate nicknames for their husbands because it undermined men’s authority. In ancient India love before marriage was considered disruptive. In China, it was considered weak.  
+  
+ It wasn’t until the eighteenth century that young people started to demand that they should marry for love. Media commentators at the time were worried. How could an important arrangement like marriage be based on something as fickle as romantic love?! They warned that marrying for love would cause the demise of family relations. (They were right!) According to the writer and marriage researcher Elizabeth Gilbert, in every single society around the world, as soon as people demand a say in who they marry, divorce rates rocket.    
+  
+ I don’t suggest we go back to arranged marriages. Arranged marriages did work, when marriage was what we all had to do. But today there is no need for it. Marriage or romantic commitment should be viewed as a complement to our lives – nice if it adds something, no need for the hassle if it doesn’t. Perhaps if we adopted this approach we’d release our possessive claws from boyfriends, girlfriends and spouses. I hear colleagues joke in the pub about “sneaking in a quick one”, worried they may get home late. Why? Is their partner afraid of the dark? I hear boyfriends or girlfriends preventing each other going on holidays. Why does our lover have to be our keeper?  
+  
+ For my book I interviewed married couples who live apart, couples in open marriages, a commune of polyamorous lovers, asexuals, life-long bachelors and those who practise submissive-dominant role-play. All seemed to be looking for a solution to the same fundamental problem with relationships: the closeness and intimacy which we crave is the very thing that extinguishes the spark. None had quite achieved romantic nirvana (though married couples who live separately are pretty close), but it was clear that more and more couples and single people are waking up the idea that the fairytale doctrine of happily-ever-after is not the only path to take.
+
+Watch Helen's talk from HowTheLightGetsIn **[here](https://iai.tv/video/screw-the-fairytale)**.

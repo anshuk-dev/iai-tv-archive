@@ -1,0 +1,69 @@
+---
+title: "Is Extinction Bad?"
+subtitle: "A world without humans may not be a bad outcome."
+author: "David Benatar"
+date: "19th December 2018"
+article_id: "1189"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,433 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/is-extinction-bad-david-benatar-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/is-extinction-bad-auid-1189"
+---
+
+# Is Extinction Bad?
+
+*A world without humans may not be a bad outcome.*
+
+**By David Benatar** | *19th December 2018* | *Read time: approx. 7 mins* | *1,433 words*
+
+![Is Extinction Bad?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/is-extinction-bad-david-benatar-min.webp)
+
+---
+
+Carl Sagan once observed that “Extinction is the rule. Survival is the exception”. Indeed, it is estimated that [99.9% of all plant and animal species that have ever existed are now extinct](https://en.wikipedia.org/wiki/Extinction). It is just a matter of time before the same is true of those species that exist today. Thus, whereas Benjamin Franklin said that “in this world, nothing can be certain, except death and taxes”, he might have added to that list of certainties the “death of taxa”.
+
+While extinction of a species is inevitable, its timing is not. There is thus good reason not to be apathetic about recent reports that [humanity has wiped out 60% of (non-human) vertebrate populations since 1970](https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds). The phenomenon of anthropogenic extinctions is as old as our species. This is not to deny that there were mass extinctions as result of other causes, long before there were humans. However, humans have been driving extinctions since our emergence, including the extinction of 83% of all mammal species. For example, the number of megafauna species in Africa dropped as humans emerged. The rate of large mammal extinctions was significantly greater as humans migrated to the other continents (and to Madagascar).
+
+Although large animals, such as the woolly mammoth, were at greatest risk of human-induced extinction as a result of their size, vertebrate species of all sizes, terrestrial and aquatic, have been affected, including the dodo, the quagga, the Tecopa pupfish, and the once multitudinous passenger pigeon. One result is that today, [of all the mammals on earth, 36% are humans, 60% are our livestock, and only 4% are wild animals. 70% of all birds are chickens or other poultry, and only 30% are wild](https://www.theguardian.com/environment/2018/may/21/human-race-just-001-of-all-life-but-has-destroyed-over-80-of-wild-mammals-study).
+
+Should we care about past and future possible extinctions? Are these to be regretted and, where still possible, prevented? One basis for concern might be the loss of species diversity. Extinction does not *always* involve a loss of diversity. Sometimes the extinction of some species creates ecological space for other species to develop, although the latter can take thousands or even millions of years. In the short term the rate of extinctions is indeed reducing species diversity. However, it is not clear why such diversity is valuable and thus why its loss is something to be regretted or avoided.
+
+\_\_\_
+
+"The most compelling reason to be concerned about extinction can be seen if we shift focus from species to individual animals. The process whereby extinction unfolds typically causes plenty of harm to the individual members of the species headed for extinction."
+
+\_\_\_
+
+One way to explain why loss of species diversity is bad is that there are then fewer kinds of creatures for us to experience and appreciate. Species extinction can indeed have this effect, at least where we even know about and are interested in the species we are driving to extinction. It is easier to elicit concern about cute and cuddly pandas than about the [blob fish](http://uglyanimalsoc.com/) (although [ugly animals are not a lost cause](https://www.smithsonianmag.com/science-nature/are-ugly-animals-lost-cause-180963807/)). But should a species’ continued existence be dependent on our interest? It does seem excessively anthropocentric, at least if it is not coupled with other reasons for concern.
+
+One such further concern is the ecological disruption that could result from the extinctions. Again, this is not an inevitable consequence of extinction, as some extinctions will have little (or positive) ecological effect. Nevertheless, extinctions can have profoundly negative effects on the ecosystem, with knock-on negative effects for other species, including but not limited to humans.
+
+ Millions or even billions more individuals are killed in the process of extinction than already occurs independently of humans. Sometimes this killing by humans is direct – hunting, for example. Other human-inflicted suffering and death are brought about indirectly. One common route is via the destruction or restriction of, or other encroachment on habitat, making it difficult for the animals to find food or refuge.
+
+There is, however, one way in which extinction *reduces* harm. As the population of a species declines, fewer offspring are produced. Once the species is extinct, no new members of that species are generated. All the harm that new individual members of that species would have endured is avoided. One does not have to be an [anti-natalist](https://global.oup.com/academic/product/better-never-to-have-been-9780199549269?cc=za&lang=en&) to think that none of those potential beings had any interest in being brought into existence. That is to say, none of them is harmed by not being brought into existence. Yet all the harm that they would have experienced is avoided.
+
+\_\_\_
+
+"The prospect of a world without humans is not something that, in itself, we should regret."
+
+\_\_\_
+
+Does this mean that, far from bemoaning the surge of extinctions, we should actually extend and accelerate the extinctions? Those utilitarians who are interested in minimizing harm (rather than maximizing good) might be tempted to answer this question affirmatively. However, there are at least two reasons to resist that conclusion.
+
+First, seeking to eliminate suffering by pursuing extinctions is a very dangerous policy for fallible humans to pursue. It is likely to have manifold unanticipated negative consequences. For example, an unsuccessful attempt to eradicate all members of a species could result first in a decimation and then in a resurgence of the species. One then has all the costs of inflicting suffering and death without the subsequent benefit of no further harm for members of that species.
+
+Alternatively, one’s attempt to bring about extinction might be successful, but that could then impact negatively on other species. If, for example, a predatory species – perhaps lions or cheetahs – were brought to extinction, weaker members of the prey species would die lingering deaths from age and infirmity, rather than *relatively* quick ones at the teeth and claws of their predators. Similarly, the prey species population might increase in the absence of predators but would then be reduced through starvation when the population outstripped the food supply – another increase in suffering. These practical problems are very real ones that the wise, mindful of human limitations, would heed.
+
+If one thinks that not only outcomes but also means matter morally, then there is a second reason to resist the conclusion that we should pursue the extinction of animal species. For those who hold such a view, the end does not always justify the means. Because extinction would typically involve inflicting suffering and death on millions of animals, we are not permitted to do this even if we could thereby prevent still worse outcomes.
+
+However, once a species is already extinct, we should not seek to reverse that through what has come to be known as “[de-extinction](https://en.wikipedia.org/wiki/De-extinction)” – one or more processes, including cloning, genetic alteration, and selective breeding, aimed at “bringing back” extinct species. Such an endeavour can have the same sort of hubris as aiming at extinction, for here too there can be myriad unanticipated negative consequences. If an environmental change rendered a species maladaptive and that environmental change has not been reversed, a species brought back from extinction would remain maladapted. Even if the environmental change were temporary, reintroducing an extinct species *could* have negative effects in just the way that introducing alien species has. The latter is geographically alien, whereas the former is temporally alien.
+
+Even if we set aside consequences that cannot be foreseen, at least in their detail, there is one important known and negative consequence of de-extinction: new individual animals are brought into existence and thereby destined to suffer and die. In other words, the main reason to favour extinction is also the strongest reason to reject de-extinction, but the best reason to avoid extinction is also a good reason to avoid de-extinction – namely, that one is very likely make things worse.
+
+Talk about extinction becomes most sensitive when the species whose extinction one is considering is *Homo sapiens*. Some of those [advocating (voluntary) human extinction](http://www.vhemt.org/) do so precisely because of how destructive our species is. Yet the recommendation is not that humans be killed off. Instead, another route to extinction is recommended – non-procreation. This means of extinction would bring additional harms to the final people who, in their old age, would live without the benefits of a younger generation to produce food, and provide medical care and innumerable other services.
+
+While there are people who do voluntarily abstain from procreating, we can be confident that humanity will not in fact become extinct by this means. When humans do become extinct, it is most likely to be involuntarily, perhaps as an unwanted consequence of the climate change we are bringing about. The process leading to that extinction is to be regretted, because it will cause considerable suffering and death. However, the prospect of a world without humans is not something that, in itself, we should regret.

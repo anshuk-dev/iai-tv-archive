@@ -1,0 +1,61 @@
+---
+title: "Our touching faith in numbers"
+subtitle: "How our faith in data leads us astray"
+author: "Theodore M. Porter"
+date: "15th October 2020"
+article_id: "1654"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,733 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-10-20.trustinnumbers.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/trust-in-numbers-auid-1654"
+---
+
+# Our touching faith in numbers
+
+*How our faith in data leads us astray*
+
+**By Theodore M. Porter** | *15th October 2020* | *Read time: approx. 9 mins* | *1,733 words*
+
+![Our touching faith in numbers](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-10-20.trustinnumbers.ata.webp)
+
+---
+
+*We are infatuated with data and quantitative methods, preferring decision by calculation over human wisdom, even when data is unreliable and a product of our models. 25 years on since the first edition of his foundational work on the rise of ‘data-driven decision making’ in public life, *‘Trust in Numbers’,* Theodore M. Porter picks up the case.*
+
+Americans, at least, are caught up now in an epidemic of politicized deceit, extending to untruths so glaring that any effort at reasoned refutation seems pointless.  The poster child for this mode of talk is (at least for the moment) our president.  How can an educated populace care so little for what to most decently educated people appears as settled knowledge?
+
+Ordinary citizens are likely to receive basic instruction on the pursuit of knowledge in pre-college science classes, typically as rules of "scientific method." Philosophers and social scientists who write on science are mostly skeptical of doctrines of such method talk.  At best, it says something about testing, bypassing entirely the fundamental problems of framing a hypothesis that is worth testing. 
+
+Getting good numbers, especially for complex problems, is anything but straightforward.
+
+Beyond that, really serious problems like trying to understand and control an epidemic involve issues that go far beyond testing hypotheses.  Scientists at work are more likely these days to speak of modeling than of hypothesis testing. Modeling has to do with establishing the structure of the problem at issue. In much science that really matters, even the data are enveloped in doubt.  It is still possible for researchers to make persuasive arguments about complex issues, but much of what seems simplest may well be misleading. Numerical data, often described nowadays as the bedrock of science, may be all the more deceptive just because it seems basic and unfiltered. In reality, the relationship of data and models goes in both directions is. That is, data often is nothing like bedrock.  In complex science, the model is often required to fix values for the data. 
+
+"Scientific method" has a formulaic character that makes science sound simple, and may encourage the idea that legitimate science can be recognized by anyone.  The celebration of data, so typical or our own time, is also a bit like this, a simplifying move.  Even competent scientists sometimes endorse it unthinkingly.  Getting good numbers, especially for complex problems, is anything but straightforward. 
+
+An example like Covid-19 reveals how abundant and mundane the obstacles to reliable data can be.  They may have more to do with bureaucratic irregularities than scientific mysteries.  The rules for registering sickness and death, for example, vary at every level, from the town or county to the nation.  The recording of deaths may be delayed on weekends or when the victims of disease are away from home, and a cause of death may remain undetermined if the victim was never taken to a hospital.  Diagnosis of the sick, of course, depends on testing regimes and on the accessibility of medical personnel.  Even Trump, a canny but unskilled statistical meddler, came to realize that he could reduce the measured incidence of Covid simply by testing less.  He made no effort to conceal his motives but seemed rather proud of his little discovery, and he encouraged his supporters to back his efforts to limit information.  What would remain unknown, the identities of many human disease carriers, might well occasion an increase in sickness and death by promoting the spread of the disease.  But first it would create a momentary dip in the disease curve, and that, for him, was reason enough. 
+
+[Theoretical epidemiologist Sunetra Gupta asks if mathematical models should aim for realism.](https://iai.tv/video/the-uncanny-valley-pandemic-model "Watch more videos on iaitv")
+
+Statistical measurement in the service of knowledge often requires adjustments to raw numbers.  A difference of death rates between youth returning from ski vacations in northern Italy vs. nursing home patients in New Jersey or Massachusetts did not, by itself, prove anything about comparative diagnostic vigilance or relative quality of medical care.  And yet the researchers would like very much to learn what they can from comparisons of different populations like these. That is the kind of judgment for which epidemiologists are trained, a skill in data interpretation that develops through a combination of mathematical study and long experience, and sharpened through discussion and debate.  
+
+Debate, however, especially in public forums, can also undermine the solidarity of experts and even their sense of shared purpose, especially when scientific positions get tangled with political ones.  Beyond that, specialist qualifications that are clear to scientists may be indiscernible to the lay public. A surgeon seeking political influence can challenge the epidemiologists, claiming better understanding on the basis of a reputation for skill with a scalpel.  Especially in moments of disconcerting controversy, admired experts, too, may prefer to put aside the complications and to follow a simple rule so that they will not be accused of manipulating the analysis to get a favored outcome.  
+
+"The new quantitative practices were not driven by an abiding faith in the superiority of rigorous calculation over every other form of human reasoning, but a historical process in which a mode of calculation, once put in place, could not be turned back"
+
+What I have called "trust in numbers" is not - as it may at first seem - a blind faith in calculation, but a more or less conscious decision to put aside complications in order to reduce ambiguity.  My book with this title came out a quarter-century ago in 1995, and since then has somehow survived and even gained in prominence, inspiring the publisher to reissue it with a new foreword. This book addresses a range of quantitative tools, from social and mathematical statistics to therapeutic trials and rules of accounting.  The most sustained historical analysis in the book takes up the creation of cost-benefit analysis as a tool for making public decisions.
+
+Although it is true that modern engineers have become enamored of quantitative solutions, the American state engineers who worked out the earliest version of cost-benefit accounting adopted to it reluctantly.  These engineers had definite ideas about the kinds of waterways that were suited to the construction of canals or dams, and of the agricultural or industrial settings where their projects would be welcomed.  In real life, political negotiation had always been indispensable to the planning process for waterworks.  But the massive expansion of such projects beginning in the New Deal moved critics and competitors to challenge their traditional planning process.  State engineers responded with the pose that it was all a matter of calculation.  Once this cost-benefit standard had been enunciated, however, it became possible for opponents to hold these engineers to that standard in public hearings and legal actions.  Before long, their makeshift calculations had to be formalized, and not long after that they were held up as a model of rigorously rational planning, decision by calculation.
+
+In the clunky language of data driven-ness, scientists express outrage against all those intellectual nihilists who pay no heed to the accumulation of measurements and modeling outcomes.
+
+The idealization of numerical reasoning implied by a title like Trust in Numbers has a place in my story, but, as should be clear, it is not a story of spontaneous devotion to calculation as the foundation of rational judgment.  My story, in fact, is not so much one of spontaneous trust as of ineluctable distrust. The new quantitative practices were not driven by an abiding faith in the superiority of rigorous calculation over every other form of human reasoning, but a historical process in which a mode of calculation, once put in place, could not be turned back.  My point here is not to condemn calculation or even to deny its plausibility, but to understand how, in water planning and then more generally, quantitative rigor and expertise were placed at least partly in opposition to each other. Or, at least, the claims featured in their defence of scientific expertise have come to be stated in simplistic terms, as if it all came down to data and arithmetic.  
+
+My general point can be summed up in the recent history of two slogans.  The first is "evidence-base," a term linked especially with a new insistence on statistical medicine.  It was allied to an enthusiasm for numbers, but also in this way to political and regulatory ambitions.  Statistical trials came to be celebrated as providing a basis--at last--for a reliably demonstration therapeutic effectiveness.  It began to be described as the "gold standard." By implication, and often explicitly, it cast doubt on less formalized rationales of medical practice, including medical sciences such as physiology and bacteriology.  Or at least, statistical medicine withheld approval until these kinds of explanations of disease and its treatment were borne out in statistics. It put little stock in the wisdom that had formerly been said to arise out of long experience.
+
+Up-to-date science advocacy is obsessed with data.  Good science, real knowledge, is often described nowadays as "data-driven."  We recognize this phrase immediately as a tribute to the software industry and the algorithm. Machine learning and artificial intelligence are also part of the package, all suggesting that computers can manage quite a lot of what once appeared to be distinctively human.  The achievements of digital computers of course are real, even dazzling.  We may not yet be ready to close the book on human judgment and wisdom, however.  The other basic dimension of the cult of data is insecurity, giving rise to a quest for utterly impersonal evidence.  In the clunky language of data driven-ness, scientists express outrage against all those intellectual nihilists who pay no heed to the accumulation of measurements and modeling outcomes, and experimentally-demonstrated mechanisms of climate change.  "Data-driven" refers here in a self-effacing way to honest investigation in place of ideological pronouncements. Above all it is necessary to expunge the personal. 
+
+As with cost-benefit calculations and "evidence-based medicine", the cult of data seems to presume a prior passivity as if human investigators were scarcely involved at all.  They want to trust the numbers so as to keep clear of human fallibility. The obsession with "data-driven," especially, sounds aggressive, even arrogant, but has more to do with its vulnerability.  It tends also to narrow the field of discussion, and possibly to exclude actors who deserve to be heard.  Since there are no easy answers to the problem of political dismissal of unwanted science, we would do better to recognize that serious science is complex, and at the same time that expertise is real and precious.

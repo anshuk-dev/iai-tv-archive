@@ -1,0 +1,59 @@
+---
+title: "Hidden Desires and Secret Thoughts"
+subtitle: "Has neuroscience superseded psychoanalysis?"
+author: "Richard Bentall"
+date: "Issue 46, 15th May 2016"
+article_id: "672"
+channel: "Science"
+themes: "Psychology & The Brain"
+tags: "None"
+word_count: "1,174 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Richard-Bentall-50.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/hidden-desires-and-secret-thoughts-auid-672"
+---
+
+# Hidden Desires and Secret Thoughts
+
+*Has neuroscience superseded psychoanalysis?*
+
+**By Richard Bentall** | *Issue 46, 15th May 2016* | *Read time: approx. 6 mins* | *1,174 words*
+
+![Hidden Desires and Secret Thoughts](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Richard-Bentall-50.webp)
+
+---
+
+Many have been sceptical of Freud's claim that unconscious desires control our lives. Yet studies show the conscious brain processes only a tiny fraction of the brain as a whole. Are hidden desires and secret thoughts driving our actions, or is our conscious brain in full control?
+
+Richard Bentall is a clinical psychologist and author of *Doctoring the Mind* and *Madness Explained*. He is a leading critic of biological explanations of mental illness and the pharmaceutical industry. He teaches at the University of Liverpool.
+
+Here he speaks to the IAI about fantasy, disgust, cognitive behavioural therapy, and the “two brains” of every human being.
+
+**In the [Hidden Desires and Secret Thoughts](http://iai.tv/video/hidden-desires-and-secret-thoughts) debate, you argued that there is such a thing as the unconscious realm. How can we know that?**
+
+The unconscious is a loaded concept because it means different things to different people. Freudians, for example, will talk about a dynamic unconscious where the subconscious has motivational properties. The Freudian view is that a dream is a secret wish escaping from day-time repression into a quasi-conscious state.
+
+But there’s another concept of the unconscious which is much more consistent with what we know about psychology and neuroscience. This is the idea that we’re simply not aware of the causes behind a lot of what we do, perhaps the majority of what we do. What happens is that we’re responding to stimuli in our environments in all sorts of subtle ways and this is all operating at an unconscious level. Perhaps a Freudian would say a pre-conscious level. This relates to an idea which I’m very keen on – the idea that in a sense human beings have two brains.
+
+The problem we share with other vertebrates is that we have an associative brain that works by conditioning. I shouldn’t say conditioning; it’s actually a very subtle process. Somebody once said that the only simple thing about conditioning is the name. On top of that are the language-based, hard cognitive processes. We suffer the illusion a lot of the time that our decisions get made at that higher conscious level.
+
+A good example is that of values and moral beliefs. For many years psychologists have been looking at the moral beliefs of children and how they develop over time. We’ve persuaded ourselves that the highest level of moral development is where a child can start reasoning in a utilitarian or a Kantian way so either in terms of a desirable outcome or a process dictated by logic. That’s all very good but it’s based on testing children who in adulthood end up having expensive university educations. They are not representative of humanity as a whole because they’ve been taught to reason in that way as part of their education. For most parts of the world and most people, a lot of our moral reasoning is intuitive. For example, take people’s attitudes towards minorities. Homophobia, for example, is very strongly related to the emotion of disgust – and that’s conditioned. What happens is you experience a gut reaction – “that doesn’t appeal to me” – and then your higher cognitive brain constructs some explanations of that initial reaction. Often we construct some quite daft ideas and then persuade ourselves that it was the idea which led to the reaction, when in fact it can be the other way round.
+
+American psychologist John Haidt uses a good metaphor for this. He describes the brain as a human riding an elephant. If you try very hard you can get it to go the way you want but mostly it just wants to go wherever it wants to go. Then, when it goes where it wants to go, we try and persuade ourselves that we always wanted to go there. That’s a different concept of consciousness; it’s simply the recognition that only for a small proportion of our behaviour are we aware of the reasons.
+
+**Is there any truth in the Freudian idea of the subconscious as a breeding ground for hidden desires and fantasy?**
+
+There’s a partial truth to it. Clearly people do have desires which are to some extent conditioned. It is a completely murky area where people’s sexual interests come from, but for the most part they are not the result of rational or conscious decision-making. So there is some sense in which our desires, a lot of our desires, belong to that preconscious realm. We’re aware that we have the desire but we’re not always aware of where it comes from.
+
+But even that is somewhat different from the Freudian idea because Freud argues that you can have the desire and not even be aware that you’ve had it. So you have to ask yourself: “How would I know if that was true? What’s the test?” One powerful criticism of Freudian theory is that you it’s very hard to think of a way to test whether it is true or not.
+
+I should say that I do have some sympathies for Freud – for example, his concept of the defence mechanism. This is when you’re trying to control your consciousness and its unpleasant desires. We try and regulate our anxiety and our depression and try not to think about things which upset us. Death is one obvious example. People try very hard not to think about death. Indeed when you make them think about death it really makes them unhappy.
+
+**How much of what we do actually takes place on a conscious level?**
+
+Not very much. Here’s a simple example. You have to get to work but you’re not looking forward to it, so you get in the car feeling grumpy, turn on the ignition, and start driving. You think about all the horrible things you have to do today and then about how nice it would be if you were at home. Eventually you arrive at your destination and you suddenly realise that you don’t remember anything about the journey itself. While you were ruminating about all these issues in your conscious mind, at an unconscious level, your brain was operating clearly, signalling turns, stopping at junctions etc. You’ve got from A to B and you haven’t killed anybody. Your car is still intact but your head was somewhere else. This is the norm. It is only certain aspects of our experience which we are actually aware of.
+
+**Is it possible to work with our unconscious thoughts to benefit our psychological health?**
+
+The Freudian idea is that in therapy, by creating the right relaxed circumstances, your unconscious is allowed to speak. Then we become aware of it and can improve our psychological health. I’m not really convinced by that. Nonetheless we can learn new habits and train both the unconscious and the conscious brains to do a better job for us. Through cognitive behavioural therapy (CBT) we can train ourselves to react in different ways to the world around us – for example, to be less anxious in new places. This involves training the conscious mind to take control over the unconscious mind. Again, that reinforces this idea that human beings have two brains – the associative and the conscious.

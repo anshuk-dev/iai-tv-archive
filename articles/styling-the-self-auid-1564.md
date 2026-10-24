@@ -1,0 +1,57 @@
+---
+title: "Styling the self"
+subtitle: "The real muddle of autobiography"
+author: "Sally Bayley"
+date: "Issue 89, 15th June 2020"
+article_id: "1564"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "1,293 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-15.bayley2.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/styling-the-self-auid-1564"
+---
+
+# Styling the self
+
+*The real muddle of autobiography*
+
+**By Sally Bayley** | *Issue 89, 15th June 2020* | *Read time: approx. 6 mins* | *1,293 words*
+
+![Styling the self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-06-15.bayley2.ata.webp)
+
+---
+
+We write to know we aren’t alone. We read for the same reason: to lose ourselves in the lives of other characters; to surround ourselves with the sights and sounds of other lives; to join imagined communities we can take on as our own. All writers are lonely, and all readers too, and those of us who keep journals turn those private pages into other versions of ourselves.
+
+Diaries allow us to practise ideal identities and to resolve future hopes and fears. On November 13th, 1949, the young writer, Sylvia Plath, set down a manifesto for her future self in the pages of her journal. She chose not to write, but to type her entry, for this was a distinctly formal arrangement with herself: a private audition for her emerging public self. Casting herself as ‘The Girl Who Would be God,’ seventeen-year-old Plath automatically grants herself the leading role in her private drama: as omniscient creator, magus and maker.
+
+Suzie Hanna’s film, [‘The Girl Who Would Be God’ (2007)](http://www.suziehanna.com/plath.html) turns this diary entry into a piece of animated imagined biography. Working closely with the original diary entry, and the Plath archives from Smith College and Indiana University, Hanna’s film begins by showing us the young writer typing up her literary fantasia from the confines of her small bedroom in Winthrop, Massachusetts. Hanna’s research is meticulous, but she does not try to capture or recreate the historical Sylvia Plath; instead, she creates an imaginatively inferred version of Plath drawn from the names of film stars and fairytale characters she records in her journals. Disney’s dark-haired Snow White is among them. A local teen from Hanna’s hometown plays Plath on screen - an approximate version of the Disney heroine - while the so-called ‘real’ Sylvia Plath remains invisible.
+
+Any memoir will be partly fictional and partly true depending on what we choose to fixate on. Whatever personal truth we come to in the process of weaving our memories together, some part of this tapestry will always be built upon distortions and exaggerations.
+
+The film plays with the jagged and torn outlines of paper collages and cut-out dolls, those paper crafts Plath pursued as forms of play and self-styling. Hanna is careful to avoid any replication of Plath from photographs, not only for the sake of professional ethics, but also to honour Plath’s artistic preference for veiled and constructed personae. This is the figure who slide behind mirrors in several of her poems; an ambiguous double self who remains off-stage and in the shadows.
+
+Plath did not write a memoir, but her poetry dramatises and gives voice to what Emily Dickinson called ‘dwelling in possibility’: several versions of a life summoned and held together. Memoir allows a writer to create alternative versions to lived events. This is because memory itself conspires to create sets of patterns and images obsessively replayed, stopped and restarted -- as we choose. Thus any memoir will be partly fictional and partly true depending on what we choose to fixate on. Whatever personal truth we come to in the process of weaving our memories together, some part of this tapestry will always be built upon distortions and exaggerations: all the stuff of fiction.
+
+[Hermione Lee, Ray Monk and Stephen Frears ask if biographies are works of fiction](https://iai.tv/video/the-art-of-life "Watch more videos on iaitv")
+
+I’ve completed two memoirs, and both have been described as novels. Novels invent plots and characters and memoir traces the vagaries of memory through fictional lines, because any sort of memory work leads us towards that audition Plath stages in her bedroom: vivid scenery arriving from another world, another place and time, that resembles, but soon overlays, the first world of lived experience. That world is long gone and will never come back; so as a form of recompense, we build castles in the air. Plath was drawn to the image of the castle; as a child she drew castles and mermaids, the Lorelei figure of those Germanic fairytales her mother read aloud to her. These were the recurring images of her juvenile imagination. Walt Disney added his own form of visual sugar and spice.
+
+My most recent memoir, No Boys Play Here (William Collins, January 2021) follows on from the first part, Girl with Dove (William Collins, 2018), which reproduces the experience of a young girl immersed in a world of literary characters and voices. The characters of Jane Eyre, Miss Marple and David Copperfield, are blended and merged with characters from my own family life, such that the literary and the real are often impossible to distinguish. Literary style and technique, and literary impersonation, allows for this. My intention was not to confess to a troubled childhood, but rather, to reproduce the experience of a child immersed in a world of word-patterns and images she took to be as real as the batty world she found in front of her.
+
+No Boys Play Here includes drawings by artist [Arizona Smith](https://www.arizonasmithart.com/), and depicts versions of Shakespeare’s characters meeting and merging with the identity of the young narrator. Jessica, the daughter of Shylock from The Merchant of Venice, offers a significant second self and a literary shelter. Shakespeare’s Jessica is a borrowed identity for the emerging identity of the memoir’s protagonist. Smith’s drawings offer their own imaginative refuge, and as I see it, an alternative set of relatives: another family album.
+
+![Arizona Smith illustration features in No Boys Play Here by Sally Bayley](assets/Uploads/plath-film.png)
+
+**'Jessica Plays the Prince',** by **Arizona Smith** featured in *No Boys Play Here* by **Sally Bayley**
+
+My mother was an artist and the visual world has always been part of my literary experience. Smith’s drawings offer a portal for the child’s porous imagination to move through: a space for suggestion and inference, hints and clues, and some firmer perhaps than the clues given in the written text. The drawings are here not to distract, but to confirm, the strange and estranging quality of the literary world. This is an historic and also an imagined past: a blend of Shakespeare’s partly historical, partly fictional account of English history run through the War of the Roses. To this is added the England of the 1960s, 70s and 80s, as well as flashbacks to more ancient orders of time learnt at school in history lessons. Finally, there is an element of folklore, which challenges and disputes received truths and history. All these layers of story-time meet and merge in a kaleidoscopic form.
+
+Part of the joy of autobiography is that style must often compensate for facts, and it frequently does, because in life facts are often quite thin on the ground.
+
+The narrator is a child coming of age in a confusing household and culture. Private and public worlds collide, bringing yet more confusion. As with Girl with Dove, the reader follows the child’s wandering imagination as she tries to gather up parts of stories dropped along the way from overheard adult chatter: gossip, anecdotes, family lore and legend. This is Alice making her way through a peculiar wonderland of arbitrary rules and regulations. Nothing quite makes sense. We soon understand that the past will always remain muddled; will continue to need a good deal of sorting and untangling, like that ball of wool Alice feeds to her cat, Dinah. And like the strange stories we are fed of Betsey Trotwood’s runaway husband at the beginning of Dickens’s wonderfully muddled semi-autobiographical novel, David Copperfield, we are left wondering just how much of this is made up for the sake of play (a husband run off to play with a baboon in Africa: surely not?) Part of the joy of autobiography is that style must often compensate for facts, and it frequently does, because in life - as my mother liked to say - facts are often quite thin on the ground. So we must turn to fiction to gather our momentum.
+
+[The Girl Who Would be God](https://vimeo.com/44538641) from [Suzie Hanna](https://vimeo.com/user10435193) on [Vimeo](https://vimeo.com).

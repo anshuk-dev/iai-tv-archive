@@ -1,0 +1,61 @@
+---
+title: "Life As a Work of Art"
+subtitle: "An outdated metaphor, or pointless self-help advice?"
+author: "Bence Nanay"
+date: "Issue 68, 16th August 2018"
+article_id: "1129"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "819 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gerhard-Richters-Gelbrun-Yellow-Green-on-exhibition-at-Sothebys-2018.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/life-as-a-work-of-art-auid-1129"
+---
+
+# Life As a Work of Art
+
+*An outdated metaphor, or pointless self-help advice?*
+
+**By Bence Nanay** | *Issue 68, 16th August 2018* | *Read time: approx. 4 mins* | *819 words*
+
+![Life As a Work of Art](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Gerhard-Richters-Gelbrun-Yellow-Green-on-exhibition-at-Sothebys-2018.webp)
+
+---
+
+It’s August and it’s hot. Holiday time. Which reminds me of one of my favorite quotes by Robert Musil from his novel *The Man Without Qualities*:
+
+'What sort of life is it that one has to keep riddling with holes called ‘holidays’? Would we punch holes in a painting because it demands too much from us in appreciation of the beautiful?'
+
+Musil is making fun of the breathtakingly popular and influential idea that we should turn our life into—or treat our life as—a work of art. Everyone who is anyone in Western modernity endorsed some version of this metaphor, from the Earl of Shaftesbury to Goethe, from Nietzsche to Duchamp. And these days the self-help industry also tries to make the most of it. For my part, I'm on Musil’s side and think that this is one of the most overhyped ideas in Western thought.
+
+If you squint, you could see how this life as a work of art idea could make some kind of sense in the 19th century, when works of art were well-constructed coherent wholes. I can see someone striving to turn their life into a Stendhal novel. But turning your life into a Robbe-Grillet novel, where literally nothing happens, or a Bolaño novel, where lots of terrible things take place, would be a very dubious enterprise.
+
+In a general sense, the problem we face is that art has become too much like life. In fact, the big slogan of the art movements in the last half century or so (at least since fluxus and pop art) has been that art should not be cut off from life. So if art becomes like life, then turning your life into a work of art either makes no sense or it becomes a pure anachronism. There is even a sub-genre of visual art where the artist cuts actual holes into their pictures, which makes the Musil quote I started out with even funnier…
+
+\_\_\_
+
+"The problem we face is that art has become too much like life... So if art becomes like life, then turning your life into a work of art either makes no sense or it becomes a pure anachronism."
+
+\_\_\_
+
+But perhaps I’m not being charitable enough. Maybe the main idea here is not that our life should be turned into a work of art, but rather that our attitude towards life should be like our attitude towards a work of art.
+
+This approach is not without its own champions either. Albert Camus, in his largely forgotten novel *A Happy Death,* writes that “like all works of art, life also demands that we think about it”. A nice one-liner, but the reference to works of art is really something of a red herring. There are lots of things that demand that we think about them — philosophy papers, news from the White House, the mystery of why Cinderella’s shoe would fall off if it fit her foot perfectly.
+
+**[![pollock 2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/pollock-2.webp)
+
+SUGGESTED READING
+Philosophy vs. Psychology
+By Andrew Bowie](https://iai.tv/articles/why-science-should-butt-out-of-philosophy-auid-834)**
+
+So works of art are not particularly helpful in this respect as a comparison for everyday life. And while some works of art surely demand thinking about them, what is there to think about the *Brandenburg Concertos* or a Mondrian painting? Camus’s bonmot does not really add anything new to the old ‘unexamined life not worth living’ mantra.
+
+One could say that it is not thinking, but something like contemplation that is the right attitude to have both towards life and towards works of art. Oscar Wilde is just one of many cultural icons who urge us to become the spectator of our own life. And you can see how this is a line some more current self-help schools like the Stoic/Buddhist revivals or mindfulness would exploit with a vengeance.
+
+This is not the place to try to take down the mindfulness industry and its more respectful-looking peers, but the reference to our engagement with works of art is not something that even avid fans of this approach should push. There is a school of thought, according to which contemplation is the only—or at least a privileged—way to enjoy art. It is often called aestheticism and it is vaguely associated with Wilde, Proust and maybe Pessoa and Susan Sontag.
+
+It would be hard to deny that aestheticism is on its way out. One could even argue that it is the diminishing role of contemplation in our artworld that made it so easy for the mindfulness industry to take over that niche. Either way, contemplation is clearly not what much of our engagement with artworks is all about. A Hitchcock film or a Cirque du Soleil performance does not encourage peaceful contemplation.
+
+Lots of things can be art. And there are lots of ways to relate to works of art, none of them are inherently better than others. So urging us to turn our life into a work of art – or to relate to life as if it were a work of art – is neither helpful nor particularly meaningful.

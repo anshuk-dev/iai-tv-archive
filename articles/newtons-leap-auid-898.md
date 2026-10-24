@@ -1,0 +1,46 @@
+---
+title: "Newton's Leap"
+subtitle: "How did Newton decipher a mystery others couldn't?"
+author: "Andrew Janiak"
+date: "Issue 59, 2nd October 2017"
+article_id: "898"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,435 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Janiak-image-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/newtons-leap-auid-898"
+---
+
+# Newton's Leap
+
+*How did Newton decipher a mystery others couldn't?*
+
+**By Andrew Janiak** | *Issue 59, 2nd October 2017* | *Read time: approx. 7 mins* | *1,435 words*
+
+![Newton's Leap](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Janiak-image-1.webp)
+
+---
+
+An apple falls from a tree and a young man from the English countryside jumps up and shouts: “Eureka!” He immediately sees that the force of gravity, which makes apples fall out of trees, must be the same force that makes the moon orbit the earth, the earth the sun, and so on. It all comes together in his fertile and amazingly creative mind. This is an often-told tale about the young Isaac Newton, who was home visiting from his college at Cambridge University in the 1660s. He himself told something like this neat little story later in his life. If you want, you can go to Cambridge, England, and see, not Newton’s actual apple tree but one that is a relative of his. It takes pride of place in the local botanical garden.
+
+Unfortunately, there’s just one problem. Like many good stories that make up our narratives of the past, this little episode never happened. Manuscripts and letters show us clearly that it took much more than a single moment under the shade of a little apple tree for Newton to figure out gravity. In fact, it would be many years before his complete conception of gravity and its extensive and perplexing role in our universe would crystallize in his mind. It’s a great little story but history is more complicated than little stories often make it seem. So what *did* happen? How did Isaac Newton, a young man whose family lived on a modest farm, figure out the theory of universal gravity, a scientific development that left the world forever changed? The happy truth of the real history is that Newton’s discovery was even more amazing than the story of the apple falling from the tree implies.
+
+But wait a minute: what could be more amazing than a young man discovering a fundamental force of nature while sitting under a tree? For starters, we have to recognize how foreign Newton’s ultimate idea about gravity was to philosophers, astronomers and mathematicians in the era of the Scientific Revolution. Newton provided an answer to a question that hadn’t even been asked yet. The problem with understanding the distant past is that we take our twenty-first century ideas and attitudes for granted. We think, for example, that the following is obvious: if the planets, like the Earth and Jupiter, regularly orbit the Sun, there must be *something* that *causes* them to follow their orbits. After all, if nothing caused them to orbit the Sun, they would fly off into deep space. That seems so obvious to us, it’s hard to imagine that for centuries, the world’s leading thinkers, from Aristotle to Ptolemy and onwards, did not have that idea at all. Instead, for many generations, leading philosophers and mathematicians thought this: the circle is a perfect mathematical form, and the planetary orbits are circular, so they are ever-lasting aspects of the natural world. To them, the orbits were so perfect that nothing caused them to occur. They simply were. The question of what caused the planetary orbits was not even on the table for astronomers in those days. Down on earth, apples fell from trees throughout history just as they do now. But philosophers and mathematicians didn’t have any reason to think that whatever causes apples to fall to the ground might somehow be connected to anything going on in the heavens. After all, the heavens were thought to be the home of everlasting motions, of perfect circles, and were therefore nothing like the constantly changing, messy world down below, where worms eat through apples as they rot on the ground.
+
+\_\_
+
+"For the first time in human history, a link had been made between everyday phenomena down on earth and the behaviour of the great planetary bodies and satellites that make-up our solar system.'"  
+\_\_\_
+
+Enter Isaac Newton. As a young man, he was given a classic education at Trinity College, Cambridge, but he spent much of his time reading the great “modern” thinkers, like Galileo, Descartes, and Hobbes. He desperately wanted to engage with the latest scientific and philosophical thought. Galileo was a great inspiration: his experimental studies of free fall helped Newton to understand the surprising fact that all bodies fall toward earth with the same acceleration. Descartes might seem a less obvious source of knowledge in our minds but in Newton’s day, he was considered perhaps the greatest mathematician—Cartesian coordinates are named after him for good reason. And it was while studying Descartes’s often ignored text, the *Principles of Philosophy* (1644), that Newton encountered an amazingly novel idea: the same physical principles ought to apply to the beautiful heavens above and to the messy world down below. Indeed, even Galileo did not quite take the step that Descartes boldly took by arguing that a single set of laws apply to the whole universe. And what is more, Descartes insisted that something must be maintaining the planetary orbits. Newton was impressed.
+
+After years of study, Newton took the next step, which was really more of a leap. He thought more deeply than anyone before about these two problems: the fall of apples toward the ground, and the cause of the planetary orbits. How can we combine them into a single perspective? We see the moon orbiting the earth, and we can study the way that heavy objects fall to the ground. Newton then took a leap of the imagination to connect them: what would happen if the moon were brought down from the heavens toward the surface of the earth? Would the moon fall to the ground like an apple? He studied the latest astronomical tables, made a breathtaking series of calculations, and reached his astonishing answer: yes! In fact, the moon would fall to the ground just like the regular objects we see everyday.
+
+For the first time in human history, a link had been made between everyday phenomena down on earth and the behavior of the great planetary bodies and satellites that make-up our solar system. Before Newton, when anyone spoke of the *weight* of a body, or of *gravity*, as Galileo and countless others had done, they were referring to ordinary objects on earth. Newton made a bridge between those thoughts and his understanding of the planets: he concluded that the force of gravity, which makes a little apple fall from a tree, is precisely the same force that makes the moon orbit the earth, the earth the sun, and so on. Eureka! The modern theory of gravity was born.
+
+But Newton was even bolder than this story indicates, for he then took another step, one that many of his contemporaries bemoaned. He didn’t rest with developing a theory of gravity that covers everything from apples in Cambridge to the moons of Jupiter. He went even further, contending that gravity is a “universal” force, one that acts on *all* bodies throughout *the entire universe*. That was a bridge too far for many philosophers and mathematicians in his day, such as G.W. Leibniz in Germany, the co-discoverer of the calculus, and Christian Huygens in Holland, one of the leading scientists in the late 17th century. After all, Newton was now making one of the boldest claims ever made in the history of science: gravity is such a powerful force in the universe, it explains not only the fall of bodies on earth, *and* the planetary orbits, but also the motions of bodies on the other side of the universe, lying way beyond the reach of our strongest telescopes.
+
+Was it a bridge too far? Had Newton been too bold? Here we reach the final, dramatic moment in the story. Despite the objections of the leading European thinkers of his day, it turns out that Newton was right. Gravity is indeed a fundamental force, one of four forces known today, and it does act on all bodies throughout the universe, as he had boldly claimed. Indeed, we owe our basic conception of the forces of nature to Newton more than to anyone else. Sure, we now know that Newton did not have the last word on gravity: Einstein’s theory of general relativity, first announced in 1915, and confirmed soon thereafter, envisions a world in which gravity is understood through the curvature of space itself, which is due to the distribution of matter-energy throughout it. And that idea, of course, was not even dreamed of during the time of the Scientific Revolution. Despite Einstein’s genius and the amazing developments in physics in the 20th century and beyond, however, it’s safe to say that gravity will forever be linked to the young man from the English countryside who could see further than anyone else.

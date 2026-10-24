@@ -1,0 +1,74 @@
+---
+title: "The Human Compass"
+subtitle: "What causes extremism? Is the answer in all of us?"
+author: "Janne Teller"
+date: "Issue 48, 27th March 2016"
+article_id: "656"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,502 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Teller-48.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-human-compass-auid-656"
+---
+
+# The Human Compass
+
+*What causes extremism? Is the answer in all of us?*
+
+**By Janne Teller** | *Issue 48, 27th March 2016* | *Read time: approx. 8 mins* | *1,502 words*
+
+![The Human Compass](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Teller-48.webp)
+
+---
+
+At the present time, extremism of all kinds seems to grow by the day, whether right-wing political nationalism in Europe, newfound xenophobia in America, or religious fundamentalism in parts of the Islamic world. The geo-politics behind the rise of fundamentalist beliefs – even of Al Qaeda, ISIS and other horrifically violent groups – in countries in conflict, like Afghanistan and Iraq, is complex, but well known. And it’s no wonder that people living under extreme duress, turn to extreme beliefs and means of response.
+
+But what are the reasons that in the richer Western world so many people, and in particular young people of many talents, choices and comforts, turn to fundamentalist ideologies? How in a digital, globalised world without the old-fashioned social control mechanisms inherent in small-scale geographically bound communities, do we halt this trend towards the perilously seductive blinding territory of one-and-only truisms?
+
+**The White Heart of Darkness**
+
+When many years ago, in 1988, I first moved to the Tanzanian capital Dar es Salaam, my shock of horrors as to this continent of Conrad’s *Heart of Darkness*, had little to do with East Africa, her people or her nature. No, it had all to do with what happened *within* the *white* people coming here. Many, by far too many, of the European advisers, consultants and so-called experts – at the time mostly made up of men – could be easily placed in one of two categories: Those who quickly felt so uncomfortable at their meeting with a lifestyle and culture far from their own, that they left within the first few months; and then those, who as we said, ‘went local’. The latter was a derogative way of referring to men, often married, coming from normal Western middle-class backgrounds and social settings in their home country, suddenly starting to act like mini-emperors, descending into more or less continuous semi-drunken states, taking either prostitutes or very young African women to make up small harems, while treating the African men, or even any white man or woman not at their own social level, as secondary human beings. In short, displaying a despotic proprietary behaviour that they would never have *dared* display for five minutes in their own hometowns and countries. It was as if the moment they were out of their habitual social context, and handed the sudden immense powers of relative wealth, they had no compass whatsoever to guide rights from wrongs.  
+  
+\_\_\_  
+  
+"In an increasingly global, interconnected world there is no clear matrix of social order."  
+\_\_\_
+
+What happened to these men, that total loss of moral direction, I’m convinced is comparable to the moral disorientation that hits many, and perhaps particularly young, culturally mixed, people within Europe today. In an increasingly global, interconnected world there is no clear, unquestionable matrix of social order, no singular well-defined code of conduct to relate to, but a multitude, the choices of lifestyle in today’s megacities and digital realms being almost endless. The proximity between action and social consequence has gone lost.
+
+The amazing welcome freedom from suffocating senseless conventions, that this break-down of established social order offers us is, however, also accompanied by a corollary removal of the ethical steering mechanisms normally present in small scale communities.
+
+**The Human Compass**
+
+As biological beings, we have an ingrained sense of direction, showing us the right way to act so as to survive – and exist best possibly – as an individual as well as for the group we belong to. We are endowed with what I call an inner *Human Compass* showing North, South, East, West, as to actions towards other people, animals, and nature: our behaviour in the world within which we live. This inborn impulse will develop its specific markers as to what is right in different situations, depending on the conditions under which we live and the group we belong to. The answer to the question ‘What makes for best survival here?’ is not static, but dynamically adaptable to the needs of time and place. Though based on the same universal biological impulse to survive and succeed, the specifics settings of the Human Compass are thus profoundly culture sensitive.  
+  
+\_\_\_  
+  
+"As all compasses, our human compass will be influenced by the magnetic forces around us."  
+\_\_\_
+
+As all compasses, our human compass will be influenced by the magnetic forces around us. What is the North Pole of our environment? Authority figures, whether political leaders, parents, older siblings, teachers or the most significant person within our local group of peers, tend to act with strong magnetic forces; as do social conventions, local traditions, familiar habits, and the general values of our society.
+
+If people have always lived in the same social environment, they’ll tend to take the conventions of their society for granted, and either act accordingly, i.e. follow – or rebel against – the specific set codex, reforming it within its own well-known and accepted parameters. Few will start questioning that codex from its very core. There are no reasons to do so. Thus, the geographically stable, mono-cultural individual is seldom challenged to develop his own personal moral compass: He always has the one of his external environment to rely upon, the magnetic North consisting of the normative standards built over generations, or imposed by the powers in place. Most monocultural people will never even realise that they don’t have their own individual compass: that is unless or until they are one day set free from their social environment and the attached control mechanisms, and might shock themselves with what they are capable of when falling into total freedom of choice.
+
+**The Individual Human Compass**
+
+In the word *dare*, lies the key: The external, society-based compass is followed mainly to avoid social chastising, exclusion or punishment and/or to achieve success and betterment that will not come to you unless you pursue the set norms. You are rewarded socially and economically when trailing the external behavioural paths as set out by the values and traditions of the surroundings, rather than through any inner sense of right and wrong.
+
+In a normal healthy society, it is no major problem that people let their individual compasses set according to the larger compass of the surroundings – even when so much so that they never develop their own inner personal compass. The community functions smoothly, and individual compasses are only called for in specifically challenged and unusual situations. But if a society or group begins to go astray, when charismatic and demagogic leaders take over, when fascist or other autocratic tendencies grow stronger, nothing and no one can question the direction taken, without their individual compasses in place. It simply will not dawn on anyone that their direction is wrong, since their compass is so underdeveloped or skewed that it tells them they do *right* as long as they are following the compass of the group – no matter whatever the actions of the said group. The North Pole of the group remains the North wherever it’s placed. The North Pole of the group is taken for the definition of *right.*\_\_\_  
+  
+"Without a strong, well-developed individual human compass, human beings simply follow the magnetic force of the strongest North Pole around."   
+\_\_\_
+
+This is why in the last century we have had Nazism, fascism, communism and large-scale genocide and ethnic cleansings; why we today so easily seem to accept and allow an unbridled capitalist system to run amok, ruining the natural habitats of our planet, while a very few get richer and richer, whereas the largest share of the world’s population get poorer and poorer. And this is also why – when they no longer have the clear North of one well-defined group to navigate after, but a multitude of often competitive Norths to choose between – so many individuals now turn to extremism as the answer to their sense of dislocation. Without a strong, well-developed individual human compass, human beings simply follow the magnetic force of the strongest North Pole around. No matter what it makes them say or do that they would hitherto have considered unthinkable, from hate speech to violent actions, from torture to terrorism.
+
+In the contemporary Western world, despite all the gilded choices around, for those for whom the anchoring in the local society is too weak, filled with humiliations, defeat and non-acceptance, or where an old anchoring is challenged by too much *new*, the blinding shine of the North Star of the extremes is simply too overwhelming to resist: it almost automatically becomes the new unquestionable North Star.
+
+If we want to halt the lure of extremism and militant fundamentalism, it is of course paramount that we address the economic, social and geopolitical inequalities in the world, that cause so much unnecessary suffering, humiliation and hopelessness – and the corollary justified social unrest. Yet, as it will be long before we can imagine a world of significantly less injustice than today, it is of no less importance that each and every one of us are encouraged and taught to develop our own individual human compass. The bigger North Star being that of humanity.  
+  
+  
+**More from this author  
+- [Art is Not Reality](http://iainews.iai.tv/articles/art-is-not-reality-auid-416)- [Rethinking Foreign Aid](http://iainews.iai.tv/articles/rethinking-foreign-aid-auid-448)**

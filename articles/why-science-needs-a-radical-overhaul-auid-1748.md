@@ -1,0 +1,57 @@
+---
+title: "Science needs a radical overhaul"
+subtitle: "The lure of the illusion of discovery"
+author: "Simine Vazire"
+date: "Issue 94, 1st February 2021"
+article_id: "1748"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "1,596 words"
+read_time: "Read time: approx. 8 mins"
+header_image: ""
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-science-needs-a-radical-overhaul-auid-1748"
+---
+
+# Science needs a radical overhaul
+
+*The lure of the illusion of discovery*
+
+**By Simine Vazire** | *Issue 94, 1st February 2021* | *Read time: approx. 8 mins* | *1,596 words*
+
+---
+
+*Myths of rigor and illusions of discovery are holding science back. It’s time for an overhaul, writes Simine Vazire.*
+
+Scientists have a problem. We are discovery junkies. The addiction metaphor is overused, but, well, I can’t resist. Scientists have a drive to discover the next big thing. This drive can be channeled in positive ways, but can do serious damage to science and to society when it goes unchecked. And what’s worse, the [journals we publish our science in are the enablers](https://www.wired.com/story/peer-reviewed-scientific-journals-dont-really-do-their-job/) that pretend they are protecting us.
+
+The problem runs deep. Science selects for people who are naturally curious, and then it heaps rewards and incentives that amplify their drive to find new things. Unfortunately, not all findings are equally gratifying, or equally valued – learning that your potential new cure (for cancer, or racism, or inequality) *doesn’t* work is just as informative as finding out that it does work, but it just doesn’t feel nearly as good. What’s more, the negative answers aren’t rewarded nearly as much as the positive ones. Journals don’t want to publish the negative results. Awards are rarely given out for rigorously testing a good idea that turned out to be wrong.  A track record of negative results is not going to get you a grant.
+
+A system that only publishes positive results and sweeps negative results under the rug would be bad enough, but it gets worse. There’s good reason to think that in some fields, many of the positive results aren’t real discoveries – they are quite likely to be false positives. In my field of psychology, the evidence of this problem is piling up, even if many of the leaders in the field still deny it. When we try to replicate influential studies that have been considered sound enough to put in textbooks, we often find that we can’t get the original finding. When we change the research process to put safeguards in place to reduce bias (for example, by getting authors to commit to their research plan in advance, using a mechanism called “Registered Reports”), we find that [about half of the discoveries disappear](https://psyarxiv.com/p6e9c/). Even worse, when we simply try to reproduce the original study’s results using the original study’s own data, [we often can’t do it](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180448). We know false discoveries are a big problem in psychology because we’ve looked. Most fields haven’t even begun to look.
+
+We know false discoveries are a big problem in psychology because we’ve looked. Most fields haven’t even begun to look.
+
+This seems like something that should worry scientists – if not the scientists making the false discoveries, at least the journals and editors that are being duped and publishing them. Unfortunately, in many sciences, no one in the system is particularly motivated to find out if a discovery is real or not. We all enjoy the warm glow of what feels like a discovery, and we all lose if we dig too deep and realize the discoveries aren’t real. So it’s not exactly that journals and editors are being duped – in fact, they’re a big part of the problem.
+
+Indeed, after 10 years as a journal editor, seeing how things work behind the scenes, I’m convinced that journals and the people who run them (editors, publishers, societies) are a bigger culprit for the spread of bad science than are individual researchers. Journals compete to be the most prestigious, but the race for prestige is not determined by who provides the best quality control.  Instead, journals compete to publish the most attention-grabbing papers – the papers that are going to get the most clicks, media attention, and citations. In other words, journals are rewarding scientists for being flashy, for producing big, bold findings, and they are looking the other way when it comes to questions about whether those findings are reliable and whether the methods were rigorous. This reality is in stark contrast to the common myth about peer review – that journal-based peer review is a quality filter, and that the most prestigious journals have the most stringent filter. But the myth persists.
+
+This misplaced faith in prestigious journals’ peer review system is doing serious damage to science. Scientists continue to chase the reward of getting published in prestigious journals (because their livelihoods often depend on it, and because they also buy into the myth that prestigious journals publish higher quality papers), so the [research practices that are rewarded](https://royalsocietypublishing.org/doi/10.1098/rsos.160384), and spread, are those that produce the flashy results that prestigious journals want. Scientists who – consciously or not – use methods that get extravagant and often false results get rewarded; they get jobs and grants and train future generations of scientists. Those who produce the more humble but accurate results get weeded out.
+
+Why do we all – scientists, the public, funders – continue to buy into this myth of quality control?  Why don’t we refuse to trust journals, no matter how prestigious, until they show us that they care more about publishing high quality research than flashy findings? One reason is that we are too easily enamored of discoveries. Scientists love them. Journal editors and publishers love them. Journalists reporting on science love them. The public (at least those that are interested in science) love them. We’re all susceptible to the lure of scientific discovery – or the lure of the illusion of discovery. If we uncovered and retracted most false discoveries, it would feel like science was making slower progress (even though in fact we would be making faster progress). So a big part of the problem is our humanity – it takes an almost superhuman amount of self-control to wait for the much-rarer hit of true discovery rather than the immediate gratification of illusory discovery.
+
+But the problems run deeper than that. Even if we wanted to do the right thing and evaluate scientific papers based on their quality, regardless of how flashy and exciting the claims of discovery may be, it’s not clear how we’d do that.
+
+First, it’s not clear how to define “quality”. For a long time, the scientific community bought into the idea that “impact” (how much a paper gets cited, or how much attention it gets) is a pretty good marker of a paper’s quality. Many still believe this, and as long as we buy into that, we won’t fix this problem. But even if we all agree that impact is not a good measure of quality, that leaves unsolved the difficult question of how to measure quality.
+
+We’re all susceptible to the lure of scientific discovery – or the lure of the illusion of discovery.
+
+Luckily, we don’t need to wait for a definitive answer to “what is quality?” to start improving the quality of published work. For example, [requiring authors to transparently report](https://www.cos.io/initiatives/top-guidelines) their methods, including materials and procedures, and, to the extent possible, their data and code, would already be an important step towards enabling reviewers and readers to evaluate the quality of the research (it’s hard to judge quality when you can’t scrutinize the process, reanalyze the data, etc.).  Similarly, conducting peer review before the research is carried out (i.e., on the proposed research question, design, methods, and planned analyses, as is done in [Registered Reports](https://www.cos.io/initiatives/registered-reports)) helps ensure that research is judged based on its rigor, rather than based on whether the findings are exciting.
+
+Journals can also [hire researchers](https://redteammarket.com/) to scrutinize their published papers, for example, by conducting re-analyses of the original data to test the reproducibility of the results, by conducting new replication studies to see whether the original result can be repeated, or by critiquing the work.
+
+Reviewers can be explicitly asked to judge the quality of the methods (in psychology, this means asking about things like the quality of the measurement or operationalizations, the soundness of causal inferences, the calibration of the conclusions to the evidence, etc.), and editors can weigh these factors more heavily than the flashiness of the results in their decisions. Importantly, journals need to [make their peer review process transparent](https://www.embo.org/news/articles/2019/a-decade-of-transparent-peer-review.html) – by publishing the reviews and editors’ decision letters along with published papers – so that readers can evaluate what factors are emphasized during peer review. Are reviewers and editors paying more attention to the rigor of the methods, or are they encouraging the authors to exaggerate their finding and drop inconvenient results?
+
+Finally, journals should also take seriously concerns raised about papers they have published. Investigations into credible allegations of errors or misconduct need to be handled transparently and with integrity. Too often, researchers who identify serious problems with published papers are ignored, or worse, by the very institutions charged with correcting the record - journal editors, publishers, and universities.
+
+These measures aren’t enough – quality is more than just transparency, replicability, reproducibility, etc. In fact, these are extremely low bars, and we need to think bigger about what it means to evaluate the quality of a research paper (something my collaborators and I are working on for our field, and that will need to be done locally in each field). There is no shortcut – evaluating quality will thinking deeply and critically about tough concepts like validity and value. That’ll be hard. But the steps I’ve described here are all very simple steps journals can take to signal a commitment to quality – they are the bare minimum we should expect from journals that ask us for their trust. The most prestigious journals have no excuse not to implement these measures – they trade on their reputation for stringent quality control, and they make heaps of money off of that reputation. It’s time for them to earn their reputation, or lose it.

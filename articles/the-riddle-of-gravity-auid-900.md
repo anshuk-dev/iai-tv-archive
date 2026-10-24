@@ -1,0 +1,100 @@
+---
+title: "The Riddle of Gravity"
+subtitle: "How have different theories developed over time?"
+author: "Don Howard"
+date: "Issue 59, 2nd October 2017"
+article_id: "900"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,527 words"
+read_time: "Read time: approx. 13 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/don-howard.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-riddle-of-gravity-auid-900"
+---
+
+# The Riddle of Gravity
+
+*How have different theories developed over time?*
+
+**By Don Howard** | *Issue 59, 2nd October 2017* | *Read time: approx. 13 mins* | *2,527 words*
+
+![The Riddle of Gravity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/don-howard.webp)
+
+---
+
+Gravity is weird. On the one hand, gravity is a good thing, because it keeps me from floating away into space and makes possible my building stable shelters from the storm. On the other hand, gravity is a major cause of natural evil, as when buildings collapse during earthquakes or people fall through cracks in the ice and drown. The quirky American businessman, Roger Babson, was so alarmed by the evil consequences of gravity that in 1948 he founded the Gravity Research Foundation in New Boston, New Hampshire with the explicit aim of understanding gravity so as to defeat it. So how does gravity work? What keeps my feet planted firmly on the ground but then sends me tumbling painfully to the earth when I trip over a rock?
+
+**Aristotle on Free Fall**
+
+In the fourth century, BCE, Aristotle thought that he had the answer. He taught that every element had a natural place in the universe and a corresponding natural tendency to seek that place. The natural place of the element earth was a sphere at the center of the universe, and earth, by its very nature, tended always to seek that natural place unless something interfered with its natural motion. Since heavy bodies, on his analysis, consisted mainly of earth, albeit mixed with some water, air, and fire, they fall simply because that’s what earth naturally does. For its time, this was not a bad theory. It explained free fall and other noteworthy “facts,” such as why, as Aristotle and his contemporaries thought, the planet, Earth, happened to be located in the centre of the universe.
+
+But there are problems with Aristotle’s explanation, foremost among them being that it implied that the speed with which a heavy object falls was directly proportional to the body’s weight and inversely proportional to the resistance of the medium through which it falls. Thus, heavier bodies should fall faster than lighter bodies. It took almost two thousand years for that mistaken “law” of free fall to be corrected.
+
+**Medieval and Renaissance Theories**
+
+Aristotle’s philosophy provided the conceptual framework for natural philosophy for roughly the next two thousand years, up to the end of the Renaissance. But Aristotle’s theory of free fall was not without its critics. For example, the twelfth-century Islamic philosopher, Ibn Rushd (or Averroes, as he was known in the Latin West), argued that the medium - the atmosphere though which the body falls - was in motion and, consequently, drew the body down with it. Around the same time, St. Bonaventure suggested that the fall of heavy bodies was the result of a repulsion from the celestial sphere. And his contemporary, Roger Bacon, thought that a *virtus caelestis* spread around the center of the universe throughout the terrestrial realm and diminished in intensity with distance from the center, this *virtus* thrusting heavy bodies downward. This was an early example of what, today, we might term a field-theoretic explanation of free fall.
+
+Perhaps the most important alternative to Aristotle’s explanation was the one proposed by the late-twelfth and early-thirteenth century English philosopher, Duns Scotus. He held that free fall was not a passive, natural tendency, but a consequence of an active principle - *gravitas* - inherent in the falling body. *Gravitas*, as Scotus understood it, was not a force in the modern sense of the word, but at least Scotus thought that a property of the falling body itself played a crucial role in explaining its own free fall.
+
+**Galileo**
+
+It was really only with the innovative work of Galileo in the early-seventeenth century that the Aristotelian framework began to collapse. Galileo contributed two essential new insights regarding free fall. The first was his theoretical and empirical disproof of Aristotle’s thesis that the falling body’s speed was proportional to its weight. His thought experiments were ingenious. My favorite one is this: imagine that one has two iron balls of equal weight, *W*, connected by a rigid iron bar (the weight of which we neglect for the purposes of the thought experiment). Since this object has total weight, 2*W*, it shou ld fall twice as fast as one such ball alone. But now imagine that we gradually make the connecting bar thinner and thinner. As long as the two balls are rigidly connected, their speed of fall should be proportional to 2*W*. But what happens when we reach the limit of an infinitely thin bar at which point the two balls are no longer connected? Do they instantly decelerate to a speed proportional to *W*? That makes little sense.
+
+Galileo’s empirical disproof of Aristotle’s law of free fall is thought by some historians to be a fiction because we know that things could not have turned out exactly as Galileo claimed. But the story is that he dropped two identically sized and shaped balls of different density and, hence, different weight, from the Leaning Tower of Pisa and observed that they hit the ground more or less simultaneously. If we take into account the resistance of the air, then an easy calculation shows that, if the difference in weight was sufficient, then the lighter ball would have struck the ground later than the heavier ball, and by a difference well within the range of Galileo’s ability to time the event. Even if Galileo was embellishing the truth a bit, the tower experiment nonetheless proved that the difference in speed of the two balls was significantly less than Aristotle would have predicted.
+
+Galileo’s other crucial discovery was the correct mathematical law of free fall, relating the distance traversed to the square of the time, thus making the velocity of the falling body directly proportional to the time. He inferred this relationship through careful, empirical studies of the fall of a brass ball down inclined planes of varying angle to the earth, noting that the speed attained by the balls was proportional not to the height of the inclined plane, but, again, to the time. He measured the time with a water clock: the elapsed time was, with sufficient accuracy, proportional to the volume of water that escaped from a tank between the opening and closing of a spigot at its base. This was a kind of stop-watch.
+
+Galileo was also able to determine, empirically, the value of the proportionality constant - what today we recognize as the gravitational acceleration, *g* - in the algebraic formulation of his law of free fall, *v* = *gt*, his value being very close to the modern value of 9.8 m/s at the surface of the earth. But Galileo had no dynamical explanation of free fall and, so, could not understand the real significance of that proportionality constant. That had to await the work of Sir Isaac Newton.
+
+**Newton**
+
+Isaac Newton was the Einstein of his era. A remarkably creative thinker, he invented the calculus (simultaneously with Leibniz), developed an early, corpuscular theory of light, built the first reflecting telescope, laid the foundations of modern particle mechanics and the theory of gravitation, and, in his voluminous writings on religion and theology, pioneered what, today, we call critical, biblical hermeneutics.
+
+In modern notation, Newton’s law of universal gravitation reads:
+
+![don howard formula1](assets/Uploads/don-howard-formula1.bmp)
+
+The path to Newton’s discovery of the law is interesting. At its heart was his proving two things. First, if Kepler’s second law is true – the line joining a planet and the sun sweeps out equal areas in equal times – then the force moving the planet must be a centrally-directed force. Second, if Kepler’s third law of planetary motion is true – the square of a planet’s period is proportional to the cube of the semi-major axis of its orbit – and if we assume Newton’s own, second law of motion – *F* = *ma* – then the sought-for force law must have the form of the inverse square of the distance between the sun and the planet.
+
+Notice that we are not talking, yet, about free fall near the surface of the earth. Newton starts with planetary motion, which had not been the subject of ancient and medieval thinking about gravity. But having discovered the law of universal gravitation, Newton combined it with his second law of motion to derive Galileo’s law of free fall, and thereby effected one of the great revolutions in scientific thinking, proving that one and the same law applied both to the motions of the planets and to falling bodies near the earth. Ancient dogma had held that the celestial realm was populated by a kind of substance – an ethereal substance – fundamentally different in kind from terrestrial substance and, hence, that the physics of the heavens and the physics of the earth were also fundamentally different in kind. Newton had now proved the contrary, that one, “universal,” law of gravitation governed the physics of the entire universe.
+
+While much of Newton’s theory of gravitation was discovered and developed as early as 1667 when Newton was just twenty-five years old, it was only published in 1687 in the magisterial *Philosophiæ Naturalis Principia Mathematica* – *The Mathematical Principles of Natural Philosophy*. It was a great achievement, and Newton knew it. But about one crucial point he was commendably modest. He did not know what was the ultimate cause of gravity and, as he famously put it in the General Scholium to the *Principia*, “*hypotheses non fingo*” (“I feign no hypotheses”). He was true to the method that he had articulated in Rule I of his “Rules of Reasoning” in the *Principa*: “We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.” Only with Einstein do we, finally, get something like a causal story about the basis of gravity.
+
+\_\_
+
+"Only with Einstein do we, finally, get something like a causal story about the basis of gravity.'"  
+\_\_\_
+
+**Einstein**
+
+Newton was one of Einstein’s heroes. A framed portrait of Newton hung above Einstein’s desk in the study of his home in Berlin. While Einstein was to repudiate much of Newton’s theory of gravitation (which, however, remains true in an appropriate limit of Einstein’s field equations), he appreciated what Newton accomplished and prized much of Newton’s way of thinking about method in the sciences.
+
+Einstein’s theory of gravitation - his theory of general relativity - appeared in its final, mature form in a series of papers published in November of 1915 in the *Proceedings* of the Berlin Academy of Sciences. Today we write the field equations thus (omitting the cosmological constant):
+
+![donhowardformula2](assets/Uploads/donhowardformula2.bmp)
+
+We need not worry about the details of the Ricci tensor, *R*μν, or the curvature scalar, *R*, aside from knowing that they are functions of the metric tensor, *gμν*, which codifies the curvature of spacetime in a local region as implied by general relativity. *G* is the gravitational constant, *c* is the speed of light, and *T*μν, the stress-energy tensor, codifies the matter-energy content of a local region of spacetime. The way the field equations work is that the matter-energy content of a local region of spacetime, represented by the stress-energy tensor, determines the spacetime curvature in that local region. Simply put, matter and energy (two-sides of the same coin as Einstein earlier taught us with his famous relationship, *E* = *mc*2) warp the structure of spacetime.
+
+How, then, is the behavior of planets and light explained? According to general relativity, in the absence of other forces, things moving in spacetime follow what are called “geodesic” trajectories, meaning, essentially, lines of shortest distance through curved spacetime. Why do heavy bodies fall near the surface of the earth? Why do planets orbit the sun? Why is trajectory of light bent as it passes near a massive body like the sun? They are all following geodesic trajectories in curved spacetime.
+
+So much else is a consequence of Einstein’s theory of gravitation. Most of what we now know about the large-scale structure of the universe as represented by inflationary cosmology rests on the foundation of Einstein’s field equations. So, too, does our understanding of black holes, gravitational lensing, and gravitational waves, and the retardation of clocks in gravitational fields, this latter being crucial to making the GPS systems in our cars work precisely. It all goes back to Einstein.
+
+Einstein’s general theory of relativity has been spectacularly well confirmed in an ever-growing number of experimental and observational tests, the most recent and remarkable being the first ever direct detection of gravity waves by the LIGO-Virgo Collaboration in September of 2015, just two months shy of the hundredth anniversary of general relativity. But for all of Einstein’s success, we understand that Einstein’s theory of gravitation is not the final word.
+
+**After General Relativity**
+
+In one sense, general relativity is our best current theory of the world on a macro- and mega-scale. But quantum mechanics and quantum field theory, the basis of the standard model of particle physics, is our best current theory of the micro-world. And, sadly, general relativity and quantum mechanics do not play as nicely with one another as we might wish they would.
+
+Today, one of the most important challenges in fundamental physics is to find the right way to merge quantum mechanics and general relativity, this being the focus of what we call the search for quantum gravity. There are a number of different programs in this exciting field of research, the two leading contenders at the moment being string theory and loop quantum gravity, and most approaches to quantum gravity have this in common: they seek to explain gravity in the manner described by Einstein as an emergent property of a quantum micro-world. What this means, from one point of view, is that spacetime itself would no longer be fundamental. Instead, that which we know as spacetime, even on a cosmic scale, would be a product of the way in which the tiniest bits of the universe interact with one another.
+
+What would Newton and Einstein have thought about this quest? Einstein hoped in vain to find a way to make general relativity fundamental, with quantum mechanics, or rather, the world as best described by quantum mechanics being reduced, essentially, to structure in spacetime. This is what is known as Einstein’s unified field theory program. At the end of his life, Einstein knew that it had not worked out and was a good, open-minded empiricst, who acknowledged the possibility that quantum mechanics, in some form, might prove to be the fundamental theory. Newton, feigning no hypotheses but searching, nonetheless, for the cause of gravity, would, almost surely, have been fascinated were he able to witness all of the hypothesizing going on today.
+
+---
+
+Editor's note - in light of the recent awarding of the Nobel Prize in physics for the detection of gravitational waves, the author has added the below:
+
+Einstein’s general theory of relativity has been spectacularly well confirmed in an ever-growing number of experimental and observational tests, the most recent and remarkable being the first ever direct detection of gravity waves by the LIGO-Virgo Collaboration in September of 2015, just two months shy of the hundredth anniversary of general relativity. It was the three principle leaders of the LIGO collaboration - Rai Weiss, Kip Thorne, and Barry Barish - who were just awarded the 2017 Nobel Prize in Physics. But for all of Einstein’s success, we understand that Einstein’s theory of gravitation is not the final word.
+
+[![17 10 05 News](assets/Uploads/17-10-05-News.png)](https://hay.htlgi.iai.tv/?utmsource=NewsFooter "HowTheLightGetsIn 2018")

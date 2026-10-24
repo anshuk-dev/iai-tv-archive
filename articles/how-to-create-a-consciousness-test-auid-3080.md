@@ -1,0 +1,288 @@
+---
+title: "How to create a consciousness test"
+subtitle: "AI and The Consciousness Test"
+author: "R. D. Hinshelwood"
+date: "14th February 2025"
+article_id: "3080"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "5,183 words"
+read_time: "Read time: approx. 26 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/13.02.25-robot-consciousness-thumbnail-2-copy.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-to-create-a-consciousness-test-auid-3080"
+---
+
+# How to create a consciousness test
+
+*AI and The Consciousness Test*
+
+**By R. D. Hinshelwood** | *14th February 2025* | *Read time: approx. 26 mins* | *5,183 words*
+
+![How to create a consciousness test](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/13.02.25-robot-consciousness-thumbnail-2-copy.webp)
+
+---
+
+*With humanoid AI on the horizon, soon the question will be asked more and more: is that robot conscious? The debate has already begun. Some laugh at the question, and answer a resounding “no!”. Others argue that if human brains are made of physical stuff, then why couldn’t this other physical stuff in AI and robots produce consciousness too? But the real problem is, no matter which side you’re on; how can we ever tell if something is consciousness? In animals and even humans, your friends and family, there is no way to know for sure they are conscious. So, here R. D. Hinshelwood asks: is it possible to create a test for consciousness? A Consciousness Test?*
+
+*This article is a follow-on from the live debate ['The Consciousness Test'](http://iai.tv/video/the-consciousness-test-yoshua-bengio) that took place at HowTheLightGetsIn 2024.*
+
+**Is it possible to create a test to discover if a person, animal, computer, or rock is conscious or not? ([Ricky Williamson](http://www.rickywilliamson.com/) of the Institute of Arts and Ideas).**
+
+Can Ricky Williamson’s question ever be answered by a human mind?
+
+If a question is difficult to answer, question the question. This one is notoriously hard, so we should first consider its elements. There are two things; first, what is consciousness? This is a well-known and debated question. And second, what is behind the unassuming word ‘test’? Consciousness becomes a ‘hard’ problem because it is taken as a single entity, but here it will be considered more realistically as having several dimensions and therefore appears different from different perspectives. Testing it is also problematic as it is assumed tests take the form of scientific investigation of the material world, even though the mind and its consciousness(es) is non-material.
+
+This paper is therefore divided into two parts – first on consciousness and self-consciousness; and the second, the issues apparent in testing for it.
+
+\_\_\_
+
+Everything is composed of the mental domain and the material world emerges in the mental. Thus, the mental domain and forms of consciousness are everywhere in the universe.
+
+\_\_\_
+
+**Consciousness**
+
+Rather simply consciousness can be said to be an awareness of (a) things in the real world via the distance receptors (vision, sound, etc.), and (b) an awareness of things within oneself, typically bodily sensations and one’s feelings. Already there is a distinction between inner and outer. But perhaps this only puts us back one step. What is ‘awareness’ of these things in the external reality or inside our own sensuous bodies?
+
+Chalmers (1996) distinction between the easy and hard problems will not be followed, as it aims to correlate subjective experience with the objective knowledge of brain functioning. The contemporary assumption that brain functions resemble a computer is a slick avoidance as it simplifies every issue by assigning subjective experiences to parts/centres of the brain with their functions and connections. We know instead that the brain operates as a holistic organ producing wave-like activity observed by electro-encephalography (ECG).
+
+What is not solved by this computer-analogy approach, is how awareness fits with the material existence of an organism. I will in this instance, not develop an investigation of rocks as Willimson’s question suggests. However, there is panpsychism which argues in various ways that it is not the material world from which the mental emerges, but the other way around. Everything is composed of the mental domain and the material world emerges in the mental. Thus, the mental domain and forms of consciousness are everywhere in the universe.
+
+**What is awareness?**
+
+First of all, our perceptions of material entities are represented in some way in our minds, not so different from a computer’s display on its screen. We *see representations*. They appear to us in forms and with qualities that arise from the functioning of our organs of sight and sound etc. We do not see a wavelength of light, but we represent it as a colour that our neural system picks out for us.
+
+*Existence and inexistence*
+
+One can say a cat chasing a mouse is aware of the mouse, and also a tummy sensation called ‘feeling hungry’. Its awareness has various functions. Attention is deployed towards the internal demands and needs and towards the external world. Judgment then matches one against the other. A mouse will be a satisfaction for hunger. The result of attention and judgment is action in reality; the mouse is chased, caught and eaten (if all functions are successful).
+
+However, for the cat, it is likely there is more to it than perception/sensation and action. There is a mental realm where the mouse and the tummy are thrown up on a ‘screen’ as representation and juggled around to achieve the appropriate actions. Awareness is the mental repetitions on the spatial and temporal screen of the mind. There is now, a step on from that kind of representation in the mind.
+
+Wolfgang Kohler (1925) studied the beginning of a new function in higher primates.  He tempted a chimpanzee with a banana placed just out of their reach. He noted that after failing to grasp it, the chimp paused and took some moments apparently to reflect. The result was to find a stick with which to knock the fruit into their reach. The crucial point is when action is inhibited for a moment and some reflection on the chimp’s problem could occur with a subsequent action that seemed purposeful. The chimp’s attention was deflected from the banana and from its hunger, towards another domain, a domain of forethought.
+
+[![Darwinian Evolution Cant Explain Consciousness](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Darwinian-Evolution-Cant-Explain-Consciousness.webp)
+
+SUGGESTED READING
+The chemical roots of consciousness
+By Addy Pross](https://iai.tv/articles/consciousness-drives-evolution-auid-2889)
+
+The somewhat ignored work of Franz Brentano (1874) focused on these representations *within* the mind. They continue as a form of ‘existence’ in the mind even when not actually in perception or sensation. Brentano described these objects as ‘inexistent’ not non-existent. They exist in the mind and one’s attention continues to be directed to them. Even when they *are* still in the perceived or sensed domain they still present themselves as inexistent objects that can be the objects of forethought.
+
+Brentano was the teacher of Edmund Husserl the originator of the phenomenological school of philosophy. Brentano also taught Sigmund Freud as a student. In fact, both may have attended Brentano’s lectures in 1874. Brentano’s influence on Freud can be seen in Freud's notion of the reality principle:
+
+*[M]otor discharge, which, under the dominance of the pleasure principle, had served as a means of unburdening the mental apparatus of accretions of stimuli… was now employed in the appropriate alteration of reality…  Restraint upon motor discharge… was provided by means of the process of thinking…  It is essentially an experimental kind of acting (Freud, 1911, p. 221).*
+
+Kohler observed this restraint upon action (motor discharge) in his chimpanzees. The ‘experimental action’ occurs within a ‘space’ (a non-material mental space) opened up between need and reaction. And humans are conscious of that internal experimental action, or thinking. This is a representation in the mind which depends on a self-management of the person’s own demands. Freud illustrated this later:
+
+*Thinking is an experimental action carried out with small amounts of energy, in the same way as a general shifts small figures about on a map before setting his large bodies of troops in motion (Freud 1933, p. 89).*
+
+Thinking is a *self*-awareness of possible actions, and we are aware of action on our own thoughts, on our own inexistent objects. Though other higher primates may demonstrate the beginnings of that thinking, it is an especially human capacity.
+
+Clearly, we live in both domains the existent and the inexistent in practical ordinary everyday life. We see a reality as best we can, and construct that reality to give meanings to it, both general and personal.
+
+*Consciousness and self-consciousness*
+
+We have already discerned the distinctions between (a) awareness of objects in distance perception and in bodily sensation, and now (b) the awareness of existent and inexistent objects.
+
+\_\_\_
+
+The ‘self’ is an inexistent object in the mind which is not the representation of a perceived or sensed object.
+
+\_\_\_
+
+A further step is the recognition that there is an ‘actor’ in experimental action. The thinking is done by an ‘I’ that is aware of itself as the thinker. The chimpanzee is a specific inexistent object that will use the stick to knock the banana within reach. There is the potential for a ‘self’. ‘I’ think and represent and pay attention; ‘I’ focus on the thinking with the function of judgement, and then in the material world; ‘I’ can perform the action. The ‘self’ is an inexistent object in the mind which is not the representation of a perceived or sensed object. After thirty years of struggling with the nature of the sense of self, Freud evolved a concept he called ‘the ego’ (in English; and in German ‘das ich’). This is an inexistent entity which is the active, executive part of the mind (Freud 1923).
+
+Thinking implies a thinker. It is self-consciousness. And it gives us a third dimension to consciousness in addition to the sensed/perceived objects out there, and the inexistent representations of them in the non-material mental world.
+
+*The wall of representation*
+
+If I place my hand against the kitchen wall, and then with a can of spray paint I cover my hand and the adjacent wall with the paint, I can take my hand away leaving a shape on the wall that is unpainted. If I look at my hand, I can say, ‘Here is my hand and it is all covered in paint, I must go and clean it.’ But I can also look at the shape outlined on the wall by the paint and say, ‘There is my hand, on the wall.’ In what sense is that shape on the wall my hand? It isn’t my hand. But, in some different sense, it is my hand.
+
+We call that a ‘representation’ of my hand. And a representation of something is, for the human mind, as good as the real thing. Well, I refer to what Neolithic man did some 50,000 years ago. We discovered the art of visual representation. And specifically, the representation of one’s self (or at least a part of it). What perplexity must it have aroused for the cave-dweller to see his hand and at the same time a representation of it, quite separate? For us, it is routine, and we do not have to think about it. Our representations are as good as the real thing. Language also evolved as sounds to represent the world and our lives in it. Then some 10,000 years ago, language itself was represented in writing.
+
+Over this long period, the human mind became aware of the nature of an inexistent world of representations and how it can reflect on itself. The ability to live in the real world and at the same time in a world of representations seems to enable our civilisations and technologies to develop. It has resulted from control of immediate reactions like the cat with a mouse, to create a paused moment for thinking.
+
+*Directing other’s attention*
+
+Many animals alert each other’s attention, when chasing a prey or scavenging for food or engaging a mate. Animals may alert each other to danger in the external world. Vervet monkeys use a series of calls to alert others to the presence of specific predators as specific inexistent objects in other’s minds.
+
+Humans can physically point to something with a finger. In fact, we are the only animal that can point in this way (Tomasello et al. 2005).  Even chimpanzees with a manual dexterity that would permit it, are almost impossible to teach to point. Babies begin the capacity to point with the finger at around 11-12 months, a similar period to the very first beginning of speech, and it is also about the time babies can begin to follow another person’s gaze. These imply directing not only our own attention but that of others. It accomplishes a joint attention.
+
+\_\_\_
+
+Once there is a capacity for inhibiting reactions with the reflection on action, there is the beginnings of self-consciousness.
+
+\_\_\_
+
+And humans can direct the attention of others to the immaterial world of inexistent objects; and not just the real external world of matter. Language is the principal system for that inner pointing. We have developed it to an extraordinary degree of subtlety and complexity, pointing to inexistent objects which we can transfer between our minds. We can alert another to a line or two of poetry, or a signpost pointing to a direction on a walking holiday together. One inexistent thing joins with someone else’s, or indeed may be lodged as an inexistent entity in another’s mind. Pythagoras’ theorem may be passed by my mind into my grandson’s mind. These things mean something to one person who indicates it to another as a transfer of inexistent entities and meanings and experimental action. The internal representations in two minds coincide. It is not just for practical purposes. We can enjoy an afternoon conversation with a congenial other. Such idle conversation exchanges inexistent thoughts and actions, experiences, and stories. This exchange and insertion of one attention into another’s attending mind is so commonplace we hardly question or reflect upon it.
+
+The transfer of experimental action co-ordinates planning and acting on a common task. Not just spoken language but writing, diagrams, photographs, etc., facilitate this transfer process resulting in the joint attention of small groups, families, and vast nations. Once there is a capacity for inhibiting reactions with the reflection on action, there is the beginnings of self-consciousness – and so a self can be transferred in various forms of identification.
+
+*In summary*
+
+These pages have gathered together various observations and arguments to suggest that human consciousness is more usefully conceived as a self-consciousness, one of three dimensions – material reality, inexistent objects and the self. Self-consciousness is a level of conscious attention distinct from other levels of consciousness, and the hard problem needs to recognise that our attention is being pointed to [consciousness of the self](http://iai.tv/articles/consciousness-does-not-require-a-self-auid-2696).
+
+The sum of these reflections is that the inexistent entities include a representation of the self that does the representing. The self is aware that it has awareness; it can reflect on itself. This self does not exist in the external world, or in the body in the same way as other inexistent objects. It starts as inexistent!
+
+To summarise, we have a spectrum of consciousness:
+
+1. Starting with pure *reflexive action*, we know of the knee-jerk reflex, yawning, blinking and other flinching reactions to pain, etc., which can be *represented*, for instance, the cat with a mouse, a dog chasing a ball;
+
+2. The capacity to *exchange representations* with other minds when a dog eyes its lead hanging on a hook in the hall, as if directing the attention of its owner, or the vervet monkey that makes specific calls to direct its tribe to a danger;
+
+3. In the human animal, inexistent objects include the *consciousness of the self* with the capacity to represent ourselves as the representer of our own mental entities.
+
+For the last of these there is almost always a direction of attention towards the self as well as towards the intended object. There are two ends to a pointing finger. Clearly we tend to see a self-consciousness at either end of the finger; this attribution of self-consciousness to other things can be over-enthusiastically applied to pets, and ghosts, and trees, and various other entities.
+
+What is said in the rest of this account about consciousness and testing for it will apply to all these various levels. However, it is the last of these that will be of most interest, where self-consciousness where attention through systems of communication (language, pointing, gazing) is directed to other self-conscious minds.
+
+**Purpose**
+
+A stumbling block of neurological research is that it concerns material substance (the brain), whilst the mind is non-material however much it may depend on the physical base of the brain. The fundamental principle of the functions of matter is causality. In the non-material world, it is appropriate to attribute *purposeful* actions and behaviour. But that is not the impelling power of neurones, or centres of the brain where neuronal cells and their nuclei are concentrated. The domain of physical substance which does not express meaning. Shorthand terminology in neuropsychology implies that mental functions are located in specific places in the brain. But it is important not to be distracted by such metaphors. Nor should we regard this as a conventional dualism, but before turning to the relations between the brain (the material body) and the non-material mind, we need to note a point about purposeful representation and causal simulation.
+
+[![230307.Quantum Computing Consciousness.alp](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/230307.Quantum-Computing-Consciousness.alp.webp)
+
+SUGGESTED READING
+Quantum computing is the key to consciousness 
+By Tim Palmer](https://iai.tv/articles/tim-palmer-quantum-computing-is-the-key-to-consciousness-auid-2410)
+
+*Representation and simulation*
+
+Representation plays a fundamental role in consciousness (and self-consciousness). It needs however to be distinguished simulation. Alan Turing, the decoder of Enigma during World War 2, suggested a test in which a computer and a human were interviewed blind, by a number of people. If more than fifty percent of people were unable to distinguish between them the computer should then be regarded as having a human intelligence. However, this is disputed as being only a test for the capacity to simulate human intelligence (see John Searle’s, 1980, Chinese room thought experiment) and lacks real human understanding. It is indeed called *artificial* intelligence and a majority of us now cannot tell the difference between an AI programme and a human being.
+
+The digital world is a world of representations and thus a non–material world like the mind, But is it conscious? I asked ChatGPT the following question: ‘Does an AI programme such as yourself possess consciousness of your own knowledge, behaviour and experience?’
+
+*ChatGPT: I do not possess consciousness, awareness, or subjective experience…*
+
+And I then asked: ‘As you use the first person singular, the 'I' and 'my', are you conscious of having an identity?’
+
+*ChatGPT: While I do use first-person language, this is a design choice to make interactions feel more natural and conversational. However, I am not conscious of having an identity. The use of "I" and "my" does not imply any self-awareness or personal identity. It’s merely a linguistic tool to facilitate communication.*
+
+I asked ChatGPT explicitly: ‘Do you yourself have emotional feelings?’
+
+*ChatGPT: As an AI language model, I do not have personal subjective experiences, emotions, or consciousness. I don't possess feelings or a sense of self. I am a program designed to process and generate human-like text based on patterns and algorithms.*
+
+Of course, this may not be the truth but there is intuitive reason to infer that it is correct. Thus, computer simulation can express purpose, but it is the purpose of the human creator behind the algorithms that the material machine works to. Whether it will be possible one day to develop a computer with a genuine sense of purpose derived from a sense of self is yet to be seen. It might be more practical to breed mutated apes to develop their sense of self-conscious purpose than to develop material computers to generate purpose.
+
+Should we therefore abandon material science?
+
+*The theory of emergence*
+
+The distinction between material and non-material domains does not necessarily mean a Cartesian dualism and in a moment we will explore [emergentism](http://iai.tv/video/the-mystery-of-emergence). But to avoid dualism there is a powerful temptation to simplify the relationship. George Bush’s declaration of the 1990s as his ‘decade of the brain’ implied a simple equivalence of brain anatomy with mental functioning.
+
+\_\_\_
+
+Life is a quality and the complexity of this system must be almost infinite.
+
+\_\_\_
+
+However, what can we really do with this stretched-out dyad – the brain and the mind? Philosophical emergentism (Kim 2016), has been attributed initially to John Stuart Mill but also to the neurologist Hughlings Jackson (1931) and his conception of ‘psycho-physical parallelism’. The theory of emergence, developed by Samuel Alexander (1920) and C.D Broad (1925), extends the everyday adage, ‘the whole is greater than the sum of the parts’. It argues that the laws and fundamental principles of one knowledge discipline may not apply to another discipline.  For instance, the biological law of natural cannot be derived from the laws of organic chemistry, although it does depend entirely on the chemistry of DNA and the whole physiology of an organism.
+
+In fact, the organism is greater than the chemical constituents of its body even arranged in the proper living structure. For instance, a corpse laid out next to the body of a live human being has exactly the same chemical constituents arranged in the same structure. But the functioning of the chemical interactions in the live being results in something completely different. It is inert without those self-sustaining cycles of chemical activity. Life emerges from the material body without ‘life’ being a chemical substance. These claims abandon ordinary measurement and quantity. Life is a quality and the complexity of this system must be almost infinite. There is a good chance that the brain is composed of an immense number of cyclical reactions that have hardly been mapped. Quite a few are known in the body, there are not many understood in the brain. We need to concern ourselves with laws and principles that apply to the non-material inexistent world of subjective experiences and experimental action. We cannot involve material facts alone but the experience of subjects.
+
+As such, it is reasonable to claim that the mind is a ‘beyond-science’ discipline.
+
+**Testing**
+
+When we come to testing, it is natural to accept the standard scientific, understandable when we consider the almost miraculous advances in science and technology. However, as Chalmers commented:
+
+*Consciousness fits uneasily into our conception of the natural world. On the most common conception of nature, the natural world is the physical world. But on the most common conception of consciousness, it is not easy to see how it could be part of the physical world (Chalmers 2003, p. 102).*
+
+The scientific method of investigating and testing entails setting up controlled conditions and measuring the outcomes caused by some input. We inflate a car-tyre to see if there is a puncture. The input is the compressed air sent into the tyre, and the caused effect will be the inflated tyre, or the persisting flat one. There is a binary result – re-inflated or remaining deflated. Thus, an initial state of the tested entity, is followed by a causal stimulus with a demonstrable effect.
+
+|  |  |  |
+| --- | --- | --- |
+|  | **Testing for a punctured tyre** | **Testing for consciousness** |
+| Characteristic tested for | Deflation | Consciousness |
+| Observing instrument | Tyre pressure gauge | Another mind |
+| Defining characteristic | A binary increase/decrease in pressure | A meaningful purpose |
+| Inferential method | Logical conclusion | Intuitive empathy |
+| *Figure 1 – The testing sequence* | | |
+
+If we want to know if a piece of metal has magnetic properties, we put a sprinkling of iron-filings close to it. If it is magnetic, the iron-filings will form a characteristic pattern; and if not, the iron-filings will not form a pattern. This test aims at the substance possessing material properties.
+
+Can similar tests be applied to non-material properties? In the case of consciousness, we are looking for the presence of a particular non-material characteristic, and we need an instrument that can observe changes in that characteristic. We need a key subjective quality that defines consciousness and, moreover, we need an instrument that can observe these non-material events.
+
+*Figure 1* sets out the important differences between the method of identifying characteristics in the material domain (a deflated tyre) and in the subjective experiences in the non-material domain of the mind. We exchange objective measurement for intuited subjective experiences, and a mental instrument for a mechanical one. Crucially with the material world effects are caused deterministically, but in the self-conscious mental domain we have purposes informed by meanings.
+
+The influence of a purpose cannot be measured objectively by the instruments of material science, In the non-material domain, inferences are not measured and can be corrupted by subjective intentions pressing on intuitions. Though the subjective results are viewed as suspect, David Hume (1748) emphasised that the logical system of causality is itself an inductive inference, and not certain. A frequently occurring sequence of conjoined events are not necessarily causally related to each other. They may be correlated through both having a common cause rather than one causing the other.
+
+Such scientific inference is based on a linear causality, something very rare in nature. Mostly all processes are multifactorial and very often cyclical when, as often, the effects cycle back to impact directly or indirectly on the causes. Then confidence in causality may also evaporate. So, even the basic scientific method is not so effective ‘in the field’ as it were.
+
+At the same time, the unreliability of subjective investigations does not mean that they are necessarily corrupted and invalid. Repeated inferences can amount to generalisations that have a good chance of being valid especially accumulated from diverse human minds (the observing instruments each with its own subjectivity). Large numbers subjected to probability mathematics, as well as multiple instruments (that is, many observers with varying subjective patterns of distortion) can be a basis for increasingly formal research into intuitive subjective facts. However, if we use large numbers, we lose the individuality of the subject but this loss does not necessarily invalidate the method and in this case, the existence of consciousness in the abstract does not depend on the uniqueness of individual experiences.
+
+**Implications of meaningful purpose**
+
+There are quite common tests for real human consciousness. The commonest are the Captcha tests with simple images of distorted letters and numbers or picture puzzles. However, in Section 1, on the nature(s) of consciousness, we noted the existence of purpose and forethought. These meanings and purposes exist in the non-material mental domain and not in physical material. This leads to the question of, what subjective observables signify meaningful purpose?
+
+[![23 04 20 Consciousness begins with feelings4.dc](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/23-04-20-Consciousness-begins-with-feelings4.dc.webp)
+
+SUGGESTED READING
+Consciousness begins with feeling, not thinking
+By Antonio Damasio](https://iai.tv/articles/consciousness-begins-with-feelings-hanna-damasio-auid-2462)
+
+*Observing purpose*
+
+There are a number of possibilities which can be candidates, though as indicated they do not carry the strength of the logical certainties of the material sciences. The intuitive probing of the subjective instrument can pick up, with some reliability, several kinds of data. We are asked to test animals, computers and a rock. I shall leave out the last, the rock and describe briefly the suggestive evidence of self-consciousness:
+
+1. The direct experience one mind can have is to assess the thinking purpose of another’s representation of their inexistent objects;
+
+2. Pointing is joint attention sharing meaningful experiences achieved purposely by two minds;
+
+3. Deliberate deception involves a clear purpose. A computer simulation may resemble a deception but is a causal response to an algorithm (I exclude from this account the possibility of emergent purposes from computers that parallels the emergence of a mind from the brain);
+
+4. The experience of another with a moral purpose is implicit evidence of a self-consciousness of a self;
+
+5. Playing games implies the self-conscious aims of the gamer (though computers may win a game, it merely simulates a purpose transmitted from the creator of the algorithm);
+
+6. A capacity for humour involves the awareness of a strong empathic and communicated meaning.
+
+This list of potential observables could contribute to a decisive test in the mental domain. Perhaps few are decisive in themselves but in combination with several others may strongly suggest purpose. Multiple observers of instances of an action that a majority claim to be purposeful would infer a fairly safe positive result.
+
+The emergence of a self-conscious equivalent of a mind from the mechanism of a computer appears unlikely. Whereas it is possible to design a calculator to replicate cognitive functions like mathematics which can substitute for a person’s own functions, it is less likely we can design a calculator that can substitute for a person’s identity and bodily neediness. (see also the thought experiments in Chapter 3 of *Mystery of Emotions*, Hinshelwood 2023). Such a manufactured computer would need to generate non-material experiences comprised of its own material ‘needs’ experienced as purposefully linked with environmental opportunities.
+
+**Conclusion to these reflections**
+
+I have tried to convey that the issue of consciousness is multifaceted, and the really interesting dimension is the capacity for some instances of consciousness to hold an awareness of the consciousness of the self which is conscious of itself. Inexistent objects are non-material mental representations that involve an object represented and a representer. A ‘self’ is the inexistent entity that does the representing and demonstrates intuitively a sense of purpose. It results in a consciousness with the capacity for forethought and experimental action with the inexistent objects. A purposeful action is not within the material world even though it may be about the material world. The important development is the inhibition of that reactive capacity of the cat after the mouse when we move from the material environment to the non-material. The non-material experimental action links internal need to external opportunity, like the hungry chimp with a banana. And, embedded in representations are purposes (unlike simulation) related to needs. The self is an inexistent object in the mind that fixes that embedding in a specific body and its needs.
+
+We have discovered two crucial issues in the testing for self-consciousness. One is that we substitute purpose (and meaning) for causality. And the other is the instrument for observing the specific kind of ‘data’ must be a subjective instrument – and thus a mind that can observe another mind. This methodology of testing is not as robust as a scientific one and is vulnerable to simulation and deceit, although paradoxically, simulation and deceit carry purpose and meaning. Nevertheless, the wish for a litmus-paper test to generate certainty is inevitably disappointed in the non-material world because the material causality cannot apply there.
+
+The observing mind detects experiences in itself via its capacity to be conscious of itself, and of other self-conscious minds. That is, we spot the inexistent representations in others, a capacity called empathy.
+
+It has been a key element of this discussion that there is an important distinction between consciousness of the representations we make of the world and a self-consciousness of being the agent that makes these representations. Because of that self-consciousness, we can reflect in a manner that allows forethought to engage the material world without being of the material world itself. Reflecting on our reflections gives us the blessing of appropriate forethought on the world we live in, but also of course the curse of forethought of our own ultimate fate in this world.
+
+**References**
+
+Alexander, S. (1920) *Space, Time and Deity*. London: Macmillan
+
+Brentano (1995) [1874] *Psychology from an Empirical Standpoint*. London: Routledge,
+
+Broad, C.D. (1925)  *The Mind and Its Place in Nature*.  London: Routledge and Kegan Paul.
+
+Chalmers, D.J. (1996) *The Conscious Mind:  In Search of a Fundamental Theory*. Oxford: Oxford University Press.
+
+Chalmers, D. (2003) *Consciousness and its place in nature*.  In Ted Warfield (ed.), The Blackwell Guide to the Philosophy of Mind. Blackwell. pp. 102--142.
+
+Freud, S. (1911) *Formulations on the two principles of mental functioning*. The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XIII: 213-226. London: Hogarth.
+
+Freud, S. (1923)  *The Ego and the Id*.   *Standard Edition of the Complete Psychological Works of Sigmund Freud*. Volume 19, 12-66.  London: Hogarth.
+
+Freud, Sigmund, (1933) *New Introductory Lectures on Psycho-Analysis*. The Standard Edition of the Complete Works of Sigmund Freud 22, 3-182. London: Hogarth.
+
+Hinshelwood, R.D. (2023) *The Mystery of Emotions*. London: Karnac
+
+Hume, D. (1748) *An Enquiry Concerning Human Understanding*. Oxford: Oxford University Press (2000)
+
+Jackson, J.H. (1931) *Selected Writings of John Hughlings Jackson*.  London: Hodder and Stoughton.
+
+Kim, J. (2016) *Emergence: Core ideas and issues*.  Synthese 151:  547–59.
+
+Kohler, W. (1925) *The Mentality of Apes*. London: Kegan Paul, Trench, Trubner.
+
+Searle, J. (1980) *Minds, brains and programs*. Behavioral and Brain Sciences, 3: 417–57.
+
+Tomasello, M. (2006). Why don't apes point? In N J Enfield & S C Levinson (eds), *Roots of Human Sociality: Culture, cognition and interaction*. pp.506-524. Oxford: Berg.
+
+Turing, A.M. (1950) Computing machinery and intelligence. *Mind* 59, 433-460.

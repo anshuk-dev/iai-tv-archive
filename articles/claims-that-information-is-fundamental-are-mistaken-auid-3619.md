@@ -1,0 +1,159 @@
+---
+title: "Claims that information is fundamental are mistaken"
+subtitle: "The thermodynamic myth at the heart of information theory"
+author: "John D. Norton"
+date: "10th July 2026"
+article_id: "3619"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,806 words"
+read_time: "Read time: approx. 14 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/claims-that-information-is-fundamental-are-mistaken.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/claims-that-information-is-fundamental-are-mistaken-auid-3619"
+---
+
+# Claims that information is fundamental are mistaken
+
+*The thermodynamic myth at the heart of information theory*
+
+**By John D. Norton** | *10th July 2026* | *Read time: approx. 14 mins* | *2,806 words*
+
+![Claims that information is fundamental are mistaken](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/claims-that-information-is-fundamental-are-mistaken.webp)
+
+---
+
+*CEO and co-founder of Google DeepMind, Demis Hassabis, has recently speculated that information might be as fundamental as mass and energy. As AI hype rolls on, many like him are increasingly tempted to apply computing principles to reality as a whole. Those who support this view rely on the idea that information has a thermodynamic cost, as proposed by physicist Leo Szilard. Here, philosopher **John D. Norton** argues that information is not fundamental. Considerations of information and computing complicate thermodynamic analysis and contribute precisely nothing.*
+
+**An intriguing idea**
+
+Is there a profound connection between the abstract realms of information and computation and the physical realm of heat and thermodynamics? Do learning and computing necessarily involve creation of the physical quantity, thermodynamic entropy, that governs which thermal processes can occur? Might it be that learning one bit of information comes at a cost of the creation of at least *k* log 2 of thermodynamic entropy, as [Leo Szilard suggested](https://onlinelibrary.wiley.com/doi/abs/10.1002/bs.3830090402)? Or might this thermodynamic cost really come when we erase this one bit of information, as [Rolf Landauer proposed](https://ieeexplore.ieee.org/document/5392446)? Are information and computation connected at a fundamental level to the laws that govern steam engines? Are information and computation connected at a fundamental level to the laws that govern steam engines?
+
+This intriguing idea is suggested by a formal coincidence in two expressions. If a thermal system at equilibrium adopts a state *i* with probability *pi*, then we compute its thermodynamic entropy by summing the expression –*k pi* log *pi* over all states *i*, where *k* is Boltzmann’s constant. This same “*p* log *p*” formula, without the constant *k*, is the measure of information in [Shannon’s celebrated information theory](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf). The enticing supposition is that this coincidence of formulae can underwrite a deep connection between information and steam engines.
+
+\_\_\_
+
+There is no foundational connection between information, computation and thermodynamics.
+
+\_\_\_
+
+This coincidence of formulae is just a first, slender indication of an intriguing possibility. Whether the connection suggested is real requires considerable further investigation. We should not be hasty. A closer look at the coincidence of formulae suggests that there is no deeper connection. The *p* log *p* formula is just a parameter that measures how spread out a probability distribution is. In this regard, this entropy parameter is akin to statistical parameters like the mean and variance of a probability distribution. They appear everywhere without signifying a deeper connection. That this same *p* log *p* parameter appears in two investigations is no basis for inferring that their probability distributions have the same meaning. *Prima facie*, they do not in the case of [thermodynamics and information](https://iai.tv/video/the-demons-of-thermodynamics).
+
+**Dynamic probabilities of thermal equilibrium**
+
+Consider a one-molecule gas at thermal equilibrium at temperature *T* in a chamber. Its state is dynamic. The molecule behaves like a gas since it exerts a pressure on the chamber walls. It can do that since it is propagating freely through the chamber and colliding everywhere with its walls, as shown in Figure 1. The equilibrium state is achieved when there is a stabilization of the energy interchanges between the gas and its surroundings at *T*, mediated by the thermally excited chamber walls. After stabilization, the energy interchanges continue, but the average transfers in and out of the gas balance. In this process, the molecule propagates freely over all its accessible states. The probability *pi* of it momentarily being in a state *i* with energy *Ei* is given by the Boltzmann distribution as proportional to exp(–*Ei*/*kT*). This probability *pi* is dynamic in the sense that it tracks the frequency with which the molecule occupies each state as it explores all the possible states.
+
+![norton fig 1](assets/Uploads/_resampled/ResizedImageWzYwMCwzMjJd/norton-fig-1.webp)
+
+*Figure 1. A one-molecule gas*
+
+**Static probabilities of memory devices**
+
+Now consider this one-molecule gas system used as a memory device. The device stores a 0 or 1 according to whether the molecule is trapped on the left or the right half of the chamber by a dividing partition, as shown in Figure 2. If we are unsure of which side has trapped the molecule, we might assign the probabilities *p*0 and *p*1 to the two cases. We can form the familiar statistical parameters for this distribution. One is the *p* log *p* entropy. These probabilities *p*0 and *p*1 are static and differ from the dynamic probabilities of the single-molecule gas. For a memory device serves its purpose as long as the trapped gas molecule does not migrate dynamically over all possible states. It must remain in the half of the chamber associated with the 0 or 1 it records. The probability just measures our ignorance over which that half is.
+
+![norton fig 2](assets/Uploads/_resampled/ResizedImageWzYwMCwzMjJd/norton-fig-2.webp)
+
+*Figure 2. A one-molecule memory*
+
+**An Enduring failure**
+
+This physical difference between the meanings of the thermal and memory probabilities indicates that their *p* log *p* entropy formulae correspondingly differ in their physical meanings. That the probability is dynamic is essential for its thermodynamic function. That the probability is not dynamic is essential for the memory device to function as a memory device. This tells us that the similarity of the formulae in the two cases is superficial. There is no foundational connection between information, computation and thermodynamics.
+
+That is, I believe, the correct and final judgment. We are, however, a long way from it. These considerations are just the beginning of a huge literature that seeks to overcome such fundamental differences and somehow to sustain a deep connection. It is a tangled and complicated literature. Since the *p* log *p* entropy formula appears throughout all these fields, it is easy to attach suggestive thermodynamic labels to *p* log *p* formulae, even when the formulae have no thermodynamic significance. The outcome has been, at least in my estimation, an exuberance for dubious results with no solid foundation. They have proved to be a distraction from what are otherwise straightforward results in thermodynamics.
+
+**A one-molecule Maxwell’s Demon**
+
+A clear example of the distraction lies in the analysis of [Maxwell’s demons](https://plato.stanford.edu/archives/win2014/entries/information-entropy/#MaxDem). The suggestion, first made by James Clerk Maxwell in the nineteenth century, is that a minuscule demon, who could intervene on individual molecules, would be able to sort faster molecules from slower ones. The outcome would be a real process that reduces the overall thermodynamic entropy of the totality of the gas, the demon and associated systems. It would be a violation of the second law of thermodynamics. For the law asserts that all real processes increase thermodynamic entropy and prohibits those that would decrease it.
+
+A standard, related example in this literature is the one-molecule gas Maxwell’s demon, first proposed by Szilard. That it necessarily fails in its goal of reversing the second law of thermodynamics is supposed finally to be established from information or computation theoretical analyses.
+
+When a partition is inserted into a one-molecule gas chamber and divides it in half, it will trap the molecule on one or other side, as shown in Figure 3.
+
+![norton fig 3](assets/Uploads/_resampled/ResizedImageWzYwMCw0MTBd/norton-fig-3.webp)
+
+*Figure 3. Inserting the partition traps the gas in a lower entropy state*
+
+It is a spontaneous compression of the gas to a state of lower entropy. It is already evident that something contrary to the second law has happened. Gases spontaneously expand. They do not spontaneously compress. This prohibition follows directly from the second law. A compressed gas has a lower thermodynamic entropy than does the uncompressed gas. In this case, the thermodynamic entropy would be reduced by *k* log 2.
+
+We have not quite shown that this spontaneous compression violates the second law. We cannot rule out the possibility of a hidden thermodynamic entropy increase somewhere else in the system overall. Then the summation of all the thermodynamic entropy changes could be positive, as the second law requires. We rule out that possibility by continuing the process in a way that returns all the other components in the system to their original states. This completes the thermodynamic cycle.
+
+\_\_\_
+
+All designs for a Maxwell’s demon must fail. It is that simple.
+
+\_\_\_
+
+To this end, the gas is expanded isothermally and reversibly to refill the chamber, as shown in Figure 4, and all the components are returned to their original positions. The expansion draws heat *kT* log 2 from the surroundings and delivers it as work energy, by, for example, raising a weight. The overall effect is a full conversion of heat to work and a reduction of total entropy of *k* log 2, both in violation of the second law of thermodynamics.
+
+![norton fig 4](assets/Uploads/_resampled/ResizedImageWzYwMCwzMjdd/norton-fig-4.webp)
+
+*Figure 4. Isothermal, reversible expansion of the one-molecule gas*
+
+**Conflicting accounts of the Demon’s failure**
+
+The claim is that information or computation-theoretic ideas identify a hidden entropy cost whose increase protects the second law. They do not agree on its locus. In the Szilard tradition, we are to imagine an intelligent demon who operates the machinery of the device and must learn one bit of information to operate it. Which side holds the molecule? 0 or 1? If we set *p*0 = *p*1 = 1/2, the *p* log *p* formula gives us the requisite entropy expression:
+
+– *p*0 log *p*0 – *p*1 log *p*1 = – 2 (1/2) log (1/2) = log 2
+
+Thus, we are told, acquiring this one bit of information must create thermodynamic entropy of *k* log 2. It cancels out the reduction in thermodynamic entropy and protects the second law.
+
+This analysis is disputed. The [Landauer tradition](https://plato.stanford.edu/archives/win2014/entries/information-entropy/#LanPri) dismisses Szilard’s analysis as mistaken, as also were the scientific luminaries like von Neumann and Brillouin, who endorsed Szilard’s analysis. Instead, it notes that the intelligent demon must remember which side held the molecule and this fact is stored in a two-state memory device. The correcting creation of thermodynamic entropy *k* log 2 happens, using the same formula, when the demon erases the memory.
+
+**Demons that do not gain or erase information**
+
+There are many flaws in these analyses. It is not just that the two leading accounts disagree. The simplest flaw is that they are not general. There are many designs of Maxwell’s demons in which there is no evident role for an information-collecting or information-erasing agent. [Smoluchowski proposed](https://www.physik.uni-augsburg.de/theo1/hanggi/History/PhysZeitschrift.pdf) a simple trapdoor demon device. It automatically accumulates the faster moving molecules of a kinetic gas of many molecules on the right-hand side of a divided chamber, as shown in Figure 5. Only the faster ones can open a lightly spring-loaded trapdoor and pass from left to right, but they cannot pass from right to left. The outcome would be an accumulation of faster, that is hotter, molecules on the right; and slower, cooler molecules on the left. It would be a spontaneous separation of hot from cold that decreases thermodynamic entropy in violation of the second law. Feynman wrote of a similar [ratchet and pawl demon](https://www.feynmanlectures.caltech.edu/I_46.html).
+
+We might, if we are heavily committed to the information-theoretic exorcism, contrive ways to impose an information or computation-theoretic analysis onto these demonic devices. It would be for no real gain. The exercise would be a distraction from a simpler understanding.
+
+![norton fig 5](assets/Uploads/_resampled/ResizedImageWzYwMCwzMDRd/norton-fig-5.webp)
+
+*Figure 5. Smoluchowski’s trapdoor demon*
+
+**A thermodynamic exorcism**
+
+It turns out that, if we just ignore information and computation-theoretic perspectives, thermodynamics alone provides a straightforward demonstration that a Maxwell’s demon must fail. More precisely, it comes from the statistical physics that underlies thermodynamics. All Maxwell’s demons are intended, by design, to reduce the thermodynamic entropy of a closed system that we suppose includes the demon itself, the devices operated by it, and the surroundings. A version of the *p* log *p* formula for thermodynamic entropy applied to this system equates thermodynamic entropy with the volume of phase space accessible to the system.
+
+[![related-video-image](https://iai.tv/assets/Uploads/thumbnail-resized9.webp)
+
+SUGGESTED VIEWING
+The demons of thermodynamics
+With Katie Robertson](https://iai.tv/video/the-demons-of-thermodynamics)
+
+An elementary theorem of Hamiltonian dynamics, the [Liouville theorem](https://www.numdam.org/item/JMPA_1838_1_3__342_0.pdf), asserts that this phase volume is preserved in all processes. (There is an analogous theorem if we consider quantum systems.) Thus, no process can reduce the thermodynamic entropy of this closed system. Therefore, all designs for a Maxwell’s demon must fail.
+
+It is that simple.
+
+If one is committed to the information or computation-theoretic approach, it is tempting to identify the phase volume of this demonstration as connected with information. It does fit with the *p* log *p* formula. This identification adds nothing to the demonstration. It is an exercise in labeling and is, at best, just suggestive wordplay. At worst, it misleads us into the mistaken idea that [information has some foundational role](https://iai.tv/video/a-world-of-order-and-chaos) in the inevitable failure of the demon.
+
+**Fluctuations defeat Maxwell’s Demon**
+
+If we seek a more intuitive understanding of the necessary failure of all Maxwell’s demons, the statistical physics again supplies it. Smoluchowski showed it over a century ago, before both Szilard and Landauer wrote. Demonic devices seek to accumulate molecular-scale violations of the second law arising in thermal fluctuations. The traversal of the single molecule over the chamber is, more abstractly viewed, extreme density fluctuation in the gas. Inserting the partition to trap the molecule on one side locks in one of those lower entropy density fluctuations as a thermodynamic entropy-reducing, spontaneous compression.
+
+Smoluchowski’s point is that we cannot consider some pertinent fluctuations and ignore others. If we consider all thermal fluctuations in the demonic devices proposed, we see that none work. His trapdoor demon fails since the lightly spring-loaded trapdoor has its own thermal energy that leads it to flap around wildly and let molecules pass freely in both directions.
+
+The general result is that every one of the individual steps in the operation of some artfully conceived demonic device must overcome the thermal fluctuations that seek to undo the process. To overcome them is entropically costly, and these costs rapidly swamp any possible reduction in entropy. They also far exceed the quantities of entropy arising in the information and computation theoretic analysis, rendering them irrelevant to the entropy accountancy.
+
+**Fluctuations in the one-molecule gas Maxwell’s Demon**
+
+Here is just one way these costs arise in the one-molecule gas Maxwell’s demon. In the isothermal expansion of the one-molecule gas, heat has to pass reversibly from the surroundings to the gas. The energy of the gas molecule is fluctuating wildly simply because it is in a dynamic equilibrium with its surroundings. Its energy jumps up by gaining heat energy from the surroundings, and drops down by returning it. These routine thermal exchanges exceed the *kT* log 2 = 0.69*kT* of heat the gas should gain in the isothermal expansion. If it is a monatomic molecule, the molecule’s mean energy is (3/2)*kT* and its standard deviation is (3/2)1/2*kT* = 1.225*kT*.
+
+To suppress this fluctuation effect and ensure heat passes to the gas, we must raise the temperature of the surroundings. Heat now passes irreversibly through a temperature difference to the one-molecule gas in a thermodynamic entropy-creating process. A general result shows that the amount created is significant in comparison to the *k* log 2 reduction sought in the demon’s operation.
+
+**The general result**
+
+This is one example of how suppressing fluctuations leads to [thermodynamic entropy creation](https://iai.tv/articles/without-entropy-there-would-be-no-life-auid-2947). Similar suppressions must happen at every step of the multi-step operation of the demonic device. The components of molecular-scale devices are small. Like the one-molecule gas, they each have their own thermal energy whose fluctuations will reverse the process if they are not suppressed.
+
+We can calculate the entropic cost of fluctuation suppression by means of what Einstein called “[Boltzmann’s principle](https://assets.press.princeton.edu/chapters/s9874.pdf).” The entropy *S* associated with a state that has probability *W* in the time evolution is given by *S* = *k* log *W*. Consider a process that has a probability *W*fin of arriving in its intended final state *fin* and a probability *W*init that thermal fluctuations carry it back to its initial state *init*. The entropic cost of suppressing fluctuations with these probabilities is given as Δ*S* = *S*fin – *S*init = *k* log (*W*fin/*W*init). A modest probability of completion is *W*fin/*W*init = 20. Its entropic cost is Δ*S* = *k* log 20 = 3*k*.
+
+Each individual step in a Maxwell’s demon device, such as the one-molecule gas demon, is assumed to be brought to completion. The steps are many. A partition is inserted in the chamber. A weight is attached to the partition, which acts as a piston. The gas expands reversibly, raising the weight. The weight is detached from the partition. The partition is relocated to the center of the chamber. And so on. Each step will incur an entropic cost. The entropic cost for even a modest probability of completion of just one step will already exceed the entropy reduction anticipated.
+
+The outcome is inescapable. Fluctuations preclude any of the molecular-scale Maxwell demon devices from functioning as intended. They were never even close to working. The inevitability of the failure follows from straightforward thermodynamic and statistical mechanical analysis. We have had no need of any considerations of information acquisition, computation or erasure. They just needlessly complicate matters and distract us from a far simpler analysis.
+
+---
+
+For more on the thermodynamic approach to exorcising Maxwell’s demon, see  
+ John D. Norton, "[*Maxwell’s Demon Does not Compute*](https://www.cambridge.org/core/books/abs/physical-perspectives-on-computation-computational-perspectives-on-physics/maxwells-demon-does-not-compute/402D6F6ED0F30F726DEBE708504ADAEF)*,*" in Michael E. Cuffaro and Samuel C. Fletcher, eds., *Physical Perspectives on Computation, Computational Perspectives on Physics*. Cambridge: Cambridge University Press. 2018. pp. 240-256.
+
+For an elaboration of the material presented here and an entry into the general literature, see  
+ John D. Norton, “Too Good to be True: Entropy, Information, Computation and the Uninformed Thermodynamics of Erasure,” *Philosophy of Science*, (2026) FirstView. <https://doi.org/10.1017/psa.2026.10221>.

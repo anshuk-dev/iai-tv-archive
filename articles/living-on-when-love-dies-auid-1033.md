@@ -1,0 +1,63 @@
+---
+title: "Living On When Love Dies"
+subtitle: "Could lowering our expectations of romantic relationships enhance our experience of them?"
+author: "Christopher Hamilton"
+date: "Issue 63, 5th February 2018"
+article_id: "1033"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "720 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christopher-hamilton-image-2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/living-on-when-love-dies-auid-1033"
+---
+
+# Living On When Love Dies
+
+*Could lowering our expectations of romantic relationships enhance our experience of them?*
+
+**By Christopher Hamilton** | *Issue 63, 5th February 2018* | *Read time: approx. 4 mins* | *720 words*
+
+![Living On When Love Dies](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christopher-hamilton-image-2.webp)
+
+---
+
+There’s a theory propounded by some historians that modern divorce is a substitute for death. In the past, so the theory goes, most people died young and so hardly any couples lived on together for many years. One – or both of them – died.
+
+These days, where lots of us are lucky enough to have a good chance of living to three score years and ten, we spend a great deal more time in couples, and so have a much greater chance of getting thoroughly sick of each other. Your partner will probably not die, and nor will you, so the next best thing is divorce. Not very consoling, you might think.
+
+But maybe it is. It shows that relationships are trickier than we admit, and that the fact they might end doesn’t mean they weren’t worthwhile.
+
+**All relationships are failures**
+
+The first thing to remember is that relationships don’t just fail by ending. Even the best relationships are riddled with failure, just as the best person is. Human desire and need are limitless, and even the kind of life that looks the best and most successful is, from the inner perspective, botched. We spend a great deal of time trying to pretend this isn’t so, but I have yet to meet anyone, however successful, who isn’t just as confused as the rest of us. Whenever I have had a glimpse into any other couple’s relationship it has always seemed to me as confused in its own way as mine have been, however good otherwise. So: it’s the nature of relationships to be failures, and the fact that so many of them go wrong by ending is hardly surprising.
+
+\_\_\_
+
+"...it’s the nature of relationships to be failures, and the fact that so many of them go wrong by ending is hardly surprising."
+
+\_\_\_
+
+**Low expectations**
+
+Your expectations need to be low. I’m very bad at this, because I am in general a very demanding person. But I am learning. One way I am trying to do this is by learning from failed relationships in the past; from those moments where I asked too much and gave too little. If you are in middle age you possess what young people don’t have: experience. Try to turn that into wisdom. That’s the real compensation for those wrinkles that are beginning to appear. “Being unable to work out what’s going on in your partner’s head or heart is a good thing”
+
+**Mutual incomprehension**
+
+We all have an ideal of knowing our partner through and through: that’s supposed to be consoling. But, really, one of the key things that keeps a relationship going is a sense of mystery, of not knowing. So be attentive to your partner, but remember that being unable to work out what is going on in his or her head or heart is a good thing.
+
+**The end**
+
+But if the relationship ends anyway, what do you do? You have to make the best of a bad job. Obviously. But then, ‘the best of a bad job is all we ever make of it’, as T.S. Eliot has a character say in one of his plays. It would be easy to trot out the platitudes: get help from your friends, try to stay calm and so on. But a friend of mine said something wiser. When he divorced, someone said to him: “You married the wrong woman.” He told me that this was a silly thing to think. Partly because it seems to presuppose that somewhere there was the right woman whom he could have married, which is not true, and partly because to think this would have been to write off all that had been good in the marriage in the first place. There’s a lesson in what he said.
+
+**…Finally**
+
+My partner has just read what I have written here. She says I’m too sceptical and shouldn’t focus so much on failure. That’s a good example of the mutual incomprehension that she and I need to keep things going. So I am right. And so is she. And we’re both wrong. That way, it’s perfect.
+
+This article originally appeared in *iNews*, and was commissioned by David Maclean on behalf of the IAI.
+
+---
+
+**Debate the biggest ideas of our times at the Institute of Art and Ideas' annual philosophy and music festival HowTheLightGetsIn. For more information and tickets, click [here.](https://hay.htlgi.iai.tv/ "HowTheLightGetsIn Festival")**

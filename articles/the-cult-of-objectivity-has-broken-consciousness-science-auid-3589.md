@@ -1,0 +1,141 @@
+---
+title: "The cult of objectivity has broken consciousness science"
+subtitle: "An interview with Michael Pollan"
+author: "Michael Pollan"
+date: "3rd June 2026"
+article_id: "3589"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "3,416 words"
+read_time: "Read time: approx. 17 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-cult-of-objectivity-has-broken-consciousness-science.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-cult-of-objectivity-has-broken-consciousness-science-auid-3589"
+---
+
+# The cult of objectivity has broken consciousness science
+
+*An interview with Michael Pollan*
+
+**By Michael Pollan** | *3rd June 2026* | *Read time: approx. 17 mins* | *3,416 words*
+
+![The cult of objectivity has broken consciousness science](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/the-cult-of-objectivity-has-broken-consciousness-science.webp)
+
+---
+
+*With 22 competing theories and no consensus in sight, the science of consciousness is lost. In this exclusive IAI interview, Berkeley psychedelics researcher and bestselling author of a new book on consciousness **Michael Pollan** insists that even though consciousness lies beyond traditional forms of scientific investigation, we should resist becoming dualists who see it as something radically different from ordinary stuff in the world. Instead, he makes the case for reimagining science itself: it must stop reaching for objective descriptions of physical reality, and instead embrace subjectivity as the indispensable core of all inquiry.*
+
+**Alasdair Craig:** How did your experiences with psychedelics get you interested in consciousness?
+
+**Michael Pollan:** One of the things that happens on psychedelics is that they foreground consciousness. What formerly seemed perfectly transparent and ever present—and yet, non-existent, as water is to fish—suddenly you see it. The metaphor I use in the book is that psychedelics sponge the windscreen. Suddenly you realize: wow, there’s a windscreen, there is this phenomenon that’s mediating my relationship to reality. This is not an unusual realization on psychedelics. I think a lot of people are called to think about consciousness after psychedelic experiences. So that was the proximate inspiration for *[A World Appears: A Journey Into Consciousness](https://www.penguin.co.uk/books/443044/a-world-appears-by-pollan-michael/9780241509470)* (2026).
+
+And then there was a more specific way in which [psychedelics](https://iai.tv/articles/ricky-williamson-psychedelic-experience-isnt-just-brain-chemistry-auid-2395) influence the book. That was a particular experience I had on psilocybin. I had the sensation that the plants in my garden were conscious and returning my gaze, with their own point of view and agency, and I got curious as to how to evaluate an insight like that. I mean, what’s the truth quotient of insights you have on psychedelics? And I was reading William James—who, of course, wrote beautifully about mystical experience—and he said, we can’t judge the metaphysics here, but we should pay attention to two criteria: (1) How useful is it to think this is true? He was a pragmatist, of course. And (2) can we subject it to other ways of knowing to validate it? Because maybe we should treat these insights as hypotheses. And that’s kind of how I approach psychedelics, as a great generator of hypotheses, but they need to be tested against other ways of knowing. And so that led me down this long path exploring the science of plant intelligence and plant sentience.
+
+**AC:** I love your phrase, “smudging the windowpane of conscious experience.” So do you now start to think, actually, even when I’m not on psychedelics, I’m just seeing a screen all the time, which is not reality, but rather is my conscious experience, [behind which reality is hidden](https://iai.tv/video/the-structure-of-consciousness)?
+
+**MP:** Well, you know, not when I’m brushing my teeth and making breakfast! But yes, in meditation, certainly. I mean, one of the things you realize is that my experience happens to be this way now, but it could be another way. And many things can affect it. My morning coffee changes the screen in various ways, sharpens certain things.
+
+There’s this wonderful metaphor in Aldous Huxley’s book, *[The Doors of Perception](https://books.google.co.uk/books/about/The_Doors_of_Perception.html?id=fSUhEAAAQBAJ&redir_esc=y)*, where he thinks we channel consciousness, and that what the brain does is edit it, [and there’s a reducing valve](https://iai.tv/video/the-brain-is-not-responsible-for-consciousness). And psychedelics open the reducing valve wider. I don’t know that I’m ready to buy into the idea that consciousness exists outside brains, but I do love that metaphor because there are times when you are more conscious than others. I know I’ve switched from window pane to valve, but you know, a camera aperture can open wider or narrower. And I do have a sense of that. I have a sense of when I’m being less conscious, and when I’m being more conscious, by which I mean, you know, more present, taking in more sensory information. So when you start thinking about consciousness as a matter of degree, that changes things also.
+
+\_\_\_
+
+The only tool we have to understand consciousness is consciousness.
+
+\_\_\_
+
+I think when we scroll on social media, obviously, we’re conscious. But minimally so, because we don’t have to generate our own thoughts. We’re basically taking these little hits from other people and thinking their thoughts.
+
+The process of writing this book made me kind of relativize everyday consciousness as just one type, which is exactly what William James said. Normal consciousness is one type, separated by the flimsiest of screens from the other types.
+
+**AC:** If we stick with the metaphor of the smudge on the window that you get when you take psychedelics, it seems like we’re saying that consciousness has become like an object that you’re looking at, right? You’re looking at the smudge and that just is consciousness. But sometimes we’ll talk about consciousness as a state that you’re in, rather than an object you can perceive. You’re either conscious or you’re not conscious. So it’s difficult to really know what sort of thing we’re talking about when we talk about consciousness, right?
+
+**MP:** Yeah. When you say that consciousness is an object, what’s the subject?  Consciousness also? The only tool we have to understand consciousness is consciousness. So we’re in a closed loop and when we get a perspective on consciousness, we’re not achieving any distance from it. That’s one of the problems with studying consciousness. Science is predicated on an objective, God’s eye view of things, and you never get that. There’s no such thing.
+
+[![related-video-image](https://iai.tv/assets/Uploads/BRIGHTENED-the-brain-is-not-responsible-for-consciousness-copy.webp)
+
+SUGGESTED VIEWING
+The brain filters consciousness
+With Àlex Gómez-Marín](https://iai.tv/video/the-brain-is-not-responsible-for-consciousness)
+
+But, yeah, there is this sense, I think, that consciousness is something you can approach. Certainly, when you’re writing and trying to recreate a conscious experience, it’s a fiction, but you’re standing back from it, and looking at it. But there’s no real subject-object distinction.
+
+**AC:** That’s so interesting, because when philosophers start talking about consciousness, they often talk about what they call “[qualia](https://iai.tv/articles/the-mysterious-reappearance-of-consciousness-auid-1299)”, which is their word for the felt experience of, say, the color red. And I think that way of speaking often makes us think of the qualia as an object, which you can see out there: the redness of red. But, as you say, we also want to collapse the subject-object distinction when we talk about consciousness. So there’s something strange going on here…
+
+**MP:** Oh, yeah, there are many strange things going on!
+
+\*
+
+**AC:** Let’s talk about the varieties of consciousness. Apart from perceptions, there are, pains, emotions, thoughts, and so on. What is it that holds all this diversity together so that they all count as instances of consciousness? What is it that they all have in common?
+
+**MP:** Yeah, that’s a really good question. I mean, there is sensory information, right? Which we perceive coming from the world outside ourselves. And then there’s internal information, which is what’s called interoception. And this is very important too. This is where feelings come from—what are sometimes called homeostatic feelings—that are intended to get the brain to keep us in these narrow ranges of temperature and glucose and so on. That’s a very important part of consciousness. And according to some researchers, who I think are probably right, this is where consciousness begins, with these very primal feelings, like hunger and thirst and warmth and itch, and things like that. And then there’s this third thing, which is our thinking about thinking.
+
+And what holds all this together is, I think, the sense of self. Consciousness generates a self: it is probably an organizing principle. All this stuff is happening to the self. It’s a construct, I think, but it is very useful. It can connect all these different streams of consciousness to a single being or a place, metaphorically speaking.
+
+\* 
+
+**AC:** The first half of your book is about the science of consciousness. Is consciousness just another thing, like black holes or the origin of life, which we don’t yet understand, but which we should have every hope that science will one day get to the bottom of, or is there something special about consciousness that makes this unlikely?
+
+**MP:** It depends how you define science. As we define science now, it’s going be very difficult. Science since Galileo has had a set of rules or assumptions, which is that the proper remit of science is to deal with the objective, quantifiable, third-person world. And the physical sciences have done amazing work under that set of limitations. Galileo—for tactical reasons, not for philosophical reasons—said science should not deal with the soul, which at the time was what consciousness was considered to be. So what is subjective, what is qualitative, what is first person, we’re going to leave to the church, he said. And this was a good agreement, and it probably kept many scientists from getting burned at the stake. But it leaves science in an awkward spot, now that it wants to venture into that territory of qualities, of first-person experience. And I don’t think it has the proper tools. I think it will have to add to its toolkit in some way, and find a way to bring in phenomenology, or lived experience and introspection, which science is usually dismissive of.
+
+The challenge—we alluded to it earlier—is that the only tool you have to study consciousness with is consciousness. And what I mean by that is, the whole scientific enterprise is a manifestation of consciousness. As much as scientists like to flatter themselves with this idea that they attain a [godlike perspective on what they study](https://iai.tv/articles/why-science-isnt-objective-auid-1846), when it comes to consciousness, there’s no such thing. And it’s fine for all the things you can step outside of and study from that perspective. But two areas it won’t work are consciousness and cosmology.
+
+\_\_\_
+
+It could be that we live in this anomaly of not believing nature is conscious. And maybe psychedelics are teaching us something we’ve forgotten.
+
+\_\_\_
+
+[With cosmology, too, you have to study the universe from inside the universe](https://iai.tv/articles/consciousness-cosmology-and-the-collapse-of-common-sense-auid-3272). It’s not that cosmologists haven’t made progress. We know a lot about the age of the universe and expansion and things like that. But [we can’t penetrate what happened before the Big Bang](https://iai.tv/video/cosmological-mysteries-chris-impey). We just don’t have the tools because we can’t stand outside.
+
+The fact that there are 22 full-scale theories of consciousness tells you all you need to know: we’re kind of lost. And I was surprised to find that we are more lost than I thought we were when I started this. I thought that there’d be leading theories, or that we had experiments that we could conduct that would nail some of this down. And the fact is, we don’t.
+
+So, I don’t know if science can solve it. But, of course, we can change the rules of science. A really influential book for me was a book called *The Blind Spot*, by two physicists, Marcello Gleiser and [Adam Frank](https://iai.tv/video/science-beyond-the-physical), and a philosopher, [Evan Thompson](https://iai.tv/articles/reality-is-not-a-controlled-hallucination-auid-3517). It’s a reminder that science is a social practice. It’s organized in a certain way and it can be organized in a different way. But it has this huge blind spot at the center of it, which is its failure to recognize that it is a form of consciousness itself, and it doesn’t have a good way of taking account of lived experience.
+
+**AC:** On the one hand, I think you want to resist traditional dualism, which would say that consciousness is something magical, something supernatural, right? But on the other hand, you’re accepting that there is this division in reality between the stuff that you can investigate objectively and measure, and so on—the stuff that science has been good at finding out about—and consciousness, which, for some reason, you can’t objectively measure. Some would take this to suggest that the dualism is actually right. Is there a way of reconciling these two strands of your thinking?
+
+**MP:** To call it magical is full of value judgement. I mean, you could just say [immaterial](https://iai.tv/video/beyond-material). The interesting thing is, I think, that intuitively we’re all dualists. And I don’t know whether that’s because we’re children of Descartes and other cultures are less dualist than we are. Or it may be because that’s how consciousness feels. It feels different than the body. It feels separate from the body. But I don’t think we should trust that intuition.
+
+**AC:** So let’s think about ways that science might be changed to get at consciousness. I suppose the starting point would be the way that you begin the second half of your book. You have this nice line from William James, where he says, “We now begin our study of the mind from within.” Could you give us some sense of the ways of studying the mind from within? What does this involve?
+
+**MP:** I don’t know what that science looks like. But one of the points I’m making is that it depends on the humanities. I found that I learned as much, if not more, about consciousness, from reading novels and poetry. There is a sense of the fullness and complexity of consciousness that you don’t get in any scientific account. I interviewed this stream-of-consciousness writer and I approached her as an expert on consciousness, and she is. So I think that dialogue is really important.
+
+I’m reading Ben Lerner’s new novel, *Transcription*. Just read the first page of this novel: it’s a man falling asleep on a train, going to conduct an interview, and there is the experience of being in the train, facing backwards, there’s the view outside, but there’s a reflection of himself through which he’s seeing outside. There’s the memory of dropping his kids off at school. All this is going on in one moment of consciousness. Scientists aren’t going anywhere near that. But I think it’s useful for them to think about. That’s where we’re trying to go: like, how does such a layered experience happen? You know, it also makes you wonder, could a computer ever do this? And it gives you some doubt.
+
+\*
+
+**AC:** Before we get to computers, perhaps we could talk briefly about plants. How did you come to feel that they are sentient?
+
+**MP:** Well, it was a [psychedelic experience](https://iai.tv/articles/psychedelics-and-the-hard-problem-of-consciousness-auid-1857), and it’s not unusual on psychedelics. In fact, there’ve been studies about how people become animists during psychedelic experience. Their belief in animism arises after a single psychedelic experience.
+
+You know, most scientists would say this is all a myth. But we have only 400 years of the age of enlightenment and science. Before that, we were animists, and if you go around the world, most indigenous cultures are still animists, and children are animists, by and large, until they go to school. So it could be that we live in this anomaly of not believing nature is conscious. And maybe psychedelics are teaching us something we’ve forgotten.
+
+As I said, I wanted to test this idea, and see whether there was conventional scientific evidence for it. And there’s fascinating work going on in a field that calls itself—in a rather cheeky way—plant neurobiology. These are people who fully realize there are no neurons in plants, but they’re trolling conventional botanists! And they’re doing experiments that are demonstrating that plants can learn and remember, which is kind of amazing: how do you store a memory without neurons? They’re finding plants that can solve problems, that can hear and see. In fact, they have 20 senses to our five or six. For example, a bean plant looking for something to twine, and given a pole within eight inches or so of it, knows where that pole is and will aim its spiraling reach at that pole. What is that about? Is it bouncing signals off of it?
+
+One of the spookiest things is the fact that the same anesthetics that put us out put plants out. You might think that plants are already out, but they’re not. They’re just slow. If you take a plant with a fast behavior, like a Venus flytrap, and give it an anesthetic, it will stop reacting. So you have to ask yourself, what is lost when the plant is anaesthetized? Some state of alertness, of awareness, of its environment, of reactivity. I’m not prepared to call that consciousness, but maybe it’s sentience—which is a simpler form of consciousness, and involves the ability to sense what’s going on in your environment and assess what’s good and bad for you and act appropriately. That may be a universal quality of life.
+
+**AC:** Let’s turn from plants to AI. You point out that LLMs are trained on the internet rather than direct interactions with reality. You put this really nicely when you say the internet is not the world so much as a shadow cast by the world. So LLMs are living in this kind of shadow world, or in Plato’s cave, as you put it. What’s the significance of this for [AI consciousness](https://iai.tv/video/the-consciousness-test-yoshua-bengio) and moral consideration? And, to recall the beginning of our conversation, if we’re stuck behind a veil or screen of consciousness, are we also stuck in a kind of shadow world?
+
+**MP:** I don’t think they’re the same shadow worlds because our world includes nature and other people. And even if it’s mediated in some ways... There is a reality out there, and we are in relation to it, through consciousness. There’s friction with it. What’s missing from the LLMs is that friction with the real world. There’s more to the world than human representation, which is what they’re dealing with. And that means that so far, AI is a cultural technology for combining thoughts we’ve already had.
+
+[![related-video-image](https://iai.tv/assets/Uploads/cracking-the-code-for-thought.webp)
+
+SUGGESTED VIEWING
+Cracking the code for thought
+With Roger Penrose, Sabrina Gonzalez Pasterski, Max Tegmark, Güneş Taylor](https://iai.tv/video/cracking-the-code-for-thought)
+
+Genuine creativity is more than collage. A lot of what AI does now is tantamount to collage, putting this with that and you know, that’s part of art, certainly. But there are also genuinely new ideas that come into the world that don’t come in through manipulating the representations we already have. So it remains to be seen whether AIs can be truly creative in that more radical sense.
+
+But my arguments against AI becoming conscious have to do with the fact that the idea of AI consciousness is based on this [faulty metaphor that the brain is a computer](https://iai.tv/articles/studies-on-animal-minds-suggest-consciousness-is-not-computation-auid-3535). There are dimensions in which the brain is like a computer—it certainly does its share of computation. But computers have this sharp distinction between hardware and software, and brains don’t. In a brain, hardware and software are identical. Every memory is a physical change to the brain. Brains are not interchangeable in the way computers are. So this idea that you could take the consciousness out and somehow run it on another substrate, a silicon substrate, seems foolhardy.
+
+Anyway, it’s a more extended argument, and I may be wrong. And [when we move to computers that aren’t based on silicon](https://iai.tv/articles/water-not-silicon-has-to-be-the-basis-of-true-ai-auid-3200)—neuromorphic computers and things like that—all bets may be off.
+
+**AC:** Regarding your point about LLMs being stuck in the world of our representations—the internet or whatever—and not being able to interact with reality, are these representations, the world of the internet, themselves part of reality? We’ve created the internet, but it’s still a real thing that exists. And so while the LLMs may be trapped within that part of reality, they’re nevertheless within reality and interacting with it and so on. So it’s not obvious that there’s a barrier there to them becoming conscious and being creative.
+
+**MP:** Yeah, I mean, if our consciousness is built out of human culture, which is what we’re talking about with all those representations. But I tend to think consciousness comes a bit more out of nature and friction with the natural world, but...
+
+**AC:** So there’s a fundamental divide between the natural world and human artefacts?
+
+**MP:** And we lose track of that, and especially people in this computer world. You know, the people who are creating these AI systems, my guess is they’ve been into video games since the age of three, and they didn’t go outside a lot. And their own contact with nature is somewhat limited. I could be wrong, it’d be a very interesting thing to ask, all the wizards of AI, whether they like to go fishing and hiking and do things like that. Or were they on computers from a very early age? I interviewed Blake Lemoine, the Google engineer who came to believe that LaMDA, the Google LLM out at the time, was conscious and deserved personhood. It was very clear that he didn’t see a distinction between this bubble in which he lived and the real world. And I think we’ve all been distanced from the natural world, and this is taking us even further away. But it’s still there, you know, and we still have bodies, and we’re still mortal, and we don’t live in a simulation.
+
+**AC:** I think that’s a great place to finish. Michael Pollan, thank you very much!

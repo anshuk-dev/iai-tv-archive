@@ -1,0 +1,71 @@
+---
+title: "Why getting what you want won't make you happy"
+subtitle: "Desire, happiness and the next best thing"
+author: "David Hoinski"
+date: "20th April 2022"
+article_id: "2109"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,804 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-11-22.why-getting-what-you-want-wont-make-you-happy-webp.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/getting-what-you-want-will-not-make-you-happy-auid-2109"
+---
+
+# Why getting what you want won't make you happy
+
+*Desire, happiness and the next best thing*
+
+**By David Hoinski** | *20th April 2022* | *Read time: approx. 9 mins* | *1,804 words*
+
+![Why getting what you want won't make you happy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-11-22.why-getting-what-you-want-wont-make-you-happy-webp.webp)
+
+---
+
+*Much of our lives are spent chasing what we desire. We think that satisfying our desires, achieving our dreams, making money, finding a partner will make us happy. But all too often, once we attain what we think we want, we become bored of it, no longer want it or our desire for it is replaced with a crushing fear of losing it. If thus happiness is impossible, wisdom is the next best thing, writes David Hoinski.*
+
+If human happiness is possible, it must be consistent with desire because there is no human experience without desire. Yet desire might appear inconsistent with happiness, especially if we think of desire as a feeling of lack and of this feeling of lack as painful. Desire has often though not always been understood thus in the history of western philosophy. This conception of desire as painful coupled with the realization that it is also incessant led the 19th-century German philosopher Schopenhauer to the pessimistic conclusion that humanlife is meaningless suffering, at best like “a circular path made of red-hot coals” punctuated by “a few cool places.”
+
+But what exactly is desire? And what does it mean to say that it is inseparable from our experience? The 17th-century Dutch philosopher Spinoza went so far as to call desire (*cupiditas*) the “very essence” of humanity; but whether desire is truly our essence, indeed whether human beings have an essence at all is up for debate. Yet, no one doubts that desire stands so close to us that often we scarcely know where it ends and we begin.
+
+Desire itself may seem to be complex and appears first of all alongside other phenomena such as appetite, drive, and wish. In some cases, these may simply be different names for the same experience, wanting something we don’t have, but there can also be subtle and not-so-subtle distinctions. Wish, for example, is sometimes understood as hoping for something that is beyond our power, whereas desires can, at least in principle, be satisfied. Someone stranded on a desert island may die of hunger or thirst for lack of food or fresh water but not because of any impossibility in the order of things. By contrast, I may wish my friend a long and healthy life though it is almost entirely beyond my power to make this occur.
+
+Though they may not wish in this way, other animals of course desire; possessing like us sense-perception, they feel pleasure and pain and have appetites for food, drink, and sex that they attempt to satisfy. Ourselves likewise bound to the cycles of animality, we humans are also destined to sate our appetites only to have them regularly recur, an alternation repetitious as earth’s rotation, at least so long as we’re alive.
+
+\_\_\_
+
+## Plato arguably identified the ultimate object of desire as wanting to have good things forever, thus bringing the desire for immortality into the discussion.
+
+\_\_\_
+
+Yet as everyone knows, human desire extends far beyond our basic animal needs, latches onto innumerable objects, while also yearning for those things that we take to be most important in life: love, friendship, honor, or what you will. Desire can and routinely does concern the kind of people we want to become, and even wanting to stay the same is a *wanting*, as we shall see. The 19th-century German philosopher Hegel identified the desire to be recognized by other people as a fundamental longing of the human spirit, in some sense the goal of all political and ethical life. Alexandre Kojève, in his famous lectures on Hegel in Paris during the 1930s, interpreted Hegelian recognition profoundly as the specifically human desiring of the other’s desire, a notion taken up and developed by Jacques Lacan who attended Kojève’s lectures. In Lacan’s scheme the objects of desire emerge as signifiers of the human desire for others’ desire, which is one reason why, amongst other things, gifts or notes may be so important to us, embodying as they may what we really want, namely, the recognition of some other or others. Plato, meanwhile, arguably identified the ultimate object of desire as wanting to have good things forever, thus bringing the desire for immortality into the discussion. Whatever we may think of immortality as a literal possible state, Plato’s account captures something crucial about the nature of desire for time-conscious beings such as ourselves. For even if we are happy right now, or are at the moment everything we want to be, still we may long for this state to continue in the future. As a matter of fact, most people are probably happy at some or many points in their lives (remember Schopenhauer’s cool places); the problem is that time goes on and these moments tend to fade into the past, where we may indeed yearn for them in an attitude of wistfulness.
+
+Clearly we humans want a lot of things. As Freud taught, moreover, objects are the most variable features of what he called the “drives” (*Triebe*). Allowing for the possibility that there may be important differences between desires and drives, it is nonetheless a safe proposition that human desire can and does fix itself on innumerable objects. The commodity superstore within which many of us live is a testament to the promiscuousness of desire, to say nothing of the “bad infinity” to which our desire is prone. Manifestly we can be led by advertising, marketing, and our own lack of self-control to buy indefinitely things we do not need, colorful plastic gewgaws, gadgets, and gear that cease to satisfy us almost immediately upon acquiring them.
+
+\_\_\_
+
+## Each part of the soul has its own desire: the appetitive part for the pleasures of eating, drinking, and sex; the spirited (or thymotic) part for honour or the respect of its peers; and the intelligent part for knowledge and understanding.
+
+\_\_\_
+
+Premodern western philosophers tended to think of objects as causing desire, as when for example we begin to fall in love with another person due to their appearance, the sound of their voice, or even how they smell. This is still a common view of desire, and there must be some truth in the idea that we desire or love things because they are good, admirable, or desirable in themselves. Modern philosophy, however, and psychoanalysis too tend to be averse to such “teleological” explanations. Spinoza sums up the modern view when he argues that we do not desire things because they are good but rather view them as good because we desire them. Desire appears here as a feeling that surges up within us, an impulsion that we experience as internal to ourselves. There is some truth in this view as well. As Freud observed, we cannot flee desire as we might depart a noisy house for a quiet garden; here flight does not avail, and the only way to get rid of desire is to find some way to satisfy it. Thirst, hunger, and sexual desire are basic desires within us from which there is simply no running away. It is, however, central to Freudian psychoanalysis that we can and do seek all kinds of substitutes in order to satisfy our sexual desire or libido. It is a commonplace of psychoanalysis, for example, that human cultural activities can be understood as myriad sublimations of the sex drive.
+
+Ancient Greek philosophers recognized the importance of desire within humanlife and lavishly theorized it. Desire is especially central within the philosophy of Plato particularly in the form of *erōs*, which is fundamentally the desire we share with other animals for beauty and immortality (other animals reproduce on this account out of an instinctual desire to transcend death). On Plato’s view *erōs* runs throughout the human and animal soul. Plato’s familiar conception of the human soul as tripartite, with appetitive, spirited, and intelligent parts, incorporates *erōs* or desire both at its basis *and* at every level. In other words, each part of the soul has its own desire: the appetitive part for the pleasures of eating, drinking, and sex; the spirited (or thymotic) part for honour or the respect of its peers (think again of Hegelian “recognition”); and the intelligent part for knowledge and understanding. This tripartition also explains conflicts internal to ourselves, because different parts of ourselves pursue the same object of desire in different and at times contradictory ways. The intelligent part wants to converse and understand, while the appetitive part wants to drink and make love. The spirited part may be opposed to education if it lives in a society where education is held in contempt.
+
+Meanwhile, as many scholars have noted, Freud’s conception of desire as libido bears a strong resemblance to Plato’s idea of *erōs*. In both Freud and Plato libidinal or erotic desire appears at the root of the soul in the form of sexual desire but also suffuses the higher mental functions such as the spirited desire for honor or social distinction, the intellectual desire for learning, and (especially in the case of Freud’s theory) the creative desire to build and make that finds its expression in the work of artists, scientists, and craftspersons of all kinds. Philosophy, too, appears in part as a sublimation of the basic drive, for example in the case of Plato’s Socrates lusty for wisdom.
+
+\_\_\_
+
+## Recognizing desire as an ineluctable feature of humanlife, Plato argued for limiting the desires of our appetitive part so that they might be satisfied as easily as possible.
+
+\_\_\_
+
+And yet despite all the foregoing it might appear that the very nature of desire makes it incompatible with happiness, especially if desire is understood as it so often has been as painful lack or bodily and mental tension. Desire recurs, and even if we had and were everything we wanted in the present, we would still be desirous of having or being this in the future. Lack thus appears inescapable for time-conscious beings like us.
+
+In the philosophy of Schopenhauer, desire as the will-to-life of living beings appears as nothing other than an expression of fundamental reality itself. Here even inanimate beings such as rocks and water are appearances of a timeless will striving without end.
+
+Recognizing desire as an ineluctable feature of humanlife, Plato argued for limiting the desires of our appetitive part so that they might be satisfied as easily as possible, for example, without need for the delicacies of so-called fine dining or the countless superfluities produced by an increasingly inane global economic system. After all, the more we lack or feel that we lack, the more we suffer and the less happy we are.
+
+At the same time, however, Plato saw a field for infinite desire that might be cultivated to our benefit, namely, the field of learning. We know that Plato called the cultivation of this field philosophy, those who work it philosophers. If happiness is impossible for human beings, Plato clearly thought the desire and pursuit of wisdom the next best thing.

@@ -1,0 +1,53 @@
+---
+title: "Beyond Left and Right"
+subtitle: "Is the left-right divide still relevant?"
+author: "Pippa Malmgren"
+date: "21st March 2015"
+article_id: "513"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,258 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Pippa-Malmgren-2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/beyond-left-and-right-auid-513"
+---
+
+# Beyond Left and Right
+
+*Is the left-right divide still relevant?*
+
+**By Pippa Malmgren** | *21st March 2015* | *Read time: approx. 6 mins* | *1,258 words*
+
+![Beyond Left and Right](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Pippa-Malmgren-2.webp)
+
+---
+
+The words “left” and “right” are no longer of real significance.
+
+Some people still do not understand that the debt burden in Britain and across the industrialised world is so large that it cannot be paid down. The belief persists that if taxes on the rich could be raised a bit more, that would fix it. But, even if all citizens were taxed 100% of their income, the debt burden would still surpass the income. Therefore, there is no longer a very fruitful debate to be had between the “left” and the “right”. The bigger question is: what is the appropriate relationship between the citizen and the state?
+
+After all, there is always the social contract that governs this relationship. Citizens abide by the law and pay taxes but expect the state to deliver certain outcomes in exchange. They expect a police force, a military, a certain level of universal education and a health system. What the financial crisis revealed was that the state has been over-promising for some time, possibly over the last two centuries. Those on the “left” want to believe that somehow there is a way to close tax loopholes, increase tax collection and thereby make ends meet. Those on the “right” want to believe that somehow markets can deliver enough growth and raise GDP to grow our way out of the malaise.
+
+Instead, we now face an impasse in which the two sides harangue each other without any practical resolution. The left says the state must redistribute wealth more. The right says the state is killing the incentives for wealth creation. The solution then is to move beyond the left and the right and to find a new language to redefine a new social contract. The terms “freshwater” and “saltwater” may be helpful. In 1988 Peter Kilborn wrote an article of this title in the [*New York Times*](http://www.nytimes.com/1988/07/23/business/fresh-water-economists-gain.html#http://www.nytimes.com/1988/07/23/business/fresh-water-economists-gain.html)*,* pointing out that freshwater economists (who come from academic institutions like the University of Chicago near the freshwater Great Lakes) believe that the state can facilitate the efforts by individuals to generate greater wealth. The saltwater camp (who reside near the Atlantic Ocean at Harvard and Princeton) believes that the state must redistribute wealth and that these will not disincentive wealth creation.
+
+It is possible therefore to have a freshwater Democrat like former US President Bill Clinton who believes that markets and the profit making power of the individual (including a corporate individual) must be supported and protected. In contrast, President Obama is a saltwater Democrat who is more profoundly hostile to those who have the opportunity to generate wealth and profits. It is the state’s right to take more and more of it to serve the needs of others. For him, the act of redistributing wealth is a positive thing. Bill Clinton sees such efforts as a mug’s game. President Reagan and Margaret Thatcher were perhaps the ultimate freshwater leaders on the right but both ended up engaging in some redistribution as well. It was Maggie who introduced the Poll Tax and Reagan who engaged in record deficit spending.
+
+The question today is how can we generate a better balance between the power to tax and the power to generate a profit? The question is usually posed as being a simple choice between big business or big government. That is a saltwater approach. We could instead ask whether we are for small business and small government. That is a freshwater approach. This reveals that we need to rethink the nature of the capitalism we are pursing. There aren’t that many people around who want to go back to state-led allocation of assets and wealth in the economy – something we used to call communism. Russia and China today rightly ask “who is more communist now?” given the high level of state intervention in the financial markets, as governments have sought to control interest rates and prices through policy measures like quantitative easing.
+
+What is the right version of capitalism? It’s not an easy question – the old version did not work. That’s the version that skews the system in favour of big companies at the expense of the smaller, more dynamic ones. This matters because small companies that employ less than fifty people tend to generate the vast majority of new jobs. Most of the best innovation tends to emanate from small firms, rather than big ones. Even Apple says most of the innovation comes from outsourcing ideas to little groups of a handful of innovators. But many things mitigate against the small freshwater version of capitalism. The tax rules, for example, have become so complicated and dense that only the big companies can figure out how to manage if not dodge the reach of tax law. We may say we want to tax the big, rich players but in practice we end up penalising the smaller ones who are genuinely hiring and investing in the local economy. The “left” end up killing the goose with the golden egg.
+
+The right may want to make the state smaller but they have to acknowledge that capitalism, as it stands, does not make allowances for those who are knocked hardest by the market’s violent volatility.
+
+Which activities should the state be involved in? What is the right level of benefit and the right level of taxation? These questions are neither “left” nor “right” nor purely “freshwater” or “saltwater”. They require a more profound thought process about the nature of the society and the social contract that makes sense today. The economic stress we face is very painful but it is also an opportunity to be creative and to innovate the social contract.
+
+Perhaps part of the problem is that the landscape of the last 25 years was so very unusual and perhaps exceptional. The fall of the Berlin Wall in 1989 led to the entry of billions of new emerging market workers into the world economy. They systematically pushed down wages and prices thus creating the so-called “Great Moderation” of inflation and gave impetus to the reasonably steady growth environment. The demise of the Soviet Union and China’s shift into more freshwater thinking further removed the traditional geopolitical and nuclear threats, thus freeing capital for more productive use. The “Peace Dividend” could be spent on other, more productive things. In that world, the state presumed that today’s growth would continue tomorrow. Budgets were planned on linear trajectories. More and more promises to redistribute wealth were made.
+
+Then the whole thing reversed with the advent of the financial crisis in 2008. Emerging market workers realised they might not become rich before they got old and were no longer willing to work for nothing. Wages in such markets started to rise. Domestic economic malaise in emerging markets from China to Russia is increasingly converted into hostility against neighbours thus bringing geopolitical conflict and stress back onto the landscape. Such countries would accuse the US and NATO of exactly the same thing, claiming that economic malaise at home creates a new need to manufacture and export blame.
+
+Whatever the cause, the problem now is that there is a need to generate more wealth, more GDP, more innovation at a time when states want to take more of an individual’s wealth, thus dis-incentivising the efforts to create that wealth. The business of balancing interests is now the paramount task of government and individuals alike. It is time to renegotiate the social contract beyond the left and the right and toward a place where competing interests can be rendered more complementary.
+
+ 
+
+**Image credit: [sylvar](https://www.flickr.com/photos/sylvar/6975893587)**

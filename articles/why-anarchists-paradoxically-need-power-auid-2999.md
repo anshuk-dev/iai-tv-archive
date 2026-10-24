@@ -1,0 +1,81 @@
+---
+title: "Why anarchists paradoxically need power"
+subtitle: "We need institutions that embrace anarchy"
+author: "Melanie Erspamer"
+date: "13th November 2024"
+article_id: "2999"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,952 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Why-anarchists-paradoxically-need-power.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-anarchists-paradoxically-need-power-auid-2999"
+---
+
+# Why anarchists paradoxically need power
+
+*We need institutions that embrace anarchy*
+
+**By Melanie Erspamer** | *13th November 2024* | *Read time: approx. 10 mins* | *1,952 words*
+
+![Why anarchists paradoxically need power](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Why-anarchists-paradoxically-need-power.webp)
+
+---
+
+*We think of anarchy as being against centralised power at all costs. But, argues philosopher Melanie Erspamer, for anarchism to be effective in the world, it needs institutionalisation. What is more, our institutions need anarchism - its principles, its strategies and its values - in order to prevent problematic concentrations of power. Anarchy is an anti-power philosophy. But, paradoxically, anarchists must take positions of relative power, in order to counter the monopolistic forces of government and large corporations today.*
+
+Like communism, anarchism emerged in mid-19th century Europe with the new workers' movement, entered the arena of party politics after World War I, and by the end of World War II retreated from the arena of democratic or government politics, becoming a possible current for social movements and eventually academia. By then, in a process beginning already with Marx and Bakunin’s disagreement during the First International, it had distinguished itself from communism, while also having been similarly vilified and diminished, associated with chaos and violence. But as the increasing inequality and political dissatisfaction wrought by Western neoliberalism grows, the kids are turning to communism again: and is it time for anarchism too to make a comeback?
+
+[![related-video-image](https://iai.tv/assets/Uploads/CroppedImage608342-Enjoy-Capitalism.webp)
+
+SUGGESTED VIEWING
+Capitalism and anarchy
+With Stephen King, Deirdre McCloskey, Aaron Bastani](https://iai.tv/video/capitalism-and-anarchy)
+
+There are a few founding fathers of anarchism (namely, Proudhon, Bakunin, Kropotkin) and several moments of historical significance (like that disagreement between Bakunin and Marx, the 1871 Paris Commune, the Spanish collectivist movement before Franco), but no single text or ideology that encompasses all its currents. We may thus be forgiven for asking what is meant by *anarchism* exactly. Even excluding a certain strain that shares more with Nozickean libertarianism and is completely detached from anarchism’s origins in the labour movement (anarcho-capitalism), we are left with numerous divergences, so that anthropologist David Graeber for instance denied that anarchism forms a single programme. A basic answer focuses on anarchism’s hostility towards the capitalist state. A more nuanced answer notes anarchism’s hostility towards the general organisational tendency that the capitalist state embodies: sedimented hierarchies based around a transcendental justification. Opposition to the domination inherent to sedimented hierarchies is an important, if solely negative, definition, but I would like to point to two sets of difficulties that beset it.
+
+\_\_\_
+
+Postanarchism seeks to align itself with the philosophers of postmodernism rather than with the essentialist contours of Enlightenment thought; yet many of those philosophers may seem to challenge rather than embrace the Enlightenment subject.
+
+\_\_\_
+
+Firstly, the role of the individual, and particularly the ideal of the individual as Enlightenment subject, within anarchism. Anarchism is associated by many theorists with a defence of individual freedom and autonomy for all individuals equally. Philosopher Saul Newman calls anarchism ‘a politics and ethics of *equal-liberty*’, and Bakunin wrote: ‘I am free only when all human beings surrounding me—men and women alike—are equally free’. Yet the strain of anarchism that Newman coined, *[postanarchism](https://theanarchistlibrary.org/library/saul-newman-postanarchism),* presents us with the wrinkle of difficulty here. Postanarchism seeks to align itself with the philosophers of postmodernism rather than with the essentialist contours of Enlightenment thought; yet many of those philosophers may seem to challenge rather than embrace the Enlightenment subject. Hardt and Negri’s ‘multitude’, for instance, which they define in *Commonwealth* as a ‘constant process of metamorphosis grounded in the common’, a ‘field’ of productive relations between singularities (rather than individuals), reflects for Newman a ‘libertarian impulse’, but its form of liberation may seem to dissolve any notion of an integral subject that could claim her ‘liberty’ at all. In [*Common Ground*](https://www.plutobooks.com/9780745325316/common-ground/)philosopher Jeremy Gilbert makes the case for a more horizontalist politics (rather than an *anarchist* politics per se—but in its resistance to hierarchy and the nation-state, we can see many anarchist crossovers) that specifically revolves around dismantling the notion of an autonomous individual subject: after delving into complex biological and psychoanalytic theories, Gilbert writes that ‘the picture which emerges is that of a self which cannot be properly understood in the classical sense as a ‘subject’’. Thus even without considering the more individualist, libertarian derivative of anarchism, an ontological, conceptual question emerges: is there an individual subject that anarchism is trying to purportedly ‘liberate’ and whose autonomy lies at the centre of the project, or does anarchism proper reveal the autonomous subject as a fictitious notion above the collective, equality-generating flows of life lying beneath?
+
+[![related-video-image](https://iai.tv/assets/Uploads/destiny-are-we-really-in-controll.webp)
+
+SUGGESTED VIEWING
+Destiny: Are we really in control?
+With Nadia Idle, Keir Milburn, Jeremy Gilbert](https://iai.tv/video/destiny-are-we-really-in-control)
+
+A second major question around anarchism concerns the *politics* of anarchism: does anarchism define a particular (though shifting, up-for-debate) political project, or a diffuse approach to the hierarchies and organisational tactics of modern life? Now, before elaborating further, I would like to note that in any case anarchism is associated with what is known as *pre-figurative politics*, or a non-consequentialist approach to politics that seeks to represent and create, even in small forms, the dynamics it hopes to achieve, rather than attempt to opportunistically or strategically take power in order to realise them. Nevertheless, there is still an important distinction between those understandings of anarchy that treat non-hierarchy or anti-capitalism as *institutional* *goals*, and those that treat them as *practises*. Gilbert, for instance, though making a sustained defence of horizontalist practises, admits that ‘even the most horizontalist and immanentist political practice must at times adopt a strategic orientation and a hegemonic ambition if it is to have any success in the actual world’. Several early anarchists also imagined and fought for an institutionalisable form of anarchism, like Proudhon or Kropotkin, who espoused mutualist and federalist political projects respectively. On the other hand, several contemporary thinkers, like Sophie Scott-Brown (see her IAI interviews [here](http://iai.tv.home/speakers/sophie-scott-brown)) and James C. Scott, understand anarchism as a *practise*, quotidian and not necessarily radical, as Scott-Brown explicitly states, one that aims at democratising existing spaces and eroding the mechanistic, controlling power of the state in favour of local practises. Anarchism becomes not necessarily *revolutionary*: in fact Scott, well-known for his critique of the modern state, admits candidly in a recent book, [*Two* *Cheers* *for Anarchism*](https://press.princeton.edu/books/paperback/9780691161037/two-cheers-for-anarchism?srsltid=AfmBOooStpoWWmKpJ702J4LZG1u4xmr9PyntQZo12jdoVEWUbtpayGBK), that ‘both theoretically and practically, the abolition of the state is not an option’.
+
+\_\_\_
+
+This is because anarchism is a negative philosophy, one that revolves around opposing certain power formations rather than proposing them
+
+\_\_\_
+
+My aim here is not to select among these divergent elements to cast a picture ofwhat anarchism really is or should be. Neither do I seek to claim that anarchism’s inner ambiguities render it a senseless pursuit. Perhaps there is no synthesis of anarchism’s potential antinomies (and perhaps this is the only conclusion any card-carrying anarchist, against complete systems, against transcendence, would accept), but it can still remain a comprehensible, relatively coherent ideology. Rather, the preceding discussion paves the way for my claim that while anarchism is in many ways a useful political *practice*, it is not sufficient as aleft-wing *political project*. This is because anarchism is a *negative* philosophy, one that revolves around opposing certain power formations rather than proposing them; and more specifically, to use Deleuze and Guattari’s famous term, a *deterritorializing* one, one that pushes for the contestation of any existing order in order to allow for the greater movement of its singular units. But this leaves it unable to push for further political projects beyond the continuation of that process itself. Is that enough? The anarchist dream, which Newman claims is the frontier of all left-wing projects including communism, is that this process is self-propagating and self-reinforcing: the dream of a complete harmony between individual and collective, between means and ends, which become one and the same.
+
+An anarchist might reply that, actually, the goal of eroding capitalism, the nation-state system, and stable hierarchies is not so utopian after all. Anthropologists David Graeber and Pierre Clastres have shown the existence of various societies, both predating and coexisting alongside European nation-states, that were self-consciously set up around the prevention of any state-like (re: stably hierarchical) social form from developing. Such anti-hierarchical practices are called, for Graeber, forms of *counter-power*. The anthropologists’ examples serve to counter the predominant narrative that both the state and capitalism are inevitable, and desirable, developments. But while it is undoubtedly important to challenge the taken-for-grantedness of our current practices, in order to serve as fodder for a future-oriented political project, these examples must be combined with an analysis of *history*—which was, for Marx, political economy—and current social dynamics.
+
+[![related-video-image](https://iai.tv/assets/Uploads/24-05-08-inside-anarchy-sophie-scott-brown2.webp)
+
+SUGGESTED VIEWING
+The art of everyday anarchism
+With Sophie Scott-Brown](https://iai.tv/video/inside-anarchy-sophie-scott-brown)
+
+And here it is interesting to note that Deleuze and Guattari themselves hypothesise that pre- or anti-state societies, based around counter-power practices to resist hierarchy, become state societies either when they are invaded, or when a stock or surplus is created within them, which thus leads to an independent body to manage that stock and thereby a hierarchy. Clastres showed in fact how the practices of many pre-state societies included the prevention or destruction of surplus (e.g., the Native American potlach). The point here is not to reify the analysis of Deleuze and Guattari or Clastres, who approached various indigenous societies from the perspective of the European state. Rather, the point is to note how on any analysis of those alternate societies fundamental differences with our own time, our current historical juncture, remain, and one is indeed the fact that we now live in a time of unprecedented surplus. Thus, a political project is needed capable of articulating how our surplus can be used (including how it might be wasted).
+
+\_\_\_
+
+Institutionalising anarchism, this piece proposes. And why not? Have our cake and eat it too – embrace some anarchy while not entirely dismantling our institutions along the way.
+
+\_\_\_
+
+Following a similar logic, sociologist Onofrio Romano defends the need for a *verticalist* political paradigm, i.e., one that presupposes that any social system is greater than the sum of its parts or singularities, rather than a *horizontalist*, immanentist paradigm which sees the meaning of the whole of a social order in its singular parts. He makes this argument by discussing the [movement for *degrowth*](https://www.routledge.com/Towards-a-Society-of-Degrowth/Romano/p/book/9781032176734?srsltid=AfmBOooVv0s8RLePoPMVXMVxV5zzyE6A4SAuJKyUaGRct2T3RVTXb87e). Degrowth, which seeks to slow down the production and consumption of commodities to stop and even reverse the environmental damage caused by our industrial economic model, is not an aim that horizontalism (or anarchism I might say) can accomplish, Romano claims. This is because horizontalism, or the liberation of individual units, cannot achieve a regulatory model, besides that merely *possible* utopia of ecologically respectful self-regulation. We can think of a regulatory model as a programmatic organisation of social activity according to some value or idea of justice. The anarchist beliefs in equality, democracy, and even in the formation or existence of anti-hierarchical ‘counter-power’ practices as described by Graeber, need to ultimately be striven for as partly verticalist, institutional projects (e.g., through the creation of ‘plebeian’ institutions), lest they remain utopian horizons. Unlike many of the hunter-gatherer societies mentioned by Clastres and Graeber, we are already facing the danger, and blessing, of surplus; and to manage it we need a political project with a regulative vision over human conflict, with ends that can be distinguished from its means. Ones that can still remain open-ended, like Romano’s defence of social democracy and degrowth, or the more anarchist-adjacent position of federalism.
+
+Institutionalising anarchism, then, this piece proposes. And why not? Have our cake and eat it too – take on some anarchy while not entirely dismantling our institutions along the way. Neither embracing it as our end-all be-all political ideology, nor relegating it to the more informal status of the 'everyday' (though this could itself be another valiant battle). For, as a loose ideology with a set of important concepts, including the encouraging of local, vernacular practises; critical attitudes towards rules, hierarchies, and elites; and the emphasis on our capacity for self-organisation, anarchism is a useful and important presence within left-wing movements. But as a self-standing political *project*, it falters. Yet if we keep in mind its history, contradictions, and limitations, we should not fear embracing it, both as a term and as a guiding philosophy.

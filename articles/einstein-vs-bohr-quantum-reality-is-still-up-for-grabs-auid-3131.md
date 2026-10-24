@@ -1,0 +1,115 @@
+---
+title: "Einstein vs Bohr: Quantum reality is still up for grabs"
+subtitle: "The conflict at the heart of physics"
+author: "Jacques Pienaar"
+date: "4th April 2025"
+article_id: "3131"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "2,356 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-reality-is-still-up-for-grabs2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/einstein-vs-bohr-quantum-reality-is-still-up-for-grabs-auid-3131"
+---
+
+# Einstein vs Bohr: Quantum reality is still up for grabs
+
+*The conflict at the heart of physics*
+
+**By Jacques Pienaar** | *4th April 2025* | *Read time: approx. 12 mins* | *2,356 words*
+
+![Einstein vs Bohr: Quantum reality is still up for grabs](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/quantum-reality-is-still-up-for-grabs2.webp)
+
+---
+
+*For decades, the story went that Bohr’s anti-realism triumphed over Einstein’s quest for a deeper reality. Physicists were told to "shut up and calculate" and metaphysical debates were dismissed as distractions. But today, realist interpretations of quantum mechanics constantly emerge and the anti-realist position is far from the mainstream – so if Bohr won, why does almost no one take his side? University of Massachusetts Boston physicist Jacques Pienaar argues that we’ve been wrong all along – Bohr was not an anti-realist after all, and Einstein's apparent realism is not on sure-footing.*
+
+One grey morning in Vienna in 2014, I paused on the steps of the historic Strudlhofstiege. Its emblem, [a fish-head that spouted water into an algae-stained basin](https://www.atlasobscura.com/places/strudlhofstiege), stared back at me with melancholy century-old eyes. I passed this spot every day on my way to work at the quantum physics institute of the University of Vienna, and found that gazing at the fountain and listening to the gentle splashing of water often helped me work through difficult physics problems. Today, a veil of fine rain dampened my face as I wondered: just what *was* the Copenhagen interpretation?
+
+\_\_\_
+
+According to the usual telling of the story, Einstein's case for ‘realism’ lost, and the ‘anti-realist’ Copenhagen interpretation, championed mainly by Bohr and Heisenberg, emerged victorious.
+
+\_\_\_
+
+As an undergraduate, I was enthralled by the atmosphere of drama and mystery surrounding the famous debates between Bohr and Einstein, which for me was perfectly captured by the iconic grainy [photo of the two great scientists reclining side by side](https://upload.wikimedia.org/wikipedia/commons/4/43/Niels_Bohr_Albert_Einstein4_by_Ehrenfest_cr.jpg), Bohr laughing as Einstein shares some joke whose punchline we will never hear, his hand raised in an enigmatic gesture. For a long time, I was sure he was holding a cigar, until one day I examined the photo carefully and found his fingers empty.
+
+![Einstein and Bohr Getting along](assets/Uploads/_resampled/ResizedImageWzYwMCw0ODZd/Einstein-and-Bohr-Getting-along.jpg)
+
+According to the folklore, during their intense but convivial discussions in public and in private, Einstein argued that quantum mechanics had to be an incomplete description of reality, while Bohr argued that he was missing the point: quantum theory was never meant to describe reality, only predict what could be observed in experiments and communicated in terms we could understand, a function for which the theory was entirely sufficient. According to the usual telling of the story, Einstein's case for ‘realism’ lost, and the ‘anti-realist’ Copenhagen interpretation, championed mainly by Bohr and Heisenberg, emerged victorious.
+
+[![related-video-image](https://iai.tv/assets/Uploads/quantum-and-the-unknowable-universe.webp)
+
+SUGGESTED VIEWING
+Quantum and the unknowable universe
+With Slavoj Žižek, Roger Penrose, Sabine Hossenfelder, Güneş Taylor](https://iai.tv/video/quantum-and-the-unknowable-universe)
+
+Like all good stories, it has a few grains of truth. During the war years and long afterwards, young physicists were frequently discouraged by their advisors from working on ‘metaphysical’ questions, on the grounds that Bohr had cleared up the confusion and there was [nothing more to be said](https://wwnorton.com/books/9780393342314)[1]. Quantum theory was a tool for calculating probabilities for observable events, and inquiring into the metaphysical causes of such events was a dead end. Fortunately, not all took this advice to heart. Looking back on the situation, physicist David Mermin said, “If I were forced to sum up in one sentence what the Copenhagen interpretation says to me, it would be “Shut up and calculate!”[2]. [Einstein's own assessment was even more scathing:](https://einsteinpapers.press.princeton.edu/vol16-trans/234) “The Heisenberg-Bohr tranquilizing philosophy – or religion? – is so delicately contrived that, for the time being, it provides a gentle pillow for the true believer from which he cannot very easily be aroused. So let him lie there.”[3]
+
+The little phrase “for the time being” nagged at me. As Einstein foresaw, physicists could only remain asleep on the “gentle pillow” of Copenhagenism for so long. John Bell shook physicists awake, with a pair of famous theorems in 1964 and 1976 that showed how the apparently metaphysical postulate of “local realism” (Wiseman 2014: 467–469), far from being just bar-room philosophy, [actually led to statistical predictions that deviated from quantum theory and could, in principle, be tested by experiments](https://www.nature.com/articles/510467a). Electrified by the news, physicists who had been quietly harboring philosophical inclinations sprung into a frenzy of activity, systematically working out variations of “realist” hypotheses and devising experiments to test them over the ensuing decades. Thus, Bell's theorem ushered in the age of what philosopher-physicist Abner Shimony called “experimental metaphysics”. The 1990's and early 2000's saw the field evolve as the discovery of quantum computing and the quantum information revolution gave physicists new mathematical tools to attack the old puzzles, transforming it into a lively research field known today as Quantum Foundations.
+
+\_\_\_
+
+You might be forgiven for thinking that realism is now dead, and anti-realism reigns supreme; but in science things are never so simple as they first appear.
+
+\_\_\_
+
+So, what of the old Bohr-Einstein debates? As often happens in physics, there were surprises in store. The first was that realist models of the kind Einstein had envisioned, once formalized as testable hypotheses, were unable to reproduce the predictions of certain quantum experiments. The most decisive blow to these “local realist” models was a series of experiments inspired by Bell's original theorem, carried out in the 80's by Aspect and then refined by Clauser and Zeilinger over subsequent decades. Culminating in the “loophole free” Bell tests of 2014, the experiments showed beyond reasonable doubt that the intuitive kind of ‘realism’ that Einstein had hoped for was incompatible with experimental observations (Miller 2016: 14-16). In fact, on that same rainy morning in 2014 as I stood by the Strudlhofstiege, my colleague Marissa Guistina, then a PhD student in Zeilinger’s group, was deep underground somewhere not far from where I stood, clearing cobwebs out of an ancient labyrinthine passageway buried underneath Vienna, whose stable environment made it the perfect spot for her to set up one of the epoch-defining experiments. [In 2022, the Nobel prize went to Zeilinger, Clauser and Aspect](https://www.nobelprize.org/prizes/physics/2022/popular-information/), in part for their contributions to the Bell tests.
+
+You might be forgiven for thinking that realism is now dead, and anti-realism reigns supreme; but in science things are never so simple as they first appear. In the vacuum left by realist theories, over the last few decades several new interpretations have emerged, using the tools of quantum information theory to transform the old Copenhagenism into something new. [Humorously dubbed “Copenhagenish interpretations” by physicist Matt Leifer](https://www.youtube.com/watch?v=C-C_K-gK6q4), the new contenders include, among others, neo-Copenhgenism, Relational Quantum Mechanics, and subjective Bayesian quantum mechanics – better known by its catchy moniker “QBism”. Surprisingly, the upgraded versions of Copenhagenism don't just promote ‘anti-realism’, but give us an interesting new take on what ‘realism’ could mean. While they still toe the Copenhagen line that quantum states do not describe reality, [they supplement it with a remarkable constructive claim](https://arxiv.org/abs/2108.13977): that physical quantities – such as specific values of properties like position or momentum – only exist in relation to the observer who measures them, and a quantity value that exists for one observer may not exist for a second observer, if the latter performs a different, “incompatible” measurement (Pienaar 2021). Reflecting on this on that rainy day, I wondered: what if the real story behind the Bohr-Einstein debates was more complex than just ‘realism’ versus ‘anti-realism’?
+
+\_\_\_
+
+But just how ‘anti-realist’ was Bohr? He had, after all, consistently maintained that atoms were real, despite their not being directly observable to the senses – this may have been one reason why Vienna Circle member Otto Neurath complained of Bohr’s tendency towards “crass metaphysics”.
+
+\_\_\_
+
+Pushing open the heavy door of the quantum physics institute at *Boltzmanngasse 3*, I couldn't help thinking of the many hands that had pushed open this same door before me. Nearly a century before, members of the Vienna Circle of philosophers led by Moritz Schlick had held regular meetings in this very building, to discuss and promote their stridently ‘anti-realist’ philosophy. Was it ironic that the Circle’s founder was none other than Ernst Mach, who had exerted such a profound influence on Einstein, the supposed ‘realist’? Indeed, in formulating his theories of relativity, Einstein made great use of Mach's injunction to trace the meaning of space and time back to their concrete, observable effects on the relations between material bodies. [Einstein would likely have shrugged at the apparent irony; for as he explained to a colleague,](https://einsteinpapers.press.princeton.edu/vol8b-doc/317) “I do not feel comfortable and at home in any of the ‘isms.’ It always seems to me as though such an ism were strong only so long as it nourishes itself on the weakness of its counter-ism; but if the latter is struck dead, and it is alone on an open field, then it also turns out to be unsteady on its feet”[4]. In this quote, I think, we see the real reason for Einstein's distaste for Copenhagenism: he saw it as a purely negative program, defined only by its rejection of ‘realism’, without anything constructive to say about the latter term.
+
+But just how ‘anti-realist’ was Bohr? He had, after all, consistently maintained that atoms were real, despite their not being directly observable to the senses – this [may have been one reason](https://philpapers.org/rec/FAYNBA) why Vienna Circle member [Otto Neurath complained of Bohr’s tendency towards “crass metaphysics”](https://phaidra.univie.ac.at/detail/o:1498537). Bohr’s ‘realist’ tendencies often get overlooked: in a blistering review of a prominent 2018 book on quantum interpretations, Chris Fuchs – co-founder of QBism, of whom I will have more to say later – lambasted the book’s author for overlooking numerous scholarly articles explaining how Bohr was a realist about quantum objects. Would Bohr really have disowned his intellectual descendants, if he’d known how boldly they now sought to make positive claims about ‘reality’? An image flashed into my mind: Anton Zeilinger, self-proclaimed “neo-Copenhagenist”, slamming his hands down on a desk in a crowded lecture theatre, proclaiming in his booming voice: *this table is real*.
+
+Upstairs in the lunch room of the physics institute, in a nondescript corner, stood a heavy wooden desk. Perhaps even Erwin Schrödinger, if he had been standing there, would not have recognized it as his own. Though he often sided with Einstein as a fellow seeker after ‘reality’[, Schrödinger was less willing to throw in his lot with specific claims about what it meant](https://philpapers.org/rec/SCHNAT-7). “In an honest search for knowledge”, he wrote, “you quite often have to abide by ignorance for an indefinite period. Instead of filling a gap by guesswork, genuine science prefers to put up with it.” (Schrödinger 1954: 8) Little did I know that these words would come back to haunt me years later, when I myself was too quick to judge.
+
+In 2019, I joined the QBism group of Chris Fuchs at the University of Massachusetts Boston. In one of my first meetings with the group, Fuchs was exasperated when I innocently remarked on his “recent turn” to realism. In a subsequent email, he explained: “Since 2000 [...] I have declared QBism a methodology for winnowing down an ontological statement from quantum theory (at least in the sense of Einstein’s program of the real)”. Calling it “the animating force of my professional life,” he concluded the email with the quote from Schrödinger.
+
+\_\_\_
+
+I think Bohr and Einstein were aligned in that they both wanted an interpretation of quantum mechanics that would be constructive and fertile, opening new avenues for exploration. But for Einstein that meant being bold enough to make some positive claim about reality; whereas for Bohr it meant following Schrödinger’s advice and holding off a little longer.
+
+\_\_\_
+
+Was it shocking to see QBism, which [owed so much to Bohr](https://arxiv.org/abs/1705.03483) (Fuchs 2017: 245-300), characterized as pursuing Einstein's “program of the real”? Just what vision of reality does it give us? In a volume of personal correspondence provocatively titled *My Struggles With the Block Universe*, [Fuchs asks himself that very question](https://arxiv.org/abs/1405.2390): “What could a quantum measurement be if one no longer had any impersonal handles to hold on to it with?” And he answers: “[T]he great import of all the no-go theorems like Bell’s [is that] the world as a whole, or as a way in which things truly are, isn’t even there yet! It is not finished; it is being made.” (Fuchs 2014) As the pragmatist philosopher William James – a mainstay of QBist thought – once wrote: “[F]or rationalism reality is ready-made and complete from all eternity, while for pragmatism it is still in the making, and awaits part of its complexion from the future. On the one side the universe is absolutely secure, on the other it is still pursuing its adventures.” (James 1979: 123)
+
+In a curious way, looking back on their debates, I think Bohr and Einstein were aligned in that they both wanted an interpretation of quantum mechanics that would be constructive and fertile, opening new avenues for exploration. But for Einstein that meant being bold enough to make some positive claim about reality; whereas for Bohr it meant following Schrödinger’s advice and holding off a little longer, waiting for new ideas and new language to be invented that could properly express the lesson of the quantum. Against Einstein’s ‘realism’, then, Bohr was not after all offering an ‘anti-realism’, but rather a ‘postponed realism’. A view that recognized that quantum theory was not a finished project, but rather, to borrow Schrödinger's words, “a stimulus and a signpost to further quest”.
+
+References 
+
+Faye, J., on “Niels Bohr and the Vienna Circle”, in the *Vienna Circle Institute Yearbook,* 14, 33-45, 2007.
+
+Fuchs, C.A. and Stacey, B.C. (ed.): *My Struggles With the Block Universe,* e-print, 2014.
+
+Fuchs, C.A., “Notwithstanding Bohr, the Reasons for QBism”, *Mind and Matter* 15(2), 245-300, 2017.
+
+James, William *Pragmatism*. Cambridge, MA: Harvard University Press, 123, 1979.
+
+Miller, J.L., “Three groups close the loopholes in tests of Bell’s theorem”, *Physics Today* 69 (1), 14–16, 2016.
+
+Pienaar, J., “QBism and Relational Quantum Mechanics compared”, *Foundations of Physics,* 51, 96, 2021.
+
+Schrödinger, E., “Nature and the Greeks”, Cambridge University Press, 8, 1954.
+
+Wiseman, H. "Bell’s theorem still reverberates", *Nature*, 510, 467–469, 2014.
+
+---
+
+[1] For a colourful portrait of the mood at the time, and the subsequent revival of interest in metaphysical questions, see David Kaiser's [book "How the Hippies Saved Physics".](https://wwnorton.com/books/9780393342314)
+
+[2] The quote is often misattributed to Feynman; [see Mermin, N.D., *Physics Today* 57 (5), 10-11, 2004](https://pubs.aip.org/physicstoday/article/57/5/10/412592/Could-Feynman-Have-Said-This), and references therein.
+
+[3] Einstein, Letter to Schrödinger, 31 May, 1928 (p. 31)
+
+[4] Einstein, Letter to Eduard Study, Sep 25, 1918.
+
+[5] Neurath, letter to Carnap, Nov 14, 1934. For context, see J. Faye on “Niels Bohr and the Vienna Circle”, in the *Vienna Circle Institute Yearbook,* 14, 33-45, 2007.

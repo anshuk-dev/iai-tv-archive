@@ -1,0 +1,70 @@
+---
+title: "Reason, the Enlightenment, and Post-Truth Politics"
+subtitle: "Rediscovering the dream of the enlightenment"
+author: "Peter Hacker"
+date: "Issue 54, 2nd March 2017"
+article_id: "785"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,740 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Hacker-4-New.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/reason-the-enlightenment-and-post-truth-politics-auid-785"
+---
+
+# Reason, the Enlightenment, and Post-Truth Politics
+
+*Rediscovering the dream of the enlightenment*
+
+**By Peter Hacker** | *Issue 54, 2nd March 2017* | *Read time: approx. 9 mins* | *1,740 words*
+
+![Reason, the Enlightenment, and Post-Truth Politics](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Hacker-4-New.webp)
+
+---
+
+**Will post-truth politics put an end to the Enlightenment?**
+
+Journalists and politicians have introduced the expressions ‘post-truth world’ and ‘post-truth politics’. Some post-modernists have welcomed this new era. It will, they enthusiastically proclaim, put an end to the Enlightenment Project. This is correct. For the Enlightenment was committed to the pursuit of truth in the face of religious dogma and political bigotry. It advocated empirical science and its methods as opposed to religious judgments based on the Bible or on the authority of the church. It demanded reasons and rational justifications for social institutions inimical to human felicity. And it fought for freedom of speech and freedom of the press in the face of religious and political censorship.
+
+The misleading and misguided expressions ‘post-truth world’ and ‘post-truth politics’ arose out of the 2016 debates over the British referendum on membership of the European Union and the US presidential election. In both, blatant lies were advanced by politicians and journalists. Lies, also known as ‘alternative facts’, became legitimate political currency. Many a politician canvassing for votes was not the least concerned with arguing from established facts and well-supported truths to sound conclusions. All that mattered was obtaining the votes to enable them to attain office or to achieve their objectives –– no matter how great the lies and how extensive the distortion of the facts.
+
+\_\_\_
+
+"The inevitable price for disregarding facts is yet to be paid. But the bills are starting to come in"  
+\_\_\_
+
+Post-factual politics is the pursuit of goals in politics irrespective of the facts and of the available evidence. The judgements of experts, international and constitutional lawyers, climate scientists and conservationists, economists and political scientists, were brushed aside on the grounds that experts sometimes make mistakes – which is true. But how post-factual assertions by ill-informed and ignorant politicians and journalists can achieve immunity to error was never explained. Evidence was irrelevant. What replaced it were the blunt assertions of populist and charismatic politicians and of journalists for whom allegiance to opinionated, self-interested press-barons far outweighed any concern with truth or reason. The inevitable price for disregarding facts, brushing aside educated and scientific judgement, and for dismissing well-grounded, reasonable predictions is yet to be paid. But the bills are starting to come in. Two long term costs are patent – the damage done to the spirit of representative democracy, and the blurring of the distinction between democratic rule and demotic rule.
+
+**How do we define truth?**
+
+It is *what is said* by human beings that may be true or false. Hence the thoughts, beliefs, suspicions, hunches and guesses of human beings, who can express them in what they say, may likewise be true or false. Something said (asserted, stated, declared, announced) is true if things are as they have been said to be. It is false if things are not as they have been said to be. There is no such thing as relative empirical truth, no such thing as ‘true for me’ or ‘true for you’. Only opinion, the truth of which awaits confirmation by reference to the facts, and preference, which may or may not be rationally justified, can be subjective in this way. Roughly speaking, something is a fact if it has been established by observation or experiment. It is something *from* which one may safely argue, and *to* which it is no longer necessary to argue. The denial of a fact does not state an alternative fact, but a falsehood.
+
+**Is being reasonable the same as being rational?**
+
+The defining feature of mankind that distinguishes us from all other animals is our faculty of reason. That is neither a gift of the gods nor a mystery, but a consequence of our being language-using creatures. The faculty of reason is exhibited in *reasoning*. Reasoning is drawing conclusions from premisses that warrant them. One reasons well when one’s premisses provide one with good reasons for holding the conclusion to be true. A rational animal is able to recognise something as a reason, and is capable of weighing reasons, deliberating on reasons, and coming to a conclusion on the basis of reasons. Reason both guides and regulates. By its use we are guided in our thoughts and judgments concerning how things are, in our decisions concerning what to want and what to do, and in our feelings – for we have reasons for thinking, for acting, and for our emotions. By its use we control our unfortunately powerful disposition to think, act or feel for bad reasons or no reasons. Whether we choose to exercise our rational faculty is up to us. Only creatures with the power to reason can act irrationally or unreasonably. Only such creatures are responsible, answerable, for their deeds. For only such creatures can answer the question "why?" – can justify what they think, what they feel, and what they are going to do, and can justify and explain what they thought, felt or did.
+
+Our faculty of reason has two faces: *being rational* and *being reasonable*. Everything reasonable is rational, but not everything rational is reasonable. Rational economic man is a paradigm of unreasonableness. One is rational if one’s reasoning is not swayed by irrelevant considerations and if it is valid. But one may be rational in pursuit of foolish or evil goals, and in pursuit of a single goal (e.g. maximising profit) in disregard of all others and oblivious to the good of other human beings. Being rational, in this sense, is linked to instrumentality. Reasonableness – the other face of our faculty of reason – is linked to appreciation of values and their multiplicity, to awareness of the legitimate concerns of others, to the ability to balance conflicting claims of people and situations, to moderation in demands and expectations. Irrationality contrasts with both reasonableness and rationality.
+
+**What is the Enlightenment Project?**
+
+The Enlightenment was an international European and north American movement of thought that arose in the second half of the eighteenth century in a multitude of different centres at slightly different times. Members of the enlightenment movement were small groups of intellectuals, comprising philosophers, literary figures and scientists who were fighting against the prejudices of their times. The Enlightenment as an international movement was, for the most part, brought to an end with the Congress of Vienna in 1815, which saw the reintroduction of the *ancien régime* all over Europe, the re-empowerment of the Church, the suppression of freedom of speech and religion, and the revival of savage penal codes. The Enlightenment Project continues to this day, and is currently under dire threat from the voices of unreason – nationalism, xenophobia, religious bigotry and savagery, capitalist economic requirements for maximising company profits and national economic growth in disregard of other social and moral goals, and from post-truth politics.
+
+The Enlightenment was not only international in membership and centres of activity, but also internationalist in spirit. For it advocated and practiced free international exchange of ideas and scientific knowledge (even in time of war) and advanced schemes for international peace (Kant). Enlightenment figures would have approved of the idea (but not the practices) of the United Nations. Early Enlightenment figures (e.g. Voltaire) did not support democracy and felt comfortable with autocracy, on condition that it was enlightened autocracy with constitutionally limited powers. Later members (e.g. Bentham, Paine, Godwin) advocated representative democracy. Virtually all had faith in moral, legal and political progress that would result not from revolution but from the free use of reason and the advances of empirical science.
+
+Most of the Enlightenment figures were advocates of universal human rights (Paine, Kant) and fought with all the power of their formidable pens for penal reform and against arbitrary imprisonment, the use of judicial torture and the widespread application of the death penalty (Beccaria, Bentham). Virtually all members of the Enlightenment were anti-clerical. Early members of the movement tended to be deists, followed by agnostics, and culminating in the atheists of the late eighteenth and early nineteenth centuries. They did not seek to destroy religion, but advocated religious tolerance (Lessing). Most demanded the separation of church and state, and the elimination of religious authority from education. They favoured universal education and the spread of knowledge that rested on sound empirical research and scientific theory directed at the betterment of the human condition. As far as morality was concerned, they rejected the theological view that in the absence of religious faith and conformity there can be no morality since morality is founded upon divine ordination. On the contrary: according to Enlightenment thinkers, morality was a natural phenomenon that is to be explained by reference to natural human sympathy and the natural needs for social cooperation (Hume, Adam Smith), or by reference to the natural use of autonomous human reason (Kant).
+
+**What are the consequences of losing faith in reason?**
+
+To abandon faith in reason is empty unless an alternative is proposed. But advocacy of alternatives (e.g. appeal to rampant nationalism, xenophobia, religious fundamentalism) itself involves appeal to (poor or bad) reasons that are subject to the tribunal of Reason, that can be weighed and found wanting. Part of the confusion no doubt stems from failure to distinguish the instrumentality of economic rationality from reasonableness. Disillusion with globalisation, maldistribution of wealth, access to social goods (welfare, health care, education), and political alienation cannot be remedied by irrationality, but only by reasonableness and reasonable debate. If that collapses, dystopia follows.
+
+Do we live in an excessively rational, reasonable, world? – Anything but.
+
+Our lack of serious response to the greatest challenges ever faced by mankind, namely global warming and population explosion, is anything but rational. We rush like lemmings towards the precipice of a four degree rise in global temperature by the end of the century and a population of 11.5 billion.
+
+Our current form of life – materialist and acquisitive, highly competitive and desperately insecure, involving disintegration of family and weakening of social identity, conceiving of education not as a good in itself but merely as preparation for participation in the market economy, the imposition of the model of the market economy and the cash nexus on all social institutions (schools, universities, hospitals, public services, the cultural life of the nation) and on human relationships – is anything but reasonable.
+
+Neither of these issues (nor a dozen other great problems) is going to be resolved by more irrationality and unreasonableness. They can be solved only by determining the facts and facing them, by public debate and reasoned argument.
+
+**Read more from this issue of IAI news here: [The Limits of Reason](https://iainews.iai.tv/articles/issue-54-the-limits-of-reason-auid-791).**

@@ -1,0 +1,50 @@
+---
+title: "The Storm and the Butterfly"
+subtitle: "Are all models bound to fail?"
+author: "Rupert Read"
+date: "Issue 49, 10th April 2016"
+article_id: "662"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "867 words"
+read_time: "Read time: approx. 4 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rupert-Read-49.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-storm-and-the-butterfly-auid-662"
+---
+
+# The Storm and the Butterfly
+
+*Are all models bound to fail?*
+
+**By Rupert Read** | *Issue 49, 10th April 2016* | *Read time: approx. 4 mins* | *867 words*
+
+![The Storm and the Butterfly](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Rupert-Read-49.webp)
+
+---
+
+In the 19th and 20th centuries, standard economic models assumed that people would act in a rational and predictable manner. These models are flawed, of course, for if modern psychology has taught us anything it is that we are massively complex beings who are ultimately in important respects not predictable, often not rational, *and* certainly often rational in ways that are judged irrational by ‘experts’. We are moreover (and this is less widely understood) not predictable not only in practice but also in principle: i.e. this is not a limitation that can be overcome. For if the human future could be predicted, it would then be deliberately altered. Therefore it cannot be predicted. Human creativity and novelty and our ability to respond to predictions means that our actions cannot possibly by reliably modelled, even in principle.
+
+The same can be said to some extent of natural systems too. Many still consider these to be deterministic systems governed by the strict laws of nature. And indeed, in many cases this is correct, but there are a number of outlying cases which do not conform to this. And they are enormously important. Think of chaos theory, for instance. Think of storms and their preceding butterflies…
+
+Typically these cases involve uncertainty, or indeed complete ignorance which results in a necessarily deficient model. When the outliers that such models cannot model are potentially stormy – i.e. catastrophic – then this and similar sorts of situations result in what are informally called ‘black swans’ by my colleague Nassim Taleb (see for example [our joint paper](http://arxiv.org/abs/1410.5787) here).
+
+But models are also of course based upon evidence — and so here is another problem with them. One should ask where that evidence comes from; the answer is principally observation and experimentation. But the experiments that were conducted to gather this evidence were also based upon a model; which again was based upon evidence gathered from within a particular model. This ‘self-reinforcing’ nature of models within particular disciplines is called by the great philosopher of science Thomas Kuhn a ‘paradigm’ and the presence of a paradigm is one of the benchmarks for what gets classed as a science (or not). The big problem here though is that the experiment typically only tests for what the model says should be there, and often there is no way to measure anything else that might happen as a result of the experiment. There could be a whole new world of science, or at least a completely different way to look at the same science which we have never encountered because of this.  
+  
+\_\_\_
+
+"We should learn to live in a world that we don’t understand, rather than harbouring dangerous ambitions for total explanation and mastery."  
+\_\_\_
+
+Normally this isn’t a problem. The paradigm can normally be trusted. But sooner or later, paradigms encounter (or breach) their limits, and break down or require replacement. At the frontier of scientific knowledge, one never knows whether one might be at such a point. Again, this limitation is one that cannot be overcome, by definition.
+
+The principled limit on scientific knowledge about ourselves; ever-present limits on our knowledge even of natural systems; the limits of science itself (at the research frontier); the way that science which builds knowledge is self-reinforcing and so inevitably runs the risk of missing counter-evidence; …these are among the reasons why we should be humble about how much we know. We should recognise, as did Socrates, that often the wisest path is to admit that we are more ignorant than we tend to like to believe. We should accept that we live in a world that in many ways we don’t understand and that we will certainly never ‘fully understand’. We should *learn* to *live* in a world that we don’t understand, rather than harbouring hubristic, dangerous ambitions for ‘total’ explanation and mastery.
+
+In light of all this I advocate *caution:* to be specific, [a *precautionary* approach](http://arxiv.org/abs/1410.5787). We should acknowledge when there are or might be problems with our models and evidence instead of blindly or dogmatically believing in current science above everything else. When we create plans of action we should consult not only the model and the evidence but also the individuals who are experts in philosophy, in statistics, etc. This is not to say that models do not have a use; merely that they should not be the only nor the deciding factor in virtually any debate that matters.
+
+Where the stakes are high, we should err decisively [on the side of caution](http://www.blackswanreport.com/blog/2015/05/our-statement-on-climate-models/). We should reject ‘expert’ claims to know that such-and-such is safe, when the evidence on which those claims are based is not statistically significant. We must recognise when such evidence does not encompass drastic possible outliers which could turn the whole graph upside down – for example, because it is taken from a hopelessly short time-period, relative to the total risks of the phenomenon in the long view.
+
+When a butterfly can create a storm, invest heavily in storm-protection – without awaiting the ‘evidence’. And, just as important: act swiftly and strongly so as to build down the environmental presence of human pollutants that increase the probability of more storms and worse storms. This is the precautionary approach that public policy must now adopt.
+
+**Image credit:** [**Yuri Laptev**](https://www.flickr.com/photos/80868612@N03/12146107984/)

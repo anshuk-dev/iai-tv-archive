@@ -1,0 +1,65 @@
+---
+title: "An impending crisis for young minds"
+subtitle: "Young people's mental health must be a priority"
+author: "Bernadka Dubicka"
+date: "Issue 88, 29th May 2020"
+article_id: "1555"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,412 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-05-29.dubicka.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-impending-crisis-for-young-minds-auid-1555"
+---
+
+# An impending crisis for young minds
+
+*Young people's mental health must be a priority*
+
+**By Bernadka Dubicka** | *Issue 88, 29th May 2020* | *Read time: approx. 7 mins* | *1,412 words*
+
+![An impending crisis for young minds](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-05-29.dubicka.ata.webp)
+
+---
+
+*With the coronavirus pandemic adding fresh weight to already struggling mental health services for young people, we must urgently realise the cost of overlooking young minds. A worsening mental health crisis among younger generations will exacerbate the economic burdens to come, and could have impacts which reverberate long into the future.*
+
+"Mental health services for children fail to meet soaring demand: The ongoing crisis is evidence of systematic discrimination against children."
+
+These are words that I wrote almost exactly three years ago. Now I sit here reflecting on our current coronavirus crisis and what it means for our young people. Before we think about the impact of this crisis on the mental health of young people, let me set the scene pre-Covid-19.
+
+Back in 2017, our editorial in the BMJ lamented the miserable progress on supporting our children and young people (CYP) with mental health problems in the UK over the preceding two decades, since the publication of a seminal report ‘Every Child Matters’. For example, although 75% of mental health problems start in childhood and adolescence, historically only 6% of our mental health budget has been allocated to CYP.
+
+Even before the virus there was evidence that our children were experiencing ever increasing mental health problems.
+
+So, what has been the progress over the past three years to demonstrate that every child does actually matter? There’s some good news. Within England (and similar work elsewhere in the UK), we welcomed the publication of the government’s green paper pledging to install mental health teams in schools, and work has started at pace – with the aim of covering the whole of England within the next 10 years.
+
+There’s a lot that can happen to a child over a decade. Our children need more, a lot more and a lot sooner. As we wait to see how the impact of this pandemic unfolds, it does not take much of a stretch in imagination to foresee that this existing mental health burden is only going to rise, with potentially ever greater numbers of CYP waiting for help. Getting support in schools will also be vital as many frightened, and some traumatised children make their way back to education. Some of these children will have suffered enormously through the impact of living in lockdown, with no respite from abusive parents, domestic violence orliving with a parent with a mental illness or addicted to alcohol or drugs.
+
+[![related-video-image](https://iai.tv/assets/Uploads/AdobeStock-229932798.webp)
+
+SUGGESTED VIEWING
+A Mad World 
+With Richard Bentall, Mark Salter, Lucy Johnstone, Ann John](https://iai.tv/video/a-mad-world)
+
+Even before the virus there was evidence that our children were experiencing ever increasing mental health problems. Take the recent prevalence survey from the government (which took over a decade to be funded, NHS digital 2018): emotional problems were on the up and over half of older teenage girls with a mental health disorder are self-harming. That’s *more than 50%.* The worry now is that this rate is likely to climb even higher due to this crisis as young people struggle to cope with fears for their future. Rates of self-harm and suicide rose during the global recession (Fegert 2020), however, that did not bring all the additional burdens of this pandemic such as isolation, loss of education, and the fear of contagion, illness and death.
+
+Social advantage does not preclude mental health problems, but it certainly acts as a buffer for some. Tragically, that buffer will have now been removed for many as a result of the economic devastation of the pandemic.
+
+Prior to covid-19, this long standing demand for chronically under-invested services has been the straw that broke the camel’s back, along with massive workforce shortages. For example, 15% of child psychiatry posts remain unfilled, and a BMA survey of the mental health workforce in January (BMJ 8.1.20) reported that 63% worked with regular gaps in the rota.  There is a government NHS 10 year plan, again with very welcome aspirations; however, it has never been clear how these aspirations will be met, and particularly without a joined-up approach and investment throughout the whole of government, including social care, education and youth justice, as well as tackling the issues behind the chronic workforce shortages. In light of the pandemic, this plan not only needs to be urgently accelerated but also reviewed with up to date data on what’s happening to our younger generation as a result of this crisis.
+
+Before the pandemic, I was often asked why it is that our young people seem to be suffering more than ever from mental health problems. I’d like to tell you for sure but again, we need properly funded government research over time to be sure about the reasons. That funding has sadly not been forthcoming to date. Social media is often cited as a potential reason, and although it may have a part to play with some of our more vulnerable CYP (college report 2020), technology has been a lifeline for many during this crisis. Social media is certainly not the main driver for the suffering that I see in my everyday practice; instead I see children that have been neglected, abused, traumatised, and those that struggle in society with conditions such as autism or learning disabilities with minimal support.
+
+During this lockdown many of these children have suffered and some have had no way of escaping the day to day trauma of their everyday lives. Social advantage does not preclude mental health problems, but it certainly acts as a buffer for some. Tragically, that buffer will have now been removed for many as a result of the economic devastation of the pandemic.
+
+Before corona, there was plenty of evidence of the impact of an increasing social divide on mental health problems. For example, last year a study from Cardiff published in a European journal showed the impact of austerity in the UK on the mental health problems of our poorest children; the Marmot report (2020) found that in some areas of England more than one child in two is growing up in poverty. Imagine my shame when on a trip to Poland earlier this year, my Polish colleagues kept asking what was happening in the UK, as they were seeing so many families returning to Poland telling them that they could not access CAMHS in this country. How did we get here? A question that has also been asked about our corona crisis.
+
+Rather than moving towards heath equity, coronavirus has opened a further chasm in our social divide.
+
+So what now? We have an acute crisis upon a stagnant chronic disinvestment in our future generations. And we are also a country which hardest hit globally in terms of the impact of the pandemic. It is too early to know exactly how our young people will be affected, but the early signs are not good. Rather than moving towards heath equity as the Marmot report called for, coronavirus has opened a further chasm in our social divide. Youth unemployment, future prospects for our young, and the impact of parental unemployment and its consequences as well as the direct impact of the virus on trauma and bereavement, will take a big toll. Young people are already being disproportionately affected by loneliness during this crisis. We know how poverty impacts on mental illness. It doesn’t take much to extrapolate what is happening now and what will be needed to support our young people in the aftermath of the pandemic.
+
+Three years ago in the BMJ paper I called for a societal approach to mental health, which is echoed by many reports, including Marmot who called for a reordering of national priorities and giving every child the best start in life. The economic case for early intervention and prevention has been made time and time again. Take autism: the national cost of supporting someone with autism is more than that of heart disease, cancer & stroke combined (Buescher 2014) but children with autism and their families often struggle to get any support. Early intervention is vital to offset these costs and to prevent CYP falling into crisis at huge personal and societal cost. Equally, providing support for our most vulnerable children and young people now, before the full economic impact of the pandemic takes hold, may go a long way to providing that necessary buffer and help them to thrive.
+
+Surely, if ever there was a time for reviewing our national priorities, for investing in the next generation, our economic future, and reducing this great divide, that time has to be now? And if not now, then when? I would like to think that as a society we do believe that every child does matter.

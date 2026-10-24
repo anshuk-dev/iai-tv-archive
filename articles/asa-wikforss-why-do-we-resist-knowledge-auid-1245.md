@@ -1,0 +1,117 @@
+---
+title: "Why Do We Resist Knowledge? An Interview with Åsa Wikforss"
+subtitle: "Largely, because we have a crisis of trust, and knowledge needs trust"
+author: "David Maclean"
+date: "Issue 74, 4th July 2019"
+article_id: "1245"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "3,026 words"
+read_time: "Read time: approx. 15 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Asa-Wikforss-Gothenburg-City-Theatre-20190219.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/asa-wikforss-why-do-we-resist-knowledge-auid-1245"
+---
+
+# Why Do We Resist Knowledge? An Interview with Åsa Wikforss
+
+*Largely, because we have a crisis of trust, and knowledge needs trust*
+
+**By David Maclean** | *Issue 74, 4th July 2019* | *Read time: approx. 15 mins* | *3,026 words*
+
+![Why Do We Resist Knowledge? An Interview with Åsa Wikforss](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Asa-Wikforss-Gothenburg-City-Theatre-20190219.webp)
+
+---
+
+*Knowledge resistance is “the tendency not to accept available knowledge”, according to the mission statement of the interdisciplinary project “Knowledge Resistance: Causes, Consequences and Cures,” which was awarded a $5.6 million grant from the Swedish Foundation for Humanities and Social Sciences in October 2018. Åsa Wikforss is the project leader. A professor of theoretical philosophy at Stockholm University, she is also a newly-elected member – and the only philosopher – of the Swedish Academy, a prestigious cultural institution of 18 members appointed for life.*
+
+*In an age of misinformation both online and off, researching knowledge resistance could not be more timely. When senior politicians announce that the people have had enough of experts, it’s not long before a race to the bottom begins, where dangerous myths and misinformation can entrench themselves.*
+
+*In this interview, we discuss how knowledge resistance manifests itself in popular movements such as anti-vaxxers and climate change deniers, and how we can fight these beliefs gone viral.*
+
+**Your new project examines a particular type of irrationality in the form of 'knowledge resistance'. Could you offer an explanation of what knowledge resistance is and what sets it apart from mere ignorance?**
+
+Ignorance involves having a false belief, or no belief at all, on a topic. This can be the result of a simple lack of information. In that case, as soon as we read up on the topic we have knowledge. What distinguishes knowledge resistance, by contrast, is that it cannot be fixed by supplying information. It is, as it were, a type of ignorance that is not easily cured.
+
+Knowledge resistance is a matter of believing what one *wants* to believe rather than what one has *evidence* to believe – it is a matter of resisting information, rather than taking it in. This happens to all of us, from time to time, and it has a variety of psychological causes. It may be that I hold a cherished belief about being an excellent driver (most people do) even though the evidence points the other way. Or it may be that I love my wine and have a hard time accepting research showing that wine causes cancer. 
+
+A common cause of knowledge resistance is identity protection. This happens when we hold a belief that is central to our cultural or ideological identity. For instance, there is a lot of evidence that when it comes to factual questions that have become politically charged (such as about crime rates or immigration) we are quite adept at finding ways of resisting the evidence. In general, knowledge resistance is not simply a blunt emotional reaction but involves reasoning of a certain sort – skewed reasoning used to protect the cherished belief.
+
+**From climate change denial to anti-vaccination movements, it doesn't seem like there's any shortage of examples that dominate the news headlines. Are there particular conditions and environments in which knowledge resistance forms and spreads?**
+
+Yes, it is a combination of factors that play a role. First, knowledge resistance typically involves strong emotions of some sort, often fear or hatred. Second, these emotions interact with the environment in various ways. For instance, disinformation, such as fake news, strengthens it. In particular, disinformation about sources, such as the claim that the climate scientists just try to get more funding or that mainstream media have a political agenda. Human knowledge is essentially social, it requires trusting others, and when trust is undermined so is knowledge. 
+
+In addition, polarisation causes strong ‘us versus them’-feelings, which tend to strengthen emotions that drive knowledge resistance, such as fear. It is clear that we are now in a situation where these different factors converge. Social media is filled with hatred and fear, polarisation increases, and there is a systematic production and sharing of disinformation. In many ways, it’s a perfect storm.
+
+\_\_\_
+
+"The current crisis of knowledge, I believe, is largely a crisis of trust"
+
+\_\_\_
+
+These paradoxes that occur from identity protection, such as those who consider themselves animal lovers but still eat them, as in 'the meat paradox', must surely have some effect on our mental lives. What are your thoughts on this cognitive dissonance and fragmentation of the self?
+
+Well, there are different kinds of dissonance. There is the dissonance of irrational belief – as when one holds a belief that is not supported by one’s other beliefs or, even, contradicts some of them. In the extreme cases (as when there is a clear contradiction) we solve the dissonance by compartmentalising, ‘walling off’ the contrary belief from our active, conscious mental lives. This reduces the tension but at the price of a fragmentation of the self. 
+
+Then there is the dissonance of desire and action which is trickier, as when we desire to quit smoking and still light another cigarette. This is what is called ‘weakness of the will’ and philosophers since Aristotle have puzzled over it. It seems deeply irrational to want something and then do the opposite. However, I suspect there is more rationality here than it seems (even if the outcome is not a happy one): The desire to smoke is simply stronger than the desire to quit, at least at the moment. 
+
+I should think something like this is what is going on with ‘animal lovers’ who eat meat. They (myself included!) love their cats and dogs but they also really want steak for dinner.  This does not work without a certain amount of self-deception and fragmentation. By trying not to think about the horrors of the meat industry, for instance, one manages to live with the dissonance. Similarly, when it comes to climate change. Most of us accept the science and believe that the climate is changing as a result of human activities, such as flying, and that the results are potentially disastrous. And yet, we really want that trip to Thailand in the winter. Here, too, there is self-deception. We try to convince ourselves that one more trip does not make a difference, etc. This is perhaps the greatest dissonance in our culture right now, and it is very dangerous. The number of climate deniers is pretty limited (although some of them are very powerful), but the number of people who accept the science and do not act accordingly is enormous (again, myself included).   
+  
+**In his book, Vices of the Mind, philosopher Quassim Cassam introduces the idea of epistemic vices, character traits that get in the way of knowledge, such as intellectual arrogance, prejudice, and wishful thinking. Do you agree with his assertion that knowledge resistance through mental defects such as these examples is largely a moral question?**
+
+Well, I partly agree. I certainly think there are habits of the mind that constitute obstacles to knowledge, such as intellectual arrogance. And to the extent that we are responsible for these habits, to the extent that we have the power to change them, we are morally responsible for them. However, I hesitate to make knowledge resistance a moral question since the issue is more complex than that. 
+
+First, a lot of knowledge resistance is the result of things that are under the surface, not really conscious and not really the output of any vices. For instance, we all suffer from *confirmation bias*, the tendency to try to confirm what one already believes. Intelligence and education do not protect us from confirmation bias and there is strong evidence that individual efforts to overcome it do not work very well. However, research shows that open discussion with others is a very effective means of overcoming this and other biases. What is much more important than focusing on intellectual vices, therefore, is making sure that our intellectual *institutions* are built to prevent biases of this sort from taking over. Scientists, journalists, lawyers, all have confirmation bias but they work within institutions that have mechanisms set up to counteract it.
+
+\_\_\_
+
+"Intelligence and education do not protect us from confirmation bias and there is strong evidence that individual efforts to overcome it do not work very well."
+
+\_\_\_
+
+Second, as noted above, a central component in knowledge resistance is *trust*, or rather, the lack of trust. Most of the things we know we do not know on the basis of direct experience, but on the basis of ‘testimony’ from others who know more. The current crisis of knowledge, I believe, is largely a crisis of trust. Distrust yields doubt, which is sufficient to undermine knowledge. For instance, the number one argument employed among climate deniers is a conspiracy argument about the climate experts. Since trust is not an intellectual virtue, but an emotional one, I think that the focus on intellectual virtues and vices is not very helpful in this regard.
+
+Similarly, the lack of trust in mainstream media is absolutely central to what is going on in the US and in part of Europe now. Trump, of course, does what he can to fire on the distrust by describing mainstream media as ‘enemies of the people’ (a phrase that goes back to Lenin) and characterising all journalistic scrutiny of his actions as ‘fake media’. As a result, trust is becoming politically polarised in the US. Looking at the statistics, it is striking that since 2016 trust in media among democrats has risen while it has fallen sharply among republicans. The same goes for trust in science. Similar trends can be seen in Europe, for instance in Sweden, where trust has become politically polarized and is the lowest among supporters of the populist party, the Swedish Democrats. 
+
+It is important to stress that we are all connected through a complicated net of trust. It is not as if there is a group of people, the non-experts, who have to trust the experts and the experts do not have to trust anyone. Everyone needs to trust others since human knowledge is a joint effort. The most poisonous effects of social media may not be the spread of disinformation per se but the undermining of trust that comes from anger and division. It is well known that low levels of trust in a society leads to corruption and conflict, but it is easy to forget the very central role that trust plays for *knowledge*. And knowledge, of course, is essential to the democratic society. As the historian Timothy Snyder has said, *post-truth is pre-fascism*.
+
+**On your point of confirmation bias, is there an issue then of people accepting knowledge (if only partially) but subverting it to their own ends? Is that a particular kind of knowledge resistance or do you see that as a separate epistemic issue. I'm thinking here in particular of the Vatican's acceptance of the Big Bang Theory and Darwinian evolution for 'theistic evolution'.**
+
+[![Why humans are most irrational animal Bence Nanay](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Why-humans-are-most-irrational-animal-Bence-Nanay.webp)
+
+SUGGESTED READING
+Why Humans Are The Most Irrational Animals
+By Bence Nanay](https://iai.tv/articles/why-humans-are-the-most-irrational-animals-auid-1239)
+It depends, but it can certainly be an expression of knowledge resistance. If you accept evolution, for instance, and try to incorporate it into a theistic theory about the universe that is otherwise in conflict with science then you are still resisting knowledge. Now, there is the idea that all of science can be accommodated without damage to the religious doctrines. For instance, the official stance of the protestant church in Sweden tends to be that there can be no contradiction between science and Christianity since they do not address the same issues. So whatever science says is ok. As a result, the content of the Christian doctrines keeps shrinking to the point where it seems to make no statements about the world that are true or false (such that the mind is independent of the body) but merely value claims. Defenders of this type of Christianity are not knowledge resistant but they are also rather far removed from the traditional Christian beliefs.
+
+Then there is a more deceptive way of accepting knowledge but subverting it to one’s own ends: ‘cherry picking’. This is the method of picking out those very truths that support your agenda and ignoring those that don’t. This goes on in bad science and it goes on in politics, as when the rightwing populists tell the story of Sweden as a country on the verge of a collapse. By systematically picking out certain types of negative events (a riot in the suburbs, some immigrant being involved in a crime, etc.), and ignoring positive ones, the populists are able to tell a false narrative about Sweden – without explicitly making any false statements (although, of course, that is typically done too).
+
+**One of the teams in the project is set to explore how disinformation is spread across traditional, digital and social media, as well as how politically motivated media choices play into that. Do you think this is a uniquely modern dilemma, or one where technology has exacerbated what was already there?**
+
+I think it’s both. Disinformation is hardly new, lying probably appeared as soon as there was a language to describe the world with, and changes in the means of communication may of course exacerbate things. Indeed, ancient philosophers worried about the emergence of written language and how it could be used for the purposes of deception. And new technology has always been used for political gains. For instance, fake news was used for political purposes when newspapers first appeared and the radio played an essential role in the emergence of Nazism during the 1930’s.
+
+In this sense, the spread of disinformation on the internet is just another example of how new communication technology can be used for the purposes of deception. However, this particular technology does pose some novel challenges that are very serious. First, it means that the systematic production of disinformation is effortless and cheap. You do not need a printing press, or a radio studio, to produce the content and you are able to immediately distribute the content across the globe. Second, the fact that so much of the disinformation is channeled via social media allows for a form of exploitation of our vulnerabilities that we have never quite seen before. For instance, disinformation that spreads on social media comes from people we trust, our ‘friends’, and does not have the recognizable signs of traditional propaganda.  We make the disinformation our own, and contribute willingly to its spread, in a way that old style propaganda makers, such as Stalin, could only have dreamt of.
+
+**If knowledge resistance is the disease, what is the cure?**
+
+This is a topic that is being researched now and that we will also look at in our research program. Some central questions are to what extent the cure involves improving our reasoning capacities, and to what extent the cure rather involves addressing the emotional sources of knowledge resistance. 
+
+[![Conspiracy theories meaning and origin](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Illuminati-2png.webp)
+
+SUGGESTED READING
+What Are Conspiracy Theories?
+By Quassim Cassam](https://iai.tv/articles/how-do-conspiracy-theories-come-about-auid-1235)
+The data are actually not clear when it comes to the role of reasoning. There is some evidence that certain types of knowledge resistance, such as politically motivated thinking, increases with reasoning capacity (up to a point), such that people with stronger cognitive capacities simply use these to rationalise the beliefs that they want to hold on to. But there is also some evidence that reasoning skills can protect against fake news and that it prevents misreading of statistical data. So we need more empirical data here. 
+
+When it comes to the role of emotions there is evidence that knowledge resistance can be weakened if one creates a situation of respect and trust. For instance, it has been shown that encouraging people to tell a story about something they are proud of decreases the resistance to data. But here too more research is needed, for instance on what can be done on the level of emotions to overcome polarization effects and group think.
+
+**A lot has been said about the role of critical thinking and philosophy in resisting fake news and post-truth politics. However, for my own part, I'm often put in mind of Kierkegaard's aphorism about a clown telling the theatre audience that the building is burning down around them whilst they applaud it as a great joke. How do you suggest philosophers overcome frustration and belligerent audiences in that regard?**
+
+Yes, it is easy for philosophers to be overly optimistic about the power of critical thinking. First, there is the fact, just noted, that when people care for a belief they will enlist their critical thinking skills to preserve the belief rather than to question it. Of course, this will typically involve skewed reasoning, but it is often skewed in rather sophisticated ways. Second, critical thinking typically requires what is called *domain specific knowledge*. That is, to be good a critical thinking in an area (be it politics or biology) I actually need some background knowledge in that specific area. Indeed, if I start out from mistaken assumptions, which I may just have inherited from my environment, employing my reasoning skills will not help one little bit. 
+
+At the same time, I do think that there is something that the philosophers can do here. When all this started about two years ago I got angry and worried and wrote a popular book, ‘Alternative facts. On knowledge and its enemies’ (in Swedish so far). Since then I have been on a non-stop lecture tour, speaking about the nature of knowledge, evidence and truth, and about the threats posed to knowledge by our inner enemies (various biases) and the outer enemies (disinformation). Although I do talk about critical thinking, I think it is equally important to explain all these things – what knowledge is, why truth is hard, how our biases work and how these interact with disinformation and polarisation in problematic ways. In particular, I talk about the conscious efforts to undermine trust in institutions, and how much of the polarisation effects we are seeing is manufactured by agents that wish to sow division. 
+
+Perhaps this only goes so far as a ‘cure’, once a false claim is firmly believed it is often too late, but I do believe that it can provide some protection against the manipulation of our minds that is so central to the post-truth era. I also think that philosophers are well suited to this important mission. After all, since the ancient skeptics we have been thinking systematically about knowledge and about how evidence carries with it the constant possibility of doubt. To be in doubt is a uniquely human predicament, it comes with the capacity for reflection, and it is one that can be exploited by the enemies of knowledge.
+
+*David Maclean is a writer and editor based in London.*

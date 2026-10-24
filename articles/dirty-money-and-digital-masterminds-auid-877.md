@@ -1,0 +1,52 @@
+---
+title: "The Big Money and Digital Masterminds"
+subtitle: "Who are the people getting richer from technology?"
+author: "Jonathan P. Allen"
+date: "4th September 2017"
+article_id: "877"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,191 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Allen-image-1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/dirty-money-and-digital-masterminds-auid-877"
+---
+
+# The Big Money and Digital Masterminds
+
+*Who are the people getting richer from technology?*
+
+**By Jonathan P. Allen** | *4th September 2017* | *Read time: approx. 6 mins* | *1,191 words*
+
+![The Big Money and Digital Masterminds](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Allen-image-1.webp)
+
+---
+
+Does digital technology have an inequality problem? Based on recent news coverage, you’d certainly think so. One common theme is robots and AI (Artificial Intelligence) taking over jobs, particularly less skilled jobs, threatening to increase the wage inequality that has been rising in the developed world since the 1970s and 80s. Uber is working furiously to replace their drivers with autonomous vehicles. Amazon appears to be swallowing retail sector after retail sector. A now infamous Oxford University study estimated that 47% of all US jobs are at risk to be automated over the next 20 years.
+
+Another common theme is stories of gender and ethnic inequality in technology. Women and ethnic minorities are already seriously under-represented in technology industries. Media accounts of tech culture range from unsupportive, to openly hostile (see stories of Uber’s Las Vegas escapades for an eye-opening example). Technology seems to be uniquely resistant to this type of equality. Since 1980, the percentage of US women majoring in the physical sciences in college has risen to nearly 50% or more, with a similar rise in professional disciplines such as medicine and law. During that same period, female representation in computer science majors has actually dropped, from over 30% to around 20%. According to Airbnb’s diversity reports in 2016, 8% of their professional workforce, and 8% of their managers, were identified as Black or Hispanic, while in the state of California Hispanic and Black Americans make up 45% of our population.
+
+These are vital issues, but an important aspect of the problem has slipped under the radar: wealth inequality. Much of the research in my academic field, Information Systems, has been dedicated to making digital technology as efficient and profitable as possible for the organizations that use them. But it may be that technology is a little too successful at generating business results. During the decades that economic inequality has risen, the technology sector has created, and captured, an ever increasing fraction of national wealth. Where does all that wealth go?
+
+One important clue is the list of most valuable companies in the US, by stock market capitalization. The top four or five companies are all technology giants: Apple, Alphabet (Google), Microsoft, and Amazon, often joined by Facebook. The Chinese e-commerce giant Alibaba is in the top 10. This stockpile of wealth reflects the technology sector’s incredible success at generating financial profits. Far from plucky startups in a Silicon Valley garage, technology is now big business.
+
+The shifts in wealth due to the technology sector have been large enough to impact the entire economy. Since 1980, in the US two economic sectors (Technology and Finance) have risen from 10% of large company market value to about 40%, replacing two other sectors (Energy and Commodities) which have shrunk from around 40% to 10%–holding constant 50% of the value in the remaining ‘real’ economy. These are wealth shifts on the order of trillions of dollars which, combined with the rise in corporate profits as a percent of GDP versus wages, mean that the financial stockpiles and flows controlled by the technology sector are significant enough to sway the entire economic inequality picture.
+
+Many reasons have been offered for why digital technology has created so much wealth so quickly. Some explanations focus on what seem to be inherent qualities of digital technology, such as its abundant processing power, and the near zero cost of copying digital products once they are made. Others have noted that businesses based on digital technology have forces pushing them towards more concentration in ‘winner-take-all’ type situations. The most used technologies attract the most development, leading to monopolies or duopolies in technologies like PCs (Windows vs. Mac) or smartphones (Android vs. Apple iOS). While digital device and software sales can support high profit margins, as seen in the Apples and the Microsofts of the world, digital businesses that shape the very functioning of markets by connecting buyers and sellers, as in the Googles and Facebooks of the world, offer a whole new set of uniquely profitable business models. These ‘digitally mediated’ markets use highly detailed, proprietary data sets, and an ability to constantly experiment on customers, to find the most engaging and profitable offers. The digital work of a few ‘superstars’ can serve millions or billions of customers, creating massive wealth for a few, as when Instagram and WhatsApp both sold themselves to Facebook for billions of dollars, using the talents of less than 100 employees each.
+
+\_\_
+
+"The digital work of a few 'superstars' can create massive wealth for a few...using the talents of less than 100 employees each."  
+\_\_\_
+
+ 
+
+Other reasons for digital wealth concentration have to do with the overall economic and political environment. Due to its reliance on virtual assets, such as intellectual property, and the availability of a global networking infrastructure, the technology sector has a unique ability to choose its own legal jurisdictions around the world, avoiding taxation and regulation that would reduce its profit making ability. US corporations currently hold almost one and a half trillion dollars in cash overseas, and three technology companies alone control a third of that amount. The technology sector has turned Ireland, Bermuda, and Luxembourg into profitability giants.
+
+Are there countervailing forces to this wealth concentration? Some technology-based institutions, such as the system of ‘net neutrality’ that treats Internet traffic from giants and startups equally, have been vital levelers of the playing field. The free and open source software movements have made world class technology available to all. Some unique digital entities, such as the Craigslist classified trading site in the US, or Wikipedia, have built revenue models that share most of the value they create with customers, or the larger community. But when we look across all of the parties and interests whose cooperation is required for the new technology businesses to operate–customers who are willing to pay or give up their personal data, regulators, investors, and the technologists who are willing to build and operate these things–so far we have seen relatively little appetite for change.
+
+The idea of technology being too powerful is an old one, from Frankenstein to nuclear weapons, but the idea of technology being too successful at doing what we asked it to do—succeed in business—is a trickier one. Our main suggestion is this: instead of thinking about how an abstract thing called ‘technology’ is changing the world, think about how the technology industry is changing the world. It is tempting to think of technology as having inherent attributes that are beyond our control. Or the other extreme: that technology is simply a tool that anyone can use however they want. Instead, think about the influence of the *history* of previous choices (like our investments in fossil fuel technology and infrastructure), the *values* that guide technology choices (such as profit maximization, or the free software movement), and the choices made in day-to-day *practices* like product development and marketing that put real technologies in our hands. These too are powerful forces, but they are not inevitable forces.
+
+Because there are many causes, there probably won’t be a single solution to technology’s inequality issues. But there is progress in focusing on a key issue: where the tremendous wealth generated by digital technology is going.

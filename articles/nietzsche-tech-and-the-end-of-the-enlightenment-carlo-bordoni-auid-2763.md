@@ -1,0 +1,93 @@
+---
+title: "Nietzsche, Tech, and the end of the Enlightenment"
+subtitle: "How technology unshackles humanity"
+author: "Carlo Bordoni"
+date: "6th March 2024"
+article_id: "2763"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,509 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-03-06-passive-agression-and-technology-iai.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/nietzsche-tech-and-the-end-of-the-enlightenment-carlo-bordoni-auid-2763"
+---
+
+# Nietzsche, Tech, and the end of the Enlightenment
+
+*How technology unshackles humanity*
+
+**By Carlo Bordoni** | *6th March 2024* | *Read time: approx. 8 mins* | *1,509 words*
+
+![Nietzsche, Tech, and the end of the Enlightenment](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/24-03-06-passive-agression-and-technology-iai.webp)
+
+---
+
+*The human condition has always been underpinned by aggressive individualism, usually dormant and constrained by civilisation. Marry that to digital technology, argues Carlo Bordoni, and we reawaken our inner Neanderthal – a violence that emerges in the very online phenomenon of passive aggression. This work is based on Carlo’s new book Ethical Violence published by Polity Press UK.*
+
+***This piece was [originally published](https://www.corriere.it/sette/cultura-societa/24_gennaio_14/passivi-aggressivi-47ae2696-ae09-11ee-8381-1818d333c412.shtml?refresh_ce-cp) in "7", Il Corriere della Sera, 12 January 2024 and was translated by Margherita Volpato.***
+
+From physical abuse to verbal abuse and passive aggression, we are constantly surrounded by violence. Violence has always been integral to human evolution, as though inscribed in our DNA, and we depend on it to defend ourselves, overpower others, and to ensure our survival. Perhaps violence is best viewed as a mark of human incompleteness and imperfection. Nietzsche defined man as “the still undetermined animal”, one whose perfection is still in the distant future. The online phenomenon of passive aggression, of seething keyboard warriors using principled opposition to veil their inner violent drives, cast today’s humans as little more than technologized Neanderthals, or pithecanthropus technologicus.
+
+\_\_\_
+
+Aside from its ethical necessity, repressing aggression has always been a civilizing task
+
+\_\_\_
+
+We have, at least in part, attempted to contain human violence through civilisation. We can see this most clearly in Norbert Elias’s writings in The Civilising Process, which focused not only on exploring the topic of aggression but every aspect of civilized relations, including what makes proper table manners. And education is equally formative as it is repressive. In Jean-Jacques Rousseau’s Emile — a seminal text of the Enlightenment, an age in which rationality was called upon to ensure social stability as well as law and order — it is through education that a good citizen is formed. Aside from its ethical necessity, repressing aggression has always been a civilizing task. It is a task that has been further complicated by technology.
+
+Violence and aggression are always ready to re-emerge, especially under contemporary norms of individualism. It is undeniably true that individualism has its positive traits: after all, progress is achieved through one’s separation with the community, in which the individual is lost in the totality of others. Human narratives are marked by this constant need for separation, to achieve greater personal autonomy and individualisation from others. Therefore, individualism could be seen as a step forward towards emancipation, if it weren’t, at the same time, accompanied by a revival of ancient instincts that go directly against it. It is in this painful contradiction that lies the drama of our contemporary existence, split between the need to evolve and the desire to reconnect with an unresolved past.
+
+[![The Myth of man the hunter3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/The-Myth-of-man-the-hunter3.png)
+
+SUGGESTED READING
+The myth of man the hunter
+By Kimberly Hamlin](https://iai.tv/articles/the-myth-of-man-the-hunter-auid-2633)
+
+Just as the sociologist Émile Durkheim warned, when social structures unravel and anomie prevails, we not only run the risk of regressing but of dismantling the very structures of society. Without rules, our spontaneous characteristics would take over, those traits that are, yes, instinctual but also uneducated. In this way, aggression and violence resurface in groups where there was once harmony, creating potential enemies and dangerous competitors out of previous co-inhabitants.
+
+\_\_\_
+
+The Renaissance introduced the individual as the centre of the world, before scientific advances demonstrated the limits of man in comparison to the infiniteness of the universe.
+
+\_\_\_
+
+Individualism can transform into a socially destructive force. Its recent history is an example of how it can easily creep back into any occasion. Perhaps we need to look to our past to understand where these ideas stem from. The Renaissance introduced the individual as the centre of the world, before scientific advances demonstrated the limits of man in comparison to the infiniteness of the universe.
+
+The early 18th century saw the rise of phenomenology, in which the Austrian philosopher Edmund Husserl introduced the concept of accepting that things are not as they seem, that we can never capture things objectively. Things are only as we see them, subjectively. Phenomenology, whilst perhaps unable to reinstate man in a central position in the universe, at least placed him at the centre of his own environment. It reconstituted in man the right to reason and give meaning to the things he sees.   
+This was revolutionary for thought, and you could suggest that it has led us into the age of egocentrism, reinforcing the value of the individual over the social. The individual’s primacy in the modern world means that the social constraints against our corrupted human nature are weakened.
+
+Millennia of civilisation taught our primitive ancestors to respect others, contain our propensity towards aggression, and to develop mature civil manners. But beneath the veneer of manners, individualism always remained in place on a psycho-social plane. Cultural individualism reawakened the Neanderthal that was dormant in each of us, reawakening the impulsive and insensitive traits of primitive man.   
+For a while, the rise of cultural individualism didn’t seem too problematic. However, everything changed when our inner Neanderthal gained access to digital technology. I use the term Neanderthal metaphorically here to illustrate how, upon accessing this new technology, human behaviour seems to regress back to that of our primitive ancestors.
+
+[![related-video-image](https://iai.tv/assets/Uploads/techneutral.webp)
+
+SUGGESTED VIEWING
+Technology is not neutral
+With Stephanie Hare](https://iai.tv/video/technology-is-not-neutral-stephanie-hare)
+
+In this new arena we see people who feel entitled to every right, who cannot control their responses and resort to violence regardless of those who stand in their way, those who react with kicks and punches against those who reprimand them. We can try to make sense of this behaviour, but the atavistic fear of not being valued or feared, or of being ignored, isn’t sufficient justification for some of the more egregious behaviour displayed online.   
+Aggression has, therefore, become a social problem. This is characterised at its core by an oppositional mindset: a sense that we are right in the face of others’ wrongness. While we could describe this as stemming from a need to affirm oneself in the face of doubt, it has become a pathological issue. This form of opposition is no longer an affirmation of one’s own integrity and capacity for reason; rather, it aims to negate the integrity of others. When they are wrong, they aren’t merely incorrect – they are ethically bankrupt too.
+
+We can make sense of oppositional aggression as individualism taken to an extreme — an individualism that stems from a desire to detach oneself from stiflingly homogeneous culture. If so, perhaps, it is only a condition of growth and characterised, like all moments of growth, by difficult contradictions. But unchecked growth can be dangerous. Pithecanthropus technologicus – our contemporary Neanderthal, adapted for the technological age –  derives his omnipotence from his social environment: the education provided by it, a general permissiveness, a lack of authority and the belief in his own knowledge. The ancient Greeks categorised these traits under hubris, and made sure their heroes were punished for it, containing and limiting its excesses with tragic ends.
+
+Instead, we added digital technology, an exterior interface that facilitates a conversation between the self and reality. It gives our Neanderthal the impression that he can realise anything he wants without much effort or interference. The hypertrophied individual begins to believe that he can influence others – and often manages to – thanks to the power of these instruments, which become an extension of those attributes that make him feel infallible. The Neanderthal of the third millennium has been liberated from the overwhelming fear of the natural world and the transcendental force of religion.
+
+\_\_\_
+
+Inside, he relates to the outside world solely through technology. He does not perceive the passing of time. Faced with and consumed by the screen he can never be bored, using it as a buffer from others and sequestering himself to his comfort zone.
+
+\_\_\_
+
+An individual that regresses to the state of nature is stuck in the centre of hostile environment in which he must defend himself from others and, if possible, must try to dominate them. If he cannot achieve this with force he must attempt to achieve this with his personality, his gestures and actions. It is this that makes man naturally aggressive. But pithecanthropus technologicus does not fear solitude. Inside, he relates to the outside world solely through technology. He does not perceive the passing of time. Faced with and consumed by the screen he can never be bored, using it as a buffer from others and sequestering himself to his comfort zone.
+
+[![Technological determinism](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Technological-determinism.webp)
+
+SUGGESTED READING
+Technological determinism is wrong
+By Lelia Green](https://iai.tv/articles/technological-determinism-is-wrong-auid-2218)
+
+Technology has become a portable comfort zone, full of opportunities for the mind to converse with its alter ego without any external distractions. This comfort leads to a state of mental regression which does not allow for any contradiction, refusals or differences of opinion. It is this that enrages the Neanderthal. He may not be able to fight physically, having progressed somewhat from his ancestor the pithecanthropus erectus, who resorted only to physical violence, so he resorts to passive aggression.   
+Faced by the impossibility of reacting openly, he manages opposition in another, equally effective way. Who hasn’t reacted to an unjust order, a disrepectful comment, by hiding their anger behind a veiled opposition? Perhaps we are all always passive aggressive. Or, perhaps, hidden in us remains a part of that Neanderthal that has not yet acclimatized to civilised society.

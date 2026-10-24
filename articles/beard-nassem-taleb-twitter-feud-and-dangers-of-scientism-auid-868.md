@@ -1,0 +1,86 @@
+---
+title: "Beard vs Taleb: Scientism and Historical Inquiry"
+subtitle: "Twitter rows and the dangers of scientism"
+author: "Massimo Pigliucci"
+date: "11th August 2017"
+article_id: "868"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,098 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/pigliucciarticle.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/beard-nassem-taleb-twitter-feud-and-dangers-of-scientism-auid-868"
+---
+
+# Beard vs Taleb: Scientism and Historical Inquiry
+
+*Twitter rows and the dangers of scientism*
+
+**By Massimo Pigliucci** | *11th August 2017* | *Read time: approx. 10 mins* | *2,098 words*
+
+![Beard vs Taleb: Scientism and Historical Inquiry](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/pigliucciarticle.webp)
+
+---
+
+---
+
+Before reading this essay, you may want to watch [this short BBC cartoon](https://youtu.be/wBEEHfYU1ck), aimed at an audience of children, and explaining basic facts about Ancient Roman life in Britain. Done? Okay, what did you think of it?
+
+This 5’30” video sparked a really nasty Twitter war (okay, “nasty” and “Twitter” may be slightly redundant, but still) involving two high caliber academics: historian Mary Beard (author of the highly readable and engaging *[SPQR](http://tinyurl.com/yd22stf6)*) and statistician Nassim Taleb (author of the best selling and controversial *[The Black Swan](http://tinyurl.com/y9gy4sfm)*). We’ll take a look at the exchange in a moment, but first — if you can stomach it — check out [this “commentary”](http://tinyurl.com/y9n34a95) (I’m using the word very generously) by alt-right celebrity Alex Jones, who rails against the BBC for having succumbed to political correctness, on the grounds that one of the characters in the video is a young boy with a darker-than-white skin.
+
+The kerfuffle began in earnest when Beard tweeted that the video was “indeed pretty accurate, there’s plenty of firm evidence for ethnic diversity in Roman Britain.” Which I would have imagined is uncontroversially the case, since it is well known that the Roman Empire as a whole was highly diverse, and we have direct historical record of, for instance, one Governor of Britannia — [Quintus Lollius Urbicus](http://tinyurl.com/y7wgkbw9) — who likely was a Berber from North Africa (specifically, modern Algeria). And Urbicus, based again on historical documents, was not an isolated case.
+
+(As a side note, I did find the BBC video just slightly too informed by modern sensibilities, as for instance in the scene, at 1'50", where a Patrician girl expresses the desire to one day become a military commander, only to be rebuked by her mother who explains that women are not allowed in the Roman military. Then again, it is a video meant to teach an audience of modern children. And if one wishes to be picky then one would also have to point out that the Ancient Romans did not speak modern English with a British accent either…)
+
+\_\_\_
+
+"Taleb immediately moves from a criticism of Beard, a single, particular historian, to the class generalization, “historians.” Tsk, tsk, I would tell students in my informal logic class, that’s fallacious reasoning"  
+\_\_\_
+
+Anyway, back to the Twitter wars. After Beard’s modest comment comes this retort from Taleb: “Historians believe their own BS. Where did the sub-saharan genes evaporate? North Africans were lightskinned. Only “Aethiopians”, even then.”
+
+Before we proceed and evaluate Taleb’s substantive argument, please take note of a couple of things. First off, it is perfectly possible, I dare say preferable, even, to simply state that someone may be wrong on something, and provide the evidence backing the claim, rather than immediately descend to the level of accusing others of bullshitting. (Which, [in philosophy, is a technical term](http://tinyurl.com/y8xc4bsx), by the way.) Second, notice how Taleb immediately moves from a criticism of Beard, a single, particular historian, to the class generalization, “historians.” Tsk, tsk, I would tell students in my informal logic class, that’s fallacious reasoning. But Taleb has reasons for making that jump, as we shall see, even though they are definitely not good ones.
+
+Taleb continued: “We have a clear idea of genetic distributions hence backward composition; genes better statisticians than historian hearsay bullshit.”
+
+Setting aside the second use in a row of “bullshit,” Taleb is simply wrong here, and I say this as a population geneticist, and despite his impressive-looking tables of statistical data, which he proceeded to Tweet shortly thereafter. No, we don’t have a “clear idea” of ancient genetic distributions, because we only have DNA data from modern populations, and a lot of assumptions and guesswork has to go to infer ancient population DNA profiles from current ones. That is, genes are not “statisticians,” they are one — important, but limited — piece of information about human history. And one can just as easily bullshit with statistics as one may with “anecdotal data.” (Moreover, historical documents are not anecdotal data, they are individual pieces of evidence. Historical work is very akin to forensic work. Imagine a CSI operative looking at fingerprints clearly linking a suspect to a crime scene, shrugging her shoulders, and tossing them aside on the grounds that they are “anecdotal.”)
+
+Indeed, the very same study referred to by Taleb, conducted at Oxford’s Wellcome Trust Centre for Human Genetics, also shows — again DNA data in hand — the presence of very few Norman genes in the modern British sample. Yet it would be crazy to deny, on that basis, that there was a Norman invasion of Britain (11th century, obviously much later than the Romans). Other explanations are possible without having to invoke alien interference (as Taleb mockingly did in another tweet aimed at Beard), for instance that there was little initial admixture between the invading population and the then resident one, or that further historical events obliterated many of the traces of that admixture. These are well known problems in population genetics, which is why the statistics, by themselves, don’t tell you anything. Careful interpretation, checking of assumptions and, whenever possible, and comparison with independent sources of evidence, must always be carried out.
+
+Moreover, even if correct, Taleb’s argument is very clearly at cross-purposes with Beard’s statement. Nowhere did Beard claim that the presence of dark skinned individuals was “typical” in Roman Britain. She only stated that there was such presence, period. For that kind of modest claim, and despite Taleb’s disdain for it, “anecdotal” evidence is enough. If I were to tell you that the average height of people in Manhattan was 6’4” on the basis of having encountered a single individual that tall in the subway you would justifiably laugh me out of court (or of Twitter). But if my claim was instead simply that there is at least one person who is 6’4” in Manhattan, my direct observation of such a person (assuming I’m not lying) is all you need to establish the truth of that claim. No statistics are necessary. Indeed, given that the “population” of reference has a size of n=1, no statistic is possible.
+
+\_\_\_
+
+"Why do we care about this exchange at all? Because it is representative of a malaise that has stricken a good chunk of academics and an increasing portion of the general public: scientism"  
+\_\_\_
+
+If anything, Beard did not go far enough when explaining to Taleb the nature of historical evidence. Although historical research can and does benefit from statistical analyses (see, for instance, my colleague [Peter Turchin’s work](http://tinyurl.com/ycztuxcq) on long-term historical trends), history, like paleontology and astronomy (the latter two obvious examples of historical sciences) can and do arrive at solid conclusions without statistics. Historians know that Napoleon lost at Waterloo; paleontologists know that a giant meteor or asteroid hit the Earth 65 million years ago (off the coast of the modern Yucatán peninsula), and astronomers know that there was [a supernova explosion visible to the naked eye back in 1006 CE](http://tinyurl.com/ybzuy3xw). Again, no statistics are necessary, or even possible, since we are talking about unique events. Again, the parallel with CSI is informative: in forensic science as well one uses DNA analyses and statistics, when available and appropriate, but the full picture emerges from a combination of different sources of information, properly integrated by way of careful reasoning, in turn based on a number of (always debatable and open to revision) assumptions and inferences. There is no such thing as reading stuff straight off the data.
+
+Undaunted, Taleb made his above mentioned comment on alien interference, discourteously referred to Beard as “Ms.” (not Prof.), and — in response to an admission by Beard that she had not read Taleb’s technical papers, but only one of his popular books — wrote: “I get more academic citations per year than you got all your life!,” thus lowering his side of the debate to the level of kindergarten exchanges.
+
+Now, why do we care about this exchange at all, other than the peculiar fact that it involved two highly respected academics going at each other in a very public forum? It isn’t because of the not-so-subtle sexist undertone (not just of Taleb’s, but of many of his Twitter-based supporters), nor is it because it is a spectacular example of the (anecdotal) fact that one may at the same time be smart and unpleasant. The most interesting aspect of this Twitter war is that it is representative of a malaise that has stricken a good chunk of academics (mostly scientists, with a peppering of philosophers) and an increasing portion of the general public: scientism.
+
+I have [co-edited an entire book](http://tinyurl.com/y77ffuba), due out soon, on the topic, which features authors who are pro, con, and somewhere in the middle. Scientism is defined as the belief that the assumptions, methods of research, etc., of the natural sciences are the only ways to gather valuable knowledge or to answer meaningful questions. Everything else, to paraphrase Taleb, is bullshit.
+
+Does Taleb engage in scientism? Indubitably. I have already mentioned above his generalization from what one particular historian (Beard) said to “historians” tout court. But there is more, from his Twitter feed: “there is this absence of intellectual rigor in humanities.” “Are historians idiots? Let’s be polite and say that they are in the majority no rocket scientists and operate under a structural bias. It looks like an empirically rigorous view of historiography is missing.”
+
+\_\_\_
+
+"The mistake of scientism is to elevate scientific knowledge and data crunching to a level of certainty and competence they most definitely do not have, while at the same time dismissing every other approach as obsolete nonsense"  
+\_\_\_
+
+It’s a good thing Mr. Taleb was being polite, I hate to imagine what he’s like when he’s not. Of course, so far as I know, he is no rocket scientist either, and he also operates under a “structural bias.” We all do, there is plenty of empirical evidence (not to mention good philosophy of science, but of course that’s just part of the humanities, which lack intellectual rigor anyway) that everyone is affected by personal cognitive biases. Moreover, any organized enterprise — not just the academic study of history, but also the practice of statistics, or population genetics, or whatever — is affected by structural constraints and biases. That’s just another way of saying that no human being, or organized group of human beings, has access to a god’s eye view of the world. All we have is [a number of perspectives to compare](http://tinyurl.com/y7hsp9y8). Which is a major reason, as articulated by [philosopher Helen Longino](http://tinyurl.com/ya6f9egp), to work toward increasing diversity in the sciences: many individually biased points of view enter into dialogue with each other, yielding a less (but still) biased outcome.
+
+The mistake of scientism is to elevate scientific knowledge and data crunching to a level of certainty and competence they most definitely do not have, while at the same time dismissing every other approach as obsolete nonsense. But human knowledge and understanding are not zero sum games. On the contrary, they work best when we expand, rather than artificially or ideologically limit, our methods and sources of evidence. The scientistic game is foolish not just because it is incoherent (what statistical, empirical evidence do we have that scientism works? What does that even mean??), but because it is dangerously self-serving. It makes a promise on behalf of science that science cannot possibly maintain. And this in the midst of an already strongly anti-intellectual climate where half of the American public, for instance, rejects the very notion of global warming and does not believe in the theory of evolution.
+
+Taleb & co. will likely argue that this sorry state of affairs is the result of scientific illiteracy, not of scientism. But they are empirically wrong: more scientific literacy only marginally decreases, and sometimes even increases (via motivated reasoning) [people’s beliefs in pseudoscientific notions](http://tinyurl.com/y8zo9jhw). And while certainly scientism isn’t the only causal factor at play, it just doesn’t help. Taleb, Beard, myself, and every other academic who takes the trouble to write for the public have a moral duty to be constructive, courteous, and careful with our evidence and arguments, practicing what is known as [virtue epistemology](http://tinyurl.com/y86kgll3). That, not name calling and insulting, is the way forward, in history, statistics, or any other field.
+
+---
+
+*Massimo Pigliucci is the K.D. Irani Professor of Philosophy at the City College of New York. He is both a philosopher of science and an evolutionary biologist who specializes in statistical population genetics. He blogs at [platofootnote.org](http://platofootnote.org/). His most recent book is How to Be a Stoic: Using Ancient Philosophy for Live a Modern Life (Basic Books, 2017).*
+
+For more from IAI News, read our latest issue:
+
+'[Knowing Others and Knowing Our Selves](https://iainews.iai.tv/articles "IAI News 57: Knowing Others and Knowing Our Selves")'

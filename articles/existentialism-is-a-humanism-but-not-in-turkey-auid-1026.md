@@ -1,0 +1,67 @@
+---
+title: "Existentialism is a Humanism – but not in Erdogan's Turkey"
+subtitle: "With freedom of expression under threat, the works of Albert Camus still teach us what it means to be free"
+author: "Tanja Staehler"
+date: "22nd January 2018"
+article_id: "1026"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,745 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/camusturkeyban.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/existentialism-is-a-humanism-but-not-in-turkey-auid-1026"
+---
+
+# Existentialism is a Humanism – but not in Erdogan's Turkey
+
+*With freedom of expression under threat, the works of Albert Camus still teach us what it means to be free*
+
+**By Tanja Staehler** | *22nd January 2018* | *Read time: approx. 9 mins* | *1,745 words*
+
+![Existentialism is a Humanism – but not in Erdogan's Turkey](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/camusturkeyban.webp)
+
+---
+
+It is indeed quite absurd – but not in the sense which Albert Camus deemed philosophically interesting. In 2017, the works of philosophers Baruch Spinoza and Albert Camus [were reportedly confiscated from Turkish public libraries](http://www.dw.com/en/books-come-under-suspicion-in-post-coup-turkey/a-41361598) because they were labelled as active members of a terrorist organisation. Their names were mentioned in the notebooks of a journalist who was brought to court for membership in a terrorist organisation. According to [a Deutsche Welle report in November 2017](http://www.dw.com/en/books-come-under-suspicion-in-post-coup-turkey/a-41361598), owning and reading books by Spinoza or Camus was apparently, and however briefly, an arrestable offence.
+
+If true, that is absurd. After all, Camus won the Nobel Prize for Literature in 1957. He wrote literature about real human conflict, and about the importance of loyalty. His novels are preoccupied with the most extreme situations (such as in *The Plague*) as well as the everyday. They provide close studies of personality as well as revelations of historical worlds. Camus’ novels are also concerned with how to be together in the midst of moral dilemmas – existence, after all, is full of them.
+
+Camus says about the absurd: “The absurd is an experience that must be lived through, a point of departure, the equivalent, in existence, of Descartes’s methodical doubt” (*The Human Being in Revolt)*. The absurd can lead us into philosophy. Camus was most comfortable leading us into philosophy through literature. His novel *L’étranger* raises one of the most important topics of our times: the concept of the stranger. The stranger is the one who is puzzled by existence, cannot or can no longer take it for granted, and therefore opens the door for philosophy as born from reflection. Philosophy is born from wonder, which can be wonder inspired by an encounter with strangeness.
+
+Literature is particularly suitable for an encounter with strangeness because it allows us to take the kind of distance from the everyday that is normally missing. In the midst of everyday existence, we are so closely embedded in the world that we cannot reflect on it. In the everyday mode, we do not realise that existence means being-in-the-world (as the philosphers Martin Heidegger and Maurice Merleau-Ponty put it). The world is so closely pressed on us, so immediately around us and even within us, that we cannot describe it; cannot even get a sense of it. Literature thusly allows for a kind of alienation. This strange encounter provides crucial openings for philosophy, particularly where the philosophy of existence is concerned.
+
+\_\_\_
+
+"Accusations that Existentialism would lead to solipsism or to an ethics of ‘everything goes’ are absurd — the more we explore our existence in this world, the more we come to realise that how we act towards one another is what matters the most."
+
+\_\_\_
+
+Existence — from the Latin *ex-sistere* — means literally standing out; namely, stepping out from nothing, or into an absurd world. Doing this together with others as a colloborative undertaking is our only consolation and remedy. Camus’ literature not only teaches us about the world we live in, but also about ourselves and who we are as humans: embodied creatures, and vulnerable in our corporeality. *The Plague* is an acknowledgement of our human vulnerability and the dependence on others. Being with others and for others is ultimately what this existence is about.
+
+The kind of ethics that emerges from such considerations would be a very interesting one. It would be based on our existence as it really is, complete with the realisation that we are embodied and vulnerable beings. It would be an ethics of the absurd, but certainly not an absurd ethics. Accusations that Existentialism would lead to solipsism or to an ethics of ‘everything goes’ are absurd — the more we explore our existence in this world, the more we come to realise that how we act towards one another is what matters the most. It is what makes this existence worthwhile and maybe even happy, despite all the absurdity.
+
+Camus is a philosopher of the ‘despite’: despite the conflicts and imperfections of existence, we need to embrace life. Like Sisyphus who keeps rolling the stone up the hill. But in a life in which something else matters so much more than the daily labours of existence: our being with one another, being there for one another. In his early work *Nuptials*, he wrote: “I love this life with abandon and wish to speak of it boldly: it makes me proud of my human condition. Yet people have often told me: there’s nothing to be proud of. Yes, there is: this sun, this sea, my heart leaping with youth, the salt taste of my body and this vast landscape in which tenderness and glory merge in blue and yellow.” In Turkey, there is a lot to be proud of. Banning intellectual works, however, is not such a thing.
+
+Camus’ late work *The Rebel* is one of those cases where a translation becomes slightly misleading: it is called *L’homme révolté*, the human being in revolt. What this means, in Camus as in other existential philosophers, is not power over others, but over oneself. It means controlling oneself in such a way as to live a life that one can reflect upon with a clear conscience and call it a life well lived. It means to embrace all life, and all of humanity.
+
+Camus said: “An analysis of rebellion leads us to the suspicion that, contrary to the postulates of contemporary thought, a human nature does exist, as the Greeks believed” (*The Human Being in Revolt)**.* What did the Greeks believe, in that respect? Plato believed, in particular, that there are common concerns that unite us as humans, namely, a common orientation towards justice and the Good. What justice is, what the Good is, that may well take a lifetime or longer to figure out. But for us us to be arguing about it, to be willing to rebel in the name of justice, means that we are convinced that we are arguing about one thing; something that is the ‘for the sake of which’, orienting our actions. Aristoteleans believed that we can be defined as “*zoon politikon*”: a political animal, which should perhaps in the first and more general instance be translated as ‘social animal’. We are social creatures; we live and act with others, and we define ourselves through others.
+
+\_\_\_
+
+"Camus is a philosopher of the ‘despite’: despite the conflicts and imperfections of existence, we need to embrace life. Like Sisyphus who keeps rolling the stone up the hill. But in a life in which something else matters so much more than the daily labours of existence."
+
+\_\_\_
+
+Camus was a pacifist. He began as a communist, but then become one of the most prominent representatives of the non-communist leftists in France. His fall out with Jean-Paul Sartre, who remained committed to communism after problematic features emerged in the USSR and elsewhere, marks an important time in the middle of the twentieth-century. Camus did not consider himself to be a philosopher, nor did he think he was an existentialist – but we are still allowed to consider him such. Several philosophers did not want to be closely affiliated with Sartre’s self-proclaimed Existentialism, especially in its communist version. But they are nonetheless the most important philosophers of human existence available to us. Revealing human existence through literature makes Camus all the more important when it comes to the space between disciplines, between fiction and reality, and between East and West.
+
+At my own institution, the University of Sussex, we are extremely lucky to have many international students, and among them, many Turkish ones. We want them to keep studying. But we also want them to have access to the full and systematic intellectual histories on which our cultures are built. I am Professor of European Philosophy. The European project is important to me; I believe that we can only understand our current historical world, including its crises and conflicts, if we understand the roots of European thought in Ancient Greek philosophy and science. Since then, European philosophy has taken on many different shapes; yet these shapes are interconnected because they respond to each other. Philosophy is a systematic undertaking, like other sciences.
+
+Imagine banning two crucial mathematicians from both the curriculum and self-learning. The system of mathematics would simply collapse and become unintelligible without the propositions developed by them. The same holds if you take Spinoza and Camus out of the philosophical system: it collapses and is no longer comprehensible. To some, this might sound like an exaggeration, but it is true. Spinoza, after all, is an integral part of the intellectual developments leading up to some of to the most famous German philosophers, Immanuel Kant and GWF Hegel. All our first year students at Sussex are instructed in Spinoza’s thought — his interesting idea of modelling ethics after geometry, finding a systematic and rational way of dealing with ethical issues. This might not fully work out, in the end, but it is an endeavour very much worth trying and acknowledging.
+
+Turkey is in a particularly crucial position for our times as it is located on the threshold between East and West, allowing for an acute awareness of the relation between the two. And that, I would argue, is what our contemporary world needs: a consideration of the relationship between East and West with an emphasis on the space between; on relation. It is not enough that we understand the need to consider both sides; we have to unfold the between-space, the space where East and West meet and have met, have interacted, have produced fruitful thought, including philosophical ideas.
+
+If I could speak to President Erdogan, I would say this: please allow our students to mutually benefit each other. Your students are an integral part of our university. There is substantial interest in your country in what I teach: Existentialism and phenomenology. Turkish students are well aware that it is worth studying our human existence and how to be together. You have appealed to the United States' President Donald Trump in the name of peace. Please allow me to appeal to you, in the name of peace, so we can continue to encounter each other and learn about the interval: the between-space of East and West.
+
+**Correction:** An earlier version of this article incorrectly stated that the works of Camus and Spinoza were currently banned in Turkey, while the initial reports commented upon made mention that they were accused of being members of a terrorist organisation and that a man was arrested for owning their works. (Jan 22, 2018).

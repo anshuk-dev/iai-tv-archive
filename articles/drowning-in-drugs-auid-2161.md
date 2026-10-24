@@ -1,0 +1,98 @@
+---
+title: "Drowning in Drugs"
+subtitle: "Big pharma is making us sicker"
+author: "David Healy"
+date: "22nd June 2022"
+article_id: "2161"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,837 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/drowning-in-drugs.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/drowning-in-drugs-auid-2161"
+---
+
+# Drowning in Drugs
+
+*Big pharma is making us sicker*
+
+**By David Healy** | *22nd June 2022* | *Read time: approx. 9 mins* | *1,837 words*
+
+![Drowning in Drugs](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/drowning-in-drugs.webp)
+
+---
+
+*Over the age of 45, nearly half of us are now on 3 or more drugs every day of the year where as in the 1980 a very few of us were on any drugs at all. However, far from transforming our prospects for the better, these new treatments are compromising our quality of life, increasing health service costs by leading to more hospitalizations, and shortening our lives – all because we are taking too many of them at the same time, writes David Healy.*
+
+When reflecting on evidence that Solvadi looked like a cure for hepatitis, a 2018 Goldman Sach’s report noted that curing patients is not a good business model (1). Solvadi’s benefits for this debilitating disorder had led Gilead to price it at $80,000 per year. Most patients with this disease, however, lived in developing countries and few could afford these prices. A clamour led the price to tank. This situation was very similar to the discovery in the 1990s that Triple Therapy was close to a cure for AIDS, which also led to calls for its price to drop to the point where wealthy donor countries could afford to buy and donate it to save African lives.
+
+Besides Solvadi, there has arguably been only one other drug since Triple Therapy that has convincingly saved lives, Gleevec, a cancer chemotherapy. Not only are lives not being saved but even before Covid, life expectancies were falling in an increasing number of developed countries. One of the factors in this has to be the increasing number of drugs we are all on (2).
+
+Drugs are a front for what pharmaceutical companies do more successfully than any other company, which is to make money. If not from saving lives, where does the money come from?
+
+[![21 07 14.David Healy article](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-07-14.David-Healy-article.webp)
+
+SUGGESTED READING
+How modern medicine became dangerous 
+By David Healy](https://iai.tv/articles/how-modern-medicine-became-dangerous-auid-1834)
+Triple Therapy for AIDS was an anomaly even in the 1990s. By then companies had realized the money lay in treating people who were well, not in saving lives. Comparatively few people had life-threatening diseases, but everyone could be persuaded they were in danger from not just one risk but several. We were persuaded into treatments for minor amounts of normal variations in bone density, blood cholesterol, blood sugar or blood pressure levels, marginal reductions in peak airway flow rates, mild and transient mood disorders and now loss of focus. Over the age of 45, nearly half of us are now on 3 or more drugs every day of the year where as in the 1980 a very few of us were on any drugs at all. During the decades before and around Triple Therapy, company profits grew 20-fold from treating well people for possible risks.
+
+\_\_\_
+
+There is little that is innovative about the molecular entities being made. The innovations primarily lie in the engineering of the information we, and our doctors, and the media receive.
+
+\_\_\_
+
+New drugs come onstream the whole time, more than before, so we are not failing at bringing new drugs to market. Far from transforming our prospects for the better, however, these new treatments are compromising our quality of life, increasing health service costs by leading to more hospitalizations, and shortening our lives – all because we are taking too many of them at the same time. (3)
+
+Meanwhile pharmaceutical companies now get all sorts of tax breaks and other concessions on the back of being innovative from governments who’ve been sold the idea their job is to foster innovation. A medicine is a combination of a chemical and information supposed to enable us to use unavoidably hazardous chemicals as judiciously and safely as possible. Chemicals are a dime a dozen to make. There is little that is innovative about the molecular entities being made. The innovations primarily lie in the engineering of the information we, and our doctors, and the media receive. The developments are in propaganda, with health the leading laboratory for innovative methods of controlling us.
+
+Propaganda does not mean developments in glossy or even direct to consumer advertising, free meals, or trips for doctors. These are too obvious to qualify as propaganda. The good stuff is invisible, more so in healthcare than in any other domain of life. Companies have captured the minds of doctors, turning them into salesmen and spreading out from there the industry has captured all discourse in healthcare.
+
+The thalidomide crisis of 1962 laid the basis for key company propaganda achievements by leading to the introduction of Randomized Controlled Trials (RCTs), then a poorly understood technique, as a method to evaluate whether drugs worked. Those keen to require companies to jump over a higher bar to get their drugs on the market naively believed RCTs would ensure we only got effective and innovative drugs.
+
+When given to people, all chemicals do a hundred or more things. RCTs, which take an intensely algorithmic approach, can only evaluate one of those at a time. This focus can help resolve uncertainties as to whether a chemical might have a useful effect in a medical setting – whether it might be a drug. Clearly effective treatments like Triple Therapy did not emerge from RCTs.
+
+\_\_\_
+
+The SSRIs abolish our ability to make love more effectively than they restore our moods.
+
+\_\_\_
+
+This benefit comes at a cost. Focusing on the uncertainty – whether SSRI chemicals work as antidepressants – means things that happen more commonly and may be more important to us, such as a loss of the ability to make love, can, with a little company help, be missed entirely. The SSRIs abolish our ability to make love more effectively than they restore our moods. When they launched SSRIs as antidepressants, companies marketed drugs much weaker than older antidepressants, and eliminated far more potent drugs that could be used for other purposes, because this was not where the money lay.
+
+What happened was obscured by publicity that said SSRIs work, because they had been evaluated by RCTs, and that they were free of harms, because no harms had shown up in RCTs. These claims reporting the results of RCTs - whose data were sequestered, so that not even regulators saw them - were made in ghostwritten medical journal articles, in our most prestigious journals. The articles were passed off as evidence-based-medicine without anyone spotting that company RCTs are really randomized clinical assays (RCAs) being used, not to establish what chemicals do, but to get through a regulatory system that requires companies to justify the use of a word like antidepressant.
+
+The US Food and Drugs Administration (FDA) regulates foods like butter and chocolate as well as drugs. On the basis of fat or cocoa content, FDA allows companies to use words like butter or chocolate, but the regulator offers no view as to whether this is a good or bad butter or whether chocolate is good or bad for us. Similarly with drugs, regulators on the basis of two placebo-controlled assays will license companies to use a word like antidepressant even if most of the assays done have been negative. The regulator offers no view on whether this is an effective antidepressant or whether antidepressants are good for us or not.
+
+After approval, no one sets out to establish if this is a good drug and who might benefit most and what harms might turn up. Even though these drugs are prescription-only because we have every reason to think they are more dangerous than over-the-counter drugs like alcohol and nicotine, which could also be used for medical purposes, companies get doctors to dispense these drugs about which we know almost nothing liberally – by exhorting them to keep to the evidence.
+
+\_\_\_
+
+These unintended effects are often far more salient than any benefit companies seek.
+
+\_\_\_
+
+Rather than new drugs, our greatest need now is to reduce drug burdens, which impair our quality of life, increase our health service use, and reduce our life expectancies. But reducing drug burdens has become a privilege of wealth (3). Neither politicians on the left or right can help us with this. They look to health technologies to save us. Their primary complaint is that drugs cost too much. They want drug prices to fall in order that, in line with the evidence, we can consume more.
+
+Forty years ago, doctors aimed to bring good out of the use of poisons. Now they dispense sacraments – something that can only do good and cannot harm – and many of us get pushed into daily sacraments rather than something once a week or a month. Containing costs and getting drugs used judiciously all hinge on recognizing harms. At present companies can jack prices through the roof for the sacraments they dangle in front of us. Restoring the status of these drugs to poisons from which in co-operative therapeutic relationships, if used judiciously, we can bring good would relocate the magic in medicine from technologies and algorithms to people.
+
+This would help rescue healthcare from health services. But bringing good out of the use of poisons is not something that computes for health services, insurance companies, politicians, pharmaceutical companies and less and less for doctors. Getting more drugs also hinges on recognizing ‘harms’. These unintended effects are often far more salient than any benefit companies seek. The initially unwanted effects of Viagra were very obvious in trials of this drug for other less certain benefits. Antibiotics began to be used for ulcers by doctors listening to patients reporting benefits. Unlike Viagra, companies attempted to sabotage these effects of antibiotics as curing ulcers would eliminate one of their then greatest cash-cows - the use of H-2 antagonists in a lifelong treatment for ulcers.
+
+Looking closely at and listening closely to people who are on a treatment remains the best way to discover new drugs. It was patients with AIDS who spotted that thalidomide might be beneficial for cancer and people looking at rates of cancer in people on SSRIs compared with the rest of the population, who spotted that these drugs might have anti-cancer and even anti-Covid effects.
+
+In the last millennium, politics and religion occupied separate spheres. Politics dealt in realities of which health was one.  But health has now moved from being one of the realities in our lives to our central concern, and in the process has less and less to do with science. It has become a place where new salvation seeking cults flourish.  Like religion once did, it transcends political divides. The question of whether we need more drugs, or how to get the drugs we need, may well become the arena in which the final political or religious battles will be fought over who or what governs us - technology or communal human judgements?
+
+## References
+
+- T. Kim, Goldman Sachs ask in biotech report: Is curing patients a sustainable business model. CNBC, 11 April 2018,
+
+[www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-businessmodel.html](http://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-businessmodel.html).
+
+- Garfinkel D, Mangin D (2010). Feasibility study of a systematic approach for discontinuation of multiple medications in older adults. Arch Intern Med 170 1648–54.
+
+- Healy D.  The Shipwreck of the Singular.  Healthcare’s Castaways.  Samizdat Press, Toronto, 2021.
+
+- Healy D. Reducing medication burden has become a privilege of wealth in Western settings.  Indian Journal of Medical Ethics 2021 DOI: 10.20529/IJME.2021.084

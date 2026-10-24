@@ -1,0 +1,47 @@
+---
+title: "Tweet Truth to Power"
+subtitle: "Social media's false promise of political agency."
+author: "Steve Richards"
+date: "Issue 26, 17th January 2015"
+article_id: "488"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,053 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Steve-Richards.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/tweet-truth-to-power-auid-488"
+---
+
+# Tweet Truth to Power
+
+*Social media's false promise of political agency.*
+
+**By Steve Richards** | *Issue 26, 17th January 2015* | *Read time: approx. 5 mins* | *1,053 words*
+
+![Tweet Truth to Power](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Steve-Richards.webp)
+
+---
+
+Green Party membership is rising fast. The recent “Green Surge” has seen the party’s membership overtake both UKIP and the Lib Dems in recent weeks. But will this translate into votes come the next General Election? Voter turnout at the last election was just 65%. It’s part of a long-term downward trend. At the same time, politics is becoming increasingly engulfed by short-lived social media storms – such as the 2014 resignation of Labour MP Emily Thornberry or the hashtag #cameronmustgo which trended on Twitter for nearly a week and garnered some 800,000 interactions within days. Has social media democratised political self-expression or is it actually contributing to a crisis of political participation?
+
+Steve Richards is a columnist for the *Independent* and presenter of the BBC's Week in Westminster. He has over 26,000 followers on Twitter and was recently ranked the 34th most influential person on the Left by *the Daily Telegraph*. With a career spanning a range of media, from BBC political correspondent to radio presenter, documentary-maker and even stand-up comedian, he’s watched how the British political and media landscape has been shaped by technology over the last twenty five years.
+
+“I feel deeply ambivalent about the rise of social media,” Richards tells the IAI. “I do use it a lot, but I really think it’s unhealthy for all of us to get used to thinking in terms of two sentences at most.” The impression that it gives its users of influence is, in his opinion “entirely deceptive.” It is an illusion. Rather than creating some utopian, democratic platform for the people, “it’s just an anarchic, noisy, superficial place, which in the end I think is biased against thoughtful dialogue with those in power.”
+
+But what causes this bias against thoughtfulness? Richards believes you simply cannot develop any sort of considered argument on a medium as superficial as Twitter. It “gives the impression that everyone is on an equal playing field, but they’re not. They’re all dancing at a very noisy party late at night, and too scared to leave but not getting very much out of it.” If you were to take Twitter and blogging away, Richards doesn’t think the powerful would feel any less challenged. Instead political discussion would be more considered rather than what he describes as the current “frenzy” of debate that occurs on social media. These platforms, he says, “reinforce existing, preconceived, clichéd ideas” rather than challenging them, and leave no space for nuance. It is those with a sort of bullying swagger, who shout the loudest on Twitter and “who almost scare people into agreeing with them” that have the most influence. Richards considers this actually quite dangerous, as those people brought up on this sort of media become deterred from reading anything of any length, and thinking in any detail.
+
+Could it not be argued, however, that this is part of the process of taking the power of criticism from a minority of highly educated people and giving it to a wider demographic? But Richards doesn’t see Twitter as a form of democratic power. “It gives people a sense that they are being listened to, but it’s usually only by a few people. It doesn’t really give them an organised force to challenge power if that’s what they want to be doing.” Rather than the illusory power of Twitter, Richards believes people can really challenge power by joining political parties. “People mistake power for tweeting…they think the entire world is listening to them.”
+
+As a print journalist, it is perhaps unsurprising that Richards wants people to be reading long-form print journalism that people have been paid to spend time researching and considering. Does this not smack of professional self-preservation? Richards does admit that in Britain traditional print media was never a particularly democratically healthy place in the first place: “it was full of very right-wing newspapers, and still is”, he says. “But I am not for one moment under any illusion that what we have now is more democratic or gives people more muscle in terms of asserting their rights.” Richards acknowledges the claims that social media helped to fuel the rebellions of the Arab Spring, but he considers this international context slightly different. “Even if Twitter fuelled the Arab Spring I’m sure that would have happened anyway. And whether it was necessarily democratic is again highly challengeable.”
+
+Although the great strength of social media is the ease with which anyone with an internet connection can participate, Richards argues that it is this very ease which limits its impact. “The great thing about these other mechanisms – such as joining a political party or a single-issue cause group – is that they bring people together. Although it seems deeply old-fashioned, actually I think it taps into a real hunger amongst people of all ages to do something other than sitting in front of your computer or mobile phone and tapping in some banality that is going to reach your followers if you’re lucky.” Being among a crowd of like-minded people is an incomparable feeling. That, for Richards, is how you achieve real change.
+
+Richards distinguishes between single cause groups, which he describes as quite “fashionable” among right-on young people, and the wider malaise in political participation. “There’s a huge gap at the moment,” he argues. “There’s a great disillusionment with politics. There is this love of social media, and in between there are very few mediating agencies: parties are in decline, no one goes to church any more, they don’t join trade unions.”
+
+Is this crisis of legitimacy part of a deeper social crisis? Are losing the art of conversation? “I sometimes start thinking in Twitter now,” Richards admits, “and quite often friends of mine who are columnists tell me that they don’t really bother going out very much these days, because they’re quite happy just tweeting to people. That can’t be healthy, that really can’t be healthy.” The effect is a repositioning of the division between public and private: is a discussion on Twitter, for example, a genuine interaction or simply a performance before a live audience?
+
+Of course, we cannot simply turn back the clock and reverse the role that social media now plays in our society. Richards knows that. His belief is that we must be more aware of its many and deep limitations. Twitter will not save democracy.
+
+**Image credit: [.craig](http://www.flickr.com/photos/anabadili/2716806922)**

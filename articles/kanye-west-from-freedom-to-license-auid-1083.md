@@ -1,0 +1,119 @@
+---
+title: "A Black Existentialist Response to Kanye West"
+subtitle: "Philosopher Lewis Gordon discusses bad faith and the difference between freedom, liberty and license"
+author: "Lewis Gordon"
+date: "8th May 2018"
+article_id: "1083"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "2,093 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lewis-Gordon.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/kanye-west-from-freedom-to-license-auid-1083"
+---
+
+# A Black Existentialist Response to Kanye West
+
+*Philosopher Lewis Gordon discusses bad faith and the difference between freedom, liberty and license*
+
+**By Lewis Gordon** | *8th May 2018* | *Read time: approx. 10 mins* | *2,093 words*
+
+![A Black Existentialist Response to Kanye West](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lewis-Gordon.webp)
+
+---
+
+'*When you hear about slavery for 400 years ... For 400 years? That sounds like a choice.'**Rapper Kanye West’s interview on TMZ caused a furore on social media, with many accusing him of advocating for a ‘white freedom, a freedom without consequence’. We spoke about how vulnerability can birth lies and the difference between freedom, liberty and license with philosopher Lewis Gordon, one of the most prominent thinkers in black existentialism and post-colonial phenomenology.*
+
+*—Paula Erizanu*
+
+---
+
+**What were your first thoughts when you read about Kanye West’s interview on TMZ?**
+
+I wasn’t surprised. But my response was a little different from other people, mainly because I knew his mother. From the moment his mother died *—* I saw her a few months before she went to LA, I was wondering how he’ll be dealing with the trauma. She was a presence. She was a professor of English. When I met her she had dreadlocks, like me. Then when she went to Los Angeles to be Kanye’s manager she straightened her hair, had all of these plastic surgeries done to her. I can imagine the grief he’s feeling because he too had liposuction, the procedure that killed her. You go to this narrow, narcissistic, shallow world of Los Angeles, the 'me-me-me' stuff and it kills your mother. I can imagine the grief and guilt that occasions. And there really has been a different Kanye since then.
+
+If you think about the closeness of the relationship they had, it’s not going to take just a little time to get over it. I know from my own case that it took nearly a decade to get over a tragic loss. Unfortunately, we’re witnessing the unravelling of a person who’s dealing with public grief. So I am actually concerned for him.
+
+It’s pretty clear that his psychological protection against vulnerability is to push himself to the level of a god. Beyond the marketing, I see this as a personal effort to articulate invulnerability.
+
+People who build up an edifice of pleasing falsehoods to protect themselves eventually lose the connection to certain elements of truth.
+
+Kanye falls into a very familiar logic to many successful black people. There is a tendency in a highly racist environment to treat black people who achieve a lot as exceptions. Many white people with extraordinary achievements would say ‘I individually am special’. But many black people with extraordinary achievements would say ‘I, individually, in being exceptional, am not like them.’
+
+This plays into black conservatism. And white conservatives love it. One of the things that Kanye is doing is that he is sending the signals for access to a particular world of conservatism. When Kanye does these stupid tweets, Trump plays that role and says ‘I recognise you, you are not like others, you’re a smart one’, etc. Remember that when Trump got elected, Kanye said that he would like to run in the future. There is a narcissistic identification between the two.
+
+\_\_\_
+
+"Many white people with extraordinary achievements would say ‘I individually am special’. But many black people with extraordinary achievements would say ‘I, individually, in being exceptional, am not like them.’"
+
+\_\_\_
+
+What concerns me is the way in which many sectors in black communities talk about Kanye. We are living in retrograde neo-conservative times in which in order to achieve some sense of agency people are trying to rationalise self-degradation. So there is valorisation in how black people refer to each other with the n-word.
+
+The use of the n-word in referring to Kanye reminds me of a form of *ressentiment*. I’ll give you an example. I was in an academic institution where there was a lot of celebration for my coming there. And a resentful member of the faculty, insecure about his own achievements, told the students he met in a popular forum, ‘Lewis Gordon is a nigger like any other nigger’. So that means that despite the achievements, there is a sector who really relishes the moment of falling. This is a conversation to be had internally in black communities.
+
+**Would you be able to talk more about the content of what Kanye said, and the possible fallacies in his use of the notions of ‘freedom’ and ‘choice’. You’ve written extensively on existentialism. How does the concept of ‘bad faith’ apply to this particular story?**
+
+The content of what he is saying strikes me as so blatantly ignorant and stupid that the fact that people are taking it that seriously is very strange. But he is one of the most influential people in the world and he’s not a stupid person.
+
+One problem with ‘bad faith’ is that it has the word ‘bad’ in it, and when people hear the word ‘bad’ they automatically collapse into moral judgments. And bad faith is a concept that is not necessarily about being immoral. There are times when people have good reasons to be in bad faith. For instance, if you’re being tortured, you might get through it by lying to yourself that what is being done is done to your body and not to you. The truth is that the torturer is torturing you. ‘Bad faith’ is the human ability to lie to ourselves.
+
+\_\_\_
+
+"You’re only free if you’re also capable of attempting to evade your freedom."
+
+\_\_\_
+
+And we have the ability to lie to ourselves precisely because we are free beings. You’re only free if you’re also capable of attempting to evade your freedom. If you were incapable of attempting to evade your freedom then your life would be overdetermined, and you would not be free. This is one of the paradoxes of human existence. To be free is also to attempt to not be free.
+
+Many people lie to themselves all the time. One of the prime examples in which we lie to ourselves is to say that we are not human beings but gods. History and myth is full of people who lie to themselves that they are greater than human, that they are gods. And already hearing this you think of Trump and you think of Kanye West.
+
+**Could you tell us more about black existentialism, and what a black existentialist answer would be to West’s concept of ‘freedom’?**
+
+‘What is it to be black, and what is that in relation to freedom?’ *—* that’s a black existential question.
+
+Black existentialism asks the philosophical-anthropological questions of what is it to be a human being, what is it to be free, and also we ask a third question - how do you justify not only what you think but even justification itself?
+
+A lot of bad science was used for colonisation purposes. The standard answer is that a lot of this isn’t the fault of science or rationality but that these were used in a bad way. But in some cases there might be more at work. Maybe we have developed a problematic way in which we understand science and rationality. Although rationality is part of how we’re able to get through the world in a predictable manner, the human world is not entirely governed by predictability. In other words, one of the things that make human beings different is that we are also able to adapt to the unpredictable.
+
+\_\_\_
+
+"The logic in Kanye’s statement is – if you’re enslaved and you don’t kill yourself, then you’re retroactively choosing your enslavement. It’s a bad logic but it’s a logic that undergirds all debates about how to live with adversity."
+
+\_\_\_
+
+So that ability to adapt to the unpredictable means that to be a human being is not just knowing how to follow the rules but it’s also knowing when it’s appropriate to break them. And this ability to know when you need to break rules is a condition of our freedom, our intelligence and our creativity.
+
+Kanye West’s statement about choice is similar to a question that a child and a parent would discuss. The child always believes that she or he has the right comeback, which is: ‘I never asked to be born.’ And at that moment the child thinks, ‘Base, got you!’ But what the parent can say back is ‘Yeah, but you choose to keep living, don’t you?’ So in that choice, you retroactively chose to be born. You could see the logic here.
+
+A similar logic is imposed in Kanye’s statement, which is – if you’re enslaved and you don’t kill yourself, then you’re retroactively choosing your enslavement. It’s a bad logic but it’s a logic that undergirds all debates about how to live with adversity. What people don’t understand is that it’s a very different thing when you’re talking about an individual life and when you’re talking about a group.
+
+In the relationship between an individual and a group, or generations, an individual has to make a decision - and I argue this decision is made through an act of love - in which that individual has to say, ‘The future transcends me but I have to do things in order to make that future possible.’ If you want to break this down, every one of us today, whether it’s Kanye West, me, you, we are a consequence of the decisions people in the past made.
+
+We can talk about enslaved people, indigenous people, the women of the past, the struggles they went through, because they made political decisions, even if they didn’t know the full ramifications of those decisions, which led to us now making our decisions about the future. So the political question is not, ‘Why didn’t they end slavery overnight?’ The truth is, they had the wisdom to understand that it was beyond themselves.
+
+Whenever I have to do anything, whether it’s intellectual work, political work, I always ask myself about our ancestors, say an enslaved woman in 1803 in South Carolina facing the question of whether there can be change. What is going through your mind if you’re part of the indigenous communities of South America or Australia. And one of the things that really struck me is that everything around those people said their actions didn’t matter. So the question is then *—* why did they act. And we know they acted because we’re here.
+
+\_\_\_
+
+"Every political action is about the cultivation of freedom because freedom and humanity ultimately are one."
+
+\_\_\_
+
+I see people such as Alicia Garza of Black Lives Matter… A lot of people think it’s just a hashtag or a rhetorical point but there was great philosophical and political insight in it. Because in mattering there is a profound act of political love through which you know you must do something and you don’t make it about you but you make it about the things to come. That’s what politics is.
+
+Politics is a commitment to actions that transcend your immediate gratification or interest. It’s always connected to others. We have to understand that every political success is connected to the larger picture. Every political action is about the cultivation of freedom because freedom and humanity ultimately are one.
+
+Now there is a difference between liberty and freedom. Liberty is a function of not having obstacles; it’s about the conditions, the possibilities. Freedom is about what we, in our ability to be creative and choose, are able to take responsibility for. Our freedom is not always in sync with the options available to us in the world.
+
+For instance, even if you’re locked in a room, the choices you make are an expression of your freedom.
+
+**So when West uses the word ‘freedom’ is he ignoring ‘liberty’?**
+
+West and Trump use the word freedom but they have no idea what they’re talking about. The problem is, they want license. They want absolute power. With license you have absolute liberty. It means you can do anything you want without accountability. It means you can kill people without accountability. Trump boasted that he could shoot someone in broad daylight in Manhattan and he’ll be fine. That is license. Because a god can do whatever a god wants.
+
+There are many understandings of gods around the world. In East Africa, which was the foundation of Judaic thought, there’s a different conception. One of the things in Judaism is that fundamentally God is ethical. The reason why there’s a rule against the idolatry of the image of God is because an image would contain God into a being, a thing. So God would be like the liberty-power thing. Another conception of God is that there is no reason for the universe to have responsibility in it. And in responsibility is accountability. So ultimately God is not a thing, it’s a relationship of responsibility for the very existence of responsibility itself. That’s what freedom is about. In other words, when you’re free, you’re accountable.
+
+Those individuals want liberty without freedom.

@@ -1,0 +1,113 @@
+---
+title: "The false religion of transhumanism"
+subtitle: "The AI death cult ruling Silicon Valley"
+author: "Àlex Gómez-Marín"
+date: "22nd November 2024"
+article_id: "3006"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "2,316 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/transhumanism-is-a-false-religion.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-false-religion-of-transhumanism-auid-3006"
+---
+
+# The false religion of transhumanism
+
+*The AI death cult ruling Silicon Valley*
+
+**By Àlex Gómez-Marín** | *22nd November 2024* | *Read time: approx. 12 mins* | *2,316 words*
+
+![The false religion of transhumanism](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/transhumanism-is-a-false-religion.webp)
+
+---
+
+*The transhumanists of Silicon Valley aim to become more than human – to copy life, edit humanity, and delete death. But Àlex Gómez-Marín argues that transhumanism is a false religion masquerading as a technological program. God is long dead, but Silicon Valley is building a digital one. And this new God, contends Gomez-Marin, is a [death-cult](https://www.youtube.com/watch?v=GIX0TYx2B6c), promoting a self-immolating future for our species, for the supposed benefit of a post-human race that shall be better equipped, happier, and live forever here on planet earth and soon depart beyond the stars.*
+
+*\**
+
+In 1963 there was an exhibition at the Bronx Zoo in New York City. It was entitled “[The Most Dangerous Animal in the World](https://en.wikipedia.org/wiki/File:Bronx_Zoo_exhibit_of_The_Most_Dangerous_Animal_In_The_World_cropped.jpg)”. In it, next to a window with bars, the following text could be read: “You are looking at the most dangerous animal in the world. It alone of all the animals that ever lived can exterminate (and has) entire species of animals. Now it has the power to wipe out all life on earth.” Behind the bars and next to such words of warning, there was a mirror where humans could see their own reflection… We are indeed the most dangerous species we know of.
+
+\_\_\_
+
+We seem to be facing an Algorithmic Invasion of fascinating dangerous bull\*\*\*\*.
+
+\_\_\_
+
+Not much has changed since then, except that Artificial Intelligence (AI) is our current dark mirror. A hall of mirrors indeed. In a secular age dominated by quasi-religious promises articulated by means of a techno-scientific rhetoric, it is thus urgent to pause and reflect upon our way forward as species. AI is a tool, some might say. Of course it is. But is it *just* a tool? We seem to be facing an Algorithmic Invasion of fascinating dangerous bullshit. How does the future human look like in the age of AI?
+
+Let us start with transhumanism, the movement that advocates for the ideological possibility (we wish), technical feasibility (we can), and moral imperative (we must) to tinker with the human condition in order to “enhance”, so they say, our species, biologically and cognitively. What is really meant by enhancing? Is it a quantitative extension of our capabilities or a qualitative elevation? Or, paradoxically, perhaps a diminishment (or an eradication) of them? We are not talking about progressive lenses or last-generation non-stick frying pans here. To make a long story short, transhumanists want to copy life, edit humanity, and delete death. This is their [“Stairway to transhumanist heaven”](https://behavior-of-organisms.org/wp-content/uploads/2024/09/gomezmarin-onkurzweil.pdf). Their proposal is “techno-califragilisticexpialidocious” (even though the sound of it is something quite atrocious). Such an ultimate ontological sleight of hand treats doing as being (“as if” as “is”) and pretends that simulation is instantiation. Counterfeit and mimicry are the new authenticity.
+
+\_\_\_
+
+To make a long story short, transhumanists want to copy life, edit humanity, and delete death.
+
+\_\_\_
+
+By pursuing the so-called technological singularity, transhumanists want to become more-than-human. Triumphantly pledging our transcendence via the machines, they seem to also want to make humanity obsolete. Or worse: to extinguish our animal species into the machine. They are indeed convinced they can solve the problem of life, the universe, and everything. But one wonders: Is language an autocomplete process? Is thought simply problem-solving? What is intelligence, after all? Is creativity automatable? Is life mechanizable? Is consciousness digitizable? Is reality a simulation? Really!?
+
+[![related-video-image](https://iai.tv/assets/Uploads/h23-15-iaitv-2.webp)
+
+SUGGESTED VIEWING
+Ancient traits in the modern world
+With Sunetra Gupta, Anders Sandberg, Subrena Smith, Güneş Taylor](https://iai.tv/video/ancient-traits-in-the-modern-world)
+
+The word “transhumanist” has an interesting story. It originates from the Italian neologism “trasumanar”, namely, “to become more than human”. It was introduced in the 14th century by the poet Dante Alighieri in the third and final part of his [Divine Comedy (Paradiso: Canto 1, Line 70)](http://dantelab.dartmouth.edu/reader?reader%5Bcantica%5D=3&reader%5Bcanto%5D=1). Dante wasn’t a transhumanist in today’s sense. Nor was Pierre Teilhard de Chardin, the Jesuit paleontologist who saw evolution as unfinished creation (the great chain of being is in a process of becoming) and introduced the so-called “Omega-point”, the final event of convergence of the universe.
+
+\_\_\_
+
+Dressed as a technological program, transhumanism offers a set of goods that are typically the province of religions: a gospel to evangelize, a series of messiahs, a prophecy (apocalypse included), and the prospects of redemption, salvation, and even liberation from the flesh, ultimately achieving immortality.
+
+\_\_\_
+
+Together with biogeochemist Vladimir Vernadsky and mathematician Édouard Le Roy, Teilhard developed the term “noosphere” a century ago: a new and higher state of development of the world’s biosphere, a sphere of mind, made of our thoughts as a collective (I wonder whether AI-powered chatbots are increasingly sophisticated “egregores” inhabiting, reflecting, or even polluting, the noosphere). Then came Julian Huxley, the British evolutionary biologist (and eugenicist!), who popularized the term “transhumanism” in 1951. He thought that mankind oversees its own destiny and that, in line with the secular humanist movements of the time, such betterment is to be accomplished by technological means alone. And then we have the tech-bros of Silicon Valley, and the rest is ongoing history, as Adam Becker clearly articulates in his upcoming compellingly titled book [“More Everything Forever”](https://www.hachettebookgroup.com/titles/adam-becker/more-everything-forever/9781541619593/?lens=basic-books).
+
+Dressed as a technological program, transhumanism offers a set of goods that are typically the province of religions: a gospel to evangelize, a series of messiahs, a prophecy (apocalypse included), and the prospects of redemption, salvation, and even liberation from the flesh, ultimately achieving immortality. As the American essayist [Meghan O’Gieblyn puts it](https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism): “what makes the transhumanist movement so seductive is that it promises to restore, through science, the transcendent hopes that science itself has obliterated”. Indeed, transhumanists want to have their scientistic secular cake and let their pseudo-religion eat it too.
+
+[![related-video-image](https://iai.tv/assets/Uploads/thubnail.webp)
+
+SUGGESTED VIEWING
+The Future Human
+With Güneş Taylor](https://iai.tv/video/an-intro-to-crispr-gunes-taylor)
+
+According to the ideology that dominates the thoughts and investments of tech-billionaires in Silicon Valley, the world is broken but they can fix it. This includes the human being and nature herself. They are determined to redeem it all, building heaven on earth even if all hell breaks loose. God is long dead, but they are building a digital one. It is going to be all-knowing, all-mighty, and present everywhere; such is the new cult of digital totalitarianism. And yet, it’s one thing to try to steal the fire from the Gods, but it’s quite another to want to replace the Gods themselves…
+
+Their metaphysics isn’t less befuddled. At times they seem to purport a sort of computational dualism (we are mental software running in biological hardware) that flickers into cramped info-idealism (all is information and computation, including our digital souls, made of zeros and ones, and ruled by cosmic codes) that lands into tiresome reductive physicalism (we are “nothing but” complicated but engineerable nuts and bolts).  The gulf between body and soul, matter and mind, or brain and consciousness —pick your “residue of unresolved positivism”, as the English philosopher Owen Barfield put it— remains unbridgeable from the outset. But, as the American inventor and prophet of transhumanism Ray Kurzweil proclaims, “at last we will have access to our own source code”. Paraphrasing the French philosopher Albert Camus (at an imaginary cameo on The Matrix film), [one must imagine Neo happy…](https://www.youtube.com/watch?app=desktop&v=iSL4Meoev2s)
+
+[![related-video-image](https://iai.tv/assets/Uploads/matrix-myths-and-metaphysics4.webp)
+
+SUGGESTED VIEWING
+The matrix, myths, and metaphysics
+With Hilary Lawson, Joanna Kavenna, Becky Parker, Eric Weinstein](https://iai.tv/video/the-matrix-myths-and-metaphysics)
+
+At the very core, I believe the problem is an anthropological one. Regardless of technological fireworks, theological copycats, and metaphysical hangovers, the key question is not so much whether machines can become conscious and/or will take over the world (ushering utopia, dystopia, or ectopia). The central question is this: what is a human being? We are back to Plotinus in asking: [“But we — who are we?”](https://www.loebclassics.com/view/plotinus-enneas/1966/pb_LCL445.317.xml) This is an impossible question whose answer I can only hope to somewhat hint here, perhaps apophatically, namely, by emphasising who we are not.
+
+Betraying James Bond’s admonition, the transhumanist cocktail of Eros and Thanatos is shaken but also stirred. Let me explain. The life drive and death drive principles (namely, Eros, the Greek god of love and desire, and Thanatos, the personification of death) are emulsified. On the one hand, transhumanists crave a transmuted intercourse between humans and machines; to literally merge our bodies with nano-tech and our minds with info-tech. Rather than aspiring to be one with their creator (if there is one), they dream of merging with their own creations (Promethean incest?), including [literally having sex with their mechanically/digitally resurrected deceased loved ones](https://www.thesingularityisnearer.com/). On the other hand, the movement is a kind of [death-cult](https://www.youtube.com/watch?v=GIX0TYx2B6c), articulating and promoting a self-immolating future for our species, for the supposed benefit of a post-human race that shall be better equipped, happier, and live forever here on planet earth and soon depart beyond the stars.
+
+The transhumanist rhapsody is also a tragicomedy: those who cause the problems sell us their solutions too. That’s [left-brain thinking](https://channelmcgilchrist.com/matter-with-things) at “its best”. The business plan is hackneyed but it works: create the disease together with the tools to treat the symptoms, never the cause. The dangers of AI and the derangements of transhumanism (TH) are better understood in the light of EA, which stands for “effective altruism”. The initial motivation sounds quite fair: what’s the best use of one’s resources to help others? But, amongst a great deal of affluent chaps in the tech industry, the movement has morphed into something like this: in order to help the poor and save the world let us get obscenely rich and filthy powerful first.
+
+If we then add EL, another sacrosanct abbreviation, which stands for “extreme longtermism”, the conceptual concoction is crazed. Ethics is turned into an ultra-rational optimisation calculus where reason loses its mind. This is how they bargain with the future: they imagine million trillion quadrillions of potential future (trans)humans literally living in silicon chips (here on Earth but ultimately escaping our home –it’s a cradle, even a prison, for them– and spreading everywhere in the galaxy). And so, according to their “risk assessment”, we should “existentially” care for those unborn gazillions more for than the people actually living here now. Thus, their EL concludes that the best thing to do is to use EA to fund AI on steroids to push TH, even if that entails killing our own species in the process (or “simply” neglecting real problems like hunger, health, war, polarization and so on). Dystopia to achieve utopia is not just fine, it is the rational and right thing to do. That’s a deadly step for humanity, a giant leap for post-mankind.
+
+Such is the sinister inversion of good and evil in our post-truth (and post-trust) world, where mass confusion, conflict, collusion, and conspiracy (the 4Cs) reign at all levels. But even if such a truss of demented ideologies (also known as [the TESCREAL bundle](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares)) is shown to be wrong, even if they pay (and buy) lip service to it without truly believing in it, the irony is that such cosmic technocrats continue to increase their wealth and power. Paraphrasing Groucho Marx, this is my apocalypse and if you don’t buy it… well, I have “capitalypse”. Welcome to techno-spiritual colonialism with totalitarian aspirations and colossal return-on-investment expected. There is something biblically scary about Large Language Models: “The beast was given the power of speech…and authority over every tribe, people, language and nation.” (Revelations 13:5-7).
+
+\_\_\_
+
+The “hard problem” of transhumanism thus becomes the “real problem” of an unprecedented global monopoly that is trumping our democracies while we hand over our privacy, dignity, and freedom with a smiley emoji.
+
+\_\_\_
+
+[![related-video-image](https://iai.tv/assets/Uploads/ai-and-the-end-of-humanity.webp)
+
+SUGGESTED VIEWING
+AI and the end of humanity 
+With Liv Boeree, Güneş Taylor, Joscha Bach, Eliezer Yudkowsky, Scott Aaronson](https://iai.tv/video/ai-and-the-end-of-humanity)
+
+Note how they frame the situation as “unavoidable”, rather than as mainly “unavoided”. The genie is out of the bottle, “AI-laddins” experts say. Plus, “if we don’t do it, somebody else will”; it a zero-sum game all the way down and all the way up with negative consequences for us all. And yet there are relevant examples –such as human cloning, atomic bombs, and biological weapons– where we have collectively said “no!”, as opposed to “well, yes, maybe, let us go ahead, and see what happens”. It is also quite dishonest that these inventions are designed to be misleading, greedy and disruptive while their own creators appear both unsurprisingly surprised and surprisingly unsurprised. They love talking about “AI safety”, rather than “ethics”. They present cool “uses” as poor “excuses” for domination. Have we decided to delegate not only our intelligence but also our attention, emotions and creativity to big-tech? AI will soon also stand for Artificial Intimacy and Intuition. We are having irreversible surgery performed on our minds. The “hard problem” of transhumanism thus becomes the “real problem” of an unprecedented global monopoly that is trumping our democracies while we hand over our privacy, dignity, and freedom with a smiley emoji.
+
+In that sense, the dilemma between utopia and dystopia is a trick of misdirection. Picking optimism versus pessimism is one-dimensional thinking. I am not proposing a two-alternative forced choice between Silicon or Amish ways of living either. Nor do I appeal to the affective trilogy of hope, cope, and dope. Unfortunately, much like in current politics, “the left has left us” and “the right isn’t right either”. We must find the excluded virtuous middle. My parting thoughts briefly allude to preferable alternatives, but not necessarily merry ones (life is not a Hollywood movie!).
+
+Let me end with three quotes. First, an excerpt of Pope Francis’ latest encyclical letter, [*Dilexit Nos*](https://www.vatican.va/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html): “In this age of artificial intelligence, we cannot forget that poetry and love are necessary to save our humanity...All these little things, ordinary in themselves yet extraordinary for us, can never be captured by algorithms. The fork, the joke, the window, the ball, the shoebox, the book, the bird, the flower: all of these live on as precious memories “kept” deep in our heart.” Second, one for scientists and engineers by the true futurist Nikola Tesla: “Science is but a perversion of itself unless it has as its ultimate goal the betterment of humanity”. Third, a call for artists by the [folk hero Terence McKenna](https://www.youtube.com/watch?v=JzIUNQ9HxzU): “The artist’s task is to save the soul of mankind; and anything less is a dithering while Rome burns…if the artists cannot find the way, then the way cannot be found.”
+
+I will leave you with this question: What will you tell your granddaughters when they ask you what you did when there was still something to be done about this mess we are in?

@@ -1,0 +1,95 @@
+---
+title: "Dostoevsky vs Tolstoy: The Limits of Language"
+subtitle: "Ineffability and incarnation"
+author: "John Givens"
+date: "25th September 2024"
+article_id: "2955"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "2,146 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/doestoevsky-vs-tolstoy2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/dostoevsky-vs-tolstoy-the-limits-of-language-auid-2955"
+---
+
+# Dostoevsky vs Tolstoy: The Limits of Language
+
+*Ineffability and incarnation*
+
+**By John Givens** | *25th September 2024* | *Read time: approx. 11 mins* | *2,146 words*
+
+![Dostoevsky vs Tolstoy: The Limits of Language](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/doestoevsky-vs-tolstoy2.webp)
+
+---
+
+*Leo Tolstoy and Fyodor Dostoevsky had radically different accounts of religion and its relation to language. In this piece, Professor of Russian John Givens argues that while Tolstoy attempted to create a practical version of Christianity by using readily comprehensible language purged of mysticism to describe the world, it is ultimately Dostoevsky and his language-transcending mysticism which provide readers with a more meaningful account of what it means to embody religion and act in the world accordingly.*
+
+Leo Tolstoy and Fyodor Dostoevsky spent the last decades of their lives convinced that the atheism of the nascent revolutionary movement in nineteenth-century Russia and across Europe was both wrong and harmful. However, each struggled with how to articulate their belief in God to a public which increasingly either rejected the idea of faith or viewed religion as a cultural rather than a spiritual force: a set of rituals and practices rather than deeply held beliefs. The problem was one of language. In an age of scepticism and rising secularism, how can one affirm belief without engaging in naïve apologetics? And how does one separate belief from religion? Having rejected the Church as one of the chief obstacles to understanding Jesus’ teachings, Tolstoy certainly had no interest in defending Russian Orthodoxy, though he was passionately committed to the Gospels. Dostoevsky, too, was much more fervently interested in Jesus than the Church that had been founded in his name. Explaining their ardent beliefs in God and Jesus, however, was not easy. Language got in the way.
+
+\_\_\_
+
+The difficulty is that faith, like God, is largely ineffable.
+
+\_\_\_
+
+In a letter at age 33, having just finished serving four years of hard labour, Dostoevsky admitted that he was “a child of this century, a child of doubt and disbelief,” but he also described a “symbol of faith” he had formed in which all was “clear and sacred.” He writes: “This symbol is very simple and here is what it is: to believe that there is nothing more beautiful, more profound, more sympathetic, more reasonable, more courageous, and more perfect than Christ; and there not only isn’t, but I tell myself with a jealous love, there cannot be. More than that – if someone succeeded in proving to me that Christ was outside the truth, and if, *indeed*, the truth was outside Christ, I would sooner remain with Christ than with the truth.” Here, the problem with language is on full display. Carried away by the ardour of his conviction, Dostoevsky strays into problematic theological territory, for a Christ “outside the truth” is, presumably, a non-divine Christ. It seems that Dostoevsky has inadvertently undermined his “symbol of faith” at its inception.
+
+[![related-video-image](https://iai.tv/assets/Uploads/23-01-04-Dostoevsky-vs-Nietzsche.tn3.dwk.webp)
+
+SUGGESTED VIEWING
+Dostoevsky vs Nietzsche
+With Niki Seth-Smith, Janne Teller, Oliver Ready, Kathleen Higgins](https://iai.tv/video/dostoevsky-vs-nietzsche)
+
+The difficulty is that faith, like God, is largely ineffable. It can’t be defined. In fact, what Dostoevsky has done – wittingly or not – is to provide his symbol of faith with a theological “loophole”: a term the distinguished literary critic Mikhail Bakhtin, writing about Dostoevsky’s prose, called “the retention for oneself of the possibility of altering the ultimate, final meaning of one’s words.” On the one hand, Dostoevsky’s faith in Jesus is so great that he will not renounce it for anything. On the other hand, and rather surprisingly, he reserves the right to reorient what he means by faith into regions of unbelief, making of Christ a strictly secular perfection. Ultimately what he has done is to suggest that declarations about Christ should (must?) contain their own negation, lest they limit the Godhead. The thrust is apophatic: we approach knowledge of the Godhead through negative assertions because positive epithets – defining the divine – fall short and, in any case, limit the limitless one. All we can truly say about God is what God is not.
+
+\_\_\_
+
+Conceptualisation fails when you attempt to say what God is. Language is inadequate to the task.
+
+\_\_\_
+
+Tolstoy knew all about this. His understanding of God is quintessentially apophatic. “A God of whom one can ask things and whom it is possible to serve is an expression of weakness of mind,” he wrote in his diary in 1860. “He is God precisely because I can’t imagine to myself his whole being.” Forty years later, in his “Thoughts on God,” he stated, “God is for me that after which I strive, that the striving after which forms my life and who, therefore, *is* for me; but he is necessarily such that I cannot comprehend or name him.” Conceptualisation fails when you attempt to say what God is. Language is inadequate to the task. “It is easier and simpler to understand the eternal existence of the entire world with its incomprehensibly beautiful order than to understand a being which created it,” he wrote in a July 8, 1853 diary entry.
+
+To Tolstoy, this made sense, and in all things, he privileged reason. It is reasonable to acknowledge that if God exists, God must be ineffable. But that Jesus was divine and produced miracles and founded a Church with seven sacraments and so on Tolstoy found to be utterly unbelievable. Rejecting these teachings, however, he nevertheless discovered in Jesus’ Gospels “a very strict, pure, and complete metaphysical and ethical doctrine, higher than which the reason of man has not yet reached.” It was a life-changing encounter, one he wanted to share. The challenge was to communicate in simple language the essence of Jesus’ Gospels, separating what was reasonable from what was not, so that all could read and be enlightened. Tolstoy undertook this task in 1880, having passed through a crisis of faith that was, in fact, a long time coming. He harmonised and condensed the four gospels with the goal of achieving a long-held dream of re-imaging “the religion of Christ but purged of beliefs and mysticism” in order to create “a practical religion, not promising future bliss but giving bliss on earth.”
+
+[![related-video-image](https://iai.tv/assets/Uploads/AM-studio.thumbnail.webp)
+
+SUGGESTED VIEWING
+Science, religion and the quest for reason
+With Alister McGrath](https://iai.tv/video/science-religion-and-the-quest-for-reason)
+
+The first task was to remove all mention of Jesus’ supernatural conception and resurrection, all instances of his raising the dead, the healing of the sick, the casting out of devils, his walking on water, and all references to prophecies fulfilled by his life. What miracles he did include were those that could be rationally explained or reworded in such a way as to reveal their non-supernatural nature. Jesus did not, for instance, miraculously multiply five loaves and two fish; instead, the five thousand people present simply shared amongst themselves the food they had brought. Jesus did not restore a blind man’s sight; rather, blindness was a metaphor for the man’s ignorance. Upon listening to Jesus, he “saw the light.” He was blind (to the truth), and now he could see. Tolstoy favoured comprehensibility – achieved through the strict and ordered use of language. God may be ineffable, but the way to God is not. Language is key.
+
+Admittedly, Tolstoy’s attempts to provide alternate explanations for miraculous or mystical moments in the Gospels led to some tortuous logic. Jesus’ invocation at the Last Supper to “eat his body and drink his blood” is explained thusly:
+
+Instead of rebuking and accusing the traitor, whom he knows, Jesus gives him to eat and drink from his hands together with the others, and says that he is a traitor who will eat and drink this bread and wine, knowing that he is giving up my body to death and is getting ready to shed my blood: this traitor will not eat bread, but my body; he will not drink wine, but my blood.
+
+\_\_\_
+
+Tolstoy’s point – like that of Thomas Jefferson before him, who also produced a harmonised secular Gospel of Jesus – is to convey “a teaching which gives us the meaning of life.”
+
+\_\_\_
+
+This act, Tolstoy argues, is the institution of the doctrine of non-resistance to evil, “to repay [evil] with good, to give up our life – to give the blood to those who drink it, and in this does my testament consist.” To understand Jesus’ invocation to eat his body and drink his blood literally is to produce “something savage, the like of which will not be found in any savage religion.”
+
+Tolstoy’s point – like that of Thomas Jefferson before him, who also produced a harmonised secular Gospel of Jesus – is to convey “a teaching which gives us the meaning of life.” Two things stand in the way of this: the miracles and fulfilled prophecies attributed to Jesus that have led to beliefs and practices the teachings of Jesus never promoted; and the worship of Christ as God. Indeed, Tolstoy lamented that “if Christ’s teaching, with the Church teaching which has grown out of it, had not existed at all, those who now call themselves Christians would be nearer to the truth of Christ.”
+
+Dostoevsky was familiar with claims that Jesus was a non-divine moral teacher, not from Tolstoy (he died before Tolstoy could make them), but from the materialist thinkers of his day (Belinsky, Herzen, Chernyshevsky). The danger, as he saw it, was that you cannot divorce Jesus’ teachings from his divinity without the risk of making them merely man-made laws. In any case, the teachings and Christ’s divinity are inextricably linked. In his notebooks for *Demons*, Dostoevsky writes, “Many people think it is enough to believe in Christ’s moral teaching to be a Christian. It’s not Christ’s morality, or his teaching, that will save the world, but faith in the fact that the word was made flesh. . .  What one must believe is precisely the notion that this is the ultimate ideal of man, that the word is incarnate, that God has become incarnate.”
+
+\_\_\_
+
+God’s high and hard commandments must become part of our very nature, that is, incarnated in us.
+
+\_\_\_
+
+For one thing, as Dostoevsky showed time and time again in his fiction, without the grace of the Godman Jesus Christ, none of the teachings in the Gospels can actually be fulfilled. Tolstoy made five of Jesus’ teachings from the Sermon on the Mount the centrepiece of his refashioned Christian faith: do not be angry, do not lust, do not swear any oaths, do not resist evil, love your enemies. Fulfil these “very simple definite commands,” Tolstoy argued, and you can establish the Kingdom of God on earth. And yet, these “simple definite commands” are not at all simple to fulfil. For one thing, Christ’s injunctions all go against human nature, for they show how God loves, not how human beings do. Isn’t the whole point of the Sermon on The Mount that Jesus took the Ten Commandments and made of them a far more demanding set of moral directives? Jesus says, “You were taught, ‘you shall not kill,’ but I say to you whoever is angry is liable to judgment. You were taught, ‘you shall not commit adultery,’ but I say to you whoever looks at someone with lust has already committed adultery,” and so on. We may well ask, along with the disciples, who, then, can be saved? And the answer, as Dostoevsky well knew, is that anything is possible with God. The teaching and the Saviour are intertwined. One cannot be divorced from the other. Jesus does not simply *show* the way (as per Tolstoy); he *is* “the way, the truth, and the life” (John 14:6) because he is the ideal that humanity must strive to achieve. God’s high and hard commandments must become part of our very nature, that is, incarnated in us. The lesson of *The Brothers Karamazov* –passed on by the Elder Zosima –that we are all responsible for everything and for all, begins and ends not in Christ’s teachings but in this notion of human participation in the divine incarnation. The Orthodox have a name for this: *theosis*, the sharing of the human person in the life of God, that is, the spiritualisation of the self to achieve likeness to God.
+
+\_\_\_
+
+While Tolstoy articulated in new and startling fashion Jesus’ otherworldly teachings, he did so without ever telling us how we might follow them. In contrast, Dostoevsky showed us through his incarnational poetics what living like Christ might actually look like.
+
+\_\_\_
+
+Both Tolstoy and Dostoevsky strove to partake in the life of God. But Dostoevsky described characters who seem able to do this on a daily basis. Sonya Marmeladova in *Crime and Punishment*, Prince Myshkin in *The Idiot*, Alyosha Karamazov and Father Zosima in *Brothers Karamazov* are all vivid examples of believers who have actively made the word of God flesh. They do not just live according to the teachings of Christ but, thanks to their acquired likeness to the Saviour, embody them and move and act in the world accordingly. While Tolstoy articulated in new and startling fashion Jesus’ otherworldly teachings, he did so without ever telling us how we might follow them. In contrast, Dostoevsky showed us through his incarnational poetics what living like Christ might actually look like. Thus, Dostoevsky transcended the limits of language in a way that Tolstoy struggled to do in retranslating the Gospels for a refashioned Christianity.

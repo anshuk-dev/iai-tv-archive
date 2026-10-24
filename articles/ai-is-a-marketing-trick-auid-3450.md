@@ -1,0 +1,108 @@
+---
+title: "AI is a marketing trick"
+subtitle: "How Silicon Valley forgot what intelligence actually means"
+author: "Aleksandra Przegalińska"
+date: "22nd December 2025"
+article_id: "3450"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,700 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AI-is-a-marketing-trick2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/ai-is-a-marketing-trick-auid-3450"
+---
+
+# AI is a marketing trick
+
+*How Silicon Valley forgot what intelligence actually means*
+
+**By Aleksandra Przegalińska** | *22nd December 2025* | *Read time: approx. 9 mins* | *1,700 words*
+
+![AI is a marketing trick](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/AI-is-a-marketing-trick2.webp)
+
+---
+
+*Tech giants promise AI’s ability to “understand” and “reason,” and even the dawn of AGI. Yet philosopher and futurist, **Aleksandra Przegalińska**, argues that today’s models remain powerful pattern-matchers, not thinking machines. She warns that the collapse of conceptual precision in AI discourse has inflated expectations, obscured limitations, and encouraged dangerous deployments. To grasp what these systems can genuinely do—and what they fundamentally cannot—we must return to philosophical clarity about the nature of intelligence.*
+
+When [a chatbot passes a bar exam](https://law.stanford.edu/2023/04/19/gpt-4-passes-the-bar-exam-what-that-means-for-artificial-intelligence-tools-in-the-legal-industry/), tech companies announce the dawn of artificial general intelligence. When [an algorithm recognizes cats in photographs](https://www.bbc.co.uk/news/technology-18595351), we’re told machines now “understand” visual information. When a language model generates coherent text, Silicon Valley proclaims we’ve achieved “reasoning” at scale. But have we really? Or have we simply witnessed one of the most successful marketing campaigns in technological history?
+
+The contemporary discourse around artificial intelligence seems to be suffering from a profound philosophical crisis. Big tech companies have stretched AI-related terminology beyond recognition, distorting incremental advances in machine learning as revolutionary breakthroughs in intelligence. This isn’t merely semantic pedantry: it represents a dangerous erosion of conceptual clarity that obscures [AI’s limitations](https://iai.tv/articles/ais-growing-threat-to-challenging-ideas-auid-3089) and inflates public expectations of what it can and should be used for.
+
+\_\_\_
+
+Terminological inflation serves corporate interests remarkably well.
+
+\_\_\_
+
+As someone who researches human-machine interaction from both philosophical and empirical perspectives, I’ve watched with growing concern as the term “artificial intelligence” has been weaponized by marketing departments and venture capitalists, detached from any rigorous foundation about what intelligence actually entails. If we’re serious about understanding AI’s potential and limitations, we need to begin where all clear thinking must: with precise definitions and honest epistemological frameworks.
+
+The meaning of “AI” has expanded radically over the past decade. Once reserved for systems that might genuinely exhibit general intelligence, the ability to reason and adapt across domains, the term now applies to virtually any software involving statistical pattern recognition. Your email spam filter? AI. Netflix recommendations? AI. The autocorrect on your phone? Groundbreaking AI.
+
+This terminological inflation serves corporate interests remarkably well. Labeling a product “AI-powered” attracts investment, justifies higher pricing, and generates media coverage. But it does so by exploiting a fundamental ambiguity about what these systems actually do. When companies describe their machine learning algorithms as “intelligent,” they’re making an implicit philosophical claim about the nature of cognition—one they’ve neither defended nor, in most cases, even acknowledged.
+
+The philosopher John Searle famously distinguished between syntax and semantics in his (now famous) Chinese Room thought experiment. A system can manipulate symbols according to rules (syntax) without understanding what those symbols mean (semantics). Today’s large language models are sophisticated Chinese Rooms: they process linguistic patterns without genuine comprehension. Yet tech companies routinely describe these systems as “understanding” language, “reasoning” about problems, or even developing “knowledge.”
+
+This isn’t just hairsplitting. When we claim that systems “understand” or “know,” we’re making predictions about their reliability, generalization capabilities, and appropriate applications. A system that genuinely understands medical diagnosis should perform reliably across populations and contexts. A pattern-matching algorithm trained primarily on data from one demographic will systematically fail when deployed more broadly, as numerous studies of algorithmic bias have demonstrated.
+
+[![related-video-image](https://iai.tv/assets/Uploads/wepb.webp)
+
+SUGGESTED VIEWING
+The AI enigma
+With Cory Doctorow, Joscha Bach, Mazviita Chirimuuta](https://iai.tv/video/the-ai-enigma)
+
+Nonetheless, companies present incremental improvements within these limited systems as paradigm-shifting breakthroughs. Each new iteration of a large language model is announced with revolutionary rhetoric, despite often representing marginal improvements in statistical performance on narrow benchmarks.
+
+GPT-4 generally performs better than GPT-3.5 on certain tasks (this, however, and oddly enough, is not replicated when comparing GPT-4 to GPT-5 where the latter performs significantly worse on a variety of tasks). This represents genuine technical progress: better optimization, more training data, refined architectures. But calling each iteration a “breakthrough” toward artificial general intelligence fundamentally misrepresents the nature of this progress. These are improvements in degree, not kind. They’re making existing techniques more efficient and effective, not creating genuinely new forms of machine cognition.
+
+Compare this to Einstein's development of relativity, genuinely revolutionary science that fundamentally reconceptualized space, time, and gravity. Einstein didn't just improve Newtonian mechanics; he revealed its conceptual limitations and proposed a radically different framework. His philosophical sophistication, as Massimo Pigliucci has argued, enabled him to recognize when incremental improvements were insufficient and conceptual revolution necessary.
+
+\_\_\_
+
+Perhaps most troubling, the hype systematically obscures current AI technologies’ very real limitations.
+
+\_\_\_
+
+Contemporary AI research largely operates within a single paradigm: deep learning and statistical pattern recognition, systems that learn by identifying patterns in vast datasets using multi-layered networks. Within this paradigm, we’ve seen remarkable advances. But progress within this paradigm shouldn’t be confused with the paradigm-shifting progress we might consider revolutionary. Calling every new model architecture “revolutionary” debases the term and prevents us from recognizing when genuine conceptual breakthroughs occur.
+
+Yet AI marketing hype consistently makes this claim, and it has systematic downstream consequences. When companies oversell AI capabilities, they inflate public expectations in ways that inevitably lead to disappointment and, more dangerously, inappropriate deployment.
+
+For years, tech companies promised that fully self-driving cars were “just around the corner,” first by 2015, then 2018, then 2020, now sometime vaguely in the future. This wasn’t entirely harmless optimism; it shaped regulatory decisions and public perceptions of road safety. Marketing “Full Self-Driving” capabilities for a system that requires constant human supervision takes terminological inflation to potentially risky consequences.
+
+Or consider healthcare AI. Systems marketed as achieving “doctor-level” diagnostic accuracy often turned out to work only under carefully controlled conditions that don’t reflect the messier complexity of clinical reality. A model trained to detect pneumonia from chest X-rays might actually be detecting the metal tokens placed on images taken in ICU beds, learning a statistical correlation rather than genuinely “understanding” pathology. When we depend on these systems based on inflated claims of their capabilities, the consequences can start to become matters of life and death.
+
+Perhaps most troubling, the hype systematically obscures current AI technologies’ very real limitations. Consider what contemporary machine learning systems fundamentally *cannot* do. They cannot engage in genuine causal reasoning, understanding not just that *X* and *Y* correlate, but why. They cannot reliably generalize beyond their training distributions. They cannot explain their “reasoning” in ways humans can audit. They cannot handle genuinely novel situations that fall outside their training data. They cannot weigh incommensurable values or make ethical judgments. Statistical pattern recognition, no matter how sophisticated, differs fundamentally from understanding, which entails operating not just from patterns but context and [meaning](https://iai.tv/articles/the-japanese-philosophy-that-could-save-us-from-ai-auid-3356).
+
+Yet rather than honestly acknowledging these limitations, companies deploy euphemisms. Systems aren’t “wrong.” Instead, they exhibit “hallucinations”—a term that anthropomorphizes failures to obscure more fundamental limitations. They don’t have “biases.” Instead, they reflect “data artifacts”—a term that deflects responsibility for downstream harms by framing bias as technical problems in the training data.
+
+Sometimes, the lack of precision used in describing AI is deployed to cover up its shortcomings. At root, though, it has arisen from widespread terminological inflation. Consider the differences between:
+
+• Narrow AI (systems designed for specific tasks) and general AI (hypothetical systems with human-like broad intelligence)  
+• Pattern recognition (statistical correlation) and causal reasoning (understanding mechanisms)  
+• Optimization (finding solutions that maximize defined objectives) and judgment (weighing incommensurable values)  
+• Prediction (extrapolating from training data) and understanding (grasping underlying principles)
+
+These are critical distinctions for determining what AI systems can and cannot legitimately do. Yet tech companies systematically elide them. Marketing materials describe “AI solutions” without specifying whether they involve simple rule-based systems, statistical classifiers, deep neural networks, or reinforcement learning, architectures with radically different capabilities and limitations.
+
+How, therefore, do we move beyond the hype toward an honest assessment of AI capabilities? We need what Einstein possessed: philosophical rigor about the relationship between our conceptual frameworks and empirical reality.
+
+\_\_\_
+
+The AI hype machine has been enabled by a collective abandonment of rigorous thinking about what intelligence means, what computers can actually do, and what questions we should be asking about these technologies.
+
+\_\_\_
+
+First, we must insist on terminological precision. Reserve “intelligence” for systems that can prove genuine [understanding beyond mere pattern-matching](https://iai.tv/articles/googles-ai-is-not-sentient-not-even-slightly-auid-2153). Distinguish clearly between performance on narrow, specific tasks and general cognitive capability. Describe what systems actually do, such as process statistics or classify inputs, rather than [anthropomorphizing them with terms like “understand” or “think.”](https://iai.tv/articles/ai-is-not-intelligent-auid-2519)
+
+Second, we need epistemic humility about what performance on benchmarks actually demonstrates. A system that achieves 99% accuracy on a test set hasn’t necessarily “learned” anything generalizable. It may have simply memorized statistical patterns specific to that dataset. Genuine understanding requires robust performance across contexts, populations, and formulations of problems, something current systems rarely achieve.
+
+Third, we must recognize that many AI applications involve not just technical but philosophical questions. When we deploy algorithmic decision-making in criminal justice, we’re not just predicting recidivism, but drawing from highly complex and intensely contested concepts of justice and human behavior. These questions cannot be resolved through better engineering; they require explicit decisions about ethical principles, and we need to do our own reasoning to be certain about what those principles are.
+
+Finally, we need regulatory frameworks that enforce honesty in claims of AI capability. Just as pharmaceutical companies have to provide evidence for their claims of what a drug or medical device can do, AI companies should be required to demonstrate that their systems can actually do what their marketing materials promise, tested against realistic conditions, across diverse populations, and with transparent methodology.
+
+The AI hype machine has been enabled by a collective abandonment of rigorous thinking about what intelligence means, what computers can actually do, and what questions we should be asking about these technologies. Intelligence is more than statistical correlation at scale. It involves understanding, generalization beyond training data, causal reasoning, and judgment that can flexibly weigh competing priorities and values. These are capabilities that remain far beyond current AI systems.
+
+Without philosophical precision, the kind of conceptual rigor that enabled Einstein's breakthroughs, we're condemned to cycles of hype and disappointment, inappropriate deployment and avoidable failure, inflated promises and obscured limitations. The stakes are too high for such intellectual sloppiness. Whether AI systems get deployed in healthcare, criminal justice, education, or employment, their impacts on human lives demand that we describe their capabilities with unflinching honesty.
+
+The technology industry has always trafficked in optimism, but if we want to realize AI’s genuine potential, and there is genuine potential, we must begin by speaking truthfully about what these systems can and cannot do. That requires recovering the philosophical precision that the hype machine has eroded.

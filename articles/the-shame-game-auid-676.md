@@ -1,0 +1,54 @@
+---
+title: "The Shame Game"
+subtitle: "Today's Twitter scandals can seem as backward as the pillory. Why this curious shame about shame?"
+author: "John Milbank"
+date: "16th May 2016"
+article_id: "676"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,131 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/John-Milbank-50.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-shame-game-auid-676"
+---
+
+# The Shame Game
+
+*Today's Twitter scandals can seem as backward as the pillory. Why this curious shame about shame?*
+
+**By John Milbank** | *16th May 2016* | *Read time: approx. 6 mins* | *1,131 words*
+
+![The Shame Game](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/John-Milbank-50.webp)
+
+---
+
+Shame today has been dangerously trivialised. It has become a weapon of private war – a constant and cowardly emission of spite and bile through the air-waves. Children, teenagers and even adults are now ready to globally expose the physical foibles and embarrassments of their temporary enemies. They are also ready to reveal to all and sundry their chance unfortunate remarks. These things can lead to long term despair and suicide. They are literally murderous.
+
+Equally, shame is attached to remarks held to reveal positions about which we are supposed to feel guilt – remarks deemed elitist, sexist, racist, homophobic, islamophobic and so forth. These are seen as abusive in relations to various notions of assumed human right, but the focus on outward shame suggests that rights themselves are now reduced to the correct categorisations and formalisations in mere words. In this way the prime public sin is becoming one of usage rather than deed. Once again this attachment of severe blame to passing or chance remarks scan be extremely violent – careers and relationships are sometimes ruined as a result.  Just as Twitter has reduced reflection to instant emoting, so our judgement of people is being diverted from viewing their records in the round towards castigation of momentary lapses. This seems like a reversion to morality and legality as the breaking of taboo – though in a manner far cruder than the way in which taboo anciently worked.
+
+But ironically, this double abuse of shaming is a mark of our shamelessness. Many people pursue lives wholly without honour in the greedy pursuit of wealth and fame and as result are celebrated instead of shamed – enjoying the plaudits of the quasi-honouring which is fashion.
+
+So we need both more real shaming and none of the fake variety. Real shaming is the reverse face of honouring and we require a culture that honours the true pursuit of human flourishing for oneself and others. The pursuit of the good and true and beautiful. If there were such honouring, as with most human societies hitherto, then people would wish to be recognised in this way because to pursue instead false goals would risk public shaming and then, no doubt, a loss of even worldly goods in consequence.
+
+Understood in this fashion, shame is not, as so often thought, to be strongly distinguished from guilt. Shame is rather about those public actions, including ones lacking in an appropriate style and timing, concerning which we should indeed, in various ways and in various degrees feel guilty. This is again the reverse face of the fact that honour is but the outward aspect of virtue, its showing forth, without which it cannot fully be at all. The good must be seen to be done as well as be done, just because the ethical is relational. Thus to be secretly virtuous is never enough – our deeds must be recognised in order to produce fruit, and if they are misrecognised, and innocence is read as guilt, then it is always important, even for our inner being and self-regard, that that be corrected. Similarly shame must be aligned with real guilt, if there is to be a valid shaming.  
+  
+\_\_\_
+
+"Morality has been reduced to the offending of a social conversational norm. People now feel shame more than guilt "  
+\_\_\_
+
+Today, by contrast, shame and guilt are sundered, with once more a reversion to the primitive of which the true ‘primitives’ were never guilty. We are supposed to be more embarrassed by visible and auditory revelations of our bathroom and sexual lives than by our narcissism and habitual meanness. But it is the latter ‘exposures’ of our inner poverty of which we should really be ashamed. Here the ancient cynics and the ‘holy fools’ of Russian literature can indeed teach us that the former revelations are worth little more than a blush and shared laughter. It is rather the latter that we should not allow each other to get away with.
+
+But this does not mean that the inward and not the outward should be the subject of true shame. Honour and shame are always about the outward and a showing forth, whether as deed or as corresponding public celebration. Defecation and copulation are not intrinsically disgusting, though they can be in certain contexts. But the idea that disgust is not of moral relevance, as some moral philosophers like Martha Nussbaum now suggest, should be refused as dangerously unthinking. It tends for one thing to suggest that our corporeal and emotional responses are irrelevant in the ethical field, and this ignores our holism as rational creatures. Without disgust, how would we any longer discern that some actions are wrong or even wicked simply as inappropriate? This is true of adults trying to have ‘sex’ with children – it is not simply wrong because children are supposed to be unable fully to consent to this. That argument is obviously far too flimsy. Similarly, our uneasy sense that there is something grotesque about disabled athletics (a nonetheless tremendous contemporary achievement) more and more being presented as public spectacle, is a valid indicator of a covert celebration and promotion of the biotechnical at work here, rather than a simple restoring of pride to the unfortunate.
+
+If shame has been now divorced from guilt and morality, guilt has also been reduced to shame in the mode of the culture of the politically correct policing of language in terms of rights, already considered. Here the ‘wrong’ is reduced to a punctiliar instance of failure and then further reduced to an incorrect verbal formulation. And the response to the defaulter is not the helpful one of trying to get him to see her guilt and to change, but rather of semi-permanent banning from polite society. Correspondingly, morality is reduced to the offending of a social conversational norm and naturally, with respect to that people feel shame more than guilt and perhaps conform to the norm only hypocritically.
+
+Instead of all this, we need to judge people more in terms of their living whole lives of strong and beneficial relation to others. Such lives are honourable and deserve honouring. Failure to do so should result mostly in assistance and not chastising. Yet one cannot exclude shaming entirely from this picture in extreme instances. And more habitually, a failure to respect and honour others and so to lapse in public virtue will automatically bring forth certain disdainful responses likely to incite a degree of shame in all but the most chronically insensitive.
+
+However, if we approached shame in this fashion, our judgements of others would be likely to be far more reserved and fearful than the current epidemic of instantaneous and cruelly unconsidered verdicts.
+
+**On Thursday 31st May, John Milbank is debating on the subject of [The Shame Game](https://howthelightgetsin.iai.tv/events/the-shame-game-2317),****as part of HowTheLightGetsIn, the philosophy and music festival at Hay.**  
+  
+[**Book your tickets here.**](https://howthelightgetsin.iai.tv/festival-passes)

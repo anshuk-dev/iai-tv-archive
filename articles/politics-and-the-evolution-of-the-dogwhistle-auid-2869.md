@@ -1,0 +1,93 @@
+---
+title: "Politics and the evolution of the dogwhistle"
+subtitle: "Free speech cannot be taken at face value"
+author: "Jennifer Saul"
+date: "19th June 2024"
+article_id: "2869"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,714 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/dogwhistles-and-free-speech.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/politics-and-the-evolution-of-the-dogwhistle-auid-2869"
+---
+
+# Politics and the evolution of the dogwhistle
+
+*Free speech cannot be taken at face value*
+
+**By Jennifer Saul** | *19th June 2024* | *Read time: approx. 9 mins* | *1,714 words*
+
+![Politics and the evolution of the dogwhistle](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/dogwhistles-and-free-speech.webp)
+
+---
+
+*The debate around free speech is back in full swing, but can you debate someone who isn't actually meaning what they say? Jennifer Saul and Ray Drainville argue that as technology and platforms evolve, so do dogwhistles, the method political actors seek to rally support and build movements that would be rejected in normal discourse. Only by studying the evolution of dogwhistles, and inoculating the public to their use, can we hope to make the marketplace of ideas free from fraud. This work is based on a recent book by Jennifer titled [Dogwhistles and Figleaves.](https://global.oup.com/academic/product/dogwhistles-and-figleaves-9780192871756)*
+
+It’s almost a cliché to talk about manipulative politicians bringing out the worst in the electorate. Can it possibly be worth discussing in yet more detail? Unfortunately, it very much is. Racial hatred and wildly implausible conspiracy theories are on the rise, and manipulative language is a key part of how they grow and spread.  This isn’t an easy thing to fight, but we can’t even begin to fight it if we don’t recognise it or understand it. And this is made even more difficult by the ways that such language is constantly evolving.
+
+\_\_\_
+
+Dogwhistles are particularly important to those whose messages might be shut out of mainstream spaces if they were noticed, so it’s no surprise that they are popular with avowed Neo-Nazis, White supremacists, and those pushing dangerous conspiracy theories.
+
+\_\_\_
+
+A [dogwhistle](https://global.oup.com/academic/product/dog-whistle-politics-9780190841805?cc=ca&lang=en&) is a key [mechanism](https://global.oup.com/academic/product/dogwhistles-and-figleaves-9780192871756?cc=ca&lang=en&) for the spread of hatred—usually, innocent-seeming words or images that are used to transmit a more risky, widely acceptable message to a particular group.  A classic example—so classic it may no longer work in the way that it once did—is to use a phrase like [“states’ rights” to suggest racist views](https://slate.com/news-and-politics/2007/11/what-reagan-meant-by-states-rights.html), while pretending to merely comment on American constitutional structures. Dogwhistles are particularly important to those whose messages might be shut out of mainstream spaces if they were noticed, so it’s no surprise that they are popular with avowed Neo-Nazis, White supremacists, and those pushing dangerous conspiracy theories.  For example, Neo-Nazis use number codes like [‘88’ to mean ‘Heil Hitler’](https://www.splcenter.org/fighting-hate/intelligence-report/2015/racist-skinhead-glossary) (‘H’ is the 8th letter of the alphabet), a phrase that even Microsoft Word’s dictation function refuses to type.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Thumbnail-12.webp)
+
+SUGGESTED VIEWING
+Privilege and freedom
+With Lowkey , Isabel Hilton, Julie Bindel, Peter Lilley](https://iai.tv/video/privilege-and-freedom)
+
+As technology evolves, dogwhistles evolve with them. QAnon hashtags [like #WWG1WGA](https://www.adl.org/resources/blog/qanon-resurgent-twitter) (“Where we go one we go all”) or #thegreatawakening serve not just to transmit a message to fellow conspiracists, but—because of the way hashtags work—to allow for easy online organizing, because they help make easy to find other like-minded people.  And one can [exploit the affordances](https://www.researchgate.net/publication/344441861_Visual_and_Linguistic_Dogwhistles#fullTextFileContent) of an app like Instagram to conceal this yet further, using the fact that an innocent soft-focus photo will be all that’s seen by the casual viewer on one’s phone, because the hashtag only appears if one bothers to click through.
+
+![As technology evolves, dogwhistles evolve with them. ](assets/Uploads/_resampled/ResizedImageWzYwMCw0Mjld/Dogwhistles-1.jpg)
+
+A recent billboard campaign by Neo-Nazis in Michigan made clever use of yet another technology.  “Illusion Diffusion” is a new technology for making AI-generated images by combining a textual prompt and a black and white image. The black and white image is superimposed into the image generated by the textual prompt in ways that can be difficult to perceive unless viewed in just the right way, like squinting or viewing from a distance.  An innocent example might involve combining a spiral with an imagined medieval village.
+
+![AI made combination of a spiral with an imagined medieval village.](assets/Uploads/_resampled/ResizedImageWzYwMCwzMzhd/Dogwhistles-2.jpg)
+
+It wasn’t long before the far right started exploring the potential of this method.  A group in Michigan decided to celebrate the anniversary of Hitler's birthday [with a series of digital billboards](https://www.metrotimes.com/news/racist-messages-splashed-across-billboards-in-metro-detroit-on-hitlers-birthday-36078810). To do this, they needed to design the billboards in such a way that the billboard companies would not reject them. Dogwhistles offered a perfect method for this.  In some billboards, they used old-fashioned dogwhistles.  But others made use of this new technology (along with traditional dogwhistles), generating images like the one below, which very clearly features Hitler's face and arm raised in a salute, but only when seen at a distance, as viewers would do when the billboard appeared in the real world.  If seen up close on a screen, as it would be by the billboard company, one is far more likely to just see mountains.
+
+![AI generated dogwhistles made so billboard companies couldn't reject them. ](assets/Uploads/_resampled/ResizedImageWzYwMCw0NTFd/Dogwhistles-3.jpg)
+
+Images like these resemble traditional dogwhistles in key ways: they use an innocent-seeming image that helps them avoid detection — in this case, just until the billboards went up.  This is exactly as long as they had planned to evade detection, which we know from their online discussions afterward.   And their message can only be seen by some — in this case, those who look in just the right way.  But they are also different from traditional dogwhistles. Most importantly, once they've been discovered there's no way to plausibly deny what's going on.  The bearer of an ‘88’ tattoo can insist that he has this because it's the year he was born, or the year he graduated from high school. But the maker of a billboard message like the one above has no such excuse available.
+
+\_\_\_
+
+Even in today’s political world, one can’t just openly welcome Nazis. And Nazis can’t just openly rent billboards celebrating Adolf Hitler.
+
+\_\_\_
+
+We call these new dogwhistles ‘perspectival dogwhistles’, because whether the secret message can be discerned or not is literally a matter of perspective—in the perceptual sense. In this way, these new dogwhistles resemble a technology that gained considerable notoriety in the 1970s and 1980s: subliminal messaging. Subliminal messaging is the use of words or images that appear so briefly but they are not consciously perceived. Some maintain that they may nonetheless exert an influence. Although the [moral panic](https://www.psychologytoday.com/ca/blog/sold-language/201101/subliminal-seduction-gets-second-glance) around subliminal messaging seems to have been overblown, there may be some truth to the idea that such messages [can](https://www.sciencedirect.com/science/article/abs/pii/S0022103102005024) affect viewers. An advertisement in the 2000 election from George W Bush’s campaign claimed that Democrats wanted to allow bureaucrats to make important healthcare decisions. Just before the word ‘BUREAUCRATS’ appeared on screen, the word ‘RATS’ was flashed for one 30th of a second, a period too short to be perceived consciously. Once more, we have a seemingly innocent message which provides cover for something less innocent — which is not meant to be perceived by all viewers. In this way, it resembles the traditional dogwhistle.  But whether it is consciously registered or not depends on the speed at which one views the ad.  And once again, we don't get plausible deniability. Although the maker attempted to claim that the word appeared as ‘RATS’ by accident, a frame-by-frame examination of the ad renders this explanation deeply implausible.  ([Studies](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9221.2008.00658.x) [do](https://www.researchgate.net/publication/235361057_Taking_the_Low_Road_with_Subliminal_Advertisements_A_Study_Testing_the_Effect_of_Precognitive_Prime_RATS_in_a_2000_Presidential_Advertisement) suggest that this ad may have affected attitudes of viewers, though their authors note concerns about sample size and recruitment methods. While we may not be certain about the ad’s effects, we can be pretty sure about the intent behind it.)
+
+![Just as the word ‘BUREAUCRATS’ appeared, the word ‘RATS’ was flashed briefly. ](assets/Uploads/_resampled/ResizedImageWzYwMCw0NDld/Dogwhistles-4.jpg)
+
+ Recently, another video made the news, with another phrase briefly appearing—though not nearly so briefly.  This was a video posted by Trump’s Truth Social account, describing what would happen in a second Trump presidential term.  In the background, fake headlines appeared briefly and faintly—referencing “the creation of a unified Reich”, a phrase closely associated with Nazis. The message is easily missed by those who focus on the main words of the advertisement.  But it is also easily seen by those who know to look for it.  As such, it sends [a very clear message](https://www.theguardian.com/commentisfree/article/2024/may/23/trumps-unified-reich-video-was-a-message-not-a-mistake) to those who would welcome the Nazi allusion.  Moreover,  there is no denying that the message was deliberately included by the [Dilley Meme Team, who created it](https://www.bbc.com/news/articles/c7228wlpe0ko).  They used a [video template made by a Turkish designer](https://www.behance.net/gallery/199290061/THE-TRUTH-OF-THE-UNIFIED-REICH-SENSATIONAL-TEMPLATE), which included fake news headlines, one of which was about “the creation of a unified Reich”.  However, the template made by the designer also included text about the assassination of Arch-Duke Franz Ferdinand.
+
+![Headlines appeared faintly—referencing “the creation of a unified Reich”](assets/Uploads/_resampled/ResizedImageWzYwMCwzMzhd/Dogwhistles-5.jpg)
+
+The Dilley Meme Team blurred the text about Franz Ferdinand, but did not blur the text about the creation of a unified Reich.  (And, in fact, they re-used the unified Reich text two more times.)
+
+![The Dilley Meme Team did not blur the text about the creation of a unified Reich](assets/Uploads/_resampled/ResizedImageWzYwMCwzMzdd/Dogwhistles-6.jpg)
+
+This evidence of the process by which the image was created removes the possibility of plausible deniability for the maker.  Nonetheless, Trump’s team made use of some well-worn denial techniques, claiming that *they* had nothing to do with the creation of the video, and that it was posted by a “staffer”, who had not seen the headline. [This was at odds](https://www.newsweek.com/donald-trump-explanation-unified-reich-video-raises-eyebrows-1903105) with previous comments suggesting that only top staffer Dan Scavino had access to the account.
+
+[![related-video-image](https://iai.tv/assets/Uploads/64-The-Right-to-be-Offended-Thumbnail-03.tof.webp)
+
+SUGGESTED VIEWING
+The Right to be Offended
+With David Aaronovitch, Yasmin Alibhai-Brown, Roger Bolton, Joanna Williams](https://iai.tv/video/the-right-to-be-offended-free-speech)
+
+Dogwhistles, then, are evolving.  Perspectival dogwhistles aren’t wholly new, but making them with video templates and illusion diffusion is.  But what dogwhistles do remains the same.  In politics, they do things that require some cover.  Even in today’s political world, one can’t just openly welcome Nazis.  And Nazis can’t just openly rent billboards celebrating Adolf Hitler.  But dogwhistles allow for the surreptitious welcoming of Nazis, and for ways that one can get one’s message out on a billboard before anyone notices.
+
+\_\_\_
+
+One promising strategy for combating misinformation is inoculation, in which people are introduced to ways that misinformation spreads, and given strategies to avoid being taken in by it.
+
+\_\_\_
+
+So what can we do to keep messages like these from spreading and circulating via dogwhistles?  Some automated, sweeping remedies just won’t work.  We can’t ban a number like ‘88’—because sometimes one needs to celebrate Grandad’s birthday. Image-detection software is not up to the challenge of reliably recognizing Hitler’s image in a mountain.  [More generally, words and images can be used to convey many different things](http://iai.tv/articles/wittgenstein-and-how-to-debate-your-enemy-drew-douglas-johnson-auid-2829):  the class of words or images that are always unacceptable is likely to be very small indeed, and any innocent-seeming word or image might be adopted as a dogwhistle. Instead, what’s needed is human savvy, and a lot of it.  One promising strategy for combating misinformation is [inoculation](https://www.tandfonline.com/doi/abs/10.1080/10463283.2021.1876983?casa_token=KkdL-ZuOj-UAAAAA:e44mLvulKQB_ZOw7CIy8fPmsB-R5MMiUyG-YdpdUGcGLwMBp4FsDPfZfEA6TRTHJ0-dfKm9QNZvyKQ), in which people are introduced to ways that misinformation spreads, and given strategies to avoid being taken in by it.  We think information about dogwhistles—including newer kinds of dogwhistles— could and should be a part of inoculation training. Think back to the term “states’ rights”—repeated discussion of the dogwhistle means that it does not provide nearly so much cover as it used to. But aided by technology, dogwhistles evolve in new ways, and this means that the “inoculation” process must continue and evolve with it. In short, we need to be alert to the ever-evolving world of dogwhistles. And we need to make sure that others are, too.

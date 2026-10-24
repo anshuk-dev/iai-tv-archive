@@ -1,0 +1,47 @@
+---
+title: "The Artifice of Eternity"
+subtitle: "What might immortality look like?"
+author: "Marcel Theroux"
+date: "22nd March 2014"
+article_id: "336"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "631 words"
+read_time: "Read time: approx. 3 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Marcel-Theroux.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-artifice-of-eternity-auid-336"
+---
+
+# The Artifice of Eternity
+
+*What might immortality look like?*
+
+**By Marcel Theroux** | *22nd March 2014* | *Read time: approx. 3 mins* | *631 words*
+
+![The Artifice of Eternity](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Marcel-Theroux.webp)
+
+---
+
+Some time ago I bought a book called *The Transhumanist Reader*, a collection of essays published last year by thinkers associated with the transhumanist movement. Transhumanists are a diverse bunch, but what they have in common is the desire to use technology to overcome what they see as the limitations of the human condition. Their goal, if you like, is to become post-human.
+
+"Post-human beings would no longer suffer from disease, aging and inevitable death," writes Max More in the book's introductory essay. "They would have vastly greater physical capability... much greater cognitive capabilities, and more refined emotions (more joy, less anger, or whatever changes each individual prefers).”
+
+It's a vision of the human future that's as vivid as it is extraordinary, and it speaks to one of our species' deepest wishes: the longing for eternal life. "Consume my heart away;" Yeats wrote, "sick with desire and fastened to a dying animal. Gather me / Into the artifice of eternity." Alchemical texts, Egyptian funerary rites, Roman graffiti, and the poetry of Shakespeare – "So long lives this, and this gives life to thee" – all bear witness to the obstinacy of the human wish to live forever.
+
+Human beings are probably unique as creatures with self-consciousness, consciousness which perceives itself and which is drawn imaginatively to the tragic moment of its snuffing out. What's refreshing about transhumanists is the straightforwardness of their vision. They want to live forever, not in some vaguely defined spiritual realm, not in some ineffable shape, but as themselves in the here and now.
+
+People who write about transhumanists are often derisive towards them. Clearly, their hopes are speculative and rest on untested science. But I also think a reason for that mockery is that many people find it painful to admit how deeply they share the transhumanists' basic hope, how much each of us craves more life.
+
+Children are fascinated by the thought of death and what lies beyond it. Their reasonable and straightforward questions – "What happens after death?" "Will I be me?" "Will my cat be there?" – quickly flummox an adult who tries to palm them off with the fudged answers of religion. Most children simply learn to stop asking.
+
+But there have always been people who continue to pose difficult questions. One of the most interesting forerunners of today's transhumanists was a Russian mystic by the name of Nikolai Fedorov. Fedorov considered humanity's greatest duty to be the conquest of death: the abolition of death and the resuscitation of all previous generations. It's a literal and grandiose vision of immortality which he believed advances in technology would bring about.
+
+Many of Fedorov's disciples were active in the early years of the Soviet Union.  Two of them, Leonid Krasin and Anatolii Lunarcharskii, ended up overseeing the task of preserving Lenin's body. Krasin certainly believed that science would one day be capable of raising the dead and he may have hoped that Lenin's body could be preserved intact for resurrection. It remains, to this day, in its mausoleum in Red Square, an unwitting monument to the folly of those hopes, more like a brined ham than a Bolshevik man-god.
+
+Today's transhumanists believe the artifice of eternity they wish for will be made possible by developments in nanotechnology and computing, and by innovations so far undreamt of.
+
+Can they possibly succeed? Who knows. When I bought *the Transhumanist Reader*, it lacked all of the physical characteristics of a “book”. It was delivered wirelessly across the ether to a hand-held device where I read it without turning a page. If the post-human arises it will come about in a similar away; it will barely be human at all.
+
+**Marcel Theroux is a screenwriter, broadcaster and award-winning novelist, as well as the face of BBC4. His most recent book is *Strange Bodies*, published by Faber and Faber.**

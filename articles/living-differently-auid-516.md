@@ -1,0 +1,47 @@
+---
+title: "Living differently"
+subtitle: "Is it time to rethink sexual morality?"
+author: "Catherine Hakim"
+date: "Issue 32, 19th April 2015"
+article_id: "516"
+channel: "Arts & Culture"
+themes: "Relationships & Sexuality"
+tags: "None"
+word_count: "942 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/M-lZR5YhmJtuWLK4QEI-fHt2-yUHQXNvlzlA7K248uM.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/living-differently-auid-516"
+---
+
+# Living differently
+
+*Is it time to rethink sexual morality?*
+
+**By Catherine Hakim** | *Issue 32, 19th April 2015* | *Read time: approx. 5 mins* | *942 words*
+
+![Living differently](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/M-lZR5YhmJtuWLK4QEI-fHt2-yUHQXNvlzlA7K248uM.webp)
+
+---
+
+Affairs get a negative press in Anglo-Saxon countries, where they are discussed in terms of infidelity, adultery, cheating, dishonesty, and betrayal. Four-fifths of people in Britain condemn affairs as always wrong. The consequence is an over-reaction to discovery of sexual infidelities, and high divorce rates, leading to serial monogamy across life. For over three decades, about half of all first marriages in the USA have ended in divorce. Britain follows closely, with one-third of first marriages ending in divorce. Yet two-thirds of people in Britain do *not* regard sex as a central part of marriage, so logically marriage can still permit affairs.
+
+The classic affair is between an older, married man, typically successful and affluent, and an attractive young single woman. This always had the potential to become exploitative or unfair, as the young woman usually hoped for marriage to her lover – a marriage that would never happen. In addition, there was always the risk of unplanned pregnancies and children.
+
+We need to update modern morals and lifestyles following the contraceptive revolution which uncouples sexuality from fertility. Modern contraception led to an expansion of recreational sex for people of all ages. Both pre-marital and extra-marital liaisons become feasible today. Increasing life expectancy also means that marriages last a lot longer now – too long for sexual excitement to survive in many cases.
+
+I coined the term ‘playfair’ for affairs that are about playtime, fun, entertainment – sexual adventure without tears. This is possible if *both* parties are married, and want to stay that way. No-one is seeking a change of status, so the playfair is a separate space in their lives where they can indulge in flirtation, seduction, excitement, romance and lust. Playfairs are fair play because no-one gets hurt. Everyone knows they are short-term erotic adventures, one of life’s luxuries, to be indulged in when time and finances permit. Playfairs are tourism rather than immigration.
+
+The French have been perfecting the art of playfairs for centuries. French kings almost always had their official mistresses, who were beautiful, often leaders of fashion and style, who paraded at royal court entertainments with grace and charm. Madame de Pompadour is the most famous of them all. She remained the official mistress and confidante of Louis XV for around 20 years, long after she herself ceased to share his bed. Like a Japanese geisha she excelled as the perfect girl-friend and entertainer. She was of course married to someone else, and was rewarded handsomely with gifts.
+
+In the southern European view, marriage is a flexible relationship – it is essentially about children, property, inheritance and a common lifestyle. There is no assumption that spouses must fulfil all of each other’s needs, all of the time, exclusively. Where necessary both spouses find friends and lovers outside the marriage. Divorce is frowned on, and much less common. French and Italian marriages end in divorce less often than almost anywhere else in the Western world, so marriages last longer.
+
+Within Europe, the French have possibly the most permissive views on affairs and casual flings, which are taken for granted as something that happen throughout life, if you are lucky. Two-thirds of Frenchmen and half of French women believe that sexual attraction inevitably leads to intimacy; two-thirds of men and one-third of women agree that sex and love are two separate things; two-fifths of the French think love does not require complete sexual fidelity; and one-quarter even believe that transitory infidelities can strengthen love. Overall, many French see occasional flings and affairs as beneficial to marriage. Surveys suggest that something like one-quarter of men and women in France are enjoying casual flings and affairs at any one time.
+
+Tolerance of affairs is linked to a greater emphasis on sexuality and seduction as central to life’s pleasures in France. The art of seduction is practiced by everyone, from presidents courting votes to salespeople seeking customers. It is considered an essential skill for a civilised person. In Anglo-Saxon countries, flirting is more likely to be confused with sexual harassment.
+
+Dating websites for married people now offer everyone the opportunity for the sort of playfair that were once the privilege of kings and aristocrats. By safeguarding anonymity and confidentiality, the websites remove most of the risk associated with an affair. They allow men and women to meet like-minded people who are outside your own neighbourhood, circle of friends or business environment, thus escaping the dangers of gossip and exposure inherent in affairs that are too close to home. Even the most conservative men and women can safely become players in this hidden world. As one man puts it: “If you met me, you would not think that I would dare. But I do”.
+
+The French have many terms for affairs: *aventures,* *petites aventures* and *vagabondage.* These adventures outside marriage may be accepted or ignored, routine or exceptional, but are always conducted with discretion, with consideration for the dignity of the spouse who must never be embarrassed in any way. In the hedonistic or libertine perspective, affairs should be tolerated, with everyone turning a blind eye to them, so long as they are properly discreet. And of course there is equal opportunity for both spouses to have their flings. It is the carnival spirit of occasional delicious transgression and excess followed by a return to normality.
+
+Playfairs are not for everyone. They require courage and imagination. But a huge variety of men and women find themselves going down this road, for lots of different reasons. Some know the rules of the game, refined by the French over centuries. Others learn them the hard way. What they have in common is a big smile on their face, and a spring in their step.

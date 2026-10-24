@@ -1,0 +1,135 @@
+---
+title: "Reparations are not impractical"
+subtitle: "Stop pretending otherwise"
+author: "Andre Perry"
+date: "20th July 2022"
+article_id: "2189"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "2,878 words"
+read_time: "Read time: approx. 14 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reparations.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/reparations-are-not-impractical-auid-2189"
+---
+
+# Reparations are not impractical
+
+*Stop pretending otherwise*
+
+**By Andre Perry** | *20th July 2022* | *Read time: approx. 14 mins* | *2,878 words*
+
+![Reparations are not impractical](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Reparations.webp)
+
+---
+
+*Whilst many have come to accept the principle that a group wronged in the past deserves compensation in the present, a majority still conclude that difficulties in implementing such policies practically justify their absence. In this article, Rashawn Ray and Andre Perry demonstrate why this approach is sorely mistaken. Not only have reparations been widely implemented to many oppressed groups already, but a historical analysis illustrates how reparative justice for African Americans can be carried through both clearly and effectively.*
+
+Central to the idea of the American Dream lies an assumption that we all have an equal opportunity to generate the kind of wealth that brings meaning to the words “life, liberty and the pursuit of happiness,” boldly penned in the Declaration of Independence. The American Dream portends that with hard work, a person can own a home, start a business, and grow a nest egg for generations to draw upon. This belief, however, has been defied repeatedly by the United States government’s own decrees that denied wealth-building opportunities to Black Americans.
+
+Today, the average white family has roughly 10 times the amount of wealth as the average Black family. White college graduates have over seven times more wealth than Black college graduates. Making the American Dream an equitable reality demands the same U.S. government that denied wealth to Blacks restore that deferred wealth through reparations to their descendants in the form of individual cash payments in the amount that will close the Black-white racial wealth divide. Additionally, reparations should come in the form of wealth-building opportunities that address racial disparities in education, housing, and business ownership.
+
+In 1860, over $3 billion was the value assigned to the physical bodies of enslaved Black Americans to be used as free labor and production. This was more money than was invested in factories and railroads combined. In 1861, the value placed on cotton produced by enslaved Blacks was $250 million. Slavery enriched white slave owners and their descendants, and it fuelled the country’s economy while suppressing wealth building for the enslaved. The United States has yet to compensate descendants of enslaved Black Americans for their labour. Nor has the federal government atoned for the lost equity from anti-Black housing, transportation, and business policy. Slavery, Jim Crow segregation, anti-Black practices like redlining, and other discriminatory public policies in criminal justice and education have robbed Black Americans of the opportunities to build wealth (defined as assets minus debt) afforded to their white peers.
+
+Bootstrapping isn’t going to erase racial wealth divides. As economists William “Sandy” Darity and Darrick Hamilton point out in their 2018 report, What We Get Wrong About Closing the Wealth Gap, “Blacks cannot close the racial wealth gap by changing their individual behavior –i.e. by assuming more ‘personal responsibility’ or acquiring the portfolio management insights associated with ‘[financial] literacy.’” In fact, white high school dropouts have more wealth than Black college graduates. Moreover, the racial wealth gap did not result from a lack of labor. Rather, it came from a lack of financial capital.
+
+\_\_\_
+
+Black Americans are the only group that has not received reparations for state-sanctioned racial discrimination.
+
+\_\_\_
+
+Not only do racial wealth disparities reveal fallacies in the American Dream, the financial and social consequences are significant and wide-ranging. Wealth is positively correlated with better health, educational, and economic outcomes. Furthermore, assets from homes, stocks, bonds, and retirement savings provide a financial safety net for the inevitable shocks to the economy and personal finances that happen throughout a person’s lifespan.
+
+Recessions impact everyone, but wealth is distributed quite unevenly in the U.S. The woeful inadequacy of a government-sponsored safety net was made apparent in the wake of economic disasters like the 2008 housing crisis and natural ones like Hurricane Katrina in 2005. Those who can draw upon the equity in a home, savings, and securities are able to recover faster after economic downturns than those without wealth. The lack of a social safety net and the racial wealth divide are currently on display amid the COVID-19 crisis. Disparities in access to health care along with inequities in economic policies combine to make Black people more vulnerable to negative consequences than white individuals.
+
+Below, we provide a history of reparations in the United States, missed opportunities to redress the racial wealth gap, and specific details of a viable reparations package for Black Americans.
+
+# **History of reparations in the United States**
+
+Reparations—a system of redress for egregious injustices—are not foreign to the United States. Native Americans have received land and billions of dollars for various benefits and programs for being forcibly exiled from their native lands. For Japanese Americans, $1.5 billion was paid to those who were interned during World War II. Additionally, the United States, via the Marshall Plan, helped to ensure that Jews received reparations for the Holocaust, including making various investments over time. In 1952, West Germany agreed to pay 3.45 billion Deutsche Marks to Holocaust survivors.
+
+\_\_\_
+
+The first major opportunity that the United States had and where it should have atoned for slavery was right after the Civil War.
+
+\_\_\_
+
+Black Americans are the only group that has not received reparations for state-sanctioned racial discrimination, while slavery afforded some white families the ability to accrue tremendous wealth. And, we must note that American slavery was particularly brutal. About 15 percent of the enslaved shipped from Western Africa died during transport. The enslaved were regularly beaten and lynched for frivolous infractions. Slavery also disrupted families as one in three marriages were split up and one in five children were separated from their parents. The case for reparations can be made on economic, social, and moral grounds. The United States had multiple opportunities to atone for slavery—each a missed chance to make the American Dream a reality—but has yet to undertake significant action.
+
+# Missed policy opportunities to atone for slavery with reparations
+
+**40 Acres and a Mule**
+
+The first major opportunity that the United States had and where it should have atoned for slavery was right after the Civil War. Union leaders including General William Sherman concluded that each Black family should receive 40 acres. Sherman signed Field Order 15 and allocated 400,000 acres of confiscated Confederate land to Black families. Additionally, some families were to receive mules left over from the war, hence 40 acres and a mule.
+
+Yet, after President Abraham Lincoln’s assassination, President Andrew Johnson reversed Field Order 15 and returned land back to former slave owners. Instead of giving Blacks the means to support themselves, the federal government empowered former enslavers. For example, in Washington D.C., slave owners were actually paid reparations for lost property—the formally enslaved. This practice was also common in nearby states. Many Black Americans with limited work options returned as sharecroppers to till the same land for the very slave owners to whom they were once enslaved. Slave owners not only made money off the chattel enslavement of Black Americans, but they then made money multiple times over off the land that the formerly enslaved had no choice but to work.
+
+**The New Deal**
+
+There’s never a bad time to do what’s morally right, but the United States has had prime opportunities to atone for slavery. In the 1930s, the United States was reeling from the 1929 stock market crash and was firmly engulfed in the Great Depression. The Franklin Roosevelt administration implemented a series of policies as part of his New Deal legislation, estimated to cost roughly $50 billion then, to catapult the country out of depression. Current estimates price the New Deal at about $50 trillion.
+
+Two particular policies of the New Deal fell short in redressing American’s racial wrongs—the G.I. Bill and Social Security. Though white and Black Americans fought in WWII, Black veterans could not redeem their post-war benefits like their white peers. While the G.I. Bill was mandated federally, it was implemented locally. The presence of racial housing covenants and redlining among local municipalities prohibited Blacks from utilizing federal benefits. White soldiers were afforded the opportunity to build wealth by sending themselves and their children to college and by obtaining housing and small business grants.
+
+Regarding Social Security, two key professions that would have improved equity in America were excluded from the legislation—domestic and farm workers. These omissions effectively excluded 60 percent of Blacks across the U.S. and 75 percent in southern states who worked in these occupations. Roosevelt bargained these exclusionary provisions in the legislation on the backs of Black veterans and workers in order to propel mostly white America out of the Great Depression.
+
+There are other policies and practices that contributed to racial wealth gap. Government-sanctioned discrimination related to the 1862 Homestead Act, redlining, restrictive covenants, and convict leasing blocked Blacks from the ability to gain wealth at similar rates as whites. Separate from slavery, damages should be awarded to Black people who were harmed by these policies and practices.
+
+\_\_\_
+
+If we want to close the racial wealth gap and live up to our moral creed to protect “life, liberty and the pursuit of happiness,” a federal reparations package for Black Americans is in order.
+
+\_\_\_
+
+**Reparations for slavery and anti-Black policies**
+
+We know the monetary value that was placed on enslaved Blacks and the productivity of their labor, as well as the amount of the racial wealth gap. We’ve seen other groups receive restitutions while the federal government pulled back reparations for Black Americans. Accordingly, if we want to close the racial wealth gap and live up to our moral creed to protect “life, liberty and the pursuit of happiness,” a federal reparations package for Black Americans is in order. This package should include individual and collective public benefits that simultaneously builds wealth and eliminates debt among Black citizens. We assert that it should be similar to the Harriet Tubman Community Investment Act, which was recently heard before the Maryland General Assembly where Ray testified on its behalf. The Harriet Tubman Community Investment Act aims to atone for slavery and its legacy by addressing education, homeownership, and business ownership barriers.
+
+**Individual payments for descendants of enslaved Black Americans**
+
+The U.S. government owes lost wages as well as damages to the people it helped enslave. In addition to the lost wages, the accumulative amount of restitution for individuals should eliminate the racial wealth gap that currently exists. According to the Federal Reserve’s most recent numbers in 2016, based on the Survey of Consumer Finances, white families had the highest median family wealth at $171,000, compared to Black and Hispanic families, which had $17,600 and $20,700, respectively.
+
+**College tuition to 4-year or 2-year colleges and universities for descendants of enslaved Black Americans**
+
+People should be able to use the tuition remission to obtain a bachelor’s degree or an associate’s/vocational or technical degree. Tuition should be available for public or private universities. Considering the racial gap in the ability to obtain degrees at private schools, this part of the package will further help to reduce racial disparities by affording more social network access and opportunity structures.
+
+**Student loan forgiveness for descendants of enslaved Black Americans**
+
+Student loan debt continues to be a significant barrier to wealth creation for Black college graduates. Among 25-55 year olds, about 40 percent of Blacks compared to 30 percent of whites have student loan debt. Blacks also have nearly $45,000 of student loan debt compared to about $30,000 for whites. Recent research finds that Blacks are more likely to be allocated unsubsidized loans. Furthermore, graduates of Historically Black Colleges and Universities, compared to Predominately White Institutions, are more likely to receive subprime loans with higher interest rates.
+
+Universities including Georgetown and Princeton Theological Seminary, which is the second-oldest seminary in the country, are aiming to atone for the fact that the sale of slaves helped to fortify their university endowments and establish them as elite institutions of higher education on a global scale. Descendants of the slaves sold by Georgetown and Princeton Theological Seminary are now entitled to full rights and benefits bestowed by those universities to obtain degrees across the higher education pipeline. The Virginia state legislature voted for some of its state universities to atone for slavery with reparations. Other universities, along with state legislatures and the federal government, should follow suit.
+
+**Down payment grants and housing revitalization grants for descendants of enslaved Black Americans**
+
+Down payment grants will provide Black Americans with some initial equity in their homes relative to mortgage insurance loans. Housing revitalization grants will help Black Americans to refurbish existing homes in neighbourhoods that have been neglected due to a lack of government and corporate investments in predominately Black communities. Given recent settlements for predatory lending, low and fixed interest rates as well as property tax caps in areas in which housing prices are significantly devalued should be part of the package. After accounting for factors such as housing quality, neighbourhood quality, education, and crime, owner-occupied homes in Black neighbourhoods are undervalued by $48,000 per home on average, amounting to a whopping $156 billion that homeowners would have received if their homes were priced at market rates, according to Brookings research.
+
+As gentrification occurs, Blacks are typically priced out of neighbourhoods they helped to maintain, while the historical and current remnants of redlining and restrictive covenants inhibited investments. Some Black Americans are being forced from their family home of decades because of tax increases as neighbourhoods are gentrified. This is an important point because some 2020 Democratic presidential candidates aimed to redress the racial wealth gap by focusing on historically redlined districts. Perry’s research shows that these policies fall short of capturing a large segment of Black Americans.
+
+**Business grants for business starting up, business expansion to hire more employees, or purchasing property for descendants of enslaved Black Americans**
+
+Black-owned businesses are more likely to be located in predominately Black neighbourhoods that need the infrastructure and businesses. However, Black business owners are still less likely to obtain capital from banks to make their businesses successful.
+
+This reparations package for Black Americans is about restoring the wealth that has been extracted from Black people and communities. Still, reparations are all for naught without enforcement of anti-discrimination policies that remove barriers to economic mobility and wealth building. The architecture of the economy must change in order to create an equitable society. The racial wealth gap was created by racist policies. Federal intervention is needed to remove the racism that undergirds those polices. In some respects, the question of who should receive reparations is more controversial than what or how much people should be awarded.
+
+# **Who should receive reparations?**
+
+One key question after deciding what a reparations package should include is who should qualify. In short, a Black person who can trace their heritage to people enslaved in U.S. states and territories should be eligible for financial compensation for slavery. Meanwhile, Black people who can show how they were excluded from various policies after emancipation should seek separate damages. For instance, a person like Senator Cory Booker whose parents are descendants of slaves would qualify for slavery reparations whereas Senator Kamala Harris (Jamaican immigrant father and Indian immigrant mother) and President Barack Obama (Kenyan immigrant father and white mother) may seek redress for housing and/or education segregation. Sasha and Malia Obama (whose mother is Michelle Robinson Obama, a descendant of enslaved Africans) would qualify.
+
+\_\_\_
+
+“America has a genetic birth defect when it comes to the question of race.”
+
+\_\_\_
+
+To determine qualification, birth records can initially be used to determine if a person was classified as Black American. Economist Sandy Darity asserts that people should show a consistent pattern of identification. Census records can then be used to determine if a person has consistently identified as Black American. Finally, DNA testing can be used as a supplement to determine lineage. This is how Senator Booker, who first introduced a reparations bill in the Senate, learned that his lineage stemmed from Sierra Leone.
+
+For the descendants of the 12.5 million Blacks who were shipped in chains from Western Africa, “America has a genetic birth defect when it comes to the question of race,” as stated recently by U.S. Representative Hakeem Jeffries. If America is to atone for this defect, reparations for Black Americans is part of the healing and reconciliation process.
+
+With April 4 marking the fifty-second year since Dr. Martin Luther King, Jr. was assassinated in Memphis, we think it is appropriate to end with an oft-forgotten quote from Dr. King’s “I Have a Dream Speech” that he gave in 1963 in Washington, D.C. This statement is still one of the unfulfilled aspects of this policy-related speech:
+
+We have come to our nation’s capital to cash a check. When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir. … It is obvious today that America has defaulted on this promissory note insofar as her citizens of color are concerned. Instead of honoring this sacred obligation, America has given the Negro people a bad check, a check which has come back marked “insufficient funds.” But we refuse to believe that the bank of justice is bankrupt.
+
+Given the lingering legacy of slavery on the racial wealth gap, the monetary value we know that was placed on enslaved Blacks, the fact that other groups have received reparations, and the fact that Blacks were originally awarded reparations only to have them rescinded provide overwhelming evidence that it is time to pay reparations to the descendants of enslaved Blacks.
+
+*Originally published on the Brookings Institution website.*

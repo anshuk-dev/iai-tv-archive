@@ -1,0 +1,101 @@
+---
+title: "The Lies That Bind Us"
+subtitle: "Kwame Anthony Appiah discusses identity."
+author: "Kwame Anthony Appiah"
+date: "29th October 2018"
+article_id: "1161"
+channel: "Politics"
+themes: "Politics & Identity"
+tags: "None"
+word_count: "1,479 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ariel-sion-530907-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-lies-that-bind-us-auid-1161"
+---
+
+# The Lies That Bind Us
+
+*Kwame Anthony Appiah discusses identity.*
+
+**By Kwame Anthony Appiah** | *29th October 2018* | *Read time: approx. 7 mins* | *1,479 words*
+
+![The Lies That Bind Us](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ariel-sion-530907-unsplash.webp)
+
+---
+
+"*And now what will become of us without barbarians? / Those people were a kind of solution*."
+
+—C. P. Cavafy, “Waiting for the Barbarians” (1898)
+
+Perhaps you know this poem? Constantine Cavafy was a writer whose every identity came with an asterisk, a quality he shared with Italo Svevo. Born two years after Svevo, he died only a few years after him. Cavafy was a Greek who never lived in Greece. A government clerk of Eastern Orthodox Christian upbringing in a tributary state of a Muslim empire that was under British occupation for most of his life, he spent his evenings on foot, looking for pagan gods in their incarnate, carnal versions. He was a poet who resisted publication, save for broadsheets he circulated among close friends; a man whose homeland was a neighborhood, and a dream. Much of his poetry is a map of Alexandria overlaid with a map of the classical world— modern Alexandria and ancient Athens— in the way that Leopold Bloom’s Dublin neighborhood underlies Odysseus’s Ithaca. No single sentence captures this Alexandrian genius better than E. M. Forster’s evocation of him as “a Greek gentleman in a straw hat, standing absolutely motionless at a slight angle to the universe.” 1 And I conjure Cavafy, here, at journey’s end, because I want to persuade you that he is representative precisely in all his seeming anomalousness.
+
+Poems, like identities, never have just one interpretation. But in Cavafy’s “Waiting for the Barbarians” I see a reflection on the promise and the peril of identity. All day the anticipation and the anxiety build as the locals wait for the barbarians, who are coming to take over the city. The emperor in his crown, the consuls in their scarlet togas, the silent senate and the voiceless orators wait with the assembled masses to accept their arrival. And then, as evening falls, and they do not appear, what is left is only disappointment. We never see the barbarians. We never learn what they are actually like. But we do see the power of our imagination of the stranger. And, Cavafy hints, it’s possible that the mere prospect of their arrival could have saved us from ourselves.
+
+\_\_\_
+
+"**Our largest cultural identities can free us only if we recognise that we have to make their****meanings together and for ourselves**."
+
+\_\_\_
+
+The labels we adhere to, the labels that adhere, willy- nilly, to us, work through and in spite of the mistakes we make about them. Cavafy was not exactly gay, not exactly Greek or Egyptian, not exactly Orthodox or pagan. But each of these labels tells you something about him, if you listen carefully to his own inflection of these modes of being. And Cavafy’s Alexandria, like Svevo’s Trieste, like the marvelous city I live in, was exactly the sort of cultural hodgepodge that could provide the space for him to be each of these things in his own way, negotiating with his friends and acquaintances, struggling with his city; it allowed him to shape a self that was not merely captured but also liberated by the identities that enmeshed him.
+
+Our largest cultural identities can free us only if we recognize that we have to make their meanings together and for ourselves. You do not get to be Western without choosing your way among myriad options, just as you do not get to be Christian or Buddhist, American or Ghanaian, gay or straight, even a man or a woman, without recognizing that each of these identities can be lived in more than one way.
+
+Cavafy’s own community— cosmopolitan Alexandria— has long since vanished; the end of the British protectorate and the rise of Arab nationalism made the city less hospitable to its motley crew of strangers.
+
+In Naguib Mahfouz’s 1967 novel *Miramar*, an Alexandrian Greek, mistress of the eponymous *pensione*, reflects of her people, “They’re gone, every one of them.” Mr. Amer, an aging Egyptian friend and tenant, tries to console her. “*We* are your people now,” he says. “That sort of thing is happening everywhere.” 2 It is, indeed. But so, alas, is a move in the other direction: a choice for an imaginary purity, a clinging to an unreal essence, an insistence on a single significance for labels whose meanings need to be kept open and contestable. If essentialism is a misstep in the realms of creed, color, country, class, and culture, as it is in the domain of gender and sexuality, then it is never true that identity leaves us no choices. The existentialists were right: existence precedes essence**;** we are before we are anything in particular. But the fact that identities come without essences does not mean they come without entanglements. And the fact that they need interpreting and negotiating does not mean that each of us can do with them whatever we will.
+
+\_\_\_
+
+"W**e *are* before we are anything in****particular. But the fact that identities come without essences does not****mean they come without entanglements.**"
+
+\_\_\_
+
+For these labels belong to communities; they are a social possession. And morality and political prudence require us to try to make them work for us all. Over the course of my lifetime, I have watched, learned from, and participated in the reshaping of what it means to be women and men (and yes, sometimes neither) in the various interconnected places I have lived my life. Without the reshaping of gender that has increasingly liberated us all from old patriarchal assumptions, I could not have lived my life as a gay man, married to another man, making a life, in public and in private ways, together.
+
+This life has been made possible through other people’s struggle, in ways both large and small, and by my taking small risks with friends, employers, and family. If I had stayed in Ghana, where I grew up, I would, like other lesbian and gay Ghanaians, have a long road still to travel. But in the meanwhile, women in Asante, who were always more autonomous than in many other parts of the world, have seen their options grow and prosper, in part by recognising that much that was once assumed impossible for women, because they were women— because of what a woman essentially was— could be *made*possible; and that a world of empowered women is enriching for men as well.
+
+There is a liberal fantasy in which identities are merely chosen, so we are all free to be what we choose to be. But identities without demands would be useless to us. Identities work only because, once they get their grip on us, they command us, speaking to us as an inner voice; and because others, seeing who they think we are, call on us, too. If you do not care for the shapes your identities have taken, you cannot simply refuse them; they are not yours alone. You have to work with others inside and outside the labelled group in order to reframe them so they fit you better; and you can do that collective work only if you recognise that the results must serve others as well.
+
+In the poem “Walls,” Cavafy writes:
+
+*Without reflection, without sorrow, without shame,*
+
+*they’ve built around me great, high walls.*
+
+*And I sit here now and despair.*
+
+*I think of nothing else: this fate consumes my mind:*
+
+*because I had so many things to do out there.*
+
+*We all have many things to “do out there” in the world. And the problem*
+
+*is not walls as such but walls that hedge us in; walls we played*
+
+*no part in designing, walls without doors and windows, walls that*
+
+*block our vision and obstruct our way, walls that will not let in fresh*
+
+*and enlivening air.*
+
+**[![can-we-reinvent-ourselves-Sartre-Beauvoir-Kate-Kirkpatrick.jpeg](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Can-we-reinvent-ourselves-Sartre-Beauvoir-Kate-Kirkpatrick.webp)
+
+SUGGESTED READING
+Can We Reinvent Ourselves? An Existentialist View
+By Kate Kirkpatrick](https://iai.tv/articles/can-we-reinvent-ourselves-auid-1133)**The modes of identity can all become forms of confinement, conceptual mistakes underwriting moral ones. But they can also give contours to our freedom, as working-class and LGBTQ and national and religious identities have done in struggles all around the world. Women, negotiating intersectionality, have worked together across class and language and religion and nation in the global struggle against oppression and inequality. Social identities connect the small scale where we live our lives alongside our kith and kin with larger movements, causes, and concerns. They can make a wider world intelligible, alive, and urgent. They can expand our horizons to communities larger than the ones we personally inhabit. And our lives *must* make sense at the largest of all scales as well. We are denizens of an age in which our actions, in the realm of ideology as in the realm of technology, increasingly have global effects. When it comes to the compass of our concern and compassion, humanity as a whole is not too broad a horizon.
+
+We live with 7 billion fellow humans on a small, warming planet. The cosmopolitan impulse that draws on our common humanity is no longer a luxury; it has become a necessity. And, in encapsulating that ancient ideal, I can draw on someone who’s a frequent presence in courses in Western Civ., the dramatist Terence: a slave from Roman Africa, a Latin interpreter of Greek comedies, a writer from classical Europe who called himself, like Anton Wilhelm Amo, “the African.”
+
+Here’s how Publius Terentius Afer, writing more than two millennia ago, put it:
+
+*Homo sum, humani nihil a me alienum puto.*
+
+I am human, I think nothing human alien to me.
+
+Now there’s an identity that should bind us all.
+
+---
+
+This is an extract from [Kwame Anthony Appiah's *The Lies That Bind: Rethinking Identity* (Profile, 2018)](https://profilebooks.com/the-lies-that-bind.html "The Lies That Bind: Rethinking Identity"), and republished with permission of the author.

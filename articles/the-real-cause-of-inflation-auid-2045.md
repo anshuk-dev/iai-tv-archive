@@ -1,0 +1,97 @@
+---
+title: "The real cause of inflation"
+subtitle: "Labour vs Capital"
+author: "Charles Goodhart"
+date: "8th February 2022"
+article_id: "2045"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "2,167 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/inflation2.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-real-cause-of-inflation-auid-2045"
+---
+
+# The real cause of inflation
+
+*Labour vs Capital*
+
+**By Charles Goodhart** | *8th February 2022* | *Read time: approx. 11 mins* | *2,167 words*
+
+![The real cause of inflation](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/inflation2.webp)
+
+---
+
+*Prices are now rising faster than they have in over 40 years in the US, the UK and the rest of Europe. Yet central banks failed to see this coming and are still underestimating the real causes of inflation and how long it’s likely to last. The mainstream view is blaming a temporary rise in energy prices and the stimulus packages governments offered to shield the economy from the effects of Covid. But the real explanation of why inflation is as high as it is is very different: changes in demography. The last few years have seen an end to the abundant supply of cheap labour globally, an effect accelerated by the pandemic. But trying to aggressively contain the resulting inflation now could backfire, writes Charles Goodhart.*
+
+Inflation is quickly becoming a hard reality in the US, the UK and the Euro-zone area. In the course of the last year, inflation surged from somewhat below target, 2% in most economies, to a level of over 7% in the USA and 5% in the UK and the euro-area.  With the continuing high level, and possible further rises, in energy prices, and the Omicron variant still disrupting supply chains, notably in China, such rates could easily rise further over the next few more months.
+
+The mainstream explanation for the current rise in inflation put forward by central banks and their supporters is that they underestimated the persistence of supply chain difficulties, as well as the speed at which economies would bounce back after the end of strict pandemic measures. Critics within the mainstream would add that fiscal policies designed to combat the effects of the pandemic were overly generous, especially in the USA through the use of stimulus cheques, thus further contributing to inflation.
+
+However, there is a much deeper reason why we are experiencing inflation and why we have, therefore, entered into a wage/price spiral in the US and the UK: changes in demography. A shift in the global availability of low wage workers in the larger global market, including China and Eastern Europe, have switched the underlying trend from one of a massive surplus of available workers, to one in which the workforce is beginning to shrink.  In the years before Covid, the bargaining power of labour had been trashed; now it is beginning to recover quite sharply, and will remain stronger over the next few decades.
+
+\_\_\_
+
+**Until the autumn, virtually all central banks thought that the current inflation was transitory, and would reverse relatively quickly from a low peak.**
+
+\_\_\_
+
+**[![inflation](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/inflation.webp)
+
+SUGGESTED READING
+Recession is the threat, not inflation
+By David Blanchflower](https://iai.tv/articles/recession-is-the-threat-not-inflation-auid-1951)** The key, then, to understanding the current situation is changes in the labour market. Particularly in the USA and UK, this has become very tight, with vacancies rising sharply and unemployment going down to relatively low levels.  Meanwhile, the experience from working at home, and the benefits to their wealth from rising asset prices and expansionary monetary policies, have led a large number of elderly workers to retire a year or two earlier than they had previously planned.  So the available number of those of working age actively participating in the labour force has gone down.  Against this background, **i**t is hard to see workers passively accepting a real decline in their living standards, as a result of inflation and higher taxation, without seeking to claw back their living standards by asking for, and probably getting, much higher wages.  Such higher wages will add to the costs of employers, who in turn will seek to raise prices.  The wage/price spiral has already begun to start to whirl in the US and UK. 
+
+## What do demographic changes have to do with our current mess?
+
+Until the autumn, virtually all central banks thought that the current inflation was transitory, and would reverse relatively quickly from a low peak, of not more than 3 to 4% at most, back to, or below, target levels quite quickly on its own, without the need for further policy measures.  Indeed, until very recently the European Central Bank has continued to think that.  There are two main explanations why inflation has gone much higher and appears more persistent than earlier thought.
+
+First, the mainstream view is still that the longer-run, normal equilibrium state of our economies is such that they will still revert to a low-inflation/low-interest rate state in due course.  The mainstream believes that the failure to forecast inflation was due to a series of miscalculations about the strength of recovery; in the USA about the overuse of fiscal expansion; about the persistence of supply-chain disruptions; about the failure to see the jump in resignations causing a drop in the workforce; and the energy shock.  But they now recognise that such developments have led to the danger of a wage/price spiral developing.  Although the mainstream still believes that, absent such a wage/price spiral, inflation and interest rates with it, would fall back to low levels in a year or two, the danger of a wage/price spiral is sufficient to force an immediate pivot in policy.
+
+\_\_\_
+
+The main reason for the low inflation rates from the 1990s through to 2019 was the massive increase in the available workforce.
+
+\_\_\_
+
+There is, however, an alternative view, which was set out at some length in the book that I jointly authored, with Manoj Pradhan, on *The Great Demographic Reversal*.  In this we argued that, although monetary policies had improved with the adoption of inflation targets and independent central banks, the main reason for the low inflation rates from the 1990s through to 2019 was the massive increase in the available workforce. We argue that the available workforce to employers who could shift production from high-wage to low-wage economies, such as China, had effectively more than doubled during these decades, a massive positive beneficial supply shock, raising output, especially again in China, and reducing inflationary pressures everywhere.  This was enhanced by the fact that the decline in the birth rate, and the increased age of having children, meant that an increasingly large proportion of women became actively involved in jobs, rather than being a full-time housewife and mother.
+
+But the massively supporting beneficial supply shocks from demography and globalisation began to reverse from about 2010 onwards, and this has accelerated further with the enmity between the US and China, and some glaciation of the cold war.  Nevertheless, the prior surge of labour availability, and the shift of working population in the West from manufacturing to services, led to a drastic weakening in the bargaining power of labour, keeping wages down, and benefiting those with human, or financial, or real capital.  So, initially we were uncertain when the changing demographic and globalisation trends would change the balance of power between labour and capital.  And then came Covid!  We think that one implication of Covid, e.g. the great resignation in the US and other countries, has greatly accelerated the rebalancing of bargaining power between labour and capital.  Labour will benefit, and capital will come under pressure in future decades.  In our view, central banks have shown hubris by taking the full credit for the prior low inflation decades for their own policies.  They are not as powerful as they think in offsetting the underlying trends that drive the world economy, and those trends are changing in a way that favours labour, but will lead to more inflation over time.
+
+\_\_\_
+
+One implication of Covid has been to greatly accelerate the rebalancing of bargaining power between labour and capital.
+
+\_\_\_
+
+## Where we are, where we should be, and why we can’t get there
+
+A measure of how far monetary policy has now drifted away from its target levels is given by the Taylor Rule. According to this rule of thumb, developed by American economist John B. Taylor, given that Inflation is currently running at about 3% above target, that should make interest rates 4.5% higher than they are, i.e. an increase to interest rates of 1.5% for every 1% of above target inflation. Add to that a level of unemployment and output which is now, perhaps, just a little bit above the long-term norm. This would suggest another half a percent on nominal interest rates.  So this would imply a rise in nominal interest rates from the present rock-bottom levels, to about 5%.
+
+There are, of course, nuances about how to measure inflation. Nevertheless, the Taylor rule of thumb would probably suggest that the nominal rate of interest in the USA should now be in excess of 6%, and somewhere around 5% in the UK.
+
+This contrasts with interest rates that are still negative in the EU, only half of one percent in the UK and still near zero in the USA.  How did this happen?  Until the early autumn in the USA and UK, and still in the euro-area, the central banks had believed that inflation would rise by less, and would then fall back quite rapidly without the need for any restrictive monetary policies to, or even below, the target rate.  Of course, there were unforeseen shocks, such as the recent dramatic rise in energy prices, and the recovery was generally stronger and more resilient than many had feared.  Nevertheless, it has proven one of the major errors of recent years in forecasting and policy.
+
+Given that the present stance of monetary policy is still way below what is the appropriate level, particularly in the US and UK, given the emergence of a wage/price spiral, it might seem that there could be a case for an immediate step jump to a significantly higher level of interest rates.  But that would be extremely dangerous and risky at this juncture.
+
+\_\_\_
+
+At this juncture any sharp and unexpected rise in interest rates could lead to a recession.
+
+\_\_\_
+
+One reason why this is so, is that years, even decades, of expansionary monetary policies like quantitative easing, alongside low inflation, has led to declining interest rates and rising asset prices, the latter being historically exceptionally high whether you look at equity prices, bond prices, housing prices, land prices, or virtually anything else.  This experience, together with the repeated assertions of central banks and most macro-economists that they can and will maintain low inflation and low interest rates on average as far ahead as the eye can see, has led those in financial markets, most of whom are too young ever to have seen any period of sustained inflationary pressure, to expect a continuation of support from central banks.  If the rug was suddenly pulled from under the market’s feet, there could be a, possibly chaotic, meltdown of asset prices.
+
+At the same time, the expansionary monetary policies of recent decades has led both the public sector and the private sector to pile on additional debt without much concern, since falling interest rates and low inflation have meant that debt servicing costs remained constant, or even fell,.  If interest rates were to rise now suddenly and sharply, there could be a severe increase in bankruptcies.
+
+Furthermore, the rise in debt servicing costs in the public sector would make the life of Chancellors and Ministers of Finance far more difficult.  They, in turn, would put pressure on their central banks to moderate increases in interest rates.  And, if the increases in interest rates *did* suffice to lead to a moderation in wage demands, real wages would then fall, and overall demand would decline.  So, at this juncture any sharp and unexpected rise in interest rates could lead to a recession.  While that might restrain inflation temporarily, in the longer run it would not do anyone any good.  Tax revenues would fall and certain public expenditures, e.g. unemployment benefits, would rise.  The fiscal deficit, already large, would rise even further.  In the most indebted countries that might even begin to lead to a risk premium because investors might fear that their sovereign debt was becoming unsustainable.  If the public sector deficit was financed by monetary expansion again, e.g. yet more QE, monetary growth would rise to a level which would subsequently further threaten a reignition of inflation.
+
+We have to avoid falling into a new recession.  Yet if we are to pussy-foot so gently in raising interest rates, we may find ourselves unable to prevent a wage/price spiral from developing and speeding up. Not an easy time to be on a Monetary Policy Committee.  Finding a margin between worse inflation on one hand and recession on the other will be a horrendously difficult exercise.
+
+## What should happen now?
+
+In the short run, at least to the end of 2023, it does not matter whether mine, or the mainstream view is correct.  We both believe that there is a danger of a wage/price spiral dynamic setting in, and we both fear that excessive monetary stringency might go too far and cause an unwanted recession.
+
+Is there a way through that restores inflation to target, while allowing continuing output growth and, perhaps, even some small further decline in unemployment?  Perhaps I am a pessimist, but I rather doubt it, so my guess is that the outlook will involve some continuation of above-target inflation, while growth slows down, hopefully not becoming negative, combined with a fall in asset prices, though hopefully not a total collapse.

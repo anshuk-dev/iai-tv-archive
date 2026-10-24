@@ -1,0 +1,91 @@
+---
+title: "Morality shouldn't matter to artists"
+subtitle: "The Positive Case for Cruelty"
+author: "Amelia Watts"
+date: "20th July 2023"
+article_id: "2548"
+channel: "Arts & Culture"
+themes: "Art & Aesthetics"
+tags: "None"
+word_count: "1,181 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ethical-dilemma-1258084893.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/amelia-watts-morality-shouldnt-matter-to-artists-auid-2548"
+---
+
+# Morality shouldn't matter to artists
+
+*The Positive Case for Cruelty*
+
+**By Amelia Watts** | *20th July 2023* | *Read time: approx. 6 mins* | *1,181 words*
+
+![Morality shouldn't matter to artists](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ethical-dilemma-1258084893.jpg)
+
+---
+
+*A 250 cm line tattooed across the back of 6 poor Cubans living in the slums is a clear sign of exploitative art. Art seems to take cruelty and exploitation beyond the aim to shock reducing it to an expression of neoliberal indifference to the poor. Rather than this Amelia Watts argues a Utilitarian analysis of the art demonstrates that this cruelty is effective at progressing the conversation, concluding that art shouldn’t care about your morals.*
+
+The art world has a long history of pushing boundaries and challenging societal norms, often using shocking and controversial imagery to provoke audiences and prompt critical thinking. However, justifying cruelty and exploitation solely for the sake of art presents an ethical dilemma that demands examination. Utilitarian ethics, championed by philosophers like John Stuart Mill, propose that actions should maximize overall happiness and pleasure while minimizing suffering. But can this be applied to artists such as Santiago Sierra’s works such as “250 cm Line Tattooed on 6 Paid People”. This controversial piece aimed to show the lack of care that we have for those in poverty. However, paying to tattoo individuals for the self-promotion of his career and his ideology seems deeply immoral.
+
+The application of utilitarian ethics to controversial artworks, like Sierra’s, tells us something different. Rather than just accepting immorality as an absolute by delving into the concept of the "Pleasure Monster" as a thought-provoking analogy, and examines the ethical implications of pushing artistic boundaries for the pursuit of pleasure and societal reflection, we can see that the world needs controversial exploitative art.
+
+Utilitarianism holds that actions are morally right if they bring about the greatest happiness for the greatest number of people and wrong if they cause suffering. The Pleasure Monster represents a hypothetical creature seeking maximum pleasure regardless of the consequences for others. Critics argue that this extreme pursuit of pleasure may justify actions that are unethical or harmful from a conventional moral standpoint, raising questions about the limitations of utilitarian ethics. However, by considering the implications of the pleasure monster not just as an individual but as the collective, the benefits to all of us, we see a different answer.
+
+\_\_\_
+
+Santiago Sierra's artwork, involving the tattooed line on the backs of six young Cubans, exemplifies the controversial nature of certain artworks.
+
+\_\_\_
+
+Santiago Sierra's artwork, involving the tattooed line on the backs of six young Cubans, exemplifies the controversial nature of certain artworks. While shocking and seemingly demeaning, a utilitarian analysis reveals potential benefits:
+
+1. Raising Awareness: Sierra's artwork sheds light on the dire living conditions of marginalized individuals, drawing attention to social issues and prompting discussions.
+
+2. Igniting Empathy: The unconventional portrayal of hardship evokes empathy and compassion, inspiring action to improve the lives of the underprivileged.
+
+3. Spurring Discussions: Controversial art fosters intense debates, leading to a deeper understanding of societal challenges and potential solutions.
+
+4. Challenging Complacency: By confronting uncomfortable realities, such artworks challenge viewers to question the status quo and promote positive change.
+
+5. Encouraging Reflection: The shocking visuals prompt self-reflection, leading to a reevaluation of societal attitudes and fostering compassion.
+
+\_\_\_
+
+Art that shocks and challenges societal norms can serve valuable purposes, such as raising awareness, stimulating critical discussions, and encouraging empathy.
+
+\_\_\_
+
+The Pleasure Monster problem poses a significant challenge when evaluating controversial artworks through a utilitarian lens. On one hand, art that shocks and challenges societal norms can serve valuable purposes, such as raising awareness, stimulating critical discussions, and encouraging empathy. These outcomes align with the utilitarian principle of maximizing overall happiness and pleasure. However, the potential for cruelty and exploitation in the pursuit of shock value raises ethical concerns that must be carefully considered.
+
+**[![21 11 4.Marx and Nietzsche](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-11-4.Marx-and-Nietzsche.webp)
+
+SUGGESTED READING
+Marx and Nietzsche: how art can save us
+By Jonas Čeika](https://iai.tv/articles/marx-and-nietzsche-how-art-can-save-us-auid-1962)**
+
+The central dilemma in addressing the Pleasure Monster problem lies in striking a balance between the pleasure derived from thought-provoking art and the potential harm it may cause to individuals or groups. Utilitarian ethics encourage artists to critically assess the potential consequences of their work, not only in terms of immediate reactions but also in the long-term impact on the well-being of those involved and the wider community.
+
+We should allow ourselves to be radical, utilitarian evaluations of controversial art should take into account the artist's intent and the contextual relevance of the artwork. Understanding the motivations behind the creation of shocking art helps determine whether the pursuit of pleasure is justified by a genuine desire to elicit meaningful change or reflection. Contextualizing the work within the artist's broader body of work and artistic objectives can provide valuable insights into the ethical implications of their actions. The artist shocking the world serves to make it better, if the balance is right shock away.
+
+\_\_\_
+
+Utilitarian ethics challenge the art world to consider the broader context, intentions, and consequences of controversial art.
+
+\_\_\_
+
+Considering the consent and agency of the subjects or participants involved in controversial artworks is crucial. Though art that exploits or coerces individuals without their informed consent undermines the principle of respecting human dignity, which is fundamental in utilitarian ethics. Artistic practices that empower participants and involve open dialogue about their involvement contribute to a more ethically sound evaluation. Whether in the case of the 250 cm line or any other art compensation and moderation of damage need to be considered. If I tattoo you with a line, have I really destroyed your humanity? We should be wary of just seeking controversy but if it has an impact to make the world a better place, can we justify not acting.
+
+Utilitarian evaluations should encompass the broader societal impact of controversial artworks. While the immediate reactions of shock and emotion may drive debates, assessing whether these discussions lead to positive social change and increased empathy becomes essential in weighing the overall utility of the art.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/Diane-Keaton-Woody-Allen-Jerry-Lacy-Play-it-Again-Sam-Broadway.webp)
+
+SUGGESTED VIEWING
+The Good, the Bad and the Artist
+With Emma Sulkowicz, Stanley Fish, John Harvey, Nell Stevens, Janne Teller](https://iai.tv/video/the-good-the-bad-and-the-artist)**
+
+Utilitarian ethics extend beyond the artist to the audience's role in engaging with controversial art. Encouraging thoughtful and critical engagement with the work helps mitigate the potential for voyeurism or the perpetuation of harmful stereotypes. Utilitarian evaluations should acknowledge that the audience's response plays a part in shaping the overall impact of the artwork.
+
+Addressing the Pleasure Monster problem in art evaluation demands a nuanced and reflective approach. While shocking and thought-provoking artworks can serve valuable utilitarian purposes by raising awareness and encouraging empathy, artists and evaluators must be mindful of the potential for cruelty and exploitation. Utilitarian ethics challenge the art world to consider the broader context, intentions, and consequences of controversial art, ensuring that artistic expression remains responsible, respectful, and conducive to the greater good. By engaging in open ethical discourse and mindful evaluations, the art world can continue to push boundaries while promoting ethical practices and societal reflection.
+
+The application of utilitarian ethics to controversial artworks provides a unique perspective on the balance between artistic expression, societal impact, and moral responsibility. While shocking artworks can raise awareness, empathy, and critical discussions, the pursuit of pleasure should not justify cruelty or exploitation. Utilitarianism challenges artists to consider the broader implications of their work, emphasizing the need for nuanced evaluations that encompass long-term effects on individual and societal well-being. By navigating the complexities of the Pleasure Monster problem, the art world can continue its exploration of provocative expression while promoting the greater good for all.

@@ -1,0 +1,106 @@
+---
+title: "Life's mysteries cannot be explained away, they are to be lived"
+subtitle: "On the human origins and limits of abstract thought"
+author: "Orfeas Chasapis Tassinis"
+date: "24th June 2025"
+article_id: "3238"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,210 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lifes-mysteries-cannot-be-explained-away-they-are-to-be-lived-3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/lifes-mysteries-cannot-be-explained-away-they-are-to-be-lived-auid-3238"
+---
+
+# Life's mysteries cannot be explained away, they are to be lived
+
+*On the human origins and limits of abstract thought*
+
+**By Orfeas Chasapis Tassinis** | *24th June 2025* | *Read time: approx. 11 mins* | *2,210 words*
+
+![Life's mysteries cannot be explained away, they are to be lived](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lifes-mysteries-cannot-be-explained-away-they-are-to-be-lived-3.webp)
+
+---
+
+*What if the goal of philosophy isn’t to resolve life’s mysteries, but to live with them? In a world shaped as much by experience as by abstract thought, Cambridge University Fellow Orfeas Chasapis Tassinis argues for rejecting the reductionist view of thinking. Rather than competing with the richness of lived reality, he proposes that our concepts are tools, not total truths. And that philosophy is at its best when it helps us inhabit life more fully, not explain it away. In an open, uncertain world, life can be a journey—and a mystery—without anything needing to be left behind.*
+
+You may have heard this before: *life is a journey*. But is this assertion conceptually sound? Going on a journey is something that people do as part of their lives. It cannot possibly be that you can [describe life in terms of just one aspect of human experience](http://iai.tv/articles/self-narratives-as-works-of-useful-fiction-auid-1148). From this perspective, life definitely *cannot* be a journey in any strict analytical sense. Not only that, but it would seem that life cannot even be *like* a journey. What cannot hold true in logic seems equally bound to fail as metaphor, much like saying that ‘your body is your finger’ should not make much sense, even as a metaphor. In short, some aspect of life may well be like a journey, but the whole seems incapable of being collapsed to the part, in metaphor or not.
+
+\_\_\_
+
+The whole seems incapable of being collapsed to the part, in metaphor or not.
+
+\_\_\_
+
+This is not just a problem about life being a journey. Every attempt to make statements along the lines of ‘life is X’ seems bound to end in paradox. No candidate ‘X’ seems to exist apart from the human experience, making it intrinsically a part of the very same life we are trying to describe.
+
+Of course, one could argue that describing life in terms of its purely physical aspects could work. Consider, for example that your life can be described in terms of your breathing, heart beating, etc. But this too would not cut it. First because, by definition, it would only describe ‘a’ part of life, that is the physical aspects. Second because, in describing these so-called physical aspects (in terms of chemistry, physics, etc) we would already be using categories and concepts (such as organs, bodily functions, all the way down to molecules and atoms) [owing their existence to our very human cognitive capacities](http://iai.tv/articles/life-doesnt-have-to-be-biological-auid-3025) (to be clear, I take physical reality to be a real thing, but how we describe it seems inescapably human, more on that later).
+
+**[![no one escapes their perspective](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/no-one-escapes-their-perspective.webp)
+
+SUGGESTED READING
+No one escapes their perspective
+By Jason Blakely](https://iai.tv/articles/no-one-escapes-their-perspective-auid-3154)**
+
+Crucially, this is also not just a problem about life. It generally extends to notions that seek to describe ‘wholes’ in terms of only some of their parts. Take for instance, the cosmos itself. Before popularized by Pythagoras as a way to describe the universe, a common meaning of the ancient Greek word ‘cosmos’ was ‘ornament’ or ‘jewel’. But how can the entirety of the cosmos, in the modern-day English sense, truly be described through only a part of it? This seems hard, even if the ‘part’ is not taken in its literal form but in terms of the things it represents, such as beauty or order, given that ugliness and chaos are also of this world. Generally, it would seem that whenever we are describing a whole in terms of only some of its parts (‘life is a journey’, etc) we are bound to leave something outside in a manner that should not work.
+
+Despite everything I’ve said so far, I want to make a surprising turn: I do think life can be a journey. In fact, I do believe we can legitimately describe big, complex things we often perceive as ‘wholes’—like life or the universe—using just some of their parts. The main idea that I will employ to solve the conundrum is that of ‘lateral’ moves in an inherently open conceptual world.
+
+Here’s the idea in a nutshell. We tend to treat certain structures in our thinking—like the relationship between parts and wholes—as if they reflect some deep truth about reality. But what if they don’t? What if these structures aren’t baked into reality itself, but are simply habits of thought—tools we use, not rules we must follow? If that’s the case, then the immanent structures of our concepts (such as the part-whole relationship) are neither immanent to the ‘outside’ world, nor truly ‘structural’. They’re suggestions, not laws. And that opens up a radically different way of thinking: one where life *can* be a journey, the universe can stand for beauty to the exclusion of ugliness, I can be my finger, and so on.
+
+\_\_\_
+
+Reality does not seem to come in preformed packages waiting to be discovered.
+
+\_\_\_
+
+Let us start then from the beginning: what is the part-whole relationship? By this I do not mean to define when exactly the relationship obtains, for example whether we can think of a leaf as part of the tree or the fuel in a car’s tank as part of the car. Rather I am posing the meta-question: where the very notion of parts and wholes in general comes from, and more specifically whether it is a feature of this world or a feature of our way of seeing the world.
+
+This is a puzzling problem indeed. Assuming that some aspects of the world exist independently from us, how we describe that world (that is whether we call it a collection of atoms or a thing of beauty) still appears to be dependent on us in its entirety. The same holds for the drawing of lines and ‘bundling’ of reality that leads to the appearance of the part-whole relationship. As good as our tele- and micro- scopes have gotten, we still have not found any signs saying, ‘here is a solar system’ or ‘here is an atom’. Reality does not seem to come in preformed packages waiting to be discovered.
+
+This does not mean that we may not have better or worse *reasons* for drawing those lines and thus describing reality in certain ways as opposed to others. For example, modern science often seems obsessed with finding the smallest possible particle or severable entity. It also seems to casually interpret physical separation as an indication of ontological discontinuity, even if this is rarely spelled out in so many words. Irrespective of whether one endorses these particular reasons, one thing seems certain: while our descriptions populate the world around us with all sorts of entities, they say as much about us as they do about the world.
+
+ 
+[![related-video-image](https://iai.tv/assets/Uploads/92.-the-journey-in-search-of-a-destination.webp)
+
+SUGGESTED VIEWING
+The journey in search of a destination
+With Sandra Laugier, Frank Tallis, Babette Babich, Jack Symes, Jonathan Webber](https://iai.tv/video/journey-in-search-of-a-destination)
+
+And what they say is fascinating. Our thought seems to be deeply structured following certain fundamental preconceptual proclivities or ‘gestalts’. These are mental structures that arise from recurrent bodily movements through space (such as getting from point A to point B), perceptual interactions (such as relating physical proximity and body heat to care and love), and ways of manipulating objects (such as our ability to pick something apart or move it around). Through endless repetition in our everyday lives, we grow to employ such recurring patterns of ‘basic’ interactions to organize cognition in ever more abstract domains and then extrapolate patterns and logics across domains of existence. These ‘logics’ include the part-whole relationship, but also imagining the world in terms of straight lines (think of expressions such as ‘I will get to my point’ or ‘we parted ways’), containment (‘to fall in love’; to be ‘out of order’), symmetry (‘an eye for an eye’; ‘to turn the other cheek’), binariness (‘right or wrong’; ‘man or woman’), as well as many others (see generally George Lakoff and Mark Johnson, [*Metaphors We Live By*](http://iai.tv/articles/a-question-of-binaries-auid-330))*.*
+
+Where do these ways of seeing the world come from? A major, if often neglected, contribution of modern philosophy, especially through the work of John Dewey (1859-1952), Maurice Merleau-Ponty (1908-1961), and [Richard Rorty](http://iai.tv/articles/rethinking-truth-auid-2507) (1931-2007), has been the idea that the general features of abstract thought are structured around the basic ways in which we exist as human animals. This idea is often known as [‘embodiment’ or ‘embodied cognition’](http://https//plato.stanford.edu/entries/embodied-cognition/) in contemporary philosophy. In many ways, this move was anticipated by the work of Immanuel Kant (1724-1804). In his *Critique of Pure Reason* (1781), Kant introduced the foundational idea that [we can only know things as they appear to us through experience](http://articles/kant-vs-hume-can-we-access-reality-auid-3125)—shaped by perception and understood using concepts provided by the mind’s universal formal structures. Ideas of embodied cognition have been further drilled by present-day philosophers such as George Lakoff ([*Women, Fire, Dangerous Things*](https://metaphorhacker.net/2018/05/how-to-read-women-fire-and-dangerous-things-guide-to-essential-reading-on-human-cognition/)), *Maxine Sheets-Johnstone ([The Primacy of Movement](https://benjamins.com/catalog/aicr.82))*, and Mark Johnson and Don M Tucker ([*Out of the Cave: A Natural Philosophy of Mind and Knowing*](https://psycnet.apa.org/record/2021-07853-000)). Works like these have expanded on many intuitions of earlier philosophers and provided various degrees of hard evidence regarding embodied aspects of abstract thought, including from the fields of cognitive linguistics and cognitive neuroscience.
+
+Our bodies then seem to inescapably underpin our abstractions. This includes the broadly symmetric appearance of our bodies, our correlation between increasing physical separation with our care takers and becoming proper individuals of our own, our proclivity to see parthood relationships wherever we can separate things through physical force, and the enduring impression that our own bodies form some sort of a container (with things coming ‘in’ and ‘out’, etc). Following this approach, we are thus inclined to answer the initial question I posed about the part-whole relation favouring the second option: the part-whole relation is a way of seeing the world rather than a feature of this world.
+
+[![related-video-image](https://iai.tv/assets/Uploads/journey-to-other-dimensions.webp)
+
+SUGGESTED VIEWING
+Journey to other dimensions
+With Claudia de Rham, Roger Penrose, Avshalom Elitzur, Güneş Taylor](https://iai.tv/video/journey-to-other-dimensions-roger-penrose)
+
+But here is the catch: we, along with our way of seeing the world, are also a part of this world. So while the part-whole relationship is not immanent to this world in the traditional sense (if all human beings were to disappear from the universe the relationship would no longer exist), it seems fairly immanent to us for as long as we are part of this universe, deeply anchored in the way we live, breathe, and generally experience reality.
+
+It is here that critically assessing our tools for crafting the conceptual world reaches a certain limit: parthood and similar relationships can be thought as heuristic devices ‘tainted’ by our humanity, while at the same time being necessary for any conceptual move forwards, or really anywhere.
+
+ Indeed, a hypothetical coral reef with super intelligence might have approached abstract thinking differently. To it, ‘getting to’ a point would probably not make much sense (literally) out of which to create the abstraction of linearity. Similarly, a left-right orientation, centred around a perceived axis of bodily symmetry, would likely not arise. And as an entity that has no ability whatsoever to pick things apart, a coral reef might have had a very different conception of parthood and physical separation, and the importance thereof to ontology. It may have even eschewed the part-whole approach to begin with. In short, our tools might seem neither inherently superior, or inferior, to those of a coral reef. What they are, however, is *human*: no more, no less.
+
+Where does that leave us? I think it leaves us with an inherently open world. This is a world where ideas such as ‘life’ or ‘universe’ are not any more or less fundamental than the concepts they are supposed to contain, nor do they have to contain everything to begin with. Instead ‘life’, ‘universe’, but also ‘journey’ and ‘beauty’ are all rays of the same sun, the sun being, literally our humanity. At the core of this sun lie our very own preconceptual ways of looking at the world, which are themselves so deeply entangled with each other that may seem impossible to tell apart or order in a linear fashion except for sometimes in theory. In sum, yes our ways of seeing the world, from the very structural stuff such as parthood, to things such as life might be ‘tainted’—but they are all tainted equally. This makes lateral moves that disregard one aspect of our shackles no less arbitrary than the moves that led us to forming these concepts in the first place. This is then a world where life might indeed be a journey, but also a prison; an open conceptual universe that corresponds to our lived experience without inherently favouring one abstracted pattern of that experience over others. As the poem goes:
+
+*the house is not always smaller than the mountain*
+
+*man is not always bigger than the flower*
+
+*all the distances are false*
+
+*that the eye gives us and in vain I believe*
+
+*we boast saying*
+
+*“The world is this.”*
+
+Maria Nefeli, Odysseas Elytis, Athan Anagnostopoulos (tr)
+
+This world is one of genuine openness that holds surprises and let-downs, real promise, and true peril. In this world, we can, and I think we should, treat the conceptual as complementary rather than rival to what is experienced. Following this worldview, philosophy and therapy—meaning the constant struggle to inhabit and process our personal experience—cannot meaningfully exist apart. In such an open world, coming to terms with the irreducible mystery of life is as noble as a goal as resolving it, and conceptual labour is happily dedicated to recovering our humanity rather than trying to explain it away or exist apart from it. Only in this world of promise and peril can life truly be a journey and the cosmos a thing of beauty in ways that matter, free of the fear that something has been left out.

@@ -1,0 +1,85 @@
+---
+title: "Why science isn’t objective"
+subtitle: "At least not how we think it is"
+author: "Stephen John"
+date: "26th July 2021"
+article_id: "1846"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "2,158 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-26.Science-is-not-objective.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-science-isnt-objective-auid-1846"
+---
+
+# Why science isn’t objective
+
+*At least not how we think it is*
+
+**By Stephen John** | *26th July 2021* | *Read time: approx. 11 mins* | *2,158 words*
+
+![Why science isn’t objective](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-26.Science-is-not-objective.webp)
+
+---
+
+*We think of science as being an objective account of the world, free from the influence of political and other biases. But things aren’t that simple. Evidence alone doesn’t tell you when you’ve had enough evidence to support a claim, so scientists sometimes have to make judgements that rely on ethical and political values. This realisation shatters our understanding of scientific*objectivity*as value-free. But not all is lost, argues Stephen John.*
+
+"Social distancing and face masks should stay FOREVER says Communist SAGE committee member Professor Susan Michie". The [Daily Mail](https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html)'s implication was clear: because she's a card-carrying Communist, Susan Michie can't be trusted. When her politics were raised by an interviewer, Michie's response was [simple](https://www.express.co.uk/showbiz/tv-radio/1459009/GMB-row-Richard-Madeley-professor-Susan-Michie-communist-beliefs-ditch-masks-ITV-video): "you don’t ask other scientists about politics so I’m very happy to speak about science, which is what my job is, and to limit it to that". For Michie, politics is one thing, science another.
+
+One way to sum up this mini-controversy is in terms of objectivity: the Mail is claiming that Michie can't be objective, but she says she can be. We often think that scientists should be objective, and we associate scientific objectivity with "value-freedom". We think that some scientific claim is objective when the justification for that claim doesn't depend on any ethical or political values. We call a scientist objective when she hasn't allowed her values to influence her reasoning or arguments. These ideas of good science as value-free relate to a broader notion of science as telling us about the way the world really is, stripped of comforting illusions. This image can also justify why science should play an important role in policy. Effective policy needs to be based on our best understanding of the world. Good, objective scientists tell us how the world is. Precisely because they achieve this perspective by ignoring values, they can act as neutral arbiters in politics. So, there's a nice package of ideas, linking politics, science, objectivity and value-freedom, which explain why we care whether Michie can leave her communism at the door.
+
+There's only one problem: that picture is false.
+
+There is no way at all of doing science which doesn't somehow prejudge or assume some ethical or political or economic viewpoint.
+
+**How science is value-laden**
+
+The example above neatly sums up a general problem in thinking about science, politics and policy. Scientific advisors play a central role in policy-making. In the Covid-19 pandemic, UK government leaders have stressed that they are "following the science". Given their power, it seems important scientists don't let their own political, ethical or economic values influence their advice. It would be deeply undemocratic if, as the Mail implies, Michie sneaked communism into policy via the backdoor of science advice. And that seems a valid concern even if communism is a good idea. On the other hand, scientists are, of course, humans with needs, wants, passions and interests. Can they avoid letting values influence their claims?
+
+A large number of philosophers of science now say that’s impossible: scientific justification cannot be value-free. Note just how strong these claims are. There are lots of cases where scientists' ethical or political values have influenced their science. One famous example is the Nineteenth Century "discovery" of "drapetomania" - a psychological condition which made slaves predisposed to run away from plantations. From our perspective, the "science" of drapetomania was, consciously or unconsciously, driven by the values and interests of the rich, White establishment. However, the philosophers' worry isn't just that lots of "science" is influenced by values. It's not even that it is difficult to avoid having science influenced by values, or difficult to tell whether science is influenced by values, or that choices about what to research might reflect economic values. Rather, it is that the very core of scientific justification must be influenced by values. There is no way at all of doing science which doesn't somehow prejudge or assume some ethical or political or economic viewpoint. It's not just "drapetomania causes slaves to run away" which is value-laden; so, too, is "smoking causes lung cancer" or "Covid-19 is airborne". Why think that? And what are the implications for the relationship between science and policy?
+
+How much evidence that some claim is true should we require before saying that the claim has been justified?
+
+**When is enough evidence enough?**
+
+Perhaps the simplest and most powerful argument for an inescapable role for values in scientific justification appeals to "inductive risk". All scientific knowledge is inductive; strictly, it goes beyond our evidence. For example, while we have huge amounts of evidence that smoking causes lung cancer, we cannot be 100% certain of that conclusion. Maybe, just maybe, something else explains the patterns we see. This simple fact generates a problem: How much evidence that some claim is true should we require before saying that the claim has been justified? This question of how certain is "certain enough" can't itself be answered by science. There is no fact out there in the world along the lines of "only accept claims when you are at least 95% certain".
+
+The more evidence we demand, the lower our chances of a false positive (accepting a claim which is, in fact, false). That's good, because acting on false claims is, at best, pointless and, at worst, harmful. However, demanding lots of evidence comes at a cost: an increased risk of false negatives (not accepting claims which are, in fact, true). That could be a problem, because not accepting true claims can also be costly. The key claim of much recent philosophy of science, building on arguments from Heather Douglas, is that the only proper way of setting a level of certainty is to think through the ethical and practical costs of these different errors. The higher the costs associated with false positives, the more certainty we should demand. The higher the costs associated with false negatives, the less certainty we should demand. When we do science, we need to think about the non-scientific effects of saying a claim is justified.
+
+Think about an example. In March 2020, the UK government had to decide whether to accept the claim "Covid-19 risks overwhelming the NHS". They had some evidence for this, but that evidence was uncertain, complex and contradictory. How much evidence should they have required before accepting the claim? The less evidence they demanded, the greater the chance of a false positive, leading to massive, unnecessary damage to the economy. The more evidence they demanded, the greater the chance of a false negative, leading to unnecessary loss of life. Many people now think that the government got this balance wrong: they waited too long. I don't know whether that is correct. What is clear is that these concerns express not just a scientific, but also an ethical or political judgment, concerning the proper balance of economic and public health goals, the nature of governmental responsibility, and so on.
+
+So, according to the "inductive risk" arguments, scientific justification must be value-laden because decisions about how certain is "certain enough" must rest on broadly ethical claims. Note that the argument doesn't hold that these decisions must always be conscious or explicit. Rather, most of the time, scientists solve their inductive risk problems by appealing to conventions. For example, statistical approaches which minimise false positives are often built-into into statistical computer programmes. The power of the argument is that those conventions can themselves presuppose or imply contestable ethical values. Someone who has been born and brought up eating meat might reach for the chicken leg without thinking about it, but that doesn't imply that eating meat is an ethically neutral activity.
+
+We face a problem: the authority of scientific experts seems to turn on the idea that they are objective; objectivity seems to require value freedom; but the problem of inductive risk seems to imply that all scientific justification is value-laden. Something has to go, but what?
+
+**A problem for science, or science communication?**
+
+One option is to find some way for scientists to avoid taking inductive risks; for example, rather than say "Covid-19 is airborne", running a risk of false positives, they could say "we are very certain that Covid-19 is airborne". This would leave policy-makers with a question of whether "very certain" is "certain enough", but at least the scientists could keep their hands clean. Indeed, there are cases where scientists do something like this. The reports of the Intergovernmental Panel on Climate Change, for example, are full of qualifiers, such as that it is "virtually certain" that climate change is a result of human action.
+
+We face a problem: the authority of scientific experts seems to turn on the idea that they are objective; objectivity seems to require value freedom; but the problem of inductive risk seems to imply that all scientific justification is value-laden.
+
+On this response, inductive risk concerns aren’t really about science itself, but about how science is communicated. The problem is that scientists sometimes engage in sloppy talk, saying claims are true when they should say they are “X%” certain.[[SJ1](applewebdata://9AE0A35E-2130-47D1-BB6A-3DF9FF78B06C#_msocom_1)
+
+Unfortunately, this strategy doesn’t work, because inductive risk problems arise throughout the scientific process, and not just when reporting. Consider the models used to predict the likely effects of different lockdown policies. Those models produced probability estimates, rather than certainties. However, even generating these probability claims involved making very many contestable assumptions about different parameters - such as public willingness to abide by lockdown measures. In turn, over- or under-estimating those parameters might have significant practical effects. Model-builders faced an analogue of an inductive risk problem.
+
+You might still dig-in and say that the scientists could, somehow, have avoided making any value-laden choices, say, by running multiple models and reporting *all* of their results. Of course, scientists do, in fact, often run models using different variables, offering a range of estimates. Still, even this approach involves making value-judgments, about which approaches are worth investigating, what is most important to know about, and so on. No scientist studies *all* of the possibilities and reports *all*of the uncertainties. It’s not clear that’s possible. Even if it is possible, it seems a huge waste of time and effort. If expert advisors don't make judgments, the policy-maker might as well just do a google search.
+
+**Values as a guide to objectivity**
+
+We are left, then, with two options: to deny the authority of science, or to change our image of objectivity. The first option is exciting, but risks throwing the baby out with the bathwater: even if climate science or epidemiology involves some value judgments, it seems better for climate scientists or epidemiologists to play a role in policy than to leave everything to unqualified talking-heads.
+
+The second option, then, is to give up on the idea that objectivity is about the absence of values, and to say that it is about the presence of the right values.
+
+The second option, then, is to give up on the idea that objectivity is about the absence of values, and to say that it is about the presence of the right values. This proposal may seem worrying. How could we know what the right values are? Is there even any such thing as the "right" values? Haven’t we saved objectivity in science by entering into the even trickier area of objectivity in ethics?
+
+These are difficult questions. Fortunately, in the context of policy-advice, we can largely sidestep them. In a democracy, the "right" values just are democratic values, the values which shape our political system and which are shared by most of the people. As long as the values which shape scientific practice are consistent with these democratic values, then science can be objective.[[Alexis Pa2]](applewebdata://9AE0A35E-2130-47D1-BB6A-3DF9FF78B06C#_msocom_2) [[SJ3](applewebdata://9AE0A35E-2130-47D1-BB6A-3DF9FF78B06C#_msocom_3)
+
+Susan Michie was wrong to draw a strong line between politics and science, because good science must be political. The Daily Mail was wrong to say that the fact she's a communist automatically undercuts her advice, because her advice can be guided by values other than her own.
+
+ Of course, it isn’t easy or straightforward to make certain that the values which shape science are democratically legitimate. There's a fine line between respecting democratic values and pandering to the interests of the governing party. What matters is that scientists use the values which policy-makers *ought* to reflect, because they are the values of the people, rather than the short-term values of electoral success. This is hard, though, because it can be difficult to know what the people reallywant, and scientists may not be the best-placed people to know that anyway. Building an objective science may require greater public involvement in, and oversight of, scientific practice. It may require systems of contestation or debate. All of these systems can go wrong. Still, these problems are not unique to thinking about scientific advice; rather, they are problems which must be faced if we are to say that government can be democratically legitimate. No-one ever thought objectivity would be easy.
+
+[[Alexis P](applewebdata://9AE0A35E-2130-47D1-BB6A-3DF9FF78B06C#_msocom_4)
+
+Still, you might be nervous: haven’t we replaced the idea of science as a trustworthy guide to the world with a notion that our values are a good guide? Maybe. Still, if we are to follow the science, and science must rest on some value judgments, we must make certain that the science, ultimately, follows us.

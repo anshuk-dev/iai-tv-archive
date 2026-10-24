@@ -1,0 +1,73 @@
+---
+title: "The psychedelic cure for philosophy"
+subtitle: "Taking the psychedelic experience into account must radically alter philosophy"
+author: "Michel Weber"
+date: "19th July 2021"
+article_id: "1837"
+channel: "Arts & Culture"
+themes: "Society & Culture"
+tags: "None"
+word_count: "1,895 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-15.Psychedelic-exp.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-psychedelic-cure-for-philosophy-auid-1837"
+---
+
+# The psychedelic cure for philosophy
+
+*Taking the psychedelic experience into account must radically alter philosophy*
+
+**By Michel Weber** | *19th July 2021* | *Read time: approx. 9 mins* | *1,895 words*
+
+![The psychedelic cure for philosophy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-07-15.Psychedelic-exp.webp)
+
+---
+
+*Western philosophy has ignored the psychedelic experience for too long. The focus on a particular logical framework is misplaced and our apparent emphasis on empiricism cannot be complete until we take into account all experiences, writes Michel Weber.*
+
+Philosophy of mind has been crippled, since its very beginnings, by two main prejudices. First, the blind implementation of the traditional Western logical framework, that boils down to Aristotelian logic; second, the perennial neglect of crucially relevant empirical data, in so far as, in most arguments, sense-perception is reduced to sight alone.
+
+We can overcome these crippling effects if we take into account data coming not only from the other external senses, but also from internal senses, as well as what is gathered in altered states of mind — including, of course, the psychedelic state. This completely redefines the limits and possibilities of knowledge, both from the systematical (hence logical) and the empirical points of view.
+
+**Firstly**, philosophy of mind has been weakened by the blind implementation of the traditional Western logical framework, that boils down to the Boolean version of Aristotelian logic. (cf. Weber 2003)
+
+Aristotelian logic is traditionally defined by three principles: the *principle of identity*, the *principle of non-contradiction*, and the *principle of excluded middle*. The principle of identity states simply that we come to know all things in so far as they have some enduring unity and identity (*Metaphysics* B 4). It has to be linked with the substance-attribute ontology granting permanence amid flux. The principle of contradiction is somewhat the negative side of the principle of identity: it claims that the same attribute cannot, at the same time and in the same respect, belong and not belong to the same subject (*Metaphysics* G 3; *Posterior Analytics* I, 77a10–22). For Aristotle, it is “the most certain of all principles,” the “natural starting-point for all the other axioms” — so much so that he does not believe that Heraclitus has ever really maintained that contrary attributes belong at the same time to the same subject. According to the principle of excluded middle (or *tertium non datur*), there cannot be an intermediate between contradictories: of one subject we must either affirm or deny any one predicate (*Metaphysics* G 7; *Posterior Analytics* I, 77a22–25).
+
+Philosophy of mind has been crippled, since its very beginnings, by two main prejudices
+
+From a formal point of view, the difference between a contradiction and a paradox is straightforward enough. A contradiction is a statement that is always false — and *everybody agrees* that it is so because some mistake must have occurred in the chain of reasoning. A paradox, as its etymology shows, is a contradiction that has the appearance of truth. As a result, there are numerous *opinions* regarding the way of understanding them; no consensus prevails. A distinction should be made between those who claim that paradoxes could be solved through a more thorough understanding of their internal dynamic (think of Bertrand Russell’s quest), those for whom finite reason generates, at least in some (circumscribed) circumstances, paradoxes (such as Kant’s antinomies), and those who claim that reason *is* inexorably paradoxical, and so is Nature (such as Hegel’s dialectic). In the first case, paradoxes are nothing but (stubborn) temporary difficulties; in the second, they point to the unavoidable *blind spot* of reason; in the third, they are fully part of the mundane ontological structure. In any case, the decision can be made to try to formalize them, and this can be achieved with or without modifying the three Aristotelian principles mentioned above.
+
+**Secondly,** the neglect of crucially relevant empirical data appears obvious, in so far as sense-perception has been reduced to sight alone by Western philosophy. Whitehead claimed, before Jonas, but after Maine de Biran, that philosophers “have disdained the information about the universe obtained through their visceral feelings, and have concentrated on visual feelings” (Whitehead 1978, 121).
+
+Hearing and touch have been totally marginalized in philosophical discussions. The paradoxical gain was to secure the concept of objectivity at the price of causality. *In sum*, the mind has gone where vision prompted.
+
+As a result, taking into account data coming not only from all external senses (exteroception), but also from internal senses, as well as perceptions in altered states of mind, such as the ones disclosed via psychedelics, completely redefines the stakes, both from the systematical (hence logical) and the empirical points of view. This amounts to practicing a *radical empiricism*.
+
+Moving back onto the logic… For a long time, we have been told that there is *no third possibility*: either the cat is alive, or it is not. Whether you consider that logic is abstracted from facts, that it formalizes facts, or even that it strictly matches reality (the Hegelian wager), *when factuality is enlarged, logic is redefined*. The Theory of Types, for instance, proposes a solution to paradoxes involving no real modification of the Boolean principles: it “simply” uses a sharp distinction between levels of abstraction. But the appeal to a contradictory logic, or the dismissal of the principle of excluded middle are other possible paths that have been variously taken as well: Buddhist logic accepts tetralemma, Graham Priest (Priest, 1987) promotes a *transconsistent logic* where some contradictions are true (he speaks then of “dialetheias”); the *quantic logic*, framed by Garrett Birkhoff and John von Neumann to cope with the advances in microphysics, revokes, for its part, the excluded middle (Birkhoff and von Neumann, 1936; cf. Jammer, 1974 and, from a more “classical” perspective, Hartshorne, 1965 and the Rescher-Brandom (1980) theory of inconsistent worlds). All this debate occurs of course within the territory of Western philosophy and its Quinean legacy.
+
+[Peter Sjöstedt-H investigates how to fathom timelessness via psychedelics](https://iai.tv/video/how-to-fathom-timelessness-via-psychedelics-peter-sjostedt-h "Watch more videos on iaitv")
+
+When the doors of perception are opened, the Aristotelian logic is revoked and its ontological counterpart —substance ontology— relativized. Doing so reframes the epistemological and metaphysical puzzles and, unsurprisingly, fosters a *process* anthropology that has been foreseen by the first humanism, that manifested itself in perhaps its most acute form during the Renaissance.
+
+The immediate consequence of the opening, or cleansing, of the perceptive doors is a process cosmology: “Everything gestures. Tables are tabling, pots are potting, walls are walling, fixtures are fixturing — a world of event instead of things.” (Watts 1962, 69.) This means that enlarged (sense-)perception resuscitates the world, reenchants it (without supernaturalism), as Griffin (2001) has claimed. This can be understood in a rather immanent fashion, or with a degree of transcendence, such as the one that has apparently been claimed lately by all forms of religiosity.
+
+According to the *Varieties* (James 1902), the religious life necessarily involves three cosmo-psychological keys: “more”, “flux”, and “union” (cf. Weber, 2004). James uses Gustav Fechner’s threshold theory (1860) and William Blake’s speculations (1885). There is first a structural thesis: on the one hand, “the visible world is part of a more spiritual universe from which it draws its chief significance”. In other words, the world of everyday experience is inscribed in a *broader world* and this world is not alien to our world at all: it is simply, but significantly, *more* spiritual. On the other hand, the gate existing between the worlds is understood with the help of a concept borrowed from Fechner’s psychophysics and that has had a strong legacy: *the subliminal door*.
+
+These worlds are not bifurcated, their doors are not closed. Spiritual energy flows in both directions, which means that communication with the higher powers is possible, and especially that prayer is empowered with an efficacy of its own kind. Third, “union or harmonious relation with that higher universe is our true end”. When James underlines that “there is *something wrong about us* as we naturally stand”, he makes plain that this uneasiness is due to our disconnection with our true Self, our fellows humans… and eventually the Totality: *we are saved from the wrongness* “by making proper connection with the higher powers”. (James 1902, p. 508) To live at unison with the higher powers has a transformative virtue that brings meaning, peace and safety to one’s life.
+
+If mental phenomena, answerable or not to the concept of soul, are actually processes rather than states of an underlying material structure, all existential issues can be reassessed.
+
+Psychological consequences are equally powerful. If mental phenomena, answerable or not to the concept of soul, are actually processes rather than states of an underlying material structure, all existential issues can be reassessed. Transformation and co-creation are the rules. From a therapeutic point of view, *change* becomes implementable —and thinkable— since it is the constitutive (ontological) feature of our world. *In sum*: freedom only makes sense in a process universe. This being said, egolessness is equally thinkable: self-surrender, ego death, ego-loss, psychic death, now means that the egoic process is (momentarily) interrupted.
+
+If one chooses to try to comprehend the epistemological stakes, a clear ontological standpoint needs to be adopted. To (over)simplify, we have the choice between substantialism (materialistic or idealistic), pluralism or monism, laminar or atomic processes, and contiguism — the later being exemplified in Whitehead’s organicism (Weber 2006 and 2011).
+
+Phenomenologically, one has to decide between *extasis* and *enstasis* (Eliade 1951). Basically, Eliade tends to interpret all forms of shamanism as archaic techniques of *extasis*, while blends of yoga are, equally archaic, techniques of *enstasis*. In the first case, there is a dissociation with the body that allows what is traditionally called the shamanic flight; in the second, the association of the mental process with the bodily processes is such that a dissolution of the poles is possible.
+
+*Enstasis* is probably more relevant to process philosophy *lato sensu*. James did some pioneering work in the philosophy of nootropes and psychotropes when he used chloral hydrate (in 1870), amyl nitrite (in 1875), nitrous oxide (in 1882), and peyote (in 1896) to probe the margins of consciousness. His concept of surrounding Mother-sea or Reservoir of consciousness can be found, e.g., in his ‘Confidences of a “Psychical Researcher”’ (1909), that is anchored in Fechner’s speculations (1851). Interestingly enough, the metaphor has been later conceptualized by Romain Rolland (1929) and echoed in Freud’s *ozeanisches Gefühl* or *Ewigkeitsgefühl*. (On the Freud/Rolland correspondence, and especially the 12/05 1927 letter, see Masson 1980 and Parsons 1999.)
+
+You are an infinite ocean; the universe is a wave. An encyclopedia could be written on the shades and hues of the oceanic feeling in question, starting with the import and significance of *jada samâdhi* or *nirvikalpa samâdhi* in Advaitavedânta (nondualistic Vedânta), and one wonders what Plato had in mind when he evoked in the *Symposium* and the *Republic* the vast sea of beauty. Grof’s Basic Perinatal Matrices (1975), and especially the first, are more straightforward.
+
+It should be plain obvious that taking the psychedelic experience into account radically modifies the applicability of Boolean logic and transforms the philosophy of mind. The political consequences also deserve to be mentioned. As soon as one broadens the scope of experience, three ecologies of mind converge: the environmental ecology that is concerned about our biotope, the social ecology that seeks to reinvent communities, and the mental ecology that fosters creative becoming (Weber 2016). This synergy, recently debated by Guattari (1989), actually nurtures all traditional worldviews. Such a synergy, induced by the acceptance of the legitimacy of psychedelic experiences, could help cure Western philosophy of its logical focus and non-inclusive empiricism.
+
+*This paper is inspired by the Author’s “Arguments for the psychedelic cure of Western philosophy”, to be published in Sjöstedt-Hughes, P. and Hauskeller, C., eds. (2022) Philosophy and Psychedelics (London: Bloomsbury Academic)*

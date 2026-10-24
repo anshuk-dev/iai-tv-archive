@@ -1,0 +1,77 @@
+---
+title: "The uses and abuses of the 'Russian soul'"
+subtitle: "The weaponization of Russian identity"
+author: "Josephine von Zitzewitz"
+date: "24th February 2023"
+article_id: "2400"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+word_count: "1,693 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-02-24-The-uses-and-abuses-of-the-Russian-soul2.dc.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-uses-and-abuses-of-the-russian-soul-josephine-von-zitzewitz-auid-2400"
+---
+
+# The uses and abuses of the 'Russian soul'
+
+*The weaponization of Russian identity*
+
+**By Josephine von Zitzewitz** | *24th February 2023* | *Read time: approx. 8 mins* | *1,693 words*
+
+![The uses and abuses of the 'Russian soul'](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-02-24-The-uses-and-abuses-of-the-Russian-soul2.dc.webp)
+
+---
+
+*The notion of the Russian soul - this ineffable essence that defines the Russian people - has its origin in figures like Tolstoy, Dostoevsky and Turgenev. Despite this literary pedigree, these days it’s animated in the speeches of Vladimir Putin, stoking Russia’s national exceptionalism and anti-Western sentiment. But even though we can’t separate Russian politics from Russian culture, whether we can trace a direct line from the myth of the Russian soul to the war in Ukraine is highly questionable, argues Josephine von Zitzewitz*.
+
+The ‘enigmatic Russian soul’ is mentioned in approximately every third university application for a Russian course. Many years ago, my own Russian teacher cheerfully recommended that we ‘grow a Russian soul’ if we hoped to ever speak Russian well. But times have changed. Since Russia invaded Ukraine in February 2022, references to the Russian national character have acquired a sinister connotation, and whether or not to cancel Russian culture remains a topical and poisonous debate.
+
+[![nietzsche and putin2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/nietzsche-and-putin2.webp)
+
+SUGGESTED READING
+Nietzsche, Putin and the spirit of Russia 
+By John Milbank](https://iai.tv/articles/nietzsche-putin-and-the-spirit-of-russia-auid-2248)
+
+On the face of it, the ‘Russian soul’ is just another national myth, born during the 19th century, at a time when many European nations affirmed ethno-national identities (cf. German *Volksgeist*). Writers such as Tolstoy, Turgenev, Dostoevsky and others advanced the idea of an ephemeral depth to the Russian national character. The ‘Russian soul’ is usually evoked alongside a conservative, anti-rational and anti-Western agenda based on religious values. It is also informed by a messianic understanding of Russia’s role in world history, driven by the notion of Moscow as the third Rome, i.e. Russia as the successor to the Roman and Byzantine empires. In 1866, [poet Fedor Tiutchev](https://ruverses.com/fyodor-tyutchev/russia-cannot-be-known-by-the-mind/2756/) captured the essence of the myth in an aphoristic quatrain ending in the memorable line ‘You must believe in Russia if you can.’ On a more popular level, this self-understanding has given rise to anecdotes such as ‘What is good for a Russian will kill a German’. Germans are the quintessential Western ‘Other’, and the anecdote praises Russian hardiness and the willingness to suffer.
+
+The idea of an unfathomable essence, inherent in the ‘ordinary’ people and somehow able to neutralize, or at least counterbalance, unsavory phenomena of Russia’s socio-political reality, such as a large percentage of the population living in poverty in a country that commands a sixth of the world’s landmass and huge natural resources, or the continued practice of political repression, is undoubtedly attractive. The longevity of this myth has been nourished by several factors. First, there is the vagueness of the term itself. Then there is the extreme distance between a succession of murderous regimes and an astonishingly long-suffering and arguably passive population, which allows for projections along the lines that ‘still waters run deep after all’. Most importantly, perhaps, different aspects of the ‘Russian soul’ have been repeatedly validated by generations of Russia’s finest artists, regardless of the level of persecution many of them experienced (one thinks of Anna Akhmatova’s cycle of poems, ‘Requiem’). This fact might tempt the observer to conclude that ultimately, the ‘Russian soul’ is itself a victim of Russia’s bloodthirsty rulers. But that’s too simple a take.
+
+\_\_\_
+
+Much as we might want to, it is impossible to separate Russian culture from Russian politics because politicians, keen to exploit cultural capital, habitually make reference to the canon
+
+\_\_\_
+
+On 24 February 2022, Russia brought full-scale war back to Europe. Vladimir Putin’s pronouncements on Ukraine are steeped in Russian national exceptionalism – arguably a variation of the ‘Russian soul’ stripped of all poetic connotations. The dictator is obsessed with Russia’s place in history, combining [selective and often inaccurate](http://en.kremlin.ru/events/president/news/66181) fragments that present [the Russian and Ukrainian people](http://en.kremlin.ru/events/president/news/67828) as one with an account of Russia as the perennial victim of Western aggression. According to Putin, this aggression includes all invitations to and partnerships with Ukraine, a vassal state lacking agency. Putin’s image of Russia is based entirely on historical narratives cloaked in heavy symbolism: Russia upholds the traditional Christian order of civilization against the [corrupting onslaught of the collective West](http://en.kremlin.ru/events/president/news/69465), a centuries-old idea with only one update – now the West exports ‘gender ideology’ instead of rational atheism. The second important element is the official version of Russia as the victorious victim of WWII that liberated Europe from Nazism. The term ‘Nazi’, inextricably entwined with this vital component of contemporary Russia’s identity, is thus a highly effective slur when deployed against Ukraine: Russia is once again fighting fascism.
+
+Much as we might want to, it is impossible to separate Russian culture from Russian politics because politicians, keen to exploit cultural capital, habitually make reference to the canon. A comparatively harmless example are the cultural highlights reenacted for the [closing ceremony of the 2014 Olympics in Sochi](https://www.youtube.com/watch?v=Oqmftd0I77Y). By contrast, the banner bearing portraits of Russian cultural figures that is currently fencing off the [Drama Theatre in the occupied city of Mariupol](https://tsn.ua/en/ato/invaders-are-hiding-their-crime-the-drama-theater-in-mariupol-where-hundreds-of-people-were-killed-is-now-fenced-off-with-banners-photo-2222302.html), which was reduced to rubble by the Russian air force while hundreds of civilians were sheltering inside, is unbearable in its cynicism. Moreover, we cannot ignore the significant number of living cultural figures who lend their voice to the cause of war, such as writer Zakhar Prilepin, who has been foremost among the ultra-nationalists clamouring for a Russian Ukraine since at least the annexation of Crimea in 2014, or Mikhail Piotrovsky, [director of the Hermitage Museum](https://www.theartnewspaper.com/2022/06/24/no-one-can-interfere-with-our-offensive-hermitage-director-mikhail-piotrovsky-compares-russian-export-of-culture-to-countrys-operation-in-ukraine) in St Petersburg, who recently likened exhibitions of Russian art to weapons of war as vehicles of imperial might.
+
+[![related-video-image](https://iai.tv/assets/)
+
+SUGGESTED VIEWING
+The good, the great and the ghosts of the past
+With Myriam François, Grafton Tanner, Stuart Semple, Jenni Murray](https://iai.tv/video/the-good-the-great-and-the-ghosts-of-the-past)
+
+It is easy enough to distance oneself from the likes of Prilepin and Piotrovsky. But what are we to do with the great names of the past? Some note that because classic Russian [culture has been co-opted by the authorities](https://sites.duke.edu/chekhovsfootprints/2022/11/12/a-letter-to-the-russian-ministry-of-culture/), celebrating it plays into their hands. Others point to the [chauvinist undertones](https://spectator.org/the-ally-of-executioners-alexander-pushkin-joseph-brodsky-and-the-deep-roots-of-russian-chauvinism/?fbclid=IwAR0iA4ex3UDpX_w1rv4-Fk5tvdr9SXvl4AdxqijHk4eG7uolKZwlMKk9nkY) in texts by writers from Pushkin to Brodsky. Is it acceptable to treat historical imperialism simply as a mark of a different epoch? Or – the most intriguing position from a scholarly point of view – does the entire canon require radical deconstruction, as Elif Batuman suggests, because the classic novel is both the [product and the theoretical vehicle of empire](https://www.newyorker.com/magazine/2023/01/30/rereading-russian-classics-in-the-shadow-of-the-ukraine-war)?
+
+But the position I want to elucidate here argues that Russian culture has done much more than reduce Ukraine to ‘Little Russia’ (a term favoured by Nikolai Gogol, a Russian classic of Ukrainian birth). Ukrainian writer Oksana Zabuzhko, who has made it her mission to [combat the influence of Russian culture](https://texty.org.ua/fragments/62330/Zabuzhko_z_russkim_Kijevom_i_Bulgakovym_pora-62330/) on Ukrainian soil and beyond, claims that in Russians themselves, Russian literature has formed both the [aggression that erupted into a genocidal war](https://www.the-tls.co.uk/articles/russian-literature-bucha-massacre-essay-oksana-zabuzhko/?fbclid=IwAR2xfyv902gfy7FQujdwnP25imy6kVtibEVpSALEF2ci5D_XS0L5K_nvUSU) and the unquestioning subservience that enables the Russian authorities to send tens of thousands of men to their deaths as cannon fodder. Of course, proving this thesis is as impossible as establishing a causal connection between video games and school shootings.
+
+\_\_\_
+
+Dostoevsky is no more responsible for Russian bombs on Cherson than Nietzsche can be put on trial for creating Auschwitz
+
+\_\_\_
+
+While Russian national exceptionalism, as an inalienable constituent of political, as well as popular and high culture, is certainly one component of the climate that made the war possible, an exclusive focus on culture is facile, not to mention that it echoes the Soviet stereotype of ‘writers as the engineers of the human soul’, commonly attributed to Stalin. Culture can only ever be one factor. And the effect of a brutalising environment on subsequent brutality is much better substantiated by science than the correlation between literature and genocide. Epigenetics can tell us how the experience of violence is passed down through the generations on the cellular level. In this respect, we must look to the realities of life in the Russian provinces, as well as to the largely unprocessed trauma of the Soviet experience – life in a state that terrorized its citizens by turning them against each other, killing and maiming the lives of unprecedented numbers, while insisting on being the best place to live on earth.
+
+One of the sad consequences of war is that it reduces the world to black and white. But at least those of us not affected directly can afford the luxury of differentiating. Then we will be less likely to conflate Dostoevsky, [theorising](https://rvb.ru/dostoevski/01text/vol11/1860/74.htm) in 1861 that Western forms of thought and governance, introduced by Peter I in the 18th century, separated educated Russians from the wisdom of their native soil, or the of 19th-century philosopher Vladimir Solovyov’s religious utopia from 1888, when he presented Russia as harbouring an [impulse for the unification of humanity](https://legitimist.ru/lib/philosophy/v_solovev_russkaya_ideya.pdf), with the utterings of contemporary poet Yunna Morits, raving about Russia as the ‘homeland of victory’ and about ‘russophobic Poland’s’ [dream of ‘raping Ukraine](http://www.owl.ru/morits/stih/off-records2250.htm), Lithuania and Belarus’, having ‘colonised Germany under the direction of the USA and Britain’. Those who see a direct line running from one to the other should nevertheless remind themselves of the distance enforced by the passing of time. Modernist poet Alexander Blok who, in his 1908 cycle ‘On the Field of Kulikovo’, presented his foreboding of a violent future as a new iteration of the foundational battle of Muscovy 500 years ago, could not possibly take a stance on Moscow’s war against Ukraine in 2022 because he died in 1921. Dostoevsky is no more responsible for Russian bombs on Cherson than Nietzsche, whose concept of the ‘Übermensch’ excited the theorists of German racial superiority and can be glimpsed in the Soviet project of the transformation of humankind, can be put on trial for creating Auschwitz. Hence calling the invasion of 24 February a consequence of ‘Dostoevskyism’, as Zabuzhko does, is intellectually disingenuous.
+
+[![Back in the USSR2 min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Back-in-the-USSR2-min.webp)
+
+SUGGESTED READING
+How we got Putin so wrong
+By Stathis N. Kalyvas](https://iai.tv/articles/how-we-got-putin-so-wrong-auid-2063)
+
+Last but not least, we owe it to contemporary Russian culture to differentiate – that is, to those who create literary platforms such as the [ROAR-review](https://roar-review.com/) or civic initiatives such as the [Feminist Anti-War Resistance](https://en.wikipedia.org/wiki/Feminist_Anti-War_Resistance). Moreover, [as Kevin Platt has pointed out](https://www.nytimes.com/2022/04/22/opinion/russian-artists-culture-boycotts.html), there is not just one Russian culture: Russian speakers are diverse and dispersed across countries and continents. Ironically, those who issue blanket bans on anything Russian usually position themselves as opponents of the Russian government. But to portray Russians as a homogenous mass or insist on the unbreakable unity of language and geography means to advance the reasoning of a regime which uses precisely this argument to justify its murderous war and other territorial ambitions.

@@ -1,0 +1,108 @@
+---
+title: "Algorithms We Love By"
+subtitle: "Artificial Intelligence may offer a playful way out of our stale thinking on romance"
+author: "Pavlo Shopin"
+date: "Issue 71, 27th February 2019"
+article_id: "1216"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "2,136 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/rawpixel-1145272-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/algorithms-we-love-by-auid-1216"
+---
+
+# Algorithms We Love By
+
+*Artificial Intelligence may offer a playful way out of our stale thinking on romance*
+
+**By Pavlo Shopin** | *Issue 71, 27th February 2019* | *Read time: approx. 11 mins* | *2,136 words*
+
+![Algorithms We Love By](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/rawpixel-1145272-unsplash.webp)
+
+---
+
+Through online dating applications, social networks, big data analytics, automatic love and breakup letter generators, and other computational intrusions into the private domain, algorithms and artificial intelligence are taking control over the proverbially irrational feeling of love. It might appear enigmatic and impervious to logic, yet the sober perspective of computer science demystifies love and offers well-justified approaches to human relationship problems. Far from challenging the power of artificial intelligence and computation, love has given fertile ground for algorithmic solutions and optimisation procedures. A nuanced, mathematically-inspired look at romance reveals that there are calculable issues and quantifiable outcomes. The latest technological knowledge is now used to establish connections between potential partners and help us make informed decisions when looking for the right match. When it comes to love in the age of artificial intelligence, algorithms organise our relationships and guide partnership choices.
+
+At the beginning of their delightful book *Algorithms to Live By: The Computer Science of Human Decisions* (2016), the San Francisco-based writer Brian Christian and the professor of psychology and cognitive science at UC Berkeley Tom Griffiths discuss the search for a life partner in terms of algorithms. Based on algorithmic evidence, they say that if, for instance, you give yourself 20 years to find Mr or Mrs Right, you should spend 37% of that time on uncommitted relationships. You will only be ready to marry the first person who is better suited to you than the previous partners after seven years and five months. The authors suggest that an algorithmic approach will still fail 63% of the time. Yet it will do much better than chance: if you are looking for that perfect needle, the algorithm “is your best defense against the haystack, no matter how large.” Intuition and romantic attachment are channeled into the cogs of the algorithm; the rule frames love and makes it efficient.
+
+Quizzes, swipes and algorithms are fascinating technological developments, but what if AI can also impart to us ideas about love that we usually associate with deep thought?
+
+**Knowledge and the Randomness of Life**
+
+Our understanding of love is asymmetrically entangled with algorithmic determinism and blind chance. 
+
+Randomness plays an important role in the generation and germination of original thought. The human brain, however, tends to follow existing patterns, and hence cannot always embrace the randomness required to understand the ever more complex social reality of the modern world. Writing in [Aeon](https://aeon.co/essays/the-complexity-of-social-problems-is-outsmarting-the-human-brain%22%20%5Ct%20%22_blank) magazine, the neurologist Robert Burton points out that “the complexity of social problems is outsmarting the human brain.” As a result, our thinking about the big questions of life can be flawed and superficial.
+
+**How to Understand Love**
+
+One such big issue is love. To understand it, we need to think outside the well-crafted box of conventional wisdom. A more comprehensive acceptance of randomness could help people overcome entrenched bias and develop original views of love. Therefore, artificial intelligence might be an answer to the conceptual stasis of modern romance.
+
+**Artificial Wisdom**
+
+There are online AI tools which generate insights into the human condition, producing ostensibly random combinations of words that sometimes capture the vagaries of our lives. They rely on human ideas but weave them together **without conscious regard for traditional thought** patterns. The algorithms might repeatedly employ a limited number of grammatical constructions and vocabulary, yet chance and previous human experience are merged to yield unconventional nuggets of artificial wisdom. One of these strange tools is the InspiroBot meme generator. 
+
+Between June 2017 and November 2018, I spent many hours on the website [inspirobot.me](http://inspirobot.me/%22%20%5Ct%20%22_blank), a [web application](https://knowyourmeme.com/memes/sites/inspirobot%22%20%5Ct%20%22_blank) that, with a single click, generates random, often original inspirational quotes against the background of generic, sometimes comically incongruous photos. These image macros are memes with a twist.
+
+Their “author” is an ambitious yet unassuming, perspicacious and unequivocally mindless program, created in 2015 by the Norwegian artist and coder Peder Jørgensen. It is a “[generative system](https://steemit.com/meme/@ethical-ai/black-box-files-how-does-inspirobot-do-its-thing-generative-systems%22%20%5Ct%20%22_blank)” that has learned regularities behind inspirational quotes and uses them to create new aphorisms. The vast majority of its memes are absurd and nonsensical. Some are painfully ungrammatical, others irredeemably dull. Luckily, there are some insightful, intellectually entertaining, deeply engaging, and emotionally rewarding memes too. The radio host of [*This American Life*](https://www.thisamericanlife.org/extras/why-i-love-inspirobot%22%20%5Ct%20%22_blank)Ira Glass describes these slogans as “sometimes funny but often weirdly insightful and – is this a bad word to use? – sort of profound.”
+
+Since it is hard to predict when a good meme arrives as you click to generate another quote, the application is an archetypal addiction machine. Like Skinnerian pigeons pecking at coloured levers and getting a reward at irregular times, rapacious meme consumers indefatigably click on the only available button on the website that promises to generate artificial wisdom. Felicitous and congenial memes are a rarity, and hence highly precious. There is a tremendous sense of gratification in finding the right idea. [Obsessive impulses notwithstanding](https://theconversation.com/no-youre-probably-not-addicted-to-your-smartphone-but-you-might-use-it-too-much-89853%22%20%5Ct%20%22_blank), the random occurrence of wisdom is the source of much exhilaration and inextinguishable hope of enlightenment. A critical reader might object by saying that there is nothing exciting or hopeful about this practice, as it is merely addiction assuming its many guises. But play too can give insights into life.
+
+Having employed the application for over a year, I have gathered just under 130 quotes that are dear to my heart. The collected memes can be broken down into such deep philosophical topics as life and death, language and silence, memory and forgetting, loneliness and society, technology and nature. Now I would like to discuss some of these aphorisms that tackle the issue of love.
+
+**Love and Creativity**
+
+Late at night as I am staring at my laptop screen alone in a dark room, reflecting on my life, I click on the button to see another quote and the AI encourages me to “keep falling in love.”
+
+I cannot but agree with its words of wisdom, and I see no viable alternative to this categorical imperative. I keep falling in love and deeply appreciate the feeling that unravels my soul in a new and unfamiliar dimension every time. I would like to think about myself this way. I want to keep exploring love and rediscovering the magic of this unique feeling. Somewhere deep inside, I am no longer sure whether I can do it or whether I have ever done it at all. The virtual guru hits where it hurts the most. I keep clicking to generate more artificial wisdom.
+
+\_\_\_
+
+"Perhaps AI won’t be able to produce fully fleshed philosophical arguments. But it can offer a way out of our circular thought."
+
+\_\_\_
+
+The machine warns me that while loving “it” (the desideratum remains unclear), I should prepare for failure and “reinvent the wheel.” I take it as advice to be ready to start building relationships from scratch, to reach out, and seize the moment – no matter how hopelessly pedestrian and trite my efforts may be. I love eureka moments of romantic attachment and enjoy uncovering for myself sensations that are well-known and even canon. Reinventing the wheel is an apt metaphor for the subjective experience of being in love. Unfortunately, I do not see how anyone can be well-prepared for failure in matters of the heart. Moreover, I have to admit that the very nature of love, its inevitable derivativeness in light of the millennia of human relations, ruins the appeal in the environment where original ideas are much more coveted. Reinventing the wheel becomes a painful routine as several billion of us wax lyrical about affection and warmth. The merciless meme monster hits the nail on the head.
+
+**Birth Control, Happiness and Self-Confidence**
+
+[![sexual morality doesnt exist](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/sexual-morality-doesnt-exist.webp)
+
+SUGGESTED READING
+Why sexual morality doesn't exist
+By Alan Goldman](https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212)
+The generator of artificial wisdom nudges me to move on because all I need “in order to be happy is birth control and youth.” Technically speaking, I am no longer young, so I turn to another birth control meme. According to the machine, birth control and self-confidence can make a difference in my life. I have never thought about the relationship between birth control, youth, and self-confidence. There should be a robust anthropological literature on this subject, and it would take volumes of philosophical treatises to establish the relevant links between these convoluted concepts. It only takes two memes to cover the mental chasm between contraception, happiness, and bringing about positive change in the world.
+
+**Sexuality and Reproduction**
+
+When it grapples with sexual drives, the meme wizard adopts a down-to-earth evolutionary perspective and informs me that “sexuality is just reproduction struggling to stay relevant.” The message strikes home. Even Sigmund Freud, were he alive today, would probably agree with this idea in our post-Freudian reality.
+
+This thought-provoking quote warms my heart because, as the application shares with me another meme, I “carry the potential to become a wanker.” For a moment, I think that this way I could elude the pointless struggle. Reproduction is not on my mind when I take matters in my own hands.
+
+**Self-Love**
+
+As I am pondering the interplay between the current ideas of sexuality and the evolutionary demand for reproduction, the machine announces that “masturbation begins with confusion and ends with loneliness.” On this view, reproduction could be the glue that holds society together, and motivates meaning-making. Memes and meanings, as well as the need for social interaction, might stem from the evolutionary pressure to reproduce sexually. As the computer scientist Jerome Feldman wrote in *From Molecule to Metaphor: A Neural Theory of Language* (2006): “since amoebas do not reproduce sexually, they normally have nothing to communicate about.” Confusion and loneliness appear on the stage, when we expel reproduction from our agenda and indulge in narcissistic self-pleasuring. In this context, one of the memes designed by the bot pronounces that “socialising is optional.”
+
+**Seduction and Radicalism**
+
+Eroticism is closely connected with sociopolitical activism. The craftsman of artificial wisdom rightly recognises that “it’s seductive to be radical, just as much as it’s radical to be seductive.” Seductiveness becomes radical in the age of digitally arranged love. However, radicalism might be of questionable repute since sexuality is driven by the urge to reproduce – it now occurs to me that I hesitate to embrace radicals for all the wrong reasons: my primary concern used to be that they tend to paint the picture in black and white. I like this new reason. Granted, radicals are seductive in the most basic sense of this word, but reproduction is hardly an answer to global problems facing humanity. The seductiveness of radicalism is misguided.
+
+**What Is Love?**
+
+Love is one of the big issues of life, which has become much more complex in the modern world. As the human brain cannot cope with this complexity, our thinking about love is often hackneyed and unoriginal. To remedy this intellectual stagnation, we might turn to AI, whose fortuitous generation of wisdom can get us out of the rut and make significant inroads into the manifold landscape of romance.
+
+**The Artifice of Wisdom**
+
+Using an online text generator could be the ultimate [Wittgensteinian language game](https://aeon.co/ideas/how-playing-wittgensteinian-language-games-can-set-us-free%22%20%5Ct%20%22_blank) playing which would set us free. It could push language to its limits, like Dadaism. But aphorisms have blurry boundaries.
+
+In *The Bed of Procrustes: Philosophical and Practical Aphorisms* (2010)*,* the Lebanese-American essayist and statistician Nassim Nicholas Taleb asserts that some people “think intelligence is about noticing things that are relevant (detecting patterns),” whereas “in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).” But in interpreting aphorisms, and their nature as poorly contextualised patterns of thinking, things are more random, and the levels of wisdom they can inspire vary.
+
+For this reason, the Slovenian philosopher [Slavoj Žižek](https://www.youtube.com/watch?v=-ftaltfEdEo%22%20%5Ct%20%22_blank) dismisses wisdom as totally opportunistic. I believe it is time to make sense of the things that appear irrelevant, embracing low-probability patterns. They cannot be the most humane solution, but might open new avenues for exploring the human condition. We are indeed “[fooled by randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness%22%20%5Ct%20%22_blank),” as Taleb observed in his eponymous 2001 book. But folk truths are contingent. To shatter established convictions and find fresh ideas, we can practice artificial wisdom.
+
+**Strange Tools**
+
+AI is no longer a mere tool or technology since it has successfully penetrated such a critical practice as philosophy. In his book *Strange Tools: Art and Human Nature* (2015), the UC Berkeley philosopher Alva Noë suggests that art and philosophy are “strange tools” that reveal to us the way we organise our lives. Through the algorithmic harnessing of randomness, AI can likewise serve as a weird tool that allows us to estrange familiar concatenations of ideas, dismantle quotidian thought, and discover new constellations of meaning.
+
+Philosophers might think that their work cannot be automated, but InspiroBot and many other AI applications have already begun to change the terrain of meaning-making. Dennett is right when he says that “we are entering a new era where the filters and second-guessers and would-be trendsetters may not be people at all, but artificial agents.” Perhaps AI won’t be able to produce fully fleshed philosophical arguments. But it can offer a way out of our circular thought.

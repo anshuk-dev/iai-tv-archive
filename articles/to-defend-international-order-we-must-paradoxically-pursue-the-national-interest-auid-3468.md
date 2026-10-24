@@ -1,0 +1,65 @@
+---
+title: "To defend international order, we must paradoxically pursue the national interest"
+subtitle: "Trump, Venezuela, and why nations now matter most"
+author: "Philip Cunliffe"
+date: "15th January 2026"
+article_id: "3468"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,595 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/National-interest.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/to-defend-international-order-we-must-paradoxically-pursue-the-national-interest-auid-3468"
+---
+
+# To defend international order, we must paradoxically pursue the national interest
+
+*Trump, Venezuela, and why nations now matter most*
+
+**By Philip Cunliffe** | *15th January 2026* | *Read time: approx. 8 mins* | *1,595 words*
+
+![To defend international order, we must paradoxically pursue the national interest](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/National-interest.webp)
+
+---
+
+*Trump’s extraction of Venezuelan president Nicolas Maduro, and the justifications used to support it, show an abandonment of the international rules-based order in favour of an America-First focus on national interests. However, Associate Professor at UCL **Philip Cunliffe** argues the Trump Administration has misjudged what "national interest" really means. A country’s national interest should be thought of in terms of whether or not it effectively channels the will of that nation's citizens. In an era dominated by geopolitical rivalry, the nation is now the unit that counts on the global stage. And, paradoxically, a focus on national interest is the only way to re-ignite international cooperation.*
+
+With the US raid on Venezuela and kidnapping of its president Nicolas Maduro, it is clear that US President Donald Trump has abandoned a strategy of maintaining US global leadership in favor of asserting regional hegemony over the Western hemisphere and the American continents. In so doing, he has claimed that the national interest is central to his foreign policy, even brazenly claiming title to Venezuela’s oil riches. Those US citizens who are opposed to Trump now face a choice as to what comes next. Either they can criticize Trump for his abandonment of America’s global leadership, and they can aim to turn the clock back to restore US primacy as it was before Trump took office in 2016. Alternatively, they can criticize Trump for failing to abide by the national interest he claims to stand for, thereby following him onto the ideological terrain that he has opened up.
+
+The first strategy has the merits of all conservative approaches. Criticizing Trump for having abandoned American global leadership can evoke the warm, nostalgic glow of lost primacy and seek to restore that vanished golden age. Yet the drawbacks of such a strategy are many. For starters, counterposing global leadership to the national interest would play into Trump’s hands, allowing him to pose as champion and steward of the US national interest. This will do nothing to bridge the ideological fissures that have bedevilled the American electorate and that Trump exploited to such great effect in the last presidential election.
+
+\_\_\_
+
+Defending the national interest *from* Trump should also offer plenty of opportunities for criticism, given that so many of his administration’s policies seem to have served his personal vanity or helped enrich his family more than they have served the country.
+
+\_\_\_
+
+In any case, golden ages always turn out be more tawdry upon closer inspection than they initially appear. Venezuela is far from the first regime-change operation the US has conducted in recent times; the difference is that, in previous times, such interventions were camouflaged with soaring rhetoric about America’s altruistic defense of democracy and human rights more than its self-interest. Trump is at least sparing us the hypocritical sermons and empty pieties. More to the point, it is impossible to restore the past—and pretending to do so will only evade the real challenges that confront the US today. Given the growth in China’s industrial might over the last several decades, it is doubtful that the US will ever again enjoy the untrammelled advantage that it had hitherto enjoyed up to Trump’s first win in 2016. Nor will seizing Venezuela’s oil reserves restore American industry.
+
+The second strategy, that of criticizing Trump’s articulation of the national interest, has the advantage that not only does it take the political fight directly to Trump, it also appeals to the majority of Americans who voted for him in the last election. This offers the prospect of whittling away his electoral base rather than leaving it intact—with the American people still divided between populism and liberalism. Defending the national interest *from* Trump should also offer plenty of opportunities for criticism, given that so many of his administration’s policies seem to have served his personal vanity or helped enrich his family more than they have served the country. The problem for this strategy, however, is: how will American voters know what an authentic national interest looks like? And where does all this leave the rest of us, those outside America?
+
+[![US national security strategy](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/US-national-security-strategy.webp)
+
+SUGGESTED READING
+US National Security Strategy, Venezuela, and why the world just turned upside down 
+By Andy Owen](https://iai.tv/articles/us-national-security-strategy-venezuela-and-why-the-world-just-turned-upside-down-auid-3463)
+
+Those of us outside America have had to grow accustomed to thirty-odd years of American global leadership since the US won the Cold War against the Soviet Union in 1989. From the outside, it always seemed as if America’s leadership and America’s national interest were one and the same. After all, if the Americans got their way more often than not in international affairs, how could they not be following their national interest? Yet, however it may have looked from the outside, it evidently looked different from the inside. If it had not, Trump would never have persuaded enough Americans to put him in the White House—not once, but twice.
+
+The fact that Trump has won two terms on the basis of criticizing incumbent Democratic administrations and US elites for having betrayed the national interest in favor of globalization tells us two things. First, not only is the national interest a powerful ideological battering ram in public debate, but many Americans also believed Trump when he said that the US state was no longer configured to serve their interests. And who is better placed to judge the execution of the national interest than the voters themselves? The task for Trump’s domestic opponents now lies in arguing why regional domination cuts against US national interest. The fact that Trump has pulled the rug of US leadership out from underneath the rest of the world has also been humiliating for the governing elites of many other countries, as it begs the question of why they were not following their own national interests in challenging US hegemony, but had to rely instead on American voters to do the job for them.
+
+The ballot box revolt that put Trump into the White House does give us a clue to resolving the problem with which we started—namely, how to establish the content of the national interest. The fact that the American voters have rejected the project of world domination points us in the direction of a new way of thinking of the national interest. Taking our cue from America’s voters, it suggests that we should think of the national interest less in terms of a country’s overall status in world affairs, whether or not it dominates its neighbors or how often it gets its way, but rather in terms of whether or not it effectively channels the will of its own citizens. The national interest is, after all, first and foremost a representative claim—the idea that a given people who share a common territory and live under a common authority also share collective interests that can be articulated and defended by their political representatives. This is the political meaning of independent nationhood. What happens if we think of the national interest in this way?
+
+\_\_\_
+
+Far from being merely an expression of puffed-up national pride, the notion of a national interest presupposes political accountability.
+
+\_\_\_
+
+For starters, thinking of the national interest in this way grounds discussions of policy firmly in democratic accountability. Trump’s efforts to tie the American people into a project of regional domination in place of world leadership also give his opponents an opportunity to reclaim the national interest. Instead of appealing to external and more ethereal sources of authority, such as international law or the United Nations, or (as we often do in Europe) the European Union, questions of national interest are always bound up with questions of legitimate representation, and thus, in the Western world, with democratic self-government. If we have no national interests to speak of, we have no political representation to speak of. And if we have no political representation, we have no democracy. If we can start to think of the national interest as part of a project of political accountability and as a way of legitimising democratic decision-making at the national level, it also offers us grounds for optimism regarding the future of world order. Not only does it offer American voters the chance of pulling the rug out from underneath Trump, but it also offers the rest of the world a new vision of international cooperation.
+
+As the [engine of globalization](https://iai.tv/video/the-rise-and-fall-of-globalisation) has failed and sputtered, and populists have launched their electoral revolts, we can see that democratic politics cannot function without integrated nation-states. A “national interest” presupposes that governing elites are able to formulate and justify decision-making to their constituents. In other words, far from being merely an expression of puffed-up national pride, the notion of a national interest presupposes political accountability. If we are to restore international cooperation in an era increasingly dominated by geopolitical rivalry, foreign policy decisions will benefit from being re-formulated and contested in explicit terms of a national interest before being filtered upwards to international decision-making bodies. This is ultimately the only guarantee that whatever decisions and agreements are reached at the international level enjoy popular support and democratic legitimacy from below. It is this lack of bottom-up legitimacy that has eaten away at the bonds of international cooperation, making them susceptible to [populist challenges at the ballot box](https://iai.tv/articles/nationalism-and-the-left-roy-casagranda-auid-2408). The national interest is [the strongest foundation](https://iai.tv/articles/everyones-a-nationalist-the-left-needs-to-accept-this-auid-3460) for a democratically legitimate international order. Meeting the global challenges of the twenty-first century requires a willingness to think and talk in terms of national interests, as a way of channelling and expressing the hopes of peoples around the world. Far from being a parochial conceit of a bygone age of nationalism, or merely a [populist rhetorical trick](https://iai.tv/video/the-philosophy-of-reform-with-richard-tice), the national interest offers us the only long-term means of rebooting international cooperation.
+
+*For further discussion, see Philip Cunliffe’s recent book,* [The National Interest: Politics After Globalization](https://www.amazon.co.uk/National-Interest-Politics-After-Globalization/dp/1509561110)*.*

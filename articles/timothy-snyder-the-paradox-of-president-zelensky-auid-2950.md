@@ -1,0 +1,191 @@
+---
+title: "Timothy Snyder: The Paradox of President Zelensky"
+subtitle: "On the freedom of Zelensky in Ukraine"
+author: "Timothy Snyder"
+date: "18th September 2024"
+article_id: "2950"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "5,710 words"
+read_time: "Read time: approx. 29 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Ukraines-President-Zelensky-source-wikimedia-commons.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/timothy-snyder-the-paradox-of-president-zelensky-auid-2950"
+---
+
+# Timothy Snyder: The Paradox of President Zelensky
+
+*On the freedom of Zelensky in Ukraine*
+
+**By Timothy Snyder** | *18th September 2024* | *Read time: approx. 29 mins* | *5,710 words*
+
+![Timothy Snyder: The Paradox of President Zelensky](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/Ukraines-President-Zelensky-source-wikimedia-commons.webp)
+
+---
+
+*The actions of President Zelensky following the invasion of Ukraine exemplify a free act. In this article,* *Timothy Snyder recounts his meeting with President Zelensky shortly after Russia launched its full-scale invasion of Ukraine, and Snyder explores the philosophical implications of Zelensky’s decision to stay in Kyiv as Russian troops marched on the Ukrainian capital. President Zelenksy did not run. He stayed. And did so freely.*
+
+**Aaron James Wendland:**It is an honor to introduce Timothy Snyder. Timothy is Richard C. Levin Professor of History at Yale University. He is the author of *Nationalism, Marxism, and Modern Central Europe*, *The Reconstruction of Nations: Poland, Ukraine, Lithuania, Belarus, 1569-1999*, *Bloodlands: Europe Between Hitler and Stalin*, *On Tyranny: Twenty Lessons from the Twentieth Century*, and *The Road to Unfreedom: Russia, Europe, and America*. Snyder’s work has been translated into forty languages, he has received state orders from Estonia, Lithuania, and Poland, and he is the winner of the Hannah Arendt Prize in Political Thought.
+
+**Timothy Snyder:**The subject that I have chosen for myself is thinking about freedom in wartime Ukraine. The basis for this title is a conference that I ran together with some friends and colleagues in 2014, just as the Russian invasion of Ukraine began, the first Russian invasion in spring of 2014. I brought people from North America and Europe to Kyiv and ran a conference called ‘Thinking Together’. Although that’s a very simple idea, I like to think it’s a useful one. And when I speak about philosophy in Ukraine, what I’m going to be doing is not explaining how philosophy might be applied to Ukraine, but instead I will be thinking together with Ukrainians and with others about what I take to be the central subject of this conflict, which is freedom.
+
+That said, I’m very glad to be here together with [Margaret Atwood](https://iai.tv/articles/margaret-atwood-a-sword-is-mightier-than-the-pen-auid-2941), my Ukrainian friends and colleagues, Volodymyr Yermolenko and Mychailo Wynnyckyj, and I’m very glad to be here together with philosophers. I understand that the general framework within which we’re supposed to talk is: ‘What Good is Philosophy?’. I’m going to be aiming for something slightly different: namely, how might we think better or how might philosophy be better if we think together during this war.
+
+\_\_\_
+
+The two words are ‘президент тут’, which means ‘the President is here’.
+
+\_\_\_
+
+My subject is freedom, and my method is going to be very simple. I’m going to begin from what the philosophers or other colleagues might call a speech act. I’m going to begin from an utterance of two words and I’m going to think together with the person who uttered those two words. My subject is going to be freedom and I’m going to break it down into four parts, freedom and speech, freedom and risk, freedom and obligation, and freedom and security.
+
+\_\_\_
+
+I want to treat that act of President Zelensky coming out of his office, going onto the street, and filming a selfie at the beginning of this invasion as a paradigmatic act of free speech.
+
+\_\_\_
+
+The two words are ‘президент тут’, which means ‘the President is here’. Those two words were uttered by the Ukrainian president, Volodymyr Zelensky, on 25 February 2022, just as the invasion had begun, two days into the invasion. First, I want to use those two words to talk about freedom vis-à-vis freedom and speech. I want to treat that act of President Zelensky coming out of his office, going onto the street, and filming a selfie at the beginning of this invasion as a paradigmatic act of free speech. Now, that might not be the first association that people have. And if it is not, I’m going to suggest that that might be because of our bad habits: that in politics, and perhaps even in philosophy, we tend to treat freedom of speech as an empty concept. We don’t pay attention to the substance of what’s said, the setting where something is said, the semantics, how something is said, none of those things matter. All that matters in our everyday portrayal of freedom of speech is the lack of restriction.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Untitled-25.webp)
+
+SUGGESTED VIEWING
+Russia, Ukraine and the Future of Economics
+With Vince Cable](https://iai.tv/video/russia-ukraine-and-the-future-of-economics)
+
+What I want to suggest is that this has it backwards. The reason why we care about the lack of restriction is because of the substance, because of the setting, and because of the semantics – the substance, the setting, and the semantics matter very much. And the reason they matter very much has to do with the purpose of freedom of speech. Freedom of speech isn’t an empty concept, it’s not a reflexive concept, it’s not a kind of habit. Freedom of speech has a purpose. The purpose of freedom of speech is to allow people to speak truth to power. That’s not an original observation of mine. There’s a tradition of this which goes back to Euripides, and this has been reinterpreted much more recently by Foucault.
+
+So, I want to suggest that when President Zelensky said on 25 February 2022 that, ‘I am here, the President is here’, he was of course speaking the truth. He was saying something which was true. In fact, he was in Kyiv at that moment. He was where he said he was. He was doing what he said he was doing. He was speaking the truth against a background of lies. So, one of the reasons why he was there saying what he was saying is that three days into the war, at a time when a lot of people thought the war was about to end, the Russians were claiming that he’d already left Kyiv. So again, he was speaking the truth against a background of lies.
+
+He was also speaking truth to power. Teams of assassins were nearby, probably in Kyiv itself. Tanks seemed to be on the way into the city. They’d gotten very close at that point. Bombs and missiles were falling. He was speaking truth to power. And this is an interesting third part of freedom of speech. The truth that he was speaking was true because he made it true. It was true because of what he was doing with his body. What he was saying was risky, not just because it was true, but because it described a risky state of affairs. But also, because in the very act of speaking, he was taking a physical risk, a corporeal risk. And here we take a slight lateral move from one tradition into another.
+
+[![related-video-image](https://iai.tv/assets/Uploads/41-The-future-of-Ukraine-and-the-world-05.webp)
+
+SUGGESTED VIEWING
+The future of Ukraine and the world
+With Michael Bociurkiw, Jacob Furedi](https://iai.tv/video/the-future-of-ukraine-and-the-world)
+
+There’s another tradition of freedom of speech, I think a closely related one, associated with the Czech philosopher, Jan Pato*č*ka, and with the Czech political thinker and dissident, Václav Havel, which says that a truth is something that you assert, avow, or avouch. It may describe the external world, but it’s true. It becomes true the moment that you avow it, the moment in which you invest in it, the moment in which you associate it with your own bodily existence. Now, this notion of freedom of speech, I think is the correct one. Freedom of speech has a purpose. The purpose is to allow people to speak truth to power. And given that purpose, freedom of speech will involve, as Havel and Pato*č*ka suggest, a certain amount of risk. I think we can see the flesh of this concept. I think we can see the power of this notion of freedom of speech when we come back and contrast it to our everyday way of talking about freedom of speech as a lack of restriction.
+
+If we contrast that speech act of Volodymyr Zelensky to the kinds of things that we usually put into our little category of freedom of speech, we notice some important differences. We tend to be worried about situations where very powerful people are speaking untruths in order to maintain power. Against this background, that doesn’t seem to be so important. We often fret about free speech on campus, by which we mean something like people coming to campus to say the most annoying thing that they can and then fleeing in their limousines. That doesn’t really seem so central. That doesn’t seem to be really a central case of what freedom of speech is about.
+
+\_\_\_
+
+No one is showing valor when they provoke needless, mindless controversy in an entirely safe situation.
+
+\_\_\_
+
+It might be that *de facto* those sorts of things would have to be protected by any reasonable law. But those kinds of actions, I think, like speaking untruth to maintain power or deliberately abusing the notion of free speech in the name of free speech, those kinds of things have to be treated with suspicion rather than valorized. No one is showing valor when they provoke needless, mindless controversy in an entirely safe situation. No one is showing valor when already holding power they lie to try to preserve or magnify that power. The thing which should be valorized, or the person who should be valorized, is the person who is taking risks to speak truth to power. The notion of the person here, I think, is also very important.
+
+I’ve been trying to say ‘freedom of speech’ rather than ‘free speech’, and that is for a reason. I may have failed. I may have fallen into the cliché of saying ‘free speech’. But I think ‘free speech’ is a cliché which leads us in the wrong direction because it suggests that the thing which is free is speech as opposed to the person.
+
+\_\_\_
+
+‘Freedom of speech’ is the right term because it implies the freedom of the speaker.
+
+\_\_\_
+
+It may seem like I’m splitting hairs, but I’m not. A huge number of utterances with which we’re confronted every day, or a huge percentage of the utterances with which we’re confronted every day, are produced by algorithms. Magnified or even produced by algorithms. They are produced by entities that are not human and do not have rights. I think it’s pretty important that one of the ways in which we organize our conversation around the freedom of speech is to make sure that the utterance is actually connected to a person. Because if it’s not connected to a person, if it’s just some digital agglomeration, then it doesn’t have any rights. There’s no person connected to it. There is no truth because the algorithm doesn’t care about truth. It can’t be spoken to power because the algorithm has no attitude to power. Or put it more simply, there just isn’t a speaker.
+
+‘Freedom of speech’ is the right term because it implies the freedom of the speaker. That seems to be the crucial concept. And the speaker, in Zelensky’s case, and in others, is displaying freedom, embodying freedom, by taking a risk. This leads me to the second category of freedom, or the second association with freedom, about which I wanted to speak, which is freedom and risk.
+
+So, we’re done for now with freedom and speech. Now I would like to talk about freedom and risk. And as I do this, I just want to recall my method. I’m staying with those two words spoken on the 25th of February 2022 by President Zelensky, those two words, президент тут, the President is here. As I move forward, I will also be slowly moving into my own engagement with him about those words when we talked about them.
+
+[![related-video-image](https://iai.tv/assets/Uploads/H23STUDIO-Fiona-Hill.webp)
+
+SUGGESTED VIEWING
+Putin and the cult of personality
+With Fiona Hill](https://iai.tv/video/how-we-let-russia-invade-ukraine-fiona-hill)
+
+In order to think about freedom and risk, I want to step back from those two words, президент тут, and the setting in which Zelensky spoke them, and move into a more American setting and reflect upon my thoughts and experiences in February 2022. In the weeks and days before the war, I felt pretty isolated in my claim, my publicly recorded claim that Zelensky would remain in Kyiv. That was my view. It was certainly a minority view. I felt strange saying it the way you feel strange when everyone else is saying the opposite of what you’re saying. But I said it so that it was broadcast on an important Sunday evening American television show, 60 Minutes. My claim that Zelensky would remain was broadcast on ‘60 Minutes’ on Sunday the 20th of February. Again, this is before he did remain and before he said those two words. This is five days before that. It’s the Sunday.
+
+On Monday the 21st, the next day, I was sitting right where I’m sitting now, my office at Yale, in order to take part remotely in the doctoral defense of a history student defending a dissertation in Lviv in Western Ukraine at the Ukrainian Catholic University. The student passed and then immediately joined the Ukrainian Territorial Defense.
+
+On the 22nd of February, on Tuesday, I took part as a guest in a class of a Yale colleague where the colleague had convened security advisors from both the Trump and Obama administrations. And among other things, he asked them the same question that I had been asked, will Zelensky stay if there is a Russian invasion of Ukraine? And to my recollection, all of them said that Zelensky would flee. They were very polite in their disagreement with me, but they said: ‘Zelensky is going to flee’.
+
+This is the setting I want to recall. And I guess I want to be asking why it was that we all thought that and what does it say about us that we thought that. There’s a simple answer to this, which is that the Americans had just experienced a painful withdrawal from Afghanistan and that people are always remembering the last war. So, everyone was applying the analogy from Afghanistan to Ukraine. While I don’t want to discard that, I can’t help but notice that this notion that Zelensky was going to flee and that the associated notion that Ukraine was going to fall went well beyond the United States. It was pretty broadly shared.
+
+[![science and religion arent the meaning of life](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/science-and-religion-arent-the-meaning-of-life.webp)
+
+SUGGESTED READING
+Science and religion are not the answer to life
+By Babette Babich](https://iai.tv/articles/nietzsche-we-must-seek-the-perspective-of-eternity-auid-2937)
+
+There is something to the Afghanistan analogy, but I think something more fundamental was going on, which has to do with freedom and risk or more broadly with what freedom actually means. I think it has to do with something that in my other writings, first, in *On Tyranny* and then in *The Road to Unfreedom*, I call the politics of inevitability after 1989.
+
+That is the sense which sometimes goes under the name of there is no alternative, it sometimes goes under the name of the end of history. The sense, the very powerful sense, the very broadly shared sense, that all that was going to happen in the future was a kind of general convergence towards democracy and freedom. Underlying that analysis was the presumption or the assumption that democracy and freedom are the result of larger forces. The larger forces people had in mind were usually capitalism, or maybe American exceptionalism as an example for everyone, but some larger force was going to ensure that there was freedom and democracy.
+
+Now, this way of thinking about freedom and democracy has a lot of problems. It verges on being logically contradictory, because after all, if you’re living in a world of inevitability, it’s hard to imagine how you can then be free. If you’re living in a world where everything is guided by larger forces, where are the people who rule? Where is democracy? How is that then possible? More practically, this kind of passivity about democracy and freedom breeds bad habits. If you assume that things are going to go your way then you don’t get into the habit of struggling, as Frederick Douglass says you must. You don’t get into the habit of struggling for the value of freedom or for the value-laden system of democracy. Those muscles grow limp, right? Those reflexes die.
+
+\_\_\_
+
+I think the fundamental reason why so many people in North America and Europe assume that Zelensky would run is that that’s what they would have done.
+
+\_\_\_
+
+But the relevant consequence here when we think of February 2022, the relevant consequence of the politics of inevitability in that setting is this: if you’ve gotten used to thinking that democracy and freedom are the result of larger forces, then what do you do when the forces are arrayed against you? And of course, this is a question which doesn’t only apply to a war in Ukraine. You can also apply it to an attempted coup or a financial crisis or any number of other things, a terrorist attack, any number of other things. If you think that your freedom and your democracy depend on larger forces and then you meet a shock where it turns out that the larger forces aren’t going your way, what do you do? What can you do? You run. That’s all that you’ve got left. You run.
+
+I think the fundamental reason why, and I say this with shame, but also in the hope that recognizing this will help us, I think the fundamental reason why so many people in North America and Europe assume that Zelensky would run is that that’s what they would have done. Because from their point of view in Kyiv, if they had been in Kyiv, they would have thought the larger forces were against me. What else is there? Democracy, freedom, the result of objective forces? Suddenly the objective forces are turned against us. You run. What else are you going to do? But he didn’t run. He stayed. He chose to remain on the 22nd of February. The two words, the President is here, президент тут, he uttered three days after the invasion. He’s remained in Kyiv ever since. And he and a lot of other people who behaved similarly have led a Ukrainian resistance, which has to do not only with the Ukrainian state but with Ukrainian civil society.
+
+Looking upon this from the outside, I think it’s fair to say that we have then been divided into the astonished and the cynical. People who are not somehow impressed by this are those who like Putin or like subjugation or like to be lied to. They’re living in some kind of cynical, nihilistic world. Essentially, they’re behaving as if nothing happened. And if Zelensky remaining in Kyiv doesn’t make any impression on them, that’s because nothing could make an impression on them. They’re living their political life in a land of cynicism or nihilism.
+
+Then there are the astonished. I’m struck by this. The astonishment comes with an uncertainty about how to characterize what Zelensky has done. People know that it is somehow impressive and they know that for them it was unexpected, but they’re not quite sure what to say about it. People who are astonished seem to me to be those who still have some kind of value commitment to freedom, but they are not sure how to characterize freedom as a matter of taking risks, which is what the behavior demonstrates. It shows that freedom can’t be just a matter of some kind of objective laws about our three-dimensional world. It has to involve a commitment to values which then brings about a corporeal or bodily commitment. Freedom and democracy have to be a matter of taking risks. Not just every risk, not taking risks on purpose, not taking risks for the sake of it, but taking thoughtful risks. There’s always going to be this element in freedom and democracy. Larger forces may push this way, they may push that way, but if you’re going to be a free person, you have to confront the larger forces, alter the larger forces, find exceptions to larger forces, sublimate the larger forces, trick the larger forces, do something with the larger forces besides expecting that they’re going to be on your side. You’re going to have to take some kind of risk.
+
+This brings me to something that I did talk about with President Zelensky, and which seems to be an interesting but soluble problem for freedom. I’m going to characterize this as my third point, or my third concept, that is, freedom and obligation. What I’m concerned with here is a situation in which it seems to you that a person is free and yet the person himself or herself or themselves say that there’s nothing else they could have done.
+
+[![related-video-image](https://iai.tv/assets/Uploads/24-05-14-bill-browder-on-surviving-puting-in-depth-interview.webp)
+
+SUGGESTED VIEWING
+Bill Browder On Surviving Putin
+With Bill Browder](https://iai.tv/video/bill-browder-on-surviving-putin)
+
+On the one hand, when I spoke to Zelensky about all this I had the impression that I was talking to someone who was quite free. Even though we’re behind checkpoints, we’re behind sandbags, even though we’re talking during an important battle, even though he’s been working incessantly for months, he’s relaxed, he seems to be without complexes, he’s open to talking about whatever. I told him I wanted to talk about philosophy, and he said, ‘Let's do that.’ And then we talked about philosophy for a couple of hours, for the better part of the afternoon. So, on the one side, judging by his comportment, as far as one can judge, Zelensky seemed to be very much a free person.
+
+On the other hand, when we talked about his decision to remain in Kyiv, and his explanation for it, he circled around the same thing over and over again. He said: ‘I could not have done otherwise.’ He said: ‘I would not have been myself had I left.’ He said: ‘I would not have respected myself if I had left.’ So, here we seem to have something of a paradox. I am going to call it the Zelensky paradox. How might it be that someone who seems to be free, by comportment, who is not restrained feel as though there was nothing else he could have done?
+
+\_\_\_
+
+On the other hand, when we talked about his decision to remain in Kyiv, and his explanation for it, he circled around the same thing over and over again. He said: ‘I could not have done otherwise.’ He said: ‘I would not have been myself had I left.’ He said: ‘I would not have respected myself if I had left.’ So, here we seem to have something of a paradox. I am going to call it the Zelensky paradox.
+
+\_\_\_
+
+I think there’s a way to resolve this little paradox, this Zelensky paradox. If we think about freedom in the right way, as a kind of pluralist engagement with values over the course of a life, this apparent paradox dissolves. If we imagine freedom as the highest value because freedom is what allows us to engage with and choose among and realize all the other values, and then if we think about our life in its stages, in the correct temporal order, if we think about life as practice in making such choices, we remember that these choices are going to involve subjective evaluations, unpredictable circumstances around us, and values that are themselves irreconcilable. You can’t always get everything that you want at the same time. You have to kind of play tricks or try to combine or do one thing now, and one thing later. These choices are always going to involve imperfect outcomes, but imperfect outcomes are laden with values and have consequences. So, if we think about freedom this way, then we see freedom as this kind of pluralist engagement with a world of values that we can do because we’re free.
+
+Now, if we remember that over time we change and that all decisions that we take are part of us as we make the next decision, then we could use an old-fashioned word and say that the person making these choices over time develops the thing that we could call ‘character.’ And depending on the type of character, a situation can then arise in which there really doesn’t seem to be a choice in the sense that it’s clear what the right thing to do would be. But the reason why it’s clear is because of the accumulation of free choices over the years. So, it’s precisely being a free person over time which generates that sensation at certain critical moments of life that there’s really only one thing that can be done. So, there’s the solution to the Zelensky paradox, which was worked out not only about, but during my conversation with Zelensky. But I’m trying to make a serious point here, and I hope I have made a serious point, about freedom and obligation. That freedom may involve the sense that there is one thing that one must do.
+
+The final point that I want to make or the final issue area of freedom that I want to address is freedom and security. If I’m right in the way that I have been presenting freedom, then freedom is not something that you can really think about productively, think about as being brought about by larger forces. Freedom also doesn’t amount to just the absence of restraint. The absence of restraint is of course important, but the reason why you want the absence of restraint is so that you can become the person who exercises freedom, makes choices among values, and builds character. So, the restraint isn’t bad in and of itself. The restraint is bad, because it prevents you from becoming a free person.
+
+Freedom is obviously not just doing what you want at a particular moment. It’s not a matter of impulse. It’s not a matter of yielding to impulse. It would be right to say that Zelenskyy was behaving freely when he remained in Kyiv, but I think it would be wrong to say that he was doing that because it’s what he wanted to do. It requires us to expansively abuse the sense of ‘want’, to say that that’s what he wanted to do. It’s what he believed he had to do, which is something a bit different.
+
+Freedom in the way I’ve been discussing it has to be discussed in a particular moment, in a particular setting, because it’s meaningless without the particular circumstances. But it is also meaningless without the accumulation of experience in a particular person. It’s meaningless to think about freedom unless you know something about the accumulated choices that a person has made, which has built up a certain kind of character. The reason I’m stressing that is that I think a lot of the work today on freedom, or at least about decision-making in philosophy, involves hypothetical dilemmas where we’re abstracting away from the person and that person’s past. The assumption is that when you abstract away from those things, you’re generating a productive situation. I think it’s actually the opposite. I think that situation is unproductive. You’re stripping away the things you would actually need in order to be able to talk about freedom or, for that matter, about making a decision.
+
+Freedom for a person, as you get better at it, as you get more practiced at it, ultimately involves choices among values; not necessarily negating values, but trying to affirm of many of them as you can and getting better at that, getting better at affirming multiple values, getting better at affirming as many of them as you can, even though you can’t affirm all of them. I want to suggest that this itself is an important point that relates to freedom and security: i.e., the freedom to develop and affirm multiple values requires a certain amount of security.
+
+There is an American tendency, but not just an American, to imagine that you have to choose between one thing and another, between freedom and security. I think Americans have particularly been trained to see this as a conundrum since 9-11, but not only 9-11. The Cold War certainly had elements of this. The idea is that we're trained to think that there is a trade-off between freedom and security. I think this is just wrong. You don’t generally have to trade off freedom for security. I think generally when you trade off freedom, you get less secure. I’m also going to note that in America, we make the same mistake the converse way, namely, we think that you have to get rid of security to get freedom. We think: ‘Well we can’t have health insurance or whatever because that would make us less free.’ And that’s also a mistake, right?
+
+What I want to say is that freedom and security, not always, but generally go together. I was struck by this point when it was made by President Zelensky when I was in Kyiv in September of 2022 when he gave a public address about the Ukrainian army driving Russian forces out. He characterized that as returning freedom and security to villages. If you think about it, it’s obvious. If you’re disassembling the torture chamber, the people around are not only freer but also more secure. So, when Zelensky and I talked about this, he said that the deprivation of freedom is insecurity. He also said that insecurity is the deprivation of freedom. And while I don’t think all these formulations are perfect, I do think they’re much closer to the truth than the affirmation that there’s a contradiction between freedom and security.
+
+\_\_\_
+
+Freedom and security generally go together. It’s a shame if it takes a war to see these things, but sometimes war can help us to see more clearly or to think more clearly, which is my thesis here.
+
+\_\_\_
+
+ I’m not going to try to describe the dominant way these things are debated in Canada. I should say that certainly some of my arguments here have been influenced by a Canadian thinker, namely, Charles Taylor. But there is a basic American problem here that we think we have to trade freedom for security in the sense that when we’re in danger we have to think about freedom. But we also think we have to trade security for freedom in the sense that we think we need to give up on health or longer lives or the sense of everyday safety. We have to give up these things in order to be free. What I’m trying to say is that this is all a sad error. This is all a mistake. Freedom and security generally go together. It’s a shame if it takes a war to see these things, but sometimes war can help us to see more clearly or to think more clearly, which is my thesis here.
+
+In conclusion, I have been talking about freedom in four connections. Freedom and speech, freedom and risk, freedom and obligation, and freedom and security. I have been arguing with the help of what I’ve learned from President Zelensky, but also from many others that freedom and speech go together. Freedom of speech has a purpose, which is to speak truth to power. And if we begin from that purpose, we’ll end up in a more sensible place in our discussions about freedom of speech. And the two words, президент тут, the President is here, helped me with that because it’s a paradigmatic example of speaking truth to power.
+
+My second point had to do with freedom and risk. The notion here is that Freedom has to have some kind of non-material quality to it, whether you want to think of that as metaphysical or transcendental or whatever you choose. It has to have something that goes beyond being the end product of a larger structure or larger forces. If we adopt the view that freedom is simply an output of larger forces, then we are making what verges on being a logical mistake, but which is certainly a political and social mistake and runs the risk of making us less free.
+
+I also addressed the apparent paradox of a person believing they’re obliged to something even when that person is free, which I called the Zelensky paradox. I resolved it by an account of what I think freedom is, namely, the higher value that allows us to choose among other values. But the resolution also lies the practice in choosing values which allows us to build a character and that character can face a set of circumstances in which it will be clear what we ought to do. But that’s an expression not of constraint; it’s actually a result of a life and freedom.
+
+And finally, I addressed the non-tension between freedom and security. I tried to do all of this work on the basis of two words which were spoken by the Ukrainian President and to some extent on the basis of my conversation with him about those words and about the setting and about what he had had in mind at the time. But I’ve also noticed over the past year that this flavor of argument about freedom is very widely shared in Kyiv. The notion that freedom is, to use the philosophical term, ‘positive’, that freedom involves positive aims and not simply the negation of restrictions, is very broadly held in Ukraine. The notion that security and freedom go together also seems, in my anecdotal experience, to be very broadly held. One doesn’t want to draw solace from war, but one can draw solace from people’s ability to think and communicate and help others to think during a war.
+
+ So, what’s my answer to the question, ‘What good is philosophy?’ I’m not going to pretend to have an answer to that question. I am just going to suggest that it has been my experience that thinking along with the people who have had to undergo this war can help us do philosophy better, certainly with respect to a very important concept: freedom.
+
+*Tim Snyder’s new book:* [*On Freedom*](https://www.penguinrandomhouse.com/books/744574/on-freedom-by-timothy-snyder/) *is out 19th September 2024.*
+
+*This essay was originally published as part of a* [*special issue*](https://ojs.utlib.ee/index.php/spe/issue/view/1926) *of Studia Philosophica Estonica entitled, “Reflections on the Russia-Ukraine War”. A copy of the original article can be found* [*here*](https://ojs.utlib.ee/index.php/spe/article/view/24398/18548)*.*
+
+*This lecture was delivered as part of a* [*benefit conference*](https://civic.ukma.edu.ua/benefit/) *for the Ukrainian academy that Aaron James Wendland organized in March 2023 at the Munk School of Global Affairs and Public Policy at the University of Toronto. The benefit conference was designed to provide financial support for academic and civic initiatives at Kyiv Mohyla Academy and thereby counteract the destabilizing impact that Russia’s full-scale invasion of Ukraine in February 2022 had on Ukrainian higher education and civilian life. The lecture has been lightly edited for the purpose of publication in Studia Philosophica Estonica and the* [*original presentation*](https://www.youtube.com/watch?v=By5ntK-DoNM&list=PLB0anhrBnRErZb1Xoh_BzrH4iaLw9Q6HX&index=3) *can be found on the Munk School’s YouTube channel under the heading: ‘What Good is Philosophy? – A Benefit Conference for Ukraine.’ Several themes from this lecture have been developed and expanded upon in Professor Snyder’s forthcoming book:* [*On Freedom*](https://www.penguinrandomhouse.com/books/744574/on-freedom-by-timothy-snyder/)*.*

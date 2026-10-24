@@ -1,0 +1,113 @@
+---
+title: "On being a stoic at Christmas"
+subtitle: "Why stoics are not all Scrooges and can have a rich emotional life."
+author: "Lawrence C. Becker"
+date: "22nd December 2017"
+article_id: "1010"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "2,292 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/On-Being-A-Stoic-At-Christmas.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/how-to-be-a-stoic-at-christmas-auid-1010"
+---
+
+# On being a stoic at Christmas
+
+*Why stoics are not all Scrooges and can have a rich emotional life.*
+
+**By Lawrence C. Becker** | *22nd December 2017* | *Read time: approx. 11 mins* | *2,292 words*
+
+![On being a stoic at Christmas](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/On-Being-A-Stoic-At-Christmas.webp)
+
+---
+
+The question is whether Stoics are *all* Scrooges. At least inwardly, since they have been represented as lacking a rich emotional life. (That is flatly false, by the way, but a topic for another time.)
+
+Christmas is an extended festival of joyful hope, gift-giving, concern for each other's welfare, and special concern and care for children, the sick, the poor, the old, and those who are overburdened. It is organized around the retelling of an event of great emotional potency and complexity for believers – the birth of a child whose existence is directly intended by God, in circumstances which are impoverished and dangerous, and who is destined to be executed as a common criminal, only to be resurrected and become the Savior to all those – and only those – who believe in him. The festival is typically organized in a way that emphasizes the joy at the sight of a healthy mother and her newborn, dresses up the impoverished physical circumstances with shepherds and wise men arriving with gifts in celebration.
+
+Most Christians celebrate the festival by focusing on the beauty and wonder of the event itself (not the crucifixion it portends) by decorating their houses and churches and public spaces, giving gifts to each other, making special efforts to help the poor, and making Christmas an indelible experience for young children – in part by telling the story over and over again, in Christmas carols, Christmas plays, oratorios and ballets, and readings of the Christmas story (especially the one in the Gospel of Luke; sometimes the one from Dickens).
+
+\_\_\_
+
+"Stoicism cannot be collapsed into a form of religious life that makes necessary appeals to the guidance or edicts of supernatural powers, and is therefore vulnerable to crises of faith."
+
+\_\_\_
+
+Not all Christians can bring themselves to participate in this festival of good feelings, of course. Some people have to work – or scrimp and scrape, or go into debt – to make a Christmas for others, and are too tired or resentful or beaten down to be uplifted by it. Others have principled objections on Christian sectarian grounds. (No singing, perhaps. No Christmas decorations or gift giving.) And Scrooge needed what amounted to a supernatural intervention to join in.
+
+Insofar as they are mainstream Christians, however, and not falling away from the faith, they would be likely to find some parts of the festival inspiring, freighted with ethical significance, and emotionally uplifting, even if they find other parts of it (perhaps its commercialization) offensive. Call them partial participants.
+
+There are festivals of hope, giving, gratitude, and joy on the annual calendars of most religions. It seems likely that their participants can tell stories about their own dissidents; their own Scrooges. So there would be Scrooges, and partial participants, in all these religions.
+
+Stoicism has never been a religion. For the ancient Stoics, God was the universe itself – a vast, living, rational being with an unknown agenda. God had provided for us by creating a habitable world in which many human beings could live and die, virtuously and happily, while pursuing their own agendas consistent with that world's provisions. Other human beings fail at this, of course, often for reasons that are obscure. But this has not ever (as far as we can tell) moved Stoics to devote festivals to their God. At most, Stoics have regular philosophical gatherings, perhaps modestly attended when they began in Athens around, say, 300 BCE and met in the Stoa Poikile (the painted porch from which the philosophy takes its name); somewhat better attended these days during the annual events of Stoic Week and STOICON.
+
+People then as now get absorbed in philosophical gatherings (or not); get engaged in them emotionally (or not). But unlike religious rituals designed to elicit and amplify emotional responses, Stoic tutorials or conferences are designed very much like other academic gatherings. They sometimes inspire and amaze, but they rarely evoke wonder, gladness, gratitude, and joy in a predictable way at a predictable time of the year. The memory of them does not reliably evoke nostalgia in us that is filled with emotional and ethical potential.
+
+So Stoics are not likely to have moods of nostalgia generated by Stoicism itself. But Stoics who were raised as Christians and took delight in the festivities of Christmas might well have nostalgia for those years, and try to recapture that delight, gladness, and concern for others by putting up a Christmas tree, singing Christmas carols, listening to the Christmas Eve service, and sitting in front of a fire with members of their family, or old friends, to exchange some gifts and bask in the season.
+
+But why would they stop there? Fundamental virtues embedded in Stoicism are also embedded in Christianity, so why not get their moral education as well as a rich emotional life from Christianity? Or some other religion compatible with Stoic principles?
+
+The answer, such as it is, has nothing to do having a rich emotional life. Stoics can have that – and not just by being nostalgic about their non-Stoic upbringing. The answer comes rather from the fact that Stoic ethics is secured by a thoroughly naturalistic, healthy human developmental process. It cannot be collapsed into a form of religious life that makes necessary appeals to the guidance or edicts of supernatural powers, and is therefore vulnerable to crises of faith. Religious people sometimes wonder how non-religious people ultimately validate their moral principles. Stoics wonder the same thing about what happens to religious people when they lose their faith.
+
+#### Why Become a Stoic?
+
+It is hard to go wrong in ethics by starting with a persistent, clear-eyed focus on how vulnerable we are as human beings, and what this requires of us. A line of Stoicism is can be summarized succinctly as follows.
+
+We are born lethally underdeveloped. Unless we soon receive food and care from adult human beings almost immediately, we die. Unless we continue to receive such help in a way we can effectively continue to receive and seek, we either die or fail to thrive. Unless adult human beings continue to help us by sustaining at least a minimally hospitable (local) physical and social environment for us throughout our lengthy infancy, childhood, and adolescence we either die, fail to thrive, or fail to develop into adults who can contribute to sustaining such an environment. And if that happens, our lives usually turn out to be Hobbesian – solitary, poor, nasty, brutish, and short.
+
+\_\_\_
+
+"It is hard to go wrong in ethics by starting with a persistent, clear-eyed focus on how vulnerable we are as human beings, and what this requires of us."
+
+\_\_\_
+
+Consequently, since we are so vulnerable to death and misery throughout our lives, we need adults who are willing and able to provide what is necessary for us to survive, thrive, and at least learn how to contribute to the same effort to save and sustain others. All of that requires that at least the adults accessible to us are willing and able to solve the collective action problems involved in creating and sustaining at least locally hospitable physical and social environments for themselves and others, as well as being willing and able to provide for the health and education needed to create and perpetuate a multigenerational version of such a hospitable environment.
+
+Call thisthe *habilitative (and rehabilitative) necessity* for human lifeas we know it*.*
+
+Habilitative necessities give us a fully naturalistic, rational basis for developing an account of our duties of care to others, and of cooperation, coordination, and conflict resolution in human society. They also give a fully naturalistic, rational basis for developing the virtues of courage, justice, temperance, and practical wisdom.
+
+That is a robust basis for a Stoic form of ethical life, among other forms of it. For a fuller account of it see [this](https://global.oup.com/academic/search?q=Habilitation%2C+Health%2C+and+Agency+&cc=us&lang=en), which could easily have been an addendum to a book on Stoicism. And it too is fully consistent with having a rich emotional life along with it – as full of moods (including nostalgia), feelings, and positive emotions as we can manage. Or tolerate.
+
+#### Moody Stoics: Reflections on the Forms and Limits of Stoic Emotional Life
+
+Now let me go into the myth that the ancient Stoics cannot have a rich inner emotional life.
+
+What is the appropriate range and pervasiveness of the good moods or feelings in a genuinely Stoic, and genuinely good, emotional life – a genuinely happy life in the conventional sense, a satisfying one, a virtuous one of course, and one that is effectively engaged in healthy and productive social relationships from the most intimate to the most distant, the most quotidian to the most crucial. What is the range and variety of appropriate Stoic moods, if any? What should their intensity and pervasiveness be? Their motivational necessity? Their necessity for virtue itself?
+
+It sounds like a difficult question. But as long as we include moods and feelings into the general account Stoic ethical theory gives of a good life, the answer drops out pretty readily. And it is instructive.
+
+#### The Stoic Demands on Your Way of Life
+
+An obvious way to start is to review Stoicism's distinctive demands on one's form of life.
+
+*First* comes the acknowledgment that for Stoics, Virtue with a capital V is the only good. Its achievement is both necessary and sufficient for happiness (*eudaimonia*) in Stoic terms. Everything else, such as pain or poverty, though it may be strongly preferred to its opposite, can never justifiably be chosen by a Stoic in ways that displace making progress toward Virtue.
+
+Thus, any emotional life that we can plausibly call a good life in Stoic terms will have to be compatible with making progress toward Stoic Virtue. That includes moods. Some of them block progress toward Virtue, others seem to increase the difficulty of such progress, and others don't seem to have an effect on it at all.
+
+*Second*, such Stoic Virtue is meant to be a single, harmonized or unified thing. It is achieved when one's character and conduct, acquired and expressed through practical wisdom, manages to subordinate the vices (e.g., greed, cowardice, cruelty, etc.) to all the various comparable virtues, and to make all the aspects of the various virtues (e.g., justice; mercy) compatible with each other in a unified effort to achieve Virtue-in-the-singular.
+
+\_\_\_
+
+"Any emotional life that we can plausibly call a good life in Stoic terms will have to be compatible with making progress toward Stoic Virtue."
+
+\_\_\_
+
+Thus any emotional life that we can plausibly call a good life in Stoic terms will have to be compatible with making progress toward a proper ordering and harmonizing of competing vices and virtues that yields Virtue-in-the-singular. Again, that includes moods.
+
+*Third*, for descriptive convenience, Stoics organize the subsidiary virtues under the four cardinal virtues. The list goes as follows: courage, justice, temperance, wisdom (*sophia –* theoretical knowledge about the way the world works, and the worth of various human goals), and practical wisdom (*phronesis –* practical knowledge about what means to choose to get to various goals, and wisdom about how to wisely prioritize those goals*.*).
+
+[Here are a few of them: Courage includes not only bravery but various forms of resolve, persistence, endurance, and other strengths required for dealing with physical and moral hazards such as temptation, pain, injury, disease, disability, and the threat of those things. Justice includes not only rights and duties of a distributive, restorative, or retributive sort but also reciprocity and mutual concern for one another's welfare. Such mutual concern is perhaps strongest for one's closest connections, but it is ultimately cosmopolitan in its concern for the welfare of humanity at large. Temperance or moderation includes mercy, forgiveness, and other limiting principles on courage and justice. Wisdom has purely theoretical aspects, but also practical ones as well. There is theoretical wisdom about what goals to choose. And practical wisdom can be thought of as a combination of pure practical intelligence about the means to various ends along with the wisdom about which ends one should seek.]
+
+Thus any emotional life that we can plausibly call a good life in Stoic terms must be variable in an appropriate way so as to remain compatible across the whole range of our efforts to appropriately express (or suppress) the subsidiary vices and virtues, as well as to make progress toward Stoic Virtue itself. Moods are judged by the same standard.
+
+*Fourth*. No one is born a Stoic. Becoming a Stoic is a maturational achievement shaped by an education with a specifically Stoic content. Everyone who becomes a Stoic has done so in a complex physical and social environment with a distinct social structure (or perhaps many distinct and interlocking social structures) that guide one's physical and psychological development. This structure will also effectively introduce Stoic principles and practices along the way, and ideally those principles and practices will over time yield an emotional life compatible with making progress toward Stoic Virtue.
+
+Thus any emotional life that we can plausibly call a good life in Stoic terms will have to be compatible with the emergence of Stoic principles and practices in the social structures that a person inhabits. This does not mean that the social structure involved must itself be organized around Stoic principles and practices. It merely means that the social structure involved must be "open" to a Stoic form of development – including emotional development – in ways that make Stoicism a live option for people at some point in their lives. It is very likely that many distinct forms of Stoic emotional life will emerge in a given population for which Stoic principles and practices are available. The same is true about Stoic moods. They have to leave us open to pursuing the Stoic developmental path toward Virtue.
+
+---
+
+##### **Debate the biggest ideas of our times at the Institute of Art and Ideas' annual philosophy and music festival HowTheLightGetsIn. For more information and tickets, click [here.](https://hay.htlgi.iai.tv/ "HowTheLightGetsIn Festival")**

@@ -1,0 +1,102 @@
+---
+title: "Wittgenstein was a metaphysician"
+subtitle: "Metaphysics as an antidote to unclear thinking"
+author: "A.W. Moore"
+date: "17th August 2022"
+article_id: "2219"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,977 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Wittgenstein-Metaphysics.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/wittgenstein-was-a-metaphysician-auid-2219"
+---
+
+# Wittgenstein was a metaphysician
+
+*Metaphysics as an antidote to unclear thinking*
+
+**By A.W. Moore** | *17th August 2022* | *Read time: approx. 10 mins* | *1,977 words*
+
+![Wittgenstein was a metaphysician](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Wittgenstein-Metaphysics.webp)
+
+---
+
+*Wittgenstein is known as a philosopher who sought to cure philosophy from unclear thinking. For him, philosophy’s attempts to answer traditional metaphysical questions like “Is there a God?”, “What is the nature of reality”, “Do we have free will?” end up in confusion and nonsense. But in his attempt to avoid the pitfalls of traditional metaphysics, Wittgenstein ends up asking questions about the way we make sense of things, that are metaphysical, argues A.W. Moore.*
+
+**This is the sixth****instalment****in our series *The Return of Metaphysics*, in partnership with the**[**Essentia Foundation**](https://www.essentiafoundation.org/)**. Read the series' previous articles**[***The Return of Metaphysics: Hegel vs Kant***](https://iai.tv/articles/the-return-of-metaphysics-hegel-vs-kant-auid-2032)**,**[***The Return of Idealism: Hegel vs Russell***](https://iai.tv/articles/the-return-of-idealism-russell-vs-hegel-auid-2066)***,***[***Derrida and the trouble with metaphysics***](https://iai.tv/articles/derrida-and-the-trouble-with-metaphysics-auid-2089)***,***[***The Return of Metaphysics: Russell and Realism***](https://iai.tv/articles/the-return-of-metaphysics-russell-and-realism-auid-2124)**, and After Metaphysics: [Rorty and American Pragmatism](https://iai.tv/articles/auid-2157-return-of-metaphysics-rorty-pragmatism-poetry-auid-2157).**
+
+It is well known that Wittgenstein’s early philosophical work and his later philosophical work are marked by various profound differences of style and content.  Nevertheless, there are some equally profound and very significant continuities.  Among these are his conception of philosophy itself and, relatedly, an apparent recoil from metaphysics.  Let us look at these in turn.
+
+Wittgenstein conceives of philosophy as an activity, rather than a body of doctrine.  Its aim is to promote clarity of thought and understanding, not to discover and state truths about the nature of reality.  Moreover, this aim is to be viewed in therapeutic terms.  Philosophy is an antidote to unclear thinking, and specifically to the ill effects of our mishandling our own ways of making sense of things.  For an example of such ill effects, consider someone interested in the privacy of sensations who asks the following question and who struggles to find any satisfactory answer: ‘Why can nobody else know with the certainty I do whether I feel pain?’  On Wittgenstein’s view, if we attend to the way in which sentences like ‘I feel pain’ are actually used, then this will appear akin to someone grappling with the gibberish: ‘Why can nobody else know with the certainty I do whether *ouch!*?’  Philosophy can be used to show that there is no real problem here.
+
+[![21 12 22.witt100colour.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-12-22.witt100colour.ata.webp)
+
+SUGGESTED READING
+Wittgenstein's Tractatus at 100
+By IAI Editorial](https://iai.tv/articles/wittgensteins-tractatus-at-100-auid-2009)
+Or at least, this is true of *good* philosophy.  Wittgenstein distinguishes between good philosophy, which is what we have just been talking about, and bad philosophy, which is the home of the very confusions against which good philosophy is pitted.
+
+This brings us to the apparent recoil from metaphysics.  For in both his earlier work and his later work, the only clearly pertinent uses of the term ‘metaphysical’ indicate that Wittgenstein identifies metaphysics with bad philosophy.  ‘What *we* do,’ he writes in *Philosophical Investigations*, ‘is to bring words back from their metaphysical to their everyday use.’  That is, what ‘we’ do, *qua* good philosophers, is to rescue words from their abuse in the hands of bad philosophers (who no doubt, very often, include ‘us’).
+
+\_\_\_
+
+Metaphysics is simply the most general attempt to make sense of things. This leaves entirely open what kinds of questions metaphysicians ask, or what kinds of methods they adopt.
+
+\_\_\_
+
+The kind of metaphysics to which Wittgenstein is opposed is concerned with what we might call the Big Questions.  Is there a God?  What is the fundamental nature of reality?  Does it consist ultimately of substances, and, if so, what are they?  What is the fundamental nature of the self?  Can it survive physical death?  Do we have free will?  And suchlike.  But on a Wittgensteinian conception, trying to tackle these Big Questions involves wrenching ordinary ways of making sense of things from their ordinary contexts and producing nonsense as a result.  For instance, there is no such Big Question as whether we have free will: there are just the various particular local questions that we ask in our everyday transactions with one another, such as whether the chairman issued his written apology of his own free will or was coerced into doing it.  And we do not need metaphysics to know how to answer such questions.
+
+Why, then, do I talk of Wittgenstein’s ‘apparent’ recoil from metaphysics?  Given what I have said so far, surely there cannot be any doubt that he is firmly opposed to it—can there?
+
+\_\_\_
+
+There is nothing in Wittgenstein’s approach to philosophy to entail that the only way of practising good philosophy is by nurturing or protecting the ordinary use of words.
+
+\_\_\_
+
+Well, to invoke that old philosophical cliché, it depends what you mean by ‘metaphysics’.  On some conceptions of metaphysics, including that on which it is to be identified with what Wittgenstein would count as bad philosophy, then no: there cannot be any doubt that he is firmly opposed to it.  However, there is a conception of metaphysics that I myself have found useful and that I think covers much of what self-styled metaphysicians in the past have been up to, whereby metaphysics is simply the most general attempt to make sense of things.  This leaves entirely open what kinds of questions metaphysicians ask, or what kinds of methods they adopt.  And it means that there is a serious question to be addressed about whether Wittgenstein himself, in his efforts to promote clarity of thought and understanding at a suitably high level of generality, counts as a practising metaphysician.  For instance, let us reconsider the privacy of sensations.  In *Philosophical Investigations* Wittgenstein draws an analogy between such privacy and the solo nature of the game of patience.  He is reminding us that it is integral to the very meaning of the word ‘sensation’ that a sensation can never be said to be more than one person’s.  This is part of his attempt to achieve a clearer understanding of the nature of the mind.  It is also, in its own distinctive way, a contribution to the most general attempt to make sense of things.
+
+[![Reality Distortion](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Reality-Distortion.webp)
+
+SUGGESTED READING
+How language distorts reality
+By Nick Enfield](https://iai.tv/articles/language-vs-reality-auid-2171)
+Moreover, there is nothing in Wittgenstein’s approach to philosophy to entail that the only way of practising good philosophy is by nurturing or protecting the ordinary use of words, as opposed to introducing new purpose-specific legislation for their use.  Thus consider one of the Big Questions that I flagged above: does reality consist ultimately of substances, and, if so, what are they?  The great seventeenth-century thinkers Descartes, Spinoza, and Leibniz each believed that reality does consist ultimately of substances.  But they disagreed about what they are.  Descartes believed that reality consists of substances of three kinds: one Divine substance (God); one extended substance (matter); and many, maybe infinitely many, created thinking substances (minds).  Spinoza believed that reality consists of only one substance (God) which is both extended and thinking.  Leibniz believed that reality consists of infinitely many substances (God included) all of which are thinking but none of which is extended.
+
+\_\_\_
+
+Wittgenstein’s concern to combat bad philosophy with good philosophy is accompanied by a high degree of self-consciousness about the very nature of the exercise.
+
+\_\_\_
+
+It is hard not to react to such disagreement with a degree of scepticism about what is even at issue.  And indeed the following century Hume was prepared to deny that the word ‘substance’, as these philosophers had been using it, has any meaning.  We might well expect Wittgenstein to agree with Hume.  (In his earlier work he himself made significant use of the word ‘substance’; but he also famously conceded that what he had written was nonsense.)  However, even if Wittgenstein does agree with Hume, he need not see the situation as irremediable.  If a philosopher is able to explain with due clarity how they are using the word ‘substance’, and if they have some particular reason to use it in that way, so be it.  ‘When philosophy is asked “What is… substance?”,’ Wittgenstein says, ‘the request is for a rule… which holds for the word “substance”.’  To provide such a rule is not to tackle one of the Big Questions.  It is rather to put a well-defined question in its place.  But on the broad conception of metaphysics that I have been advocating, it can also readily be seen as a methodological preliminary to engaging in the metaphysics of substance.
+
+On that broad conception, then, not only can Wittgenstein be seen as friendly towards metaphysics; he can be seen as himself a practitioner.
+
+But it goes deeper than that.  Wittgenstein’s concern to combat bad philosophy with good philosophy is accompanied by a high degree of self-consciousness about the very nature of the exercise.  He wants to understand what he is combating with what.  This is because he is as interested in diagnosis as he is in cure.  And this involves stepping back and asking, if not Big Questions, then at the very least some searching questions, about how we make sense of things.
+
+To be sure, even when Wittgenstein is addressing these questions he avoids the pitfalls of what, by his lights, counts as bad philosophy.  A bad philosophical approach to these questions would involve subliming such notions as meaning, understanding, truth, and reality, and trying to arrive at substantial theses about how such things are related.  Wittgenstein is not interested in arriving at any substantial theses.  In keeping with his conception of good philosophy, he wants to be clear about the various unambitious views concerning meaning, understanding, truth, and reality that we already have.  And he tries to do this through a creative use of hints, reminders, and commonplaces.
+
+\_\_\_
+
+By drawing attention to the way in which facts about us help to determine how we make sense of things, Wittgenstein is making it look as though—as he himself puts it—‘human agreement decides what is true and what is false’.
+
+\_\_\_
+
+But in his later work—and here perhaps we see one of the most significant difference between his later work and his earlier work—he also wants to draw our attention to the contingencies that underlie how we make sense of things.  He wants to dispel any impression that how *we* make sense of things is ‘the’ way to make sense of them.  Thus he fastens on what he calls our ‘forms of life’, something that he in turn describes as ‘what has to be accepted’ or as ‘the given’.  He is referring to the basic biological realities, the customs and practices, the complex of animal and cultural sensibilities, that enable us to make shared sense of things in the ways in which we do.  Were it not for these, we would make quite different sense of things—if indeed we made sense of things at all.
+
+[![realism and analytic philosophy min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/realism-and-analytic-philosophy-min.webp)
+
+SUGGESTED READING
+The return of metaphysics: Russell and realism
+By Fraser MacBride](https://iai.tv/articles/the-return-of-metaphysics-russell-and-realism-auid-2124)
+Moreover, not only is Wittgenstein self-conscious about the contingency of our sense-making; he is also self-conscious about a problematical idealism that it seems to entail, where by ‘idealism’ is meant the view that what we make sense of is dependent on how we make sense of it.  The worry is this.  By drawing attention to the way in which facts about us help to determine how we make sense of things, Wittgenstein is making it look as though—as he himself puts it—‘human agreement decides what is true and what is false’.
+
+Now in fact Wittgenstein manages to repress the idealism.  He distinguishes between the claims that we make, whose truth or falsity does not depend on us, and the linguistic and conceptual resources that we use to make these claims, which do depend on us but whose dependence on us is harmless and does not betoken any kind of idealism.  This is itself an example of his counteracting confusion and pitting good philosophy against bad philosophy.
+
+But he is also undeniably probing some very large issues about how we stand in relation to reality.  There seems to me ample evidence here to support my main contention: that when metaphysics is understood as the most general attempt to make sense of things, then what Wittgenstein is doing in much of his work, both when he is combating bad philosophy with good philosophy and when he is reflecting self-consciously on what this involves, is acting the metaphysician.
+
+# This article is part of The *Return of Metaphysics* series, produced in partnership with the [Essentia Foundation](https://www.essentiafoundation.org/).

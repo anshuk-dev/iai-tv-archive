@@ -1,0 +1,101 @@
+---
+title: "Mushrooms are more like us than we think"
+subtitle: "A fungal challenge to the Cartesian binary"
+author: "Nicholas P. Money"
+date: "22nd November 2023"
+article_id: "2677"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,978 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-11-22-fungi-and-us.tn1.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/mushrooms-are-more-like-us-than-we-think-nicholas-p-money-auid-2677"
+---
+
+# Mushrooms are more like us than we think
+
+*A fungal challenge to the Cartesian binary*
+
+**By Nicholas P. Money** | *22nd November 2023* | *Read time: approx. 10 mins* | *1,978 words*
+
+![Mushrooms are more like us than we think](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/23-11-22-fungi-and-us.tn1.webp)
+
+---
+
+*Even as the mushroom is having its moment in popular culture, we tend to think of fungi as passive, plant-like and distinctly other. But human existence depends on a complex set of transactions with the fungi that live on our bodies and populate the surrounding environment. Mycologist Nicholas P. Money takes a closer look at fungal behaviour, revealing life-forms with uncanny similarities to ourselves.*
+
+The Niitsitapi, or Blackfoot Indians, imagined that giant puffballs were created by fallen stars. They painted the fruit bodies of these globose fungi as white circles arising from a dark band along the bottom edge of tipi covers to symbolize the birth of life. In our era of global environmental damage, a strain of this indigenous reverence for fungi has been adopted as a symbol of hope.
+
+Mushrooms have been embraced as emblems of beauty and countercultural cool in film and fashion, music, best-selling books, and inspirational lectures. Art installations with mycological themes have included giant mushrooms made from woven willow branches, living sculptures of heads grown from fungi on sawdust and bristling with fruit bodies, elaborate carvings and metal works, jewellery, and fine couture cut from mushroom leather. This mycological art is arresting and speaks to the regenerative power of decomposition, but what can the study of fungi tell us about human nature?
+
+Mushrooms are the fruit bodies or sex organs produced by fungi that release immense numbers of spores when they emerge from rotting logs or leaf litter on the forest floor. They are captivating in the wild and some of them are delightful in recipes, but for a deeper and more intimate appreciation of the fungal kingdom we need to consider the microscopic molds and yeasts that grow on the human body.
+
+\_\_\_
+
+An appreciation of the body as a mobile ecosystem of human and microbial cells is one of the great revelations of twenty-first-century science.
+
+\_\_\_
+
+Billions of fungal cells grow on the skin, from scalp to toes, within the ear canals and nostrils, along the gum line, and inside the gut and vagina. We refer to the totality of on-board microbes as the microbiome, and the fungal portion of this mélange as the mycobiome. Gut fungi have become the subject of particular scrutiny for their roles in digestive health and a whole range of illnesses from irritable bowel syndrome to colon cancer. Fungi can also cause lethal infections, mostly when the immune system becomes weakened by viruses or cancer therapies. The study of medical mycology is exploding and some specialists believe that the mycobiome is the missing link in medicine.
+
+An appreciation of the body as a mobile ecosystem of human and microbial cells is one of the great revelations of twenty-first-century science. We have known about gut bacteria for a while, but the addition of fungi to the festivities provides new dimensions to the microbiology of *Homo sapiens*. It is difficult to appreciate the importance of the microbes that we carry because we cannot see them. If they were visible, big as crabs crawling over the skin, we would – obviously – think of little else. But they are there, here and now and everywhere on the body, and that redness on your cheeks or stuffy nose could be reactions to too many of them. Touch the creased skin behind one of your ears or run your fingers through your hair and fungi will cling to your fingertips afterwards.
+
+\_\_\_
+
+It is difficult to keep the paragon of animals on its pedestal when we accept ourselves as momentary performers in the great circus of evolution, whose bodies are teeming with yeasts and molds.
+
+\_\_\_
+
+The fungi of the mycobiome are essential partners and lodgers on everyone. Our age and gender affect the numbers and kinds of microbes on the body, and there is some evidence that hormonal differences between the sexes may stimulate the growth of distinctive groups of fungi. Sweating stimulates the resident skin yeasts to proliferate, sun exposure kills others; gardeners pick up fungi from the soil and from plants; we transfer fungi with a handshake at a business meeting and lovers swap fungi in bed. Fungal spores float in the air and flow through the nose and into the lungs as we breathe, and the fungi in the mouth and digestive system are agitated with each meal. Fungi are with us from womb to tomb.
+
+Some readers may view this ecological view of the body as a slippery slope toward the belittlement of humanity. They have a point. It is difficult to keep the paragon of animals on its pedestal when we accept ourselves as momentary performers in the great circus of evolution, whose bodies are teeming with yeasts and molds. And beyond the mycobiome, mycology offers other arguments for human insecurity.
+
+Western philosophy, with its genesis in the writings of René Descartes and deeper roots in antiquity, has always given humans sole custody of consciousness. This delusion has been crumbling for decades with the study of non-human ethology that has shown versions of our behaviour in other primates and, more recently, in everything with a modicum of a brain. Into this increasingly enlightened view of intelligence, fungi have been introduced as examples of microorganisms that appear to show glimmers of consciousness.
+
+\_\_\_
+
+The cognitive psychologist Arthur Reber has demonstrated that it is impossible to identify a clear dividing line between sentient and unconscious species.
+
+\_\_\_
+
+Fungi are the most recent additions to the league of sensitive microbes that includes amoebas, slime molds – which are giant amoebas – and bacteria. Discoveries about the apparently conscious behaviors of fungi are shocking for those accustomed to thinking about them as the embodiment of sluggishness, denizens of dampness, and specimens of stagnation.
+
+Mycologists have known for some time that the filamentous cells of fungal colonies, or mycelia, detect ridges on surfaces, grow around obstacles, and deploy a patch and repair system when they are damaged. Fluid pulses through these filaments, called hyphae, as they extend and branch, negotiating their surroundings as they push ahead, foraging for food. They react to confinement too, altering their growth rate, becoming narrower and branching less frequently.
+
+Looking at the colony as a whole, evidence of learning and memory has emerged from experiments in which fungi have been fed with little blocks of wood. Growing in all directions, forming a circular colony, the fungus is energized when it finds its food on one side of a culture dish. More hyphae grow in the direction of this find, which is reminiscent of the way a colony of ants is redirected toward a wriggling caterpillar that can feed the whole nest.
+
+[![21 07 29.Nature machine](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-07-29.Nature-machine.webp)
+
+SUGGESTED READING
+Nature is a jazz band, not a machine
+By Jeremy Lent](https://iai.tv/articles/nature-is-a-jazz-band-not-a-machine-auid-1850)
+
+The hint of memorization is revealed after the fungus has exhausted the food in the first wood chip and is placed on a fresh culture dish. Instead of growing out in all directions again, the mycelium grows in the direction that it found food in the first test. This is much more than a reflex. The fungus has remembered where it struck gold and is retracing its steps. The fungus is not thinking in the sense that a brained animal thinks, but the fundamental mechanisms that allow the filamentous hyphae that make up a mycelium to process information are the same as those at work in our bodies. How could it be different? Every organism relies on exactly the same biochemistry. Whether or not we call a fungus conscious depends on our use of the term, but we should be wary of limiting concepts like mindfulness to species that look like us.
+
+Because fungal colonies are composed of networks of microscopic hyphae that we regard as single cells, their behavior verges into the realm of multicellular sensitivity and sentience. This is one of the reasons that fungi are such an interesting part of this emerging field of research. The philosopher Rupert Glasgow considers that behavioral processes among microorganisms represent “consciousness at its most basic” – but consciousness, nevertheless. Glasgow argues that a single cell meets the criteria for minimal selfhood because it sustains itself by channeling the flow of energy in a fashion that maintains its recognizable and reproducible structure. By hunting for food, the mycelium of a fungus engages in a directed pattern of growth that is motivated by its “inner state,” namely that it is hungry. In doing so, it is making an unambiguous distinction between itself and the food that is the object of the search.
+
+The cognitive psychologist Arthur Reber has demonstrated that it is impossible to identify a clear dividing line between sentient and unconscious species. Any distinctions are subjective, yet most contemporary philosophers continue to embrace concepts of human specialness. It is time to sweep aside this Cartesian thinking for good and embrace the idea that minds are not the exclusive property of animals with a particular level of neurological complexity.
+
+Research on fungal behaviour or ethology is a new area of inquiry, but the science of mycology has been offering equally transformative insights on nature throughout its history. The first microscopists described the strangeness of hyphal filaments, and wondered whether they were looking at plants or animals. This uncertainty drove eighteenth-century taxonomists like Carl Linnaeus to distraction. Fungal classification remains a thin-ice business, awash with ambiguity and wishful thinking about distinctions between species. The problem is that we lack a robust definition of a fungal species. This has led to treating some populations of mushrooms that are only distantly related as members of the same species, and, in other cases, assigning more than one name to a group of fungi that others regard as single species.
+
+Fungal ecology is another messy subject, which has, arguably, the most to say about the human condition by highlighting the importance of supportive, defensive, and offensive interactions between different groups of organisms. Distinguishing the mere presence of a fungus from its participation in a consequential relationship is one of the challenges in interpreting ecological interactions. If we find an increase in the abundance of a type of yeast in people suffering from a particular illness, it can be very difficult to determine whether this fungus is responsible for the illness or that the change in its numbers is a consequence of the illness.
+
+\_\_\_
+
+We are plant-like in our dependence on the fungi that form the human mycobiome.
+
+\_\_\_
+
+The same convoluted exercise is involved in figuring out the significance of fungi in forests. Some species help plants, others harm them, and a few modify their relationships according to the ecological circumstances. Helpful mycelia make physical connections with the roots of trees, forming mycorrhizae that have become a metaphor for an imaginary peace and harmony in nature. Mycorrhizae have a lot to teach us, but there is nothing charitable about them: clamped to the roots, the mycelium will drain as much sugar from the plant as possible, as the fungus pays for the refueling service by supplying the plant with water and mineral fertilizers. And, as an old or diseased plant weakens and dies, some of its fungi will decompose its roots. It is a purely transactional relationship.
+
+[![191010 nature](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/191010-nature.jpg)
+
+SUGGESTED READING
+The microorganism that shaped humanity
+By Rob Dunn](https://iai.tv/articles/rob-dunn-the-microorganism-that-shaped-humanity-auid-2543)
+
+We are plant-like in our dependence on the fungi that form the human mycobiome. Like the colonies of mycorrhizal mushrooms that feed on tree roots, some of the fungi that bathe in our guts help with digestion and control the bacteria while feeding on our mucus and dead cells. And just as mycelia decompose fallen trees, fungi help dissolve the human corpse as it bloats, enters a phase of active decay, and becomes skeletonized. Everything in nature is selfish, although even Machiavelli recommended cooperation when it favours survival. Beauty and beast are united in the biology of mycorrhizae and man.
+
+As a species busy with the day-to-day tasks of staying alive and making the planet un-liveable for future generations, we’re inclined to perceive consciousness and agency as distinctive human traits. Fungi, out there in the undergrowth, tend to get ignored. But, regardless of transient human attention, fungi are everywhere and will outline us by an eternity.

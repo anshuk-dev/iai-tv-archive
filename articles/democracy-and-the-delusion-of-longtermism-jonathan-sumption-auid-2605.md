@@ -1,0 +1,101 @@
+---
+title: "Democracy and the delusion of longtermism"
+subtitle: ""
+author: "Jonathan Sumption"
+date: "15th September 2023"
+article_id: "2605"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "2,410 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sumptious.jpg"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/democracy-and-the-delusion-of-longtermism-jonathan-sumption-auid-2605"
+---
+
+# Democracy and the delusion of longtermism
+
+**By Jonathan Sumption** | *15th September 2023* | *Read time: approx. 12 mins* | *2,410 words*
+
+![Democracy and the delusion of longtermism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/sumptious.jpg)
+
+---
+
+*Democracy is increasingly under threat. In Britain, 94% of voters believe their views are not the main influence behind government decisions, and frighteningly similar trends seem to be emerging around the world. In this exclusive interview, former supreme court justice Lord Jonathan Sumption argues that the greatest threats to democracy are not what people usually think. He also argues that ‘long-termism’, the view popularised by Will MacAskill which suggests that policy should be orientated to the next million years, rather than just the next generation, is utterly untenable and could sow the seed for despotism.*
+
+**You have said that the greatest threats to democracy are not major catastrophes, like wars, but smaller scale crises. Why?**
+
+You have major catastrophic events in the history of this country like the Second World War. Britain turned itself into a temporary dictatorship with many ordinary civil rights suspended for the duration. Now, that does not mean that Britain had become a despotism or ceased to be a democracy, because the extreme nature of the events and the temporary nature of the measures taken seem to me in most cases, to be a sufficient safeguard.
+
+What happens, however, when you demand the protection of the state against much smaller perils? Disease, violence, financial catastrophe are all great misfortunes, but they are not of the same order as major wars. The more comprehensively you ask for the protection of the state, the more it is going to intervene by coercive measures because the coercion is the only tool that the state has got to cause people to behave in a different way. Once you start allowing the state to organize your life at an ever lower level of daily significance, you are beginning to sacrifice very much more. Because if you want to hand over to the states the power to regulate your life in trivial respects, the state is going to end up doing it all the time.
+
+\_\_\_
+
+Once you abandon the institutional procedures that every society has for making decisions on issues that people disagree about, all you are left with is a resort to force.
+
+\_\_\_
+
+**Movements such as Extinction Rebellion or Insulate Britain would argue that the types of risks that they're alerting people to, like the climate change risk, constitute the same kind of emergency as a war, meaning they can be justified in resorting to measures that are fundamentally undemocratic. What would your response be to this?**
+
+My response would be, who is going to define what sort of events justify that kind of intervention? If they decide it’s one thing, say the climate crisis, what happens if you disagree? If you and I disagree about whether an event justifies extreme measures, how are we going to resolve that disagreement other than by force? The answer is we can't. Once you abandon the institutional procedures that every society has for making decisions on issues that people disagree about, all you are left with is a resort to force. And that's the ultimate implication of what people like Extinction Rebellion and Insulate Britain are doing. They are saying we are right, therefore you must succumb to us. And if you don't like it, we're going to make you do it.
+
+**So would you say that the difference in the kind of force that a government might use when dealing with an emergency versus extinction rebellion, is that the government has a mandate from the people to deal with emergencies whereas protest groups don’t?**
+
+They have a measure of consent. I say a measure of consent because on any controversial issue, you're never going to get a situation where everyone agrees. Therefore, societies devise methods of deciding how we are to make decisions where we don't agree on what the decisions ought to be. The legitimacy of any governmental measure, particularly a coercive measure, critically depends on agreed mechanisms of consent. Because we can agree about the method of making decisions, even if we don't agree about what the decisions ought to be. And the hallmark of a more mature society is that we are prepared to accept decisions made by an agreed process, even if we profoundly disagree with them.
+
+**One thing that many people throughout the world are worried about is the politicisation of juries. Many would point to the United States as an example. Does this trend worry you?**
+
+I think that the United States has a number of particular problems peculiar to themselves, foremost among which is the immobility of the legislative process, which makes it almost impossible to get controversial measures, however necessary and however widely supported through Congress. That is therefore a standing invitation to non-democratic methods of decision making, such as judicial intervention. I think that the problem that the United States has with its judicial intervention is absolutely exemplified by the most famous examples which are Roe vs Wade and its subsequent overruling in the Dobbs case.
+
+Roe vs Wade was a bad decision because it took a highly controversial issue on which almost everyone in the United States had opinions, often very pronounced opinions, and ruled in a way which condemned the opinions of the population to irrelevance. The right way of dealing with this issue would have been to do it by legislation in each different state. And that is substantially the position that had been reached when Roe vs Wade was decided. Some states had very strict anti-abortion laws, quite a lot had much more liberal provisions, and the likelihood would have been that more states would have required liberal provision on abortion. Instead it was decided judicially. And I believe that was a major reason, not the only one, but the major reason why the decision of the Supreme Court did not settle the issue, which remained to poison American politics for decades thereafter. If you contrast the position in Europe, where every single state of Western Europe, with the exception of Malta, legislated for a qualified right of abortion, the issue is more or less dead in pretty much every country in Europe, with the exception possibly of Poland.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/thumbnail-resized12.webp)
+
+SUGGESTED VIEWING
+Democracy in the dock
+With Jesse Norman, Thangam Debbonaire, Ruth Kinna](https://iai.tv/video/democracy-in-the-dock)**
+
+That seems to me to be a much more sensible way of dealing with it, because it engages the public and it employs consensual methods of decision making on controversial issues. The complete opposite of what has happened in the United States now, as a matter of fact, Dobbs, which was the decision last year that overruled Roe and Wade is, in a way, a worse decision because the Roe vs Wade, however wrong you might think it is, has stood for 50 years. Millions of people in the United States had planned their lives on the assumption that this was part of the basic makeup of the law of the United States and its overruling seemed to me to be rather inadequate grounds. I think it was a serious mistake. Both decisions illustrate the fact that you can have contrary decisions by a Supreme Court, depending entirely on the political sentiments of the people who happened to compose the court at the time. Five years ago. The decision in Dobbs would have been different because the individuals were different. When issues of such importance turn on the particular political positions of those nine individuals, I think you are in trouble.
+
+**Do you think the Covid-19 Pandemic demonstrated a major flaw in the way in which governments and policy makers understood calculated risk?**
+
+Well, I think it rather depends on which risks one's talking about. The basic problem about the way that the pandemic was handled was that it was not approached as a multi-issue problem. It was approached as a purely scientific problem. It was always not just a scientific and epidemiological problem. It was always, in addition, an educational problem, a social problem and an economic problem. And it had many other dimensions. The only people who can assess the whole multiplicity of issues that go into a radical decision, like locking down, that substantially affect all the population are politicians. That is why they are there. Therefore, it's no good handing this over to the scientists because all that they can reasonably be expected to do is to assess the scientific implications. That was basically what went wrong. There was never any attention to the potential collateral misfortunes that might follow from locking people down. A lot of those were actually clinical, for example: the effect on mental health. But they were catastrophic in economic terms, and it is simply absurd, as it seems to me, to ignore all the wider societal problems of a medical issue when you make decisions about it.
+
+\_\_\_
+
+I think that most politicians for most of our history would have had experience in pretty much nothing but politics.
+
+\_\_\_
+
+**Do you think it’s problematic that politicians often don’t have experience in other domains of professional life?**
+
+No, I don't. I think that most politicians for most of our history would have had experience in pretty much nothing but politics. Yeah. There was a period perhaps from the 1920s until May, towards the end of the 20th century, when it became normal for politicians to have had a career in business or law or something of that sort before going into politics. And that period, as you quite rightly said, has pretty well come to an end. I think that our politicians are perfectly capable of making serious mistakes and have made a lot of them. That's not a particularly unusual state of affairs, and I would not put it down to a lack of experience. I mean, I think we have to recognize that human life is far too vast for any individual to be of experience more than a very small part of it. So that most experience is in the nature of things vicarious. And you say, well, they may have read about things. That is one way of acquiring vicarious experience. And in a world where most experiences are careers, because life is too varied for it to be anything else, I think we've got to live with that.
+
+\_\_\_
+
+It is the height of arrogance to imagine that we can possibly anticipate what the interests of people in a million years or 2 million years will be.
+
+\_\_\_
+
+**The event that you are taking part in at HowTheLightGetsIn Festival is called ‘Speaking for The Future’. It addresses a philosophical system popularised by Will MacAskill called long-termism which argues that policy should be focussed not just on the next generation or so, but the next two to three million years. First, because the next million years will comprise of more people than exist in the present, and second because future generations have no power to influence the present. What are your thoughts on this?**
+
+I would accept that there are strong moral arguments in favour of making decisions not just in the light of our own interests as people who are of mature years right now, but in the interests of future generations. Climate change is an obvious issue to which that applies very strongly indeed. But I think that there are two reservations that need to be made:
+
+One is that it is the height of arrogance to imagine that we can possibly anticipate what the interests of people in a million years or 2 million years will be. I think at best we may be able to think intelligently about the interests and preferences of one or maybe two generations ahead. But I very much doubt whether we can plausibly expect to do better than that.
+
+The other is that I think a great deal depends on what measures you propose to take to give effect to the interests of future generations. I have accepted that I recognize a moral obligation to think of future generations and not just of one's own, but many of those who are looking at this issue are trying to find ways of compelling us to do so by effectively providing some institutional mechanism.
+
+Inevitably, it ends up by being a matter of law under which people can be compelled. Ultimately that can only work if judges are the people who make the decision as to what the interests of these future generations require. That's what I think would be a destructive of any kind of democracy, indeed any step which requires one as a matter of obligation, rather as a matter of moral propriety, to give effect to interests other than one's own, would, in my view, be completely inconsistent with any kind of democratic society.
+
+**[![related-video-image](https://iai.tv/assets/Uploads/23-04-13-There-is-no-planet-B-Mike-Berners-Lee-studio-iai.tv-thmbn.webp)
+
+SUGGESTED VIEWING
+There is no Planet B
+With Mike Berners Lee](https://iai.tv/video/there-is-no-planet-b)**
+
+I have very great concerns about whether the measures required to deal with climate change can leave us in a position where democratic decision making will survive. We have seen in the UK that some measures designed to reduce consumption are highly unpopular electorally and when that happens, it will always be in the interests of a group of politicians to say, ‘well, we will reverse that policy’ I think in the end, unless we wait until catastrophe is so imminent that everybody agrees that drastic measures have to be taken right now, we won’t have consensus. We're somewhere away from that situation. But unless we come to that situation, we are in a position where democratic electorates are not going to endorse measures that require a significant reduction of consumption. And the only answer, therefore, is either do nothing about climate change, find ways of dealing with climate change that do not involve reductions of consumption, or simply abandon democracy and substitute it for a top down method of decision making.
+
+**Is your defence of democracy utilitarian or deontological?**
+
+Well, I'm not sure that those are really alternatives. Again, I certainly think that we have a democratic system which is designed as an alternative to either uncontrolled violence or despotism. But both of those are evils, and both of them are inconsistent with the inventiveness of the human spirit. And I would place much more reliance on the inventiveness of the human spirit as a solution to our problems and then our basic innate moral sense, then also because law is essentially inflexible. It is necessarily based on what somebody thinks the right answer is, irrespective of the fact that many others who may actually be right may think completely differently. I would much rather rely on the efficacy of rational arguments than on inflexible legal instruments which seek to remove from us the right to determine our own and our children's future.

@@ -1,0 +1,61 @@
+---
+title: "Christmas - the Orgy of Stuff"
+subtitle: "We like our Christmas heavy on consumption, and light on religion. How did we get here and what should we do about it?"
+author: "Scott Lowe"
+date: "Issue 61, 15th December 2017"
+article_id: "1004"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,329 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christmas-orgy-of-stuff.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/christmas-the-orgy-of-stuff-auid-1004"
+---
+
+# Christmas - the Orgy of Stuff
+
+*We like our Christmas heavy on consumption, and light on religion. How did we get here and what should we do about it?*
+
+**By Scott Lowe** | *Issue 61, 15th December 2017* | *Read time: approx. 7 mins* | *1,329 words*
+
+![Christmas - the Orgy of Stuff](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/christmas-orgy-of-stuff.webp)
+
+---
+
+Pretty clearly, we really like our Christmas heavy on consumption, and light on religion. Let us call this Christmas tradition the Orgy of Stuff.
+
+It’s dark, it’s cold, and the wait will be long. The street outside the store is poorly lit, adding to the gloom. Some have brought sleeping bags and pillows, hoping to catch a few hours of sleep while they hold their place. And if the rain returns, they’ll get drenched. Still, there are hundreds of people in line, stretching around the block and out of sight. Why? Why would anyone endure such conditions? *There are bargains to be had!*
+
+In the retail world, the Christmas shopping season can make or break a company’s annual sales. And in the United States, Black Friday, the day after the Thanksgiving holiday, can make or break a brick and mortar store’s Christmas season. So far, the 2017 Christmas shopping season looks promising. [Total sales for the season are estimated to exceed $680 billion](https://www.thebalance.com/what-is-black-friday-3305710), up several percentage points over 2016’s total of almost $656 *billion*. But, of course, not all of those sales are coming in stores. Over the last decade, online Christmas season sales have grown by leaps and bounds. Initial online sales figures reported by Forbes magazine suggest a more than 10% increase in online sales this Thanksgiving weekend over the same period in 2016. On Cyber Monday, the online counterpart to Black Friday, 2017 sales were up 16.8% over the previous year, with $6.6 billion in sales, [the largest single online shopping day in history](https://www.forbes.com/sites/nikkibaird/2017/11/30/black-friday-weekend-cyber-week-round-up-of-results/#125fcc4d7e7b).
+
+These are big numbers, and they deserve to be taken seriously. They suggest that Christmas, and especially Christmas giving, is not just an important part of our economy, but that it plays an oversized role in our culture, nowhere more so than in our pop culture. It is not news to point out that Christmas season television and movies are absolutely dominated by the theme of gift giving, primarily in the guise of Santa Claus. A glance at [the list of all time top grossing Christmas movies](http://www.boxofficemojo.com/genres/chart/?id=christmas.htm) shows several versions of *Home Alone*, *Grinch*, and innumerable variations on Santa, good, bad and inept. While some of these movies do extoll the value of family togetherness (for instance, as an occasion to give lots of gifts), there is nary a reference to Christianity in any of them. *The Nativity Story*, the highest grossing religiously oriented Christmas movie, comes in 29th on the list with about $38 million in domestic U.S. revenue. The first two *Home Alone* movies made almost *$460 million* domestically, over *$830 million* worldwide.
+
+\_\_\_
+
+"Christmas has *never* been a purely religious holiday, it’s always been a balance between the sacred and the secular."
+
+\_\_\_
+
+Despite its popularity, not everyone is happy about this approach to celebrating Christmas. Some conservative Christians, and their loudest conservative mouthpiece, Fox News, have championed the claim that there is a “War on Christmas”. While what precisely this war is about is often unclear, and some of what is clear is just silly (“happy holidays”: blasphemers!), one can understand the concern that the very secular Orgy of Stuff has crowded out the celebration of Christmas as an important religious holiday. So, we are urged to “keep Christ in Christmas” in the hope of stemming the tide of declining religiosity. To maintain some of what we can call the Sacred Christmas tradition, groups such as the Knights of Columbus, Beliefnet and others have gone online to promote activities that could bolster this tradition. These activities range from the tried and true, “attend church”, “light an advent candle”, “give of yourself in the name of Christ”, to the odd and probably way too secular, “bake a birthday cake for Jesus”. Such measures are probably too little, too late in the face of very strong trends away from organized religion in the Western world.
+
+Yet, part of the problem is that Christmas has *never* been a purely religious holiday, it’s always been a balance between the sacred and the secular. The earliest Christmas celebrations start in the late 4th century when church fathers placed the Nativity on December 25th. This date happily coincided with the already existing solstice holiday of Saturnalia, the very name of which suggests that folks were having a really good time. Similarly, throughout the Medieval period, if Christmas was celebrated at all, it was celebrated with considerable merriment in keeping with even older pre-Christian traditions.[1] And, of course, gift giving has been part of this tradition all along, starting with the Magi bringing gold, frankincense, and myrrh to the baby Jesus.
+
+The practice of Christmas gift giving survives into the modern period and the beginnings of Christmas as we know it today. Consider for instance the importance of charity and giving in Dickens’ classic, *A Christmas Carol*. Two of the surest signs of Scrooge’s reform on Christmas day is his generous gift to the poor given to the two gentlemen he had rebuffed in his office the day before, and his anonymous gift of the prize turkey still hanging in the poulterer’s window to the family of his clerk, Bob Cratchit.
+
+\_\_\_
+
+"Given the growth of the middle class and consumerism since the end of the Second World War, it should be no surprise that Christmas has become the bloated behemoth that it is."
+
+\_\_\_
+
+So let us add to our list another Christmas tradition, the Season to Make Jolly.
+
+Now, the Season to Make Jolly tradition and the Orgy of Stuff tradition are clearly related, indeed, the latter seems a fairly obvious evolution from the former. Given the growth of the middle class and consumerism since the end of the Second World War, it should be no surprise that Christmas has become the bloated behemoth that it is.
+
+This phenomenon was foretold by economist John Kenneth Galbraith in his book, *The Affluent Society*, published in 1958, long before anybody dreamed of multi-billion dollar Cyber Mondays. In this work Galbraith describes *the dependence effect*, the idea that, in affluent societies, wants are artificially created by producers who advertise to build consumer demand, and then produce products to meet that demand. The dependence effect explains why anyone would ever buy a chia pet, rubber fish that sings Christmas carols, or the *fifteenth* version of Grand Theft Auto. So, the Orgy of Stuff is just the Christmas you should expect if you let loose a free market economy on a vast middle class with lots of disposable income.
+
+Is this a good thing? Probably not, and curiously for reasons that the secularist and Christian might actually agree on. While people clearly want the stuff of contemporary consumerism, and want it in very large volume, it’s not at all clear that it’s good for us. Whether one is a traditional Christian or a secular atheist, we might agree that a life *consumed* by clothes, electronics, cars, and houses is not a good life. This concern about what makes for a good human life goes back at least as far as Socrates in the *Apology*, but I would like to borrow from the work of one of the least jolly of philosophers, John Stuart Mill. In *Utilitarianism*, Mill defends the distinction between higher and lower pleasures. He argues that those activities that appeal to our big, complex brains (the arts, science, philosophy, etc.) produce pleasures that are *qualitatively* superior to the base, simplistic, and especially bodily lower pleasures. Hence, the famous quote, “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than the fool satisfied.” It is not too much of a stretch to suggest that the transient pleasures of ever more stuff fulfill the desires of the fool, but that we would do better to follow the example of Socrates. So, while it might devastate the economy, and do nothing to revive the popularity of religion, a humble Christmas more reminiscent of the poor babe born in a manger would improve us all.
+
+Merry Christmas, I hope Santa brings you everything you’ve asked for…or not.

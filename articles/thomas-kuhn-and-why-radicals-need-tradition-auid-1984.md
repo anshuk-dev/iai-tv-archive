@@ -1,0 +1,77 @@
+---
+title: "Thomas Kuhn and why radicals need tradition"
+subtitle: "The surprising role of dogma in scientific revolutions"
+author: "Vasso Kindi"
+date: "25th November 2021"
+article_id: "1984"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "1,804 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/murray-rothbard-thomas-kuhn-1-2740946.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/thomas-kuhn-and-why-radicals-need-tradition-auid-1984"
+---
+
+# Thomas Kuhn and why radicals need tradition
+
+*The surprising role of dogma in scientific revolutions*
+
+**By Vasso Kindi** | *25th November 2021* | *Read time: approx. 9 mins* | *1,804 words*
+
+![Thomas Kuhn and why radicals need tradition](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/murray-rothbard-thomas-kuhn-1-2740946.webp)
+
+---
+
+*Our story of revolutionary science is one of independence, creativity and free-thinking radicals. Thomas Kuhn saw things differently. He thought that dogmatic commitment to established norms is the unexpected engines of science’s success, writes Vasso Kindi.*
+
+Creativity is of great significance, especially in the arts and sciences where originality and novelty are highly valued. Because of its significance, many scholars have tried to explain how it is made possible. Educators and psychologists, in particular, have investigated the correlations between creativity and personality traits, giving emphasis to independence, imagination, flexibility, and open-mindedness.
+
+In 1950, the psychologist J. P. Guilford thought that mass education, which stresses conformity, discourages the development of creative personality (Guilford 1950, 448). Sixty years later, the same thought was expressed by the educator Sir Ken Robinson in his 2010 TEDx talk entitled “Changing education paradigms”. He there argued that we have to go “in the exact opposite direction” of an education that has been modeled in the image of industrialism which favors conformity and standardization. In Ken Robinson’s view, we should adopt a new paradigm that encourages divergent thinking, i.e., thinking of new possibilities and unconventional and innovative ideas, which is “an essential capacity for creativity”.
+
+In 1959, Thomas Kuhn, who at the time was just a physicist who had turned historian of science (his ground-breaking philosophical book *The Structure of Scientific Revolutions* was yet to be published), was invited to give a talk at a University of Utah Conference on the identification of scientific talent. There, psychologists stressed again the significance of divergent thinking for creativity, of the freedom to entertain possibilities and of the capacity to go off in different directions. Kuhn began his talk by asking his audience to entertain his divergent idea, namely that creativity in science depends not only on divergent but, equally, on convergent thinking.
+
+Kuhn spoke of the “essential tension” between convergence and divergence, a tension that he took to be a prerequisite of scientific advancement and creativity. He argued that these two conflicting modes of thought ought to characterize both the scientific community and the individual scientists. Convergence builds traditions and divergence, at crucial junctures, draws attention to new possibilities. The individual scientist must be able to act as both “a traditionalist and an iconoclast”, Kuhn said (1977, 227). In Kuhn’s view, “only investigations firmly rooted in the contemporary scientific tradition are likely to break with that tradition and give rise to a new one” (ibid., 229). That is why Kuhn gave his article in which the Utah talk was published, the title: “The Essential Tension: Tradition and Innovation in Scientific Research”.
+
+Kuhn articulated this thought further in a talk that he gave at a symposium in Oxford on the structure of scientific change in 1961 and in his celebrated book *The Structure of Scientific Revolutions* in 1962. His talk, also published in 1962, bears the provocative title “The Function of Dogma in Scientific Research”. The title is provocative since, in scientific ideology, scientists are usually presented as intrepid, independent, critical, ground breaking, open minded, uncommitted, free-spirited conquistadores of knowledge. Kuhn, however, in stark contrast to this image of scientists, exalted the virtues of being faithful to the ruling paradigm, of being constrained by its dictates, of obediently following in the steps of teachers and mentors, of having a restrictive vision, of attending carefully, patiently and persistently to the minutiae of scientific research. No wonder Kuhn has been castigated as presenting scientific work during normal science (i.e., non-revolutionary periods of scientific activity), as uncritical, conformist, boring, stagnant, uninteresting, and scientists as pitiful victims of indoctrination.
+
+In Kuhn’s view, “only investigations firmly rooted in the contemporary scientific tradition are likely to break with that tradition and give rise to a new one”.
+
+But, why did Kuhn advocate such a view of science and of the scientists? Was the criticism that he received justified? Kuhn’s insistence on convergence and dogma was neither gratuitous nor the symptom of an authoritarian, conservative or dogmatic personality. Kuhn believed that shared commitment, and therefore convergence, is essential not only to building research traditions, but also to upsetting these traditions, and to paving the way to creative change and innovation. Dogmatic commitment, he says, is “instrumental in making the sciences the most consistently revolutionary of all human activities” (Kuhn 1962, 349). Why is that? He explains it more thoroughly in *Structure*:
+
+[N]ovelty ordinarily emerges only for the man who, knowing with precision what he should expect, is able to recognize that something has gone wrong. Anomaly appears only against the background provided by the paradigm. The more precise and far reaching that paradigm is, the more sensitive an indicator it provides of anomaly and hence of an occasion for paradigm change. (SSR 65)
+
+According to Kuhn, normal science, that is, the practice of science that further articulates and enriches a paradigm, that enlarges its scope and increases its precision, makes possible the detection of anomalies. Anomaly literally means deviation from normalcy and only those that have been inculcated in the complex details of normalcy, through education and professional practice, would be capable of spotting what may have gone wrong so as to move on to fix it or overcome it. Dogmatic attention and adherence to established rules, far from being an ossified and stale process, an impediment to progress and creative novelty, is the condition that is conducive to their achievement. This does not mean that criticism and argumentation is stifled. It means that both are conducted according to established rules.
+
+Dogmatic commitment, he says, is “instrumental in making the sciences the most consistently revolutionary of all human activities”
+
+Stanley Cavell who was a friend of Kuhn’s at Berkeley in the late fifties and early sixties, had frequent discussions with him and said expressly that he was influenced by Kuhn, transferred Kuhn’s idea of dogmatic observance to rules to the arts, and said that only a slave of [convention] can know how it may be changed for the better, or know why it should be eradicated. Only masters of a game, perfect slaves to that project, are in a position to establish conventions which better serve its essence. This is why deep revolutionary changes can result from attempts to conserve a project, to take it back to its idea, keep it in touch with its history” (Cavell 1979, 120–121).
+
+A similar thought is expressed by the art critic Clement Greenberg who wrote a lot about modernism:
+
+[T]he record shows no case of significant innovation where the innovative artist didn’t possess and grasp the convention or conventions that he changed or abandoned. Which is to say that he subjected his art to the pressure of these conventions in the course of changing or shedding them. Nor did he have to cast around for new conventions to replace those he had shed; his new conventions would emerge from the old ones simply by dint of his struggle with the old ones. And these old ones, no matter how abruptly discarded, would somehow keep being there, like ghosts, and give ghostly guidance. (1999, p. 53)
+
+Kuhn, Cavell, and Greenberg, do not associate creativity with some mystical inspiration that would come to talented individuals from without. All three of them stress the importance of tradition, with its shared rules and conventions, which help train scientists and artists in their respective practices, offering them the sensitivity and the tools to move forward with new creative work that may transcend previous bounds in new radical directions. As Kuhn has said: “novel discoveries in the mature sciences are not born *de novo*” (Kuhn 1977, 324). They come about when scientists, in view of some problem, are able to see things differently than they used to, and proceed to reorganize, rearrange, and reconfigure already familiar material. They are able to develop a new perspective.  In that respect, Kuhn’s discussion of aspect seeing, drawing upon Wittgenstein’s relevant comments in the *Philosophical Investigations* about the Gestalt figures, such as that of the duck-rabbit, is apposite to the discussion of creativity (cf. Kindi 2021).  Gestalt drawings are ambiguous and as such present the following paradox: the visual stimulus remains unaltered, and yet the perception of it changes. We do not interpret differently the same lines or marks; we experience a Gestalt switch, the dawning of an aspect, when we move from seeing a rabbit to seeing a duck. In a similar manner, says Kuhn, scientists come to see the world differently when they come up with innovative ideas and divert from their old ways of thinking. The dawning of an aspect marks a transition to a totally different way of seeing things. But one should not understand this transition, that may be called a conversion, as an instantaneous and inexplicable stroke of illumination. Especially in the sciences, we should see it as the result of extended practice. As Simon Blackburn put it (2014, 151), “even the anecdotes [about ‘aha’ experiences and ‘eureka’ moments] point out that the illumination requires a thoroughly prepared mind.”
+
+Perhaps influenced by the Romantic idea of the genius who stands somewhere between God and ordinary humans, we usually think of creativity in psychological and individualistic terms. In Kuhn’s account, however, creativity is a communal rather than an individual affair. It is cultivated in an institutional setting that undergirds a practice whose discipline and rules simultaneously command assent and lay the ground for moving beyond them. The convergence achieved by following rules and exemplary models, establishes normality, and makes possible the divergence, the splitting off in new creative directions, but of the same, broadly understood, discipline. If no normalcy were established, there wouldn’t be a tradition to revolutionize and overcome. We would have diverse, mutually irrelevant speculations and ideas. The essential tension between convergence and divergence of which Kuhn spoke, sustains a practice in a dynamic state that involves both normal periods and creative revolutions.
+
+**Bibliography**
+
+Blackburn, Simon. 2014. “Creativity and Not-So-Dumb Luck.” In *The Philosophy of Creativity: New Essays,* edited by E. S. Paul and S. B. Kaufman, 147-156. Oxford: Oxford University Press.
+
+Cavell, Stanley. 1979. *The Claim of Reason.* Oxford: Oxford University Press.
+
+Greenberg, Clement. 1999 (1976). “Convention and Innovation.” In *Homemade Esthetics: Observations on art and taste,* 47–58*.* Oxford: Oxford UniversityPress.
+
+Guilford, J.P. 1950. “Creativity,” *The American Psychologist*, 5:9, 444-454.
+
+Kindi, Vasso. 2021. “Kuhn, the Duck, and the Rabbit — Perception, theory-ladenness, and creativity in science.” In *Interpreting Kuhn*. *Critical Essays*, edited by K. Brad Wray, 169-184. Cambridge: Cambridge University Press.
+
+Kuhn, Thomas, S. 2012 (1962). *The Structure of Scientific Revolutions.* Chicago: The University of Chicago Press.
+
+Kuhn, Thomas, S. 1963. “The Function of Dogma in ScientificResearch.” In *Scientific Change, e*dited by A. C. Crombie, 347–369. New York: Basic Books & Heinemann.
+
+Kuhn, Thomas, S.  1977 (1959). “The Essential Tension: Tradition and Innovation in ScientificResearch.” In *The Essential Tension. Selected* *Studies in* Scientific *Tradition and Change,* 225–239*.* Chicago: The University of Chicago Press.
+
+Robinson, Ken. 2010. “Changing Paradigms.” Animated RSA Talk, available at <https://www.youtube.com/watch?v=BHMUXFdBzik>. Accessed November 15, 2021.

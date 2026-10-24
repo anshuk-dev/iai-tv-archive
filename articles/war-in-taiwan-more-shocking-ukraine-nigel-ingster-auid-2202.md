@@ -1,0 +1,81 @@
+---
+title: "War in Taiwan will be more shocking than Ukraine"
+subtitle: "China is not afraid of attacking Taiwan"
+author: "Nigel Inkster"
+date: "29th July 2022"
+article_id: "2202"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,282 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/China-Taiwan-conflict-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/war-in-taiwan-more-shocking-ukraine-nigel-ingster-auid-2202"
+---
+
+# War in Taiwan will be more shocking than Ukraine
+
+*China is not afraid of attacking Taiwan*
+
+**By Nigel Inkster** | *29th July 2022* | *Read time: approx. 6 mins* | *1,282 words*
+
+![War in Taiwan will be more shocking than Ukraine](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/China-Taiwan-conflict-min.webp)
+
+---
+
+*Since Russia waged war on Ukraine, many have tried to draw a direct parallel to China and Taiwan, with some senior Taiwanese officials even arguing that in light of recent events, China will delay their invasion of Taiwan. This, argues Nigel Inkster - former director of operations for MI6, is false. China will have drawn one lesson from this conflict. If they conclude that peaceful reunification is no longer an option with Taiwan, a military strike from China will be ‘massive and overwhelming’.*
+
+When Russian President Vladimir Putin launched his “special military operation” – in reality a full-blown invasion- of Ukraine in February 2022, he did so immediately after meeting his Chinese counterpart, Xi Jinping. At that meeting the two sides announced that the China-Russia relationship was a partnership “with no limits”. Since then China, while purporting to remain neutral, has in practice been supportive of Russia’s objectives, seeking to put the blame for the crisis on NATO expansion and reinforcing Russian disinformation about supposed US biological warfare laboratories in Ukraine.
+
+Xi and Putin have long chafed under the US-led system of global governance which they perceive as perpetuating US and western advantage while holding their own countries back. And both have drunk deep of the Cool-Aid exemplified by the common Chinese trope “the East is rising, the West is in decline.” That said, it is important to keep in mind one fundamental difference between the two. Putin’s Russia is a disruptor, seeing its own security as a function of others’ insecurity. China on the other hand prioritises stability above all else.
+
+\_\_\_
+
+Putin’s Russia is a disruptor, seeing its own security as a function of others’ insecurity. China on the other hand prioritises stability above all else.
+
+\_\_\_
+
+In this context it has become increasingly clear that China has been seriously discountenanced by Russia’s actions and in particular by early displays of Russian military incompetence. And China has been at pains to avoid providing Russia with the kind of practical support that might attract Western secondary sanctions. At the same time, from a strategic perspective, it makes perfect sense for China to remain close to Russia given that under Xi Jinping China’s foreign and security policy is driven by an increasingly zero-sum view of relations with the USA and the West more generally.
+
+[![22 06 17putinxi.ata](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/22-06-17putinxi.ata.webp)
+
+SUGGESTED READING
+The Banality of Putin and Xi
+By Yaron Brook](https://iai.tv/articles/the-banality-of-putin-and-xi-auid-2158)
+The Russian invasion of Ukraine has given rise to the perception that the world is now divided between open societies invested in the rules-based international order versus authoritarian states willing to use armed force to pursue their objective in defiance of international law. In that context there has been growing concern that China might seek to take a leaf out of Putin’s book by using armed force to reunify Taiwan. Whilst this concern is justified, drawing a simplified equivalence between the two cases is unhelpful.
+
+China itself has taken strong exception to any suggestion of such an equivalence. This is not just political theatre: such suggestions elicit indignation verging on outrage on the part of senior Chinese civilian and military officials.    For China the political situations are entirely different. Ukraine is a sovereign state with a seat at the UN while Taiwan enjoys no such status. That Russia’s invasion of Ukraine violates China’s long-standing positions on national sovereignty and integrity and the peaceful resolution of disputes makes for considerable discomfort.
+
+But equally the military situations bear no comparison. Before looking in detail at the Cross-Strait military situation it is however important to emphasise that China’s position on reunification is that this should be achieved peacefully under the One Country Two Systems formula used for the recovery of Hong Kong and Macao. Despite this, President Xi Jinping has stated the Great Rejuvenation of the Chinese Nation cannot take place without reunification. And given that this process is intended to be complete by 2035, by which time Xi might still- just- be in office, this suggests that 2035 has become a de facto deadline.
+
+Militarily it has long been the case that China enjoys an overwhelming advantage over Taiwan. And Taiwan’s military leaders have, despite growing US pressure, shown little readiness to develop the kind of asymmetric capabilities such as missiles, mines and drones that might even the balance.     That said, a contested amphibious assault is the most difficult military operation there is. Taiwan’s topography, with high cliffs on one side of the island and salt marshes on the other, adds to the challenges as do the sea conditions in all but two months of the year.
+
+\_\_\_
+
+If the US lost control of this island chain, this would fundamentally affect the global balance of power.
+
+\_\_\_
+
+A full-scale invasion of Taiwan is hence seen as the worst possible option which explains why China, while systematically developing and exercising the capabilities needed for such an undertaking, will pursue all possible alternatives. These include a naval blockade of the island which, directed against a sovereign state, would be an unequivocal act of war. China would however claim that this was not the case in relation to Taiwan as it was already sovereign Chinese territory. This explains why for some while China has been telling the US that the Taiwan Strait was not an international waterway.
+
+[![china russia2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/china-russia2.webp)
+
+SUGGESTED READING
+How the West got Russia and China Wrong
+By Aaron Friedberg](https://iai.tv/articles/how-the-west-got-russia-and-china-wrong-auid-2094)
+A key consideration for China’s People’s Liberation Army (PLA) has been the  need to keep US forces out of the Taiwan Strait long enough to achieve the objective of occupying the island. The US has no formal commitment to intervene in the event of a Chinese attack and has for many years maintained a strategy of strategic ambiguity about its response. But in recent months US President Joe Biden has stated the US would intervene, even though his officials have walked back such statements.
+
+The US position is not determined just by altruism. Taiwan – General Douglas MacArthur’s “unsinkable aircraft carrier” – forms part of the first island chain, running from Japan through to Borneo along China’s eastern seaboard. US domination of this island chain is key to its domination of the Western Pacific, a domination China is for understandable reasons keen to break. If the US lost control of this island chain, this would fundamentally affect the global balance of power.
+
+\_\_\_
+
+If a tipping point is reached at which China concludes peaceful reunification is no longer an option, a military strike will have to be massive and overwhelming.
+
+\_\_\_
+
+China has been disconcerted by successful efforts on the part of the Biden administration to reinvigorate and enhance US alliance structures in the Indo-Pacific region, notably the Quad arrangement linking India, Japan, Australia and the US, and the AUKUS agreement to supply Australia with nuclear submarines. And it perceives a growing level of US and western support for Taiwan begun under the Trump administration as tantamount to a hollowing out of the One-China Policy which encourages Taiwan in its defiance of China’s wishes, the most recent example of which is a mooted visit by outgoing House Speaker Nancy Pelosi in early August.
+
+At the same time China believes in its mantra of western decline and doubts whether the US and its allies have the stomach for a fight. For now, it is likely to continue to grind Taiwan down through what have been characterised as grey-zone operations: military overflights and naval patrols, cyber attacks and espionage. And to push back diplomatically within the Indo-Pacific region against US coalition-building.
+
+At the same time it is likely that as CIA Director William Burns has observed, China will have drawn one lesson from Russia’s invasion of Ukraine. If a tipping point is reached at which China concludes peaceful reunification is no longer an option, a military strike will have to be massive and overwhelming.   The aim will be to have the operation done and dusted before the US and its allies can mount a meaningful response.

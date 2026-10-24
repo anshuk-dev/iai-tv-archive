@@ -1,0 +1,61 @@
+---
+title: "Stoicism amid pandemic panic"
+subtitle: "Following Marcus Aurelius' example in Covid-19"
+author: "Donald Robertson"
+date: "Issue 87, 10th April 2020"
+article_id: "1436"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,580 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-04-10.robertson.ata.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/stoicism-amid-pandemic-panic-auid-1436"
+---
+
+# Stoicism amid pandemic panic
+
+*Following Marcus Aurelius' example in Covid-19*
+
+**By Donald Robertson** | *Issue 87, 10th April 2020* | *Read time: approx. 8 mins* | *1,580 words*
+
+![Stoicism amid pandemic panic](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-04-10.robertson.ata.webp)
+
+---
+
+*Resisting speculation, remaining committed to rational thought, and keeping in mind in inevitability of disasters helped Marcus Aurelius through the Antonine Plague. Could the same principles guide us through the Covid-19 crisis?*
+
+Symptoms were first reported in the East, possibly as far away as China.  Soon it was spreading throughout the West carried home by soldiers and merchants returning from their travels.  Before long, outbreaks of the deadly virus were reported in one European city after another.  The Antonine Plague is believed to have killed up to five million people throughout the Roman Empire.  It turned into a pandemic lasting from 166 AD until at least 180 AD, when it claimed the life of its most famous victim, Marcus Aurelius, after whose dynasty, the *Antonines*, it was named.
+
+It was almost as though the universe had chosen to put to the test the Stoicism for which Marcus Aurelius was famed.  Indeed, a generation later, historian Cassius Dio, wrote:
+
+[Marcus Aurelius] did not meet with the good fortune that he deserved, for he was not strong in body and was involved in a multitude of troubles throughout practically his entire reign. But for my part, I admire him all the more for this very reason, that amid unusual and extraordinary difficulties he both survived himself and preserved the empire. – *Cassius Dio*
+
+The plague was clearly one of the major challenges of Marcus’ reign.  Moreover, he probably began writing *The Meditations* not long after it began sweeping through the legionary camps, where he stationed himself throughout the war.  However, Marcus only refers to the plague once in his writings, noting moral corruption of the mind is a far more serious pestilence than the physical one that corrupts the body by, as the Romans realised, somehow contaminating the very air they were breathing (*Meditations*, 9.2).
+
+The plague, he says, merely attacks us physically whereas these vices attack our inner nature destroying that which is essential to our very humanity.
+
+He mentions falsehood, pretence, indulgence in luxury, and pride, as the sort of vices he considers particularly corrosive in this regard.  The plague, he says, merely attacks us physically whereas these vices attack our inner nature destroying that which is essential to our very humanity.  Indeed, Cassius Dio, who served as a senator under Marcus’ notoriously degenerate son and heir, expresses a similar notion.  Dio claims that in Rome alone two thousand victims often died from the plague each day, but goes so far as to say that this disease paled in comparison to the corruption being inflicted on the empire by Commodus, who ruled like a tyrant, exploiting the situation to seize more power, and even renaming the city of Rome as *Commodiana*.
+
+Marcus’ solitary comment about the plague perhaps makes him appear callous.  However, we’re told by another Roman author, Philostratus, that after witnessing the suffering caused, despite his Stoicism, the emperor was publicly moved to tears of compassion when he heard a decree from the Athenian assembly, exclaiming "Blessed those who died in the plague!"  The *Historia Augusta* claims that at the height of the plague so many thousands died that their bodies had to be removed from the city of Rome by the cartload.  We’re told that Marcus erected many statues to nobles who were lost at this time.  In an example of the kind-heartedness for which he was known, he even ordered funeral ceremonies performed for the lower classes to be paid for by the state.
+
+[Massimo Pigliucci discusses Stoicism, Scepticism and pseudoscience](https://iai.tv/video/massimo-pigliucci-in-depth-interview-stoicism-scepticism-pseudoscience "Watch more videos on iaitv")
+
+In the opening chapter of *The Meditations*, Marcus demonstrates, at length, one of the Stoics’ main strategies for developing their renowned psychological resilience.  He patiently describes the qualities he most admires in his family, friends, and teachers – about seventeen individuals altogether.  Throughout his life, Marcus witnessed how different people coped with the psychological stress and physical suffering caused by severe illness.  Some fared much better than others.  We can probably view *The Meditations* as having been shaped in some respects by these observations.
+
+Marcus says that his principle instructor in Stoicism, Apollonius of Chalcedon, remained exactly the same man, unfazed and unshaken, during severe pain and long illness (1.8).  He showed Marcus how to act decisively, guided by reason, while nevertheless remaining relaxed about external events beyond our direct control.  Another of Marcus’ personal tutors, the highly-accomplished Roman statesman Claudius Maximus, taught him how to be self-reliant and remain cheerful despite terminal illness (1.15).  Marcus was clearly affected by the “invincible character” exhibited by this tough Stoic and veteran military commander, as he lay dying (1.16).  Elsewhere Marcus thanks the gods that he was fortunate enough to have known Apollonius and Maximus personally.  They provided him with real flesh-and-blood examples of what it meant to follow Stoicism as a way of life (1.17).
+
+Marcus also refers to a letter apparently written by the founder of a rival philosophy, Epicurus, as he lay dying from a fatal illness over four centuries earlier.  He writes that when we’re suffering we shouldn’t harp on about it, complaining excessively or dwelling too much on the negative side of things.  Rather, Epicurus took his long illness as an opportunity to apply philosophy to the situation, thereby also showing his friends how to do so constructively.  He focused attention on examining the question of how the mind, even while conscious of physical pain and discomfort, could preserve its own health and benefit from the experience.  Marcus likewise tells himself, even in severe illness, to remain committed to Stoicism, his own philosophy of life, and to be mindful of how he is thinking and acting in response to the pain and discomfort he’s enduring (9.41).
+
+Stoics do not allow highly-emotive rhetoric or value judgments to distort their perception of reality.
+
+Above all, ancient Stoicism aspired to teach its followers how to live rationally.  One example of this was their practice of sticking to the facts.  Stoics do not allow highly-emotive rhetoric or value judgments to distort their perception of reality.  Marcus tells himself to be wary of going beyond what he can observe in a crisis, such as when one of his sons falls ill (8.49).  He had about fourteen children, half of whom died before he did.  When one of his sons became sick, Marcus told himself to focus on the present moment, rather than allowing his mind to race ahead to worries about losing him.  He would have to face that if it happened but for the time being he should deal with what was actually going on, here and now, with regard to their illness.  Stick to the facts, don’t add anything about how terrible it is.
+
+Indeed, as he says, if you must add something to your observations, remind yourself that misfortunes such as sickness and death should come as no surprise to us because they are part of the common lot of mankind the world over.  That’s another basic principle of Stoic philosophy: we should be well-prepared for all of life’s misfortunes, even something as apparently catastrophic as the great plague.  The Stoic wise man, or woman, is unperturbed by sickness and death because reason tells us that such things are inevitable in life – we shouldn’t be surprised by them.  “All that comes to pass”, Marcus therefore tells himself, even illness and death, should be as “familiar as the rose in spring and the fruit in autumn” (4.44).  During the initial outbreaks of plague, when people ran around in a panic exclaiming “I can’t believe this is happening!”, the Stoics would have remained calm by reminding themselves that we’ve *always* known these things can potentially happen.
+
+To help maintain this equanimity, Marcus frequently employs a contemplative technique that involves meditating on the distant past.  He would thereby remind himself that, when it comes to the challenges we face in life, there’s nothing new under the Sun.  What you face are just different variations on the same old themes – humanity’s perennial challenges.  During the height of the Antonine Plague, Marcus specifically tells himself to imagine all the people who fell sick and died, long before he was even born, during the reigns of the emperors Vespasian and Trajan (4.32).  He concludes from doing this that life is short and that he should continually strive to focus attention on doing what is most important, which means living in accord with wisdom and virtue, as the Stoics like to say.
+
+Perhaps Marcus Aurelius practiced self-quarantining. We’re told that on the last day of his life he would only admit his son, Commodus, to his presence and even he was sent away quickly in case he became infected with the disease.  Unlike his father, Commodus was petrified of dying, and as soon as he had the opportunity he made the catastrophic decision to abandon the northern campaign and return to the safety and luxury of Rome, only to descend into tyranny and debauchery.
+
+The themes Marcus reflects upon in *The Meditations*, inspired by Stoic philosophy, appear to find expression in the stories the Roman histories tell us about his life.  The *Historia Augusta* also relates that the day before, as it became obvious he was dying, those close to Marcus were distraught.  He asked why on earth they were weeping for him when they should realize that illness and death are facts of nature and accept them as the common lot of mankind.  These things happen to everyone eventually, even an emperor.  In other words, this reflection, facing his own imminent demise, was Marcus Aurelius’ parting gift to his friends, and perhaps all to us.

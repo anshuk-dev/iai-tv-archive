@@ -1,0 +1,51 @@
+---
+title: "The Moral Case for Abortion"
+subtitle: "The British Pregnancy Advisory Service aims to decriminalise abortion. Its chief executive argues why."
+author: "Ann Furedi"
+date: "Issue 41, 5th December 2015"
+article_id: "603"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,141 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Ann-Furedi-41.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-moral-case-for-abortion-auid-603"
+---
+
+# The Moral Case for Abortion
+
+*The British Pregnancy Advisory Service aims to decriminalise abortion. Its chief executive argues why.*
+
+**By Ann Furedi** | *Issue 41, 5th December 2015* | *Read time: approx. 6 mins* | *1,141 words*
+
+![The Moral Case for Abortion](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Ann-Furedi-41.webp)
+
+---
+
+Abortion is a fact of modern life.  It is necessary in a society where women expect to be more than mothers and where they expect to plan their futures. It may be essential to a society that aims for ‘planned parenthood’ and families made up of responsible, willing parents and wanted children. And in those societies that do not yet benefit from the infrastructure that comes with development, safe legal abortion may be necessary to reduce the damage and death that follows repeated unwanted deliveries and desperate unsafe abortion. However, all these reasons for abortion are beside the point. What matters most of all is that women should have the right to make their own decisions about pregnancy, privately and accountable to no person except those whom they invite to share their decision. Just as women are responsible for the children that they bring into the world, so they are responsible for the pregnancies that they end.
+
+No society that truly respects women’s equality and individual conscience can tolerate interference with how a woman comes to decide on the future of her pregnancy. The contents of her womb are hers and hers alone, by virtue of their location in her womb. How she values the embryo or fetus that she carries inside her body is for her to decide. The responsibility for bringing a potential child into the world, allowing it to develop into a person with human interests of its own, is hers because it requires her body. This is a commitment no one else can give, and in a society that values freedom, the commitment to childbirth should be freely given: a woman can only *freely* commit when she has an alternative choice. While the fetus is still in her body, its life is hers and the decisions as to its future must be hers, because its future is her future.
+
+The decision to choose abortion – to end a fetal life before it knows it is alive – will always be contested. Different people have their own views on when life begins and ends. But if we believe in personal freedom and liberty, and uphold the right to freedom of conscience, then on the fundamentally moral matter of abortion the choice must be the woman’s. A compassionate and humane society will provide the means for her to exercise that choice as early as possible and as late as necessary.
+
+Ultimately, unless we follow a code of religious belief, our only way of verifying whether something is right or wrong is by its impact on human life – that is, by considering its effect on the welfare and consciousness of those persons who make up our human community. Whether a woman can be compelled to carry a fetus and give birth to a baby is just as much a moral question as those raised about the value of the fetus.
+
+Abortion concerns the value of life. A woman chooses abortion because she values *her* life and her future more than she values the life in her womb. And why should she not make that decision for herself? She is self-conscious, self-aware and capable of moral determination. So why should her choice to live her life, according to her conscience, be subject to veto?
+
+To deprive a woman of the right to choose abortion deprives her of the future she wants for herself. It deprives her of returning to a ‘non-pregnant’ present and the future that she planned, even though this is an option that modern medicine can deliver to her safely.
+
+Yes, abortion involves a ‘killing’, in the sense that it stops a beating heart, but not in the sense that it stops a person from living. The end of a life in the womb does not compare with infanticide, euthanasia, or any other taking of human life. Abortion does not assault an individual that is living a biologically independent existence of its own. Whatever the fetus experiences, it is not human life as we know it, with its joys or sorrows, fears, hopes and expectations. It knows nothing of itself, nor of others. And others know nothing of it.
+
+Comparisons between abortion and the killing of people betray an appalling and degraded sense of what it means to be human. Can opponents of abortion be serious when they compare society’s tolerance of abortion to the Nazi genocide against Jews? Who can truly compare the grievous suffering of those rounded up, impounded and executed or worked to death to the death of an entity with no human understanding? The qualities that the embryo lacks are precisely those that make the terror of extermination so dreadful for individual people: the capacity for self-consciousness, the capacity for rational thought, the capacity to imagine a future for oneself, the capacity to remember a past involving oneself, and the capacity for being a subject of non-momentary interests.
+
+If we respect individuals’ autonomy and their bodily integrity, and if we believe that people should be allowed to make private personal decisions according to their own conscience, there can be no moral offence in making or assisting the choice of abortion. We can value all that the embryo or fetus is, and we can respect its potential, but still accept that however significant it is as a human life’s biological beginning, a woman’s complete life (which is so much more than a beating heart and DNA) matters more.
+
+It is a travesty of our freedom for abortion to be restricted by the criminal law. The criminalisation of abortion, which has undermined reproductive rights and freedoms in almost every country for centuries, has no place in a modern liberal society. Currently no national law recognises abortion as a private moral decision to be made by the woman herself, throughout pregnancy. Even countries with relatively liberal laws assume that abortion is an exceptional procedure requiring explanations and justifications. Why should termination of pregnancy not be subject only to the laws and regulations and consents and permissions that apply to treatment of equivalent complexity and risk? Criminal statutes do not control when other medical procures should be allowed and it is bizarre for doctors to be criminalised when they accede to a woman’s request to safe and consented procedure.
+
+Even when abortion laws are interpreted liberally by progressive doctors, they exceptionalise abortion by requiring a woman to account for her decision. They ignore the principles of autonomy and self-determination and fail to accept that our bodies are our own – always. A woman’s right to her body does not lessen when she is pregnant; she is just as much a person as she was before.
+
+Abortion needs to be acknowledged for what it is – a safe, effective means of birth control that can be subject to the same clinical governance and regulatory requirements as other treatments.
+
+**Ann Furedi is author of *The Moral Case for Abortion,***July 2016***,* Palgrave Macmillan**

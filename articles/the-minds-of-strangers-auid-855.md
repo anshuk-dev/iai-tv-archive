@@ -1,0 +1,54 @@
+---
+title: "The Minds of Strangers"
+subtitle: "Can we ever know the experience of others?"
+author: "Anita Avramides"
+date: "Issue 57, 1st August 2017"
+article_id: "855"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,519 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/mindsofothersredux.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-minds-of-strangers-auid-855"
+---
+
+# The Minds of Strangers
+
+*Can we ever know the experience of others?*
+
+**By Anita Avramides** | *Issue 57, 1st August 2017* | *Read time: approx. 8 mins* | *1,519 words*
+
+![The Minds of Strangers](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/mindsofothersredux.webp)
+
+---
+
+How we know others has been a problem perplexing philosophers for centuries (exactly when the problem arises in the history of philosophy is a matter of some speculation). For as long as there has been a problem, there has also been an acknowledgement that the way in which we know others and the way we know ourselves is substantially different. One very early statement of the problem can be found in St. Augustine’s *De Trinitate* (written in the 4th century AD):
+
+“Know thyself” is not said to the mind as…”know the will of that man”, for it is not within our reach to perceive at all, either by sense or understanding, unless by corporeal signs set forth…."
+
+It should be remembered that when philosophers talk about knowing oneself and others they are not talking about having deep insight into character but are asking a rather more superficial question: how can I know what another is thinking or feeling? St Augustine points out that we cannot perceive the mind of another (using the will as an example of a mental state); what we perceive in the case of others are merely “corporeal signs” – i.e. bodily movements. Notice that Augustine must hold that the movement I observe has nothing of the mindful about it. For him, the movement signals something else - an “inner state” – that cannot be perceived. The same idea is to be found in the works of George Berkeley (in the 18th century), who writes:
+
+"Hence it is plain, we do not see a man – if by *man* is meant that which lives, moves, perceives, and thinks as we do: but only such a certain collection of ideas, as directs us to think there is a distinct principle of thought and motion like unto ourselves, accompanying and represented by it."
+
+Again, we find in Berkeley the idea that we perceive something – the other’s behavioural (which will no doubt include facial) movements – which direct us to think there resides in the other a principle of movement and thought which is like what we find in ourselves.
+
+There appears to be agreement here that we cannot *perceive* another’s mind, and that we somehow work our way to knowledge of the other’s mind from the movement of their bodies. And there is also agreement here that there is a *contrast* between the way I know my own mind and the way in which I know the mind of another.  St Augustine held that I know my own mind “for no reason than that it is present to itself”. And Berkeley held that I know my own mind “intuitively” or “immediately”; and he insisted that “I do not perceive it as I perceive a triangle, a colour, or a sound”. So, while I perceive *neither* my own mind nor the mind of another, I know the former immediately while I come to know the latter via an inference from what I do perceive (the other’s bodily movements). This way of thinking has been pervasive when thinking about knowledge of one’s own and another’s mind.
+
+Some philosophers have held that there is a kind of perception that puts us in touch with our own minds, they label this *introspection* (literally, an inner seeing). However, there is a notable difference between introspection and perception of objects in the world around us. As Descartes showed with his dreaming argument and evil demon hypothesis, I can be wildly wrong in my beliefs about the world around me; however, when it comes to introspection it seems that such massive error is implausible.  By and large, if I think I believe that it will rain, then that is what I believe; and if I think that I am in pain, then I am.  So, even if I do perceive my own mind through introspection, there is something distinctive about this kind of perception.
+
+Some philosophers over the centuries have come to the conclusion that we must separate out and analyse knowledge of different sorts of things in different ways: knowledge of the world of bodies is one sort of knowledge, knowledge of one’s own mind is another sort, and knowledge of other minds is yet another sort of knowledge. More precisely, *how* we know in each case is very different.
+
+This may be correct, but it is also curious. After all, when it comes to the latter two sorts of knowledge, we are talking about knowledge of the same “things” – beliefs, desires, sensations, emotions. Why should access be so different in the first and third person cases? Not only are these ways of knowing different in practice, they are necessarily different – different in principle. If it is correct to hold that I introspect my own mental states, it is notable that I cannot introspect *your* mental states. When I come to know your mental states your behaviour must play some part; in my own case, I don’t have to observe my behaviour to know what I think and feel. Some have suggested that it is this very asymmetry – that I am related to my own mind in a way that is very different from the way in which I am related to your mind – that needs understanding.
+
+\_\_\_
+
+"I can introspect my own mental states, but I cannot introspect *your* mental states...I am related to my own mind in a very different way from the way I am related to yours..."  
+\_\_\_
+
+As is usual with deep and seemingly intractable problems, there are many attempts to understand them. While reconciling both kinds of knowledge here is a goal, philosophers have tended to approach this goal by considering the question of how we know our own mind and the question how we know the minds of others separately. Ultimately, however, we need to bring our accounts together. Recently, some philosophers have asked whether it is really true that all I perceive in the case of another is her bodily movement. Some have looked at the empirical literature that indicates that newborn human infants respond differently to animated faces than they do to inanimate objects.  Perhaps we perceive the behaviour of bodies that are (in some way) *like ourselves* differently from the way in which we perceive inanimate bodies. And if we do, what precisely does this tell us? Does it tell us that we *know* that others have certain thoughts and feelings? I think that might be too much to conclude. Firstly, it is not entirely clear that we want to say that the newborn *knows* anything; and secondly, it seems too much to say that the newborn is responding to specific thoughts and feelings on the part of the other.
+
+Nonetheless, there are things to be learned from such observations. Perhaps we have certain dispositions to respond to different kinds of things differently – the animate and the inanimate – and perhaps our capacity to know is built upon this ‘foundation’. Or perhaps there is more than one question here. We tend to ask, how do I come to know the mind of another? But perhaps we might ask a series of questions; for example: How do I know another is minded as opposed to inanimate? How do I know that another has beliefs, desires, hopes, fears, and suffers pains and pleasures? And finally we might ask, how do I know *just what* you think, desire, hope, fear, feel, etc.? It may be harder to give answers to some of these questions than to others. And it may be that we need to think differently about questions relating to beliefs, desires and the like than we do about questions relating to sensations and emotions. There is a bias towards unification – we would like to see answers hang together - but sometimes we need to accept that what we are trying to understand is more of a ‘mixed bag’.
+
+Finally, we may return to the question of whether St Augustine and George Berkeley were entirely correct when they said that I cannot perceive the mind of another and that all I can see are the movements that we must take as signs of something within. Arguably, it is this sort of thinking that has led to a mind-body duality, a separation of mind and body. While it is very natural to think in terms of a mind-body duality, it is also hard to square with what else we know about the world. One way of avoiding this duality may be to explore the way the behaviour of others like ourselves is different from mere movement. Perhaps mental states are not so much hidden behind behaviour as expressed in it. And if this were the case, when I perceive another’s behaviour I may be perceiving *more* than mere physical movement. Perhaps I do perceive the mind of others. At the end of the day, however, we must not forget that the mental states I may be capable of perceiving are *yours*. Much as we may want to penetrate to the heart of the other, we must accept that the self is distinct from the other and this brings in its wake a certain mystery.

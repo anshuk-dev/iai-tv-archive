@@ -1,0 +1,63 @@
+---
+title: "Change Thyself: your personality is a moral issue"
+subtitle: "Not all personalities are morally equal"
+author: "Andrea Lavazza"
+date: "25th February 2022"
+article_id: "2060"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "1,758 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/personalities.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/change-thyself-your-personality-is-a-moral-issue-auid-2060"
+---
+
+# Change Thyself: your personality is a moral issue
+
+*Not all personalities are morally equal*
+
+**By Andrea Lavazza** | *25th February 2022* | *Read time: approx. 9 mins* | *1,758 words*
+
+![Change Thyself: your personality is a moral issue](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/personalities.webp)
+
+---
+
+*Our personalities are not morally neutral. Temperament can make us act more or less morally and we thus have an ethical obligation to improve our personalities argue Andrea Lavazza and Mirko Farina.*
+
+In many languages, to have character, means to have a bad temper. Common sense thus seems to indicate that character and personality are strongly related. The relationship between these two features is typically investigated by disciplines such as moral philosophy and experimental psychology. Clarifying the relationship between personality and character may also have significant ethical implications. In this short essay, we critically reflect on these issues and argue that contrary to the received view, there isn’t a clear divide between a biologically inherited personality and a character shaped by personal efforts. Accordingly, modifying one’s personality traits can help in enhancing one’s character. Since there exist morally compelling reasons to do so, we argue that we are required to change our personality for the best. [1]
+
+Personality may be understood as that complex organization of ways of being, including knowing and acting, that gives unity, coherence, continuity, stability and planning to the individual's relations with her peers and the environment around them. In a more precise sense though, following Cloninger, we may describe someone’s personality as consisting of two distinct but interacting psychobiological dimensions: temperament and character. [2]
+
+Temperament -on Cloninger’s view- is the expression of biological features, acquired at birth and genetically inherited, that leads us to act in specific ways. Character is instead shaped by socio-cultural conditions and forged by people’s voluntary interactions in richly scaffolded environments. This means that temperament typically reflects differences in responses to environmental challenges and as such involves emotional reactive patterns (such as anger, attachment, and exploration), while character relates to the way that people interact between themselves and as such it reflects individual qualities (such as moral virtues or vices) developed based on personal experiences and learning trajectories.
+
+Consider the following as an illustration of these claims. If John has an impulsive temperament, upon receiving a rejection he will likely blame the person who gave him the rejection. On the contrary, if Mary trained in seeing rejections as an opportunity to improve herself, she will likely respond in a way that would be conducive to enhance office relations.
+
+A very interesting literary illustration of temperament can be found in '*Generosity*', a novel written by Richard Powers (2009). Thassa Amzwar, who is the protagonist of the story, escaped the horrors of the civil war in her country, Algeria, and found refuge in the United States. During the war she lost all her relatives and most of her friends. She endured severe physical and psychological hardships and now she finds herself in a new country that has different cultural values with no family or friends. Yet despite this shift in environment, she constantly displays a contagious *joie de vivre* and never lets her vitality and exuberance fail. Her overwhelming happiness ("hyperthymia"), which is not just foolish and superficial euphoria, combined with the confounding effects she has on those around her, makes scientists think that in her DNA we might finally find the key for happiness, which is what all humanity aspires to. If indeed our personality traits were inscribed in our genome, it would mean that character would also be derived (in non-trivial ways) from our biological inheritance.
+
+The Big Five theory, one of the most prominent theories in psychology, explains the emergence of personality and behaviour through the reciprocal interaction and combination of five basic (and relatively stable) psychological traits.[3] These are: i. *openness to experience* (inventive/curious vs. consistent/cautious); ii. *conscientiousness* (efficient/organised vs. extravagant/careless); iii. *extraversion* (outgoing/energetic vs. solitary/reserved); iv. *agreeableness* (friendly/compassionate vs. critical/rational); and v. *neuroticism* (sensitive/nervous vs. resilient/confident).
+
+These personality traits are generally taken to be universal and morally neutral. The idea is that what matters are character dispositions, such as altruism, and not the ways in which we interact with others at the basic level, e.g., reserve or sociability. Ultimately, common wisdom says, we need people like Mahatma Gandhi, Oskar Schindler, Martin Luther King, or Malala Yousafzai, irrespective of their temperament. And we need to take them as examples to try to improve our character and not our personality, which we do not choose and cannot radically change.
+
+However, this view is mistaken. Firstly, from a moral standpoint, which is what interests us here, **the distinction between personality/temperament and character is not very neat.** Having a low score in tests measuring conscientiousness means being careless. This can have consequences from an ethical perspective. For example, if we are generally careless about the effects of our actions in everyday life, we will not be able to produce good consequences or follow a good principle consistently.
+
+Secondly, robust psychological observations demonstrate that personality and character traits are not as stable as the Big Five theory might have assumed. “Situationism”, for example, shows that people are strongly influenced by the context in which they find themselves and that this happens unconsciously. [4] Stanley Milgram's famous (and controversial) studies (1974) can be taken as an illustration of this latter claim. His studies showed that **students with non-hierarchical personalities or high openness and agreeableness were prepared to inflict strong and painful electric shocks on other individuals by obeying the orders of an authoritative experimenter.** That is something they would never do in their everyday life. In addition, it seems that at least some of these personality traits may strongly depend on the goals that an individual sets for herself in different situations, as discovered by recent research on extraversion.[5] For example, if I want to get high marks at school, I will try to become conscientious, if I want to be popular and make friends, I will want to be agreeable.
+
+All the above thus makes us sceptical about the prospect of endorsing a genetically centred, almost deterministic, approach to personality and therefore, it suggests the possibility of reshaping our personality traits through -for example- proactive interactions with people, technology, and environs. This, in turn, raises an important question, which concerns both the practical feasibility and the actual necessity of such a personal commitment.
+
+With respect to the former, several studies demonstrate the feasibility of such an approach. For example, Mirjam Stieger and colleagues have shown that micro-interventions with an app called PEACH (which offered a broad range of tools such as keeping a diary of resources, a reminder for individual implementation intentions or the delivery of psychoeducation video clips) helped participants willing to change some personality traits. [6] We do not want to hype these results, suggesting that rewiring can take place at command; however, these findings seem to debunk the belief in the immutability of our temperament.
+
+And yet, to answer the second part of the above-mentioned question, one may wonder why we should change our personality and not work on our character, which seem to have the greatest ethical relevance. We believe that there are at least three reasons for this.
+
+Firstly, it is good for the individual to carry certain personality traits and it is good for the people surrounding these individuals to also attend to such traits. We have known this since psychologists began to systematically correlate personality traits with significant life outcomes. Moreover, we now know that based on how one scores on some traits, one's love and work life, well-being, health, and longevity may dramatically change. For example, many studies have shown that people with higher conscientiousness get more relevant academic positions, have more efficient job performance, and enjoy better physical health, and relationship quality. On the contrary, high neuroticism can be maladaptive and make one's life highly dysfunctional and miserable. In this sense, personality traits can be as much a predictor of one's life trajectory as socioeconomic status or cognitive abilities. This seems to be a good reason to try to improve them, when possible. [7]
+
+Secondly, as already mentioned, personality traits are much more character-related than previously thought. Temperament, as a synonymous of personality, is certainly related to the values or aims that guide our actions. Psychological explanations of people’s behaviours tend to be rooted on the goals that individuals set for themselves. **Once a life project or a set of values has been chosen, both personality traits and character will adjust and coalesce in a relative coherent direction**. For instance, a surgeon, an admiral and a stock trader will tend to have different temperaments and characters. So, to be effective and morally suitable, an aim needs to be sustained by consistent traits. Nevertheless, a certain degree of circularity in these explanations cannot be excluded, nor will there be any lack of exceptions (such as the gruff hero or the shy actor).
+
+Thirdly, certain personality traits do not have a moral value in themselves but are more appreciated than others by the people we meet. Therefore, it may be argued that it would be a sensible ethical choice to improve one's temperament if the goal were to make oneself more agreeable in the eyes of the people with whom we could interact. Indeed, it could be argued that many people would like to be conscientious, or emotionally stable and that they would appreciate people who are extraverted and open. Exceptions are possible, of course.
+
+If it is possible to modify our personality traits and it is also ethically sensible to do it, we can then ask ourselves how we could best do it. Forms of psychological coaching and technological aids certainly appear to be appropriate tools for personality enhancement. These tools however require much practice and effort. A second possibility may involve a process called moral enhancement. [8] **The idea is to intervene with pharmacological therapy (based on drugs) or even biomedical means (such as genetic engineering) to enhance people's pro-sociality and to extend their moral concerns into the future.** In this way it may become easier to enhance people’s personality by cultivating beneficial traits (such as friendliness, curiosity, respect, altruism) without much personal effort or practice. However, when doing so, we should carefully reflect on whether such an enhancement may respect our autonomy as moral agents.
+
+Obviously, not all the changes in personality traits are morally praiseworthy and only some of them are always good. Certain situations can require more stiffness and other ones more friendliness, and so on. Therefore, it’s still up to us, on a case-by-case base, to ascertain which are the needed traits to enhance our temperament in the most efficient and authentic way.
+
+Know thyself, as the oracle of Delphi urged, is the first task of the human being. The second task might be: improve yourself. And we can start with our own personality and character.

@@ -1,0 +1,82 @@
+---
+title: "Cyberspace and the Self"
+subtitle: "Should we judge others by who they are online?"
+author: "Patrick Stokes"
+date: "Issue 57, 31st July 2017"
+article_id: "851"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,327 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/cyberspacenewsredux.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/cyberspace-and-the-self-auid-851"
+---
+
+# Cyberspace and the Self
+
+*Should we judge others by who they are online?*
+
+**By Patrick Stokes** | *Issue 57, 31st July 2017* | *Read time: approx. 7 mins* | *1,327 words*
+
+![Cyberspace and the Self](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/cyberspacenewsredux.webp)
+
+---
+
+If you needed to date the point at which “cyberspace” ceased to exist and the internet simply became a part of our corporeal existence, you could do worse than pick the first, unrecorded moment when someone said ‘lol’ instead of actually laughing out loud.
+
+We might well think there’s something affected and just plain fake about swapping text speak for such a visceral, bodily reaction. Still, internet abbreviations wouldn’t jump the fence into spoken conversation if they didn’t have some utility – IMHO, anyway – so it’s worth taking them seriously. And like any other part of our language, they can be simultaneously useful and deeply confused.
+
+Consider ‘IRL,’ or ‘in real life.’ We’ve long used that expression for actors – “He always plays baddies, but in real life he’s a sweetheart” – which makes sense, insofar as actors portray characters in fictional worlds wholly discontinuous from ours. As Bernard Williams once put it [1], you may be sitting a few yards from Laurence Olivier, but you are *no* specifiable distance from King Lear. And while an actor may ‘bring something of themselves’ to a role, the character is nonetheless ontologically distinct.
+
+But when we use ‘in real life’ in contrast with online communication, we buy into an ontology that no longer holds up, if indeed it ever really did; one that opposes a fundamentally unreal ‘cyberspace’ to a fleshy, all-too-real ‘meatspace.’ And when we do so, we’re implicitly begging off responsibility for our online selves and effacing the ethical reality of those that we engage with.  The idea that online communication is ‘less real’ is a way of failing to fully inhabit what we say and do – much like saying ‘lol’ instead of laughing.
+
+\*\*\*
+
+Electronic communication is now in its third century, reckoning from Francis Ronalds’ telegraph of 1816 (two decades before Morse). Each new advance, from the telegraph to radio to television and now the internet, has been greeted with suspicion and anxiety as much as with enthusiasm. Each offered new forms of extended presence in the lives of others, but in ways that were always – understandably – taken to fall short of ‘real’ presence.
+
+"I hear something like you through this telephone, but I do not hear you” says Kuno, E.M. Forster’s protagonist in his uncomfortably prescient science fiction story ‘The Machine Stops’ [2]. The gap of mediation, at least while the technology is new and unfamiliar, makes us view telepresence as less real, and so less significant. Yet nobody today thinks phone conversations are unreal, or that they take place in a virtual ‘phone-space.’ They’re simply part of how we move through our shared lifeworld, to borrow Husserl’s useful phrase.
+
+Such worries recur with each new form of communication. The philosopher Hubert Dreyfus argued that telepresence is always limited for lacking the vulnerability that comes from physical co-location [3]. This both implies that only physical vulnerability is ‘real’ vulnerability – which any victim of online bullying or aggressive trolling can tell you is disastrously false – but also assumes the internet is wholly disconnected from our corporeality.
+
+That, increasingly, simply isn’t true, from the harms of online body-shaming to tracking our location and physical condition via social media check-ins and ‘wearables.’ Our bodies are presented, tracked, and all too often critiqued electronically, while we walk around with the internet in our pockets or on our wrists.
+
+\*\*\*
+
+This corporealisation of the internet is part of the broader collapse of ‘online’ and ‘offline’ modes of existence during the last decade or so. What remains post-collapse is what Luciano Floridi and others have christened ‘Onlife’ [4] a state in which real and virtual become increasingly blurred and internet-mediated forms of communication merge into the fabric of lived, embodied experience.
+
+\_\_\_
+
+"The collapse between 'online' and 'offline' makes it harder to pretend that our online selves, and the people we interact with, are merely virtual."  
+\_\_\_
+
+That collapse makes it harder to pretend that our online selves, and the people we interact with online, are merely virtual. Internet technologies do not generate an unreal self so much as extend the reach and instantiation of the self we have. Persons as social, phenomenal and even physical entities are increasingly distributed across networks, present in a multitude of places at once. Both our presence and our agency are stretched out and multiplied, if in a diffuse way.
+
+An obvious objection here is that the self we present in contexts like social media isn’t really us, but a carefully curated simulacrum. In choosing what to share of our experiences and to whom, we build a fictionalized version of ourselves. In “Be Right Back,” an episode of Charlie Brooker’s TV series *Black Mirror*, a clone of a dead man derived from his online traces looks like the original “on a good day” because “the photos we keep tend to be flattering.” We don’t typically share ourselves at our worst, or the worst of ourselves.
+
+But that’s just as much true offline as on. It’s not so much that we pretend to be someone else on, say, Facebook; rather, we present a somewhat aspirational picture of ourselves, a picture of the person we hope to be [5] – just as we do in face-to-face conversation. And ultimately, try as you might, you have no more control online over your being-for-others, in Jean-Paul Sartre’s terms, than you do in person. Nor can you disavow that persona. Like it or not, it’s all you.
+
+\*\*\*
+
+If our online selves are our real selves, and online communication does not take place in a metaphysically separate realm but is simply part of our (unitary) lifeworld, what flows, morally speaking, from this?
+
+For one thing, the idea that what we do to others online somehow matters less than what we do ‘in person’ is robbed of its ontological basis. Tweets, posts and emails are speech acts just like any other. ‘Trolls’ who might want to insulate themselves from moral liability for their actions, while still enjoying the discomfort they cause, lose the comforting fiction that their harms are somehow virtual or unreal. “It’s not real life” doesn’t hold water anymore – there’s one real life, and we’re all living in it, even when we’re staring at our screens.
+
+Moreover, if we take online materials as constitutive of selves, part of the fabric through which personhood is instantiated rather than a mere representation of it, then how we treat the online traces of others matters ethically, even when those others don’t directly experience our treatment of them. For instance, as I’ve argued previously [6, 7], the ‘digital remains’ of deceased social media users have at least some moral claim not to be deleted, springing from our broader duty to preserve the dead in our lifeworld. The prosthetic memory offered by the internet makes it easier to preserve more and more of the phenomenal presence of the dead – though not, crucially, their consciousness – which in turn gives online artefacts an additional kind of significance.
+
+The internet has made incalculable things easier. Yet as we gradually work its affordances into our lives, it presents new challenges. Just as Kuno had to learn to hear his mother’s voice in the telephone, and not merely something like it, so too we need to learn to see the faces of others in their electronic forms, in their full moral significance – and treat them accordingly.
+
+[1] Williams, Bernard (1973) *Problems of the Self: Philosophical Papers 1956–1972*. Cambridge: Cambridge University Press, p.35.
+
+[2] Forster, E.M. (1956) *The Eternal Moment and Other Stories.* San Diego: Harcourt Brace Jovanovich.
+
+[3] Dreyfus, Hubert (2008) *On the Internet* 2nd edition. London: Routledge.
+
+[4] Floridi, Luciano (ed). 2015 *The Onlife Manifesto: Being Human in a Hyperconnected Era.* Dordrecht: Springer.
+
+[5] Zhao, Shanyang, Sherri Grasmuck & Jason Martin (2008) “Identity Construction on Facebook: Digital Empowerment in Anchored Relationships” *Computers in Human Behavior*, 24(5): 1816–1836.
+
+[6] Stokes, Patrick (2012) “Ghosts in the Machine: Do the Dead Live On in Facebook?” *Philosophy and Technology* 25(3):363-379.
+
+[7] Stokes, Patrick (2015) “Deletion as Second Death: The Moral Status of Digital Remains” *Ethics and Information Technology* 17(4):237-248.

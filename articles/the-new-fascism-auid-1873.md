@@ -1,0 +1,109 @@
+---
+title: "The new fascism"
+subtitle: "And how to defeat it"
+author: "Paul Mason"
+date: "26th August 2021"
+article_id: "1873"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+word_count: "1,996 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-26.New-fascmism-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-new-fascism-auid-1873"
+---
+
+# The new fascism
+
+*And how to defeat it*
+
+**By Paul Mason** | *26th August 2021* | *Read time: approx. 10 mins* | *1,996 words*
+
+![The new fascism](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/21-08-26.New-fascmism-min.webp)
+
+---
+
+*Many think of fascism as a phenomenon of the 20th century. But fascism isn’t history, it has simply mutated and adapted to the new millennium. It is more philosophically informed and operationally savvy, and at the same time just as against the modern world and its freedoms as the Taliban. To beat this new strain of fascism we need to reignite the ethos of liberalism and the left, writes Paul Mason.*
+
+***Paul Mason will be speaking at HowTheLightGetsIn Festival, September 18-19th in London's Hampstead Heath. Explore more [here](https://howthelightgetsin.org/festivals/september).***
+
+Shortly after the Taliban took Kabul, inflicting strategic defeat on the West, the American far-right began a paroxysm of celebrations. “The Taliban is a conservative, religious force, the US is godless and liberal. The defeat of the US government in Afghanistan is unequivocally a positive development”, wrote far-right influencer Nicholas Fuentes.
+
+Those who fantasise about the future disintegration of the US Federal state were ecstatic. For here was a model of how you do it: raise a generation of radicalised youth, detached from normal society, arm them, and take the country working from the remote areas inwards. What failed as a gestural insurrection on 6 January 2021 could one day succeed as a guerrilla war.
+
+Like the Taliban, the American far right hates gays, transgender people, feminists, Marxists, liberals and democracy itself. But there's a deeper, more philosophical reason why they're celebrating.
+
+We are no longer dealing with skinheads and football fans vocalising vague prejudices against liberal society: we are dealing with people who know who Theodor Adorno was and hate him just as much as they hate the kebab shop owner on the corner.
+
+The new fascism operating in the USA, and influential across global networks, is intensely theoretical and overtly anti-modern. We are no longer dealing with skinheads and football fans vocalising vague prejudices against liberal society: we are dealing with people who know who Theodor Adorno was and hate him just as much as they hate the kebab shop owner on the corner.
+
+If we list the main thinkers influencing today's far right - the Russian philosopher Alexander Dugin, Alain de Benoist and Guillaume Faye in France, Pat Buchanan in the USA, and Olavo de Carvalho in Brasil - the lineage of thought back to pre-1914 irrationalism is clear.
+
+They believe, far more viscerally than the first generation of fascists did in the 1920s, that the whole of modernity was a mistake. In this they are the blood brothers of the Taliban: A pro-medieval irrationalism created out of the ruins of a secular state was achieved in Kabul and, they believe, can be achieved in Washington.
+
+According to thinkers like de Benoist and Dugin, the 18th century revolution in science unleashed a process that allowed individuals too much freedom, elevated rationality over emotion and destroyed traditional society. While you could find elements of this critique in Nazism - above all in Goebbels pledge to "cancel the year 1789" - it was not overt in Mussolini's fascism, nor particularly prominent in the state ideologies of mid-20th century fascist regimes.
+
+A pro-medieval irrationalism created out of the ruins of a secular state was achieved in Kabul and, they believe, can be achieved in Washington.
+
+## The nature and tenets of contemporary fascism
+
+Today, antimodernism and antirationalism form the twin foundations on which the far right has erected a coherent thought architecture, consisting of five propositions.
+
+First, that migration is a form of genocide against white people. Second, that feminism and universalism are its willing accomplices. Third, that all current expressions of Enlightenment values - from science and liberalism to feminism - are covert forms of "cultural Marxism", expressly used as tools to destroy Western society. Fourth, that no Mussolini-style march to power is possible, and that the practice of fascism is "metapolitics", preparing the ground for the fifth and final proposition. Namely that civilisation is about to collapse into a global, ethnic civil war, from which there can emerge only large, continental-scale ethnic mono-states.
+
+All fascists believe all of this and more. The problem is, during the past decade, this thought architecture has "backfilled" the more spontaneous prejudices and concerns that have driven people into right-wing populist movements (like the Spanish Vox Party, the German AfD, Britain's UKIP and the Republican Tea Party in America).
+
+As a result, finely drawn distinctions within political science, whereby academics try to separate right-wing populism from fascism, are becoming blurred. Those who assumed that, despite their distasteful ideas, figures like Trump, Bolsonaro or Narendra Modi could act as a firewall against real fascism were mistaken. The firewall is on fire.
+
+The nature of the threat, then, lies not in the membership figures of far-right parties, nor even in the strength of their votes. Right now, the average fascist is very happy to be a footsoldier for Trump and his ilk - and you no longer need a hierarchical party structure to get organised.
+
+The nature of the threat lies in a rapidly morphing and proliferating movement like QAnon - the conspiracy theory that alleged Trump was about to launch a crackdown, jailing most of the US liberal elite, on grounds that they were a secret cabal killing children and extracting the chemical adrenochrome from their blood in order to achieve everlasting life.
+
+During its short life (and its current afterlife within the anti-lockdown movements) QAnon acted like a vortex for other conspiracy theories, and a willing periphery for organised far right activists.
+
+[Paul Mason debates with Ella McPherson and Hilary Lawson on whether is it ever really possible to report the truth.](https://iai.tv/video/tribal-truths-and-new-wisdoms-post-truth "Watch more videos on iaitv")
+
+Though "Q" - the fictitious Federal official who was spilling the beans on the coming crackdown - was the central figure, he never created a single orthodoxy. It was the followers, participating in something like an interactive multiplayer role-playing game, who created a body of assertive knowledge, completely at odds with facts, and strikingly similar to the Protocols of the Elders of Zion created in the 20th century by Tsarist intelligence.
+
+As a lifelong anti-fascist, who took part in campaigns to drive the National Front and BNP out of Britain's immigrant areas, I can attest to what has changed. Even the hardcore in the 1980s, people prepared to wear a swastika on their arms, were not noticeably engaged in the kind of conscious and performative self-deception that we find among today's far right.
+
+Their fascism was organic. It was about place and face, clustered around pubs and boxing clubs in the East End of London that had been Mosleyite in the 1930s. They were, in essence, a tribute band to the Third Reich - which explained their complete inability to cut through, even in conditions of mass unemployment during the 1980s.
+
+Today's fascism conforms far more closely to the phenomenon observed by sociologist Karl Mannheim in the 1920s. It is the product of mass psychological disturbance, happening relatively autonomously from economic hardship. Few of the 650 people indicted so far for the Capitol Hill riot are poor. Strikingly, they are middle class people experiencing dismay, disruption, and demoralisation.
+
+Their response has been, as Mannheim observed among the early Nazis, to reach obsessively for an irrational desire - the collapse of American democracy and the return to an ethnic monoculture. This Utopian thinking, Mannheim wrote "guided by wishful representation and the will to action, hides certain aspects of reality. It turns its back on everything which would shake its belief or paralyse its desire to change things".
+
+So performative self-deception is not new. It is, however, much easier. It needs no Führer, no Mein Kampf and no Sturmabteilung when it has Facebook, some anonymous bulletin boards and the Discord servers of the video games world – they are enough to drive public figures into hiding, following death threats over the internet.
+
+Even the hardcore in the 1980s, people prepared to wear a swastika on their arms, were not noticeably engaged in the kind of conscious and performative self-deception that we find among today's far right.
+
+And the democracy it wants to destroy is already fragile. The phenomenon of democratic decay has already produced what Princeton sociologist Kim Lane Scheppele calls the "Frankenstate" - democracies where all the component parts of the body politic are there, but stitched together in a "horrific and monstrous way". This problem preceded the sudden emergence of a new, theoretical anti-rationalism, but it means our defences against the extreme right are already weak.
+
+The depths the new far right will sink to are indicated in their recent bout of Taliban cheering. They want Western society to end the same way the 20 year Western-imposed polity ended in Kabul. They are convinced it is just as inauthentic, the product of the "gay state" or the "Zionist Occupied Government". And they want the same things: the suppression of feminism, religious and ethnic diversity, science and rationality.
+
+## How to defeat the new strain of fascism
+
+We need to resist the new fascism on many planes. Sometimes it is necessary to put your body between them and their intended victims. But we are probably past the stage where that alone will work. New laws and harsher regulation of technology platforms will be necessary. But above all we need to fight the far right intellectually and at the level of the ethos.
+
+Their ethos is clear, and drawn from the writings of mid-century fascist survivors like Julius Evola and Carl Schmitt. They believe it is ethical to wage war in defence of an ethnic monoculture, and thus to destroy universal rights, peer reviewed science and the rule of law.
+
+Both liberalism and the left need to project a confident and persuasive ethos of our own. Which is a problem. In the post-structuralist era, truth claims are unfashionable and moral philosophies have become an outright embarrassment.
+
+When people are so far into self-deception that they are prepared to believe, simultaneously that Covid-19 is caused by 5G telecoms, and that the vaccines are cover for injecting people with trackable microchips, simply taking them through an exercise in formal logic is unlikely to work.
+
+Both liberalism and the left need to project a confident and persuasive ethos of our own. Which is a problem. In the post-structuralist era, truth claims are unfashionable and moral philosophies have become an outright embarrassment.
+
+But the experience of the Popular Fronts in both Spain and France between 1934 and 1936, and the radicalisation of progressive America during the New Deal, show what can be done.
+
+In the mid-1930s the far left was persuaded to abandon its class-against-class rhetoricand instead defend the democracies that existed. Liberalism was persuaded to stop attacking the left and start resisting the far right. In the process, the Popular Front movements created grassroots networks and cultural movements which detached themselves from their party origins and came to inhabit popular culture as an ethos.
+
+It is this ethos we see in the plays of Clifford Odets, the movies of Jean Renoir and in Picasso's Guernica, which was originally displayed at a mass, popular international festival. It is the ethos that survives into wartime movies like Casablanca, and immediate post-war films like Passport to Pimlico.
+
+The enduring tragedy of Western liberalism is that it allowed that ethos to atrophy, abandoned it during the Cold War. The result is that a figure like Trump can stigmatise and other the very concept of "antifascism" - at one stage even threatening to classify it as a form of terrorism.
+
+To rekindle the anti-fascist ethos means persuading people to take moral, ethical and political decisions on the same scale as happened in the 1930s - not just placing demands on politicians and regulations on tech companies.
+
+Modern fascism stands poised to exploit every opportunity: from the forest fire in Oregon, where it persuaded people to stay in the path of the flames to guard their property against "antifa" to the German Querdenker movement, which regards surgical masks as "Marxist".
+
+So there is no avoiding the ideological battle with it. That should mean an aggressive defence of democracy, the scientific method, academic peer review and the rule of law – and at the same time a war on irrationalism, pseudoscience and theories of political power-worship that are trying to supplant them.

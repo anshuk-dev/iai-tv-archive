@@ -1,0 +1,143 @@
+---
+title: "Life’s secret weapon against the uncertainty of the world"
+subtitle: "The hidden creativity of biological disorder"
+author: "Conor Feehly"
+date: "24th April 2026"
+article_id: "3558"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+word_count: "2,308 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/lifes-secret-weapon-against-the-uncertainty-of-the-world.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/lifes-secret-weapon-against-the-uncertainty-of-the-world-auid-3558"
+---
+
+# Life’s secret weapon against the uncertainty of the world
+
+*The hidden creativity of biological disorder*
+
+**By Conor Feehly** | *24th April 2026* | *Read time: approx. 12 mins* | *2,308 words*
+
+![Life’s secret weapon against the uncertainty of the world](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/lifes-secret-weapon-against-the-uncertainty-of-the-world.webp)
+
+---
+
+*Chaos, uncertainty, and noise are often thought of as getting in the way of an organism's plans. Animals, for example, need predictable food and water sources, without them life is a constant struggle. However, science journalist **Conor Feehly** here argues that biologists are increasingly revealing how life necessarily uses chaos as a creative tool for adapting to an uncertain world.*
+
+The very substrates of life can be as unpredictable as the chaotic world in which life resides. Our informational molecules mutate. Hearts skip a beat. Neurons flicker on and off. This natural variability in the hardware of life causes significant hurdles for the goals of living systems. In response, life at large has developed a set of mechanisms to dilute the effects of noise—the uncertain nature of physical systems—from within, and from the outside.
+
+Error correction enzymes ensure DNA is reliably copied. Immune systems seek and destroy hostile invaders. Nervous systems build predictive models. This view, however, that life is unwittingly subject to, and constantly trying to minimize the effects of, its noisy environment and components, ignores a crucial lesson that has increasingly come into focus as scientists have unraveled the problem-solving capacities of life at [every scale of biological organization](https://iai.tv/articles/biology-not-physics-holds-the-key-to-reality-auid-3163).
+
+Namely, that life harnesses noise as a creative search mechanism to explore solutions to survive and thrive in a changing world. Like a musician spontaneously trying new chord progressions, rhythms, and melodic hooks to see what might stick when they set out to write a new song, [life similarly explores new configurations and behaviors](https://iai.tv/video/a-world-of-order-and-chaos) through noisy search processes.
+
+“I cannot think of any work I have done that does not rely on the adaptive channeling of noise,” says David Krakauer, evolutionary biologist and president of the Santa Fe Institute (SFI), an organization dedicated to the multidisciplinary study of complex systems. “The other way to say that is for exploration, or discovery, or innovation, that constellation of ideas about finding new things, then you need noise.”
+
+**Genetic noise**
+
+We have had clues pointing to the power of noise in biology for some time. Perhaps the most well-known example, from the late 19th century, is the Baldwin effect, named after early evolutionary biologist James Baldwin. He noticed that when there was a dramatic change in environmental conditions, you would observe more variation in the phenotypes—physical characteristics—of species that occupy that environment. He was the first to say that this could serve an adaptive purpose.
+
+\_\_\_
+
+Evolved evolvability is underwritten by the capacity of an organism to modulate the inherent noisy nature of its genetic hardware.
+
+\_\_\_
+
+For any given species, you are no longer optimized to your environment because the context has changed. The old adaptation no longer fits—now you have to find something new. The modern name for this is cryptic variation, and evolutionary biologists have been working to uncover the genetic mechanisms that contribute to an organism’s talent for driving up the variability of its phenotypes in response to an environment in flux.
+
+To take one example, [in recent experiments](https://www.science.org/doi/10.1126/science.adr2756), Michael Barnett, an evolutionary biologist from the Max Planck Institute of Evolutionary Biology, alternated lineages of bacteria between two environments that would exert different selective pressures on the bacteria. He found that changing the environment first caused elevated transcription rates—the process of copying DNA where mutations are most likely to occur—so as to increase the likelihood that adaptive mutations could arise in new copies of DNA.
+
+When DNA is copied, random variations in the sequence of base pairs appear due to noise—the natural fluctuations of particles, atoms, and molecules, which could be due to quantum mechanical fluctuations, thermal noise, or radiation.
+
+In essence, these bacterial species actively regulate the rate of mutation (noise) at the level of genes so as to explore a space of possible solutions—new phenotypes—for existing in an environment that they are no longer adapted to. By intentionally driving up transcription rates, they made themselves more evolvable. This trait, evolved evolvability, is underwritten by the capacity of an organism to modulate the inherent noisy nature of its genetic hardware.
+
+[![related-video-image](https://iai.tv/assets/Uploads/denis-noble-symmetry-studio.webp)
+
+SUGGESTED VIEWING
+Denis Noble on the symmetry of order and disorder
+With Denis Noble](https://iai.tv/video/denis-noble-on-the-symmetry-of-order-and-disorder)
+
+Our [immune system does something similar](https://www.nature.com/articles/nri1896). When a new antigen invades an organism, and it does not have the relevant DNA sequence to make an antibody with the correct structure, it downregulates the cell’s DNA error correction machinery in specific parts of the immune cell’s genome so as to introduce rapid mutation to the variable part of the immunoglobulin sequence.
+
+This increases the chance that an immune cell will emerge with a DNA sequence that has the correct shape to dismantle a hostile virus or bacteria. In this case, immune cells are capable of regulating the rate of random genetic mutation, or noise, to generate novelty to deal with an unexpected (noisy) environmental threat.
+
+**Physiological noise**
+
+As we move up the scale of biological organization, from cells to organs, we can also see how variable, noisy behavior allows these systems to achieve their specific physiological goals.
+
+Our brains and our bodies are [in a constant dance,](https://iai.tv/video/denis-noble-on-the-symmetry-of-order-and-disorder) waxing and waning, responding to each other so as to orchestrate the complex negotiation of energy across our bodily systems. These systems—cardiovascular, digestive, respiratory, immune, etc.—have set physiological parameters, optimal regions within which they can and need to operate.
+
+Like a dancer who has fallen out of sync with their crew, if any of these systems veer too far from their optimal range, it can have catastrophic implications for the body or performance as a whole. The process by which our brains and bodies regulate these systems is familiarly known as homeostasis.
+
+Historical [work by physiologists](https://pubmed.ncbi.nlm.nih.gov/12386491/), such as Timothy Buchman—professor of surgery and anesthesiology at Emory University School of Medicine—has suggested that healthy people have a degree of variability, or noise, in the functioning of their organs. The idea is that it allows our bodily systems to exist in a wider space of physiological states, increasing the homeostatic bounds of what our bodies can tolerate.
+
+If for instance, your heart rate is perturbed in some way because you have to react to some unexpected event (environmental noise), then the changes in your heart rate won’t come as a huge surprise to your body—which would otherwise be stressful—because the inherent variability in your heart rate has conditioned it to exist within a wider spectrum of states.
+
+**Nervous system noise**
+
+Peep under the hood, and our neural dynamics reveal a system where noise is built in from the ground up. From the seemingly spontaneous firing of single neurons to large-scale measured variability of brain activity over time, the harnessing of noise, it increasingly appears, is a [central feature](https://www.sciencedirect.com/science/article/pii/S0896627321000453) of the creative and intelligent capacities of our most complex organ.
+
+Typically, fMRI studies into brain activity will measure “resting state” neural activity, which will then act as a sort of baseline or statistical zero. While in the scanner, study participants will perform different cognitive tasks, and the measured difference in neurological activity from the baseline will represent the “signal” in their data. But “resting state” activity is variable over time, which means neuroscientists will often average over this activity to extract a “mean,” rather than treating that variability as a fundamental feature of the system.
+
+\_\_\_
+
+The more the world is uncertain, the more we are driven to explore a space of possibilities for optimally perceiving and behaviorally interacting with it.
+
+\_\_\_
+
+More recently, however, neuroscientists like Douglas Garrett (formerly of the Lifespan Neural Dynamics Group at the Max Planck Institute) have been treating this neural-level noise at face value, by making efforts to meaningfully [quantify neural noise](https://www.sciencedirect.com/science/article/pii/S0896627321000453) (variance-based, frequency-based, entropy-based), investigating [under what scenarios](https://www.nature.com/articles/s41467-021-22511-7) they can manipulate neural noise, and how our capacity for neural noise shifts [throughout our lifetime](https://pubmed.ncbi.nlm.nih.gov/39715747/).
+
+Garrett and his group have been circling around one consistent theme in their research. “The need, let’s say, for the system to have some variance available to it increases as the world is uncertain. This may be the most targeted way we have been able to manipulate variance at a neural level.”
+
+By driving up the uncertainty of sensory information, such as presenting images to study participants with increasing levels of missing pixels and then asking them to identify the contents of the image, people respond by driving up the variability of their neural activity. Garrett thinks this noise functions as a sort of solution search mechanism, where our neural activity explores a space of perceptual or behavioral possibilities before it arrives at a goal-oriented solution for the ambiguity it is faced with.
+
+“It turns out that when you give people a task in the scanner, they might need a certain amount of variance to do the job, but the best people are the fastest and most accurate given the context. And the higher performers in both the young and old groups had more variable brains, not less,” he says.
+
+The more the world is uncertain, the more we are driven to explore a space of possibilities for optimally perceiving and behaviorally interacting with it. Measures of neural noise are likely the signature of our nervous system carrying out this search process.
+
+**Noise in collectives**
+
+While we have explored cases where noisy dynamics are being harnessed by individual organisms, interdisciplinary researchers have also been investigating how functional noise is being implemented at the level of collectives.
+
+Researchers like Orit Peleg from the Biofrontiers Institute at UC Boulder have been studying how collective living systems, like bee swarms, fireflies, and plant species, make use of noisy dynamics to achieve their collective goals.
+
+Peleg was also part of a team who [investigated the mechanisms](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.031027) behind the emergence of collective shade-minimizing behavior in sunflower crops. Her group found that noisy circumnutations—random growth patterns in sunflower seedlings—were a crucial component of how sunflowers explore a space of possible configurations to reach an energetically optimal level of shading for every individual sunflower.
+
+“In general, I would say that noise is a search mechanism if you think about the more abstract energy landscape of any system. Adding noise allows these systems to search the energy landscape more efficiently,” says Peleg.
+
+**Turning noise down**
+
+Noise, evidently, is a useful tool for exploration. But sometimes you don’t want to explore. In cases where an optimal solution has been reached—an adaptive phenotype, an immune cell that can break down a viral threat, or a perceptual category for a new object—you want to turn down the noisy dial and make use of your new trick.
+
+“You need to be able to regulate the noise because when you hit your target you need to turn it to zero. I’m no longer in an explore mode, I’m in an exploit mode,” says Krakauer.
+
+\_\_\_
+
+The study of noise across all scales of biological organization is revealing how living systems harness the creativity of noise to counter nature's chaos.
+
+\_\_\_
+
+Once a biological system has developed a new tool, or a new behavior, the further use of noise risks losing what it has learnt. To harp back to the musical metaphor, if you have written a great song, you don't need to keep jamming new variations, as you might lose what made the new song great in the first place.
+
+In evolutionary theory, this nuance is related to a [theorem from the 1970s](https://link.springer.com/article/10.1007/BF00623322) called the error threshold, or critical mutation rate. It says that there is a noisy sweet spot where you have enough noise to allow you to discover new things, but not so much that you immediately lose them again. The error threshold specifically describes the limit, or upper bounds of noisiness, to the number of errors that can occur in a sequence of DNA base pairs before it destroys the information that will be passed on to subsequent generations.
+
+**Memory and change**
+
+The world and the entities we share it with are not static. This means the conditions under which noise should be completely absent from any system should be rare. The intuition, then, for what living systems should *normally* be doing, is for some level of noise to always be present.
+
+Living systems, then, are in something of a superposition. They need to have a memory, to remember what worked in the past. But they also need to be open to change. It's in this negotiation, between memory and adaptation, where life regulates the effects of noise.
+
+That organisms are able to turn the gain up and down on the noisiness of their components in order to make them more amenable to change can be a double-edged sword. If you commit to only solving problems in ways that you have before, by down-regulating the effects of noise, then the system is vulnerable because it becomes too rigid. But if you forget a solution to a problem because the system is too chaotic, then you are also vulnerable because you have to constantly relearn everything.
+
+[![lifes uncertainty principle](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/lifes-uncertainty-principle.webp)
+
+SUGGESTED READING
+Biology's uncertainty principle
+By Melinda Bonnie Fagan](https://iai.tv/articles/biology-uncertainty-principle-auid-2170)
+
+It is in this tension that we see biological systems [modulate the inherent variability of their components](https://iai.tv/video/biology-beyond-genes-denis-noble). Enough so as to be flexible, but not too much so as to compromise memory. But noise and memory are not always in conflict. While noise can function as the search engine, once you find what you're looking for, you need a means of capturing it.
+
+You might ask the question—but how much noise should I have in my daily life? There is no universally optimum amount of noise because it depends on who you are and your goals. If you’re a creative seeking inspiration for new projects, or a judge who wants to make consistent decisions in the courtroom, then the optimal level of noise you want to include in your day might be quite different. There are also types of mind who are more comfortable and thrive in a world in flux, and there are types of mind who prefer certainties and routine.
+
+The study of noise across all scales of biological organization is revealing how living systems harness the creativity of noise to counter nature's chaos. Rather than being unwitting subjects to the hostile, noisy nature of the world, and the unreliable substrates of which we are composed, noise is rather a primary source of life’s creativity, innovation and hardiness. Noise is our antidote to destiny.

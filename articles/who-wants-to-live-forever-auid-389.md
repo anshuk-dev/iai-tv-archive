@@ -1,0 +1,55 @@
+---
+title: "Who Wants to Live Forever?"
+subtitle: "Is immortality worth the risk?"
+author: "Evie Prichard"
+date: "28th July 2014"
+article_id: "389"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,507 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Immortality.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/who-wants-to-live-forever-auid-389"
+---
+
+# Who Wants to Live Forever?
+
+*Is immortality worth the risk?*
+
+**By Evie Prichard** | *28th July 2014* | *Read time: approx. 8 mins* | *1,507 words*
+
+![Who Wants to Live Forever?](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Immortality.webp)
+
+---
+
+The prospect of immortality has been with humanity for as long as we have understood our own mortality. It has been explored in culture after culture through mysticism, religion and, latterly, medical technology. The prospect of immortality is a uniquely human optimism created in answer to a uniquely human curse – the ability to contemplate our own existence, and its inevitable end.
+
+As our technology improves, the prospect of immortality is beginning to look less and less ludicrous. Perhaps not true immortality any time soon, but the idea that in the mid-to-distant future we might be able to prevent ageing and eradicate most diseases is at least conceivable. But before we allow ourselves to become hopeful, it is important to give serious philosophical thought to the pros and cons of living indefinitely. Are there any convincing objections to the prospect of immortality?
+
+The most common dismissal of the desirability of individual immortality is the point that it would not be worth living only to watch all of our friends and loved ones grow old and die. This is a valid criticism, but not a strong one. After all, the longest-living person in any group is already going to go through this, without any of the added benefits of perpetual youth and with many fewer opportunities to make new friends and find new lovers. Yet we would not give nearly so much credence to the argument that we should not prolong the lives of the elderly so as to save them the pain of watching their friends die.
+
+This objection is, of course, irrelevant if we are discussing immortal societies rather than individuals. Yet the second standard objection to individual immortality is also relevant to whole societies. This is the contention that without the deadline of death we would lack the motivation to do anything with our lives. This too is easily dismissed, I think, by simply looking at our own motivations.
+
+How many things that one does in life are inspired by the idea that they have to be done some time in the next 50 years, because death is waiting at the other end? Very few, one would imagine. Rather, we work and study because we want to create comfortable and happy lives for ourselves. We create things because we feel the need to express ourselves and exercise our talents. We are motivated by the need to be fulfilled and content in the short term, not because we are ticking off a bucket list before death. Even the idea of packing everything in while one is still young is becoming antiquated in the face of increasingly mobile 80-year-olds travelling the world and jumping out of planes.
+
+A stronger criticism is to look at the possible consequences of an immortal society. Barring huge technological improvements we can assume that reproduction would have to be strictly limited, probably to the same level as the accidental death rate, to preserve resources and space. The society we would end up with, then, is one made up of a near-static population of ancients, with perhaps a few children and young people born to a privileged or randomly allocated few. We would essentially be taking our immortality at the expense of the existence of future generations. Is this a moral problem?
+
+Yes and no, for the few children who will be born will have very privileged lives. They will have immortality conferred upon them, but they will also be exceptionally cherished and nurtured as rare commodities who need to be given the best possible start in life. Philosophically speaking, we will have maximised the well-being of every future generation of humanity. It just so happens that these generations will be hugely smaller. But is it a moral problem to create fewer new lives? How does it even make sense to say that we *owe* existence to someone who doesn’t yet exist? Can we owe a moral duty to a future generation whose existence and personhood is entirely theoretical?
+
+The answer to this, as far as I can tell, is: “not exactly”. Philosophers have been wrestling with the non-identity problem for decades, and as of yet do not seem to have an entirely satisfactory answer to it. The problem is this: we cannot do harm to someone by causing them to exist, assuming that the existence we give them is better than not being alive. Yet any large-scale decision we make (and possibly any small-scale one) fundamentally changes the people who will exist in the future.
+
+A microsecond’s difference in conception can mean a completely different genetic make-up and, essentially, a different person being born. So even if we have the opportunity of making the lives of the next generation perfect and choose instead a selfish route which leaves them hugely worse off, we will still have benefited the generation who do come into existence. Without our selfish decision they would never have existed at all.
+
+At the heart of this problem is the question of what we can owe future people – whether we have moral obligations to those whose potential future existence is so tenuous that the slightest nudge will extinguish it anyway. This is what we are up against when we try to protest that denying much of a future generation existence is immoral. It is an extremely hard position to defend. Ultimately, by bringing only happy people into existence we do not seem to be harming anyone. So perhaps the question to ask is – will everyone be happy?
+
+Let’s consider the merits of a society as I have described it. What would we do with our eternal lives? It’s easy to create a utopian story, of nations full of polymaths drawing together lifetimes of knowledge in lifetimes of different disciplines into a magnificent glass bead game, capable of intellectual leaps that would be impossible with the short training possible in a mortal life. Technology spiralling ahead, academia interweaving its disparate strands until everything is informed by everything else. A new age of polymaths, made infinitely greater than the last one by the fact that there is simply so much more to know. What couldn’t we create, with all the time in the world?
+
+Yet there is a dystopian story to be told, too. One in which we continue as we are now, just for infinitely longer. In which we get home from jobs we tolerate to watch TV or read a crime novel. In this world there would be visionaries too, but they would be only the few visionaries who are present in any generation. And these people would be wrung for all they contained. Instead of one contribution that furthered humanity being cause for a celebrated career and a comfortable retirement, they would be relied upon to power humanity’s advances for the foreseeable future. And they would be doing this without the impetus that comes with being young, being ambitious and needing to prove themselves. They would be doing it not in their first few decades, as many great thinkers have. Their genius would be routine and exhausting.
+
+And as they inevitably gave up – refused, disappeared or went mad – what would our choices be? For how could we ever repeal immortality, and condemn a world full of people to what by that point would seem like the most terrifying and disgusting plague imaginable? How could we let them shrivel, become fragile and eventually die, simply to allow a new generation that might lift us from our lethargy? Would we instead clutter the world with more children than it could take, in the search for a temporary solution to our problem? How stretched do our resources need to be before immortality ceases to be a blessing?
+
+And the ordinary people in this world, how would they exist? Without death and retirement, what opportunities would there be for advancement in careers? Would all marriages inevitably end, without the tether of children, shared retirement and ultimate finitude? If technology had created a world of increased leisure, it’s easy to imagine boredom eventually setting in. Then there is the question of social attitudes. People tend to cling to the values they were taught at birth. Without the constant renewal of fresh generations, could we ever hope to eradicate racism, sexism, homophobia and the like? Does increased age make us wiser or simply more entrenched in our views?
+
+These parallel futures present us with a dilemma that cannot be solved theoretically. We can’t expect to establish how immortality will affect us as a society without empirical evidence. Ultimately we will not know whether immortality will save or damn us unless we give it a try and see. Yet once we begin to live forever, we are stuck with ourselves and the people around us. There can be no retracting of our decision, no return to ageing and the spectre of imminent death. So there is only one real question for philosophers – and economists, and sociologists and everyone else – to answer when it comes to immortality. Is it worth the risk?

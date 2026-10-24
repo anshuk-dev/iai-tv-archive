@@ -1,0 +1,97 @@
+---
+title: "The Importance of Contemporary African Philosophy"
+subtitle: "Western philosophy is far from universal."
+author: "Katrin Flikschuh"
+date: "12th March 2018"
+article_id: "1047"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "1,591 words"
+read_time: "Read time: approx. 8 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ifeyani-menkiti-blue.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/what-you-should-know-about-contemporary-african-philosophy-auid-1047"
+---
+
+# The Importance of Contemporary African Philosophy
+
+*Western philosophy is far from universal.*
+
+**By Katrin Flikschuh** | *12th March 2018* | *Read time: approx. 8 mins* | *1,591 words*
+
+![The Importance of Contemporary African Philosophy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/ifeyani-menkiti-blue.webp)
+
+---
+
+‘Westerners’ tend to romanticize traditional African beliefs when they treat them as inherently a-rational; we see ‘African beliefs’ as offering an escape from the constraints of a rationally disenchanted modern world. But anyone who expects to find a refuge from rationality in modern African philosophy should stop reading now: African philosophy is just as critically rational, professional, and institutionalized as its Western relative.
+
+Anyone who *is* interested in philosophy in general, has at least two reasons to be interested in African philosophy. First, African philosophy queries the habitual universality claims of Western philosophy; second, African philosophy offers insights into dimensions of human experience made uniquely available through African metaphysical beliefs and normative commitments.
+
+Below, I shall briefly speak to both these points in the course of reflecting on the rise of post-independence African philosophy. I shall focus on Anglophone West African philosophical thinking simply because I am most familiar with it.
+
+\_\_\_
+
+"Hountondji exposed as unwarranted a number of Temples’ assumptions, including the assumption that Africans think collectively rather than individually, and the assumption that all Africans see nature as infused with spiritual forces."
+
+\_\_\_
+
+Ironically, one of the fathers of modern African philosophy was the Belgian missionary Placide Temples. In 1945, when working in the Congo, Temples published a book called *Bantu Philosophy*. In it he set out what he claimed to be the philosophical world view (!) of the Bantu, by which he meant sub-Saharan peoples in general. Temples’ position was as radical as it was reactionary: radically, he affirmed that ‘the Bantu’ had a philosophy, so they could think – this was a novel thought in the colonial context. At the same time, Temples contended that the Bantu were not reflectively aware of their philosophical commitments, so they had to have these set out to them by Temples himself – this would have been much more in line with colonial policy.
+
+The subtext to Temples’ endeavour was the need to understand local beliefs in order to more effectively hook Christian doctrine into them. Temples ascribed to the ‘Bantu’ a world-view that was ready-made for completion through Christian doctrine. In the context of growing pressures for independence in the 1950s, Temples’ work came under attack by an emerging generation of Western trained African philosophers.
+
+The most devastating critique came from Paulin Hountondji, a French trained philosopher and Husserl scholar from Benin. In a series of articles, later collated into a book, *African Philosophy: Myth and Reality*, Hountondji exposed as unwarranted a number of Temples’ assumptions, including the assumption that Africans think collectively rather than individually, and the assumption that all Africans see nature as infused with spiritual forces.
+
+Hountondji showed these to be standard Western assumptions about an imaginary ‘African mind’ – they had little to do with actual Bantu thought. Hountondji coined the term ‘ethnophilosophy’ to denote Temples’ pseudo-philosophical approach to his methodologically dubious ethnology. Hountondji’s work advanced a further thesis, namely that there was as yet no such thing as African philosophy. According to Hountondji, while there was no reason why Africans could not engage in philosophical thinking, they had been excluded from doing so by the Western philosophical community, which has historically considered Africans incapable of reasoned argument. Hence, while it was possible for African philosophy to come into being, it did not yet exist.
+
+\_\_\_
+
+"The Kenyan philosopher Oruka Odera argued that traditional African sages are genuinely philosophical thinkers working within a distinctively oral and practice-focused cultural context."
+
+\_\_\_
+
+Hountondji’s claims over the non-existence of African philosophy drew much criticism in turn. A common critique charged him with a ‘Eurocentrism’ that brought to bear a particular conception of philosophy as a methodic and systematic form of inquiry that aspired to the status of a science. Yet different forms of philosophical inquiry are conceivable.
+
+The Kenyan philosopher Oruka Odera argued that traditional African sages are genuinely philosophical thinkers working within a distinctively oral and practice-focused cultural context. Similarly, the Ghanaian philosopher Kwame Gykeye has based much of his philosophical writings on traditional Akan proverbs. For Gyekye, these are orally transmitted nuggets of philosophical insight, which, analysed with Western philosophical tools, can form the basis of a post-colonial, written philosophical tradition.
+
+Others defended a position somewhat closer to that of Hountondji. Kwasi Wiredu, also from Ghana and trained at Oxford in the late 1950s, focuses on the philosophical analysis of concepts in ordinary language – in his case, his native Akan. For Wiredu, any natural language is pregnant with philosophical meaning in virtue of its stock of concepts. While there may not as yet be any systematically developed Akan theory of truth, for example, nothing stops African thinkers from constructing such theories on the basis of their analyses of local concepts and meanings.
+
+To casual Western readers, these methodological debates among African thinkers often seem pointless: “just do some philosophy – don’t merely talk about doing it”, they protest. Arguably, this misses the point: debates about the possibility of African philosophy arose directly from the African encounter with Western philosophical traditions.
+
+\_\_\_
+
+"African methodological debates are inherently related to the broader question of philosophy’s universality claims: its denial of the capacity for rational thought to Africans renders dubious many such claims in the Western tradition."
+
+\_\_\_
+
+African methodological debates are inherently related to the broader question of philosophy’s universality claims: its denial of the capacity for rational thought to Africans renders dubious many such claims in the Western tradition. Engagement with African philosophical thinking thus forces one to adopt a more critical attitude towards Western philosophical traditions. More positively, of course, given the largely oral inheritance from pre-colonial times, Western forms of philosophical analysis and argument are useful to the development of a modern African philosophical corpus.
+
+Now one may ask, “Why bother with the modern retrieval of pre-colonial practices and beliefs? Their large-scale destruction during colonial times is unfortunate, but the past is the past and it is advisable to adopt a more forward-looking approach.” According to Kwame Gyekye, one’s past holds the key to one’s future: the Akan symbol of Sankofa advises a person not to shy away from searching her past for the seeds of her future. More generally, the belief is widespread that the success of a post-colonial African revival depends on the reaffirmation, albeit under modern conditions, of colonially denigrated traditional values and beliefs.
+
+The choice is not between either tradition or modernity – what is needed is a synthesis of the two. As Wiredu says, ‘the African youth, more or less bereft of the security of traditional orthodoxies, stands in need of a new philosophy. (…) But what philosophy should the modern African live by?’ Given this socially engaged approach to philosophical thinking, it is not surprising that the substantive focus has lain on conceptions of the person, of community, and of the relation between them.
+
+Here the emphasis of a certain kind of communalism over the Anglo-American focus on individuality is evident. Once again, those weary of Western modernity may feel tempted to turn for succour to an imagined African communalism. Once again, this would be to pursue an imaginary African idyll.
+
+African communalism is by no means shallow – it has considerable metaphysical depth and depends on underlying ontological commitments about the nature of personhood that would require a radical reorientation in self-conception to become accessible to a Westerner steeped in a rather different metaphysical tradition.
+
+\_\_\_
+
+"To deny that we can just embrace African conceptions of personhood is not to endorse a form of philosophical relativism – it is simply to say that a given conception of personhood can be rationally intelligible without therefore being culturally available."
+
+\_\_\_
+
+The Akan conception of the person, for example, is essentially triadic in ontological structure, involving the interplay of okra, mogya, and sunsum (which have been defined by some as fate, personality and blood but they are subject to big debates), all of which are related, in various complex ways, to communal lineage.
+
+Similarly, work done by the Nigerian philosopher, Ifeyani Menkiti, shows traditional Igbo conceptions of personhood to include belief in the continued non-physical existence of ancestors within the constraints of the same spatio-temporal world.
+
+Again, Segun Gbadegesin’s Yoruba inspired account of personal destiny contrasts with Western conception of free will and personal autonomy.
+
+None of this suggests that African accounts of personhood are somehow less developed, less rationally grounded, or more traditional than ‘modern’ Western accounts. To the contrary, and as noted, they have considerable metaphysical depth. Nor are they rationally inaccessible to the outsider: to deny that we can just embrace them as a matter of choice is not to endorse a form of philosophical relativism – it is simply to say that a given conception of personhood can be rationally intelligible without therefore being culturally available.
+
+But if not culturally available to us, why take a philosophical interest in them? For one thing, because they are of philosophical interest in themselves: they tell us about possible ways of being a person. For another thing, just as communal African conceptions of the person may be culturally unavailable to a ‘Westerner’, so Western more individualistic conceptions of the person may be culturally unavailable to many citizens of modern African societies: the latter do not have a monopoly when it comes to claiming the labels of ‘modernity’.
+
+Engaging with African philosophical conceptions of the person can teach us to acknowledge that we have no reason to expect members of modern African polities to embrace Western individualism as a condition of social and political development.
+
+To the contrary, a rather more plausible path to social development lies, as African thinkers propose, in the critical retrieval and reconceptualization of traditional African conceptions of person, community, and value.
+
+Image: Ifeyani Menkiti, poet and philosopher at Wellesley College, MA

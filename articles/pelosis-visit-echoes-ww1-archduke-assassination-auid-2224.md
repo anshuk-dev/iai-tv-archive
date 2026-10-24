@@ -1,0 +1,97 @@
+---
+title: "Pelosi's visit echoes WW1 Archduke assassination"
+subtitle: "Taiwan and the Thucydides trap"
+author: "Robert A. Manning"
+date: "23rd August 2022"
+article_id: "2224"
+channel: "Politics"
+themes: "The World & The Future"
+tags: "None"
+word_count: "1,267 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Taiwan-China-and-the-US.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/pelosis-visit-echoes-ww1-archduke-assassination-auid-2224"
+---
+
+# Pelosi's visit echoes WW1 Archduke assassination
+
+*Taiwan and the Thucydides trap*
+
+**By Robert A. Manning** | *23rd August 2022* | *Read time: approx. 6 mins* | *1,267 words*
+
+![Pelosi's visit echoes WW1 Archduke assassination](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Taiwan-China-and-the-US.webp)
+
+---
+
+*The tensions between China and the US have reached new levels. Pelosi’s visit to Taiwan could turn out to be the equivalent of the assassination of Archduke Ferdinand, the trigger of World War I. But a war between the two countries over Taiwan would be unwinnable, leaving both sides deeply wounded. What is needed is the rebuilding of trust between the two superpowers, writes Robert A. Manning.*
+
+Are the US and China stumbling into the Thucydides trap, so named for the ancient Greek historian’s account of the Peloponnesian war between the then leading power, Sparta, which feared a rising power, Athens?
+
+Established powers have historically feared being dislodged by rising ones, often leading to war. In the case of the US and China, since relations were normalized in 1979, tensions have risen in direct proportion to the degree the gap in wealth and power has diminished. The aftermath of House Speaker Nancy Pelosi’s unnecessary visit to Taiwan and the extreme, dangerous Chinese response left an already fraught and toxic relationship between the two nuclear weapons states closer to confrontation than any time since the Korean War in the early 1950s.
+
+The Pelosi visit may turn out to be a tipping point, an event akin to the assassination of Archduke Ferdinand which triggered World War I. But conflict is not inevitable -- it is the result of the respective agency of both nations. There remain common interests and mutual vulnerabilities starting with global financial stability, global issues from climate change and nonproliferation to counter-narcotics and regional affairs such as North Korea and Iran, where we have cooperated in the recent past. And most existentially, as two mature nuclear weapons states, we need to find a framework to manage coexistence or risk mutual destruction.
+
+[![China Taiwan conflict min](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/China-Taiwan-conflict-min.webp)
+
+SUGGESTED READING
+War in Taiwan will be more shocking than Ukraine
+By Nigel Inkster](https://iai.tv/articles/war-in-taiwan-more-shocking-ukraine-nigel-ingster-auid-2202)
+
+To its credit, the Biden administration did not respond militarily to China’s aggressive military actions. [As one official said](https://www.defense.gov/News/Transcripts/Transcript/Article/3120707/usd-policy-dr-kahl-press-conference/), “we’re not going to take the bait,” depriving China of a manufactured crisis. Unfortunately, Beijing used the Pelosi visit to [escalate its military intimidation](https://www.politico.com/news/2022/08/02/pelosi-lands-in-taiwan-00049234), a test demonstration of a blockade of Taiwan and military drills closer to the island, firing missiles and creating a ‘new normal’ for military exercises. Beijing also shut down all channels of military communication with the US and areas of cooperation, from climate to counternarcotics.
+
+\_\_\_
+
+The White House portrayed the Pelosi visit, which it sought to dissuade, as business as usual.
+
+\_\_\_
+
+One message China was trying to send with its extreme reaction was that it views the US as eroding [the three foundational communiques](https://www.ait.org.tw/tag/three-communiques/) (and the understandings on Taiwan) that were the basis for normalization of relations in 1979.
+
+In any case, the White House portrayed the Pelosi visit, which [it sought to](https://www.politico.com/news/2022/08/02/pelosi-lands-in-taiwan-00049234) dissuade, as business as usual. [But Biden has said](https://www.npr.org/2022/05/23/1100828744/president-biden-says-the-u-s-will-defend-taiwan-if-china-invades) three times that the US would militarily defend Taiwan, with administration officials each time “clarifying” that Biden misspoke. In addition, over the past few years, the US has incrementally moved closer to Taipei. Scores of Congressional and ex-Senior officials, as well as occasional serving cabinet members visiting the island, increased military aid and training of the country’s armed forces of, and calls to end US policy of “strategic ambiguity”, as former [Defense Secretary Esper](https://www.taiwannews.com.tw/en/news/4600449) did on a recent visit to Taiwan.  Trump’s Secretary of State Mike Pompeo even went as far as suggesting that the US [should simply recognize Taiwan](https://thehill.com/homenews/administration/596851-pompeo-calls-for-us-to-recognize-taiwan-as-free-and-sovereign-country) as an independent state.
+
+\_\_\_
+
+The Taiwan Relations Act obligates the US to help Taiwan defend itself, but there is no alliance commitment to intervene if it is attacked.
+
+\_\_\_
+
+The 1979 [Taiwan Relations Act](https://www.congress.gov/bill/96th-congress/house-bill/2479) (TRA) and the three US-China communiques defined US unofficial ties to Taiwan which was derecognized in 1979 upon normalization with China. .  The communiques assuaged Beijing’s concerns on Taiwan, in key paragraph:
+
+ “The U.S. acknowledges that all Chinese on either side of the Taiwan strait maintain there is but one China and that that Taiwan is a part of China. The U.S. government does not challenge this position.”
+
+This policy framework has underpinned stability in the Taiwan straits over the past 43 years. Taiwanese views have evolved since then, and China fears the US may be pursuing a “One China, One Taiwan” policy.
+
+The Taiwan Relations Act obligates the US to help Taiwan defend itself, but there is no alliance commitment to intervene if it is attacked. This strategic ambiguity aims to preclude unilateral change in the status quo by either side, with Beijing unsure the US would militarily intervene in a conflict, but also dissuade Taiwan from declaring formal independence, which would likely trigger a Chinese military attack.  In practice, if planning an invasion, China’s People’s Liberation Army must assume US intervention, regardless.
+
+One important change impacting both Washington and Beijing attitudes and policies is that of mindset in Taiwan. When the Kuomintang took power in Taiwan in 1949 after fleeing the mainland during China’s civil war, it maintained the claim of the Government of China, which the military regime of Chiang Kai-shek still hoped to recover. This is reflected in the language of the communiques.
+
+\_\_\_
+
+It’s difficult to see how anyone would “win” a war over Taiwan.
+
+\_\_\_
+
+As Taiwan’s spectacular economic success transformed the island and created a large middle class, Taipei transitioned to democracy in 1988. Beijing’s authoritarianism increasingly turned off many Taiwanese, and most identify more as Taiwanese than Chinese. This is reflected in the political success of the ruling Democratic Progressive Party (DPP), which has thrice governed Taiwan, and some of whose members favor formal independence.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Firefly-chinese-flag-and-a-dove-representing-peace-72048.webp)
+
+SUGGESTED VIEWING
+China and the art of peace
+With Cindy Yu, Nigel Inkster, Chris Parry](https://iai.tv/video/china-and-the-art-of-peace)
+
+This democratic shift in Taiwan has been an increasing source of anger and frustration in Beijing, and a catalyst for growing US sympathy for Taiwan. When Deng Xiaoping devised his “One Country, Two systems,” concept to convey that Hong Kong would retain its social and economic system after the turnover from British rule, Beijing’s hope was that it would serve as a model for Taiwan. Taiwanese were always skeptical, but Beijing’s hollowing out of Hong Kong’s institutions over the past two years, moving toward turning into little more than just another Chinese province, made the concept toxic in Taiwan. [Recent remarks](https://www.scmp.com/news/china/diplomacy/article/3188192/chinese-envoy-france-lu-shaye-doubles-down-taiwan-re-education) by two Chinese ambassadors in France and Australia that China would “re-educate” Taiwan on reunification, and a just released China [White Paper on Taiwan](https://www.reuters.com/world/asia-pacific/china-withdraws-promise-not-send-troops-taiwan-after-unification-2022-08-10/) reneging previous pledges not to send Chinese troops to Taiwan after unification destroyed any remaining credibility.
+
+The deep distrust trust between Beijing and Taipei leaves little room for compromise. One might imagine the eventual post-Xi Jinping possibility some sort loose Chinese Commonwealth where Taipei would remain entirely self-governed but have some affiliation with Beijing, preposterous as that seems. Maybe so, but consider the alternatives.
+
+But it’s difficult to see how anyone would “win” a war over Taiwan. Even if it didn’t escalate to nuclear (odds are less than zero), it would cause massive economic and financial disruption of the world’s two largest economies that would make the Ukraine fallout look like a piece of cake. But then, a best-selling book before WWI, Norman Angell’s *The Great Illusion*, argued the costs of war were too great and thus, war was unthinkable.
+
+The same logic applies to US-China relations. Despite common interests in economic, environmental, and strategic stability, deep distrust pervades Washington and Beijing in a still undefined “Great Power competition.” Nonetheless, Taiwan has become the fulcrum of US-China relations.
+
+[![Putin and the KGB](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Putin-and-the-KGB.webp)
+
+SUGGESTED READING
+Putin and the failure of Western Intelligence
+By Jack Barsky](https://iai.tv/articles/jack-basrksy-putin-and-the-western-intelligence-failure-auid-2212)
+
+It will take leadership pursuing enlightened self-interests, common sense, and a gradual step-by-step process of reciprocal rebuilding of trust to avoid the ‘Thucydides trap’ and create a framework to manage competitive coexistence and a balance of interests. Both sides will need to unwind their mutual demonization, halt their respective performative ideologies, and reset relations on a more transactional basis on issues where there is sufficient overlap of interests.

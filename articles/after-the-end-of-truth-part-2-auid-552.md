@@ -1,0 +1,57 @@
+---
+title: "Searle vs Lawson: After the End of Truth - part 2"
+subtitle: "Has realism failed?"
+author: "Hilary Lawson"
+date: "Issue 39, 5th August 2015"
+article_id: "552"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,456 words"
+read_time: "Read time: approx. 7 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lawson-39.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/after-the-end-of-truth-part-2-auid-552"
+---
+
+# Searle vs Lawson: After the End of Truth - part 2
+
+*Has realism failed?*
+
+**By Hilary Lawson** | *Issue 39, 5th August 2015* | *Read time: approx. 7 mins* | *1,456 words*
+
+![Searle vs Lawson: After the End of Truth - part 2](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Lawson-39.webp)
+
+---
+
+*This article was written in response to philosopher of mind and language John Searle's defence of the existence of objective truth. Read John Searle's piece [here](http://iainews.iai.tv/articles/objectivity-and-truth-auid-548).*
+
+It is time to put behind us the arguments between realism and relativism.  Realism has failed.  Relativism is incoherent.  We must find a new philosophy that is neither realist nor relativist.
+
+John Searle and I have fundamental differences but let me begin with some common ground.  The relativism that has typically been espoused by generations of students cannot be expressed without relying on an implicit realism, and is at once paradoxical.  At its most elemental, to say ‘there is no truth’ is self-denying when applied to the claim itself.  Some thirty years ago at the outset of my career, in ‘Reflexivity: the post-modern predicament’, I argued that this self-referential puzzle could not be evaded and was central to 20th century philosophy.
+
+The incoherence of relativism does not however validate realism.  As Hilary Putnam cogently argues, realism has failed in the sense that a century on from Russell’s founding of analytic philosophy there is no credible theory about how language hooks onto the world nor is one on the horizon.  Pointing to the evident puzzles inherent in the relativist position does not make realism valid or create a credible realist theory.  Nor does the distinction between epistemological and ontological subjectivity and objectivity aid the debate since it already carries within it the assumption that objectivity is possible.
+
+Rather than address the lack of a credible realist theory, realists are often tempted by a populist appeal to supposedly obviously true claims such as ‘London is the capital of England’ or ‘Rembrandt was born in 1606’ or ‘these are my thumbs’, as if their mere assertion was sufficient to win the argument. These examples appear persuasive because they are embedded in a complex web of socially agreed closures, or ways of holding the world, and it is not at once immediately apparent that their truth is context dependent and thus challengeable.
+
+As a preliminary indication of the flaws in this approach let us examine John Searle’s example ‘Rembrandt was born in 1606’ a little more carefully. There are many different calendars, amongst them Chinese, Gregorian, Julian, Islamic and so forth, which provide a variety of dates for Rembrandt’s birth.  So the claim is at once dependent on a whole set of other measures, such as days, years, the movement of sun and earth, and the historical figure of Christ. All of these underlying concepts are themselves ways of holding the world and each could be held in a different manner.  Each is under close examination contestable – the birth date of Christ for example. Time is not an ultimate measure but is the consequence of comparisons.  Each of these comparisons could be made differently with different resulting measures.  So the claim ‘Rembrandt was born in 1606’ is not an immediately obvious temporal fact at all, but is the consequence of a complex series of closures which result in this particular way of holding the world.
+
+Furthermore, the phrase ‘Rembrandt was born’ is also not straightforward.  An art historian might argue ‘the baby that was to become Rembrandt was born in 1606, but the great artist we know as Rembrandt was not born until at least the 1630’s.’  Then again we can imagine a culture theorist beginning a lecture ‘Rembrandt was born along with the first cave paintings some 35000 years ago’.
+
+So in place of the initial claim ‘Rembrandt was born in 1606’ we now have a range of alternative facts claiming radically divergent dates.  In response to these alternative ‘facts’, realists sometimes resort to a distinction between literal and metaphorical truth.  Thereby retaining a core of factual claims that are privileged.  But there is no reason or foundation for supposing that scientific or material claims are somehow more central or core to our conceptual framework.   And without a means of privileging some ‘facts’ there is no means of determining which context is primary and therefore which can be taken as objective.
+
+But this is all incidental skirmishing.  The core idea sustaining realism is that behind the different claims, or perspectives, there is a single reality or state of affairs, which validates the perspectives.  According to this version of realism, which [John Searle appeared to endorse in our debate](http://iai.tv/video/after-the-end-of-truth), there may be many different alternative accounts but they are not in conflict and are explained by an underlying state of affairs which justifies all of the different claims.  This underlying reality is an ‘x’ which can however never be described directly because all descriptions are from a particular perspective and context.  And it is this transcendental assumption of an ‘x’ which accounts for our different ‘facts’ and perspectives that is at the root of my disagreement with John Searle.
+
+We can provide no characterisation of the reality ‘x’, nor can we explain the relationship between the ‘x’ and our descriptions of ‘it’.  It is the presumption of a transcendental reality that is a fantasy and for which we can in principle have no evidence.  It is my contention therefore that we should abandon this fantasy.  Just as Christian or Muslim believers claim an unseen and unseeable God as the explanation for our world, so the Enlightenment equivalent is to propose an unseen and inaccessible reality that is an explanation for our beliefs and descriptions.  Since we can give no account of this underlying reality there are good grounds for abandoning the presumption on Occam’s razor grounds alone.
+
+Despite the evident failure of realism, a failure that was called not by myself or Hilary Putnam, but by Wittgenstein in the Tractatus a century ago, it has remained a prevalent view.  One possible explanation for this is that it is often assumed that the only alternative to realism is relativism and such a position is unpalatable because it provides no external constraint on claims and is logically incoherent to boot.
+
+Instead however of debating the weaknesses of realism and relativism we should recognise that they are both flawed and are unable to account for our ability to make sense of and intervene in the world. Instead we require a philosophy that recognises the failure of realism and the incoherence of relativism.  The eighteenth century German philosopher Kant started from the assumption of knowledge and attempted to build a system that would account for how that knowledge was possible.  Our predicament is the reverse.  We have to start from the assumption that there is no knowledge of a transcendental reality and build a theory that accounts for how we are nevertheless able to be so precise and effective in our interventions in the world.
+
+The theory of Closure that I have put forward is one such account. It is not anti-realist, for that would be self-referentially incoherent.  It is instead a non-realist or postrealist philosophy.  It does not deny the existence of an independent reality but instead proposes an alternative framework that does not rely on realism. It begins from the seemingly unlikely starting point that the world is not a thing or combination of things and instead we should hold it as open. It then proposes that we close the openness of the world and in so doing enable intervention based on our closures.  Centrally the framework of closure provides an account of how we can refine our closures and thereby improve our interventions in the world even though our closures do not refer to or describe an independent reality.  In so doing the theory of closure provides an account of how the theory itself is possible.
+
+Now of course I do not claim the theory of closure has seen through to the essential character of the world.  It is, like all theories, itself a closure, a way of holding the world, which seeks to make sense of experience and language in a world which is apparently other.  While it may not claim to be objectively true, the framework of closure has value and potential to make our theories and interventions in the world more effective.  I contend for example that we are more likely to be successful building an intelligent machine on the principles of closure and openness than by operating a realist framework.
+
+Nevertheless, there will be other accounts and philosophies with different advantages and strengths.  And there will be no end to alternative frameworks and ways of holding the world.   So while we should pursue our theories and refine them in the light of their ability to enable effective intervention, it is time to say goodbye to the dangerous enlightenment fantasy that we are progressing to the one true theory, which correctly describes an independent and transcendental reality.
+
+*Don't forget to read philosopher of mind and language John Searle's defence of the existence of objective truth [here](http://iainews.iai.tv/articles/objectivity-and-truth-auid-548).*

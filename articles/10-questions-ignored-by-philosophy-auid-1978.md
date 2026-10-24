@@ -1,0 +1,146 @@
+---
+title: "10 questions ignored by philosophy"
+subtitle: "World Philosophy Day 2021"
+author: "IAI Editorial"
+date: "18th November 2021"
+article_id: "1978"
+channel: "Philosophy"
+themes: "Knowledge, Science & Method"
+tags: "None"
+word_count: "2,732 words"
+read_time: "Read time: approx. 14 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/world-philosophy-day-min.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/10-questions-ignored-by-philosophy-auid-1978"
+---
+
+# 10 questions ignored by philosophy
+
+*World Philosophy Day 2021*
+
+**By IAI Editorial** | *18th November 2021* | *Read time: approx. 14 mins* | *2,732 words*
+
+![10 questions ignored by philosophy](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/world-philosophy-day-min.webp)
+
+---
+
+**Raymond Geuss, Agnes Callard, Tommy Curry, Kate Manne, Julian Baggini, Sundar Sarukkai, Maria Balaska, Sara Heinämaa, Robert Sanchez, and Robin R. Wang on contemporary philosophy’s blind spots.**
+
+*For this year’s World Philosophy Day, we asked ten leading philosophers from around the world, working in different philosophical traditions,* *what are the most important questions mainstream philosophy ignores or has forgotten about today. With analytic philosophy having dominated the English-speaking world and beyond, we can often forget that there are other philosophical traditions alive and kicking. They operate under different sets of assumptions, take different texts as their starting points, and end up in different places. But even within analytic philosophy, there are philosophers that are pushing the limits of that tradition, asking new and original questions, or re-invigorating an otherwise a-historical line of thought with forgotten but still relevant questions from the past.*
+
+Julian Baggini
+
+**What is the role of personal judgement in rational thought?**
+
+Philosophy's self-image is of rigorously rational thinkers who follow the argument wherever it leads, as though they had no control over its direction. It's a vision of philosophy that assumes it has an objectivity akin to science. But I think everyone knows that good philosophy cannot be pinned down to formal arguments that every intelligent person would have to agree with, like a bit of mathematics. Everyone knows that philosophers exercise judgement and some exercise it better than others. But to address this head on requires admitting that the 'rigour' of philosophy is not as it seems. So it remains philosophy's dirty secret.
+
+*Julian Baggini is a british philosopher, journalist and author of over 20 philosophical books, including The Edge of Reason.*
+
+Maria Balaska
+
+**What is 'nothing', and how can our experience of anxiety shed light on it?**
+
+Science wants to know nothing of the nothing, Martin Heidegger writes in 1929. His reproach is not, however, directed to science; after all, science must restrict itself to cases of ‘something’ that it investigates, calculates, and so on. The reproach is directed against philosophy insofar as it is determined by science, and it is today as valid as it was a century ago. But how can there be a reproach, if ‘nothing’ means strictly speaking nothing?
+
+Nothing’s near absence from mainstream philosophy may at first seem understandable. It leads to paradoxes, or even to ‘mere nonsense’, when one takes a Rudolf Carnap view on language. Hence it has been preferable to think of nothing as the logical operation of negation (an odd bit of our notation, like the number zero) or to link it to an absent something (death, destruction, annihilation, and other related dark concepts).
+
+But those thinkers, like Kierkegaard and Heidegger, who insist that the nothing is prior to an act of the intellect (negation) and that it is not an absent something either, direct our attention elsewhere. Nothing is primarily encountered, rather than conceived or inferred; and this encounter takes place in certain moods, not in the vacuum of the philosopher’s mind-lab.
+
+They name anxiety as one such mood. Distinct from fear, that responds to *something* (spiders, flying, commitment, death), anxiety is about *nothing*. Although, at the level of entities, nothing unusual has taken place, it feels like the whole that sustained us withdraws and we withdraw from ourselves.  Things are still there individually, yet they slip away as a whole. What can we learn from the fact that encounters with nothing can affect us so profoundly? To begin to answer, philosophy must allow itself to become anxious about nothing.
+
+*Maria Balaska is a philosopher at the University of Hertfordshire, UK, and currently writing a book about nothing and why it matters.*
+
+Agnes Callard
+
+**How do we reconcile our moral intuition that all humans have an intrinsic value, with our intuition that some people are better than others?**
+
+How do we reconcile the claim that (a) every human being has, just in virtue of being the kind of creaturehey are, a kind of dignity that puts their value beyond price with the claim that (b) some people are, in quite important ways - with respect to merit, excellence, achievement or morality - better than others?
+
+*Agnes Callard is an associate professor of philosophy at the University of Chicago working on Ancient Philosophy and Ethics, and athor of Aspiration: The Agency of Becoming.*
+
+Tommy Curry
+
+**What if Black thinkers are correct that racism makes philosophy, and the democratic project it presumes, an unworkable failure?**
+
+[![critical race theory thumbnail change](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/critical-race-theory-thumbnail-change.webp)
+
+SUGGESTED READING
+Racism and the equality delusion
+By Tommy J. Curry](https://iai.tv/articles/racism-and-the-equality-delusion-auid-1836)
+Academic philosophy often turns away from the evidence and force of the ideas presented by Black philosophers. To de-radicalize the claims of Black thought, philosophers tend to selectively present the theories of Black philosophers so that the writing(s) of the chosen figure seems to be compatible with the aspirations for a liberal democratic society. Rather than simply presenting a social problem, anti-Black racism creates Black people as sub-human populations who have historically been understood as incomplete, animalistic, and disposable. The horrors of racism have had such an impact that it has forced Black thinkers to completely reject liberal democracy as a starting point of contemporary political philosophy. For many Black philosophers, racial inequality is a fixture in the West’s orders of knowledge.
+
+The late Charles Mills once wrote that “white supremacy…registers a commitment to a radically different understanding of the political order, point us theoretically toward the centrality of racial domination and subordination…it disrupts traditional framings, conceptualizations, and disciplinary divisions effecting what is no less than a fundamental paradigm shift.” Mills, similar to Sylvia Wynter, Derrick Bell, W.E.B. DuBois, and Huey P. Newton, understands that racism, or white supremacy, limits the ability of philosophy to conceptualize Black humanity. The universal presumptions of white humanity depend on the sub-humanity of Black folks created by white reason, white democracy, and empire. This forces one to ask how can philosophy, which asserts that Black people are enough like white people to be *theorized as human*, escape its racist imagination? Perhaps philosophy has simply refused to think seriously about the necessity of its end.
+
+*Tommy J. Curry is an American scholar, author and professor of philosophy, holding a Personal Chair in Africana philosophy and Black male studies at the University of Edinburgh.*
+
+Raymond Geuss
+
+**Why are we so determined to discover the truth even when discovering it will actually harm us?**
+
+[![21 05 19.You dont need an identity](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/21-05-19.You-dont-need-an-identity.webp)
+
+SUGGESTED READING
+You don’t need an identity
+By Raymond Geuss](https://iai.tv/articles/you-dont-need-an-identity-auid-1811)
+Aristotle tells the story of King Midas who took captive Silenos, a minor immortal who had a reputation for wisdom, and then forced him to answer a philosophical question: ‘What is the best thing for humans and the most choice worthy thing of all?’ Silenos, like a true philosopher, answers the question with a counterquestion of his own: ‘Why, Midas, are you forcing me to tell you humans what it would be better for you not to know?’
+
+Why are we so assiduous in trying to discover the truth even in cases in which pursuing the relevant knowledge or possession of it will actively harm us? We shy away from considering this question on a number of specious grounds. For instance, many people will be quick to claim that the situation envisaged, namely that of the existence of a truth it would be harmful for us to know, never arises because ‘really’ or ‘in the final analysis’, the truth will never harm us. This is an instance of the philosopher’s special use of ‘really’, which is often a prelude to giving complicated reasons for an inherently very implausible claim. Who, for instance, is the ‘us’ referred to here? Humanity as a whole? What if the actual implementation of some form of knowledge can reasonably be expected, given the way the world is constituted politically, socially and economically, to contribute to the extinction of our species in the near future? Developing forms of self-control of our impulses is often associated with the process of becoming more civilised. Is the ‘desire to know’ which Aristotle refers to in another work, an exception, and, if so why?
+
+*Raymond Geuss is emeritus professor at the faculty of philosophy, University of Cambridge. He is the author of the forthcoming book, Not thinking like a liberal, published by Harvard University Press.*
+
+Sara Heinämaa
+
+**How can we understand the world as something that we share in common with all beings?**
+
+[![the phenomenology of desire and orgasm](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/the-phenomenology-of-desire-and-orgasm.webp)
+
+SUGGESTED READING
+The phenomenology of desire and orgasm
+By Sara Heinämaa](https://iai.tv/articles/the-phenomenology-of-orgasm-and-desire-auid-1123)
+It may seem today that the most urgent questions concern the world – the natural world and its future. But philosophy teaches us that we will fail in our inquiries about the world, and in our responsibility for it, unless we understand our own fundamental relation to the world, to its sense and meaning. So, I believe that the most urgent question today is still the question about the triangual relationship that holds between the world, ourselves and our fellow beings: What is the world that is common to us all and how can it be shared by us?
+
+*Sara Heinämaa is Academy Professor (2017–2021) at the Academy of Finland and Professor of Philosophy at the University of Jyväskylä. She is the author of T*oward A Phenomenology of Sexual Difference.**
+
+Kate Manne
+
+**What are those imperatives that seem to us to be moral obligations, but in fact are not?**
+
+I was trained as a moral philosopher, and I often find that moral philosophers are preoccupied, when it comes to first-order normative ethics, with questions about what we ought to do. We ought to give more to charity; we ought to become a vegetarian or vegan; we ought to resist our own oppression. And so on. There’s nothing wrong with moral philosophy in this vein, but it tends to leave out an equally important question: What is it not the case that we ought to do? What false and pseudo-obligations may haunt our mental and social lives, and make us feel needlessly guilty or sinful? This is related to but not quite the same question as what it’s permissible to do. The questions I’m most interested in asking are what actions and practices are actually permissible that we may be labouring under a false sense of obligation to refrain from--or are permissible to refrain from, but in which we feel a false sense of obligation to participate.
+
+So there is a sociological as well as a purely normative element to the inquiry. As examples of false obligations that I’ve been especially interested in, consider a woman’s false sense of obligation to give certain, designated (typically more privileged) men love, attention, admiration, children, and domestic labour, far in excess of what he gives to her. Another example that I’ve been trying to think through lately has to do with the common (and, again, I would argue) false sense of an obligation to diet, and make ourselves smaller, even when there is good evidence that dieting is harmful and counter-productive, and that making ourselves smaller often fails to make us healthier or happier in the long term. Indeed, there’s a lot of pleasure to be had in eating joyfully and unrestrictively: so shouldn’t we be more critical of diet culture, as philosophers?
+
+*Kate Manne is an associaite professor of the Sage School of Philosophy at Cornell University, and author most recently of Entitled: How Male Provillege Hurts Women.*
+
+Robert Sanchez
+
+**What if a different tradition of philosophy—Africana or Latin American—were the dominant tradition?**
+
+One important question neglected by mainstream philosophy today is this:What if \*my \*way of doing philosophy were marginal? What if \*I\* were the one who had to prove the value and existence of my own tradition in order to be recognized in the mainstream, like those working in the African or Latin American traditions have to do today?
+
+The point of the question is not to put ourselves in someone else’s shoes or to wonder what it would be like to be excluded from the profession or philosophical canon. The point is not sympathy.
+
+Instead, the point is to recognize that part of what it means to be in the mainstream is that we slowly stop feeling the need to justify our right to be here. Our way of doing philosophy starts to feel natural, something we can take for granted. The point of raising the question is to invite us to pause and realize that we don't ask it; we never ask how philosophy might be radically otherwise. Perhaps the point is to realize that there is something profoundly un-philosophical about taking anything so basic for granted.
+
+*Robert Eli Sanchez Jr.* Robert Sanchez is an associate professor of philosophy at Occidental College, specializing in Mexican/Latinx/Latin American philosophy, as well as existentialism. He is the editor of Latin American and Latinx Philosophy.
+
+Sundar Sarukkai
+
+**How should we define philosophy today?**
+
+The greatest challenge is the disconnect between professional philosophy departments and the growing diversity of what constitutes philosophy today. A good amount of ‘philosophy’ is being ‘done’ in departments other than the philosophy departments. There is a growing interest, as well as a recognition, that various philosophical traditions, such as the Asian and African ones, are not only legitimate forms of philosophical thinking but also of philosophical practice which can inform contemporary life better than certain dominant traditions of mainstream philosophy.
+
+Mainstream philosophy has focussed exclusively on Greek and European philosophy as the primary sources of philosophy thereby ignoring not just the ‘classical’ philosophical traditions from around the world but also their ‘marginalized’ ones. Moreover, this inward looking approach characterising mainstream philosophy has stultified and has not produced enough meaningful tools for philosophy to engage with the realities of the contemporary world, including that of western societies. The first step in expanding the ‘narrow vision’ (and some would say, ‘narrow mindedness’ as a consequence) of mainstream philosophy today is not to ghettoise other cultural traditions of philosophy but to learn to accept the multiple traditions of philosophy as an integral part of mainstream philosophy itself and to recognize that the strength of philosophy comes from its relation not merely to the intellect but to embodied practice. The most important philosophical question that we should be asking is ‘How should we define philosophy today?’ One of the necessary steps to do this is to bring back Translation as an important subject matter for philosophical reflection by drawing upon non-western theories of language, texts, interpretation and the idea of the original.
+
+*Sundar Sarukkai was professor of philosophy at the National Institute of Advanced Studies in India, and is the author of several books including* *Indian Philosophy and Philosophy of Science, and Experience, Caste and the Everyday Social (co-author with Gopal Guru).*
+
+Robin R. Wang
+
+**Does wandering still have a role to play in our philosophical life?**
+
+In the Thea​etetus, Plato writes, quoting Socrates, “Wonder is the feeling of a philosopher, and philosophy begins in wonder.” Curiosity leads to inquiry, inquiry breeds awareness, and from here the roots of wisdom are placed. However, ancient Chinese philosophical thought is often about wandering (遊*you*).
+
+As Confucius famously said, the Way is something that we create through walking. When we think of wondering we might think of sitting alone, lost in our thoughts, delighted by certain fantasies. We explore ideas and our ideas explore us. Wandering is quite different, moving without a fixed course, aim, or goal. We might wander through the woods on a sunny afternoon, but we can get lost. It can lead to, or be the product of, confusion and perplexity.
+
+The Daoist Zhuangzi (3rd century BC) advises “Let yourself be carried along by things so that the heart/mind wanders freely. Hand it all over to the unavoidable, so as to nourish what is central within you. That is the most you can do.” This position encompasses three specific ideas for doing philosophy. First, “letting oneself be carried by things” or “riding with events and things” reveals that life is marked by contingency and the scope of human control is limited. Living well demands that we harness our own power or potency (*de* 德) to cope with variable and unpredictable circumstances. Secondly, allowing the heart/mind to “wander freely” actually deepens one’s existential rootedness within the world. Wandering proposes a playful attitude, undertaking a critical mindset as well as a source of joy. Thirdly, “nourishing the center” suggests that simply reflecting and understanding is not enough for living philosophically. In order to nourish ourselves physically, mentally and spiritually we need to move, to be dynamic, and we do not always know for sure where/why we are going, or what we will encounter. Wandering is a philosophical way to go!
+
+*Robin R. Wang is professor of philosophy and director of Asian Pacific Studies at Loyola Marymount University, Los Angeles, as well as the author of Yinyang: The Way of Heaven and Earth in Chinese Thought and Culture.*

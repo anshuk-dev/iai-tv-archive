@@ -1,0 +1,56 @@
+---
+title: "Why Humans Are The Most Irrational Animals"
+subtitle: "Our complex imagination makes us more irrational than other creatures"
+author: "Bence Nanay"
+date: "Issue 74, 11th June 2019"
+article_id: "1239"
+channel: "Philosophy"
+themes: "Mind & Reason"
+tags: "None"
+word_count: "1,022 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Why-humans-are-most-irrational-animal-Bence-Nanay.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-humans-are-the-most-irrational-animals-auid-1239"
+---
+
+# Why Humans Are The Most Irrational Animals
+
+*Our complex imagination makes us more irrational than other creatures*
+
+**By Bence Nanay** | *Issue 74, 11th June 2019* | *Read time: approx. 5 mins* | *1,022 words*
+
+![Why Humans Are The Most Irrational Animals](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Why-humans-are-most-irrational-animal-Bence-Nanay.webp)
+
+---
+
+It is easy to make fun of the Aristotelian idea that humans are rational animals. In fact, a bit too easy. Just look at the politicians we elect. Not so rational. Or look at all the well-demonstrated biases of decision-making, from confirmation bias to availability bias. Thinking of humans as deeply irrational has an illustrious history, from Francis Bacon through Nietzsche to Oscar Wilde, who, as so often, came up with the bon mot that sums it all up: "Man is a rational animal who always loses his temper when he is called upon to act in accordance with the dictates of reason."
+
+My aim is to argue that humans are, in fact, not more rational, but less rational than other animals. Aristotle talked about rationality as the distinguishing feature of humans compared to other animals. I think we can use irrationality as a distinguishing feature. It’s not just that humans are irrational animals; humans are more irrational than any other animals.
+
+[This is not a completely new line either](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.466.8597&rep=rep1&type=pdf), although the point has often been made merely as a provocative overstatement. In fact, according to the standard account of biases, irrationality (in the guise of biases) is explained by simpler cognitive mechanisms taking over. And these simpler mechanisms are exactly the ones we share with animals. So if human irrationality is explained by animal cognitive mechanisms, then humans will not come out as less rational than animals.
+
+I have a different argument, one that focuses on the importance of imagination in our mental life. I argued [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12097%5d) and [here](https://www.youtube.com/watch?v=HMv2Az9y28I) that imagination plays a crucial role in making most of our important decisions. Think back to some of the big decisions you have made over the years. Break up with your partner or not? Which college to choose? Go to grad school or not? Which job offer to take? Which house to bid on? And so on. My guess is that you made all of these decisions by imagining yourself in one of the two situations and then imagining yourself in the other and then comparing the two.
+
+\_\_\_
+
+"When we make these grand decisions, we imagine what we imagine to be our future selves in imagined alternative scenarios. Imagination is used three times. And none of these uses of imagination is particularly rational"
+
+\_\_\_
+
+Here is an example from my own past. After college, I was accepted in grad programs in the US and in the UK. I thought, probably correctly, that this choice would have a major impact on my life course and was really struggling with this. I could narrow down the US options to what seemed the best (within the US) and I did the same for the UK options. But deciding between becoming American and becoming British was just too difficult. I imagined myself in Britain, at fancy college dinners, wearing a gown and sipping port. And I imagined myself in California diners in flip flops with Oreo shake in hand. Not an easy comparison.
+
+The point is that I really had very little idea about just what situations I will find myself in. So I actually imagined myself in imagined situations – ones that were more informed by films I have seen than reality. But imaginative episodes of this kind are even more complicated. Imagination is used not even twice, but three times. Let’s suppose I am making this decision now. Who am I imagining in that California diner? My current self will never be there, so imagining my current self would not be particularly helpful. It is my future self who has the chance to hang out in California, but the problem is that we don’t have any firm information about what our future selves will be like. So it is really my imagined future self who I should imagine.
+
+So things are a bit complicated then: when we make these grand decisions, we imagine what we imagine to be our future selves in imagined alternative scenarios. Imagination is used three times. And none of these uses of imagination is particularly rational. Imagining our future selves is especially unreliable, as we systematically underestimate how much we will change in the future – see the psychological phenomenon of the [End of History Illusion](https://www.ted.com/talks/bence_nanay_the_end_of_history_illusion?language=en).
+
+[![carson arias 197710 unsplash](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/carson-arias-197710-unsplash.webp)
+
+SUGGESTED READING
+Stupidity Is Part of Human Nature
+By Bence Nanay](https://iai.tv/articles/why-stupidity-is-part-of-human-nature-auid-1072)
+And the scenarios we imagine ourselves in have very little to do with the actual situations we would find ourselves in. I spent relatively little time in Cambridge sporting a gown and really almost no time in Californian diners in flip flops (the Oreo shake is another question…). The general point is that because of the irrationality of imagination, we make irrational decisions. And while animal decisions are not maximally rational either, they are at least not (or not to the same extent) influenced by the irrationality of imagination (as it doesn’t seem likely that animals would be capable of this triple embedded imaginative episode). In this sense humans really are more irrational than animals.
+
+Is this all bad? I don’t think so. The first reason for this is that it is a bit difficult to tell what would be the rational decision in these scenarios. Take again the third use of imagination in decision making: the one concerning the self. It is not really possible to imagine your future self that will be in California or Cambridge because your future self will largely be formed in response to the decision that you’re about to make. So you are not in a position to rationally imagine your future self in order to make a decision, because your future self is a result of this very decision.
+
+The second reason is that irrationality may not be such a terrible thing. And the irrationality of imagination may actually be a liberating mental facility. As Fernando Pessoa said, “Because I am nothing, I can imagine myself to be anything. If I were somebody, I wouldn’t be able to. An assistant book-keeper can imagine himself to be a Roman emperor; the King of England can’t do that, because the King of England has lost the ability in his dreams to be any other king than the one he is. His reality limits what he can feel.”

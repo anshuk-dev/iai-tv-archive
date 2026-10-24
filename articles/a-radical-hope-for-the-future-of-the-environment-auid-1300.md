@@ -1,0 +1,90 @@
+---
+title: "A radical hope for humanity and the environment"
+subtitle: "Why we must abandon ideas of pristine nature"
+author: "Allen Thompson"
+date: "Issue 84, 29th January 2020"
+article_id: "1300"
+channel: "Science"
+themes: "Technology & Environment"
+tags: "None"
+word_count: "1,761 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-01-29.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/a-radical-hope-for-the-future-of-the-environment-auid-1300"
+---
+
+# A radical hope for humanity and the environment
+
+*Why we must abandon ideas of pristine nature*
+
+**By Allen Thompson** | *Issue 84, 29th January 2020* | *Read time: approx. 9 mins* | *1,761 words*
+
+![A radical hope for humanity and the environment](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/20-01-29.webp)
+
+---
+
+Inertia is a bitch. Imagine a freight train rolling downhill or a cargo ship drifting off course; forces in motion and beyond our control. Something valuable will be lost and in many cases, there is nothing we can do that will prevent this. We feel helpless and headed for a crash.  
+  
+The forces of human civilization seem like this sometimes, an unstoppable freight train. Today almost everyone strives to emulate the consumer lifestyle of an economic global elite, with increasingly dire impacts on the global environment. Historic ecosystems, in particular places, will collapse. Since many environmentalists value nature, in ecosystems and existing biodiversity, as autonomous from human interference, we are facing what Bill McKibben calls the "end of nature" in his 1989 eponymously entitled book. The Anthropocene has tremendous inertia in light of which the good of "natural" landscapes, biodiversity, and historic ecosystems, will be lost.
+
+Is there room for environmental hope, despite near certainty that someday soon there will be no more "natural" landscapes, biodiversity, or ecosystems?
+
+Is there room for environmental hope, despite near certainty that someday soon there will be no more "natural" landscapes, biodiversity, or ecosystems? Conventional hope, perhaps that the Anthropocene can somehow be avoided, seems naive and bordering on irrational.  
+  
+Today a capitalist economy and culture of material and energy consumption seems unstoppable. To imagine how environmentalists may reconceive the virtue of hope, I want to consider one historical analogy: the westward expansion of European settlers across North America in the late nineteenth century.  
+  
+Pursuing "manifest destiny," white settlers pressed into and obliterated native communities and modes of living. Let's focus on the plight of one tribe. According to Jonathan Lear, when the Apsáalooke - or, the Crow - were restricted to a reservation (established 1868) their particular way of flourishing, how they understood what it was to live well, was rendered impossible.[1]  
+  
+The good life for members of the Crow was built around nomadic hunting, a warrior culture developed over hundreds of years to a life of fierce competition with other tribes for control of a shifting territory and access to buffalo.  
+  
+Historically, a particular and culturally "thick" conception of courage dominated within the tribe. On the reservation, however, conditions required for behaviours that the Crow understood to be courageous simply did not exist; the Crow life form of hunting and war, in terms of which tribal members understood courage, was lost. So, Lear presents a mystery: how could the last principle chief of the Crow, Plenty Coups (1848-1932), lead courageously when the types of behaviours through which the Crow understood courage were no longer possible?
+
+There is way to cultivate our own radical hope. But this hope depends upon our acceptance that the goodness of nature, or the intrinsic value of life on our planet, transcends a dependence on autonomy from formative human influences.
+
+Plenty Coups had a dream vision that European colonization possessed an unstoppable inertia. He saw the impending ruination of the traditional Crow way of life was something he could not prevent. But he was not helpless. Plenty Coups's subsequent actions manifest a novel virtue of "radical hope": a form of courage in the face of despair, through commitment to the idea that the good life will re-emerge in a form that is presently unimaginable. As their leader, he was committed to a flourishing life for the Crow but one that they could not yet understand.
+
+Switch back now to the Anthropocene, characterized by pervasive anthropogenic drivers of environmental change. There is way to cultivate our own radical hope. But this hope depends upon our acceptance that the goodness of nature, or the intrinsic value of life on our planet, transcends a dependence on autonomy from formative human influences. Common distinctions between what is natural and what is artificial must come into doubt. We need courage to believe in the re-emergence of a new form of natural goodness, out beyond old ideas through which we valued wild nature by a measure of its independence from humans.  
+  
+Let's remind ourselves of where we are and imagine how we may adapt our environmental philosophy. The Earth's atmospheric system has inertia, too. The warming effects that we witness occur only on account of carbon emissions from long ago and future warming is already locked-in, even if we somehow stopped all emissions today (cultural inertia suggests we won't). The climate freight train is already rolling; anthropogenic drivers change mean-surface temperatures and meteorological phenomena, so human-caused alternations cascade through biological and ecological systems worldwide. We live in an age of ecocide and other losses; the Anthropocene is, apparently, the very end of autonomous nature.
+
+If we are fully natural, how could we - alone among the species - effect a change in a metaphysical ontology?
+
+Autonomous nature? Saving the world as it would be without humans? Maybe this thought reveals a myth, nestled deep within our environmental thinking. As scientific naturalists, many of us accept that human beings have no supernatural origin but that Darwinian processes provide the true account of our genesis and being. If we are fully natural, how could we -- alone among the species -- effect a change in a metaphysical ontology? A mysterious Midas-like touch that turns everything unnatural. And when most environmentalists reject anthropocentrism, the idea that humans alone bear moral significance, the view that only humans can act to degrade how natural the world is indeed implies we are special and stand apart from the rest of nature. A problematic dualism continues to lurk in our longing after what we imagine as pristine nature.      
+  
+Philosopher Steven Vogel, almost alone, articulates an environmental philosophy without nature for the Anthropocene: the environment is literally built by human social practices and thus something for which we bear collective responsibility.[2]  
+  
+Surprisingly, this idea also has a source arising with native inhabitants of the New World. More than twenty years ago, environmental historian William Cronon unmasked the environmentalist's ideal of wilderness.[3]  
+  
+Landscapes all across the North American continent were influenced, even managed, by Native Americans, delivering what European colonists mistook for a vast unaffected world of nature.  
+  
+On Vogel's view, the world we live in is, and can only be, what we make it. The 'end of nature' is not a "recent event but something that has always already taken place: human beings have always transformed the world they encounter, and they transform it in encountering it." Being in the world, living in the world, implicates human beings in alteration of the world. There is no possibility of human actions that can preserve a world unaffected by human actions. So, if environmental philosophy concerns how humans should relate to the environment, then it's not clear how the noumenon of "pristine nature" could be helpful.  
+  
+Is Vogel denying that there is a world of nature? Denying all the stuff studied in natural science? No, his view is not some anti-realist version of social constructivism. When someone points out that the concept of "nature" is a social product, traditional environmentalists quickly respond that its referent is not. And if "nature" just means the non-human, then "the social construction of nature" simply makes no sense. Vogel agrees. However, a social construction of the environment remains coherent. His view is not that the concept of nature is socially constructed, which of course it is, but rather that the only environment we could ever occupy is literally the product of social construction - something we build. "The world is not something we find ourselves in; it is something we have helped to make," Vogel writes, while "...at the same time it is something that helps to make us."  His proposal is to replace "saving nature" with moral concern vis-à-vis the environment that we are, in both a causal and moral sense, collectively responsible for.
+
+Humanity is not alone in effecting agency. Influence is a two-way street and the non-human world pushes back.
+
+An environmental philosophy without the concept of nature, still, may strike many as focused too much on human beings. It's the rest of the world that needs more attention. Such a view is not resonant with the courage we'll need facing a dark environmental future, they'll say, but rather exhibits more hubris. The idea of an environmental philosophy focused on the environment instead of a non-human world of nature isn't hubristic, however, it's inclusive. Humanity is not alone in effecting agency. Influence is a two-way street and the non-human world pushes back.  
+  
+Recent developments in ecology can help.  Ecologists are discovering that, after some kind of disturbing human influence, many ecosystems are rebounding as stable and resilient, but with compositional and occasionally functional profiles for which there is no analog in the historic ecological record. These so-called novel ecosystems represent a "new" nature and exemplify the forces of a wild world rebounding into brand new assemblages consequent upon significant human interference.[4]  
+  
+Lowland rain forests in Hawaii, for example, are dominated by introduced species ( around 90% of the basal area) but research shows that these "novel forests had significantly higher tree species richness and higher diversity of dominant tree species. We further found that aboveground biomass, productivity, nutrient turnover, and belowground carbon storage either did not differ significantly or were significantly greater in novel relative to native forests." As this example shows, a default assessment of ecosystems that vary significantly from historic conditions due to human influence as "degraded" is driven more by ideology, and perhaps a romantic longing for the past, than can always be sustained by ecological science. "Because large portions of the Earth's surface are undergoing similar transitions from native to novel," researchers conclude, "our results are likely to be broadly applicable." [5]  
+  
+Without providing a complete picture of the new ecological world order - the environment valued by future environmentalists - the emergence of novel ecosystems offers to sustain a radical hope that the goodness of the "natural" world always outstrips our present capacities to understand it. And this radical hope in natural goodness can provide some of the courage we will need as humanity continues to drift, along with everything, deeper and deeper into an uncertain future of life on Earth in the Anthropocene.
+
+---
+
+[1]  
+Lear Jonathan (2008). Radial Hope: Ethics in the Face of Cultural Devastation (Harvard Univ. Press).  
+  
+[2]  
+Vogel, Steven (2015). Thinking Like a Mall: Environmental Philosophy After the End of Nature (MIT Press).  
+  
+[3]  
+Cronon, William (1996). "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature" in Environmental History 1/1: 7-28.  
+  
+[4]  
+Hobbs, Richard, Eric Higgs, and Carol Hall (2013). Novel Ecosystems: Intervening in a New World Order (Wiley-Blackwell).  
+  
+[5]  
+Mascaro, Joseph, R. Flint Hughes, and Stefan A. Schnitzer (2012). "Novel forests maintain ecosystems processes after the decline of native tree species." Ecological Monographs, 82(2): 221.

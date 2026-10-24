@@ -1,0 +1,87 @@
+---
+title: "The return of metaphysics: Hegel vs Kant"
+subtitle: "German Idealism and the fate of philosophy"
+author: "Robert Pippin"
+date: "21st January 2022"
+article_id: "2032"
+channel: "Philosophy"
+themes: "Metaphysics & Language"
+tags: "None"
+word_count: "2,117 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/22-01-21-Kant-Hegel.and.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-return-of-metaphysics-hegel-vs-kant-auid-2032"
+---
+
+# The return of metaphysics: Hegel vs Kant
+
+*German Idealism and the fate of philosophy*
+
+**By Robert Pippin** | *21st January 2022* | *Read time: approx. 11 mins* | *2,117 words*
+
+![The return of metaphysics: Hegel vs Kant](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/22-01-21-Kant-Hegel.and.webp)
+
+---
+
+*For most of its history western philosophy was dominated by metaphysics, the attempt to know the necessary features of the world simply by thinking. Then came Kant, who showed that reason alone can’t gain knowledge of the world without the help of experience. Hegel’s philosophy is seen by many as ignoring the lessons of Kant’s critique of metaphysics and regressing to a pre-Kantian style of philosophy. But a more careful reading of Hegel shows that he was not in fact ignoring Kant’s lesson, but following his argument: Even if pure reason can’t know the world, it can know itself. And in discovering the nature of thought, Hegel argued, one also discovers the nature of anything that can be thought, that is, reality. Thus, writes **Robert Pippin**, Hegel was able to change the fate of metaphysics.*
+
+Philosophy is not an empirical enterprise. Its traditional claim is to be a form of knowledge about reality, even though it does not rely on observation about that reality. If there is philosophical knowledge, it is a priori knowledge, and if it is knowledge, it claims something true about reality not accessible to empirical observation or confirmation. Philosophy’s claims to a priori knowledge seems to lead us inevitably to what has always been, until the last two-hundred and fifty years or so, the center of philosophy, its inescapable “big” question: metaphysics.
+
+**[![schop v n 3](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/schop-v-n-3.webp)
+
+SUGGESTED READING
+Schopenhauer vs Nietzsche: The meaning of suffering
+By Joshua Foa Dienstag](https://iai.tv/articles/schopenhauer-vs-nietzsche-the-meaning-of-suffering-auid-1801)**
+
+So, what happened two hundred and fifty years ago? Kant happened, in 1781. His *The Critique of Pure Reason* indicated by its very title bad news for the traditional metaphysical tradition. There was no such power as an intuitive reason with access to any nonsensible realm of reality. Reason, thinking generally, was exclusively an activity, in no sense a perceptual power. Its main activity was inferring, deducing, systematizing, unifying, and was in no sense open to the world. The only such openness available for finite human beings was through our sensory powers and thinking’s task was the discriminating and unifying our experience. Assuming otherwise was the main reason philosophy had achieved no settled results in over two thousand years of speculation and had instead produced only unresolvable conflicts with equally good and equally paradoxical positions on either side of classical issues. Hegel, however, perhaps the most influentialof the post-Kantian philosophers, took seriously Kant’s claim that even if thought can’t know the world, it can know itself. That lead him to a revival of the very enterprise Kant sought to eliminate: metaphysics, the study of the necessary features of existence.
+
+**What was metaphysics and Kant’s critique?**
+
+Metaphysics claims to be knowledge of reality attained by pure reason alone, by “pure thinking” unaided by empirical observation. This assumed, from the time of Plato and Aristotle, until the great rationalist metaphysicians of the seventeenth century, that we possessed a capacity, a power of thinking, capable of doing so. The idea was that pure reason could determine “what the world could not but be”, in other words, what are the conditions for there to be a possible world at all. If there is metaphysical knowledge, deals in necessity. The most famous instance of such a claim was and remains Plato’s theory of Ideas, but medieval concept realism, Descartes’s *res cogitans* and *res extensa*, Leibniz’s monads and Spinoza’s substance are obvious successors. This in turn assumed that there must be something like a “light of reason,” a capacity to grasp what could not be grasped in sensory experience. In Plato this meant “noesis,” in Aristotle the cooperation of the active and passive intellect, in Descartes, “clear and distinct ideas,” and so forth.
+
+\_\_\_
+
+Kant did not completely deserve his reputation as the “all-destroyer” of metaphysics. He left pure reason one possible object: itself.
+
+\_\_\_
+
+Kant’s critique of traditional metaphysics was not welcome news, and not just to philosophers. It had been a matter of great importance in the Christian inheritance of the Greek metaphysical tradition that unaided human reason was indeed capable of establishing such claims as that there was a God, there was an immortal, immaterial soul, and that human beings were free and so morally accountable as individuals. Kant conceded that there may indeed be a realm of nonsensible reality, a “noumenal world,” but once we begin with a rigorous examination of our power to know, we had to conclude that we could know nothing about it.
+
+But Kant did not completely deserve his reputation as the “all-destroyer.” He left pure reason one possible object: itself. Reason could establish the categorial elements of any thinking at all, elements without which no experience at all could be possible. We know only appearances, not things in themselves, but we could know something a priori about the objects of experience. We could at least have what one commentator called a “metaphysics of experience”: the necessary features of human experience. The philosophical labor needed to establish all of this amounted to a demonstration of such staggering brilliance and originality that it took many decades before its full power could be appreciated, but its immediate effect was devastating and changed the course of philosophy forever. It seemed to mean the death of metaphysics, pure reason’s attempt to know reality as it is in itself. And this left very unclear what there was left for philosophy to do.
+
+**Hegel’s resurrection of metaphysics**
+
+Despite Kant’s rejection of traditional metaphysics as impossible, it was essential to this enterprise that pure reason could know itself; pure thinking could determine what pure thinking must be such that determinate objects of thought were possible. But when pure thinking knows something about what pure thinking requires, what does it know? Does it know “how the human mind works, must work, in shaping the material of experience”? That would be a piece of substantive knowledge about… what exactly? A mental substance?
+
+Enter the post-Kantian idealists, especially Hegel, and a certain sort of retrieval of metaphysics. Hegel’s basic claim had three components. The first is the claim that a priori knowledge of the world, the ordinary spatio-temporal world, is possible; knowledge about that world, but achieved independently of empirical experience. The second component is where all the interpretive controversies begin. It is the claim that this a priori knowledge, while in some sense ultimately about the world, consists in thinking’s or reason’s *knowledge of itself*; thinking’s understanding of thinking or, as Hegel designates, a “science of pure thinking.” This is what distinguishes classical rationalism from idealism, as Hegel (and Kant) understood it. The former holds that reason has access to its proper objects outside itself; the latter that the object of pure thinking is itself.  But there is clearly a question to be answered: how could we have priori knowledge of reality, while the only object of our thinking is thought itself?
+
+\_\_\_
+
+This is what distinguishes classical rationalism from idealism: The former holds that reason has access to its proper objects outside itself; the latter that the object of pure thinking is itself.
+
+\_\_\_
+
+One long dominant interpretation of Hegel of this apparent paradox holds that these two claims can be both assertable only if what there “really” is, the “really real world,” what is accessible only to pure reason alone, is itself thoughts, nonsensible objects;  something like the Absolute’s or God’s thinking itself, an inherent, evolving noetic structure, unfolding in time from the human perspective. Pure thought thinking itself is the manifestation of the *noesis noeseos*, God thinking himself, or it is the divine like apprehension of the noetic reality that underlies experienced appearances. I cannot do so here, but I have argued for thirty years that that interpretation does not fit the text.
+
+But apart from the interpretation issue, the most important critiques of idealism all hold that any such project is doomed from the start, that there is not and cannot be such a self-sufficient “pure thinking.” Such a broad counter claim is often summarized as a doctrine of “radical finitude.” This is an apt title since Hegel insists that, to use an Aristotelian formulation, “thinking thinking thinking” is not the thinking of any object (even “the subject’s forms”). Pure thinking’s object is itself but not as an object or event, rather its object is the thinking also interrogating thinking; a circle, not a dyadic relation; hence the provocative notion of “infinity,” without beginning or end.  The later anti-idealist criticism holds that thinking must always be understood as grounded on, or dependent on some sort of non-thinking ground, or materiality or contingency or the unconscious instinct or drive of the thinker.
+
+In Hegel’s treatment, the topic of pure thinking is presented as having nothing to do with the existing human thinker, the subject, consciousness, the mind. The topic rather raises as a problem the possibility of the intelligibility of even whatever is being touted as pre-conscious source or hidden origin of the “subject,” the intelligibility of what is assumed in any such determinate identification as a knowledge claim. That source is either something available for some kind of apprehension or it is not. If it is, it must be subject to some regime of intelligibility for this determinacy to be accounted for. So, Hegel’s project is thought’s determination of what thought must be, its moments (*Denkbestimmungen*) in order to be a possible truth-bearer, a result that for Hegel immediately involves what could be the object of any truth claim.
+
+In the face of this, if someone simply persists in asking what we were asking above: “But where is all this thinking and explaining happening?” all one can reply is “wherever there is thinking.” This is not to say that there is not always a thinker or subject of thought; it is to say that thought that can be truth-bearing is constituted by what is necessary for truth-bearing, by any being of whatever sort capable of objective (possible true or false) judgment. Any such determination of a source or ground or subject-object, must still, so goes the case for the possible explication of absolute intelligibility, make sense within a general regime of sense-making, or nothing has been claimed by the putative claim for any such material ground or source. Any such criticism, in so far as it is a thinking, a judging, a claim to know, is always already a manifestation of a dependence on pure thinking and its conditions.
+
+\_\_\_
+
+In knowing itself, thought knows of all things, what it is to be anything, a determinately intelligible anything.
+
+\_\_\_
+
+Pure thinking, as Hegel understands it, is neither dependent on nor independent from the empirical, or from materiality or the brain or whatever new “absolute” comes into fashion*.* That anti-Hegelian question already manifests (for the Hegelian) a misunderstanding of the question of pure thinking itself. This is not to deny that any reference to thinking presumes a thinker, indeed a living, purposive, finite, embodied rational thinker. It is, rather, to argue for theautonomy of the question of “any thinking at all,” whatever the existential status of the thinker. That is, it is to insist on the priority and autonomy of what he called “logic,” and that means for him its complete self-determination of its own “moments.
+
+Hegel’s enterprise takes as its topic the categories or “thought determinations” (*Denkbestimmungen*) necessary for thought to have determinate objective content, *an enterprise that at the same time specifies the determinations inherent in the possible determinacy of being itself.* That means it is a metaphysics, one based on the “identity” in this sense, of “thinking and being.” This is not a knowledge of any nonsensible reality, it is a knowledge of any intelligible reality, the only kind there is. It is a revival of the great principle of classical philosophy: to be is to be intelligible. Thinking’s knowledge of itself is knowing what could be intelligible and therewith a knowledge of what could be.
+
+Put a different way, the intelligibility of anything *is* just what it is to be that thing, to be determinately “this-such”(*tode ti*), the answer to the “what is it” (*ti esti*) question definitive of metaphysics since Aristotle. To be is to be intelligibly, determinately “what it is**.”** In knowing itself, thought knows of all things, what it is to be anything, a determinately intelligible anything.As for Aristotle, the task of metaphysics is not to say of any particular thing what it is. It is to determine what must be true of anything at all such that what it is in particular can be determined by the special sciences.
+
+Hegel, and to some extent Leibniz, was the first major thinker in modernity to attempt such a revival of Aristotle (for all their differences) after the scorn heaped on him by the liked of Hobbes and Descartes, and what he accomplished remains a relatively unexplored option in the fate of metaphysics.
+
+**This article is part of *The Return of Metaphysics series*, and was produced in partnership with the [Essentia Foundation](https://www.essentiafoundation.org/).**

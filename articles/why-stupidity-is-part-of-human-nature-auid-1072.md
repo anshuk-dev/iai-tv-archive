@@ -1,0 +1,121 @@
+---
+title: "Stupidity Is Part of Human Nature"
+subtitle: "Why we must scrap the myth of perfect rationality."
+author: "Bence Nanay"
+date: "25th April 2018"
+article_id: "1072"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,482 words"
+read_time: "Read time: approx. 12 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/carson-arias-197710-unsplash.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/why-stupidity-is-part-of-human-nature-auid-1072"
+---
+
+# Stupidity Is Part of Human Nature
+
+*Why we must scrap the myth of perfect rationality.*
+
+**By Bence Nanay** | *25th April 2018* | *Read time: approx. 12 mins* | *2,482 words*
+
+![Stupidity Is Part of Human Nature](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/carson-arias-197710-unsplash.webp)
+
+---
+
+“There is more to be said for stupidity than people imagine. Personally I have great admiration for stupidity” – the sentiment behind Oscar Wilde’s bonmot is strangely fashionable these days. For a good reason.
+
+The music we are listening to influences our opinion of the wine we drink, the weight of the spoon influences how creamy we find the yoghurt and our moral assessment of strangers depends on what movie we have just watched. I call this paradigm of empirical findings the ‘We’re All Stupid’ paradigm.
+
+Scientists and academics in general are in the business of giving rational and logical explanations. So they may feel threatened by this deluge of evidence of our irrationality. And they do. But the standard response is that while the reasoning abilities of the hoi poloi may be subject to these biases, scientists, and experts in general, are safe: the ‘We’re All Stupid’ paradigm becomes the ‘They’re All Stupid’ paradigm. A somewhat elitist move, no doubt, but it is also factually incorrect: even expert probability-theorists are very easily fooled into making the most basic mistakes about probability and wine experts routinely mistake white wine with added odorless colorant for red wine.
+
+I argue that we should embrace our stupidity. Rather than setting ourselves up to fail all the time, we should take our emotion-infused, irrational, oversimplifying mental setup as the baseline. Only in rare and exceptional moments do we manage to overcome our stupidity and achieve true rationality.
+
+**Just how stupid?**
+
+My central case study will be food. You might think that you taste food with your tongue – just as we perceive sound with our ears and we perceive colors with out eyes. But this is completely wrong. Our tongue is only capable of discerning five basic tastes: sweet, sour, bitter, salty and umami. Everything else comes from smell – from what researchers call “retronasal olfaction” (smell activated not by sniffing but by the air pushed upwards from the back of the palate). If we block smell, strawberries and mango will taste the same: sweet. Flavor perception is multimodal: smelling and tasting (and more: heat perception and the trigeminal nerve) all contribute to what our food tastes like.
+
+But the multimodality of perception runs even deeper. Our flavor perception is influenced not only by smell; it is also influenced by sight and sound. White noise, for example, has a terrible influence on our flavor perception – that is the main reason why food tends to taste awful on airplanes. And the color of the food we are eating can also have a significant influence here (as can the weight of the spoon we’re eating with). Flavor perception is a fragile and extremely complex phenomenon: change one small thing in pretty much any sense modality and it can have a powerful (often negative) effect.
+
+\_\_\_
+
+"We wildly overestimate our access to our own mind"
+
+\_\_\_
+
+One way of framing these findings would be to say that we are just all stupid. We think we know what kind of food we like, but there are all these completely irrelevant effects on what we like and what we don’t. So we wildly overestimate our access to our own mind. You think you are a coffee connoisseur, but your enjoyment of coffee correlates much more closely with the shape of the cup or the lighting of the room than with the actual liquid you are drinking. You are just delusional – as are all of us.
+
+But then we really waste our time when we go to wine-tasting events or to a fancy restaurant. The enjoyment we get out of these will depend on factors we have little or no control over. The popular media were quick to jump at these results and present them as solid scientific evidence that wine-connoisseurship is plain bullshit (their word, not mine).
+
+One result that is widely reported at various news sites and newspapers is that even professional wine-tasters are sometimes bad at distinguishing red wine and white wine if they smell or taste them without having any information about the wine’s color (either because they are drinking it from black glasses or because the white wine is colored red with tasteless colorant). While the experiment that this conclusion is based on is often misreported, one can see how you can grab headlines with this. If wine experts can’t even tell red and white wine apart, what on earth do they have to pontificate about?
+
+Even worse, some studies show that the bias from the perceived color is even stronger in wine experts than novices like you or me. So if years of culinary schooling and wine tasting lead to more confusion, what’s the point?
+
+Moreover, the weight of a spoon influences the perceived quality of yoghurt (the heavier the spoon, the creamier the yoghurt tastes). The color of the cup influences the perceived taste of hot chocolate (for best effect, use orange mugs!). And to return to wine, the weight of the glass also influences the quality of wine. (You may want to avoid heavy wine-glasses at your next dinner party). It must be said that none of these effects were tested on experts. So decades of training may (or may not) get you to be able to ignore the weight of your utensils when opining about the quality of food.
+
+You can see, if you squint, why color may influence our experience of wine or juice. After all, we are normally looking at the food we are eating. So if it has a weird color, you can see why we may be put off. But the next set of results is even more difficult to—ahem!--digest.
+
+Adrian North, an Australian psychologist who has been working with some of the best Australian winemakers, did a series of studies about how the music we hear influences our assessment of wine. He even came up with music/wine pairings. Apparently, listening to powerful and heavy music (for example, Orff’s *Carmina Burana*) makes you like powerful, heavy wine more. And it will make you enjoy more subtle and refined wine less. And vice versa. Subjects also tend to describe the wine with adjectives that correspond to the perceived characteristics of the music, regardless of what wine they are drinking.
+
+\_\_\_
+
+"**You think you are a coffee connoisseur, but your enjoyment of coffee correlates much more closely with the shape of the cup or the lighting of the room than with the actual liquid you are drinking.**"
+
+\_\_\_
+
+It was also Adrian North who did experiments on the influence of music on consumer behavior: not on how the wine tastes, but on what wine shoppers choose. He had a wine-shop play accordion music in the background and this made the sales of French wine shoot up. But when he had Oom-pah band music played, the sales of French wine plummeted, and people were more likely to buy German wine. And this is not a minor change. With the accordion music, people bought five bottles of French wine for every bottle of German wine and the ratio was two bottles of German wine for every bottle of French wine with the Oom-pah band music.
+
+So these findings seamlessly fit the much more general set of experimental results that seem to show just how irrational and biased we are. We are all subject to a great many biases that we are not aware of. And we confabulate about why we do what we do – because we have no idea why we do it. When the customers in the previous experiment were asked why they chose the bottle they did, not one of them mentioned the background music. They came up with very creative explanations for their own actions.
+
+And this is true not just of wine choice. Our judgment about the moral status of two people’s actions depends on the order in which the two cases are presented. It also depends on whether we have just watched a clip from Saturday Night Live or from a boring documentary about a Spanish village. And it depends on whether you have just washed your hands.
+
+**The ‘They're All Stupid’ Paradigm**
+
+Scientists and academics have a special problem with this ‘we are all stupid’ paradigm. Our expertise is supposed to be rational explanations and logical arguments. So if we are all stupid, scientists and philosophers included, then we are not doing (and maybe we can’t even do) our job properly. The same is true of academics in general, but the issue seems especially troubling for philosophers, who are visibly threatened by this deluge of evidence of our irrationality.
+
+The standard move in response to these findings is that while the reasoning abilities of the “ordinary people” may be subject to these biases, academics, philosophers and experts are safe: psychiatrists are not fooled by warm coffee or teddy bears. Only amateurs are. And professors of moral philosophy could watch as much *Saturday Night Live* as they want; this would not change their moral assessment of anything.
+
+This move is sometimes called the ‘expertise defense’. But I’ll call it what it really is: the ‘they are all stupid’ paradigm.
+
+I am not sure that this ‘they are all stupid’ defense, even if it succeeds, would reassure scientists, philosophers and other academics. Even if we suppose that experts are not fooled by biases in the field of their expertise, this would still make them completely biased and irrational in all other domains. If you are a logic professor, it is probably going to be difficult to trick you into accepting an invalid syllogism as valid. But all your studies in logic will do nothing to prevent you from any of the other millions of biases.
+
+**Expectations**
+
+Here is a different way of explaining the troubling findings about the completely irrelevant things our enjoyment of food and wine depends on. When we take a sip of wine, our flavor perception is a combination of two things: bottom-up processing of the signals our various sense organs send to the brain, and top-down modulation of this processing by our expectations.
+
+Here is a famous illustration of how experience depends on expectations. Parmesan cheese is very different from vomit. And they don’t *really* smell the same either. But their smell is similar enough so that if you are presented with a nontransparent box full of parmesan cheese but you are told that it is vomit, you will in fact smell vomit (and the other way round). The top-down information is winning out and trumps what your senses in fact tell you.
+
+There is solid evidence that top-down influences are rife in all sense modalities. Just one recent example to show how cerebral these top-down influences can be: chicken will taste very different depending on whether you are told that you are eating one that lived a happy life on a free range farm or one raised in miserable factories.
+
+Even pain depends on your expectations: if you are expecting pain, say, burning pain at the back of your neck (because the cruel experimenter just announced that this is what will happen), you will experience actual painful sensation when she touches the back of your neck with an ice cube.
+
+Perception in general depends on these top-down expectations, as does the perception of food and wine. And experts have way more, and more precise, top-down expectations than novices: They have spent years developing exactly these expectations. So in unusual scenarios when they are misled (by artificial coloring), they rely on their expectations more than novices do. Novices may lack any specific expectation about the odor of wine on the basis of its color.
+
+The wine expert is not doing anything wrong. Given what she sees, she is expecting what she should be expecting. But she is being tricked. The liquid in her glass has features that no wine she could have ever encountered had. It’s white wine that looks red.
+
+But while expectation can explain some of the disturbing findings I talked about, it can’t explain all of them.
+
+**Accepting our irrationality**
+
+We have seen that there are all these crazy irrelevant influences on the perception of food and drink. But these influences won’t look so irrelevant (or so crazy) if we understand how the perceptual system works and, more specifically, how the different senses are intertwined.
+
+We know that perceptual experience in general is multimodal: information from a number of sense modalities is combined when you see or hear something. And given this deep multimodality of our perceptual system, what we should expect when it comes to the enjoyment of food and wine is that all the sense modalities can be involved in these experiences.
+
+\_\_\_
+
+"Why are we comparing ourselves to a perfectly rational being? Striving for perfect rationality is just as delusional as screening out all senses except for one from the multimodal perceptual array"
+
+\_\_\_
+
+But this goes beyond food perception. If there is a flash in your visual scene and you hear two beeps while the flash lasts, you experience it as two flashes. This is one of the few examples where seeing does not trump hearing. The two beeps we hear influence the processing of the one flash in our visual sense modality and, as a result, our visual experience is as of two flashes.
+
+If taste, smell, texture perception and thermal perception are combined, why would seeing and hearing be irrelevant? We are creatures with multimodal perception. That’s what we’re good at. Expecting us to be good at blocking all sense modalities but one would just set us up for failure.
+
+If falling short of perfect unimodal perception counts as stupidity then yes we are all stupid because we are all multimodal beings. But why should not having perfect unimodal perception count as stupidity? What matters is perception *per se* – multimodal perception. And we are remarkably good at that.
+
+Similarly, we are remarkably good at navigating our complex emotion-infused social environment. We are not very good at screening out all emotional and other biases. Does this make us stupid? In some sense, it does – it makes us less than perfectly rational beings.
+
+But why are we comparing ourselves to a perfectly rational being? Striving for perfect rationality is just as delusional as screening out all senses except for one from the multimodal perceptual array. Rational reasoning is just one of the many faculties that make up the human mind. And it is as intertwined with everything else that is going on in our mind as the different senses – vision, touch and taste – are intertwined with each other. Perfect rationality is as far away from our actual mental setup as unimodal perception.
+
+And just as it is only in very special circumstances when our taste perception is not influenced by all the other senses, it also happens very rarely and exceptionally that we can achieve perfect rationality. As scientists and academics, we should of course try and try hard. But one important step of trying is that instead of fighting the ‘we are all stupid’ paradigm, we should just make peace with, and learn to cherish, our stupidity.

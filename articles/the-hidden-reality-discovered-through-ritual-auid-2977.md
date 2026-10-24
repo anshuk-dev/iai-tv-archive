@@ -1,0 +1,81 @@
+---
+title: "The hidden reality discovered through ritual"
+subtitle: "Rituals in the age of atheism"
+author: "Michael L. Raposa"
+date: "22nd October 2024"
+article_id: "2977"
+channel: "Philosophy"
+themes: "Ethics & Religion"
+tags: "None"
+word_count: "2,184 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/ritual-in-the-secular-age.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-hidden-reality-discovered-through-ritual-auid-2977"
+---
+
+# The hidden reality discovered through ritual
+
+*Rituals in the age of atheism*
+
+**By Michael L. Raposa** | *22nd October 2024* | *Read time: approx. 11 mins* | *2,184 words*
+
+![The hidden reality discovered through ritual](https://iai.tv/assets/Uploads/_resampled/FillWyI4MDAiLCI1MDAiXQ/ritual-in-the-secular-age.webp)
+
+---
+
+*With the decline of organised religion, many in the modern world have become sceptical of the importance of rituals. Some have gone even further and argued that rituals are themselves harmful because of negative effects they produce. But might there be indispensable value in ritual? In this piece, Michael L. Raposa draws on the work of American pragmatist philosopher Charles S. Peirce to argue that rituals, religious and secular, are essential in modern life. Raposa argues that, paradoxically, it is through certain habits formed by ritualistic behaviour that we are able to escape our rigid modes of thinking and perceive realities which have previously gone unnoticed.*
+
+There is considerable ambivalence concerning how we ought best to evaluate human ritual behaviour. Negative assessments take many different forms; here I want to consider only two of them. Behaving ritualistically, it is sometimes suggested, undermines creativity and our capacity for experimentation. Ritual is also sometimes maligned for its ‘cosiness’; the false security provided by participation in certain rituals allows us temporarily to avoid exposure to life’s harsher realities. These evaluations underscore either the stifling *redundancy* that characterises ritual activity or its all-too-efficient functioning as a problematic source of comfort and protection.
+
+A good deal of human ritual behaviour can be accurately portrayed in this negative fashion. But my opening remark about ambivalence was intended to suggest that it might be possible to articulate a different and more positive perspective on the nature and purpose of ritual. Human rituals of all kinds, religious and secular, are cherished and defended at least as often as they are disdained. How should we think about this ambivalence?
+
+In a rather trivial sense, it might be pointed out that ritual, even as it has just been described, can be cast in a negative light *except* under certain specifiable circumstances. One might be exhausted after a dizzying and lengthy period of time consumed by experimentation – encountering and adapting to challenges of various kinds – so that the numbing effect of a retreat to ritual could be understood as providing much needed psychic rest. Similarly, the efficacy of ritual as a source of comfort might be (and very often is) given a positive appraisal. A frightened or agitated infant will best be comforted by the performance of rituals that are familiar and involve a high level of redundancy – a parent’s gentle movement back and forth in a rocking chair accompanied by the repetition of a lullaby. To consider an example drawn from the opposite end of life’s spectrum, we do not tend to judge harshly those funeral rituals that can ease the pain of losing someone beloved.
+
+This is not the sort of ambivalence that my opening remark was intended to signal. Against the useful background supplied by philosophical pragmatism, I think it is possible to develop a more sophisticated argument for the value of ritual. It is the pragmatism of the American philosopher Charles S. Peirce that I find most useful for this purpose. Central to this pragmatic point of view is the emphasis on human habits and the process of habit-formation.
+
+I should observe immediately that talk about the concept of ‘habit’ can display the same sort of ambivalence that attaches to evaluations of ritual. Habit-talk might manifest itself as good but also as bad news. Some habits represent virtues or skills, while others embody vices. Falling back on old habits can signal a failure to be imaginative or creative in various endeavours. Entrapped by firmly established habits of feeling and perception, one can become blind to certain realities even when directly exposed to them. (Think here about the sort of inattentional blindness that prevents someone from seeing the gorilla on the elevator.)
+
+\_\_\_
+
+The distinction between ritual behaviour that can be regarded as a meaningful practice, and other rituals yielding random and sometimes problematic habits, is the quality of attention that is displayed in each.
+
+\_\_\_
+
+This is not a surprising observation. The redundancy characteristic of much ritual behaviour can be easily linked to the process of habit formation. Some habits are formed quite rapidly, often as the result of a traumatic experience. Being badly burned by contact with fire can result immediately in a well-entrenched disposition to avoid future contact. But for the most part, habits are born in the wake of repetitive activities. Peirce was keen to distinguish between, on the one hand, behaviour that was not self-controlled and, on the other, deliberate conduct; only the latter can be conceived as a form of *practice,* purposefully designed to facilitate the formation of useful habits. No one learns how to speak German or play the piano after a single lesson. No one demonstrates virtuosity as a dancer the first time she steps out onto the dance floor. Redundancy is the lifeblood of those disciplined practices intended to transform the self in a manner deemed desirable for some specifiable reason.
+
+What is perhaps less obviously true but also effectively underscored by Peirce’s penetrating analysis is that the distinction between ritual behaviour that can be regarded as a meaningful practice, and other rituals yielding random and sometimes problematic habits, is the quality of *attention* that is displayed in each. Failure to pay attention to what one is doing when engaged in dance, music, or language lessons is not likely to result in the development of any valuable skill. There is a quality of mindfulness that distinguishes effective ritual behaviour from the sort that merits a negative evaluation. In his most extended published treatment of a religious topic, Peirce analysed the mindfulness displayed in a practice that he called ‘musement’*.* I want to suggest that musement is a cognitive and spiritual exercise that constitutes a kind of experiment; at the same time, it results in the heightened exposure of one who engages in the exercise to whatever presents itself in human experience.
+
+Peirce encouraged the muser to begin by taking a walk – ideally, at dawn or as evening is just beginning to fall. He portrayed musement as a type of walking meditation, although it is unclear whether this was a rigid criterion for successfully engaging in musement. Other features of the exercise he *did* insist should be judged as essential. Three of these seem especially significant for present purposes. In the first place, the muser should struggle to be fully ‘awake’ to whatever she encounters during the process of musing, either perceived as the external objects of sense perception or arising as thoughts and feelings internal to consciousness. Peirce carefully distanced musement from anything that could be classified as daydreaming. Second, there should be no specific purpose established in advance for this cognitive exercise; the muser must obey only the one ‘law of liberty’. This was Peirce’s strategy for ensuring that the practice would remain *playful,* not in the sense of a game with carefully prescribed rules, but as a form of what he called ‘pure play’, much more akin to activities that we often label as ‘improvisational’ (dance, music, acting, comedy, etc.). For Peirce, musement was to develop as a conversation with the universe that unfolds before the muser while taking a stroll; but it must be a conversation that is unscripted.
+
+Finally, and perhaps most importantly for understanding the value of ritual, musement should not be regarded as an activity one performs on occasion or in a random fashion. Although Peirce warned against extending it for too long a period of time, thus risking the transformation of play into all-too-serious labour, it needed to be a regular practice on his account – at the very least a daily exercise. This element of redundancy is one of the keys to establishing musement’s effectiveness, both as an experiment and as what I want to refer to as a form of exposure therapy.
+
+\_\_\_
+
+For Peirce, all beliefs are habits of thought.
+
+\_\_\_
+
+There is a paradox embodied in the practice of musement. On the one hand, its playful character requires that one hold all of one’s beliefs with a certain lightness of touch, in the way that a juggler touches objects without grasping them. This represents a potential distancing of oneself from those ritually established habits – for Peirce, all beliefs are *habits* of thought – that might typically shape consciousness and behaviour. At the same time, musement is itself a kind of ritual, relatively valueless if engaged in episodically, but powerfully transformative of the self when implemented consistently. Peirce emphasised the possibility of a religiously significant transformation, the developed capacity to perceive something vaguely personal in nature’s depths, a divine reality otherwise and often unnoticed (like the person masquerading as a gorilla on a crowded elevator). He did not argue for the inevitability of such an outcome. Instead, he invited his readers to perform the experiment for which his article had supplied the rubrics, to test their own results against what he was reporting. In order to see (as Peirce put it elsewhere) what already stares one in the face, it might be necessary to replace well-entrenched habits with newly developed ones; and that takes practice.
+
+\_\_\_
+
+For the American pragmatists, everyday human life is a laboratory and experimentation can take a great variety of forms.
+
+\_\_\_
+
+Consequently, any sharp contrast of the ritual with the experimental, as in my opening remarks, should be treated with some suspicion. Both involve a necessary element of redundancy. Indeed, well-performed experiments are themselves rituals of a certain kind, hardly stifling creativity, but often yielding new insights. To be sure, many experiments – especially of the sort conducted by natural scientists – will be guided by specific purposes and display a certain design that makes them appear quite different from musement. To the extent that they are intended to be performed repeatedly, however, they will retain their quality as rituals. No two experiments will be identical. Anyone who has spent considerable time in the laboratory knows that the skill needed to be successful there must be developed and sharpened in the process of experimentation itself. For the American pragmatists, everyday human life is a laboratory and experimentation can take a great variety of forms.
+
+Especially salient in distinguishing between good and bad rituals will be the way that attention is active and exercised in the process, and (as Peirce’s example of musement suggests) the way that our habits of attention are subsequently transformed. From a certain pragmatic point of view, the self just is a complex bundle of habits. Many of the religious rituals and spiritual exercises in which some individuals frequently engage, if performed with a certain quality of attention, can be portrayed as meaningful forms of inquiry, as self-experimentation.
+
+What about exposure? Blindness to what stares us in the face might also be good or bad news depending on the circumstances – or perhaps neither. My self, my life, may be relatively unaffected by my failure to register the nearby presence of a person in gorilla costume. But the evidence-based success of exposure, within contemporary psychotherapy, as a standard method for treating anxiety, trauma, and phobias of all kinds indicates that rituals designed to shield us from such feelings are potentially quite harmful. Peirce was less concerned with the psychological benefits of exposure than with its philosophical importance. Blindness to what is real, to what actually presents itself in human experience, available for our inspection and our analysis, cannot be a philosophically felicitous condition.  If it is a divine reality that we are speaking of, then the philosophical problem becomes one that is also religiously significant.
+
+\_\_\_
+
+The structure and potential effects of ritual are sufficiently complex that comfort and exposure ought not to be considered as mutually exclusive.
+
+\_\_\_
+
+I want to conclude these remarks by focusing on the psychology of ritual. The Buddhist mindfulness practices that have helped to shape contemporary cognitive behavioural therapies also resonate with musement. But the resemblance between Peirce’s and Buddhist philosophy is not my concern here. Rituals can provide comfort by enacting strategies of diversion, serving as a distraction from realities and feelings that would otherwise be unsettling. Yet, the structure and potential effects of ritual are sufficiently complex that comfort and exposure ought not to be considered as mutually exclusive. Exposure therapies, after all, are intended to produce some sort of calming or comforting effect, not by avoiding what makes us anxious but by mindfully confronting it.
+
+I have vivid childhood recollections of my maternal grandmother who lived with me in the house where I was raised, until she died when I was seven years old. At the first flash of lightning or sound of thunder, this devout Catholic woman would settle into her chair with beads in hand and commence to pray the rosary. Now, it surely might be the case that this was just a simple way of distracting herself from the anxiety associated with her fear of thunderstorms. Nevertheless, if her prayer was executed mindfully, displaying a certain quality of attention, then it might also have served as a form of exposure. Ritualistic prayer of this sort can help to remind someone of the utter *precarity* of our human condition, our rather dramatic *vulnerability.* Remembering my grandmother, I suspect that she had, through regular practice, developed the skill necessary to maximise the value of this ritual.

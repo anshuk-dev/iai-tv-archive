@@ -1,0 +1,88 @@
+---
+title: "James Webb images were made to look beautiful"
+subtitle: "What does beauty have to do with science?"
+author: "Milena Ivanova"
+date: "22nd August 2022"
+article_id: "2222"
+channel: "Science"
+themes: "The Universe & Reality"
+tags: "None"
+word_count: "1,248 words"
+read_time: "Read time: approx. 6 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Carina-Nebula-JWST.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/james-webb-images-were-made-to-look-beautiful-auid-2222"
+---
+
+# James Webb images were made to look beautiful
+
+*What does beauty have to do with science?*
+
+**By Milena Ivanova** | *22nd August 2022* | *Read time: approx. 6 mins* | *1,248 words*
+
+![James Webb images were made to look beautiful](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Carina-Nebula-JWST.webp)
+
+---
+
+*The recent images from the James Webb Telescope were deliberately made to look beautiful by NASA. The telescope itself can’t even detect visible light – the colours of the images were chosen by the astronomers. So was this just a cheap marketing trick on behalf of NASA? Milena Ivanova argues that science does indeed use beauty to trigger feelings of awe and wonder, but beauty can also act as a guide to scientific discovery.*
+
+Last month the whole world marvelled at the beauty of the newly released space images by NASA’s most powerful-to-date James Webb Space Telescope. This telescope is one of science’s most precise and complex instruments. With its help, scientists hope to learn more about the origins of the universe, how galaxies evolved, the composition and dynamics of atmospheres of exoplanets and more. The prospect of these discoveries prompted feelings of awe and wonder, but what was mainly celebrated was the beauty of the images, copies of which now decorate many desktops and walls.
+
+[![Cern2](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Cern2.webp)
+
+SUGGESTED READING
+The Beauty of Experiments Matters
+By Milena Ivanova](https://iai.tv/articles/the-beauty-of-experiments-matters-auid-2038)
+The beauty of these images was not accidental – it was the product of a conscious scientific decision.  Each of the images NASA released are a composite of many images collected over a period of time in the same region, built into one image. Crucially, since the telescope itself detects infrared, not visible, light, scientists added various features to the images. In particular, they added colour in order to represent the data they collected into something we can see. They also added the colours in ways that make the images look beautiful. Which raises the question: what does beauty have to do with science?
+
+\_\_\_
+
+Science is not some algorithmic practice that simply translates raw data into theories. Scientific processes often involve judgement and aesthetic sensibility...
+
+\_\_\_
+
+To produce a beautiful image like the Cosmic Cliffs, scientists had to make a number of judgements of aesthetic nature; they had to select colours to help them visualise data that is inaccessible to the human eye, and enhance the features of the objects and processes. As such, the colours in these images are a useful tool that enables us to study the obtained data, they are translations of different wavelength data into colours we can see. Similar enhancements have been part of data representations produced previously by other telescopes and are a regular part of the process of scientific representation more generally.
+
+But this enhancement of the images reveals something fundamental about scientific practice that goes against how many people think of it. Science is not some algorithmic practice that simply translates raw data into theories. Scientific processes often involve judgement and aesthetic sensibility in preparing and interpreting the data that will eventually become evidence in support or against certain hypotheses.
+
+\_\_\_
+
+As the French polymath Henri Poincaré argued, in science, care for the useful leads to care for the beautiful.
+
+\_\_\_
+
+The involvement of aesthetic judgement in the preparation of scientific images, and other scientific products such as [experiments](https://link.springer.com/article/10.1007/s10670-021-00509-3), is certainly not unique to astronomy and not only a feature of modern science. Scientists as far ago as Leonardo da Vinci and Robert Hooke used aesthetic features in their depictions and used beauty to enhance the features of their subject matter. Hooke’s famous illustration of the flea, in his work *Micrographia* (1665) shows us that the aim was not simply for the image to depict the specimen but to draw attention to its aesthetic features, thus delivering not only understanding of the object but also provoking feelings of awe and beauty when engaging with it. Aesthetic judgements are integral to many scientific fields, from astronomy to biology, and medicine to chemistry and palaeontology.
+
+![micrographia Hooke](assets/Uploads/micrographia-Hooke.jpg)
+
+*Hooke’s famous illustration of the flea, in his work Micrographia (1665)*
+
+When scientists make aesthetic judgements in their scientific work, these judgements are often the product of an assumption: that nature is beautiful and exhibits aesthetic features. Hooke certainly held this belief and saw his goal as a scientist to uncover nature’s beauty through the scientific process. This assumption leads scientists to want to showcase nature’s beauty through scientific products such as images and models. These judgements, however, can also reflect another belief, that beauty leads us to the production of more useful scientific products. For instance, preference for an elegant and beautiful experimental design and set up is often continuous with the desire to minimize sources of error. As the French polymath Henri Poincaré [argued](https://link.springer.com/article/10.1007/s11229-016-1069-1), in science, care for the useful leads to care for the beautiful. Poincaré’s important insight was that our understanding is conditioned to search for symmetry, elegance and simplicity in nature and our aesthetic sensibility can guide us in unpacking nature’s secrets.
+
+[![related-video-image](https://iai.tv/assets/Uploads/tony-webster-97532-unsplash.webp)
+
+SUGGESTED VIEWING
+Truth and beauty
+With Roger Penrose, Markus Gabriel, Sabine Hossenfelder, David Malone](https://iai.tv/video/truth-and-beauty)
+
+The aesthetic sensibility of scientists is at play in everyday practices, as has recently been highlighted by Caitlin Wylie, who in her book [*Preparing Dinosaurs*](https://mitpress.mit.edu/9780262542678/) discusses the complex process behind fossil reconstruction and how those who reconstruct them need to use their aesthetic judgement and artistic skill. While the astronomers at NASA used colour to create beautiful images, other scientists might use other aesthetic judgements, such as preserving the symmetry of the fossil, enhancing and highlighting certain patterns over others, etc.
+
+While aesthetic judgement seems to be involved in many aspects of scientific practice, why did the scientists at NASA need to produce such beautiful images for us to look at? Was it just a way to attract attention to the outputs of this research initiative? Or to encourage people to place more value on the kind of activities pursued by NASA? Or was it something further; perhaps a desire to share an important moment in scientific discovery and show how science can uncover nature’s beauty?
+
+\_\_\_
+
+The beauty of these images invites engagement with the subject matter itself, and this engagement will lead many of us to ask questions and try to find out what these images represent.
+
+\_\_\_
+
+We usually think of aesthetic experiences as belonging to our interactions with explicitly artistic products such as paintings, sculptures, literature and music. Alternatively, nature itself can be the source of aesthetic experiences, when, for example, we are appreciating the beauty of a landscape, a sunset or the intricate structures of hexagonal honeycombs. But science can be a source of great beauty too. Even without much understanding of what the James Webb images represent, we are in awe of their beauty.
+
+But there is more to value in these experiences beyond appreciation of the immediate visual beauty of the image. The beauty of these images invites engagement with the subject matter itself, and this engagement will lead many of us to ask questions and try to find out what these images represent. Scientists are excited to share these images with the public because they want people outside of science to experience the beauty we encounter through scientific discovery. As such, the visual beauty of the images is an invitation to engage and discover a deeper more significant beauty science is a source of, that of the process of discovery.
+
+[![Jon Butterworth](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Jon-Butterworth.webp)
+
+SUGGESTED READING
+Beauty is Truth?
+By Jon Butterworth](https://iai.tv/articles/beauty-is-truth-auid-484)
+
+Just like natural philosophers in the days of the Royal Society used to open the doors to the public and invite them to see experiments with the newly invented air pump, showcasing the new phenomena that could be revealed though this new instrument, today scientists at NASA are sharing their findings because they want to engage and fascinate the public and show how science can be a source of many different experiences, from gaining understanding to finding beauty and awe in the scientific products. And beauty, as it turns out, is the best way to communicate science and its discoveries.

@@ -1,0 +1,49 @@
+---
+title: "The Death of Sisterhood"
+subtitle: "On the growing divisions between working women."
+author: "Alison Wolf"
+date: "Issue 28, 24th February 2015"
+article_id: "505"
+channel: "None"
+themes: "None"
+tags: "None"
+word_count: "1,075 words"
+read_time: "Read time: approx. 5 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Alison-Wolf-III.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/the-death-of-sisterhood-auid-505"
+---
+
+# The Death of Sisterhood
+
+*On the growing divisions between working women.*
+
+**By Alison Wolf** | *Issue 28, 24th February 2015* | *Read time: approx. 5 mins* | *1,075 words*
+
+![The Death of Sisterhood](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/Alison-Wolf-III.webp)
+
+---
+
+Modern feminists are obsessed by the interests of their own kind. Most leading feminist columnists are still getting worked up about the so-called pay gap. But this simply should not be an issue when there are so many other, more pressing problems, such women and domestic violence. Where was feminism on female genital mutilation? For years the headline feminists were just utterly uninterested in it. There was a complete lack of interest in girls in care homes too. We’ve known for years that these awful events were taking place, and did the feminist movement pick up on it? No. It was *The Times* that hung on in there, male journalists at *The Times* who uncovered that story. Where was the Fawcett Society when that broke?
+
+Today’s feminists need to realise that it makes less and less sense to talk about women as if they were a single group or indeed, as if they were a group that have the same interests and priorities. That used to be the case when all women’s lives were determined by whether or not they got married and whether they had children. Now there is increasing difference between highly educated women who are, in most respects, more like men, and other women who are still much closer to that traditional pattern. The world is dominated by an elite which remains largely male: just because some women have succeeded in this world, doesn’t change life for those at the lower end of society.
+
+Feminism really was one of the last great democratic revolutions. Feminism was based on the idea that you should be treated as an individual, that you shouldn’t be treated in a particular way because you are a woman, because you are gay, because you are white, or conversely you shouldn’t be treated in a particular way because you couldn’t walk. These ideas are tied up with democratic values, with the idea of ‘one person, one vote’.
+
+A tension has emerged, however, between this idea that people should make their own way – be judged as individuals, be taxed as individuals – and the idea that individualism is the best way to run an economy. What this means is that values based around self-interest have been great for the top 10-15% of women, the alpha-females, but not for everybody else.
+
+The alpha female was born in the late 1970s. It was the point at which the job market began to open up, and at which there was a huge increase in higher education, moving towards the current situation where a majority of university students are female. It was also the point at which everything to do with the sexual and reproductive revolutions had settled in and become normal. So you suddenly move towards a world in which middle class parents are putting just as much effort into their daughter’s education as their son’s.
+
+But this was also the point at which the highly educated start having completely different education patterns, different marriage patterns, sexual experience patterns. Everything starts to be different for the elite. That is where the significant pay gap lies – not between genders but between the elites and everybody else. The pay gap that so many feminist columnists get worked up about is no longer an important issue. The pay gap exists because a large number of women in this country have interrupted careers, and work part-time for family reasons. But the reality is that for people who are under 45 who have the same qualifications, the same occupations, and are putting in the same hours over the same amount of time, there is nothing in the labour market to suggest that there is any remaining discrimination in and of itself.
+
+Of all the issues facing feminism today, the fact that a proportion of incredibly successful well-paid women reduce their hours and take a temporary check to their career when they’re going to work until they’re 70 anyway, does not seem significant. Compare that with the genuinely tough life of men and women in the other 85%, and particularly the bottom 50%: this should not be the major feminist campaign of our time.
+
+There are two things we should be focusing on: 1, improved further education and training for those who are not from advantaged families; and 2, targeting childcare subsidies and the way they are organised so that they really help those who are struggling with shift work and unsocial hours, rather than relatively well-off mothers.
+
+There is a cliché which says that every silver lining has a cloud. More and more doctors are women today, but the fact that a profession is dominated by women doesn’t mean it’s dominated by the most intelligent, most educated, most driven and energetic women. Teaching, for example, is just as female as it ever was. But today’s teachers are not the top academic people in the way that they were for 150 years.
+
+From the industrial revolution to the 1950s, there was an incredible growth in the voluntary sector. During that period, if you were a highly educated young woman, the only job you could do was to be a teacher. It wasn’t that women never worked, but when they married they stopped working. If you worked when you were married it meant that you were either incredibly unusual or very poor. A lot of these women were incredibly capable, and they poured all their energy into the local community through voluntary activities and teaching. If you look at the lives of, for example, those who attended women’s colleges, in the UK, US or France, and who were active as adults between 1880 and 1960, it’s overwhelming how much they did for their local communities and for voluntary associations. They did so without being paid. Are our current charities – which are basically contracted to the state – altogether an improvement? Nothing is ever 100% an improvement. You always lose things along the way.
+
+It is truly wonderful that people now have opportunities which our grandmothers didn’t have. It means that half the talent of the world is being used in a way that it wasn’t. But those of us who are in the top 15% should look back at the social consciences of women who were relatively well-off and had far less opportunity 50 or 100 years ago. How much you earn in a private company is not the only indicator of a live well lived.
+
+**Image credit: [State Library of Victoria collections](https://www.flickr.com/photos/statelibraryofvictoria_collections/12822880495)**
