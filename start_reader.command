@@ -1,26 +1,12 @@
 #!/bin/bash
-# ==========================================
-# 1-Click Private IAI.tv Reader Launcher
-# ==========================================
+set -e
 cd "$(dirname "$0")"
-
-PORT=8080
-echo "================================================="
-echo "  Starting Private IAI.tv Archive & Reader"
-echo "  Accessible at: http://localhost:$PORT"
-echo "================================================="
-
-# Start background web server
-python3 -m http.server $PORT &
-SERVER_PID=$!
-
-# Wait for server to bind
-sleep 1
-
-# Open in default browser
-open "http://localhost:$PORT"
-
-echo "Server is running (PID: $SERVER_PID)."
-echo "Press [Ctrl + C] in this window to stop the server."
-
-wait $SERVER_PID
+python3 scripts/build_reader.py
+READER_PORT=8080
+python3 -m http.server "$READER_PORT" --bind 127.0.0.1 --directory dist &
+READER_SERVER_PID=$!
+trap 'kill "$READER_SERVER_PID" 2>/dev/null || true' EXIT INT TERM
+open "http://127.0.0.1:$READER_PORT"
+echo "Private reader: http://127.0.0.1:$READER_PORT"
+echo "Press Ctrl+C to stop."
+wait "$READER_SERVER_PID"

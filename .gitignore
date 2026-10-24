@@ -33,3 +33,7 @@ Thumbs.db
 # Scraper temporary
 failed_urls.txt
 test_article.html
+
+# Owner-private Sites checkout and deployment artifacts
+/sites/
+/artifacts/
