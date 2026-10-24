@@ -41,7 +41,7 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected, committing and pushing..."
-            git add articles/ CATALOG.md articles_index.json README.md
+            git add articles/ new_articles/ CATALOG.md articles_index.json baseline_ids.json README.md
             git commit -m "Auto-update: sync latest IAI.tv articles [skip ci]"
             git push
           else

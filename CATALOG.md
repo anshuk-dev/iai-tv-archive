@@ -1,6 +1,9 @@
 # IAI.tv Articles Catalog
 
 Total downloaded posts: **2180**
+Newly published articles: **0** in [`new_articles/`](./new_articles)
+
+## 📚 Complete Archive
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|

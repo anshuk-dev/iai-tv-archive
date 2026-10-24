@@ -16,9 +16,12 @@ A complete unpaywalled archive and continuous auto-updating mirror of **[IAI.tv]
 You can read all articles directly in your browser with full HTML formatting, search, and dark mode at:
 👉 **[https://anshuk-dev.github.io/iai-tv-archive/](https://anshuk-dev.github.io/iai-tv-archive/)**
 
-- **Instant Search:** Search across 2,180 articles by title, author, keyword, or ID.
-- **Theme Filtering:** Filter by Philosophy, Science, Art & Culture, Politics, etc.
-- **Reader Mode:** Clean typography, font size controls, dark/light theme, and direct sharing URLs (`#article=<slug>`).
+- **Instant Search & Quick Pills:** Search across 2,180 articles by title, author, keyword, or ID, plus quick filter pills.
+- **Theme Controls:** ☀️ Light, 📜 Warm Sepia (paper/Kindle mode), and 🌙 Dark Mode.
+- **Typography Toolbar:** Switch between 📖 Serif (Book), 🔤 Sans-Serif (Modern), or 💻 Monospace; adjust font size (90%-160%), line height, and reading width.
+- **Reading Progress Bar:** Live progress bar tracking your scroll reading position.
+- **Direct Shareable Links:** `#article=<slug>` allows bookmarking or sharing any article directly.
+- **🆕 New Articles Folder:** Any newly published article is automatically saved into [`new_articles/`](./new_articles) and labeled with a `[NEW]` badge.
 
 ---
 

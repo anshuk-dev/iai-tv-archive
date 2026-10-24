@@ -5,6 +5,8 @@ IAI.tv Article Scraper & Markdown Archiver
 Uses the Bypass Paywalls Clean (BPC) method to extract complete unpaywalled
 article content from IAI.tv via meta tag inspection and content fallback,
 converting all articles into cleanly structured Markdown files with frontmatter.
+
+Auto-detects newly released articles beyond baseline and saves them in new_articles/.
 """
 
 import os
@@ -34,6 +36,8 @@ logger = logging.getLogger("iai_scraper")
 
 SITEMAP_URL = "https://iai.tv/ArticlePage_Controller/articleSitemap.xml"
 DEFAULT_OUTPUT_DIR = Path("./articles")
+NEW_ARTICLES_DIR = Path("./new_articles")
+BASELINE_IDS_PATH = Path("./baseline_ids.json")
 INDEX_JSON_PATH = Path("./articles_index.json")
 INDEX_MD_PATH = Path("./CATALOG.md")
 FAILED_URLS_PATH = Path("./failed_urls.txt")
@@ -48,6 +52,15 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
     "Referer": "https://iai.tv/articles",
 }
+
+# Load baseline IDs
+BASELINE_IDS = set()
+if BASELINE_IDS_PATH.exists():
+    try:
+        BASELINE_IDS = set(json.loads(BASELINE_IDS_PATH.read_text(encoding="utf-8")))
+        logger.info(f"Loaded {len(BASELINE_IDS)} baseline article IDs.")
+    except Exception as e:
+        logger.warning(f"Could not load baseline IDs: {e}")
 
 
 def create_session(pool_size: int = 25) -> requests.Session:
@@ -79,7 +92,6 @@ def get_all_article_urls(session: requests.Session) -> list[str]:
     namespace = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     all_locs = [elem.text.strip() for elem in root.findall(".//ns:loc", namespace) if elem.text]
 
-    # Filter out categories and generic URLs, keep -auid- articles
     article_urls = [
         u for u in all_locs
         if "-auid-" in u and "/articles/" in u
@@ -102,7 +114,6 @@ def parse_article_html(html: str, url: str) -> dict | None:
     """
     soup = BeautifulSoup(html, "html.parser")
 
-    # Title
     title = ""
     h1 = soup.find("h1", class_="iai-article--heading")
     if h1 and h1.get_text(strip=True):
@@ -119,13 +130,11 @@ def parse_article_html(html: str, url: str) -> dict | None:
         slug = url.rstrip("/").split("/")[-1]
         title = slug.replace("-", " ").title()
 
-    # Subheading
     subheading = ""
     h2_sub = soup.find("h2", class_="iai-article--subheading")
     if h2_sub:
         subheading = h2_sub.get_text(strip=True)
 
-    # Author
     author = ""
     h2_author = soup.find("h2", class_="iai-article--author")
     if h2_author and h2_author.get_text(strip=True):
@@ -133,13 +142,11 @@ def parse_article_html(html: str, url: str) -> dict | None:
     elif soup.find("strong", class_="iai-article--author"):
         author = soup.find("strong", class_="iai-article--author").get_text(strip=True)
 
-    # Date
     date = ""
     date_div = soup.find("div", class_="iai-article--date")
     if date_div:
         date = date_div.get_text(strip=True)
 
-    # Word count and read time
     word_count = ""
     wc_el = soup.find("div", class_="iai-article--word-count")
     if wc_el:
@@ -150,7 +157,6 @@ def parse_article_html(html: str, url: str) -> dict | None:
     if rt_el:
         read_time = rt_el.get_text(strip=True)
 
-    # dataLayer direct extraction
     channel = ""
     themes = ""
     tags = ""
@@ -172,7 +178,6 @@ def parse_article_html(html: str, url: str) -> dict | None:
     if not date and date_dl:
         date = date_dl
 
-    # Header image
     header_image = ""
     og_img = soup.find("meta", property="og:image")
     if og_img and og_img.get("content"):
@@ -184,7 +189,6 @@ def parse_article_html(html: str, url: str) -> dict | None:
     meta_tw = soup.find("meta", attrs={"name": "twitter:description"})
     tw_content = meta_tw.get("content", "").strip() if meta_tw else ""
 
-    # Alternative body extraction
     body_div = (
         soup.find(class_="article-post-content--full")
         or soup.find(class_="iai-article--content-inner")
@@ -197,7 +201,6 @@ def parse_article_html(html: str, url: str) -> dict | None:
     else:
         body_html = ""
 
-    # Choose the most complete content source (BPC twitter:description vs page body)
     if len(tw_content) >= len(body_html):
         unpaywall_source = "BPC twitter:description meta"
         content_html = tw_content
@@ -209,10 +212,8 @@ def parse_article_html(html: str, url: str) -> dict | None:
         content_html = tw_content or ""
 
     if not content_html or not content_html.strip():
-        # Fallback if page is an empty placeholder or editorial stub
         markdown_content = "*[No body content available on IAI.tv for this article (editorial placeholder stub)]*"
     else:
-        # Convert HTML to clean Markdown
         markdown_content = md(
             content_html,
             heading_style="ATX",
@@ -222,11 +223,8 @@ def parse_article_html(html: str, url: str) -> dict | None:
     if not markdown_content:
         markdown_content = "*[No body content available on IAI.tv for this article (editorial placeholder stub)]*"
 
-    # Convert relative links and images to absolute URLs
     markdown_content = re.sub(r"\]\((/(?:assets|articles|video)[^\)]*)\)", r"](https://iai.tv\1)", markdown_content)
     markdown_content = re.sub(r"\]\(((?:video|articles)/[^\)]*)\)", r"](https://iai.tv/\1)", markdown_content)
-
-    # Clean redundant blank lines (more than 2 consecutive newlines)
     markdown_content = re.sub(r"\n{3,}", "\n\n", markdown_content)
 
     slug = url.rstrip("/").split("/")[-1]
@@ -253,7 +251,7 @@ def parse_article_html(html: str, url: str) -> dict | None:
     }
 
 
-def format_markdown_file(meta: dict) -> str:
+def format_markdown_file(meta: dict, is_new: bool = False) -> str:
     """Assemble frontmatter and body into Markdown string."""
     title_escaped = meta["title"].replace('"', '\\"')
     sub_escaped = meta["subheading"].replace('"', '\\"')
@@ -269,6 +267,7 @@ def format_markdown_file(meta: dict) -> str:
         f'channel: "{meta["channel"]}"',
         f'themes: "{meta["themes"]}"',
         f'tags: "{meta["tags"]}"',
+        f'is_new: {str(is_new).lower()}',
         f'word_count: "{meta["word_count"]}"',
         f'read_time: "{meta["read_time"]}"',
         f'header_image: "{meta["header_image"]}"',
@@ -293,6 +292,8 @@ def format_markdown_file(meta: dict) -> str:
         meta_parts.append(f'*{meta["read_time"]}*')
     if meta["word_count"]:
         meta_parts.append(f'*{meta["word_count"]}*')
+    if is_new:
+        meta_parts.append('**[NEW ARTICLE]**')
 
     if meta_parts:
         lines.append(" | ".join(meta_parts))
@@ -315,9 +316,13 @@ def process_url(url: str, session: requests.Session, output_dir: Path) -> dict:
     safe_slug = sanitize_filename(slug)
     file_path = output_dir / f"{safe_slug}.md"
 
+    auid_match = re.search(r"-auid-(\d+)", slug)
+    article_id = auid_match.group(1) if auid_match else ""
+    is_new = bool(BASELINE_IDS and article_id and article_id not in BASELINE_IDS)
+
     # Skip if file already exists and is non-empty
     if file_path.exists() and file_path.stat().st_size > 100:
-        return {"status": "skipped", "url": url, "path": str(file_path), "slug": slug}
+        return {"status": "skipped", "url": url, "path": str(file_path), "slug": slug, "is_new": is_new}
 
     try:
         resp = session.get(url, timeout=25)
@@ -328,8 +333,15 @@ def process_url(url: str, session: requests.Session, output_dir: Path) -> dict:
         if not article_data or not article_data["markdown_body"]:
             return {"status": "error", "url": url, "error": "No article content extracted"}
 
-        full_md = format_markdown_file(article_data)
+        full_md = format_markdown_file(article_data, is_new=is_new)
         file_path.write_text(full_md, encoding="utf-8")
+
+        # Save to new_articles/ folder if this is a newly published article
+        if is_new:
+            NEW_ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
+            new_file_path = NEW_ARTICLES_DIR / f"{safe_slug}.md"
+            new_file_path.write_text(full_md, encoding="utf-8")
+            logger.info(f"✨ NEW ARTICLE saved to {new_file_path}")
 
         return {
             "status": "success",
@@ -341,6 +353,7 @@ def process_url(url: str, session: requests.Session, output_dir: Path) -> dict:
             "author": article_data["author"],
             "date": article_data["date"],
             "themes": article_data["themes"],
+            "is_new": is_new,
             "word_count": article_data["word_count"],
             "unpaywall_method": article_data["unpaywall_method"],
             "content_length": article_data["content_length"]
@@ -350,7 +363,7 @@ def process_url(url: str, session: requests.Session, output_dir: Path) -> dict:
 
 
 def generate_catalog_files(successful_entries: list[dict], output_dir: Path):
-    """Write articles_index.json and CATALOG.md"""
+    """Write articles_index.json and CATALOG.md, highlighting new articles."""
     try:
         sorted_entries = sorted(
             successful_entries,
@@ -360,16 +373,41 @@ def generate_catalog_files(successful_entries: list[dict], output_dir: Path):
     except Exception:
         sorted_entries = successful_entries
 
+    new_articles = [e for e in sorted_entries if e.get("is_new")]
+
     INDEX_JSON_PATH.write_text(json.dumps(sorted_entries, indent=2, ensure_ascii=False), encoding="utf-8")
 
     md_lines = [
         "# IAI.tv Articles Catalog",
         "",
         f"Total downloaded posts: **{len(sorted_entries)}**",
+        f"Newly published articles: **{len(new_articles)}** in [`new_articles/`](./new_articles)",
+        ""
+    ]
+
+    if new_articles:
+        md_lines.extend([
+            "## 🆕 Newly Published Articles",
+            "",
+            "| ID | Title | Author | Date | Folder |",
+            "|:---|:---|:---|:---|:---|"
+        ])
+        for item in new_articles:
+            title = item.get("title", "").replace("|", "-")
+            author = item.get("author", "").replace("|", "-")
+            date = item.get("date", "").replace("|", "-")
+            slug = item.get("slug", "")
+            item_id = item.get("id", "")
+            link = f"[{slug}.md](./new_articles/{slug}.md)"
+            md_lines.append(f"| {item_id} | **{title}** | {author} | {date} | {link} |")
+        md_lines.append("")
+
+    md_lines.extend([
+        "## 📚 Complete Archive",
         "",
         "| ID | Title | Author | Date | Themes | File |",
         "|:---|:---|:---|:---|:---|:---|"
-    ]
+    ])
 
     for item in sorted_entries:
         title = item.get("title", "").replace("|", "-")
@@ -378,8 +416,9 @@ def generate_catalog_files(successful_entries: list[dict], output_dir: Path):
         themes = item.get("themes", "").replace("|", "-")
         item_id = item.get("id", "")
         slug = item.get("slug", "")
+        is_new_badge = " 🆕" if item.get("is_new") else ""
         file_link = f"[{slug}.md](./articles/{slug}.md)"
-        md_lines.append(f"| {item_id} | {title} | {author} | {date} | {themes} | {file_link} |")
+        md_lines.append(f"| {item_id} | {title}{is_new_badge} | {author} | {date} | {themes} | {file_link} |")
 
     INDEX_MD_PATH.write_text("\n".join(md_lines), encoding="utf-8")
     logger.info(f"Generated catalog with {len(sorted_entries)} entries at {INDEX_MD_PATH} and {INDEX_JSON_PATH}")
@@ -394,6 +433,7 @@ def main():
 
     output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
+    NEW_ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
 
     session = create_session(pool_size=args.workers + 5)
     urls = get_all_article_urls(session)
@@ -448,15 +488,20 @@ def main():
             id_m = re.search(r'^article_id:\s*"(.*)"$', content, re.MULTILINE)
             themes_m = re.search(r'^themes:\s*"(.*)"$', content, re.MULTILINE)
             method_m = re.search(r'^unpaywall_method:\s*"(.*)"$', content, re.MULTILINE)
+            is_new_m = re.search(r'^is_new:\s*(true|false)$', content, re.MULTILINE | re.IGNORECASE)
 
             slug = md_file.stem
+            art_id = id_m.group(1) if id_m else ""
+            is_new = (is_new_m.group(1).lower() == "true") if is_new_m else (bool(BASELINE_IDS and art_id and art_id not in BASELINE_IDS))
+
             all_articles.append({
-                "id": id_m.group(1) if id_m else "",
+                "id": art_id,
                 "slug": slug,
                 "title": title_m.group(1) if title_m else slug,
                 "author": author_m.group(1) if author_m else "",
                 "date": date_m.group(1) if date_m else "",
                 "themes": themes_m.group(1) if themes_m else "",
+                "is_new": is_new,
                 "unpaywall_method": method_m.group(1) if method_m else "",
                 "file_path": str(md_file.relative_to(output_dir.parent))
             })
@@ -467,13 +512,14 @@ def main():
 
     print("\n" + "=" * 60)
     print("Scraping Summary:")
-    print(f"  Total URLs targeted:  {len(urls)}")
-    print(f"  Newly downloaded:     {success_count}")
-    print(f"  Previously cached:    {skipped_count}")
-    print(f"  Failed:               {error_count}")
+    print(f"  Total URLs targeted:    {len(urls)}")
+    print(f"  Newly downloaded:       {success_count}")
+    print(f"  Previously cached:      {skipped_count}")
+    print(f"  Failed:                 {error_count}")
     print(f"  Total files in catalog: {len(all_articles)}")
-    print(f"  Articles directory:   {output_dir.resolve()}")
-    print(f"  Catalog index:        {INDEX_MD_PATH.resolve()}")
+    print(f"  Articles directory:     {output_dir.resolve()}")
+    print(f"  New articles directory: {NEW_ARTICLES_DIR.resolve()}")
+    print(f"  Catalog index:          {INDEX_MD_PATH.resolve()}")
     print("=" * 60 + "\n")
 
 
