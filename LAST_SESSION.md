@@ -1,9 +1,27 @@
-# IAI private reader — completed 2026-10-24
-- User replaced unrelated previous-session work with this project; faithful IAI editorial layout plus ChatGPT-accessible private hosting requested.
-- LIVE https://iai-private-reading-room.savoryrain2.chatgpt.site
-- Site appgprj_6adc60e234dc8191861a70fe4cff3ac2; owner-private confirmed: custom, 1 owner, 0 groups/external visitors. Native save_version_and_deploy_private SUCCEEDED.
-- Source commit dac2c69ccd4eb765c3046a99a5c84bce2a40b0da; version appgprj_6adc60e234dc8191861a70fe4cff3ac2~appgver_0aa30f05ea188191837e311119b33600; deployment appgdep_6adc629416dc819195babc72086ec4a3 succeeded 2026-10-24T07:48:10UTC.
-- Root index.html/css/reader.css/reader.js implemented; scripts/build_reader.py emits dist/2180articleJSONs+catalog. Original Markdown/articles_index unchanged. Actual reference hero/caption/bio used. White/Arial/red flat UI, specified mobile typography/spacing; reusable components. Home/search/categories/sort/pagination/direct-links/share/cite/reading preferences functional. README/READER_DEPLOYMENT/PRODUCT/DESIGN and launcher/requirements updated.
-- QA: no overflow at320/393/1600; desktop1280 visually checked. Mobile header34/nav40/gutter16/title22/subtitle18/caption16/intro20+31/body19+28.5/gap70; desktop column740 includingpadding. Search(author/empty), pagination, Science529, citation and text-scale/reset passed. All2180files validated; one source504 placeholder-only, most artworkCDN; no supplied screenshot attachments/pixel-diff claim.
-- Hosting checkout sites/iai-private/.openai/hosting.json; reuse exactID for changes. Package artifacts/iai-private-site.tar.gz contains no QA harness. Source helper owns remote push; separateGitHub not pushed. Credentials session-memory only, renew when needed. Reader CDN images external except reference local.
-- Final verified: live owner-authenticated IAB opens article; anonymous root/catalog/articleJSON each HTTP401. Published screenshot artifacts/published-reader.png; responsive screenshot artifacts/responsive-preview.png. Temporary preview server stopped during handoff. No remaining deployment work.
+# IAI Archive & Cloud Downloader Status
+
+## Completed
+1. **Video Catalog & Indexing (2,050 Videos):**
+   - Extracted all 2,050 high-definition debate and talk records from `https://iai.tv/VideoController/videoSitemap.xml`.
+   - 2,019 have direct `.mp4` URLs on IAI's CDN.
+   - Total watch time: ~1,209 hours (~50.4 days of non-stop video).
+   - Saved machine-readable index: `iai_videos.json`.
+   - Saved human-readable catalog: `VIDEOS_CATALOG.md`.
+
+2. **Google Colab Cloud-to-Cloud Transfer (`IAI_Cloud_Downloader.ipynb`):**
+   - 100% cloud-to-cloud transfer from IAI CDN directly to user's 5 TB Google Drive (`/content/drive/MyDrive/IAI_Videos`).
+   - Zero local disk space consumed on user's Mac.
+   - Zero home Wi-Fi data consumed.
+   - Downloads on Google Cloud backbone at 50–100 MB/s.
+   - Safeguard for Google Drive 750 GB / 24-hour upload quota: downloads in daily batches of ~450 videos, archiving all 2,050 videos in ~4 days.
+   - Smart resumption: skips already completed downloads.
+
+3. **Web Reader Enhancement (`index.html`, `reader.js`, `css/reader.css`):**
+   - Added **Debates & Videos** navigation tab.
+   - Full search & filter by title, speaker, topic, duration, and date.
+   - Integrated HTML5 video player modal with dark cinema UI, speed controls, direct play, and download link.
+
+4. **Articles Archive:**
+   - 2,180 unpaywalled articles saved in `articles/` as Markdown.
+   - Scheduled automatic incremental updater in `.github/workflows/update-articles.yml`.
+   - Private GitHub repository: `anshuk-dev/iai-tv-archive`.

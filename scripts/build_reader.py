@@ -43,6 +43,8 @@ for entry in json.loads((ROOT/'articles_index.json').read_text()):
  (DATA/f'{slug}.json').write_text(json.dumps(item,ensure_ascii=False,separators=(',',':')))
  catalog.append({k:item[k] for k in ['slug','title','subtitle','author','publicationDate','heroImage','channel','themes'] }|{'id':entry['id'],'isNew':entry.get('is_new',False)})
 (DATA/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,separators=(',',':')))
+if (ROOT/'iai_videos.json').exists():
+ shutil.copy2(ROOT/'iai_videos.json', DATA/'videos_index.json')
 for name in ['index.html','reader.js'] : shutil.copy2(ROOT/name,OUT/name)
 (OUT/'css').mkdir(exist_ok=True);shutil.copy2(ROOT/'css/reader.css',OUT/'css/reader.css')
 shutil.copytree(ROOT/'images',OUT/'images',dirs_exist_ok=True)
