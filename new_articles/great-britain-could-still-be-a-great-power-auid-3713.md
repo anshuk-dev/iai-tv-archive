@@ -1,0 +1,76 @@
+---
+title: "Great Britain could still be a great power"
+subtitle: "As America pulls back, Britain's moment has arrived"
+author: "Brendan Simms"
+date: "27th October 2026"
+article_id: "3713"
+channel: "None"
+themes: "None"
+tags: "None"
+is_new: true
+word_count: "1,962 words"
+read_time: "Read time: approx. 10 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/great-britain-could-still-be-a-great-power.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/great-britain-could-still-be-a-great-power-auid-3713"
+---
+
+# Great Britain could still be a great power
+
+*As America pulls back, Britain's moment has arrived*
+
+**By Brendan Simms** | *27th October 2026* | *Read time: approx. 10 mins* | *1,962 words* | **[NEW ARTICLE]**
+
+![Great Britain could still be a great power](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/great-britain-could-still-be-a-great-power.webp)
+
+---
+
+*Most treat Britain as a middle power in decline. But Cambridge University's **Brendan Simms** and geopolitical adviser **Hugh Simms** argue Britain acts much more like a superpower than we might expect. Britain is one of the forces* shaping *international security rather than simply reacting to it. By leaning into its leadership in security and intelligence, science and technology and its services economy, Britain can be great again.*
+
+At the end of the Cold War, many believed that great power politics had come to an end. That “holiday from history” was rudely interrupted by Putin’s invasion of Georgia and subsequent annexation of Crimea, as well as China’s growing assertiveness on the world stage. Britain, with its military bogged down in the Middle East, its supply chains tied to China, and its security largely outsourced to the United States, was caught napping.
+
+That Britain has experienced relative decline since the early twentieth century is not in doubt. But the [fall from hegemony](https://iai.tv/video/new-powers-and-fading-forces) has, over the decades, been accompanied by a historical tendency to view every setback as evidence of irreversible decline. To be sure, Britain has recently experienced significant problems such as the political paralysis of the Brexit years and its current economic travails. This has led much of the commentariat today to speak of Britain as a “middle power,” like Canada or Turkey. However, Britain continues to shape the international order much more than the current discourse might suggest.
+
+The paradox is that a more dangerous world exposes British weaknesses while simultaneously increasing the value of the United Kingdom’s remaining very significant capabilities. Britain’s relative economic decline can coexist with an ability to shape the international order if it builds on its distinctive strengths and addresses its fundamental weaknesses. Most importantly, Britain should ultimately want to be a great power, despite the burdens of that role. Otherwise it will be among the ordered, rather than one of the orderers, with all that would imply for the country’s security and prosperity.
+
+**What makes a great power**
+
+The question of [what makes a great power](https://iai.tv/articles/small-states-have-more-power-than-trump-and-putin-think-auid-3521) has been disputed for centuries. But discussions about what makes a great power today are biased towards economic heft. To be sure, GDP matters enormously. It enables the great powers to shape the global economic system, fund their military ambitions, and absorb shocks. However, it is often a better measure of potential than of the ability to shape and respond to events. Germany and Japan are a testament to how a large GDP can coexist with dependence on security guarantees and a lack of will to act independently and assertively. At the same time, Russia has a smaller GDP than Italy, but few would argue the latter is a greater power than the former.
+
+A great power is ultimately a state that shapes the international order: it expects an important voice in major international questions, can make or break rules, and possesses a freedom of action far beyond that of smaller states. The most important test is whether a country can materially affect others’ calculations, organize collective action and withstand and resist coercion.
+
+**Is Britain a great power?**
+
+Britain is clearly not a power on the scale of the United States or China, but to label it a “middle power” would be to overlook the distinctive and broad strengths that set it apart. Most importantly, Britain plays an important role in shaping international security rather than simply reacting to it. The UK’s early and decisive role in supporting Ukraine, providing large sums of military and financial aid, was critical in staving off the initial Russian onslaught. It has continued to shape the response via groupings such as the Ukraine Defense Contact Group and co-leading the “Coalition of the Willing.” Further north, Britain has helped to organize broader European defense via the Joint Expeditionary Force ten-country grouping and has stationed “tripwire forces” to deter Russian action against the Baltic states. It was also asked to provide security guarantees to Finland and Sweden during the NATO accession process.
+
+More widely, Britain plays a much greater role in the Indo-Pacific than it is given credit for. It is helping to design Australia’s nuclear-powered submarine fleet via the AUKUS agreement. Meanwhile, the Global Combat Air Programme connects Britain to Japan and Italy and represents the most ambitious defense-industrial cooperation between an Asian and European power since the Cold War. The UK also boasts an extensive network of bases, from Gibraltar to Cyprus to the Falklands to facilities across the Gulf, enabling it and its allies to conduct operations far from home.
+
+Britain’s armed forces, while depleted in depth, funding, and stockpiles and dependent on US support in some key areas, still possess quality assets at their disposal. The combination of submarines, aircraft carriers, expeditionary forces and a carrier strike group—deployed for an eight-month tour that included the Indo-Pacific last year—is revered by allies and must be considered in the calculations of adversaries. Britain also has world-class intelligence services such as MI6, GCHQ and Defense Intelligence, while alliances such as Five Eyes give them cross-continental reach. Britain’s nuclear deterrent, which is independently targeted and controlled, makes it less vulnerable to coercive nuclear diplomacy from adversaries.
+
+Moreover, Britain is still one of the top five global economies in terms of dollar GDP and the IMF projects that it will surpass Japan next year. Crucially, Britain has a diversified economy which commands deep fiscal resources that can be mobilized at scale. The City of London remains the world’s second largest financial centre, and Britain handles 38% of foreign exchange turnover. Britain also possesses a strong scientific base which is well positioned as a hub for AI research and development.  The AI Security Institute, DeepMind and “Golden Triangle” universities of Oxford, Cambridge and London are testament to that. It is also outpacing the rest of Europe in venture capital funding and excelling in the FinTech sector. However, Britain’s resource base is constrained by weak productivity, high energy costs and stretched public finances, which poses a threat particularly to its reach and resilience.
+
+Britain’s reputation and resilience are also stronger than it thinks. Its position as a trusted intelligence and security partner from Europe to the Indo-Pacific positions it well in the current climate. Britain’s seat at the United Nations Security Council gives it a voice and veto on consequential matters. The *lingua franca*, the English language, also gives it an advantage in cultural exports, from film and television to music and literature. Soft power assets such as the BBC World Service and the British Council—and even the monarchy—give it a cultural reputation and reach disproportionate to its weight. That said, the decision to slash overseas aid to its lowest share of national income this century has reduced trust and credibility, particularly across the Global South. The political polarization and instability of recent years also pose questions about its resilience. But Britain’s ability to adapt and reinvent itself historically—combined with its strong and dispersed institutions—ought to be a cause for cautious optimism.
+
+**The emerging order and Britain’s opportunity**
+
+The [demise of the rules-based order](https://iai.tv/articles/the-end-of-the-west-means-even-more-than-you-think-auid-3093) undermines the predictable system upon which British prosperity and security depend. At the same time, however, it poses opportunities and creates demand for specific capabilities Britain can supply. As conflict between the major powers increasingly takes place below the threshold of outright conflict, and as previously trusted partners retreat, the demand for Britain’s defense and intelligence assets will expand. The technological and financial frontiers will also become increasingly important and contested. Whether Britain can move quickly and effectively enough remains to be seen, but there are three opportunities in the domains of security, science and services that the country is well-positioned to seize.
+
+First, security and intelligence. As countries such as the United States pull back—and as isolationist and illiberal forces on the European continent rise—the demand for British capabilities will continue to expand. If the Americans reduce military and—possibly—intelligence support to Ukraine, Britain has the opportunity to lead in both the Multilateral Defence Mechanism and Coalition of the Willing, to shape the endgame. But to be the primary guarantor and organizer of European defense will, of course, require substantial investments in the defense-industrial base. It will also require accepting fiscal trade-offs and compromises on sovereignty to get closer to essential European defense structures.
+
+In addition, as Europe struggles with Russia’s hybrid warfare campaign, from sabotage to information operations to cyberattacks, Britain’s intelligence support providing early warning, attribution and the ability to [strike back against Russia](https://iai.tv/video/war-power-and-the-future-of-global-order) will prove essential. In this context, a recent survey showed MI6 to be considered by security professionals as by far the most effective intelligence force in Europe.
+
+Second, science and technology. As the artificial intelligence boom and fourth industrial revolution take shape, geopolitical power will increasingly depend upon technological capability. The impact on productivity, military effectiveness and the freedom of action that will come with a self-sufficient technological base will be profound.
+
+The government must therefore identify a small number of difficult-to-replace areas where Britain is uniquely well positioned to excel. British science has shown great promise in areas such as chip design, quantum, and bioengineering. If Britain can lead in these key areas, it could accelerate drug discovery, strengthen its advanced manufacturing sector, and secure an indispensable position on the semiconductor supply chain. Indeed, as South Korea and Taiwan have demonstrated, a substantial GDP is not necessary for disproportionate technological influence.
+
+Most importantly, Britain must retain the ability to develop, manufacture and profit from its discoveries and inventions, rather than losing them to foreign owners. DeepMind and Arm, early pioneers in artificial intelligence and chip design respectively, were subsequently purchased by America’s Google and Japan’s SoftBank. The fundamental problem is the gap between invention and commercialization. A burdensome regulatory climate, crumbling infrastructure and high energy costs disincentivize companies from setting up and staying in Britain. The government can help to close that gap by concentrating fiscal resources on a small number of strategically important priorities. Investing in digital infrastructure to expand computing capacity as well as clean energy, where Britain is well placed to lead in offshore wind and nuclear power, could help to ease the critical pressures driving firms abroad.
+
+Third, services. The new geopolitics, centred around rearmament, energy transition and the derisking of supply chains, will require financing, insurance, and contracts. Britain is the world’s second-largest services exporter, while English common law serves as the essential architecture for business contracts worldwide, giving it disproportionate influence over international commerce.
+
+Britain’s financial expertise can help mobilize capital for infrastructure, critical industries and allied capabilities. The insurance sector can make shipping, energy and infrastructure projects in the new age of hybrid warfare commercially viable. And the search for dependable contracts and trusted arbitration in a turbulent world should raise demand for British legal services.
+
+Ultimately, services contribute most to national power when they strengthen capabilities and partnerships essential to Britain’s security and prosperity. They can create relationships, information advantages and opportunities to influence commercial practices. They can also be a geopolitical pressure point to use against adversaries and in coordination with allies. However, the government must preserve and promote the strong institutions, open trading and regulatory systems, as well as the global talent base that underpin the services sector.
+
+**Conclusion**
+
+Britain’s great power status is not a given, but nor is its decline a foregone conclusion. As American support seems [increasingly uncertain](https://iai.tv/video/navigating-the-new-world-order), the demand for British leadership, at least in Europe, has grown, and so has the call for British involvement in the Indo-Pacific from partners such as Japan and Australia. There are huge dangers in overpromising and overreaching, to be sure, and the financial challenge of fulfilling existing commitments, let alone taking on new ones, is not to be underestimated. But the task of sustaining Britain’s ordering role is not only doable but essential. The greatest risk to Britain, and those who look to her, would be not to attempt it.

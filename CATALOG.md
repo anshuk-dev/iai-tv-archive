@@ -1,18 +1,20 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2181**
-Newly published articles: **1** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2182**
+Newly published articles: **2** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3713 | **Great Britain could still be a great power** | Brendan Simms | 27th October 2026 | [great-britain-could-still-be-a-great-power-auid-3713.md](./new_articles/great-britain-could-still-be-a-great-power-auid-3713.md) |
 | 3712 | **The mind is not separate from the body** | Tarek Dika | 26th October 2026 | [the-mind-is-not-separate-from-the-body-auid-3712.md](./new_articles/the-mind-is-not-separate-from-the-body-auid-3712.md) |
 
 ## 📚 Complete Archive
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3713 | Great Britain could still be a great power 🆕 | Brendan Simms | 27th October 2026 | None | [great-britain-could-still-be-a-great-power-auid-3713.md](./articles/great-britain-could-still-be-a-great-power-auid-3713.md) |
 | 3712 | The mind is not separate from the body 🆕 | Tarek Dika | 26th October 2026 | Mind & Reason | [the-mind-is-not-separate-from-the-body-auid-3712.md](./articles/the-mind-is-not-separate-from-the-body-auid-3712.md) |
 | 3711 | East of Eden, free will, and rewriting the myth of your life | Noah Lazarides | 23rd October 2026 | Metaphysics & Language, Narrative & Reality | [east-of-eden-free-will-and-rewriting-the-myth-of-your-life-auid-3711.md](./articles/east-of-eden-free-will-and-rewriting-the-myth-of-your-life-auid-3711.md) |
 | 3709 | Consciousness research is ready for its Einstein moment | Harald A. Wiltsche | 22nd October 2026 | Mind & Reason | [consciousness-research-is-ready-for-its-einstein-moment-auid-3709.md](./articles/consciousness-research-is-ready-for-its-einstein-moment-auid-3709.md) |
