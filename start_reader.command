@@ -1,6 +1,10 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
+
+# Automatically pull latest articles and updates from GitHub if online
+git pull --rebase origin main 2>/dev/null || true
+
 python3 scripts/build_reader.py
 READER_PORT=8080
 python3 -m http.server "$READER_PORT" --bind 127.0.0.1 --directory dist &

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.anshuk.iaitv.sync</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/anshu_macmini/Downloads/aiaitv/scripts/auto_sync.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+    <key>StandardOutPath</key>
+    <string>/Users/anshu_macmini/Downloads/aiaitv/logs/launchd_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/anshu_macmini/Downloads/aiaitv/logs/launchd_stderr.log</string>
+    <key>WorkingDirectory</key>
+    <string>/Users/anshu_macmini/Downloads/aiaitv</string>
+</dict>
+</plist>

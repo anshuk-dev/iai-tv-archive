@@ -1,16 +1,16 @@
-name: Continuous IAI.tv Articles Sync
+name: Continuous IAI.tv Articles & Videos Sync
 
 on:
   schedule:
-    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC) to catch all new posts
-    - cron: '0 */6 * * *'
+    # Run every 2 hours to catch all new posts and debates as soon as published
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  sync-articles:
+  sync-content:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,9 +30,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run IAI.tv Scraper
+      - name: Scrape New Articles
         run: |
-          python scraper.py --workers 6
+          python scraper.py --workers 8
+
+      - name: Sync Video Catalog & Debates
+        run: |
+          python scripts/build_videos_index.py
+
+      - name: Rebuild Web Reader Data
+        run: |
+          python scripts/build_reader.py
 
       - name: Commit and push changes
         run: |
@@ -40,10 +48,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ -n "$(git status --porcelain)" ]; then
-            echo "Changes detected, committing and pushing..."
-            git add articles/ new_articles/ CATALOG.md articles_index.json baseline_ids.json README.md
-            git commit -m "Auto-update: sync latest IAI.tv articles [skip ci]"
+            echo "New content detected! Committing and pushing..."
+            git add articles/ new_articles/ CATALOG.md articles_index.json baseline_ids.json VIDEOS_CATALOG.md iai_videos.json README.md
+            git commit -m "Auto-update: sync latest IAI.tv articles and videos [skip ci]"
             git push
           else
-            echo "No new articles found. Everything up to date."
+            echo "Everything is already up to date. No new articles or videos."
           fi
