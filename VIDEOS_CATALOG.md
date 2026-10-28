@@ -9,7 +9,7 @@ All videos can be transferred directly to Google Drive cloud-to-cloud with zero 
 
 | # | Date | Duration | Title | Direct Video Stream (.mp4) |
 |---|---|---|---|---|
-| 1 | 2026-10-28 | 29m 53s | [The Future of the AI Economy](https://iai.tv/video/the-future-of-the-ai-economy) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI_L26 Future of AI Economy HD OXT.mp4) |
+| 1 | 2026-10-28 | 29m 53s | [The future of the AI economy](https://iai.tv/video/the-future-of-the-ai-economy) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI_L26 Future of AI Economy HD OXT.mp4) |
 | 2 | 2026-10-27 | 30m 15s | [Mysticism, Heidegger, and the future of philosophy, with Simon Critchley](https://iai.tv/video/mysticism-heidegger-and-the-future-of-philosophy-with-simon-critchley) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_HSTUDIO Simon Critchley HD.mp4) |
 | 3 | 2026-10-26 | 34m 16s | [The philosophy and dangers of fame](https://iai.tv/video/the-philosophy-and-dangers-of-fame) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_L86 The philosophy and dangers of fame.maineditHD.MXD.mp4) |
 | 4 | 2026-10-22 | 50m 42s | [Freedom, democracy, and the law](https://iai.tv/video/freedom-democracy-and-the-law) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H101 Freedom, democracy and the law HD.mp4) |
