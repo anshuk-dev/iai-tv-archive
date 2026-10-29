@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2183**
-Newly published articles: **3** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2184**
+Newly published articles: **4** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3715 | **Everything is quantum, including you** | Vlatko Vedral | 29th October 2026 | [everything-is-quantum-including-you-auid-3715.md](./new_articles/everything-is-quantum-including-you-auid-3715.md) |
 | 3714 | **We can't trust experts, but we can't live without them** | Reiner Grundmann | 28th October 2026 | [we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md](./new_articles/we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md) |
 | 3713 | **Great Britain could still be a great power** | Brendan Simms | 27th October 2026 | [great-britain-could-still-be-a-great-power-auid-3713.md](./new_articles/great-britain-could-still-be-a-great-power-auid-3713.md) |
 | 3712 | **The mind is not separate from the body** | Tarek Dika | 26th October 2026 | [the-mind-is-not-separate-from-the-body-auid-3712.md](./new_articles/the-mind-is-not-separate-from-the-body-auid-3712.md) |
@@ -15,6 +16,7 @@ Newly published articles: **3** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3715 | Everything is quantum, including you 🆕 | Vlatko Vedral | 29th October 2026 | The Universe & Reality | [everything-is-quantum-including-you-auid-3715.md](./articles/everything-is-quantum-including-you-auid-3715.md) |
 | 3714 | We can't trust experts, but we can't live without them 🆕 | Reiner Grundmann | 28th October 2026 | Knowledge, Science & Method | [we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md](./articles/we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md) |
 | 3713 | Great Britain could still be a great power 🆕 | Brendan Simms | 27th October 2026 | None | [great-britain-could-still-be-a-great-power-auid-3713.md](./articles/great-britain-could-still-be-a-great-power-auid-3713.md) |
 | 3712 | The mind is not separate from the body 🆕 | Tarek Dika | 26th October 2026 | Mind & Reason | [the-mind-is-not-separate-from-the-body-auid-3712.md](./articles/the-mind-is-not-separate-from-the-body-auid-3712.md) |
