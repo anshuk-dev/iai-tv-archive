@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2185**
-Newly published articles: **5** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2186**
+Newly published articles: **6** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3717 | **A God's eye view is made impossible by quantum mechanics** | Eric Cavalcanti | 2nd November 2026 | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./new_articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
 | 3716 | **The self would not exist without sleep** | Grace Theodoly | 30th October 2026 | [the-self-would-not-exist-without-sleep-auid-3716.md](./new_articles/the-self-would-not-exist-without-sleep-auid-3716.md) |
 | 3715 | **Everything is quantum, including you** | Vlatko Vedral | 29th October 2026 | [everything-is-quantum-including-you-auid-3715.md](./new_articles/everything-is-quantum-including-you-auid-3715.md) |
 | 3714 | **We can't trust experts, but we can't live without them** | Reiner Grundmann | 28th October 2026 | [we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md](./new_articles/we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md) |
@@ -17,6 +18,7 @@ Newly published articles: **5** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3717 | A God's eye view is made impossible by quantum mechanics 🆕 | Eric Cavalcanti | 2nd November 2026 | The Universe & Reality | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
 | 3716 | The self would not exist without sleep 🆕 | Grace Theodoly | 30th October 2026 | Mind & Reason | [the-self-would-not-exist-without-sleep-auid-3716.md](./articles/the-self-would-not-exist-without-sleep-auid-3716.md) |
 | 3715 | Everything is quantum, including you 🆕 | Vlatko Vedral | 29th October 2026 | The Universe & Reality | [everything-is-quantum-including-you-auid-3715.md](./articles/everything-is-quantum-including-you-auid-3715.md) |
 | 3714 | We can't trust experts, but we can't live without them 🆕 | Reiner Grundmann | 28th October 2026 | Knowledge, Science & Method | [we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md](./articles/we-cant-trust-experts-but-we-cant-live-without-them-auid-3714.md) |
