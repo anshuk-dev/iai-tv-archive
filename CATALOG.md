@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2187**
-Newly published articles: **7** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2188**
+Newly published articles: **8** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3719 | **Michael Levin: Memory and intelligence do not require a brain** | Michael Levin | 4th November 2026 | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./new_articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
 | 3718 | **You can change what you see by changing what you think** | Neil Mehta | 3rd November 2026 | [you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md](./new_articles/you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md) |
 | 3717 | **A God's eye view is made impossible by quantum mechanics** | Eric Cavalcanti | 2nd November 2026 | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./new_articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
 | 3716 | **The self would not exist without sleep** | Grace Theodoly | 30th October 2026 | [the-self-would-not-exist-without-sleep-auid-3716.md](./new_articles/the-self-would-not-exist-without-sleep-auid-3716.md) |
@@ -19,6 +20,7 @@ Newly published articles: **7** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3719 | Michael Levin: Memory and intelligence do not require a brain 🆕 | Michael Levin | 4th November 2026 | Life & The Living, Psychology & The Brain | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
 | 3718 | You can change what you see by changing what you think 🆕 | Neil Mehta | 3rd November 2026 | Knowledge, Science & Method | [you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md](./articles/you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md) |
 | 3717 | A God's eye view is made impossible by quantum mechanics 🆕 | Eric Cavalcanti | 2nd November 2026 | The Universe & Reality | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
 | 3716 | The self would not exist without sleep 🆕 | Grace Theodoly | 30th October 2026 | Mind & Reason | [the-self-would-not-exist-without-sleep-auid-3716.md](./articles/the-self-would-not-exist-without-sleep-auid-3716.md) |
