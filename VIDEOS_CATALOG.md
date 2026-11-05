@@ -1667,7 +1667,7 @@ All videos can be transferred directly to Google Drive cloud-to-cloud with zero 
 | 1656 | 2015-02-18 | 34m 23s | [Twitter and Power](https://iai.tv/video/the-voice-of-openness) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_449_The Voice of Openness NEWLARGE.mp4) |
 | 1657 | 2015-02-18 | 42m 3s | [The Banality of Evil](https://iai.tv/video/the-banality-of-evil) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_229_TheBanalityofEvil2LARGE.mp4) |
 | 1658 | 2015-02-18 | 33m 35s | [The Elegant Universe](https://iai.tv/video/the-elegant-universe) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_396_The Elegant UniverseLARGE.mp4) |
-| 1659 | 2015-02-18 | 37m 32s | [The Rise and Fall of Democracy](https://iai.tv/video/the-rise-and-fall-of-democracy) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_181_The Rise and Fall of DemocracyLARGE.mp4) |
+| 1659 | 2015-02-18 | 42m 52s | [The Rise and Fall of Democracy](https://iai.tv/video/the-rise-and-fall-of-democracy) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_L30 The rise and fall of the educated elite HD.mp4) |
 | 1660 | 2015-02-04 | 29m 9s | [Dangerous Virtues](https://iai.tv/video/dangerous-virtues) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_403_DangerousVirtues.mp4) |
 | 1661 | 2015-02-04 | 30m 45s | [Creative robots](https://iai.tv/video/creative-robots) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_163_CreativeRobotS.mp4) |
 | 1662 | 2015-02-04 | 34m 53s | [After Equality](https://iai.tv/video/after-equality) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2014_38_AfterEquality.mp4) |
