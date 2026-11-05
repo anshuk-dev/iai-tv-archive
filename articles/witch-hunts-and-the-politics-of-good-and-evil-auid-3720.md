@@ -1,0 +1,64 @@
+---
+title: "Witch hunts and the politics of good and evil"
+subtitle: "Trump, outrage and witch trials"
+author: "Marion Gibson"
+date: "5th November 2026"
+article_id: "3720"
+channel: "Politics"
+themes: "Ideas & Ideology"
+tags: "None"
+is_new: true
+word_count: "1,825 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/article-template-copy8.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/witch-hunts-and-the-politics-of-good-and-evil-auid-3720"
+---
+
+# Witch hunts and the politics of good and evil
+
+*Trump, outrage and witch trials*
+
+**By Marion Gibson** | *5th November 2026* | *Read time: approx. 9 mins* | *1,825 words* | **[NEW ARTICLE]**
+
+![Witch hunts and the politics of good and evil](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/article-template-copy8.webp)
+
+---
+
+*Our politics has not escaped the 'witch trials'. For over thirty years, historian **Marion Gibson** has traced the words of those accused of witchcraft back through Elizabethan England and beyond, uncovering not myths and caricatures, but real lives caught in cycles of suspicion, confession and punishment. Now she draws a direct line from those trials to politics’ adoption of the phrase 'witch hunt'. From Donald Trump to Rahul Gandhi, Gibson exposes the logic of good and evil, angel and demon, monster and mythic, that culture still uses to spark political outrage.*
+
+Google the words “witch hunt” and you’ll see two main categories of result. One set of suggestions will relate to the period from the fifteenth to the eighteenth centuries when Europe and the colonized Americas saw tens of thousands of people executed as witches. The other set will relate to modern politicians’ speeches and social media posts, especially those of Donald Trump.
+
+Trump posted the phrase “witch hunt”—or, more usually, “WITCH HUNT!”—over 700 times on Twitter before decamping to Truth Social, where his usage of the term further accelerated. Other politicians or their allies use it too: Hillary Clinton, Benjamin Netanyahu, Indian Opposition leader Rahul Gandhi, Suella Braverman, Boris Johnson, Bjorn Höcke, the Thuringian chair of Germany’s AfD. The phrase is used more often by right-wingers than left. Its use has spread beyond politics into the wider media. Sometimes it denotes an unfair pile-on affecting a public figure, while in other cases it appears to be a deflection from provable misconduct. But what’s the relationship between the witch hunts of the historic past and those of the political present? Are they related at all? In some ways no, in other ways yes.
+
+In the fifteenth to eighteenth centuries, a witch was defined as a person who was suspected of causing magical harm to other people. In most village or small-town settings, that might have been imagined as an attack on near neighbors, perhaps thought to have been carried out by verbal cursing. The [suspected witch](https://iai.tv/video/a-brief-history-of-witch-feminism) could have had a disagreement with their neighbor over a request for a charitable gift, a business deal, religious or political tensions, or family arguments. Harsh words would have been uttered and perhaps the witch had said something like “I’ll get even with you” or “you’ll be sorry you crossed me!” After that, their neighbor would have experienced some harm, at the level of inconvenience or tragedy: anything from a cart that tipped over in the street to the death of a child or spouse. And they would have blamed that harm on the person who had fallen out with them, believing that individual to have cast a malign spell—which would mean they were a witch. This was the commonest type of witchcraft accusation.
+
+In other contexts, the kind of harm witches were thought to cause was more flexibly imagined. At a royal court, witchcraft suspects might be accused of prophesying the death of a monarch. Perhaps they’d raised evil spirits or consulted with demons to bring that death about by an act of poisoning or rebellious treason, accusers might allege. In a religious house—a nunnery or monastery—a witch might be thought to have summoned devils and sent them to possess the bodies of fellow devotees. Some communities thought witches made a formal, written pact with Satan in order to gain the power of magical harm. Others imagined witches kept demonic pets, animal familiars who bit and blasted the witch’s victims, causing illness and death. These creatures were really spirits, disguised as harmless cats, dogs or toads. In some places, witches were accused of raising storms at sea and damaging crops. In others, they were said to hold Satanic church services called “sabbaths,” where they ate babies, fornicated with and prayed to devils. The word “witch” therefore covered a wide variety of crimes and sins, depending on local definitions.
+
+\_\_\_
+
+Because of the seemingly ludicrous nature of most medieval and early modern beliefs about witches, the idea of a witch hunt has now become synonymous with idiocy and corruption.
+
+\_\_\_
+
+Because witches were imagined as enemies of their home communities, as well as the authorities of church and state and God himself, it followed that they should be hunted. Medieval and early modern nations passed anti-witchcraft laws so that magistrates could arrest and try witches for specific crimes, such as murder or spell-casting. Churchmen set up commissions to inquire into the beliefs of witches, whom they often regarded as heretics because of their allegedly misdirected worship. Tens of thousands of suspects were tortured into confessing they had joined a Satanic church, taken a demon lover or cursed a neighbor’s child to death. Others confessed without torture, although under heavy cultural pressure to conform and repent. Punishments for convicted witches ranged from exile to hanging to burning at the stake. Historians estimate that across Europe and the Americas, between 1400 and 1800, some 40,000 to 60,000 people were executed for the crime of practicing witchcraft, which, under most historic definitions, is now regarded as impossible.
+
+Under these definitions, no one is suggesting that Donald Trump is a witch: the word means something entirely different to him than it did to people in the medieval and early modern periods. So why does he so frequently deploy the term “witch hunt” in his rhetoric? And why do other politicians echo him? Put simply, because of the seemingly ludicrous nature of most medieval and early modern beliefs about witches, the idea of a witch hunt has now become synonymous with idiocy and corruption. No one, this thinking goes, could reasonably believe any other person to be a witch. Therefore, past accusations of witchcraft must have been motivated by derangement or cynically invented. There were no witches in past centuries. So to label an accusation “witch hunting” today renders it baseless, laughable, contemptible and void. Or so it is hoped.
+
+This use of the phrase “witch hunt” dramatically distorts history, however. Far from being lunatics or charlatans, most medieval and early modern people genuinely—and rationally—believed that witches existed. Their belief was rational because their world, as they understood it, was full of angels and demons, goblins and fairies. Spirits walked the earth, good and bad. These things were obviously true, a baseline of fact, something they were told every week in church—to a greater or lesser extent, depending on which sect they belonged to, but earnestly and repeatedly. And, these good Christians reasoned, if God’s human agents were living among them, in the form of priests, then why shouldn’t Satan deploy his own people too, in the form of witches? This deduction made perfectly logical sense to them, and the belief that fed it was shared across society, from peasants through merchants and lawyers to university-trained theologians.
+
+Indeed, far from being backward-looking, superstitious fools, many of these educated theorists of witch hunting integrated their interrogations of accused people into wider scientific investigations that [asked good questions of the universe](https://iai.tv/articles/the-thin-line-between-science-and-magic-auid-2382). As they questioned suspects about the power of familiar spirits or sex with demons, many witch hunters speculated about the nature of human and animal bodies and discussed how spirits might imitate or enter them. What was matter made of? How did spirit operate? In the 1480s, one of them debated with himself about a nun who ate a lettuce and became possessed by a demon that had been waiting in the vegetable. Was that attack made possible, he asked, because the devil had transformed himself into a fake lettuce and so infiltrated her body? Or had he just lurked among the leaves of a real lettuce to do his dirty work? Today this sounds like a joke. But in the 1480s it was [an enquiry into the nature of physical substance](https://iai.tv/video/the-demons-of-thermodynamics): atoms, cells, air, flesh and biochemicals.
+
+The fact that throughout the peak era of witch hunting some witch-finders were unmasked as frauds did little to dent ordinary people’s faith in the existence of witches. It was only when, in the later seventeenth and early eighteenth centuries, magistrates and churchmen became convinced that they’d made mistakes that things changed and anti-witchcraft laws were repealed across European and American polities. Put simply, these men realized that their forefathers, and in some cases they themselves, had got it wrong, and they halted witch hunting as fast as they could. This was, however, nowhere near fast enough. In England, for example, critical thinkers began questioning the reality of witchcraft as early as the 1580s, yet it took until the 1730s for the law to be changed, so that charges of the impossible crime could no longer result in witch trials.
+
+[![Humanity is no less superstitious now than in the past](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/Humanity-is-no-less-superstitious-now-than-in-the-past.webp)
+
+SUGGESTED READING
+Humanity is no less superstitious now than in the past
+By Rami Gabriel](https://iai.tv/articles/humanity-is-no-less-superstitious-now-than-in-the-past-auid-3376)
+
+One of the earliest English defenders of accused witches, the Kentish gentleman-farmer Reginald Scot, pioneered the attack on witch hunters—and, in a piquant historical irony, his rhetoric helped to define the term “witch hunt” as it is used today, linking together witch hunts of past and present. Scot hated witch hunters and heaped abuse on them in the most polarizing terms he could invent. He described them as “witchmongers”—a “monger” is a trader (think ironmonger or fishmonger), so a “witchmonger” is a person who makes a trade out of accusing harmless people. As well as cynically generating money and social capital from their witch hunting, Scot argued that witchmongers loved their trade because they were sadists. Witchmongering allowed them “to pursue the poor, to accuse the simple, and to kill the innocent.” There was no justification for it, no excuse. Witch hunting was simply “tyrannical cruelty,” full of “gross and fond [foolish] absurdities… cankered and spiteful malice… flat and plain knavery.” Catholic witch hunters, he thought, were especially bad, and he made many sectarian jokes about their stupidity and vice. It was [an intemperate, abusive assault](https://iai.tv/video/naming-and-shaming).
+
+And Scot’s tone still flavors the modern usage of the term “witch hunt,” because it polarized the debate about witch-finding. Like many other sixteenth and seventeenth-century critics of witch hunting, Scot seemed unable to imagine that the hunters might genuinely hold the beliefs they promoted. So he demonized them, just as they demonized their victims. Drawing on their binary thinking about good and evil—God versus Satan, priest versus witch—Scot inverted it. If accused witches were innocent, he concluded, then witch hunters must be evil, hypocritical morons, murderers without redeeming traits.
+
+Scot’s fury against witch hunting is understandable—it was driven by kindly outrage and a desire to save accused women and men from execution. But listen hard and you can hear its echo today, when Trump decries one of his “WITCH HUNT” opponents as a hater and a liar, “a very bad person,” a jailbird with blood on their hands. It’s Scot’s anti-witchmonger energy that fuels a post like Trump’s jibe on the death of Robert Mueller: “I’m glad he’s dead. He can no longer hurt innocent people.” In a surprising irony, the early critics of witch hunting—on the whole, a tolerant and liberal-minded group, despite their vituperative writings—laid the groundwork for the modern use of the term “witch hunt” by many, often entirely different, people today.

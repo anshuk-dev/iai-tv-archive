@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2188**
-Newly published articles: **8** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2189**
+Newly published articles: **9** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3720 | **Witch hunts and the politics of good and evil** | Marion Gibson | 5th November 2026 | [witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md](./new_articles/witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md) |
 | 3719 | **Michael Levin: Memory and intelligence do not require a brain** | Michael Levin | 4th November 2026 | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./new_articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
 | 3718 | **You can change what you see by changing what you think** | Neil Mehta | 3rd November 2026 | [you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md](./new_articles/you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md) |
 | 3717 | **A God's eye view is made impossible by quantum mechanics** | Eric Cavalcanti | 2nd November 2026 | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./new_articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
@@ -20,6 +21,7 @@ Newly published articles: **8** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3720 | Witch hunts and the politics of good and evil 🆕 | Marion Gibson | 5th November 2026 | Ideas & Ideology | [witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md](./articles/witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md) |
 | 3719 | Michael Levin: Memory and intelligence do not require a brain 🆕 | Michael Levin | 4th November 2026 | Life & The Living, Psychology & The Brain | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
 | 3718 | You can change what you see by changing what you think 🆕 | Neil Mehta | 3rd November 2026 | Knowledge, Science & Method | [you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md](./articles/you-can-change-what-you-see-by-changing-what-you-think-auid-3718.md) |
 | 3717 | A God's eye view is made impossible by quantum mechanics 🆕 | Eric Cavalcanti | 2nd November 2026 | The Universe & Reality | [a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md](./articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717.md) |
