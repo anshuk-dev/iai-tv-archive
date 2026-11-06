@@ -9,10 +9,10 @@ All videos can be transferred directly to Google Drive cloud-to-cloud with zero 
 
 | # | Date | Duration | Title | Direct Video Stream (.mp4) |
 |---|---|---|---|---|
-| 1 | 2026-11-05 | 42m 52s | [The rise and fall of the educated elite](https://iai.tv/video/the-rise-and-fall-of-the-educated-elite) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_L30 The rise and fall of the educated elite HD.mp4) |
-| 2 | 2026-11-04 | 31m 14s | [There can be no ultimate map of the universe](https://iai.tv/video/there-can-be-no-ultimate-map-of-the-universe-jenann-ismael) | [Play MP4](https://iai.tv/assets/videos/linked/IAILIVE2026_66S_ISMAEL_UPDATED_HD.mp4) |
-| 3 | 2026-10-30 | 20m 49s | [The democracy emergency and the collapse of critical thinking, with Louisa Munch](https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_Hay_Louisa Munch.HD.mp4) |
-| 4 | 2026-10-29 | 45m 51s | [Spacetime and the framework of the world](https://iai.tv/video/spacetime-and-the-framework-of-the-world) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4) |
+| 1 | 2026-11-06 | 45m 51s | [Spacetime and the framework of the world](https://iai.tv/video/spacetime-and-the-framework-of-the-world2) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4) |
+| 2 | 2026-11-05 | 42m 52s | [The rise and fall of the educated elite](https://iai.tv/video/the-rise-and-fall-of-the-educated-elite) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_L30 The rise and fall of the educated elite HD.mp4) |
+| 3 | 2026-11-04 | 31m 14s | [There can be no ultimate map of the universe](https://iai.tv/video/there-can-be-no-ultimate-map-of-the-universe-jenann-ismael) | [Play MP4](https://iai.tv/assets/videos/linked/IAILIVE2026_66S_ISMAEL_UPDATED_HD.mp4) |
+| 4 | 2026-10-30 | 20m 49s | [The democracy emergency and the collapse of critical thinking, with Louisa Munch](https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_Hay_Louisa Munch.HD.mp4) |
 | 5 | 2026-10-28 | 29m 53s | [The future of the AI economy](https://iai.tv/video/the-future-of-the-ai-economy) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI_L26 Future of AI Economy HD OXT.mp4) |
 | 6 | 2026-10-27 | 30m 15s | [Mysticism, Heidegger, and the future of philosophy, with Simon Critchley](https://iai.tv/video/mysticism-heidegger-and-the-future-of-philosophy-with-simon-critchley) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_HSTUDIO Simon Critchley HD.mp4) |
 | 7 | 2026-10-26 | 34m 16s | [The philosophy and dangers of fame](https://iai.tv/video/the-philosophy-and-dangers-of-fame) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_L86 The philosophy and dangers of fame.maineditHD.MXD.mp4) |

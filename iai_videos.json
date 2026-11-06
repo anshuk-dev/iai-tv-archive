@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "slug": "spacetime-and-the-framework-of-the-world2",
+    "title": "Spacetime and the framework of the world",
+    "page_url": "https://iai.tv/video/spacetime-and-the-framework-of-the-world2",
+    "video_url": "https://iai.tv/assets/videos/linked/HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4",
+    "thumbnail_url": "https://iai.tv/assets/Uploads/spacetime-and-the-framework-of-the-world3.webp",
+    "duration_seconds": 2751,
+    "duration": "45m 51s",
+    "publication_date": "2026-11-06",
+    "description": "Is the idea of spacetime inherently incompatible with quantum mechanics? Quantum physicists Jonathan Oppenheim, Ivette Fuentes, and Avshalom Elitzur debate.",
+    "filename": "HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4"
+  },
+  {
+    "id": 2,
     "slug": "the-rise-and-fall-of-the-educated-elite",
     "title": "The rise and fall of the educated elite",
     "page_url": "https://iai.tv/video/the-rise-and-fall-of-the-educated-elite",
@@ -13,7 +26,7 @@
     "filename": "HTLGI2026_L30 The rise and fall of the educated elite HD.mp4"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "there-can-be-no-ultimate-map-of-the-universe-jenann-ismael",
     "title": "There can be no ultimate map of the universe",
     "page_url": "https://iai.tv/video/there-can-be-no-ultimate-map-of-the-universe-jenann-ismael",
@@ -26,7 +39,7 @@
     "filename": "IAILIVE2026_66S_ISMAEL_UPDATED_HD.mp4"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "the-media-manufactures-your-ignorance-with-louisa-munch",
     "title": "The democracy emergency and the collapse of critical thinking, with Louisa Munch",
     "page_url": "https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch",
@@ -37,19 +50,6 @@
     "publication_date": "2026-10-30",
     "description": "Louisa Munch argues that a media-driven decline in critical thinking has turned anger at deindustrialisation and housing costs toward scapegoats like migration, and explains why accessible education is the answer.",
     "filename": "HTLGI2026_Hay_Louisa Munch.HD.mp4"
-  },
-  {
-    "id": 4,
-    "slug": "spacetime-and-the-framework-of-the-world",
-    "title": "Spacetime and the framework of the world",
-    "page_url": "https://iai.tv/video/spacetime-and-the-framework-of-the-world",
-    "video_url": "https://iai.tv/assets/videos/linked/HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4",
-    "thumbnail_url": "https://iai.tv/assets/Uploads/spacetime-and-the-framework-of-the-world.webp",
-    "duration_seconds": 2751,
-    "duration": "45m 51s",
-    "publication_date": "2026-10-29",
-    "description": "Is the idea of spacetime inherently incompatible with quantum mechanics? Quantum physicists Jonathan Oppenheim, Ivette Fuentes, and Avshalom Elitzur debate.",
-    "filename": "HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4"
   },
   {
     "id": 5,
