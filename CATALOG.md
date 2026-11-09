@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2190**
-Newly published articles: **10** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2191**
+Newly published articles: **11** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3722 | **Humans evolved through culture more than biology** | Jonathan Loh | 9th November 2026 | [humans-evolved-through-culture-more-than-biology-auid-3722.md](./new_articles/humans-evolved-through-culture-more-than-biology-auid-3722.md) |
 | 3721 | **Bolaño, Weil, and how to confront suffering** | Finn Janning | 6th November 2026 | [bolano-weil-and-how-to-confront-suffering-auid-3721.md](./new_articles/bolano-weil-and-how-to-confront-suffering-auid-3721.md) |
 | 3720 | **Witch hunts and the politics of good and evil** | Marion Gibson | 5th November 2026 | [witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md](./new_articles/witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md) |
 | 3719 | **Michael Levin: Memory and intelligence do not require a brain** | Michael Levin | 4th November 2026 | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./new_articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
@@ -22,6 +23,7 @@ Newly published articles: **10** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3722 | Humans evolved through culture more than biology 🆕 | Jonathan Loh | 9th November 2026 | Life & The Living | [humans-evolved-through-culture-more-than-biology-auid-3722.md](./articles/humans-evolved-through-culture-more-than-biology-auid-3722.md) |
 | 3721 | Bolaño, Weil, and how to confront suffering 🆕 | Finn Janning | 6th November 2026 | Art & Aesthetics | [bolano-weil-and-how-to-confront-suffering-auid-3721.md](./articles/bolano-weil-and-how-to-confront-suffering-auid-3721.md) |
 | 3720 | Witch hunts and the politics of good and evil 🆕 | Marion Gibson | 5th November 2026 | Ideas & Ideology | [witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md](./articles/witch-hunts-and-the-politics-of-good-and-evil-auid-3720.md) |
 | 3719 | Michael Levin: Memory and intelligence do not require a brain 🆕 | Michael Levin | 4th November 2026 | Life & The Living, Psychology & The Brain | [michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md](./articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719.md) |
