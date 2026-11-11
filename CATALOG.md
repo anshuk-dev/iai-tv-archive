@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2192**
-Newly published articles: **12** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2193**
+Newly published articles: **13** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3724 | **Homer's Greeks had no inner life** | Brian J. McVeigh | 11th November 2026 | [homers-greeks-had-no-inner-life-auid-3724.md](./new_articles/homers-greeks-had-no-inner-life-auid-3724.md) |
 | 3723 | **Chinese philosophy exposes the limits of AI creativity** | Davide Andrea Zappulli | 10th November 2026 | [chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md](./new_articles/chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md) |
 | 3722 | **Humans evolved through culture more than biology** | Jonathan Loh | 9th November 2026 | [humans-evolved-through-culture-more-than-biology-auid-3722.md](./new_articles/humans-evolved-through-culture-more-than-biology-auid-3722.md) |
 | 3721 | **Bolaño, Weil, and how to confront suffering** | Finn Janning | 6th November 2026 | [bolano-weil-and-how-to-confront-suffering-auid-3721.md](./new_articles/bolano-weil-and-how-to-confront-suffering-auid-3721.md) |
@@ -24,6 +25,7 @@ Newly published articles: **12** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3724 | Homer's Greeks had no inner life 🆕 | Brian J. McVeigh | 11th November 2026 | Mind & Reason | [homers-greeks-had-no-inner-life-auid-3724.md](./articles/homers-greeks-had-no-inner-life-auid-3724.md) |
 | 3723 | Chinese philosophy exposes the limits of AI creativity 🆕 | Davide Andrea Zappulli | 10th November 2026 | Narrative & Reality, Technology & Environment | [chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md](./articles/chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md) |
 | 3722 | Humans evolved through culture more than biology 🆕 | Jonathan Loh | 9th November 2026 | Life & The Living | [humans-evolved-through-culture-more-than-biology-auid-3722.md](./articles/humans-evolved-through-culture-more-than-biology-auid-3722.md) |
 | 3721 | Bolaño, Weil, and how to confront suffering 🆕 | Finn Janning | 6th November 2026 | Art & Aesthetics | [bolano-weil-and-how-to-confront-suffering-auid-3721.md](./articles/bolano-weil-and-how-to-confront-suffering-auid-3721.md) |
