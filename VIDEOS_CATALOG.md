@@ -9,7 +9,7 @@ All videos can be transferred directly to Google Drive cloud-to-cloud with zero 
 
 | # | Date | Duration | Title | Direct Video Stream (.mp4) |
 |---|---|---|---|---|
-| 1 | 2026-11-11 | 27m 54s | [When compassion turns dangerous](https://iai.tv/video/when-compassion-turns-dangerous) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H65 When compassion turns dangerous.HD.mp4) |
+| 1 | 2026-11-11 | 27m 54s | [When compassion turns dangerous](https://iai.tv/video/when-compassion-turns-dangerous) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H65 When compassion turns dangerous SD.mp4) |
 | 2 | 2026-11-10 | 22m 10s | [Carlo Rovelli on the impossibility of a theory of everything](https://iai.tv/video/carlo-rovelli-on-the-impossibility-of-a-theory-of-everything) | [Play MP4](https://iai.tv/assets/videos/linked/IAILIVE2026_66ST_Carlo_Rovelli_HD.mp4) |
 | 3 | 2026-11-06 | 46m 18s | [One Giant Conflict for Mankind](https://iai.tv/video/one-giant-conflict-for-mankind) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H193 One Giant Conflict for Mankind.HD.REVISED.mp4) |
 | 4 | 2026-11-06 | 45m 51s | [Spacetime and the framework of the world](https://iai.tv/video/spacetime-and-the-framework-of-the-world2) | [Play MP4](https://iai.tv/assets/videos/linked/HTLGI2026_H19 Spacetime and the framework of the world.Cut 2.HD.mp4) |

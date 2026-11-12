@@ -1,0 +1,128 @@
+---
+title: "We've got biology wrong, and that's why the Human Genome Project failed"
+subtitle: "Crick and Dawkins' Selfish Gene made a mistake"
+author: "Denis Noble"
+date: "12th November 2026"
+article_id: "3725"
+channel: "Science"
+themes: "Life & The Living"
+tags: "None"
+is_new: true
+word_count: "2,142 words"
+read_time: "Read time: approx. 11 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725"
+---
+
+# We've got biology wrong, and that's why the Human Genome Project failed
+
+*Crick and Dawkins' Selfish Gene made a mistake*
+
+**By Denis Noble** | *12th November 2026* | *Read time: approx. 11 mins* | *2,142 words* | **[NEW ARTICLE]**
+
+![We've got biology wrong, and that's why the Human Genome Project failed](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed.webp)
+
+---
+
+*The Human Genome Project promised genetic-based cures for all the major diseases of mankind, from cancer, to Alzheimer, to schizophrenia. A quarter of a century later, and these sweeping cures haven't materialized. Biologist **Denis Noble** and his co-authors **Raymond Noble** and **Reine Bourret** argue that this failure reveals a flawed foundation in modern biology: treating genes as the system’s controllers rather than its tools. For 60 years this central dogma has mislead biology. Once we overthrow it, we can transform our understanding of how species evolve.*
+
+![figure 1 diagram of the central dogma](assets/Uploads/figure-1-diagram-of-the-central-dogma.webp)
+
+*Figure 1: diagram of the Central Dogma*
+
+Biology during the twentieth century was firmly based on Watson and Crick’s famous work on the structure of DNA. They discovered (with important data input from Wilkins and Franklin) that DNA forms double helical threads, each thread being a complementary sequence to the other. The nucleotide bases C and G join together, while A and T also do so. So, a sequence like AACGTTCC in one thread is matched by the complement TTGCAAGG. They realized that this has an important implication. When the threads are unwound, each thread can attract its complementary sequence automatically, so creating two new threads. It is easy to imagine their excitement since the quantum mechanics pioneer, Erwin Schrödinger, had proposed self-replication “like a crystal” in his book *What is Life?* a decade or so earlier. Crick incorporated all of this into his Central Dogma of Molecular Biology.
+
+All that remained was for Richard Dawkins to bake this idea into his book, *The Selfish Gene*, claiming that DNA replicates like a crystal, proteins are automatically formed from DNA templates, and so genes “created us, body and mind.” Biology became a determinate process, with DNA templates enabling RNAs to be formed that then enabled ribosomes to create amino acid sequences from the nucleotide sequences. There was no room for living cells themselves to orchestrate DNA replication. It became a purely chemical one-way process: DNA → RNA → PROTEIN, the basis of Crick’s Central Dogma.
+
+\_\_\_
+
+Instead of being determinate, life exists on the edge between order and disorder.
+
+\_\_\_
+
+Julian Huxley, in his 1963 revision of *Evolution, The Modern Synthesis,* detachedevolutionary biology from the physiology of life, leading to the gene-centric biology of the twentieth century, in turn leading to the Human Genome Project and the promise of genetic-based cures within a decade for all the major diseases of mankind: cancer, cardiovascular disease, Alzheimer’s, schizophrenia, obesity, and so on, predicted by 2010.
+
+**The failure to find the promised cures**
+
+As you will surely have noticed, that monumental clinical outcome has not happened even a quarter of a century later. On the contrary, our health services are now swamped by the burden of the illnesses of old age as we face a [gene-centric impasse](https://doi.org/10.1113/EP093664). Health costs have soared way beyond the capacity of even the wealthiest nations. So what went wrong?
+
+The reason for that failure is that an important test of the self-replication idea *had not been performed*. No one had checked whether chemical self-replication really works with the accuracy needed by living cells. That happened in 2012 when [Rebecca Schulman](https://www.pnas.org/doi/10.1073/pnas.1117813109) at Johns Hopkins University let DNA self-replicate in purely chemical conditions. It did. Impressively so. Threads of nucleotides thousands of base pairs long reproduced. The authors even refer to the process as “robust”: just one error on average per 4000 base pairs. Fine for a small virus.
+
+But now comes the catch. Our genomes have 3 *billion* base pairs. Purely chemical self-replication would create many thousands of stochastic errors! That stochasticity is used by the immune system to produce millions of new and different DNA sequences to generate many new versions of the immunoglobulin proteins from which the system can choose the few that can neutralize a new virus or bacterium.
+
+[![related-video-image](https://iai.tv/assets/Uploads/Biology-Beyond-Genes.dc-copy-copy.webp)
+
+SUGGESTED VIEWING
+Biology beyond genes
+With Denis Noble](https://iai.tv/video/biology-beyond-genes-denis-noble)
+
+Furthermore, living cells must pass a stringent test before allowing themselves to form two new cells. The criterion is no more than one error in 10 billion bases!
+
+Each cell will therefore begin with highly accurate DNA inherited from the process of cell division. Random mutations will then accumulate through damage from radiation and the natural stochastic processes within the water-based cell fluid. During the period between cell divisions, these variations can be used by the immune and other systems to create new DNA sequences. As the cell approaches the time for division, it will orchestrate the error-correction enzymes that crawl along the DNA threads to enable division to occur with a near-perfect copy of DNA, and so the cycle will continue from generation to generation.
+
+**Using chance—harnessing stochasticity**
+
+We call this the [harnessing of stochasticity](https://pubs.aip.org/aip/cha/article/28/10/106309/1051685/Harnessing-stochasticity-How-do-organisms-make). Instead of being determinate, life exists on the edge between [order and disorder](https://www.denisnoble.com/symmetry/). The nervous system must also use cellular disorder to create the vast array of behavioral possibilities in behavior. The inherent stochasticity is easily detected by physiologists recording the electrical noise in central neuron electrical behavior.
+
+Instead, therefore, of a purely chemical process being responsible for the highly accurate replication of DNA before cell division, scientists have discovered a process in which the living cell first harnesses chance to achieve what is needed, and then corrects the errors before allowing the cell to divide. That control by the cell is the significance of the downward control arrows going from “Functional Networks” to “DNA,” “RNA,” and “Protein” in our diagram below. The [functional networks](https://doi.org/10.1113/EP093268) are the biochemical networks of chemicals that drive living cells.
+
+![figure 2 diagram of central dogma](assets/Uploads/_resampled/ResizedImageWzYwMCwzNDJd/figure-2-diagram-of-central-dogma.webp)
+
+*Figure 2:* [*Diagram of Central Dogma*](https://physoc.onlinelibrary.wiley.com/doi/10.1113/EP093664) *in the context of functional physiological networks*
+
+**A further problem for the Central Dogma**
+
+[Work on bacteria](https://doi.org/10.1126/science.aed1656) has very recently shown the existence of enzymes able to synthesize DNA using a protein shape rather than RNA or DNA. One of these enzymatic systems is known as DRT3b, which is particularly remarkable because it generates a DNA strand acting to control bacteriophages.
+
+These processes are different from many known in vitro reactions in which a mixture of the four nucleotides (A, T, G, C) and a specific transferase gives different sequences each time; in contrast, DRT3b produces a non-random, consistent sequence: CACACA… This represents a completely new finding in molecular biology.
+
+It functions as a bacterial defense system that acts as a trap to lure and eliminate viruses. The DNA produced accumulates within the bacterium or slows its growth until the bacterium stops growing, enters a dormant state, and eventually dies, thereby stopping the viral invasion. Thus, the bacterium effectively sacrifices itself to save the rest of the population from being attacked. Even a simple organism can produce “non-programmed” DNA as a way to defend itself.
+
+This may not be an isolated case; research will likely reveal similar processes that challenge the Central Dogma.
+
+**Where the central dogma view led us astray on evolution**
+
+[The gene-centered view led twentieth-century biology down a rabbit hole](https://iai.tv/articles/dawkins-neo-darwinism-is-itself-a-religious-theory-auid-3652). By treating genes as the system’s controllers rather than tools, it introduced a misleading dualism—not Descartes’s mind-body dualism, but a mechanistic divide between DNA as the master controller and the living organism as a mere vehicle for carrying the DNA. [In Dawkins’s account, genes control us, body and mind](https://iai.tv/video/the-gene-machine). Maintaining genes in a fictional “gene pool” became the “purpose” of a living organism. To make this view work, the body had to be cut off from influencing its future egg and sperm cells. This was the role of the Weismann Barrier, introduced by the German geneticist August Weismann in 1883.
+
+Moreover, this view separated evolution from the other biological sciences and treated the maintenance of the gene pool as the underlying cause—the “real” reason for behavior. In doing so, however, the modern synthesis made another mistake: it presented this idea not as a theoretical construct but as an unbreakable law. As a result, its proponents assumed that a barrier prevented characteristics acquired through one generation’s adaptations from passing to the next—a barrier to the germline. This assumption had profound consequences. It effectively removed organisms’ agency from evolution, treating genes and their mutations as the only elements subject to passive selection. It also assumed that changes in gene expression disappeared from the genome as germ cells formed. Consequently, physiological or behavioral adaptations in any given generation could play no role in evolution; organisms could only watch, as bystanders rather than [active players in natural selection](https://iai.tv/video/eva-jablonka-evolution-beyond-genes).
+
+\_\_\_
+
+Science needed a scapegoat, so it chose Lamarck.
+
+\_\_\_
+
+But [no evidence has ever shown a barrier](https://doi.org/10.1113/JP284420) preventing characteristics acquired by the body from passing between generations. Instead, scientists introduced this barrier as a convenient assumption that, regrettably, became entrenched in twentieth-century thinking. Science needed a scapegoat, so it chose Lamarck. Perhaps we could call this the “Snowball effect” after the principal character in George Orwell’s *Animal Farm*, who was hounded out by those who took control.
+
+As schoolchildren, we learned to ridicule Lamarck, rather than understand his ideas. Ironically, that ridicule itself became an idea passed down from generation to generation! ([Cultural evolution can be significant](https://iai.tv/articles/humans-evolved-through-culture-more-than-biology-auid-3722)). Yet Darwin recognized that Lamarck was right: each generation is not born with a clean slate of gene expression, nor of other physiological adaptations. Instead, biological systems can pass on patterns of gene expression in anticipation of the habitat into which offspring are born. Furthermore, evidence is now abundant and comes from many sources.
+
+[![26 08 11 Dawkins neo Darwinism is itself a religious theory](https://iai.tv/assets/Uploads/_resampled/FillWyI0MDAiLCIyNzUiXQ/26-08-11-Dawkins-neo-Darwinism-is-itself-a-religious-theory.webp)
+
+SUGGESTED READING
+Dawkins' neo-Darwinism is itself a religious theory
+By Jessica Riskin](https://iai.tv/articles/dawkins-neo-darwinism-is-itself-a-religious-theory-auid-3652)
+
+In the 1980s and early 1990s, researchers showed that developing organisms receive nutritional information through eggs, sperm, or the mother during pregnancy. In mammals, maternal signals cross the placenta or alter its function, potentially preparing offspring for similar conditions. Although researchers initially doubted this idea, the field has since grown to explore how early development shapes adult health and disease and how these effects pass between generations. Today, epigenetics helps explain how organisms adapt across generations to environmental change.
+
+Epigenetic adaptation across generations provides a faster, reversible layer on top of genetics. It is a softer, more effective, targeted form of cross-generational change in response to habitat changes. Furthermore, it is a responsive change that can be inherited for one to three generations, or even many generations. It is directional, thereby allowing adaptation to change more quickly than natural selection through random mutations. Furthermore, if the conditions persist, the adaptation can persist. Theoretically, such adaptation may also then become incorporated into the genome itself. This is evolution as a physiological process: [adaptation across generations](https://iai.tv/video/the-end-of-evolution). But it doesn’t need to be irreversible to affect evolution. Epigenetics, coupled with [niche partitioning](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/niche-partitioning), are key ingredients of adaptation across generations, and they could explain how new variants may become sufficiently reproductively isolated to be considered a new species. This cross-generational change may play a pivotal role in evolution, answering [Darwin’s original question](https://iai.tv/video/the-blueprint-for-life): how do species evolve? So how could this work?
+
+*![figure 3 diagram of epigenetic divergence](assets/Uploads/_resampled/ResizedImageWzYwMCw0MDZd/figure-3-diagram-of-epigenetic-divergence.webp)*
+
+*Figure 3: Diagram of epigenetic divergence*
+
+The model shows how epigenetic changes could cause a group within a species to diverge enough to become—or be classified as—a new species. Initially, the group interbreeds frequently with other members of Species A where their home ranges overlap. But habitat demands trigger epigenetic modifications that adapt its function to those conditions. These changes can be multifaceted, affecting physiology and behavior and shifting the group’s niche (Stage 2). This leads to further divergence and less interbreeding with core Species A.
+
+By Stage 3, interbreeding is rare, preserving the group’s changes and allowing further divergence. At Stage 4, niche separation is consolidated. In the model, niches may separate in time, space, or behavior within the same space. Organisms both shape and occupy niches through an ongoing dynamic and exploratory process that exploits opportunities.
+
+**How does physiological selection work?**
+
+This process has helped drive the collared dove’s [rapid spread](https://en.wikipedia.org/wiki/Eurasian_collared_dove#Invasive_status_in_North_America). Niche separation is an adaptation across generations, but the model allows change within a single generation. This is faster than [standard evolutionary models based on gradual, random gene mutations](https://iai.tv/video/biology-beyond-genes-denis-noble). The changes are responsive and targeted, as in adaptations to high altitude. But how realistic is this model?
+
+The Emerald damselfly (*Lestes sponsa*) is common in temperate zones, but underwater egg-laying has rarely been documented in this species. However, [researchers found](https://doi.org/10.3390/insects10050124) that in some habitats they do lay eggs underwater and, through experimental pairings, showed that females lead this behavior: naive females (the newcomers from the non-submerging site) did not submerge even when paired with experienced males. In contrast, naive males submerged when females came from submerging populations. The findings suggest that damselflies readily adapt their behavior to different circumstances.
+
+Rapid genital divergence may promote [reproductive isolation](https://doi.org/10.1111/evo.14169). Using introgression lines from two Drosophila species that diverged about 240,000 years ago, it was found that differences in male posterior lobe shape reduced reproductive success before and after fertilization and shortened mates’ lifespans. These findings suggest genital divergence can quickly drive reproductive isolation and niche separation.
+
+But what about us, humans? Let’s consider an example. All [highland humans](https://doi.org/10.1093/eep/dvaf026) face low-oxygen conditions, but Tibetans, Andeans, and Ethiopians use different genes and methylation patterns. Thus, across three continents, there are three distinct epigenetic strategies. Why three strategies? Because we have three different habitats and niche behaviors. No single gene is involved.
+
+The ways in which gene-centric biology has been broken reveal [multiple neglected processes](https://iai.tv/video/the-not-so-blind-watchmaker) in the evolution of species.
