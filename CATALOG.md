@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2194**
-Newly published articles: **14** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2195**
+Newly published articles: **15** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3726 | **Beauty privilege and the shame that keeps us quiet** | Heather Widdows | 13th November 2026 | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./new_articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
 | 3725 | **We've got biology wrong, and that's why the Human Genome Project failed** | Denis Noble | 12th November 2026 | [weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md](./new_articles/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md) |
 | 3724 | **Homer's Greeks had no inner life** | Brian J. McVeigh | 11th November 2026 | [homers-greeks-had-no-inner-life-auid-3724.md](./new_articles/homers-greeks-had-no-inner-life-auid-3724.md) |
 | 3723 | **Chinese philosophy exposes the limits of AI creativity** | Davide Andrea Zappulli | 10th November 2026 | [chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md](./new_articles/chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md) |
@@ -26,6 +27,7 @@ Newly published articles: **14** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3726 | Beauty privilege and the shame that keeps us quiet 🆕 | Heather Widdows | 13th November 2026 | Society & Culture | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
 | 3725 | We've got biology wrong, and that's why the Human Genome Project failed 🆕 | Denis Noble | 12th November 2026 | Life & The Living | [weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md](./articles/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md) |
 | 3724 | Homer's Greeks had no inner life 🆕 | Brian J. McVeigh | 11th November 2026 | Mind & Reason | [homers-greeks-had-no-inner-life-auid-3724.md](./articles/homers-greeks-had-no-inner-life-auid-3724.md) |
 | 3723 | Chinese philosophy exposes the limits of AI creativity 🆕 | Davide Andrea Zappulli | 10th November 2026 | Narrative & Reality, Technology & Environment | [chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md](./articles/chinese-philosophy-exposes-the-limits-of-ai-creativity-auid-3723.md) |
