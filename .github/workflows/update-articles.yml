@@ -42,6 +42,13 @@ jobs:
         run: |
           python scripts/build_reader.py
 
+      - name: Upload Web Reader Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: iai-web-reader-dist
+          path: dist/
+          retention-days: 30
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
