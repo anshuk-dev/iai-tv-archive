@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
+<title>IAI — Private Reading Room</title>
+<meta name="description" content="A private reading room for philosophy, science and the world of ideas.">
+<link rel="icon" href="images/iai-black.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/reader.css"><script src="reader.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" data-component="SiteHeader">
+ <div class="header-inner">
+  <div class="header-left"><button class="menu-button" id="menuButton" aria-label="Open library navigation" aria-expanded="false" aria-controls="siteMenu"><svg width="23" height="20" viewBox="0 0 23 20" aria-hidden="true"><path d="M0 3h23M0 10h23M0 17h23" stroke="currentColor" stroke-width="3"/></svg></button><a href="#library" aria-label="IAI reading room home"><img class="logo" src="images/iai-white.svg" alt="IAI" width="30" height="28"></a><span class="desktop-brand">The Institute of Art and Ideas</span></div>
+  <div class="header-actions"><a class="subscribe" href="https://iai.tv/subscribe" target="_blank" rel="noopener noreferrer">Subscribe</a><a class="sign-in" href="https://iai.tv/sign-in" target="_blank" rel="noopener noreferrer">Sign In</a></div>
+ </div>
+</header>
+<nav class="primary-nav" aria-label="Primary navigation" data-component="PrimaryNav"><div class="nav-inner"><a href="#library">Articles</a><a href="#videos" id="videosNavTab">Debates &amp; Videos</a><a href="#library?category=Philosophy">Philosophy</a><a href="#library?category=Science">Science</a><button id="moreButton" aria-expanded="false" aria-controls="siteMenu">More <svg width="9" height="6" viewBox="0 0 9 6" aria-hidden="true"><path d="m1 1 3.5 3.5L8 1" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></button></div></nav>
+<nav class="site-menu" id="siteMenu" aria-label="Library navigation" hidden><div><a href="#library">All articles</a><a href="#videos">All videos (2,050 debates)</a><a href="#library?category=Politics">Politics</a><a href="#library?category=Arts%20%26%20Culture">Arts &amp; Culture</a><a href="#library?category=Mind%20%26%20Reason">Mind &amp; Reason</a><a href="#library?category=new">New articles</a><a href="#library?search=">Search articles</a></div></nav>
+<main id="main" tabindex="-1">
+ <section class="library" id="library" hidden aria-labelledby="libraryTitle">
+  <h1 id="libraryTitle">The latest big ideas</h1><p class="library-description">Philosophy, science and the world of ideas.</p>
+  <form id="searchForm" role="search"><label for="searchInput" class="sr-only">Search articles by title, author or topic</label><input id="searchInput" type="search" placeholder="Search articles, authors and ideas" autocomplete="off"><button type="submit" aria-label="Search library"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15 15 6 6" stroke="currentColor" stroke-width="2"/></svg></button></form>
+  <div class="library-filters"><p id="resultCount" role="status">Loading library…</p><label>Sort <select id="sortSelect"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="title">Title A–Z</option><option value="author">Author A–Z</option></select></label></div>
+  <div class="article-list" id="articleList"></div><nav class="pagination" id="pagination" aria-label="Article pages"></nav>
+ </section>
+ <section class="library videos-section" id="videosLibrary" hidden aria-labelledby="videosTitle">
+  <h1 id="videosTitle">Debates &amp; Talks</h1><p class="library-description">2,050 full-length debates and talks from the world's leading thinkers.</p>
+  <form id="videoSearchForm" role="search"><label for="videoSearchInput" class="sr-only">Search videos and debates</label><input id="videoSearchInput" type="search" placeholder="Search debates, speakers, philosophy, physics..." autocomplete="off"><button type="submit" aria-label="Search videos"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15 15 6 6" stroke="currentColor" stroke-width="2"/></svg></button></form>
+  <div class="library-filters"><p id="videoResultCount" role="status">Loading video catalog…</p><label>Sort <select id="videoSortSelect"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="duration">Longest first</option><option value="title">Title A–Z</option></select></label></div>
+  <div class="video-list" id="videoList"></div><nav class="pagination" id="videoPagination" aria-label="Video pages"></nav>
+ </section>
+ <article class="article-container" id="article" aria-labelledby="articleTitle"><p class="loading">Loading article…</p></article>
+</main>
+<dialog id="videoDialog" class="video-dialog" aria-labelledby="modalVideoTitle">
+ <div class="video-dialog-inner">
+  <div class="panel-heading"><h2 id="modalVideoTitle">Watch Debate</h2><button id="closeVideoModal" aria-label="Close video player">×</button></div>
+  <div class="video-player-container"><video id="mainVideoPlayer" controls playsinline preload="metadata"></video></div>
+  <div class="video-dialog-meta">
+   <div class="video-meta-row">
+    <span class="unlocked-badge">🟢 Full Unlocked (No Paywall)</span>
+    <span id="modalVideoDate"></span>
+    <span id="modalVideoDuration"></span>
+    <div class="video-actions">
+     <a id="modalVideoDrive" href="#" target="_blank" rel="noopener noreferrer" class="video-gdrive-btn" title="Open and stream from your Google Drive">📁 Play on Drive ↗</a>
+     <a id="modalVideoDownload" href="#" target="_blank" rel="noopener noreferrer" class="video-dl-btn">⬇ Download MP4</a>
+    </div>
+   </div>
+   <p id="modalVideoDesc" class="video-desc"></p>
+  </div>
+ </div>
+</dialog>
+<footer class="site-footer"><a href="#library">Browse all articles</a><span>Private reading room · Original publication: <a href="https://iai.tv" target="_blank" rel="noopener noreferrer">IAI.tv</a></span></footer>
+<button id="accessibilityButton" class="accessibility-button" aria-label="Reading and accessibility settings" aria-expanded="false" aria-controls="readingSettings" data-component="AccessibilityButton"><svg width="29" height="29" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="5.5" r="3" fill="currentColor"/><path d="M5 11.5c7 2.2 15 2.2 22 0M16 14v7m0 0-6 8m6-8 6 8" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"/></svg></button>
+<section class="reading-settings" id="readingSettings" aria-labelledby="settingsTitle" hidden><div class="panel-heading"><h2 id="settingsTitle">Reading settings</h2><button id="closeSettings" aria-label="Close reading settings">×</button></div><div class="setting-row"><span>Text size</span><button id="smallerText" aria-label="Decrease text size">A−</button><output id="textSize">100%</output><button id="largerText" aria-label="Increase text size">A+</button></div><label class="setting-row">High contrast <input id="contrastToggle" type="checkbox"></label><label class="setting-row">Underline links <input id="underlineToggle" type="checkbox"></label><button id="resetSettings" class="plain-button">Reset to original</button></section>
+<dialog id="citationDialog" aria-labelledby="citationTitle"><div class="panel-heading"><h2 id="citationTitle">Cite this article</h2><button id="closeCitation" aria-label="Close citation">×</button></div><p id="citationText"></p><button id="copyCitation" class="plain-button">Copy citation</button></dialog>
+<div id="statusMessage" class="status-message" role="status" hidden></div>
+</body></html>
