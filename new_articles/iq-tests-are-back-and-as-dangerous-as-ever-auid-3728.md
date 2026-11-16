@@ -1,0 +1,78 @@
+---
+title: "IQ tests are back and as dangerous as ever"
+subtitle: "Psychology’s labels don’t just name us, they change us"
+author: "Devin Sanchez Curry"
+date: "16th November 2026"
+article_id: "3728"
+channel: "Philosophy, Science"
+themes: "Mind & Reason, Psychology & The Brain"
+tags: "None"
+is_new: true
+word_count: "1,709 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/iq-tests-are-back-and-as-dangerous-as-ever3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728"
+---
+
+# IQ tests are back and as dangerous as ever
+
+*Psychology’s labels don’t just name us, they change us*
+
+**By Devin Sanchez Curry** | *16th November 2026* | *Read time: approx. 9 mins* | *1,709 words* | **[NEW ARTICLE]**
+
+![IQ tests are back and as dangerous as ever](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/iq-tests-are-back-and-as-dangerous-as-ever3.webp)
+
+---
+
+*To understand our minds, we often turn to science. We learn that love is an oxytocin surge, that IQ tests measure intelligence, that certain behaviours signal ADHD. But, argues philosopher of psychology **Devin Sanchez Curry**, this promise of definitive descriptions of the mind is a dangerous illusion. The mind is a moving target, influenced by how we describe it: people behave differently if they see love as a chemical reaction rather than a social commitment, or intelligence as a test score rather than a cluster of traits, impossible to boil down to a single measure. In a world where Trump has popularized the insult “low-IQ,” we must not passively allow our classifications to shape our minds; rather we must use them to shape who we want to be.*
+
+Gilbert Ryle, the greatest list writer in the history of philosophy, began his influential discussion of intelligence by naming “a few” of its varieties: the intelligent person is “‘clever’, ‘sensible’, ‘careful’, ‘methodical’, ‘inventive’, ‘prudent’, ‘acute’, ‘logical’, ‘witty’, ‘observant’, ‘critical’, ‘experimental’, ‘quick-witted’, ‘cunning’, ‘wise’, ‘judicious’, [or] ‘scrupulous’”; the stupid person, by contrast, is “‘dull’, ‘silly’, ‘careless’, ‘unmethodical’, ‘uninventive’, ‘rash’, ‘dense’, ‘illogical’, ‘humourless’, ‘unobservant’, ‘uncritical’, ‘unexperimental’, ‘slow’, ‘simple’, ‘unwise’, [or] ‘injudicious’.” The differences between these adjectives matter. You should tell jokes to your quick-witted cousin that you don’t tell to your slow cousin, and you should tell jokes to your slow cousin that you don’t tell to your humourless cousin. Moreover, being intelligent in some ways doesn’t preclude people from being stupid in others: your humourless and dense uncle might nevertheless be sensible, and your quick-witted aunt might nevertheless be unobservant and injudicious.
+
+These lists show that while “stupid” and “intelligent” can be perfectly accurate ways of describing people, they are rarely the best way. There’s always a more precise word you could choose that would describe somebody in more detail, and that would provide more useful information for the purposes of interacting with them or understanding their character.
+
+\_\_\_
+
+IQ tests fail to track most of the qualities that Ryle recognized as varieties of intelligence.
+
+\_\_\_
+
+Nevertheless, an unearned power seems to attach to the use of umbrella words like “intelligent” and “stupid” in practice. If a politician credibly describes themselves or their ally as intelligent, rather than picking a more precise compliment, they convey to the voting public that they are somehow *generally* intelligent: that they are clever, sensible, careful, methodical, inventive, prudent, acute, logical, witty, observant, critical, experimental, quick-witted, cunning, wise, judicious *and* scrupulous. If a politician describes someone as stupid, or “dumb as a rock,” rather than picking a more precise insult, they insinuate that the whole list of stupidity-adjectives applies to that person. However, what complimenters and insulters gain in scope from the use of vague umbrella words, they lose in incisiveness. If only there were a way to insinuate that one’s adversary is utterly devoid of intelligence without forgoing the cutting specificity of the more precise adjectives.
+
+Ah but there is! The President of the United States’ go-to move of calling people “low IQ” serves to signal that his ([disproportionately](https://truthout.org/articles/8-in-10-posts-by-trump-calling-someone-low-iq-feature-a-person-of-color/) [Black](https://www.motherjones.com/politics/2026/05/donald-trump-racist-low-iq-truth-social/)) targets are generally unintelligent. At the same time, “low IQ individual” comes off as more precise than [Trump’s other preferred insult, “dumb as a rock.](https://iai.tv/articles/fascism-is-the-heroin-of-political-ideologies-auid-3610)” IQ is a specific, measurable trait: not merely precise but *scientific*. Other racists have long been preoccupied with IQ (and in some cases occupied as IQ researchers) for the same reason. It allows them to put on airs of scientific precision when they dismiss whole groups of people as generally and thoroughly daft.
+
+\*\*\*
+
+IQ tests were invented as a means of detecting which children needed extra help in school, and popularized as a means of ranking people in (purported) order of general intelligence. Eugenicists and the US Army were early adopters, quickly followed by universities and private employers.
+
+In the meantime, testmakers deliberately narrowed the kinds of questions that showed up on IQ tests. Even if they seemed like good ways of assessing intelligence, questions were thrown out if people who were good at answering other IQ test questions didn’t also tend to be very good at answering them. Questions were also thrown out if people who achieved success in life (as measured by things like university degrees and lifetime income) didn’t tend to be very good at answering them.
+
+As a result, how people do on one IQ test is a very good predictor of how they’ll do on other IQ tests, and also a decent predictor of educational and occupational success. The IQ test questions that have survived the cull are, by and large, visual pattern-matching puzzles, memory tasks, arithmetic and logic problems, and probes of verbal comprehension. They tend to be quite abstract and of little-to-no intrinsic interest. They have a single correct answer, and there tends to be only one way to analyze the question and figure out what the answer is. They do not require (or allow) access to physical tools (other than a pencil), thinking aids, or friends. As a result, how people do on IQ tests is a [weak predictor](https://doi.org/10.1111/jopy.12715) of how they do on tests of [rationality](https://yalebooks.yale.edu/book/9780300164626/what-intelligence-tests-miss/), [creativity](iai-academy/courses/info?course=intelligence-vs-creativity), perspective, and judgment; it doesn’t at all predict how they do on tests of prudence, social intelligence, or self-regulation.
+
+[![related-video-image](https://iai.tv/assets/Uploads/the-thoughts-computers-cant-think.webp)
+
+SUGGESTED VIEWING
+The thoughts computers can't think
+With Simon Baron-Cohen, Maria Balaska](https://iai.tv/video/the-thoughts-computers-cant-think)
+
+In short, IQ tests fail to track most of the qualities that Ryle recognized as varieties of intelligence. They aren’t reliable measures of good sense, inventiveness, or wittiness. And they aren’t measures of prudence, wisdom, or judiciousness at all. They’re good measures only of a particular variety of intelligence—call it acuity, or analytical intelligence, if you like—that has been targeted because it reliably predicts success at white-collar jobs.
+
+Students in my courses on cognitive science are often surprised to learn that IQ isn't [considered](https://doi.org/10.3390/jintelligence2010012) [to](https://psycnet.apa.org/doi/10.1080/09515089.2017.1401706) [be](https://doi.org/10.1086/714879) an especially important variety of intelligence from the perspective of the sciences of the mind, either. Cognitive psychologists and neuroscientists have not incorporated the construct into their explanations of how minds work. There’s just no scientific reason to think that IQ tests [measure the stuff in your brain](https://iai.tv/articles/neuroscience-needs-a-new-paradigm-the-brain-is-not-a-machine-auid-3338) that makes you good at thinking. All IQ tests do is show that you’re good (or bad) at one narrow, analytical [style of thinking](https://iai.tv/articles/how-smart-is-your-pet-auid-910). *How* is a totally [different story](https://psycnet.apa.org/doi/10.1037/0033-295X.113.4.842). (As for explanations that go even deeper than the brain, the behavioral geneticist [Eric Turkheimer](https://www.theatlantic.com/science/2025/10/genetics-intelligence-charles-murray/684544/) [reports](https://ericturkheimer.substack.com/p/charles-murray-replies-about-our) that “we still understand nothing about how genetic variants might cause [normal] IQ differences.”)
+
+\_\_\_
+
+Our minds are shaped by how we (and others) think about them.
+
+\_\_\_
+
+Nevertheless, “low IQ” continues to derive force as an insult from the insinuation that IQ is the be-all-and-end-all of intelligence. That’s because, over the course of the 20th century, the public became convinced to treat IQ as a measure of intelligence, full stop: to take intelligence to *be* IQ in something like the way that water is H2O. As I’ve argued in a [recent scholarly article](https://doi.org/10.3998/phimp.4939), this popular reconceptualization of intelligence as IQ—together with the tangible societal rewards that came from scoring well on IQ tests—led people to cultivate their analytical abilities at the expense of other varieties of intelligence. “Great men,” lauded for their intellectual acuity (but not necessarily for their wit or wisdom), received outsized credit for innovations in business, technology, and warfare. You know their names. Their celebrity sparked even more investment in analytical intelligence. Ostensibly meritocratic institutions and career paths barred access to people with [less fashionable casts of mind](https://psyche.co/ideas/why-academia-should-embrace-grandmas-metaphysics).
+
+[Remarkably](https://en.wikipedia.org/wiki/Flynn_effect), each generation living in a 20th-century postindustrial society boasted higher IQ scores than the last. Equating intelligence with IQ genuinely did make us smarter than our great-grandparents. More acute, anyway. My worry is that we’ve also gotten stupider: more analytical, yes, but less prudent, less witty, and less wise. Indeed: less capable of even recognizing wittiness, prudence, and wisdom as varieties of intelligence. How else to explain the fact that a barb as uninspired as “low IQ” has caught on?
+
+\*\*\*
+
+The story of IQ instantiates a more general pattern. Our minds are [shaped](https://www.routledge.com/The-Routledge-Handbook-of-Mindshaping/Zawidzki-Tison/p/book/9781032639222) by how we (and others) think about them. And this shaping isn’t always for the better. The philosopher Ian Hacking [documented](https://www.hup.harvard.edu/books/9780674009547) cases of “transient mental illnesses”: genuine disorders that exist only in certain geographical regions at certain points in history, and that become genuine disorders *because* of how people conceive of minds in those places at those times. In our time, [science](https://www.taylorfrancis.com/chapters/edit/10.4324/9781032639239-31/scientific-psychology-shapes-minds-devin-sanchez-curry?context=ubx&refId=12dac1b4-9e0d-4e8e-91d1-3de33e81e72d) is a particularly influential source of conceptions of mindedness. Psychologists have told us that we’re implicitly biased; neuroscientists have told us that [love is an oxytocin surge](iai-academy/courses/info?course=on-romantic-love) and [depression a serotonin deficiency](https://iai.tv/video/mental-health-and-the-chemical-imbalance-myth-joanna-moncrieff); psychiatrists (and TikTok influencers) have diagnosed unprecedented numbers of kids with [autism](https://iai.tv/video/neurodiverse-pattern-seeking-drives-human-invention-with-simon-baron-cohen) and ADHD. As in the case of intelligence, there are alternative ways of classifying prejudice, emotions, mood disorders, and neurodivergence that are marginalized by these scientific descriptions**.** And in each of these cases, how we classify the mental phenomenon in question really matters, since people behave differently when they conceive of love as a chemical reaction rather than a social commitment, or conceive of themselves as having an attention deficit rather than being fidgety.
+
+The classifications we use to understand ourselves and others are not self-fulfilling prophecies. They’re something much more interesting than that: attempts at nailing moving targets, where the aiming of bows-and-arrows itself plays a role in making the archers’ targets move, expand, or shrink. As Hacking [noted](https://www.lrb.co.uk/the-paper/v28/n16/ian-hacking/making-up-people), our classifications affect the behavior of people who know they’ve been classified, who in turn change the classifications, which affect people, who classify differently still.
+
+A friend recently told me that their young child has an IQ of 135. I think they were telling the truth, and that “IQ of 135” accurately describes the kid (give or take a standard deviation). I don’t think my friend’s pride is misplaced. But “IQ of 135” is a sparse, impersonal, and highly specific description. There is so much else about the kid’s particular, radiant intelligence that it leaves out—worse, that it [obviates](https://doi.org/10.26556/jesp.v27i3.3048) the impetus to think carefully about. There is also much about the future of the kid’s mind that remains up for grabs. Whether and how she internalizes her IQ score, and otherwise reflects on her own (and others’) intellect, may play a significant role in shaping the thinker she’ll become. And how her generation at large conceives of the mental may play a significant role in shaping the society they’ll forge. It’s happened before.
