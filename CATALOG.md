@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2196**
-Newly published articles: **16** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2197**
+Newly published articles: **17** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3729 | **Morality is about practicality, not principles** | James Lizska | 17th November 2026 | [morality-is-about-practicality-not-principles-auid-3729.md](./new_articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | **IQ tests are back and as dangerous as ever** | Devin Sanchez Curry | 16th November 2026 | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./new_articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
 | 3726 | **Beauty privilege and the shame that keeps us quiet** | Heather Widdows | 13th November 2026 | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./new_articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
 | 3725 | **We've got biology wrong, and that's why the Human Genome Project failed** | Denis Noble | 12th November 2026 | [weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md](./new_articles/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md) |
@@ -28,6 +29,7 @@ Newly published articles: **16** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3729 | Morality is about practicality, not principles 🆕 | James Lizska | 17th November 2026 | Ethics & Religion | [morality-is-about-practicality-not-principles-auid-3729.md](./articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | IQ tests are back and as dangerous as ever 🆕 | Devin Sanchez Curry | 16th November 2026 | Mind & Reason, Psychology & The Brain | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
 | 3726 | Beauty privilege and the shame that keeps us quiet 🆕 | Heather Widdows | 13th November 2026 | Society & Culture | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
 | 3725 | We've got biology wrong, and that's why the Human Genome Project failed 🆕 | Denis Noble | 12th November 2026 | Life & The Living | [weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md](./articles/weve-got-biology-wrong-and-thats-why-the-human-genome-project-failed-auid-3725.md) |
