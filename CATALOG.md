@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2197**
-Newly published articles: **17** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2198**
+Newly published articles: **18** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3730 | **AI isn't the future, it will trap us in the past** | Carl Öhman | 18th November 2026 | [ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md](./new_articles/ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md) |
 | 3729 | **Morality is about practicality, not principles** | James Lizska | 17th November 2026 | [morality-is-about-practicality-not-principles-auid-3729.md](./new_articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | **IQ tests are back and as dangerous as ever** | Devin Sanchez Curry | 16th November 2026 | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./new_articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
 | 3726 | **Beauty privilege and the shame that keeps us quiet** | Heather Widdows | 13th November 2026 | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./new_articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
@@ -29,6 +30,7 @@ Newly published articles: **17** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3730 | AI isn't the future, it will trap us in the past 🆕 | Carl Öhman | 18th November 2026 | Technology & Environment | [ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md](./articles/ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md) |
 | 3729 | Morality is about practicality, not principles 🆕 | James Lizska | 17th November 2026 | Ethics & Religion | [morality-is-about-practicality-not-principles-auid-3729.md](./articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | IQ tests are back and as dangerous as ever 🆕 | Devin Sanchez Curry | 16th November 2026 | Mind & Reason, Psychology & The Brain | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
 | 3726 | Beauty privilege and the shame that keeps us quiet 🆕 | Heather Widdows | 13th November 2026 | Society & Culture | [beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md](./articles/beauty-privilege-and-the-shame-that-keeps-us-quiet-auid-3726.md) |
