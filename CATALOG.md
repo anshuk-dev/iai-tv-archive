@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2198**
-Newly published articles: **18** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2199**
+Newly published articles: **19** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3732 | **The Arctic's melting ice caps uncover the world's next battleground** | Rana Foroohar | 19th November 2026 | [the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md](./new_articles/the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md) |
 | 3730 | **AI isn't the future, it will trap us in the past** | Carl Öhman | 18th November 2026 | [ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md](./new_articles/ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md) |
 | 3729 | **Morality is about practicality, not principles** | James Lizska | 17th November 2026 | [morality-is-about-practicality-not-principles-auid-3729.md](./new_articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | **IQ tests are back and as dangerous as ever** | Devin Sanchez Curry | 16th November 2026 | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./new_articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
@@ -30,6 +31,7 @@ Newly published articles: **18** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3732 | The Arctic's melting ice caps uncover the world's next battleground 🆕 | Rana Foroohar | 19th November 2026 | None | [the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md](./articles/the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md) |
 | 3730 | AI isn't the future, it will trap us in the past 🆕 | Carl Öhman | 18th November 2026 | Technology & Environment | [ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md](./articles/ai-isnt-the-future-it-will-trap-us-in-the-past-auid-3730.md) |
 | 3729 | Morality is about practicality, not principles 🆕 | James Lizska | 17th November 2026 | Ethics & Religion | [morality-is-about-practicality-not-principles-auid-3729.md](./articles/morality-is-about-practicality-not-principles-auid-3729.md) |
 | 3728 | IQ tests are back and as dangerous as ever 🆕 | Devin Sanchez Curry | 16th November 2026 | Mind & Reason, Psychology & The Brain | [iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md](./articles/iq-tests-are-back-and-as-dangerous-as-ever-auid-3728.md) |
