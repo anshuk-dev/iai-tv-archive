@@ -2,6 +2,7 @@
 """Build complete index of all 2,050 IAI.tv videos from sitemap and page metadata."""
 import re
 import ssl
+import sys
 import json
 import urllib.request
 import urllib.parse
@@ -10,6 +11,9 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+from scripts.fix_video_urls import clean_and_encode_url
 CTX = ssl._create_unverified_context()
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
 

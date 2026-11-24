@@ -22,6 +22,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+from scripts.fix_video_urls import clean_and_encode_url
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 CACHE_FILE = DATA_DIR / "video_metadata_cache.json"
@@ -191,6 +194,7 @@ def main():
         v['chairs'] = chairs
         v['speaker_desc'] = speaker_desc
         v['subtitle'] = subtitle
+        v['video_url'] = clean_and_encode_url(v.get('video_url', ''), v.get('slug', ''))
         enriched_videos.append(v)
 
     # Save enriched iai_videos.json
