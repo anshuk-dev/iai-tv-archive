@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2201**
-Newly published articles: **21** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2202**
+Newly published articles: **22** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3741 | **Performative listening is the latest form of virtue signalling** | Miriam Rasch | 24th November 2026 | [performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md](./new_articles/performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md) |
 | 3734 | **Our cosmological theories are maps, not the territory** | Andrew Jaffe | 23rd November 2026 | [our-cosmological-theories-are-maps-not-the-territory-auid-3734.md](./new_articles/our-cosmological-theories-are-maps-not-the-territory-auid-3734.md) |
 | 3733 | **The world is not made of one thing, but two** | William Hasker | 20th November 2026 | [the-world-is-not-made-of-one-thing-but-two-auid-3733.md](./new_articles/the-world-is-not-made-of-one-thing-but-two-auid-3733.md) |
 | 3732 | **The Arctic's melting ice caps uncover the world's next battleground** | Rana Foroohar | 19th November 2026 | [the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md](./new_articles/the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md) |
@@ -33,6 +34,7 @@ Newly published articles: **21** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3741 | Performative listening is the latest form of virtue signalling 🆕 | Miriam Rasch | 24th November 2026 | Ethics & Religion, Ideas & Ideology | [performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md](./articles/performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md) |
 | 3734 | Our cosmological theories are maps, not the territory 🆕 | Andrew Jaffe | 23rd November 2026 | The Universe & Reality | [our-cosmological-theories-are-maps-not-the-territory-auid-3734.md](./articles/our-cosmological-theories-are-maps-not-the-territory-auid-3734.md) |
 | 3733 | The world is not made of one thing, but two 🆕 | William Hasker | 20th November 2026 | Metaphysics & Language, Mind & Reason | [the-world-is-not-made-of-one-thing-but-two-auid-3733.md](./articles/the-world-is-not-made-of-one-thing-but-two-auid-3733.md) |
 | 3732 | The Arctic's melting ice caps uncover the world's next battleground 🆕 | Rana Foroohar | 19th November 2026 | None | [the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md](./articles/the-arctics-melting-ice-caps-uncover-the-worlds-next-battleground-auid-3732.md) |
