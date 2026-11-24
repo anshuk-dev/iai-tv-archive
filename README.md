@@ -1,16 +1,16 @@
-# IAI — Private Reading Room & Video Archive
+# IAI — Reading Room & Video Debate Archive
 
-**[Open the private IAI article reader](https://iai-private-reading-room.savoryrain2.chatgpt.site)** · **[Browse all articles](https://iai-private-reading-room.savoryrain2.chatgpt.site/#library)**
+🌐 **Live Web Reader:** [https://anshuk-dev.github.io/iai-tv-archive/](https://anshuk-dev.github.io/iai-tv-archive/)  
+📊 **Live Video Watch Tracker:** [https://anshuk-dev.github.io/iai-tv-archive/videos.html](https://anshuk-dev.github.io/iai-tv-archive/videos.html)  
+📑 **Excel / Spreadsheet Tracker:** [`iai_videos_tracker.csv`](iai_videos_tracker.csv)
 
-Open using the owning ChatGPT account. The reader is private; GitHub sign-in alone does not grant access.
-
-A complete archive and responsive editorial reader for **2,180 unpaywalled articles** and **2,050 high-definition video debates** (~1,209 hours of video) from [IAI.tv (The Institute of Art and Ideas)](https://iai.tv).
+A complete archive and responsive editorial reader for **2,201 unpaywalled articles** and **2,066 high-definition video debates** (~1,209 hours of video) from [IAI.tv (The Institute of Art and Ideas)](https://iai.tv), updated automatically every 2 hours.
 
 ---
 
-## 🎬 2,050 Video Debates Archive & Google Drive Cloud Transfer
+## 🎬 2,066 Video Debates Archive & Google Drive Cloud Transfer
 
-All 2,050 full-length debate and talk videos are fully cataloged with titles, runtimes, descriptions, and direct `.mp4` CDN streams.
+All 2,066 full-length debate and talk videos are fully cataloged with titles, runtimes, descriptions, guest speakers, host/chairs, speaker biographies, and direct `.mp4` CDN streams.
 
 ### Option 1: 1-Click Cloud-to-Cloud Transfer into Google Drive (0% Local Disk Space)
 If you have a 5 TB Google Drive, you can transfer all ~2.8 TB of videos directly from IAI.tv's CDN servers to your Google Drive **without downloading anything to your computer or consuming home Wi-Fi data**:
