@@ -2,11 +2,11 @@
 
 ## Overview
 - **Repository:** `git@github.com:anshuk-dev/iai-tv-archive.git` (Private)
-- **Articles Total:** **2,195 articles** archived in `articles/` (and new ones in `new_articles/`), unpaywalled via BPC.
-  - Latest article: *Beauty privilege and the shame that keeps us quiet* (ID: 3726, 13th November 2026).
-  - 15 new articles synced since baseline.
-- **Debates & Videos Total:** **2,061 videos** cataloged with direct unpaywalled `.mp4` URLs.
-  - Latest debate: *When compassion turns dangerous* (11th November 2026, 27m 54s).
+- **Articles Total:** **2,201 articles** archived in `articles/` (and new ones in `new_articles/`), unpaywalled via BPC.
+  - Latest article: *Our cosmological theories are maps, not the territory* by Andrew Jaffe (ID: 3734, 23rd November 2026).
+  - 21 new articles synced since baseline (6 new articles since Nov 14).
+- **Debates & Videos Total:** **2,066 videos** cataloged with direct unpaywalled `.mp4` URLs.
+  - Latest debate: *The edge of the world* (23rd November 2026, 40m 38s, ID: 1).
   - Catalogs: `VIDEOS_CATALOG.md` and `iai_videos.json`.
 - **Full Cloud Automation (Zero Intervention):**
   - Workflow: `.github/workflows/update-articles.yml` runs every 2 hours (`0 */2 * * *`).
