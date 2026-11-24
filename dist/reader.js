@@ -154,17 +154,33 @@ function renderVideos(){
   add('Next',videoPage+1,videoPage===total);
 }
 
+function cleanVideoUrl(u){
+  if(!u||!u.startsWith('http'))return '';
+  if(u.includes('iai.tv/assets/videos/')&&!u.startsWith('https://cdn.iai.tv')){
+    u=u.replace(/^https?:\/\/iai\.tv\/assets\/videos\//,'https://cdn.iai.tv/assets/videos/');
+  }
+  u=u.replace(/#/g,'%23');
+  try{return encodeURI(decodeURI(u)).replace(/#/g,'%23')}catch(e){return u}
+}
+
 function openVideoModal(v){
+  const cleanUrl = cleanVideoUrl(v.video_url);
   $('modalVideoTitle').textContent=v.title;
   $('modalVideoDate').textContent=v.publication_date?`Released: ${v.publication_date}`:'';
   $('modalVideoDuration').textContent=v.duration?`Duration: ${v.duration}`:'';
   $('modalVideoDesc').textContent=v.description||'';
-  $('modalVideoDownload').href=v.video_url;
+  $('modalVideoDownload').href=cleanUrl;
   $('modalVideoDownload').setAttribute('download',v.filename||'video.mp4');
   const searchName = (v.filename || v.title).replace(/\.mp4$/i, '').trim();
   $('modalVideoDrive').href = `https://drive.google.com/drive/u/0/search?q=${encodeURIComponent(searchName)}`;
   const player=$('mainVideoPlayer');
-  player.src=v.video_url;
+  player.onerror = () => {
+    // Fallback if CDN failed: try direct iai.tv server
+    if (player.src.includes('cdn.iai.tv')) {
+      player.src = cleanUrl.replace('https://cdn.iai.tv/', 'https://iai.tv/');
+    }
+  };
+  player.src=cleanUrl;
   $('videoDialog').showModal();
   player.play().catch(()=>{});
 }

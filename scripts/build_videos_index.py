@@ -124,6 +124,14 @@ def main():
             seen_filenames[fn] = 1
         r["filename"] = fn
 
+    # Ensure clean, CORS-enabled CDN streaming URLs with proper percent-encoding
+    try:
+        from scripts.fix_video_urls import clean_and_encode_url
+        for r in records:
+            r["video_url"] = clean_and_encode_url(r.get("video_url", ""), r.get("slug", ""))
+    except Exception as e:
+        print(f"URL encoding warning: {e}")
+
     # Save iai_videos.json
     out_json = ROOT / "iai_videos.json"
     with open(out_json, "w", encoding="utf-8") as f:
