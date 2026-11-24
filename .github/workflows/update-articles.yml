@@ -56,7 +56,7 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             echo "New content detected! Committing and pushing..."
-            git add articles/ new_articles/ CATALOG.md articles_index.json baseline_ids.json VIDEOS_CATALOG.md iai_videos.json dist/ README.md
+            git add articles/ new_articles/ CATALOG.md articles_index.json baseline_ids.json VIDEOS_CATALOG.md iai_videos.json iai_videos_tracker.csv data/ videos.html dist/ README.md
             git commit -m "Auto-update: sync latest IAI.tv articles and videos [skip ci]"
             git push
           else

@@ -45,7 +45,8 @@ for entry in json.loads((ROOT/'articles_index.json').read_text()):
 (DATA/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,separators=(',',':')))
 if (ROOT/'iai_videos.json').exists():
  shutil.copy2(ROOT/'iai_videos.json', DATA/'videos_index.json')
-for name in ['index.html','reader.js'] : shutil.copy2(ROOT/name,OUT/name)
+for name in ['index.html','reader.js','videos.html'] : 
+ if (ROOT/name).exists(): shutil.copy2(ROOT/name,OUT/name)
 (OUT/'css').mkdir(exist_ok=True);shutil.copy2(ROOT/'css/reader.css',OUT/'css/reader.css')
 shutil.copytree(ROOT/'images',OUT/'images',dirs_exist_ok=True)
 assert len(catalog)==len(hashes)>=2180

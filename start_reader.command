@@ -14,6 +14,7 @@ python3 -m http.server "$READER_PORT" --bind 127.0.0.1 --directory dist &
 READER_SERVER_PID=$!
 trap 'kill "$READER_SERVER_PID" 2>/dev/null || true' EXIT INT TERM
 open "http://127.0.0.1:$READER_PORT"
-echo "Private reader: http://127.0.0.1:$READER_PORT"
+echo "Private Reading Room: http://127.0.0.1:$READER_PORT"
+echo "Video Watch Tracker:  http://127.0.0.1:$READER_PORT/videos.html"
 echo "Press Ctrl+C to stop."
 wait "$READER_SERVER_PID"

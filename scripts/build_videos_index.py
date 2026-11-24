@@ -166,5 +166,14 @@ def main():
         f.write("\n".join(md_lines) + "\n")
     print(f"Generated {cat_path}")
 
+    # Automatically enrich with speakers, host, bios, tracker spreadsheet, and interactive web tracker
+    try:
+        import sys
+        sys.path.insert(0, str(ROOT))
+        from scripts.enrich_video_metadata import main as enrich_main
+        enrich_main()
+    except Exception as e:
+        print(f"Video enrichment warning: {e}")
+
 if __name__ == "__main__":
     main()
