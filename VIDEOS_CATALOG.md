@@ -1,10 +1,10 @@
 # IAI.tv Complete Video & Debate Catalog & Watch Tracker
 
-**Total Videos:** 2066 | **Total Watch Time:** ~1,209 hours | **All Streams:** CDN CORS-Enabled (.mp4)
+**Total Videos:** 2066 | **Total Watch Time:** ~1,209 hours | **Repository:** Private Archive
 
 ### How to Use This Tracker:
-- **Web Interactive Tracker:** Open [https://anshuk-dev.github.io/iai-tv-archive/videos.html](https://anshuk-dev.github.io/iai-tv-archive/videos.html) in your browser for interactive checkboxes, search, filter, and inline player.
-- **Excel Spreadsheet:** Open [`iai_videos_tracker.csv`](iai_videos_tracker.csv) in Excel / Google Sheets / Apple Numbers with direct clickable watch links and status column.
+- **Web Interactive Tracker:** Open `dist/videos.html` in your browser for interactive checkboxes, search, filter, and inline player.
+- **Excel Spreadsheet:** Open `iai_videos_tracker.csv` in Excel / Google Sheets / Apple Numbers with direct clickable watch links and status column.
 - **Google Drive Cloud Downloader:** Run `IAI_Cloud_Downloader.ipynb` in Google Colab to transfer videos directly cloud-to-cloud with zero local Mac storage.
 
 ---
