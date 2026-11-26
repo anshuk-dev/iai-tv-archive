@@ -1,6 +1,6 @@
 # IAI.tv Complete Video & Debate Catalog & Watch Tracker
 
-**Total Videos:** 2067 | **Total Watch Time:** ~1,209 hours | **Repository:** Private Archive
+**Total Videos:** 2068 | **Total Watch Time:** ~1,209 hours | **Repository:** Private Archive
 
 ### How to Use This Tracker:
 - **Web Interactive Tracker:** Open `dist/videos.html` in your browser for interactive checkboxes, search, filter, and inline player.
@@ -11,6 +11,7 @@
 
 | Track | Date | Title | Duration | Guests & Speakers | Host / Chair | Watch Video (.mp4) | Post Link |
 |:---:|:---:|---|:---:|---|---|:---:|:---:|
+| [ ] | 2026-11-25 | **Selfhood is a grand illusion, with Monima Chadha** | 23m 24s | Monima Chadha | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI_H26_Selfhood%20is%20a%20Grand%20Illusion%20HD.mp4) | [Open Post](https://iai.tv/video/selfhood-is-a-grand-illusion-monima-chadha) |
 | [ ] | 2026-11-24 | **The secret to quantum gravity is randomness, with Jonathan Oppenheim** | 11m 59s | Jonathan Oppenheim | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_Hstudio%20The%20secret%20to%20quantum%20gravity.HD.mp4) | [Open Post](https://iai.tv/video/the-secret-to-quantum-gravity-is-randomness-with-jonathan-oppenheim) |
 | [ ] | 2026-11-23 | **The edge of the world** | 40m 38s | Joanna Kavenna, Erling Kagge, Maria Balaska, Steven Mithen | Sophie Scott-Brown | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_H60%20The%20edge%20of%20the%20world%20HD.mp4) | [Open Post](https://iai.tv/video/the-edge-of-the-world) |
 | [ ] | 2026-11-18 | **The hype and limits of AI** | 43m 33s | Hilary Lawson, Sabrina Gonzalez Pasterski, Audrey Borowski, Michael Wooldridge | Güneş Taylor | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_L26%20Hype%20and%20Limits%20of%20AI_HD.Second%20Copy.mp4) | [Open Post](https://iai.tv/video/the-hype-and-limits-of-ai) |
