@@ -1,6 +1,6 @@
 # IAI.tv Complete Video & Debate Catalog & Watch Tracker
 
-**Total Videos:** 2068 | **Total Watch Time:** ~1,209 hours | **Repository:** Private Archive
+**Total Videos:** 2069 | **Total Watch Time:** ~1,209 hours | **Repository:** Private Archive
 
 ### How to Use This Tracker:
 - **Web Interactive Tracker:** Open `dist/videos.html` in your browser for interactive checkboxes, search, filter, and inline player.
@@ -11,13 +11,14 @@
 
 | Track | Date | Title | Duration | Guests & Speakers | Host / Chair | Watch Video (.mp4) | Post Link |
 |:---:|:---:|---|:---:|---|---|:---:|:---:|
-| [ ] | 2026-11-25 | **Selfhood is a grand illusion, with Monima Chadha** | 23m 24s | Monima Chadha | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI_H26_Selfhood%20is%20a%20Grand%20Illusion%20HD.mp4) | [Open Post](https://iai.tv/video/selfhood-is-a-grand-illusion-monima-chadha) |
+| [ ] | 2026-11-25 | **Selfhood is a grand illusion** | 23m 24s | Monima Chadha | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI_H26_Selfhood%20is%20a%20Grand%20Illusion%20HD.mp4) | [Open Post](https://iai.tv/video/selfhood-is-a-grand-illusion-monima-chadha) |
 | [ ] | 2026-11-24 | **The secret to quantum gravity is randomness, with Jonathan Oppenheim** | 11m 59s | Jonathan Oppenheim | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_Hstudio%20The%20secret%20to%20quantum%20gravity.HD.mp4) | [Open Post](https://iai.tv/video/the-secret-to-quantum-gravity-is-randomness-with-jonathan-oppenheim) |
 | [ ] | 2026-11-23 | **The edge of the world** | 40m 38s | Joanna Kavenna, Erling Kagge, Maria Balaska, Steven Mithen | Sophie Scott-Brown | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_H60%20The%20edge%20of%20the%20world%20HD.mp4) | [Open Post](https://iai.tv/video/the-edge-of-the-world) |
 | [ ] | 2026-11-18 | **The hype and limits of AI** | 43m 33s | Hilary Lawson, Sabrina Gonzalez Pasterski, Audrey Borowski, Michael Wooldridge | Güneş Taylor | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_L26%20Hype%20and%20Limits%20of%20AI_HD.Second%20Copy.mp4) | [Open Post](https://iai.tv/video/the-hype-and-limits-of-ai) |
 | [ ] | 2026-11-18 | **The dangerous urge to punish** | 33m 29s | Andy West | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_L57%20The%20Dangerous%20Urge%20to%20Punish.HD.mp4) | [Open Post](https://iai.tv/video/the-dangerous-urge-to-punish) |
 | [ ] | 2026-11-16 | **The institutions that failed Gaza** | 32m 53s | Norman Finkelstein | Roger Hearing | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_L54%20The%20institutions%20that%20failed%20Gaza%20HD.mp4) | [Open Post](https://iai.tv/video/the-institutions-that-failed-gaza-norman-finkelstein) |
 | [ ] | 2026-11-16 | **Why we should embrace cybersex, with Trudy Barber** | 18m 26s | Trudy Barber | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/H26_TrudyBarber_MainEdit_HD.mp4) | [Open Post](https://iai.tv/video/why-we-should-embrace-cybersex-with-trudy-barber) |
+| [ ] | 2026-11-16 | **The Reckless and the Rational** | 46m 32s | Gillian Tett, Paul Johnson | Roger Hearing | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_H142%20The%20Reckless%20and%20the%20Rational.HD.mp4) | [Open Post](https://iai.tv/video/the-reckless-and-the-rational) |
 | [ ] | 2026-11-11 | **When compassion turns dangerous** | 27m 54s | Kathleen Stock | Mary Ann Sieghart | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_H65%20When%20compassion%20turns%20dangerous%20SD.mp4) | [Open Post](https://iai.tv/video/when-compassion-turns-dangerous) |
 | [ ] | 2026-11-10 | **Carlo Rovelli on the impossibility of a theory of everything** | 22m 10s | Carlo Rovelli | — | [Play MP4](https://cdn.iai.tv/assets/videos/linked/IAILIVE2026_66ST_Carlo_Rovelli_HD.mp4) | [Open Post](https://iai.tv/video/carlo-rovelli-on-the-impossibility-of-a-theory-of-everything) |
 | [ ] | 2026-11-06 | **One giant conflict for mankind** | 46m 18s | Kishore Mahbubani, Adam Frank, Laura Grego | Philip Ball | [Play MP4](https://cdn.iai.tv/assets/videos/linked/HTLGI2026_H193%20One%20Giant%20Conflict%20for%20Mankind.SD.REVISED1.mp4) | [Open Post](https://iai.tv/video/one-giant-conflict-for-mankind) |
