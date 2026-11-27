@@ -1,12 +1,13 @@
 # IAI.tv Articles Catalog
 
-Total downloaded posts: **2204**
-Newly published articles: **24** in [`new_articles/`](./new_articles)
+Total downloaded posts: **2205**
+Newly published articles: **25** in [`new_articles/`](./new_articles)
 
 ## 🆕 Newly Published Articles
 
 | ID | Title | Author | Date | Folder |
 |:---|:---|:---|:---|:---|
+| 3744 | **Language's formal constraints set poetry free** | Noah Lazarides | 27th November 2026 | [languages-formal-constraints-set-poetry-free-auid-3744.md](./new_articles/languages-formal-constraints-set-poetry-free-auid-3744.md) |
 | 3743 | **The human being is not a finished project** | Leon Tsvasman | 26th November 2026 | [the-human-being-is-not-a-finished-project-auid-3743.md](./new_articles/the-human-being-is-not-a-finished-project-auid-3743.md) |
 | 3742 | **Jensen Huang saga hides America's big chip blunder** | Milton L. Mueller | 25th November 2026 | [jensen-huang-saga-hides-americas-big-chip-blunder-auid-3742.md](./new_articles/jensen-huang-saga-hides-americas-big-chip-blunder-auid-3742.md) |
 | 3741 | **Performative listening is the latest form of virtue signalling** | Miriam Rasch | 24th November 2026 | [performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md](./new_articles/performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md) |
@@ -36,6 +37,7 @@ Newly published articles: **24** in [`new_articles/`](./new_articles)
 
 | ID | Title | Author | Date | Themes | File |
 |:---|:---|:---|:---|:---|:---|
+| 3744 | Language's formal constraints set poetry free 🆕 | Noah Lazarides | 27th November 2026 | Narrative & Reality | [languages-formal-constraints-set-poetry-free-auid-3744.md](./articles/languages-formal-constraints-set-poetry-free-auid-3744.md) |
 | 3743 | The human being is not a finished project 🆕 | Leon Tsvasman | 26th November 2026 | Ethics & Religion | [the-human-being-is-not-a-finished-project-auid-3743.md](./articles/the-human-being-is-not-a-finished-project-auid-3743.md) |
 | 3742 | Jensen Huang saga hides America's big chip blunder 🆕 | Milton L. Mueller | 25th November 2026 | The World & The Future | [jensen-huang-saga-hides-americas-big-chip-blunder-auid-3742.md](./articles/jensen-huang-saga-hides-americas-big-chip-blunder-auid-3742.md) |
 | 3741 | Performative listening is the latest form of virtue signalling 🆕 | Miriam Rasch | 24th November 2026 | Ethics & Religion, Ideas & Ideology | [performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md](./articles/performative-listening-is-the-latest-form-of-virtue-signalling-auid-3741.md) |

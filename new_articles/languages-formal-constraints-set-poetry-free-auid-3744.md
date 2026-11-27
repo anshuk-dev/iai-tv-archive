@@ -1,0 +1,116 @@
+---
+title: "Language's formal constraints set poetry free"
+subtitle: "Where inspiration really comes from"
+author: "Noah Lazarides"
+date: "27th November 2026"
+article_id: "3744"
+channel: "Arts & Culture"
+themes: "Narrative & Reality"
+tags: "None"
+is_new: true
+word_count: "1,777 words"
+read_time: "Read time: approx. 9 mins"
+header_image: "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/languages-formal-constraints-set-poetry-free3.webp"
+unpaywall_method: "BPC twitter:description meta"
+source_url: "https://iai.tv/articles/languages-formal-constraints-set-poetry-free-auid-3744"
+---
+
+# Language's formal constraints set poetry free
+
+*Where inspiration really comes from*
+
+**By Noah Lazarides** | *27th November 2026* | *Read time: approx. 9 mins* | *1,777 words* | **[NEW ARTICLE]**
+
+![Language's formal constraints set poetry free](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/languages-formal-constraints-set-poetry-free3.webp)
+
+---
+
+*Where does inspiration in poetry come from? We often think that in order to be authentic and original, we have to be free from external pressures or conformity to rules. Contributing editor **Noah Lazarides** argues that this is a mistake. Taking leave from Robert Frost, we can see that it is precisely the formal constraints of writing in verse that compel a poet to be original, to write what they would never have thought of otherwise. In poetry and in life, it is only by working within the constraints on our thought that we can attain to true creative freedom.*
+
+**Poetic freedom comes from being constrained**
+
+Thanks to recent pop-cultural events, the *Odyssey* has been on our minds more than usual. Homer’s epic poems, which at all times have some sunken presence, resurfaced to float happily at the very top of public consciousness for a few months. With them comes, bobbing along, a reminder that the Ancient Greeks believed in the Muses—goddesses of artistic inspiration. And we remember that Homer liked to warm himself up with a quick prayer to a Muse before attempting the great creative feat of an oral retelling. *Sing to me of the man, Muse, the man of twists and turns*—so begins [the tale of Odysseus](https://iai.tv/articles/the-odyssey-honor-and-the-new-world-disorder-auid-3623).
+
+The Ancient Greek poets felt, as many poets do, that they were not in full control of the creative process; that it was not only up to them how the poem would turn out. When inspiration did come, it felt more like having originality breathed into you. (The word “inspiration” derives from this feeling, meaning literally *being breathed into*.) And quite reasonably, I think, they posited some goddesses who were doing the breathing.
+
+Nowadays we are not so fond of positing goddesses. But any poet will tell you that the feeling of giving up control when writing poetry, and of some additional creative influence falling out as a result, remains much the same. The interesting question is: where does this breath of inspiration come from?
+
+\_\_\_
+
+It is the formal constraints of poetry that set us free from our own limitations.
+
+\_\_\_
+
+It is interesting that poets, more than any other kind of artist, do seem to be especially dogged by Muses. I think that this peculiarity can be best explained by a newer, less spiritual account of the Muse phenomenon, which emerged among poets in the twentieth century, including Paul Valéry, W. H. Auden and Robert Frost.
+
+To follow their explanation, we have to begin by assuming that there is a reason why it is poets who are the original and most frequent testifiers to the phenomenon. There is something about writing in verse which, if done right, makes you more likely to write something original, something inspired, without feeling yourself to be wholly responsible for it.
+
+I think the most obvious candidate for what makes poetry special is the assortment of formal constraints that poets often impose upon themselves: rhyme schemes, metres, stanza lengths, and so on. And these formal constraints actually can explain the Muse phenomenon. The formal constraints of verse compel the poet to write something original, something more inspired than they would have managed otherwise. To see why, consider [everyone’s favourite poem by Robert Frost](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening):
+
+Whose woods these are I think I know.
+
+His house is in the village though;
+
+He will not see me stopping here
+
+To watch his woods fill up with snow.
+
+My little horse must think it queer
+
+To stop without a farmhouse near
+
+Between the woods and frozen lake
+
+The darkest evening of the year.
+
+He gives his harness bells a shake
+
+To ask if there is some mistake.
+
+The only other sound’s the sweep
+
+Of easy wind and downy flake
+
+The woods are lovely, dark and deep,
+
+But I have promises to keep,
+
+And miles to go before I sleep,
+
+And miles to go before I sleep.
+
+This poem follows the rhyme scheme AABA BBCB CCDC DDDD, with the third line of each stanza breaking from the others in order to preemptively rhyme with the next stanza’s dominant sound. This creates a pleasant halting or rolling momentum through the poem, which finally comes to a rest in the final stanza, when all the rhymes are at last uniform, and the little horse trundles on toward home. But, beyond the enjoyable rhythm it creates, this rhyme scheme played an additional role during the writing of the poem. It forced Frost’s hand.
+
+For example, once he had written “the only other sound’s the sweep” in the previous stanza, he was obliged to rhyme his lines with “sweep” until the very end of the poem. The result was that his word choice became increasingly limited (“deep,” “keep,” …) until, whether he originally planned to or not, he had little option but to end the poem, to our admiration, by evoking the rest that will come at the end of his halting journey—"sleep.”
+
+My point here is not that the rhyme scheme itself somehow had the idea to end the poem in this way. But that formal constraints force poets to think differently, to break with habits of thought.
+
+Anyone who has had a go at creative writing knows how difficult it is to write something surprising; I could show you examples of my own teenage attempts at poetry (often in free verse). Attempts to write something insightful more often resulted in a conspicuously common idea, forced into a clumsy metaphor. We are creatures of habit, in practice and in thought. But, by limiting the number of possible phrasings to a small and arbitrary pool, such as “words that rhyme with sweep,” structures like rhyme schemes make positive suggestions for the direction of the poem. If you allow them, these structures can steer a poem out of the well-trodden ruts of your own thinking and toward something original—toward the road less travelled.
+
+Counter-intuitively, it is the formal constraints of poetry that set us free from our own limitations, by introducing additional, conflicting restrictions to combat our own. Of course, they do not do all the work. Robert Frost continually altered his thinking as he wrote, constantly responding to the formal needs of the poem, to bring it into line. This is why the Muse phenomenon feels so much like *collaboration*. It is a collaboration with the poetic form itself.
+
+[![related-video-image](https://iai.tv/assets/Uploads/truth-and-poetry.webp)
+
+SUGGESTED VIEWING
+Truth and poetry
+With Andrew Motion](https://iai.tv/video/truth-and-poetry)
+
+What is unique about the formal constraints of verse is that they are semantically arbitrary. In other words, they favour certain phrasings over others, not according to their meaning, but according to some standard which has nothing to do with the significance of the words. This means that the poet’s Muse is a uniquely impartial collaborator. She is not influenced by Zeitgeist or intellectual history and, if one does not fight her, can help the poet to think in a truly surprising way.
+
+Frost is said to have compared writing in free verse to “playing tennis without a net or handball without a wall.” [Without some fixed structure, the poet has no limitations to what they might write and nothing to bounce their ideas off](https://iai.tv/video/imagining-the-unimaginable). While some might mistake this for freedom, it is more like being trapped with yourself. With no external stimulus, the poet is the opposite of free; they are forced to be who they already are, rather than what they might become.
+
+But it is wrong to imply that it is only a strict formal verse that can provide the benefit of semantically arbitrary constraints. It is indeed the most obvious example, but I would argue that all poetry has essentially this feature which especially tempts the Muse.
+
+What distinguishes poetry from prose, in my opinion, is that it is intentionally made to have some kind of physical beauty. Poetry does not merely convey some beautiful idea or narrative; it is not just beautiful because of what it says, but how it says it. Whether it be beautiful sounds, like rhyming patterns, or rhythms, or even the shapes made by the words on the page, poetry aims to have a beauty that is dependent on the particular tokens we use to express our meaning, and not just the significance they convey. Therefore, the poet is most essentially someone who takes semantically arbitrary considerations into account. In order to be a poet, then, you must constrain your own expression with these aesthetic considerations. It is only then that you collaborate with the Muse and invite specifically *poetic* inspiration.
+
+I hope you will not mind it if I take this line of thinking just a little further, for it is not only the [semantically arbitrary constraints of poetry](https://iai.tv/video/poetry-and-the-transmission-of-errors) that limit us and, paradoxically, set us free. Since you have been absorbed in the above discussion, I would forgive you for thinking that, for example, to write in prose is to write unconstrained. But prose writing has its own restrictions, which come with its own affordances. Since you are syntactically obliged to not trail off mid-sentence, the rules of prose require that you follow through with your thoughts (at least to this minimal extent).
+
+More fundamentally, we must abide by all the rules of language, from grammar to correct word use, in order to say anything meaningful at all. Anytime we think or communicate within language, we are dependent on the rules that regulate its use.
+
+The very building blocks of our thought are the linguistic constraints by which we choose to abide. And it is only by working with these constraints—collaborating with language, much like the poet collaborates with verse—that we can construct meaning. Perhaps this is one of the reasons why E. M. Forster asked, “How can I tell what I think till I see what I say?”
+
+Of course, this is not only true about language. Many of our earliest cave paintings actively responded to the limitations of their medium, tracing an animal’s spine along a ridge in the rock face. Michelangelo famously spoke of the block of marble as already containing the sculpture, which only needed to be chiselled out. In this way, all creation is collaboration with its material.
+
+The bottom line is that freedom is only possible through your engagement with that which provides resistance. We have to rid ourselves of [the idea that freedom and constraints are diametrically opposed](https://iai.tv/video/the-key-to-creativity). You would not be made free by refusing to interact with anything and therefore not being limited by anything either. Instead, you would be paralysed in a state of inaction.
+
+The poet is limited by formal verse only because they have chosen to engage with it. If they wished to be unburdened, they could choose to disengage and write in free verse. But by doing so they might miss out on some additional creative stimulus. Likewise, if you wish to be entirely unburdened in life, the only way to do so is to disengage entirely. But do not be deceived. This is not freedom.
