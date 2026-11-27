@@ -26706,5 +26706,21 @@
     "speaker_desc": "One of the few few leading economists who predicted the 2008 financial crisis, Gillian Tett is a columnist for the Financial Times and author of several books including Fool's Gold. Zachary Karabell is an author and columnist, writing on economics, investing, history and international relations. He has taught at several leading universities, including Harvard and Dartmouth, and is the author of twelve books. Paul Johnson is an economist currently serving as Provost of Queen's College Cambridge, having spent fourteen years as Director of the Institute for Fiscal Studies analysing tax, spending, and public policy across successive governments.",
     "subtitle": "How to spot a financial bubble",
     "status": "ok"
+  },
+  "loving-animals-eating-animals": {
+    "id": 1088,
+    "slug": "loving-animals-eating-animals",
+    "speakers": [
+      "Peter Singer",
+      "Christopher Belshaw",
+      "Mary Ann Sieghart",
+      "Peter Egan"
+    ],
+    "chairs": [
+      "Myriam François"
+    ],
+    "speaker_desc": "World-renowned moral philosopher Peter Singer, Honorary Associate in Philosophy at the Open University Christopher Belshaw, former assistant editor of The Times Mary-Ann Sieghart and British actor and longtime vegan Peter Egan debate our love for animals. Myriam Francois hosts. In association with Future Normal .",
+    "subtitle": "Can the farming industry ever be ethical?",
+    "status": "ok"
   }
 }
